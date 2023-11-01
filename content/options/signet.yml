@@ -1,0 +1,15 @@
+- id: frodo
+  en:
+    name: Frodo
+
+- id: gandalf
+  en:
+    name: Gandalf
+
+- id: aragorn
+  en:
+    name: Aragorn
+
+- id: theoden
+  en:
+    name: Theoden

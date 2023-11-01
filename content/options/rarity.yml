@@ -1,0 +1,83 @@
+- id: C
+  sets: ['1','2','3','4','5','6','7','8','10','11','12','13','15','16','17','18']
+  en:
+    name: Common
+    note: One third of a set's normal cards, released as 7 of a booster pack's 11 cards.
+
+- id: U
+  sets: ['1','2','3','4','5','6','7','8','10','11','12','13','15','16','17','18']
+  en:
+    name: Uncommon
+    note: One third of a set's normal cards, released as 3 of a booster pack's 11 cards.
+
+- id: R
+  sets: ['1','2','3','4','5','6','7','8','10','11','12','13','15','16','17','18','19']
+  en:
+    name: Rare
+    note: One third of a set's normal cards, released as 1 of a booster pack's 11 cards.
+
+- id: S
+  sets: ['11','12','13','15','17']
+  en:
+    name: Starter-only
+    note: Later sets replaced the rarity for all cards in a starter box as S instead of the (misleading) C or U they had before.
+
+- id: P
+  sets: ['0']
+  en:
+    name: Promotional
+    note: Everything from tournament prizes to DVD bonus pack-ins to Decipher store rewards.
+
+- id: R+
+  sets: ['9']
+  en:
+    name: Rare Plus
+    note: Reflections was an all-foil all-Rare set released in 18 card booster packs, which were filled with overstock from previous sets. 2 cards would be Rares, and once every 2.5 packs one card would be randomly replaced with a Rare Plus.
+
+- id: RF
+  sets: ['11','12','13','15','17','18']
+  en:
+    name: Rare Foil (Legends)
+    note: Legends cards were inserted randomly into boosters and were foil versions of certain popular rares, and were only produced during a set's initial print run.
+
+- id: O
+  sets: ['12','13','15','17','18']
+  en:
+    name: Legends Masterwork
+    note: Actually a ring symbol rather than an O, these indicate a Legends foil that contain an alternate-color template for a more striking visual difference.
+
+- id: M
+  sets: ['0','1','2','3','4','5','6','10']
+  en:
+    name: Megasized Promo
+    note: Oversized cards used for promotional purposes.
+
+- id: D
+  sets: ['0']
+  en:
+    name: DGMA Tournament Prize
+    note: Cards issued as prizes for DGMA-sanctioned events.
+
+- id: TF
+  sets: ['0']
+  en:
+    name: Tournament Foil
+    note: Overseas promos printed by international distributors as tournament prizes.
+
+- id: W
+  sets: ['0']
+  en:
+    name: World's Apart Digital
+    note: Used for cards which originated on the Lord of the Rings Online platform ran by Worlds Apart for Decipher.
+
+- id: AFD
+  sets: ['0']
+  en:
+    name: April Fool's Day
+    note: Used for a handful of joke cards.
+
+- id: SPD
+  sets: ['0']
+  en:
+    name: Saint Patrick's Day
+    note: Used for a handful of joke cards.

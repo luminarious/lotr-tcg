@@ -1,0 +1,63 @@
+- id: balrog
+  en:
+    name: Balrog
+
+- id: creature
+  en:
+    name: Creature
+
+- id: dwarf
+  en:
+    name: Dwarf
+
+- id: elf
+  en:
+    name: Elf
+
+- id: ent
+  en:
+    name: Ent
+
+- id: half-troll
+  en:
+    name: Half-troll
+
+- id: hobbit
+  en:
+    name: Hobbit
+
+- id: maia
+  en:
+    name: Maia
+
+- id: nazgul
+  en:
+    name: Nazgûl
+
+- id: orc
+  en:
+    name: Orc
+
+- id: spider
+  en:
+    name: Spider
+
+- id: tree
+  en:
+    name: Tree
+
+- id: troll
+  en:
+    name: Troll
+
+- id: uruk-hai
+  en:
+    name: Uruk-hai
+
+- id: wizard
+  en:
+    name: Wizard
+
+- id: wraith
+  en:
+    name: Wraith

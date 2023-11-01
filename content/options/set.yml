@@ -1,0 +1,98 @@
+- id: '0'
+  en:
+    name: Promo
+
+- id: '1'
+  dateReleased: 2001-11-06
+  en:
+    name: Fellowship of the Ring
+
+- id: '2'
+  dateReleased: 2002-03-06
+  en:
+    name: Mines of Moria
+
+- id: '3'
+  dateReleased: 2002-06-19
+  en:
+    name: Realms of the Elf-Lords
+
+- id: '4'
+  dateReleased: 2002-11-06
+  en:
+    name: The Two Towers
+
+- id: '5'
+  dateReleased: 2003-03-12
+  en:
+    name: Battle of Helm's Deep
+
+- id: '6'
+  dateReleased: 2003-07-02
+  en:
+    name: Ents of Fangorn
+
+- id: '7'
+  dateReleased: 2003-11-05
+  en:
+    name: Return of the King
+
+- id: '8'
+  dateReleased: 2004-03-03
+  en:
+    name: Siege of Gondor
+
+- id: '9'
+  dateReleased: 2004-05-12
+  en:
+    name: Reflections
+
+- id: '10'
+  dateReleased: 2004-07-14
+  en:
+    name: Mount Doom
+
+- id: '11'
+  dateReleased: 2004-11-03
+  en:
+    name: Shadows
+
+- id: '12'
+  dateReleased: 2005-03-18
+  en:
+    name: Black Rider
+
+- id: '13'
+  dateReleased: 2005-08-12
+  en:
+    name: Bloodlines
+
+- id: '14'
+  dateReleased: 2006-02-17
+  en:
+    name: Expanded Middle-earth
+
+- id: '15'
+  dateReleased: 2006-06-09
+  en:
+    name: The Hunters
+
+- id: '16'
+  dateReleased: 2006-08-26
+  en:
+    name: The Wraith Collection
+
+- id: '17'
+  dateReleased: 2007-03-01
+  en:
+    name: Rise of Saruman
+
+- id: '18'
+  dateReleased: 2007-05-01
+  en:
+    name: Treachery & Deceit
+
+- id: '19'
+  dateReleased: 2007-06-01
+  en:
+    name: Ages End

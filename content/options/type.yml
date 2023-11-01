@@ -1,0 +1,35 @@
+- id: site
+  en:
+    name: Site
+
+- id: oneRing
+  en:
+    name: The One Ring
+
+- id: companion
+  en:
+    name: Companion
+
+- id: ally
+  en:
+    name: Ally
+
+- id: minion
+  en:
+    name: Minion
+
+- id: artifact
+  en:
+    name: Artifact
+
+- id: condition
+  en:
+    name: Condition
+
+- id: event
+  en:
+    name: Event
+
+- id: possession
+  en:
+    name: Possession

@@ -1,0 +1,67 @@
+- id: support
+  en:
+    name: Support Area
+
+- id: armor
+  en:
+    name: Armor
+
+- id: brooch
+  en:
+    name: Brooch
+
+- id: box
+  en:
+    name: Box
+
+- id: bracers
+  en:
+    name: Bracers
+
+- id: cloak
+  en:
+    name: Cloak
+
+- id: gauntlets
+  en:
+    name: Gauntlets
+
+- id: handWeapon
+  en:
+    name: Hand Weapon
+
+- id: helm
+  en:
+    name: Helm
+
+- id: mount
+  en:
+    name: Mount
+
+- id: palantir
+  en:
+    name: Palantir
+
+- id: phial
+  en:
+    name: Phial
+
+- id: pipe
+  en:
+    name: Pipe
+
+- id: rangedWeapon
+  en:
+    name: Ranged Weapon
+
+- id: ring
+  en:
+    name: Ring
+
+- id: shield
+  en:
+    name: Shield
+
+- id: staff
+  en:
+    name: Staff

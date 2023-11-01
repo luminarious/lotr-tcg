@@ -1,0 +1,81 @@
+- id: dwarven
+  alignment: light
+  en:
+    name: Dwarven
+
+- id: elven
+  alignment: light
+  en:
+    name: Elven
+
+- id: gandalf
+  alignment: light
+  en:
+    name: Gandalf
+
+- id: gollum
+  alignment:
+    - light
+    - dark
+  en:
+    name: Gollum
+
+- id: gondor
+  alignment: light
+  en:
+    name: Gondor
+
+- id: isengard
+  alignment: dark
+  en:
+    name: Isengard
+
+- id: moria
+  alignment: dark
+  en:
+    name: Moria
+
+- id: wraith
+  alignment: dark
+  en:
+    name: Wraith
+
+- id: rohan
+  alignment: light
+  en:
+    name: Rohan
+
+- id: sauron
+  alignment: dark
+  en:
+    name: Sauron
+
+- id: shire
+  alignment: light
+  en:
+    name: Shire
+
+- id: urukhai
+  alignment: dark
+  en:
+    name: Uruk-hai
+
+- id: dunland
+  alignment: dark
+  en:
+    name: Dunland
+
+- id: raider
+  alignment: dark
+  en:
+    name: Raider
+
+- id: men
+  alignment: dark
+  en:
+    name: Men
+
+- id: orc
+  alignment: dark
+  en:
+    name: Orc
