@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '38'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Nertëa
+  subtitle: Dark Horseman
+  text: |-
+    **Fierce.**  
+    When you play Úlairë Nertëa, name a race. The Free Peoples player cannot assign Úlairë Nertëa to skirmish a companion of the named race.
+  lore: Some accepted Sauron’s gift for glory and a notion of great deeds.

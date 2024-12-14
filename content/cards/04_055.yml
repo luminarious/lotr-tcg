@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '55'
+unique: true
+culture: Dwarven
+type: Event
+class: Regroup
+cost: 2
+en:
+  title: Restless Axe
+  subtitle: ''
+  text: '**Regroup:** Exert a Dwarf to shuffle a :dwarven: condition (and all cards stacked on it) into your draw deck. Exert a minion for each card shuffled into your draw deck. '
+  lore: ‘Give me a row of orc-necks and room to swing and all weariness will fall from me!’
+de:
+  title: Ruhelose Axt
+  subtitle: ''
+  text: '**Sammeln:** Strenge einen Zwerg an, um einen :dwarven: Effekt (und alle darauf gelagerten Karten) in dein Spieldeck zu mischen. Strenge einen Diener für jede so in dein Spieldeck gemischte Karte an.'
+  lore: Gib mir eine Reihe Orknacken und Platz zum Ausholen, und alle Müdigkeit wird von mir abfallen!
+fr:
+  title: Hache Fébrile
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez un Nain pour remélanger une situation :dwarven: (et toutes les cartes empilées sur celle-ci) dans votre pioche. Affaiblissez un séide pour chaque carte remélangée dans votre pioche.'
+  lore: 'Qu''on me donne une rangée de têtes d''Orques et la place de me balancer, et toute fatigue m''abandonnera!” '
+it:
+  title: Ascia Instancabile
+  subtitle: ''
+  text: '**Raccolta:** Sforza un Nano per mescolare una condizione :dwarven: (e tutte le carte impilate sopra) nel tuo mazzo di gioco. Sforza un servitore per ogni carta mescolata nel tuo mazzo di gioco.'
+  lore: ‘Datemi una fila di Orchi e un po’ di spazio per prendere lo slancio, ed ogni stanchezza scomparirà dalle mie membra!’
+es:
+  title: Hacha Incansable
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza un Enano para mezclar una condición :dwarven: (y todas las cartas apiladas en ella) en tu mazo de robar. Esfuerza un siervo por cada carta mezclada en tu mazo de robar.'
+  lore: ¡Dadme una hilera de cabezas de Orcos y espacio suficiente para blandir el hacha y todo mi cansancio desaparecerá!

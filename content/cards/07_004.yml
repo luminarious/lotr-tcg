@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '4'
+unique: true
+culture: Dwarven
+type: Event
+class: Fellowship
+cost: 2
+en:
+  title: Calculated Risk
+  subtitle: ''
+  text: Spot a Dwarf and add a threat to draw 3 cards.
+  lore: ‘Beyond the eyes of Dwarves are such fortellings….’
+de:
+  title: Kalkuliertes Risiko
+  subtitle: ''
+  text: Entdecke einen Zwerg und lasse eine Bedrohung entstehen, um 3 Karten zu ziehen.
+  lore: Die Augen der Zwerge vermögen nicht so weit vorauszusehen….

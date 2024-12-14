@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '357'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Right
+en:
+  title: King's Room
+  subtitle: ''
+  text: 'When the fellowship moves to King’s Room without a :rohan: companion, each unbound companion must exert. '
+  lore: ''
+de:
+  title: Königskammer
+  subtitle: ''
+  text: 'Wenn die Gemeinschaft die Königskammer ohne einen :rohan: Gefährten betritt, muss jeder nicht-verbundene Gefährte angestrengt werden.'
+  lore: ''
+fr:
+  title: La Salle du Roi
+  subtitle: ''
+  text: Lorsque la compagnie se déplace vers la Salle du Roi sans un compagnon :rohan:, chaque compagnon dissocié doit s’affaiblir.
+  lore: ''
+it:
+  title: Stanza del Re
+  subtitle: ''
+  text: Quando la compagnia si muove da Sala del Re senza un compagno :rohan:, ogni compagno Non Legato deve sforzarsi.
+  lore: ''
+es:
+  title: Los Aposentos Del Rey
+  subtitle: ''
+  text: Cuando la comunidad se mueve a Los Aposentos Del Rey sin un compañero :rohan:, cada compañero no-vinculado debe esforzarse.
+  lore: ''

@@ -1,0 +1,18 @@
+set: '8'
+rarity: U
+number: '69'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Black Dart
+  subtitle: ''
+  text: '**Archery:** Spot your enduring or mounted Nazgûl to transfer this condition from your support area to an unbound companion. Discard a mount borne by that companion. Bearer cannot heal or bear mounts.'
+  lore: ''
+de:
+  title: Ein schwarzer Pfeil
+  subtitle: ''
+  text: '**Fernkampf:** Entdecke einen deiner zähen oder berittenen Nazgûl, um diesen Effekt aus deinem Unterstützungsbereich auf einen nicht-verbundenen Gefährten zu verschieben. Lege ein Reittier von diesem Gefährten ab. Der Träger kann nicht geheilt werden.'
+  lore: ''

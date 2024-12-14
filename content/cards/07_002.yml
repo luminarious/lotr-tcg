@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '2'
+unique: true
+culture: ''
+type: Ring
+en:
+  title: The One Ring
+  subtitle: Such a Weight to Carry
+  text: |-
+    **Maneuver:** Add a burden to wear The One Ring until the regroup phase.   
+    While wearing The One Ring, each time the Ring-bearer is about to take a wound, add a burden instead.
+  lore: ''
+de:
+  title: Der Eine Ring
+  subtitle: Solch eine Last
+  text: '**Manöver:** Lege eine Lastmarke auf den Ringträger, um den Einen Ring bis zur Sammelphase zu benutzen. Solange er den Ring benutzt, erhält der Ringträger für jede Wunde, die ihm zugefügt wird, statt dessen 1 Lastmarke.'
+  lore: …sie alle zu finden…

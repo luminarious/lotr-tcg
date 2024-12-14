@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '103'
+unique: true
+culture: Gondor
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Elendil's Valor
+  subtitle: ''
+  text: '**Maneuver:** Make a :gondor: companion **defender +1** until the regroup phase.'
+  lore: ‘In panoply of ancient kings, / in chainéd rings he armoured him; / his shining shield was scored with runes / to ward all wounds and harm from him….’
+de:
+  title: Elendils Mut
+  subtitle: ''
+  text: '**Manöver:** Mache einen :gondor: Gefährten **Verteidiger +1** bis zur Sammelphase.'
+  lore: Dem alten Königsbrauch Gemäß / Legte er Helm und Rüstung an, / Grub Runen in den Silberschild / Zum Schutze gegen Harm und Not…
+fr:
+  title: La Vaillance d'Elendil
+  subtitle: ''
+  text: '**Manœuvre :** Rendez un compagnon :gondor: **défenseur +1** jusqu’à la phase de ralliement.'
+  lore: ‘De l'armure des anciens rois, / D'anneaux attachés par des chaînes il s'arma ; / Son brillant bouclier de runes était gravé / Pour détourner de lui toutes blessures et tout mal….’
+it:
+  title: Valore di Elendil
+  subtitle: ''
+  text: '**Manovra:** Rendi un compagno :gondor: **Difensore +1** fino alla fase di raccolta.'
+  lore: ‘Un'armatura dei re antichi, / in maglia di anelli intrecciati; / Sullo scudo intagliate le rune / Contro tutti i pericoli e i mali….’
+es:
+  title: El Valor de Elendil
+  subtitle: ''
+  text: '**Maniobra:** Da a un compañero :gondor: **defensor +1** hasta la fase de reagrupación.'
+  lore: De una panoplia de antiguos reyes / obtuvo anillos encadenados, / un escudo con letras rúnicas / para evitar desgracias y heridas…

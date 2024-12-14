@@ -1,0 +1,18 @@
+set: '8'
+rarity: U
+number: '4'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Counts But One
+  subtitle: ''
+  text: If Gimli is not assigned to a skirmish, add a threat to have him replace an unbound companion in a skirmish.
+  lore: ‘…no matter how big.’
+de:
+  title: Der zählt auch nur als einer
+  subtitle: ''
+  text: Lasse eine Bedrohung entstehen, wenn Gimli keinem Kampf zugewiesen ist, damit er in einem Kampf einen nicht-verbundenen Gefährten ersetzt.
+  lore: … egal wie groß er ist.

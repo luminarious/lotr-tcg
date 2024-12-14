@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '54'
+unique: true
+culture: Gollum
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Clever Hobbits
+  subtitle: ''
+  text: 'Discard any number of :gollum: conditions. For each condition discarded, make Sméagol strength +3 and **damage +1**.'
+  lore: ‘Clever hobbits to climb so high, very clever hobbits!’
+de:
+  title: Kluge Hobbits
+  subtitle: ''
+  text: 'Lege eine beliebige Anzahl von :gollum: Effekten ab. Für jeden so abgelegten Effekt, erhält Sméagol Stärke +3 und **Schaden +1**.'
+  lore: Kluge Hobbits, dass sie so hoch klettern, sehr kluge Hobbits.

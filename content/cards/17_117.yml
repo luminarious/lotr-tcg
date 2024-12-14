@@ -1,0 +1,15 @@
+set: '17'
+rarity: U
+number: '117'
+unique: true
+culture: Uruk-hai
+type: Possession
+class: Hand Weapon
+cost: 0
+str: '+1'
+vit: '+1'
+en:
+  title: Spear of the White Hand
+  subtitle: ''
+  text: 'Bearer must be an :urukhai: Uruk-hai.'
+  lore: We will drive the machine of war with the sword and the spear…

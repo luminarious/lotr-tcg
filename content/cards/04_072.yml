@@ -1,0 +1,40 @@
+set: '4'
+rarity: R
+number: '72'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Killing Field
+  subtitle: ''
+  text: |-
+    To play, spot 3 Elves.   
+    Each wounded minion is prevented from being **fierce.**   
+    Discard this condition during the regroup phase. 
+  lore: The courage of the defenders blunted the Uruk assaults.
+de:
+  title: Blutgetränkter Boden
+  subtitle: ''
+  text: Entdecke 3 Elbengefährten, um diese Karte in deinen Unterstützungsbereich zu spielen. Verwundete Diener können nicht **Erbittert** sein. Dieser Effekt wird in der Sammelphase abgelegt.
+  lore: Durch den Mut der Verteidiger gerieten die Angriffe der Uruks mehr und mehr ins Wanken.
+fr:
+  title: Champ Meutrier
+  subtitle: ''
+  text: |-
+    Pour jouer, désignez 3 Elfes. Chaque séide blessé est empêché d’être **acharné.**  
+    Défaussez cette situation durant la phase de ralliement.
+  lore: Le courage des défenseurs émoussa les assauts Ourouks.
+it:
+  title: Luogo di Morte
+  subtitle: ''
+  text: |-
+    Per giocarla, avvista 3 Elfi. Ogni servitore ferito non può essere **Feroce.**  
+    Scarta questa condizione durante la fase di raccolta.
+  lore: Il coraggio dei difensori smorzò gli assalti degli Uruk.
+es:
+  title: Campo De Matanza
+  subtitle: ''
+  text: Para jugarla, avista 3 Elfos. Cada siervo herido no puede ser **fiero.** Descarta esta condición durante tu fase de reagrupación.
+  lore: El coraje de los defensores acabó con los asaltos de los Uruks.

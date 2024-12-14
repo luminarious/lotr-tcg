@@ -1,0 +1,15 @@
+set: '18'
+rarity: R
+number: '14'
+unique: true
+culture: Elven
+type: Possession
+cost: 2
+en:
+  title: Lembas Bread
+  subtitle: ''
+  text: |-
+    To play, spot 2 :elven: companions.  
+    Bearer must be a companion.  
+    **Regroup:** Discard this possession from play to reconcile your hand.
+  lore: Sam thought that it tasted far better, somehow, than it had for a good while…

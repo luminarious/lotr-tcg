@@ -1,0 +1,29 @@
+set: '0'
+rarity: P
+number: '107'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '5'
+en:
+  title: Guard of the White Tree
+  subtitle: ''
+  text: |-
+    **Knight.  
+    Skirmish:** Discard a :gondor: condition from your support area to make this companion strength +2.
+  lore: |-
+    Online Bloodlines Release Event  
+    June 2005
+de:
+  title: Wächter des Weißen Baumes
+  subtitle: ''
+  text: |-
+    **Ritter.  
+    Kampf:** Lege einen :gondor: Effekt aus deinem Unterstützungsbereich ab, um diesem Gefährten Stärke +2 zu geben.
+  lore: |-
+    Online Bloodlines Release Event  
+    June 2005

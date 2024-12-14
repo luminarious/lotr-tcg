@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '22'
+unique: true
+culture: Dwarven
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Mithril Shaft
+  subtitle: ''
+  text: '**Maneuver:** Exert a Dwarf to discard cards from the top of your draw deck until you choose to stop (limit 5). Add :twilight1: for each card discarded in this way. Take the last card discarded into hand.'
+  lore: ‘Mithril! All folk desired it.’
+de:
+  title: Mithrilader
+  subtitle: ''
+  text: '**Manöver:** Strenge einen Zwerg an, um solange die obersten Karten von deinem Spieldeck (maximal 5) abzulegen, wie du möchtest. Erhöhe den Einfluss um :twilight1: für jede abgelegte Karte. Die letzte Karte, die du ablegst, nimmst du auf deine Hand.'
+  lore: Mithril! Jedermann wollte es.
+fr:
+  title: Puits de Mithril
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Nain pour défausser des cartes du dessus de votre pioche jusqu’à ce que vous décidiez d’arrêter (limité à 5). Ajoutez :twilight1: pour chaque carte défaussée de cette manière. Prenez la dernière carte défaussée en main.'
+  lore: ‘Le mithril ! Il faisait l'objet du désir de tous.’
+it:
+  title: Vena di Mithril
+  subtitle: ''
+  text: '**Manovra:** Sforza un Nano per scartare la carta in cima al tuo mazzo di gioco finché non scegli di fermarti (limite 5). Aggiungi :twilight1: per ogni carta scartata in questo modo. Aggiungi l’ultima carta scartata alla mano.'
+  lore: ‘Mithril! Tutti i popoli lo desideravano.’
+es:
+  title: Veta de Mithril
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un Enano para descartar cartas de tu mazo de robar hasta que decidas parar (límite 5). Añade :twilight1: por cada carta descartada de este modo. Pon la última carta descartada en tu mano.'
+  lore: ¡Mithril! Todo el mundo lo deseaba.

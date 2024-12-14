@@ -1,0 +1,21 @@
+set: '7'
+rarity: U
+number: '282'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 10
+str: '21'
+vit: '5'
+site: 6
+en:
+  title: Host of Udûn
+  subtitle: ''
+  text: When you play Host of Udûn, you may remove X threats to make its twilight cost –X.
+  lore: ''
+de:
+  title: Udûn-Heer
+  subtitle: ''
+  text: Wenn du das Udûn-Heer spielst, darfst du X Bedrohungen entfernen, um seine Zwielichtkosten um X zu reduzieren.
+  lore: Alle Torflügel des Morannon sprangen weit auf. Heraus strömte ein großes Heer, so rasch wie wirbelndes Wasser, wenn eine Schleuse geöffnet wird.

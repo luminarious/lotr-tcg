@@ -1,0 +1,25 @@
+set: '10'
+rarity: C
+number: '49'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Southron Fanatic
+  subtitle: ''
+  text: |-
+    **Southron.**   
+    Each time a Man is assigned to skirmish this minion, wound that Man. 
+  lore: Stirred by the Dark Lord, the fullness of Southron cruelty was leveled at the people of Gondor.
+de:
+  title: Südland Fanatiker
+  subtitle: ''
+  text: |-
+    **Südländer.**   
+    Jedes Mal, wenn ein Mensch diesem Diener zugewiesen wird, verwunde diesen Menschen.
+  lore: Vom dunklen Herrscher angestachelt, richtete sich die ganze Grausamkeit der Südländer auf die Menschen Gondors.

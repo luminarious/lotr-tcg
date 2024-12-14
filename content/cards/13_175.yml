@@ -1,0 +1,25 @@
+set: '13'
+rarity: C
+number: '175'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '7'
+vit: '3'
+site: 5
+en:
+  title: Uruk Tactician
+  subtitle: ''
+  text: |-
+    **Damage +1.  
+    Skirmish:** Exert this minion to make a companion skirmishing an :urukhai: lurker minion strength –2.
+  lore: Select warriors had been tasked with advancing the assault beyond the Deeping Wall.
+de:
+  title: Uruk Taktiker
+  subtitle: ''
+  text: |-
+    **Schaden +1.  
+    Kampf:** Strenge diesen Diener an, um einem Gefährten, der gegen einen :urukhai: Schleicher kämpft, Stärke -2 zu geben.
+  lore: Ausgewählte Kämpfer sollten den Kampf hinter dem Klammwall vorantreiben.

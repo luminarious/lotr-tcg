@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '360'
+unique: true
+culture: ''
+type: Site
+cost: 9
+siteArrow: Left
+en:
+  title: Dagorlad
+  subtitle: ''
+  text: '**Plains.** When the fellowship moves to this site, add 3 threats.'
+  lore: ''
+de:
+  title: Dargoland
+  subtitle: ''
+  text: '**Ebene.** Lasse 3 Bedrohungen entstehen, wenn die Gemeinschaft diesen Ort erreicht.'
+  lore: ''

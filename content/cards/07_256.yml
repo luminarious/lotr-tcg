@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '256'
+unique: true
+culture: Rohan
+type: Event
+class: Regroup
+cost: 1
+en:
+  title: They Sang as They Slew
+  subtitle: ''
+  text: Exert X mounted companions to wound X minions.
+  lore: …for the joy of battle was on them, and the sound of their singing that was fair and terrible came even to the City.
+de:
+  title: Singend in den Kampf
+  subtitle: ''
+  text: Strenge X berittene Gefährten an, um X Diener zu verwunden.
+  lore: …denn Kampfeslust war über sie gekommen, und ihr Gesang , der schön und schrecklich war, schallte sogar bis zur Stadt.

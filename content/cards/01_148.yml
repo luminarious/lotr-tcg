@@ -1,0 +1,44 @@
+set: '1'
+rarity: R
+number: '148'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Uruk Lieutenant
+  subtitle: ''
+  text: |-
+    **Damage +1**.   
+    This minion is strength +1 for each other Uruk-hai you can spot.
+  lore: Uruk-hai leaders gain savagery from their following hordes to maintain the rule of the strong.
+de:
+  title: Uruk Leutnant
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Der Uruk Leutnant erhält Stärke +1 für jeden anderen Uruk-hai, den du entdecken kannst.
+  lore: Uruk-hai Anführer beziehen ihre Wildheit von ihren Untergebenen und bewahren so das Recht des Stärkeren.
+fr:
+  title: Lieutenant Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    Ce séide a +1 en force pour chaque autre Ourouk-Haï que vous pouvez désigner.
+  lore: Les chefs Ourouk-Haï gagnent en férocité sur leurs hordes de suivants pour maintenir la règle du plus fort.
+it:
+  title: Luogotenente Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    Questo servitore aggiunge +1 alla forza per ogni altro Uruk-hai che puoi avvistare.
+  lore: I comandanti Uruk-hai ricavano ferocia dalle loro fedeli orde per mantenere la legge del più forte.
+es:
+  title: Lugarteniente Uruk
+  subtitle: ''
+  text: '**Daño +1.** Este siervo es fuerza +1 por cada otro Uruk-hai que puedas avistar.'
+  lore: Los Lideres Uruk-hai se aprovechan del salvajismo de sus hordas de seguidores para mantener la ley del mas fuerte.

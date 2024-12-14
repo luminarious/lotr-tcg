@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '25'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Standing Tall
+  subtitle: ''
+  text: '**Skirmish:** Discard this condition from play to make a minion skirmishing an Elf strength –1 for each of the following that is true: it is skirmishing a companion who has resistance 4 or more; it is wounded; you can spot an Elf archer; the fellowship is at a forest site.'
+  lore: ‘Yrch,’ said Legolas, falling into his own tongue.
+de:
+  title: Aufrecht
+  subtitle: ''
+  text: '**Kampf:** Lege diesen Effekt ab, um einem Diener, der gegen einen Elben kämpft, für jede folgende Bedingung, die gültig ist, Stärke -1 zu geben: er kämpft gegen einen Gefährten mit Resistenz 4 oder mehr; er ist verwundet; du kannst einen Elbenbogenschützen entdecken; die Gemeinschaft befindet sich in einem Wald.'
+  lore: ''

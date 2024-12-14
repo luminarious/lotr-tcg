@@ -1,0 +1,21 @@
+set: '12'
+rarity: S
+number: '113'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+res: '6'
+en:
+  title: Éored Warrior
+  subtitle: ''
+  text: While this companion is at a battleground or plains site, he is strength +3.
+  lore: ‘…suspecting what I most fear, a league between Orthanc and the Dark Tower, I led forth my éored, men of my own household….’
+de:
+  title: Krieger der Éored
+  subtitle: ''
+  text: Dieser Gefährte erhält Stärke +3, solange er sich auf einem Schlachtfeld oder einer Ebene befindet.
+  lore: … da ich argwöhnte, was ich am meisten fürchte, nämlich ein Bündnis zwischen Orthanc und dem Dunklen Turm, zog ich mit meinen Éored, den Angehörigen meiner eigenen Hausmacht, aus….

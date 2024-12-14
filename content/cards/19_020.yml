@@ -1,0 +1,20 @@
+set: '19'
+rarity: P
+number: '20'
+unique: true
+culture: Moria
+type: Minion
+race: Creature
+cost: 3
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Strong Tentacle
+  subtitle: ''
+  text: |-
+    **Tentacle.**  
+    This minion cannot bear possessions.  
+    Discard this minion from play if not at a marsh.  
+    This minion is strength +1 for each tentacle you spot.
+  lore: One came wriggling over the threshold…

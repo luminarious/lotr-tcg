@@ -1,0 +1,16 @@
+set: '14'
+rarity: R
+number: '12'
+unique: true
+culture: Orc
+type: Minion
+race: Half-troll
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Half-troll of Far Harad
+  subtitle: ''
+  text: 'At the start of each assignment phase, if you can spot more companions than minions, you may remove :twilight2: to play an :orc: Orc from your discard pile.'
+  lore: …bred for battle in the southern reaches ofHaradwaith….

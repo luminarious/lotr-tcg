@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '125'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Isengard Underling
+  subtitle: ''
+  text: 'When you play this minion, you may take an :orc: event from your discard pile into hand.'
+  lore: Saruman’s workers would exploit any resource to prepare for the coming battle.
+de:
+  title: Isengart Untertan
+  subtitle: ''
+  text: 'Wenn du diesen Diener spielst, darfst du ein :orc: Ereignis aus deinem Ablagestapel wieder auf deine Hand nehmen.'
+  lore: Für die Schlacht würden Sarumans Arbeiter alles ausbeuten.

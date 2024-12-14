@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '331'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Left
+en:
+  title: Ettenmoors
+  subtitle: ''
+  text: '**Plains.** **Skirmish:** Exert your companion or minion to make that character strength +2.'
+  lore: ''
+de:
+  title: Ettenöden
+  subtitle: ''
+  text: '**Ebene.** **Kampf** Strenge einen Gefährten oder Diener an, um diesem Charakter Stärke +2 zu geben.'
+  lore: ''
+fr:
+  title: Landes d'Etten
+  subtitle: ''
+  text: '**Plaines.** **Combat :** Affaiblissez un compagnon ou un séide pour donner à ce personnage +2 en force.'
+  lore: ''
+it:
+  title: Erenbrulli
+  subtitle: ''
+  text: '**Pianure.** **Schermaglia:** Sforza un compagno o un servitore per aggiungere +2 alla forza di quel personaggio.'
+  lore: ''
+es:
+  title: Landas de Etten
+  subtitle: ''
+  text: '**Llanura.** **Escaramuza:** Esfuerza un compañero o siervo para que ese personaje sea fuerza +2.'
+  lore: ''

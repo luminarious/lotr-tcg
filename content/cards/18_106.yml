@@ -1,0 +1,15 @@
+set: '18'
+rarity: C
+number: '106'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: A Dragon's Tale
+  subtitle: ''
+  text: |-
+    **Tale.** To play, spot a Hobbit.  
+    **Maneuver:** Discard a tale from play to choose a Shadow player who must exert one of his or her minions.
+  lore: If you're referring to the incident with the dragon, I was barely involved. All I did was give your uncle a little nudge out of the door.

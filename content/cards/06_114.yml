@@ -1,0 +1,21 @@
+set: '6'
+rarity: R
+number: '114'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+signet: Signet_Aragorn
+en:
+  title: Pippin
+  subtitle: Hastiest of All
+  text: '**Regroup:** Discard Pippin to choose a Shadow player who must wound one of his or her minions.'
+  lore: '‘By root and twig, but this is a strange business: up sprout a little folk that are not in the old lists….’'
+it:
+  title: Pipino
+  subtitle: Il Più Frettoloso di Tutti
+  text: '**Raccolta:** Scarta Pipino per scegliere un giocatore Ombra che deve ferire uno dei suoi servitori.'
+  lore: ‘Ma per ramo e radice, è davvero una strana faccenda! Salta fuori della piccola gente che non è nemmeno elencata nelle vecchie liste….’

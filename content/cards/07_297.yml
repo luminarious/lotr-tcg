@@ -1,0 +1,36 @@
+set: '7'
+rarity: C
+number: '297'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '2'
+site: 6
+en:
+  title: Orc Butcher
+  subtitle: ''
+  text: 'For each :sauron: condition you can spot, this minion is strength +1. '
+  lore: ‘And yet we see that Sauron can torture and destroy the very hills.’
+de:
+  title: Ork Schlächter
+  subtitle: ''
+  text: 'Für jeden :sauron: Effekt, den du entdecken kannst, erhält dieser Diener Stärke +1.'
+  lore: ''
+fr:
+  title: Boucher Orque
+  subtitle: ''
+  text: 'Pour chaque situation :sauron: que vous pouvez désigner, ce séide a +1 en force.'
+  lore: 'Et pourtant on voit que Sauron est capable de torturer et de détruire jusqu''aux collines.” '
+it:
+  title: Orco Macellaio
+  subtitle: ''
+  text: 'Per ogni condizione :sauron: che puoi avvistare, aggiungi +1 alla forza di questo servitore.'
+  lore: ‘Noi tuttavia vediamo che Sauron può torturare ed annientare la terra stessa.’
+es:
+  title: Carnicero Orco
+  subtitle: ''
+  text: 'Por cada condición :sauron: que puedas avistar, este siervo es fuerza +1.'
+  lore: Y todavía vemos que Sauron puede torturar y destruir hasta las mismas colinas.

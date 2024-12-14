@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '359'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Right
+en:
+  title: Wizard's Vale
+  subtitle: ''
+  text: 'At the start of the first Shadow phase, if the twilight pool has fewer than 9 twilight tokens, add :twilight4: (limit once per turn). '
+  lore: ''
+de:
+  title: Das Zauberer-Tal
+  subtitle: ''
+  text: Erhöhe zu Beginn der ersten Schattenphase den Einfluss um :twilight4:, wenn er weniger als 9 beträgt (maximal einmal pro Spielzug).
+  lore: ''
+fr:
+  title: La Vallée du Magicien
+  subtitle: ''
+  text: 'Au début de la première phase de l’Ombre, s’il y a moins de · dans la réserve crépusculaire, ajoutez :twilight4: (limite d’une fois par tour).'
+  lore: '8'
+it:
+  title: Valle dello Stregone
+  subtitle: ''
+  text: All’inizio di ogni fase Ombra, se la zona del crepuscolo ha meno di 9 segnalini crepuscolo, aggiungi :twilight4:.
+  lore: ''
+es:
+  title: Valle Del Mago
+  subtitle: ''
+  text: 'Al principio de la primera fase de Sombra, si el fondo de penumbra tiene menos de 9 contadores, añade :twilight4: (límite una vez por turno).'
+  lore: ''

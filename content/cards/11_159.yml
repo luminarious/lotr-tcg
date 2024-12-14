@@ -1,0 +1,16 @@
+set: '11'
+rarity: U
+number: '159'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '6'
+en:
+  title: Théoden
+  subtitle: King of the Eorlingas
+  text: 'While you can spot a :gandalf: companion, Théoden gains **muster.** (At the start of the regroup phase, you may discard a card from hand to draw a card.) While Théoden is at a battleground or plains site each :rohan: Man is strength +1. '
+  lore: ‘Let all my folk get ready!’

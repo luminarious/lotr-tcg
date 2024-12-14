@@ -1,0 +1,29 @@
+set: '5'
+rarity: R
+number: '82'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Gamling
+  subtitle: Warrior of Rohan
+  text: |-
+    **Valiant.** To play, spot a :rohan: Man.   
+    **Skirmish:** Play a :rohan: possession on Gamling to make him strength +2 and **damage +1.**
+  lore: He was one of Théoden’s most trusted lieutenants.
+fr:
+  title: Gamelin
+  subtitle: Guerrier de Rohan
+  text: |-
+    Vaillant. Pour jouer, désignez un Homme :rohan:.   
+    **Combat :** Jouez une possession :rohan: sur Gamelin pour lui donner +2 en force et des **dégâts +1**.
+  lore: Il était l'un des lieutenants les plus fiables de Théoden.
+es:
+  title: Gamelín
+  subtitle: Guerrero de Rohan
+  text: '**Valiente.** Para jugarlo, avista un Hombre [. **Escaramuza:** Juega una posesión :rohan: en Gamelín para darle fuerza +2 y **Daño +1.**'
+  lore: Él era uno de los lugartenientes en los que más confiaba Théoden.

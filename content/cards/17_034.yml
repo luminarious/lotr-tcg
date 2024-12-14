@@ -1,0 +1,15 @@
+set: '17'
+rarity: U
+number: '34'
+unique: true
+culture: Gondor
+type: Condition
+cost: 1
+en:
+  title: Spirit of the White Tree
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: companion.  
+    An opponent can not play skirmish events or use skirmish special abilities during skirmishes involving bearer.  
+    Each time a Shadow player adds a burden, discard this condition.
+  lore: A blossom of hope.

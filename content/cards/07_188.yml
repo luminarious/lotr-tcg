@@ -1,0 +1,25 @@
+set: '7'
+rarity: R
+number: '188'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Morgul Brute
+  subtitle: ''
+  text: |-
+    When you play this minion, you may spot a Nazgûl to add a burden. The Free Peoples player may wound the Ring–bearer to prevent this.   
+    **Skirmish:** Remove a burden to make this minion strength +3.
+  lore: ''
+de:
+  title: Morgul Schläger
+  subtitle: ''
+  text: |-
+    Wenn du diesen Diener spielst, darfst du einen Nazgûl entdecken, um eine Lastmarke auf den Ringträger zu legen. Der Freie Völker Spieler darf den Ringträger verwunden, um dies zu verhindern.   
+    **Kampf:** Entferne eine Lastmarke, um diesem Diener Stärke +3 zu geben.
+  lore: ''

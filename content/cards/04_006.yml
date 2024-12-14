@@ -1,0 +1,35 @@
+set: '4'
+rarity: R
+number: '6'
+unique: true
+culture: Dunland
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Constantly Threatening
+  subtitle: ''
+  text: |-
+
+    **Shadow:** If the fellowship has moved more than once this turn, remove :twilight2: to play a :dunland: Man from your discard pile. 
+  lore: The men of Dunland have hated the Rohirrim for many years.
+de:
+  title: Anhaltende Bedrohung
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Schatten:** Verringere den Einfluss um :twilight2:, wenn sich die Gemeinschaft in diesem Spielzug mehr als einmal bewegt hat, um einen :dunland: Menschen aus deinem Ablagestapel zu spielen.'
+  lore: Die Menschen aus Dunland hassten die Rohirrim schon seit vielen Jahren.
+fr:
+  title: Une Menace Constante
+  subtitle: ''
+  text: 'Ombre : Si la compagnie s’est déplacée plus d’une fois pendant ce tour, retirez :twilight2: pour jouer un Homme :dunland: de votre pile de défausse.'
+  lore: La haine de Ceux du Pays de Dun pour les Rohirrim perdure depuis longtemps.
+it:
+  title: Minaccia Costante
+  subtitle: ''
+  text: '**Ombra:** Se la compagnia si è mossa più di una volta in questo turno, rimuovi :twilight2: per giocare un Uomo :dunland: dalla tua pila degli scarti.'
+  lore: Gli uomini del Dunland hanno in odio i Rohirrim da molti anni.
+es:
+  title: Amenazando Constantemente
+  subtitle: ''
+  text: '**Sombra:** Si la comunidad se ha movido más de una vez este turno, quita :twilight2: para jugar un Hombre :dunland: de tu pila de descartes.'
+  lore: Los hombres de las Tierras Pardas han odiado a los Rohirrim por largos años.

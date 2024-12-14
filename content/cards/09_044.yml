@@ -1,0 +1,25 @@
+set: '9'
+rarity: R
+number: '44'
+unique: true
+culture: Wraith
+type: Artifact
+class: Ring
+cost: 0
+vit: '+1'
+en:
+  title: Ring of Rancor
+  subtitle: ''
+  text: |-
+    Bearer must be a Nazgûl.   
+    **Maneuver:** Remove a burden to heal each Nazgûl.   
+    **Response:** If a player reconciles, return bearer to his owner’s hand. 
+  lore: '‘So it is now: the Nine he has gathered to himself….’'
+de:
+  title: Der Ring des Hasses
+  subtitle: ''
+  text: |-
+    Muss auf einen Nazgûl gespielt werden.   
+    **Manöver:** Entferne eine Lastmarke, um jeden Nazgûl zu heilen.   
+    **Reaktion:** Nimm den Träger wieder auf die Hand, wenn ein Spieler seine Handkarten wieder auffüllt.
+  lore: 'So steht es also nun: die Neun hat er für sich gewonnen…'

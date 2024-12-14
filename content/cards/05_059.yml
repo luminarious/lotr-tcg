@@ -1,0 +1,45 @@
+set: '5'
+rarity: R
+number: '59'
+unique: true
+culture: Isengard
+type: Possession
+class: Mount
+cost: 5
+str: '+5'
+vit: '+3'
+en:
+  title: Sharku's Warg
+  subtitle: ''
+  text: |-
+    Bearer must be a **warg-rider.**  
+    If bearer is Sharku, he is **damage +1.**  
+    **Response:** If a skirmish special ability is used in a skirmish involving bearer, exert bearer to cancel that action.
+  lore: The warg-captain picked the fastest and strongest mount.
+de:
+  title: Sharkus Warg
+  subtitle: ''
+  text: Muss auf einen Wargreiter gespielt werden. Wenn Sharku der Reiter ist, erhält er **Schaden +1**. **Reaktion:** Wenn eine spezielle Kampffähigkeit in einem Kampf eingesetzt wird, an dem der Reiter beteiligt ist, strenge ihn an, um dies zu verhindern.
+  lore: Der Anführer der Wargreiter wählte das schnellste und stärkste Reittier für sich aus.
+fr:
+  title: Le Ouargue de Sharkou
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un chevaucheur de ouargue.   
+    Si le détenteur est Sharkou, il inflige des **dégâts +1**.   
+    **Réponse :** Si une capacité spéciale de combat est utilisée dans un combat qui implique le détenteur, affaiblissez le détenteur pour annuler cette action
+  lore: Sharkou prend la monture la plus rapide et la plus puissante.
+it:
+  title: Mannaro di Sharku
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un **Cavalcalupi.** Se il possessore è Sharku, ha **Danno +1.**  
+    **Risposta:** Se un’abilità speciale di schermaglia è usata in una schermaglia che coinvolga il possessore, sforza il possessore per cancellare quell’azione.
+  lore: Il capitano dei Mannari s'impadronì della cavalcatura più veloce e più potente.
+es:
+  title: El Huargo de Sharku
+  subtitle: ''
+  text: |-
+    El portador debe ser un **Jinete de huargo.** Si el portador es Sharku, él es **daño +1.**   
+    **Respuesta:** Si se usa una habilidad especial de escaramuza en una escaramuza en la que participe el portador, esfuerza al portador para cancelar esa acción.
+  lore: El capitán de los huargos eligió la montura más fuerte y rápida.

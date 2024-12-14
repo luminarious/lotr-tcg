@@ -1,0 +1,18 @@
+set: '17'
+rarity: C
+number: '131'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '6'
+vit: '2'
+site: 5
+en:
+  title: White Hand Slayer
+  subtitle: ''
+  text: |-
+    **Fierce.**  
+    Each time a player plays an event in a skirmish involving this minion, that player may exert a non-hunter character.
+  lore: '''…and there has been war between us for many months.’'

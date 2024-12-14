@@ -1,0 +1,33 @@
+set: '5'
+rarity: U
+number: '118'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Left
+en:
+  title: Hornburg Wall
+  subtitle: ''
+  text: '**Regroup:** Spot your minion and remove :twilight9: to make the fellowship move again this turn (if the move limit allows).'
+  lore: ''
+de:
+  title: Mauer der Hornburg
+  subtitle: ''
+  text: '**Sammeln:** Entdecke einen deiner Diener und verringere den Einfluss um :twilight9:, damit sich ein Gegenspieler, wenn möglich, noch einmal bewegt.'
+  lore: ''
+fr:
+  title: Le Mur du Fort Le Cor
+  subtitle: ''
+  text: '**Ralliement :** Désignez votre séide et retirez :twilight9: pour forcer la compagnie à se déplacer à nouveau ce tour-ci (si la limite de déplacement le permet).'
+  lore: ''
+it:
+  title: Muro del Trombatorrione
+  subtitle: ''
+  text: '**Raccolta:** Avvista il tuo servitore e rimuovi :twilight9: per far muovere la com-pagnia ancora in questo turno (se il limite dei movimenti lo consente).'
+  lore: ''
+es:
+  title: Muro de Cuernavilla
+  subtitle: ''
+  text: '**Reagrupación:** Avista tu siervo y quita :twilight9: para hacer que la comunidad de un oponente se mueva otra vez (si el límite de movimiento lo permite).'
+  lore: ''

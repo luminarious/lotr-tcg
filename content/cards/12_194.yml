@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '194'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Left
+en:
+  title: Wold Battlefield
+  subtitle: ''
+  text: '**Plains. Skirmish:** Exert your Man (except an enduring Man) to make him or her **damage +1.**'
+  lore: ''
+de:
+  title: Schlachtfeld im Ödland
+  subtitle: ''
+  text: '**Ebene. Kampf:** Strenge einen deiner Menschen (außer einen zähen Menschen) an, um ihm Schaden+1 zu geben.'
+  lore: ''

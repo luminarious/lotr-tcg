@@ -1,0 +1,19 @@
+set: '10'
+rarity: U
+number: '69'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Lemenya
+  subtitle: Thrall of The One
+  text: |-
+    **Enduring.** **Fierce.**   
+    Shadow cards cannot exert Úlairë Lemenya during a skirmish phase.   
+    **Skirmish:** Heal Úlairë Lemenya to wound up to 3 other :wraith: minions. 
+  lore: It was no brigand or orc-chieftain that ordered the assault upon the Lord of Mordor’s greatest foe.

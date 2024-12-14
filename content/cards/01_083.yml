@@ -1,0 +1,39 @@
+set: '1'
+rarity: R
+number: '83'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Servant of the Secret Fire
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Skirmish:** Spot Gandalf to make a minion strength -3.
+  lore: ‘I am a servant of the Secret Fire, wielder of the flame of Anor. You cannot pass.’
+de:
+  title: Diener des Geheimen Feuers
+  subtitle: ''
+  text: '**Zauberspruch.** **Kampf** Entdecke Gandalf, um einem Diener Stärke -3 zu geben.'
+  lore: Ich bin ein Diener des Geheimen Feuers und Gebieter über die Flamme von Anor. Du kannst nicht vorbei.
+fr:
+  title: Serviteur du Feu Secret
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Combat :** Désignez Gandalf pour donner à un séide -3 en force.
+  lore: ‘Je suis un serviteur du Feu Secret, qui détient la flamme d'Anor. Vous ne pouvez passer.’
+it:
+  title: Servitore del Fuoco Segreto
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Schermaglia:** Avvista Gandalf per sottrarre -3 alla forza di un servitore.
+  lore: ‘Sono un servitore del Fuoco Segreto, e reggo la fiamma di Anor. Non puoi passare.’
+es:
+  title: Servidor del Fuego Secreto
+  subtitle: ''
+  text: '**Hechizo.** **Escaramuza:** Avista a Gandalf para dar -3 de fuerza a un siervo.'
+  lore: Soy un servidor del Fuego Secreto, que es amo de la llama de Anor. No puedes pasar.

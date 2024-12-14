@@ -1,0 +1,15 @@
+set: '7'
+rarity: U
+number: '88'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Dervorin
+  subtitle: ''
+  text: 'At the start of the regroup phase, if you have only 4 cards in hand, you may spot another :gondor: Man to discard a minion.'
+  lore: The men of Ringló Vale behind the son of their lord….

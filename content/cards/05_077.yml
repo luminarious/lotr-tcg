@@ -1,0 +1,43 @@
+set: '5'
+rarity: U
+number: '77'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Strength in Numbers
+  subtitle: ''
+  text: |-
+    To play, spot a Southron. Plays to your support area.  
+    **Maneuver:** Discard this condition to add :twilight1: for each Man with ambush you spot.
+  lore: Lacking arms and armor, the Haradrim use swift movements to outnumber their opponents.
+de:
+  title: Zahlenmäßige Übermacht
+  subtitle: ''
+  text: |-
+    Entdecke einen Südländer, um diese Karte in deinen Unterstützungsbereich zu spielen.  
+    **Manöver:** Lege diesen Effekt ab, um den Einfluss für jeden Menschen mit **Hinterhalt**, den du entdecken kannst, um:twilight1: zu erhöhen.
+  lore: Nur leicht bewaffnet und gerüstet, nutzen die Haradrim ihre Beweglichkeit, um ihre Feinde durch ihre schiere Anzahl zu erdrücken.
+fr:
+  title: La Force dans le Nombre
+  subtitle: ''
+  text: |-
+    Pour jouer, désignez un Suderon.   
+    **Manœuvre :** Défaussez cette situation pour ajouter :twilight1: pour chaque Homme avec embuscade que vous pouvez désigner.
+  lore: Faibles du côté des armes et des armures, les Haradrim utilisent des mouvements vifs pour l'emporter en nombre sur leurs adversaires.
+it:
+  title: Forza nei Numeri
+  subtitle: ''
+  text: |-
+    Per giocarla, avvista un **Sudrone.**   
+    **Manovra:** Scarta questa condizione per aggiungere:twilight1: per ogni Uomo con Imboscata che avvisti.
+  lore: Privi di armi e armature, gli Haradrim si muovono rapidamente per sopraffare i loro avversari con il numero.
+es:
+  title: Fuerza en el número
+  subtitle: ''
+  text: |-
+    Para jugarla, avista un **Sureño.**   
+    **Maniobra:** Descarta esta condición para añadir :twilight1: por cada Hombre con emboscar que puedas avistar.
+  lore: Faltos de armas y armaduras, los Haradrim usan movimientos rápidos para superar a sus oponentes.

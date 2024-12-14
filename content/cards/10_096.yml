@@ -1,0 +1,18 @@
+set: '10'
+rarity: U
+number: '96'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Rank and File
+  subtitle: ''
+  text: 'Each time a roaming :sauron: minion takes a wound, you may add a :sauron: token here. **Regroup:** Exert an Uruk-hai or discard a :sauron: minion to add a :sauron: token here. **Skirmish:** Remove 2 :sauron: tokens from here to make a :sauron: minion strength +2. '
+  lore: …even fear by night had scarcely over-counted them.
+de:
+  title: Reih und Glied
+  subtitle: ''
+  text: 'Jedes Mal, wenn ein wandernder :sauron: Diener eine Wunde erleidet, darfst du eine :sauron: Marke auf diesen Effekt legen. **Sammeln:** Strenge einen Uruk-hai an oder lege einen :sauron: Diener ab, um eine :sauron: Marke auf diesen Effekt zu legen. **Kampf:** Entferne 2 :sauron: Marken von diesem Effekt, um einem :sauron: Diener Stärke +2 zu geben.'
+  lore: ''

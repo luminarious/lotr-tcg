@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '299'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Orc Destroyer
+  subtitle: ''
+  text: '**Shadow:** Remove :twilight3: and spot 3 :sauron: Orcs to draw a card.'
+  lore: …all the hills and rocks about the Morannon were filled with hidden foes….
+de:
+  title: Zerstörender Ork
+  subtitle: ''
+  text: '**Schatten:** Verringere den Einfluss um :twilight3: und entdecke 3 :sauron: Orks, um eine Karte zu ziehen.'
+  lore: … dass alle Berge und Felsen rings um den Morannon von verborgenen Feinden wimmelten….

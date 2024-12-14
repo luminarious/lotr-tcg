@@ -1,0 +1,47 @@
+set: '12'
+rarity: C
+number: '40'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: There’s Another Way
+  subtitle: ''
+  text: |-
+    To play, spot Sméagol.   
+    Sméagol is strength +1.   
+    **Regroup:** Discard this condition to replace the fellowship’s current site with a site from your adventure deck.
+  lore: Frodo felt a strange certainty that in this matter Gollum was for once not so far from the truth….
+de:
+  title: Es gibt einenanderen Weg
+  subtitle: ''
+  text: |-
+    Entdecke Sméagol, um diesen Effekt zu spielen. Sméagol erhält Stärke +1.  
+    **Sammeln:** Lege diesen Effekt ab, um den Ort, an dem sich die Gemeinschaft befindet, mit einem Ort aus deinem Abenteuerdeck zu ersetzen.
+  lore: … dass Gollum bei dieser Sache ausnahmsweise nicht so weit von der Wahrheit entfernt war….
+fr:
+  title: There's Another Way
+  subtitle: ''
+  text: |-
+    To play, spot Sméagol.   
+    Sméagol is strength +1.   
+    <b>Regroup:</b> Discard this condition to replace the fellowship’s current site with a site from your adventure deck.
+  lore: Frodo felt a strange certainty that in this matter Gollum was for once not so far from the truth….
+it:
+  title: There's Another Way
+  subtitle: ''
+  text: |-
+    To play, spot Sméagol.   
+    Sméagol is strength +1.   
+    <b>Regroup:</b> Discard this condition to replace the fellowship’s current site with a site from your adventure deck.
+  lore: Frodo felt a strange certainty that in this matter Gollum was for once not so far from the truth….
+es:
+  title: There's Another Way
+  subtitle: ''
+  text: |-
+    To play, spot Sméagol.   
+    Sméagol is strength +1.   
+    <b>Regroup:</b> Discard this condition to replace the fellowship’s current site with a site from your adventure deck.
+  lore: Frodo felt a strange certainty that in this matter Gollum was for once not so far from the truth….

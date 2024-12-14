@@ -1,0 +1,21 @@
+set: '11'
+rarity: R
+number: '165'
+unique: true
+culture: Shire
+type: Condition
+cost: 4
+en:
+  title: Habits of Home
+  subtitle: ''
+  text: |-
+    **Toil 2.** (For each :shire: character you exert when playing this, its twilight cost is –2.)   
+    Bearer must be a Hobbit. Limit 1 per bearer. Each time the fellowship moves from a dwelling or forest site, remove :twilight1:.
+  lore: ‘What about second breakfast?’
+de:
+  title: Gewohnheiten von Zuhause
+  subtitle: ''
+  text: |-
+    **Mühe 2.**  
+    Muss auf einen Hobbit gespielt werden. Maximal 1 pro Hobbit. Verringere jedes Mal den Einfluss um :twilight1:, wenn sich die Gemeinschaft von einer Heimstatt oder einem Wald fortbewegt.
+  lore: Aber was ist mit dem zweiten Frühstück?

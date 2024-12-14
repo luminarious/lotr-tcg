@@ -1,0 +1,39 @@
+set: '2'
+rarity: C
+number: '14'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Till Durin Wakes Again
+  subtitle: ''
+  text: |-
+    **Tale.**   
+    Each time a Dwarf companion moves from an underground site, you may heal that Dwarf. 
+  lore: Gimli was silent. Having sung his song, he would say no more.
+de:
+  title: Bis Durin wieder erwacht
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    Jedesmal, wenn sich ein Zwergengefährte von einem unterirdischen Ort fortbewegt, darfst du diesen Zwerg heilen.
+  lore: Gimli antwortete nicht. Nachdem er sein Lied gesungen hatte, wollte er nichts mehr sagen.
+fr:
+  title: Jusqu'à ce que Durin du Sommeil se Réveille
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Chaque fois qu’un Nain quitte un site souterrain, vous pouvez guérir ce Nain.
+  lore: 'Gimli demeura silencieux. Ayant chanté sa chanson, il ne voulait plus rien dire. '
+it:
+  title: Finché Durin non si Risveglierà
+  subtitle: ''
+  text: '**Racconto.** Giocalo nella tua area di supporto. Ogni volta che un compagno Nano si muove da un sito sotterraneo, puoi curare quel Nano.'
+  lore: Gimli era silenzioso. Dopo aver cantato la sua canzone non volle dir altro.
+es:
+  title: Hasta que Durin despierte de nuevo
+  subtitle: ''
+  text: '**Cuento.** Cada vez que un compañero Enano se mueve desde un sitio subterráneo, puedes curar ese Enano.'
+  lore: Gimli no contestó. Había cantado su canción, y no quería decir nada más.

@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '309'
+unique: true
+culture: Shire
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Light Shining Faintly
+  subtitle: ''
+  text: '**Fellowship:** Add a burden to heal a Ring-bound companion twice. '
+  lore: ‘He’s like that, and sometimes it shines through, somehow.’
+de:
+  title: Schwach schimmerndes Licht
+  subtitle: ''
+  text: '**Gemeinschaft.** Lege 1 Lastmarke auf den Ringträger, um einen Ring-verbundenen Gefährten zweimal zu heilen.'
+  lore: So ist er, und manchmal schimmert es irgendwie durch.
+fr:
+  title: Une Lueur Brille Faiblement
+  subtitle: ''
+  text: '**Compagnie :** Ajoutez un point-fardeau pour guérir deux fois un compagnon **Associé à l’Anneau.** '
+  lore: 'Il est comme cela, et parfois la lumière transparaît d''une façon ou d''une autre.” '
+it:
+  title: Luce Fioca
+  subtitle: ''
+  text: '**Compagnia:** Aggiungi un segnalino fardello per curare due volte un compagno **Legato all’Anello.**'
+  lore: ‘Lui è così, e qualche volta, chissà come, traspare.’
+es:
+  title: Luz Brillando Débilmente
+  subtitle: ''
+  text: '**Comunidad:** Añade una carga para curar un compañero Vinculado al Anillo dos veces.'
+  lore: Él es así, y a veces, por alguna razón, la luz se transparenta.

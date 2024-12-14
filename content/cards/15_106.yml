@@ -1,0 +1,15 @@
+set: '15'
+rarity: U
+number: '106'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Coordinated Effort
+  subtitle: ''
+  text: |-
+    To play, spot 2 :orc: minions.  
+    Each time the Free Peoples player plays a possession, add :twilight2:.
+  lore: Breaking a Gondorian fortification is not easily done.

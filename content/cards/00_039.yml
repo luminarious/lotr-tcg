@@ -1,0 +1,18 @@
+set: '0'
+rarity: P
+number: '39'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Éowyn
+  subtitle: Sister-daughter of Théoden
+  text: |-
+    **Valiant.**  
+    **Response:** If Éowyn is exhausted and about to take a wound in a skirmish, discard 2 cards from hand to prevent that wound. 
+  lore: '''A year shall I endure for every day that passes until your return.’'

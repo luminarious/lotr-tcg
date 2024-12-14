@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '53'
+unique: true
+culture: Gollum
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Captured by the Ring
+  subtitle: ''
+  text: Play Gollum from your draw deck or discard pile to add a threat.
+  lore: ‘Give us that…..’
+de:
+  title: Vom Ring vereinnahmt
+  subtitle: ''
+  text: Spiele Gollum direkt aus deinem Spieldeck oder aus deinem Ablagestapel, um eine Bedrohung entstehen zu lassen.
+  lore: Gib uns das….

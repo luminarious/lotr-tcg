@@ -1,0 +1,36 @@
+set: '6'
+rarity: C
+number: '71'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 1
+str: '5'
+vit: '2'
+site: 4
+en:
+  title: Isengard Tinker
+  subtitle: ''
+  text: '**Regroup:** Discard an :isengard: Orc to make the Free Peoples player wound a companion.'
+  lore: ‘I wonder if his fame was… due to his cleverness in settling at Isengard.’
+de:
+  title: Isengart Tüftler
+  subtitle: ''
+  text: '**Sammeln:** Lege einen :isengard: Ork ab, um den Freie Völker Spieler zu zwingen, einen Gefährten zu verwunden.'
+  lore: Ich frage mich, ob sein Ruhm nicht… seiner Klugheit zuzuschreiben war, sich in Isengart niederzulassen.
+fr:
+  title: Rétameur de l'Isengard
+  subtitle: ''
+  text: '**Ralliement :** Défaussez un Orque :isengard: pour forcer le joueur des Peuples Libres à blesser un compagnon.'
+  lore: 'Je me demande si sa renommée n''a pas toujours été due… à l''astuce de son installation dans l''Isengard.” '
+it:
+  title: Riparatore di Isengard
+  subtitle: ''
+  text: '**Raccolta:** Scarta un Orco :isengard: per far ferire un compagno al giocatore dei Popoli Liberi.'
+  lore: ‘Mi domando se la sua fama non fosse dovuta… alla sua abilità nell'installarsi a Isengard.’
+es:
+  title: Hojalatero de Isengard
+  subtitle: ''
+  text: '**Reagrupación:** Descarta un Orco :isengard: para hacer que el jugador de Gentes Libres hiera un compañero.'
+  lore: Me pregunto si su fama…se debía a su habilidad al establecerse en Isengard.

@@ -1,0 +1,44 @@
+set: '4'
+rarity: C
+number: '192'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Uruk Regular
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    **Shadow:** Exert this minion to play an Uruk-hai; its twilight cost is -1 for each other Uruk-hai you can spot. 
+  lore: ‘We are the Uruk-hai; we do not stop the fight for night or day, for fair weather or for storm.’
+de:
+  title: Gewöhnlicher Uruk
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    **Schatten:** Strenge diesen Diener an, um einen Uruk-hai zu spielen; die Zwielicht-kosten für diesen Diener reduzieren sich um 1 für jeden anderen Uruk-hai den du entdecken kannst.
+  lore: 'Wir sind die Uruk-hai: wir hören nicht auf zu kämpfen bei Tag und Nacht, bei schönem Wetter oder Gewitter.'
+fr:
+  title: Régulier Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    **Ombre :** Affaiblissez ce séide pour jouer un Ourouk-Haï; son coût crépusculaire est de -1 pour chaque autre Ourouk-Haï que vous pouvez désigner.
+  lore: 'Nous sommes les Ourouk-Haï: nous ne cessons pas le combat en fonction de la nuit ou du jour, ni du beau temps ou de l''orage.” '
+it:
+  title: Regolare Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    **Ombra:** Sforza questo servitore per giocare un Uruk-hai; sottrai -1 al suo costo crepuscolo per ogni altro Uruk-hai che avvisti.
+  lore: '‘Noi siamo gli Uruk-hai: non interrompiamo la battaglia né di notte né di giorno, né col sole né con la tempesta.’'
+es:
+  title: Regular Uruk
+  subtitle: ''
+  text: '**Daño +1.** **Sombra:** Esfuerza este siervo para jugar un Uruk-hai; su coste de penumbra es -1 por cada otro Uruk-hai que puedas avistar.'
+  lore: Somos los Uruk-hai; no dejamos la pelea ni de noche ni de día, ni cuando brilla el sol o ruge la tormenta.

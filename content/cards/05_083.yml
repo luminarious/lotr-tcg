@@ -1,0 +1,35 @@
+set: '5'
+rarity: C
+number: '83'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Household Guard
+  subtitle: ''
+  text: '**Valiant.**'
+  lore: The king and the men of his household were in the Hornburg….
+de:
+  title: Königliche Leibwache
+  subtitle: ''
+  text: '**Tapfer.**'
+  lore: Der König und die Mannen seines Heerbanns besetzten die Hornburg….
+fr:
+  title: Garde de Maison
+  subtitle: ''
+  text: Vaillant.
+  lore: 'Le roi et les hommes de sa maison étaient dans le Fort le Cor, où se trouvaient aussi bon nombre des hommes de l''Ouestfolde. '
+it:
+  title: Guardia del Re
+  subtitle: ''
+  text: '**Valoroso.**'
+  lore: Il re e gli Uomini del suo seguito erano nel Trombatorrione….’
+es:
+  title: Guardián del Séquito
+  subtitle: ''
+  text: '**Valiente.**'
+  lore: El rey y su séquito quedaron en Cuernavilla, donde también había muchos Hombres del Folde Oeste.

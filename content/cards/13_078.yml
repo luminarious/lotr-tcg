@@ -1,0 +1,18 @@
+set: '13'
+rarity: R
+number: '78'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Alatar Deceived
+  subtitle: ''
+  text: Each time a Wizard wins a skirmish, this condition becomes a **fierce, damage +1** Wizard minion until the start of the regroup phase that has 11 strength and 1 vitality, and cannot take wounds or bear other cards. This card is still a condition.
+  lore: ‘…the world of Men, which We must rule.’
+de:
+  title: Alatar getäuscht
+  subtitle: ''
+  text: Jedes Mal, wenn ein Zauberer einen Kampf gewinnt, wird dieser Effekt bis zum Beginn der Sammelphase zu einem **erbitterten** Zaubererdiener mit **Schaden +1**, der eine Stärke von 11 und 1 Lebenspunkt hat. Er kann keine Wunden erleiden oder mit anderen Karten versehen werden. Diese Karte bleibt ein Effekt.
+  lore: ''

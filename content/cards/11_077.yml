@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '77'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Elder of Dunland
+  subtitle: ''
+  text: While this minion is at a plains site, it is **Damage +1.**
+  lore: Experienced warriors gather the disparate tribes for massive raids.
+de:
+  title: Stammesältester aus Dunland
+  subtitle: ''
+  text: Solange sich dieser Diener an einer Ebene befindet, erhält er **Schaden +1**.
+  lore: Erfahrene Krieger sammeln die verstreuten Stämmen für gewaltige Raubzüge.

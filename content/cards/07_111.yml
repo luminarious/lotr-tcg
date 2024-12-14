@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '111'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Man the Walls
+  subtitle: ''
+  text: 'The site number of each minion skirmishing a :gondor: Man is +1.'
+  lore: …their force was too weak to make any stroke of war on their own part….
+de:
+  title: Bemannt die Zinnen
+  subtitle: ''
+  text: 'Die Ortskennzahl jedes Dieners, der gegen einen :gondor: Menschen kämpft, erhöht sich um 1.'
+  lore: …ihre Streitmacht zu schwach wäre, als dass sie von sich aus irgendeinen Angriff unternehmen könnten…

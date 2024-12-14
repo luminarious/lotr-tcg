@@ -1,0 +1,38 @@
+set: '1'
+rarity: R
+number: '314'
+unique: true
+culture: Shire
+type: Condition
+cost: 2
+en:
+  title: Stone Trolls
+  subtitle: ''
+  text: |-
+    **Tale.** To play, spot Bilbo. Plays on any character. Limit 1 per character.   
+    Each time bearer skirmishes a Troll or Uruk-hai, bearer is strength +3.
+  lore: ‘“For a couple o’ pins,’ says Troll, and grins, / ‘I'll eat thee too, and gnaw thy shins. / A bit o’ fresh meat will go down sweet!’
+de:
+  title: Steintrolle
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    Entdecke Bilbo, um diese Karte auf einen Charakter zu spielen. Maximum 1 pro Charakter. Jedesmal wenn dieser Charakter einen Troll oder Uruk-hai bekämpft, erhält er Stärke +3.
+  lore: Gib nicht so an“, sagt Troll, "lieber Mann, Ich mach’ mich gleich an dich selber ran! Solch frisches Gericht hatt’ ich lange nicht…
+fr:
+  title: Trolls de Pierre
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Pour jouer, désignez Bilbon. Jouable sur n’importe quel personnage. Limité à 1 par personnage. Chaque fois que le détenteur combat un Troll ou un Ourouk-Haï, le détenteur a +3 en force.
+  lore: ‘“Pour un peu,’ dit Troll avec une grimace, / ‘Je te mangerais aussi et rongerais tes tibias. / Un bout de viande fraîche serait un délice !’
+it:
+  title: Troll di Pietra
+  subtitle: ''
+  text: '**Racconto.** Per giocarla, avvista Bilbo. Giocala su qualsiasi personaggio. Limite 1 per personaggio. Ogni volta che il possessore schermaglia con un Troll o Uruk-hai, aggiungi +3 alla forza del possessore.'
+  lore: ‘“Ho una buona idea,’ disse il viandante sghignazzando / ‘Ora mangio anche te, e il tuo stinco masticando. / Infine un po’ di carne fresca potrò assaporare!’
+es:
+  title: Trolls de Piedra
+  subtitle: ''
+  text: '**Cuento.** Para jugarlo, avista a Bilbo. Se juega en cualquier personaje. Límite 1 por personaje. Cada vez que el portador esta en una escaramuza contra un Troll o un Uruk-hai, el portador es fuerza +3.'
+  lore: ‘Un poco mas', dijo el Troll sonriendo, ‘y a ti también te comeré y roeré las tibias. ¡Un bocado de carne fresca me caerá bien!

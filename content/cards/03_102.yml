@@ -1,0 +1,35 @@
+set: '3'
+rarity: R
+number: '102'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Our List of Allies Grows Thin
+  subtitle: ''
+  text: |-
+    To play, exert a :sauron: minion.   
+    Each time the fellowship moves, add :twilight1: for each ally you can spot. 
+  lore: ‘The enemy is moving…. His eye is fixed on Rivendell. And Saruman, you tell me, has betrayed us.’
+de:
+  title: Die Liste unserer Anhänger ist kurz
+  subtitle: ''
+  text: 'Strenge einen :sauron: Diener an, um diese Karte in deinen Unterstützungsbereich zu spielen. Jedes Mal, wenn sich die Gemeinschaft bewegt, erhöhe den Einfluss um :twilight1: für jeden Verbündeten, den du entdecken kannst.'
+  lore: Der Feind rückt immer näher… Sein Auge blickt auf Bruchtal. Und Saruman hat uns, wie ihr sagt, verraten.
+fr:
+  title: Le Nombre de Nos Alliés S'Amenuise
+  subtitle: ''
+  text: 'Pour jouer, affaiblissez un séide :sauron:. Chaque fois que la compagnie se déplace, ajoutez :twilight1: pour chaque allié que vous pouvez désigner.'
+  lore: 'L''ennemi se déplace.. son *il fixé sur Fondcombe. Et vous me dites que Saroumane nous a trahis.” '
+it:
+  title: La Nostra Lista di Alleati si Assottiglia
+  subtitle: ''
+  text: 'Per giocarla, sforza un servitore :sauron:. Ogni volta che la compagnia si muove, aggiungi :twilight1: per ogni alleato che puoi avvistare.'
+  lore: ‘Il nemico è in marcia… il suo occhio è fisso su Gran Burrone. E, a quanto mi dici, Saruman ci ha traditi.’
+es:
+  title: Nuestra Lista de Aliados se Reduce
+  subtitle: ''
+  text: 'Para jugarla, esfuerza un siervo :sauron:. Cada vez que la comunidad se mueve, añade :twilight1: por cada aliado que puedas avistar.'
+  lore: El enemigo se mueve… Su ojo está fijo en Rivendel. Y Saruman, como me dices, nos ha traicionado.

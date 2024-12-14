@@ -1,0 +1,33 @@
+set: '6'
+rarity: R
+number: '7'
+unique: true
+culture: Dunland
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Ready to Fall
+  subtitle: ''
+  text: '**Shadow:** Spot 2 sites you control and remove :twilight2: to play a :dunland: Man from your discard pile.'
+  lore: ‘Why do you lay these troubles on an already troubled mind?’
+de:
+  title: Kurz vor dem Fall
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Schatten:** Entdecke 2 Orte, die du kontrollierst, und verringere den Einfluss um :twilight2:, um einen :dunland: Menschen aus deinem Ablagestapel zu spielen.'
+  lore: Wieso beschwert Ihr mit Sorgen sein ohnehin schon besorgtes Gemüt?
+fr:
+  title: Prêt à Tomber
+  subtitle: ''
+  text: '**Ombre :** Désignez 2 sites que vous contrôlez et retirez :twilight2: pour jouer un Homme :dunland: de votre pile de défausse.'
+  lore: 'Pourquoi charges-tu de ces problèmes un esprit déjà troublé ? '
+it:
+  title: Pronti a Cadere
+  subtitle: ''
+  text: '**Ombra:** Avvista 2 siti che controlli e rimuovi :twilight2: per giocare un Uomo :dunland: dalla tua pila degli scarti.'
+  lore: ‘Perché instilli tali preoccupazioni in una mente già affaticata?’
+es:
+  title: Lista para capitular
+  subtitle: ''
+  text: '**Sombra:** Avista 2 sitios que tú controles y quita :twilight2: para jugar un Hombre :dunland: de tu pila de descartes.'
+  lore: ¿Porqué descargas estas penurias sobre una mente ya atormentada?

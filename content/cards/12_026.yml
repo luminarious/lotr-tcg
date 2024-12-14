@@ -1,0 +1,22 @@
+set: '12'
+rarity: R
+number: '26'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 7
+en:
+  title: Discoveries
+  subtitle: ''
+  text: |-
+    **Spell. Toil 3.** *(For each* :gandalf: *character you exert when playing this, its twilight cost is –3.)*   
+    Spot a :gandalf: Wizard and X other companions to examine the top X cards of your draw deck. Replace those cards in any order.
+  lore: ‘I have come back from dark journeys and long search….’
+de:
+  title: Entdeckungen
+  subtitle: ''
+  text: |-
+    **Zauberspruch. Mühe 3.**  
+    Entdecke einen :gandalf: Zauberer und X andere Gefährten, um dir die obersten X Karten deines Spieldecks anzuschauen. Lege diese in beliebiger Reihenfolge zurück.
+  lore: Ich bin zurückgekehrt von dunklen Wanderungen und langer Suche….

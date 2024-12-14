@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '327'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Left
+en:
+  title: Bree Gate
+  subtitle: ''
+  text: While you can spot a ranger, the move limit is +1 for this turn.
+  lore: ''
+de:
+  title: Stadttor von Bree
+  subtitle: ''
+  text: Solange du einen Waldläufer entdecken kannst, erhöht sich deine maximale Bewegungsweite in diesem Zug um 1.
+  lore: ''
+fr:
+  title: Porte de Bree
+  subtitle: ''
+  text: Tant que vous pouvez désigner un rôdeur, la limite de déplacement est de +1 pour ce tour.
+  lore: ''
+it:
+  title: Cancello di Brea
+  subtitle: ''
+  text: Finché puoi avvistare un Ramingo, aggiungi +1 al limite dei movimenti per questo turno.
+  lore: ''
+es:
+  title: Puertas de Bree
+  subtitle: ''
+  text: Mientras puedas avistar un montaraz, el límite de movimiento para este turno es +1.
+  lore: ''

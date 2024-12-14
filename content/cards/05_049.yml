@@ -1,0 +1,43 @@
+set: '5'
+rarity: R
+number: '49'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Devilry of Orthanc
+  subtitle: ''
+  text: |-
+    **Machine.**  
+    **Shadow:** Exert an Uruk-hai to place an :isengard: token on this card.   
+    **Maneuver:** Spot 8 :isengard: tokens here to exert every character. Discard this condition.
+  lore: ‘They have a blasting fire, and… they took the Wall.’
+de:
+  title: Teufelei aus Orthanc
+  subtitle: ''
+  text: '**Kriegsmaschine.** **Schatten:** Strenge einen Uruk-hai an, um eine :isengard: Marke auf diese Karte zu legen. **Manöver:** Entdecke 8 :isengard: Marken hier, um jeden Charakter anzustrengen. Lege diesen Effekt ab.'
+  lore: Sie haben ein Sprengfeuer, und damit haben sie den Wall eingenommen.
+fr:
+  title: Sorcellerie d'Orthanc
+  subtitle: ''
+  text: |-
+    **Machine.**   
+    **Ombre :** Affaiblissez un Ourouk-Haï pour déposer un jeton :isengard: sur cette carte.   
+    **Manœuvre :** Désignez 8 jetons :isengard: sur cette carte pour affaiblir tous les personnages. Défaussez cette situation.
+  lore: 'Ils ont le feu qui fait sauter les roches et… ils ont pris le Mur.” '
+it:
+  title: Diavoleria di Orthanc
+  subtitle: ''
+  text: |-
+    **Macchina da Guerra.** **Ombra:** Sforza un Uruk-hai per piazzare un segnalino :isengard: su questa carta.   
+    **Manovra:** Avvista qui 8 segnalini :isengard: per sforzare ogni personaggio. Scarta questa condizione.
+  lore: ‘Hanno un fuoco che squarcia esplodendo, e con esso s'impadronirono delle mura.’
+es:
+  title: Maldad de Orthanc
+  subtitle: ''
+  text: |-
+    **Máquina.** ****Sombra:**** Esfuerza un Uruk-hai para poner un contador :isengard: en esta carta.   
+    **Maniobra:** Avista 8 contadores :isengard: aquí para esforzar cada personaje. Descarta esta condición.
+  lore: Tienen un fuego que despedaza las rocas, y con él tomaron el muro.

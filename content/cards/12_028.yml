@@ -1,0 +1,47 @@
+set: '12'
+rarity: R
+number: '28'
+unique: true
+culture: Gandalf
+type: Possession
+cost: 0
+en:
+  title: Gandalf’s Hat
+  subtitle: ''
+  text: |-
+    Bearer must be Gandalf.   
+    Each time the fellowship moves from a battleground site, add a burden.   
+    **Regroup:** Add 2 burdens to remove all twilight tokens from the twilight pool.
+  lore: He wore a tall pointed blue hat….
+de:
+  title: Gandalfs Hut
+  subtitle: ''
+  text: |-
+    Muss auf Gandalf gespielt werden.  
+    Lege jedes Mal, wenn sich die Gemein-schaft von einem Schlachtfeld fortbewegt, eine Lastmarke auf den Ringträger.  
+    **Sammeln:** Lege 2 Lastmarken auf den Ringträger, um die Geisterwelt zu leeren.
+  lore: Er trug einen hohen spitzen blauen Hut….
+fr:
+  title: Gandalf's Hat
+  subtitle: ''
+  text: |-
+    Bearer must be Gandalf.   
+    Each time the fellowship moves from a battleground site, add a burden.   
+    <b>Regroup:</b> Add 2 burdens to remove all twilight tokens from the twilight pool.
+  lore: He wore a tall pointed blue hat….
+it:
+  title: Gandalf's Hat
+  subtitle: ''
+  text: |-
+    Bearer must be Gandalf.   
+    Each time the fellowship moves from a battleground site, add a burden.   
+    <b>Regroup:</b> Add 2 burdens to remove all twilight tokens from the twilight pool.
+  lore: He wore a tall pointed blue hat….
+es:
+  title: Gandalf's Hat
+  subtitle: ''
+  text: |-
+    Bearer must be Gandalf.   
+    Each time the fellowship moves from a battleground site, add a burden.   
+    <b>Regroup:</b> Add 2 burdens to remove all twilight tokens from the twilight pool.
+  lore: He wore a tall pointed blue hat….

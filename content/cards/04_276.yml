@@ -1,0 +1,40 @@
+set: '4'
+rarity: U
+number: '276'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Fortress Never Fallen
+  subtitle: ''
+  text: |-
+
+    Each time a :rohan: Man wins a skirmish, you may place a :rohan: token on this card.   
+    **Regroup:** Discard a Shadow condition for each :rohan: token here. Discard this condition. 
+  lore: ‘…it was the spirit of your people that held it strong.’
+de:
+  title: Diese Festung ist nie gefallen
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn ein :rohan: Mensch einen Kampf gewinnt, darfst du eine :rohan: Marke auf diese Karte legen. **Sammeln:** Lege für jede :rohan: Marke hier einen Schatteneffekt ab. Lege diesen Effekt ab.'
+  lore: … der Mut Eures Volkes machte sie uneinnehmbar.
+fr:
+  title: Une Forteresse Jamais Prise
+  subtitle: ''
+  text: 'Chaque fois qu’un Homme :rohan: gagne un combat, vous pouvez déposer un jeton :rohan: sur cette carte. **Ralliement :** Défaussez une situation de l’Ombre pour chaque jeton :rohan: qui se trouve ici. Défaussez cette situation.'
+  lore: '… c''est l''esprit de votre peuple qui la garda forte.” '
+it:
+  title: Una Fortezza Mai Caduta
+  subtitle: ''
+  text: |-
+    Ogni volta che un Uomo :rohan: vince una schermaglia, puoi piazzare un segnalino :rohan: su questa carta.   
+    **Raccolta:** Scarta una condizione Ombra per ogni segnalino :rohan: qui presente. Scarta questa condizione.
+  lore: ‘…è stato lo spirito della tua gente che l'ha mantenuta salda.’
+es:
+  title: Fortaleza Nunca Derrotada
+  subtitle: ''
+  text: |-
+    Cada vez que un Hombre :rohan: gana una escaramuza, puedes poner un contador :rohan: en esta carta.   
+    **Reagrupación:** Descarta una condición de Sombra por cada contador :rohan: puesto aquí. Descarta esta condición.
+  lore: …fue el espíritu de tu gente lo que le mantuvo fuerte.

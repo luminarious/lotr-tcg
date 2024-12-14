@@ -1,0 +1,39 @@
+set: '1'
+rarity: C
+number: '298'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Hobbit Stealth
+  subtitle: ''
+  text: |-
+    **Stealth.**   
+    **Skirmish:** At sites 1 to 5, cancel a skirmish involving a Hobbit. At any other site, make a Hobbit strength +2.
+  lore: They possessed from the first the art of disappearing swiftly and silently, when large folk whom they do not wish to meet come blundering by….
+de:
+  title: Heimliche Hobbits
+  subtitle: ''
+  text: '**Heimlichkeit.** **Kampf** Hebe einen Kampf, an dem ein Hobbit beteiligt ist, auf, wenn sich deine Gemeinschaft an Ort 1 bis 5 befindet. Ansonsten erhält der Hobbit Stärke +2.'
+  lore: Von Anfang an beherrschten sie die Kunst, rasch und geräuschlos zu verschwinden, wenn große Leute, denen sie nicht begegnen wollen, dahertrapsen…
+fr:
+  title: Ruse Hobbite
+  subtitle: ''
+  text: |-
+    **Dissimulation.**  
+    **Combat :** Aux sites 1 à 5, annulez un combat impliquant un Hobbit. À n’importe quel autre site, donnez à un Hobbit +2 en force.
+  lore: Ils ont toujours eu l'art de disparaître rapidement et en silence quand de Grandes Gens qu'ils ne désirent pas rencontrer viennent par hasard de leur côté….
+it:
+  title: Segretezza degli Hobbit
+  subtitle: ''
+  text: |-
+    **Segretezza.**  
+    **Schermaglia:** Ai siti da 1 a 5, cancella una schermaglia che coinvolga un Hobbit. In un qualsiasi altro sito, aggiungi +2 alla forza di un Hobbit.
+  lore: Sin dal principio possedevano l'arte di sparire velocemente e silenziosi al sopraggiungere di genti che non desideravano incontrare….
+es:
+  title: Sigilo Hobbit
+  subtitle: ''
+  text: '**Sigilo.** **Escaramuza:** En los sitios 1 al 5, cancela una escaramuza en la que este implicado un Hobbit. En cualquier otro sitio, da a un Hobbit fuerza +2.'
+  lore: Dominaron desde un principio el arte de desaparecer rápido y en silencio, cuando la gente grande con la que no querían tropezar se les acercaba casualmente…

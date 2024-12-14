@@ -1,0 +1,19 @@
+set: '17'
+rarity: S
+number: '12'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Rúmil
+  subtitle: Silvan Elf
+  text: |-
+    **Hunter 1.** *(While skirmishing a non-hunter character, this character is strength +1.)*   
+    While you can spot a wounded minion, Rúmil is strength +1 and gains archer.  
+    **Archery:** Exert another :elven: hunter and add a threat to wound a minion.
+  lore: Guardian of Nimrodel.

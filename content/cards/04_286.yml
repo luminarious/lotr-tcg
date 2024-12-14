@@ -1,0 +1,35 @@
+set: '4'
+rarity: C
+number: '286'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Rider of Rohan
+  subtitle: ''
+  text: '**Skirmish:** If this companion is mounted, exert him to exert a minion skirmishing an unbound companion. '
+  lore: ‘They are proud and wilful, but they are true-hearted, generous in thought and deed….’
+de:
+  title: Reiter von Rohan
+  subtitle: ''
+  text: '**Kampf** Strenge diesen Gefährten an, wenn er beritten ist, um einen Diener, der gegen einen nicht-verbundenen Gefährten kämpft, anzustrengen.'
+  lore: Sie sind stolz und eigenwillig, aber aufrichtig und großzügig im Denken und Handeln….
+fr:
+  title: Cavalier de Rohan
+  subtitle: ''
+  text: '**Combat :** Si ce compagnon détient une monture, affaiblissez-le pour affaiblir un séide qui combat un compagnon dissocié.'
+  lore: 'Ils sont fiers et opiniâtres, mais aussi loyaux et généreux de coeur et en action…” '
+it:
+  title: Cavaliere di Rohan
+  subtitle: ''
+  text: '**Schermaglia:** Se questo compagno è a cavallo, sforzalo per sforzare un servitore che stia schermagliando con un compagno Non Legato.'
+  lore: ‘Sono orgogliosi e volitivi, ma il loro cuore è sincero, e i loro atti e pensieri sono generosi…’
+es:
+  title: Jinete De Rohan
+  subtitle: ''
+  text: '**Escaramuza:** Si este compañero tiene una montura, esfuerza este compañero para esforzar un siervo que esté en una escaramuza contra un compañero no-vinculado.'
+  lore: Son orgullosos y porfiados, pero sinceros de corazón, generosos en pensamiento y actos.

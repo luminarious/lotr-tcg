@@ -1,0 +1,39 @@
+set: '2'
+rarity: C
+number: '9'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Great Works Begun There
+  subtitle: ''
+  text: |-
+    **Tale.** Plays to your support area.  
+    Each time you play a Dwarf, you may discard the top 2 cards from your draw deck to take a :dwarven: event into hand from your discard pile. 
+  lore: ‘Moria! Moria!… Long have its vast mansions lain empty since the children of Durin fled.’
+de:
+  title: Große Arbeiten wurden dort begonnen
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    Jedesmal, wenn du einen Zwerg ausspielst, darfst du die obersten 2 Karten von deinem Spieldeck ablegen, um ein :dwarven: Ereignis aus deinem Ablagestapel auf deine Hand zu nehmen.
+  lore: Moria! Moria! … Lange haben Morias gewaltige Behausungen leer gestanden, seit Durins Kinder flohen.
+fr:
+  title: De Grandes *uvres Commencèrent Ici
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Chaque fois que vous jouez un Nain, vous pouvez défausser les 2 premières cartes de votre pioche pour prendre en main un événement :dwarven: de votre pile de défausse.
+  lore: 'La Moria! La Moria! Longtemps sont restées vides ses vastes demeures depuis la fuite des enfants de Durin.” '
+it:
+  title: Grandi Opere Iniziarono Là
+  subtitle: ''
+  text: '**Racconto.** Giocalo nella tua area di supporto. Ogni volta che giochi un Nano, puoi scartare le prime due carte dal tuo mazzo di gioco per aggiungere alla tua mano un Evento :dwarven: dalla pila degli scarti.'
+  lore: ‘Moria! Moria!… Da tempo sono vuoti i vasti palazzi e le grandiose ville, abbandonati dai figli di Durin.’
+es:
+  title: Grandes trabajos empezaron aquí
+  subtitle: ''
+  text: '**Cuento.** Cada vez que juegues un Enano, puedes descartar las 2 cartas superiores de tu mazo de robar para poner un evento :dwarven: de la pila de descartes en tu mano.'
+  lore: ¡Moria! ¡Moria! Por largo tiempo han estado sus salones vacíos desde que la gente de Durin huyó.

@@ -1,0 +1,18 @@
+set: '15'
+rarity: O
+number: '198'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 4
+str: '8'
+vit: '4'
+res: '8'
+en:
+  title: Aragorn
+  subtitle: Thorongil
+  text: |-
+    **Ranger. Hunter 2.** *(While skirmishing a non-hunter character, this character is strength +2.)*  
+    **Maneuver:** Add a threat to exert a non-hunter minion with strength less than Aragorn’s.
+  lore: ‘I will follow the Orcs…’

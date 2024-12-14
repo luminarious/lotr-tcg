@@ -1,0 +1,16 @@
+set: '0'
+rarity: W
+number: '25'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 0
+str: '4'
+vit: '4'
+res: '10'
+en:
+  title: Frodo
+  subtitle: Mr. Underhill
+  text: '**Ring-bearer.**'
+  lore: ‘…I nearly tried on Bilbo’s ring. I longed to disappear.’

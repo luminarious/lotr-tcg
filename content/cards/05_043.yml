@@ -1,0 +1,33 @@
+set: '5'
+rarity: C
+number: '43'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: War Must Be
+  subtitle: ''
+  text: '**Skirmish:** Make a :gondor: Man strength +2 (or +4 if skirmishing a minion bearing a :gondor: fortification).'
+  lore: ‘…we defend ourselves against a destroyer who would devour all….’
+de:
+  title: Krieg muss sein
+  subtitle: ''
+  text: '**Kampf** Gib einem :gondor: Menschen Stärke +2 (oder Stärke +4, wenn er gegen einen Diener kämpft, auf dem eine :gondor: Befestigung liegt)'
+  lore: … solange wir unser Leben verteidigen gegen einen Zerstörer, der sonst uns alle verschlingen würde….
+fr:
+  title: La Guerre Doit Être
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force à un Homme :gondor: (ou +4 s’il combat un séide qui détient une fortification :gondor:).'
+  lore: '… nous défendons nos vies contre un destructeur qui nous dévorerait tous…” '
+it:
+  title: La Guerra è Indispensabile
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Uomo :gondor: (o +4 se sta schermagliando con un servitore che porta una fortificazione :gondor:).'
+  lore: ‘…difendiamo le nostre vite da un distruttore che divorerebbe ogni cosa…’
+es:
+  title: Guerra ha de haber
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Hombre :gondor: fuerza +2 (o +4 si esta en una escaramuza contra un siervo que lleve una fortificación :gondor:).'
+  lore: …que defendernos de la maldad de un poder destructor que nos devoraría a todos.

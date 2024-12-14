@@ -1,0 +1,18 @@
+set: '15'
+rarity: C
+number: '149'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+res: '9'
+en:
+  title: Merry
+  subtitle: The Tall One
+  text: |-
+    While Merry bears a follower, he is strength +2.  
+    **Skirmish:**If Merry is skirmishing a hunter minion, add a threat to make Merry strength +2.
+  lore: Three-foot-eight? You did something!

@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '187'
+unique: true
+culture: Uruk-hai
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Furor
+  subtitle: ''
+  text: 'Make an :urukhai: minion strength +2 (or +3 if you can spot an exhausted companion).'
+  lore: Uruk soldiers have learned to save their rage for the field of battle.
+de:
+  title: Wut
+  subtitle: ''
+  text: 'Gib einem :urukhai: Diener Stärke +2 (oder +3, wenn du einen erschöpften Gefährten entdeckst).'
+  lore: Uruk Soldaten haben gelernt, ihre Wut für das Schlachtfeld aufzusparen.

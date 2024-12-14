@@ -1,0 +1,25 @@
+set: '7'
+rarity: U
+number: '272'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Gorgoroth Engineer
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    When you play this minion from a site you control, add 2 threats.
+  lore: ''
+de:
+  title: Gorgoroth Maschinist
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    Lasse 2 Bedrohungen entstehen, wenn du diesen Diener von einem Ort spielst, den du kontrollierst.
+  lore: Weit hinter der Schlacht waren rasch Brücken über den Fluss geschlagen worden…

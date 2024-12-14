@@ -1,0 +1,32 @@
+set: '6'
+rarity: U
+number: '73'
+unique: true
+culture: Isengard
+type: Possession
+cost: 1
+en:
+  title: Scaffolding
+  subtitle: ''
+  text: 'Each time a regroup action discards an :isengard: Orc, you may stack that Orc on this card. **Response:** If an :isengard: Orc is about to take a wound, discard 2 cards stacked here to prevent that wound.'
+  lore: Towers marked the inner ring, implements of industry.
+de:
+  title: Gerüst
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn eine Sammelaktion einen :isengard: Ork ablegt, darfst du diesen hier lagern. **Reaktion:** Lege 2 hier gelagerte Karten ab, um eine Wunde, die einem :isengard: Ork zugefügt wird, zu verhindern.'
+  lore: Gerüste ragten im inneren Ring auf….
+fr:
+  title: Échafaudage
+  subtitle: ''
+  text: 'Chaque fois qu’une action de ralliement défausse un Orque :isengard:, vous pouvez empiler cet Orque sur cette carte. **Réponse :** Si un Orque :isengard: est sur le point d’être blessé, défaussez 2 cartes empilées ici pour prévenir cette b'
+  lore: Des tours, outils de l'industrie, émergeaient du cercle intérieur.
+it:
+  title: Impalcatura
+  subtitle: ''
+  text: 'Ogni volta che un’azione di raccolta fa scartare un Orco :isengard:, puoi impilare quell’Orco su questa carta. **Risposta:** Se un Orco :isengard: sta per subire una ferita, scarta 2 carte impilate qui per prevenire quella ferita.'
+  lore: La cerchia interna era costellata di torri, strumenti dell'industria.
+es:
+  title: Andamiaje
+  subtitle: ''
+  text: 'Cada vez que una acción de reagrupación descarta un Orco :isengard:, puedes apilar ese Orco en esta carta. **Respuesta:** si un Orco :isengard: va a recibir una herida, descarta 2 cartas apiladas aquí para prevenir esa herida.'
+  lore: Las torres señalaban el círculo interior.

@@ -1,0 +1,18 @@
+set: '0'
+rarity: P
+number: '113'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '11'
+vit: '4'
+site: 3
+en:
+  title: Úlairë Enquëa
+  subtitle: Sixth of the Nine Riders
+  text: |-
+    **Fierce.**  
+    When you play Úlairë Enquëa, if you can spot 2 other Nazgûl, you may exert 2 unbound companions (or exert each companion if you can spot 6 companions).
+  lore: Nine Riders Collection

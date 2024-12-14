@@ -1,0 +1,39 @@
+set: '1'
+rarity: C
+number: '76'
+unique: true
+culture: Gandalf
+type: Event
+class: Response
+cost: 2
+en:
+  title: Intimidate
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Response:** If a companion is about to take a wound, spot Gandalf to prevent that wound.
+  lore: ‘Go back to the Shadow!’
+de:
+  title: Einschüchtern
+  subtitle: ''
+  text: '**Zauberspruch.** **Reaktion:** Wenn einem Gefährten eine Wunde zugefügt wird, entdecke Gandalf, um diese Verwundung zu verhindern.'
+  lore: Geh zurück zu den Schatten!
+fr:
+  title: Intimider
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Réponse :** Si un compagnon est sur le point d’être blessé, désignez Gandalf pour empêcher cette blessure.
+  lore: ‘Retournez à l'Ombre !’
+it:
+  title: Intimidire
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Risposta:** Se un compagno sta per essere ferito, avvista Gandalf per impedire quella ferita.
+  lore: ‘Torna nell'Ombra!
+es:
+  title: Intimidar
+  subtitle: ''
+  text: '**Hechizo.** **Respuesta:** Si un compañero va a recibir una herida, avista a Gandalf para prevenir esa herida.'
+  lore: ¡Vuelve a la Sombra!

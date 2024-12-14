@@ -1,0 +1,19 @@
+set: '17'
+rarity: S
+number: '7'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Elven Guardian
+  subtitle: ''
+  text: |-
+    **Hunter 1.** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    While this companion is skirmishing a wounded minion, he is strength +2.  
+    **Maneuver:** Exert this companion to heal another hunter.
+  lore: We are proud to fight alongside Men, once more

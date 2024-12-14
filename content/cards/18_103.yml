@@ -1,0 +1,18 @@
+set: '18'
+rarity: C
+number: '103'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Rohirrim Recruit
+  subtitle: ''
+  text: |-
+    **Valiant.**  
+    While you can spot a :rohan: token, this companion is strength +2.
+  lore: Even the older men of Rohan had talents in the arts of war.

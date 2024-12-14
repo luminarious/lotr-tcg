@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '169'
+unique: true
+culture: Moria
+type: Event
+class: Assignment
+cost: 0
+en:
+  title: The End Comes
+  subtitle: ''
+  text: '**Assignment:** Spot 5 :moria: minions to make the Free Peoples player assign the Ring-bearer to a skirmish.'
+  lore: ‘They have taken the Bridge and the second hall; we have barred the gates – but cannot hold them for long….’
+de:
+  title: Das Ende naht
+  subtitle: ''
+  text: '**Zuweisung:** Entdecke 5 :moria: Diener, um den Freie Völker Spieler zu zwingen, den Ringträger einem Kampf zuzuweisen.'
+  lore: Sie haben die Brücke und die zweite Halle genommen…wir haben das Tor versperrt…aber wir können es nicht mehr lange halten…
+fr:
+  title: La Fin est Proche
+  subtitle: ''
+  text: '**Affectation :** Désignez 5 séides :moria: pour obliger le joueur des Peuples Libres à affecter le Porteur de l’Anneau à un combat.'
+  lore: ‘Ils ont pris le Pont et la deuxième salle ; nous avons barricadé les portes – mais ne pouvons les retenir longtemps….’
+it:
+  title: Giunge La Fine
+  subtitle: ''
+  text: '**Assegnazione:** Avvista 5 servitori :moria: per far assegnare al giocatore dei Popoli Liberi il Portatore dell’Anello a una schermaglia.'
+  lore: ‘Hanno preso il Ponte e il secondo salone; abbiamo sbarrato i cancelli – ma non possiamo fermarli a lungo….’
+es:
+  title: Se Acerca el Fin
+  subtitle: ''
+  text: '**Asignación:** Avista 5 siervos :moria: para que el jugador de Gentes Libres asigne el Portador del Anillo a una escaramuza.'
+  lore: Han tomado el puente y la segunda sala; hemos atrancado las puertas – pero no las podremos mantener por mucho tiempo…

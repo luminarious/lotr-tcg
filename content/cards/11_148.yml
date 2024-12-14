@@ -1,0 +1,16 @@
+set: '11'
+rarity: C
+number: '148'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+res: '6'
+en:
+  title: Hrothlac
+  subtitle: Man of Rohan
+  text: '**Response:** If a :rohan: companion who has resistance 4 or more is about to take a wound, exert Hrothlac to prevent that. '
+  lore: ‘…we desire only to be free, and to live as we have lived, keeping our own, and serving no foreign lord, good or evil.’

@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '65'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 6
+str: '15'
+vit: '3'
+site: 4
+en:
+  title: Vengeful Primitive
+  subtitle: ''
+  text: |-
+    You may play this minion any time you could play a maneuver event.  
+    When you play this minion in the maneuver phase, you may discard X :men: minions from play to add :twilightX:.
+  lore: Incited by Saruman, they created pandemonium in the land of Rohan.

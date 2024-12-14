@@ -1,0 +1,16 @@
+set: '7'
+rarity: C
+number: '320'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+signet: Signet_Gandalf
+en:
+  title: Merry
+  subtitle: Rohirrim Squire
+  text: '**Skirmish:** If you cannot spot 3 threats, add a threat to make Merry strength +2.'
+  lore: ‘I will be ready… even if you bid me ride with you on the Paths of the Dead.’

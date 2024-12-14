@@ -1,0 +1,35 @@
+set: '4'
+rarity: U
+number: '170'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Ranks Without Number
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    Each time the Free Peoples player assigns an ally to a skirmish, you may play an :isengard: minion from your discard pile. That minion’s twilight cost is -2. 
+  lore: ‘All Isengard must be emptied….’
+de:
+  title: Unendliche Heerscharen
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn der Freie Völker Spieler einen Verbündeten einem Kampf zuweist, darfst du einen :isengard: Diener aus deinem Ablagestapel spielen. Die Zwielichtkosten dieses Dieners sind um 2 reduziert.'
+  lore: Ganz Isengart muss leer sein….
+fr:
+  title: Des Rangs Sans Nombre
+  subtitle: ''
+  text: 'Chaque fois que le joueur des Peuples Libres affecte un allié au combat, vous pouvez jouer un séide :isengard: de votre pile de défausse. Le coût crépusculaire de ce séide est de -2.'
+  lore: 'Tout l''Isengard doit être vidé…” '
+it:
+  title: Schiere Innumerevoli
+  subtitle: ''
+  text: 'Ogni volta che il giocatore dei Popoli Liberi assegna un alleato a una schermaglia, puoi giocare un servitore :isengard: dalla tua pila degli scarti. Sottrai -2 al costo crepuscolo di quel servitore.'
+  lore: ‘Isengard dev'essere completamente vuota…’
+es:
+  title: Filas Sin Número
+  subtitle: ''
+  text: 'Cada vez que el jugador de Gentes Libres asigna un aliado a una escaramuza, puedes jugar un siervo :isengard: de tu pila de descartes. El coste de penumbra de ese siervo es -2.'
+  lore: Todo Isengard debe ser purgado.

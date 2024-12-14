@@ -1,0 +1,37 @@
+set: '5'
+rarity: U
+number: '8'
+unique: true
+culture: Dwarven
+type: Possession
+cost: 2
+en:
+  title: Horn of Helm
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    **Maneuver:** Exert a Dwarf companion to make each minion at a battleground lose all damage bonuses until the regroup phase.
+  lore: …sudden and terrible, from the tower above, the sound of the great horn of Helm rang out.
+de:
+  title: Helms Horn
+  subtitle: Ausrüstung
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. **Manöver:** Strenge einen Zwergengefährten an, damit alle Diener auf einem Schlachtfeld sämtliche Schadensboni bis zur Sammelphase verlieren.
+  lore: …. dann erschallte plötzlich und schrecklich Helms großes Horn.
+fr:
+  title: Le Cor de Helm
+  subtitle: ''
+  text: |-
+    **Manœuvre :** Affaiblissez un compagnon Nain pour retirer les bonus de dégâts à chaque séide se trouvant à un champ de bataille jusqu’à la phase de ralliement.
+  lore: '… soudain et terrible, sonna du haut de la tour le grand cor de Helm. '
+it:
+  title: Corno di Helm
+  subtitle: ''
+  text: |-
+    **Manovra:** Sforza un compagno Nano per far perdere tutti i bonus ai danni a tutti i servitori presso un campo di battaglia fino alla fase di raccolta.
+  lore: …improvviso e terribile, dalla torre sopra di loro squillò il grande corno di Helm.
+es:
+  title: Cuerno de Helm
+  subtitle: ''
+  text: |-
+    **Maniobra:** Esfuerza un compañero Enano para hacer que cada siervo en un campo de batalla pierda sus bonos de daño.
+  lore: …súbito y terrible, el gran cuerno de Helm resonó en lo alto de la torre.

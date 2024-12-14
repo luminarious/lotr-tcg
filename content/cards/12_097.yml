@@ -1,0 +1,25 @@
+set: '12'
+rarity: U
+number: '97'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Orc Strategist
+  subtitle: ''
+  text: |-
+    **Lurker.** *(Skirmishes involving lurker minions must be resolved after any others.)*   
+    **Maneuver:** Make an :orc: **lurker** minion lose lurker until the regroup phase.
+  lore: It takes a strong will indeed to command an unruly band of Orcs.
+de:
+  title: Orkstratege
+  subtitle: ''
+  text: |-
+    **Schleicher. ***(Kämpfe mit Schleichern dürfen erst nach allen anderen abgehandelt werden.)*  
+    **Manöver:** Ein :orc: Schleicherdiener verliert bis zur Sammelphase seine Schleicher-Fähigkeit.
+  lore: Es braucht einen wahrlich starken Willen, einen Haufen undisziplinierte Orks zu befehligen.

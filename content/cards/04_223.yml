@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '223'
+unique: true
+culture: Raider
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Discovered
+  subtitle: ''
+  text: '**Maneuver:** Exert a :raider: Man to discard a Free Peoples condition (or 2 Free Peoples conditions if you spot 3 burdens). '
+  lore: The voices and the clink of weapons and harness were very close.
+de:
+  title: Entdeckt
+  subtitle: ''
+  text: '**Manöver:** Strenge einen :raider: Menschen an, um einen Effekt der Freien Völker abzulegen (oder 2 solcher Effekte, wenn du 3 Lastmarken entdeckst).'
+  lore: Die Stimmen und das Klirren von Waffen und Ausrüstung waren sehr nah.
+fr:
+  title: Découvert
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Homme :raider: pour défausser une situation des Peuples Libres (ou 2 situations des Peuples Libres si vous désignez 3 points-fardeau).'
+  lore: 'Les voix et le cliquetis des armées et des harnais étaient très proches. '
+it:
+  title: Scoperto
+  subtitle: ''
+  text: '**Manovra:** Sforza un Uomo :raider: per scartare una condizione dei Popoli Liberi (o 2 condizioni dei Popoli Liberi se avvisti 3 segnalini fardello).'
+  lore: Le voci ed il fragore d'armi e di bardature erano assai vicini.
+es:
+  title: Descubierto
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un Hombre :raider: para descartar una condición de Gentes Libres (o 2 condiciónes de Gentes Libres si avistas 3 cargas).'
+  lore: Las voces y el ruido metálico de las armas y los arneses se oían ahora muy cerca.

@@ -1,0 +1,18 @@
+set: '15'
+rarity: C
+number: '83'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Hunting Herdsman
+  subtitle: ''
+  text: |-
+    **Hunter 1.** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    This minion is strength +3 for each follower you can spot.
+  lore: Hunters are valuable members of Dunlending tribes.

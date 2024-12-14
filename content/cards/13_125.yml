@@ -1,0 +1,15 @@
+set: '13'
+rarity: C
+number: '125'
+unique: true
+culture: Rohan
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Ferthu Théoden Hal
+  subtitle: ''
+  text: |-
+    To play, spot 2 :rohan: Men.  
+    Unless you can spot a companion who has resistance 3 or less, discard a possession from play.
+  lore: ‘Receive now this cup and drink in happy hour.’

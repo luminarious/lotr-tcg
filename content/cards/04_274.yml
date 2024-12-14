@@ -1,0 +1,44 @@
+set: '4'
+rarity: R
+number: '274'
+unique: true
+culture: Rohan
+type: Possession
+class: Mount
+cost: 2
+en:
+  title: Firefoot
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    If bearer is Éomer, he is **defender +1.**  
+    At the start of each skirmish involving bearer, each minion skirmishing bearer must exert. 
+  lore: Riders of his éored claimed that Éomer’s horse had no equal, save Shadowfax.
+de:
+  title: Feuerfuß
+  subtitle: ''
+  text: |-
+    Muss auf einen :rohan: Mensch gespielt werden. Éomer ist **Verteidiger +1**, wenn er der Träger ist.  
+    Zu Beginn jedes Kampfes, an dem der Träger beteiligt ist, müssen alle Diener in diesem Kampf angestrengt werden.
+  lore: Die Reiter seines Éored behaupteten, dass kein Pferd, außer Schattenfell, Éomers Tier gleichkäme.
+fr:
+  title: Piedardent
+  subtitle: ''
+  text: |-
+    Le détenteur doit être homme :rohan:.  
+    Si le détenteur est Éomer, il est **défenseur +1.**  
+    Au début de chaque combat impliquant le détenteur, affaiblissez chaque séide qui combat le détenteur.
+  lore: Les cavaliers prétendent que le cheval d'Éomer n'a pas d'égal, sauf Gripoil.
+it:
+  title: Zoccofuoco
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Uomo :rohan:.  
+    Se il possessore è Éomer, egli è **Difensore +1.**  
+    All’inizio di ogni schermaglia che coinvolga il possessore, ogni servitore che stia schermagliando con il possessore deve sforzarsi.
+  lore: I cavalieri della sua éored affermavano che il cavallo di Éomer non aveva eguali, eccetto Ombromanto.
+es:
+  title: Pies De Fuego
+  subtitle: ''
+  text: El portador debe ser un Hombre :rohan:. Si el portador es Éomer, él es **defensor +1.** Al principio de cada escaramuza en la que participe el portador, cada siervo que esté en una escaramuza contra él debe esforzarse.
+  lore: Los Jinetes de su éored aseguraban que el caballo de Éomer no tenía igual, salvo Sombragrís.

@@ -1,0 +1,43 @@
+set: '18'
+rarity: C
+number: '94'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: ' Cast from the Hall'
+  subtitle: ''
+  text: |-
+    Each time you play a :rohan: possession, add a :rohan: token here.  
+    **Skirmish:** Remove 3 :rohan: tokens from here to make a :rohan: companion strength +1 and **damage +1**.
+  lore: Your leechcraft would have had me crawling on all fours like a beast!
+de:
+  title: Cast from the Hall
+  subtitle: ''
+  text: |-
+    Each time you play a :rohan: possession, add a :rohan: token here.  
+    **Skirmish:** Remove 3 :rohan: tokens from here to make a :rohan: companion strength +1 and **damage +1**.
+  lore: Your leechcraft would have had me crawling on all fours like a beast!
+fr:
+  title: Cast from the Hall
+  subtitle: ''
+  text: |-
+    Each time you play a :rohan: possession, add a :rohan: token here.  
+    **Skirmish:** Remove 3 :rohan: tokens from here to make a :rohan: companion strength +1 and **damage +1**.
+  lore: Your leechcraft would have had me crawling on all fours like a beast!
+it:
+  title: Cast from the Hall
+  subtitle: ''
+  text: |-
+    Each time you play a :rohan: possession, add a :rohan: token here.  
+    **Skirmish:** Remove 3 :rohan: tokens from here to make a :rohan: companion strength +1 and **damage +1**.
+  lore: Your leechcraft would have had me crawling on all fours like a beast!
+es:
+  title: Cast from the Hall
+  subtitle: ''
+  text: |-
+    Each time you play a :rohan: possession, add a :rohan: token here.  
+    **Skirmish:** Remove 3 :rohan: tokens from here to make a :rohan: companion strength +1 and **damage +1**.
+  lore: Your leechcraft would have had me crawling on all fours like a beast!

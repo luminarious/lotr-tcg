@@ -1,0 +1,20 @@
+set: '11'
+rarity: U
+number: '114'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Demoralized
+  subtitle: ''
+  text: |-
+    To play, spot an :orc: minion.   
+    Each time a companion exerts, you may add :twilight1: (or :twilight2: if you can spot 6 companions).
+  lore: But soon there were few left in Minas Tirith who had the heart to stand up and defy the hosts of Mordor.
+de:
+  title: Demoralisiert
+  subtitle: ''
+  text: 'Entdecke einen :orc: Diener, um diesen Effekt zu spielen. Jedes Mal, wenn sich ein Gefährte anstrengt, darfst du den Einfluss um :twilight1: erhöhen (oder um :twilight2: wenn du 6 Gefährten entdecken kannst).'
+  lore: Doch bald gab es nur noch wenige in Minas Tirith, die den Mut hatten, den Heeren von Mordor entgegenzutreten und Widerstand zu leisten.

@@ -1,0 +1,16 @@
+set: '17'
+rarity: R
+number: '98'
+unique: true
+culture: Rohan
+type: Artifact
+class: Support Area
+cost: 2
+en:
+  title: Throne of the Golden Hall
+  subtitle: ''
+  text: |-
+    To play, spot Théoden (or 2 :rohan: companions).  
+    Saruman and Gríma cannot be assigned to skirmishes.  
+    **Response:** If a :rohan: Man is about to take a wound, exert another :rohan: Man and add :twilight2: to prevent that.
+  lore: ''

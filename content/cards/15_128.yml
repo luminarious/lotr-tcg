@@ -1,0 +1,19 @@
+set: '15'
+rarity: U
+number: '128'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+res: '6'
+en:
+  title: Haleth
+  subtitle: Son of Háma
+  text: |-
+    While you can spot 2 mounts, Haleth is strength +2.  
+    While you can spot 3 mounts, Haleth is **damage +1**.  
+    While you can spot 4 Free Peoples mounts, those mounts can not be discarded by a Shadow player.
+  lore: ''

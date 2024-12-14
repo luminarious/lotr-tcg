@@ -1,0 +1,33 @@
+set: '3'
+rarity: U
+number: '92'
+unique: true
+culture: Sauron
+type: Event
+class: Regroup
+cost: 1
+en:
+  title: Massing in the East
+  subtitle: ''
+  text: '**Regroup:** Exert a :sauron: minion to discard a card from the top of the Free Peoples player’s draw deck for each of these races you can spot in the fellowship: Dwarf, Elf, Man, and Wizard. '
+  lore: ‘The power of the Black Land grows….’
+de:
+  title: Aushebungen im Osten
+  subtitle: ''
+  text: '**Sammeln:** Strenge einen :sauron: Diener an, um den Freie Völker Spieler zu zwingen, eine Karte für jedes dieser Völker, die du in der Gemeinschaft entdecken kannst, von seinem Spieldeck abzulegen: Elb, Mensch, Zauberer und Zwerg.'
+  lore: Der Schatten wächst…
+fr:
+  title: Rassemblement dans l'Est
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez un séide :sauron: pour défausser une carte du dessus de la pioche du joueur des Peuples Libres pour chacune des races suivantes que vous pouvez désigner dans la **Compagnie :** Nain, Elfe, Homme et Magicien.'
+  lore: 'Le pouvoir de la Terre Noire s''accroît…” '
+it:
+  title: Si Ammassano all'Est
+  subtitle: ''
+  text: '**Raccolta:** Sforza un servitore :sauron: per scartare una carta dalla cima del mazzo di gioco del giocatore dei Popoli Liberi per ognuna di queste razze che puoi avvistare nella Compagnia: Nano, Elfo, Uomo, e Stregone'
+  lore: ‘Il potere della Terra Oscura cresce…’
+es:
+  title: Concentración en el Este
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza un siervo :sauron: para descartar una carta de la parte superior del mazo de robar del jugador de Gentes Libres por cada una de estas razas que puedas avistar en la comunidad: Enano, Elfo, Hombre y Mago.'
+  lore: El poder de la Tierra Oscura crece…

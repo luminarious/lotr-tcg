@@ -1,0 +1,20 @@
+set: '11'
+rarity: U
+number: '105'
+unique: true
+culture: Man
+type: Condition
+cost: 1
+res: '-2'
+en:
+  title: Wielding the Ring
+  subtitle: ''
+  text: |-
+    To play, spot a :men: minion.   
+    Bearer must be a companion (except the Ring-bearer). 
+  lore: ‘Why should we not think that the Great Ring has come into our hands to serve us in the very hour of need?’
+de:
+  title: Den Ring einsetzen
+  subtitle: ''
+  text: 'Entdecke einen :men: Diener, um diese Karte auf einen Gefährten (außer dem Ringträger) zu spielen. '
+  lore: Warum sollten wir nicht glauben, dass der Große Ring uns in die Hände gefallen ist, um uns in der Stunde der Not zu dienen ?

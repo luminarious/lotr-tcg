@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '68'
+unique: true
+culture: Gondor
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Guarded City
+  subtitle: ''
+  text: 'Spot a :gondor: companion to reinforce a :gondor: token for each possession borne by that companion. '
+  lore: …so strong and old that it seemed to have been not builded but carven by giants out of the bones of the earth.
+de:
+  title: Verteidigte Stadt
+  subtitle: ''
+  text: 'Entdecke einen :gondor: Gefährten, um eine :gondor: Marke für jede Ausrüstung, die dieser trägt, zu ergänzen.'
+  lore: … so mächtig und alt, dass es schien, als seien sie nicht erbaut worden, sondern von Riesen aus dem Gebein der Erde herausgehauen.

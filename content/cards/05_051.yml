@@ -1,0 +1,21 @@
+set: '5'
+rarity: R
+number: '51'
+unique: true
+culture: Isengard
+type: Minion
+race: Man
+cost: 2
+str: '4'
+vit: '3'
+site: 3
+en:
+  title: Gríma
+  subtitle: Chief Counselor
+  text: '**Maneuver:** Spot 4 Free Peoples cultures and exert Gríma to return an unbound companion, and all cards on him or her, to their owners’ hands.'
+  lore: ‘I care for you and yours as best I may…. Let others deal with these irksome guests.’
+fr:
+  title: Grima
+  subtitle: Conseiller en Chef
+  text: '**Manœuvre :** Désignez 4 cultures des Peuples Libres et affaiblissez Grima pour retourner un compagnon dissocié et toutes les cartes sur celui-ci dans la main de leur propriétaire.'
+  lore: 'Je me soucie de vous et des vôtres du mieux que je le puis… Laissez à d''autres le soin de disposer de ces hôtes importuns.” '

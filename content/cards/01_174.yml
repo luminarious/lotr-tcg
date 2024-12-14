@@ -1,0 +1,36 @@
+set: '1'
+rarity: C
+number: '174'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 1
+str: '5'
+vit: '1'
+site: 4
+en:
+  title: Goblin Backstabber
+  subtitle: ''
+  text: 'This minion is **damage +2** while in the same skirmish as another :moria: Orc.'
+  lore: An attack from behind provides a cowardly Goblin with a boldness much like courage.
+de:
+  title: Goblin Meuchler
+  subtitle: ''
+  text: 'Der Goblin Meuchler erhält **Schaden +2**, wenn er am gleichen Kampf wie ein anderer :moria: Ork teilnimmt.'
+  lore: Ein Angriff von hinten gibt einem feigen Goblin ein Gefühl der Kühnheit, das fast an Mut grenzt.
+fr:
+  title: Meurtrier Gobelin
+  subtitle: ''
+  text: Ce séide a des **dégâts +2** tant qu’il participe au même combat qu’un autre Orque :moria:.
+  lore: Une attaque par derrière fournit à un lâche Gobelin une hardiesse semblable au courage.
+it:
+  title: Accoltellatore Goblin
+  subtitle: ''
+  text: Questo servitore ha **Danno +2** finché è nella stessa schermaglia di un altro Orco :moria:.
+  lore: Un attacco alle spalle infonde a un Goblin codardo un'audacia molto simile al coraggio.
+es:
+  title: Apuñalador Goblin
+  subtitle: ''
+  text: Este siervo es **daño +2** mientras este en la misma escaramuza que otro Orco :moria:.
+  lore: Un ataque por la espalda le da a un Goblin cobarde una audacia parecida al coraje.

@@ -1,0 +1,16 @@
+set: '17'
+rarity: R
+number: '79'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '2'
+site: 4
+en:
+  title: Orkish Invader
+  subtitle: ''
+  text: 'At the start of each skirmish involving this minion, you may reveal an :orc: condition from hand to wound the companion this minion is skirmishing twice and then discard this minion.'
+  lore: Spawned from terrible acts, the Orcs emerged as ruined and terrible forms of life.

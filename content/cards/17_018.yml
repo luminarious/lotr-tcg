@@ -1,0 +1,17 @@
+set: '17'
+rarity: R
+number: '18'
+unique: true
+culture: Gandalf
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+2'
+en:
+  title: Glamdring
+  subtitle: Orc Beater
+  text: |-
+    Bearer must be Gandalf.  
+    Bearer is **damage +1**.  
+    Each time a companion is about to take a wound, you may discard a companion from hand to prevent that.
+  lore: …in his other hand Glamdring gleamed, cold and white.

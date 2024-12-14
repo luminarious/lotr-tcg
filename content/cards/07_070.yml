@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '70'
+unique: true
+culture: Gollum
+type: Event
+class: Fellowship
+cost: 3
+en:
+  title: Serving the Precious
+  subtitle: ''
+  text: Discard Sméagol to play a companion from your discard pile.
+  lore: ‘Sméagol look after Master. Sméagol serve Master well!’
+de:
+  title: Dem Schatz dienen
+  subtitle: ''
+  text: Lege Sméagol ab, um einen Gefährten aus deinem Ablagestapel zu spielen.
+  lore: Sméagol passt auf den Herrn auf. Sméagol dient dem Herrn gut.

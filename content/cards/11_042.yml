@@ -1,0 +1,17 @@
+set: '11'
+rarity: R
+number: '42'
+unique: true
+culture: Gollum
+type: Minion
+cost: 2
+str: '5'
+vit: '4'
+site: 3
+en:
+  title: Gollum
+  subtitle: Skulker
+  text: |-
+    **Lurker.** (Skirmishes involving lurker minions must be resolved after any others.)   
+    **Skirmish:** Exert Gollum twice to make another minion strength +2.
+  lore: '‘O yes, Shelob will get him, not Sméagol: he promised; he won''t hurt Master at all.’'

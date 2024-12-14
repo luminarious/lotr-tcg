@@ -1,0 +1,13 @@
+set: '18'
+rarity: C
+number: '101'
+unique: true
+culture: Rohan
+type: Event
+class: Archery
+cost: 0
+en:
+  title: Precise Attack
+  subtitle: ''
+  text: 'Discard a :rohan: possession from play to choose one: Wound an unwounded minion; exert a minion; or discard a Shadow card the Ring-bearer is bearing.'
+  lore: Éomer’s spear, now thrown, brought down the Haradrim leader.

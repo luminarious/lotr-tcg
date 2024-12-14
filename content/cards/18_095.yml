@@ -1,0 +1,16 @@
+set: '18'
+rarity: R
+number: '95'
+unique: true
+culture: Rohan
+type: Possession
+class: Ranged Weapon
+cost: 1
+en:
+  title: Éomer's Bow
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    If bearer is mounted, he or she is strength +1.  
+    **Archery:** If bearer is Éomer, exert him to choose a Shadow player who must exert one of his or her minions.
+  lore: The short bows of Rohan brought down many a foe on the fields of battle.

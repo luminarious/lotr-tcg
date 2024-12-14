@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '11'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Out of Darkness
+  subtitle: ''
+  text: Make a Dwarf strength +2. You may also exert that Dwarf to draw 2 cards.
+  lore: ‘Had I known what was before me, I think that not for any friendship would I have taken the Paths of the Dead.’
+de:
+  title: Aus dem Dunkeln
+  subtitle: ''
+  text: Gib einem Zwerg Stärke +2. Du darfst diesen Zwerg anstrengen, um 2 Karten zu ziehen.
+  lore: Hätte ich gewusst, was vor mir lag, dann glaube ich, dass ich um keiner Freundschaft willen die Pfade der Toten eingeschlagen hätte.

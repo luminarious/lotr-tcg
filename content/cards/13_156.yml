@@ -1,0 +1,19 @@
+set: '13'
+rarity: R
+number: '156'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 2
+str: '3'
+vit: '4'
+res: '5'
+en:
+  title: Sam
+  subtitle: Bearer of Great Need
+  text: |-
+    **Ring-bound.**  
+    Sam is resistance +1 for each Hobbit you can spot.  
+    **Regroup:** Exert Sam and transfer a follower he is bearing to your support area to discard a minion from play.
+  lore: ‘…the last of all the Company. The errand must not fail.’

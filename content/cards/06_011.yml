@@ -1,0 +1,33 @@
+set: '6'
+rarity: R
+number: '11'
+unique: true
+culture: Dwarven
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Toss Me
+  subtitle: ''
+  text: 'While this card is stacked on a :dwarven: condition, Gimli is strength +1. **Fellowship:** Place this card or another :dwarven: card from hand on top of or beneath your draw deck.'
+  lore: ‘Don't tell the Elf.’
+de:
+  title: Wirf mich
+  subtitle: ''
+  text: 'Solange diese Karte auf einem ? Effekt lagert, erhält Gimli Stärke +1. Gemeinschaft: Lege diese Karte oder eine andere ? Karte aus deiner Hand entweder oben auf oder unter dein Spieldeck.'
+  lore: Sag’s nicht dem Elb.
+fr:
+  title: Lancez-Moi
+  subtitle: ''
+  text: 'Tant que cette carte est empilée sur une situation ?, Gimli a +1 en force. Compagnie : Placez cette carte ou une autre carte ? de votre main sur ou sous votre pioche.'
+  lore: 'Ne le dites pas à l''Elfe.” '
+it:
+  title: Lanciami
+  subtitle: ''
+  text: 'Mentre questa carta è impilata su una condizione ?, aggiungi +1 alla forza di Gimli. Compagnia: Piazza questa carta o un’altra carta ? dalla mano in cima o sotto il tuo mazzo di gioco.'
+  lore: ‘Non dirlo all'Elfo.’
+es:
+  title: Empújame
+  subtitle: ''
+  text: 'Mientras esta carta está apilada en una condición ?, Gimli es fuerza +1. Comunidad: Coloca esta carta u otra carta ? de la mano sobre o debajo de tu mazo de robar.'
+  lore: No se lo digas al Elfo.

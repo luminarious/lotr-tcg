@@ -1,0 +1,44 @@
+set: '5'
+rarity: R
+number: '71'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 6
+str: '13'
+vit: '3'
+site: 4
+en:
+  title: Company of Haradrim
+  subtitle: ''
+  text: |-
+    **Southron.**  
+    **Regroup:** Remove :twilight9: and spot another Southron to make the move limit -1 for this turn (to a minimum of 1).
+  lore: The quick movements of Southron soldiers cut off all paths of retreat.
+de:
+  title: Kohorte der Haradrim
+  subtitle: ''
+  text: '**Südländer.** **Sammeln:** Verringere den Einfluss um :twilight9: und entdecke einen anderen Südländer, um die Bewegungsweite für diesen Spielzug um 1 zu reduzieren (bis auf ein Minimum von 1).'
+  lore: Die schnellen Truppenbewegungen der Südlandsoldaten schnitten alle Rückzugswege ab.
+fr:
+  title: Compagnie de Haradrim
+  subtitle: ''
+  text: |-
+    **Suderon**   
+    **Ralliement :** Retirez :twilight9: et désignez un autre Suderon pour donner -1 à la limite de déplacement ce tour-ci (jusqu’à un minimum de 1).
+  lore: Les mouvements rapides des soldats suderons coupèrent toute retraite possible.
+it:
+  title: Compagnia di Haradrim
+  subtitle: ''
+  text: |-
+    **Sudrone.**   
+    **Raccolta:** Rimuovi · e avvista un altro Sudrone per sottrarre -1 al limite dei movimenti per questo turno (con un minimo di 1).
+  lore: I veloci movimenti dei soldati Sudroni tagliarono fuori tutte le vie di fuga.
+es:
+  title: Compañía de Haradrim
+  subtitle: ''
+  text: |-
+    **Sureño.**   
+    **Reagrupación:** Quita :twilight9: y avista otro Sureño para hacer que el límite de movimiento de este turno sea -1 (hasta un mínimo de 1).
+  lore: Los rápidos movimientos de los soldados Sureños cortaron todos los caminos de retirada.

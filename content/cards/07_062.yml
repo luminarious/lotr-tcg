@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '62'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: It's Mine
+  subtitle: ''
+  text: '**Shadow:** Remove :twilight1: and exert Gollum to discard the top card of your draw deck. If that card is a :gollum: or :wraith: card, take it into hand.'
+  lore: ‘See! See! He wants it for himself.’
+de:
+  title: Er gehört mir
+  subtitle: ''
+  text: '**Schatten:** Verringere den Einfluss um :twilight1: und strenge Gollum an, um die oberste Karte deines Spieldecks abzulegen. Handelt es sich dabei um eine :gollum: oder :wraith: Karte, dann nimm sie auf deine Hand.'
+  lore: Siehst du? Er will ihn für sich.

@@ -1,0 +1,24 @@
+set: '8'
+rarity: U
+number: '107'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Their Marching Companies
+  subtitle: ''
+  text: |-
+    **Engine.** To play, spot a :sauron: minion.   
+    **Regroup:** Remove a threat to stack your :sauron: minion on a site you control.   
+    **Shadow:** Remove a threat to play a :sauron: minion stacked on a site you control.
+  lore: ‘The City is all set about with flame, and the field is full of foes.’
+de:
+  title: Vorrückende Truppen
+  subtitle: ''
+  text: |-
+    **Belagerungswaffe.** Entdecke einen :sauron: Diener, um diesen Effekt zu spielen.   
+    **Sammeln:** Entferne eine Bedrohung, um einen deiner :sauron: Diener auf einem Ort, den du kontrollierst, zu lagern.   
+    **Schatten:** Entferne eine Bedrohung, um einen :sauron: Diener zu spielen, der auf einem Ort lagert, den du kontrollierst.
+  lore: ''

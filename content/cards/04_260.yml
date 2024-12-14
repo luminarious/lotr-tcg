@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '260'
+unique: true
+culture: Raider
+type: Event
+class: Skirmish
+cost: 3
+en:
+  title: Whirling Strike
+  subtitle: ''
+  text: '**Skirmish:** Wound a companion or ally skirmishing a :raider: Man. '
+  lore: The Southrons fight with tactics the men of Gondor have never before seen.
+de:
+  title: Wirbelnder Schlag
+  subtitle: ''
+  text: '**Kampf** Verwunde einen Gefährten oder Verbündeten, der gegen einen :raider: Menschen kämpft.'
+  lore: Die Südländer kämpften in einer Art und Weise, die die Menschen von Gondor noch nie zuvor gesehen hatten.
+fr:
+  title: Coup Tourbillonnant
+  subtitle: ''
+  text: '**Combat :** Blessez un compagnon ou un allié combattant un Homme :raider:.'
+  lore: Les Suderons combattent avec des tactiques jamais vues par les hommes du Gondor.
+it:
+  title: Colpo Mulinante
+  subtitle: ''
+  text: '**Schermaglia:** Ferisci un compagno o un alleato che stia schermagliando con un Uomo :raider:.'
+  lore: I Sudroni attaccano utilizzando tattiche che gli Uomini di Gondor non hanno mai visto prima.
+es:
+  title: Golpe Giratorio
+  subtitle: ''
+  text: '**Escaramuza:** Hiere un compañero o aliado que esté en una escaramuza contra un Hombre :dunland:.'
+  lore: Los Sureños luchan usando tácticas que los hombres de Gondor no han visto nunca.

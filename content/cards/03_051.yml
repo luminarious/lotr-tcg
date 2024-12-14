@@ -1,0 +1,33 @@
+set: '3'
+rarity: C
+number: '51'
+unique: true
+culture: Isengard
+type: Event
+class: Regroup
+cost: 2
+en:
+  title: Coming for the Ring
+  subtitle: ''
+  text: '**Regroup:** Reveal a card at random from the Free Peoples player’s hand. Heal X :isengard: minions, where X is the twilight cost of the card revealed. '
+  lore: ‘This evil cannot be concealed by the power of the Elves….’
+de:
+  title: Sie wollen den Ring
+  subtitle: ''
+  text: '**Sammeln:** Decke eine zufällig bestimmte Karte aus der Hand des Freie Völker Spielers auf. Heile X :isengard: Diener, wobei X den Zwielichtkosten der aufgedeckten Karte entspricht.'
+  lore: Selbst das Reich der Elben ist der Macht des Bösen nicht gewachsen.
+fr:
+  title: Ils Viennent pour l'Anneau
+  subtitle: ''
+  text: '**Ralliement :** Révélez une carte au hasard de la main du joueur des Peuples Libres. Guérissez X séides :isengard:, où X est le coût crépusculaire de la carte révélée.'
+  lore: 'Ce mal ne peut pas être caché par la puissance des Elfes.” '
+it:
+  title: Vengono per l'Anello
+  subtitle: ''
+  text: '**Raccolta:** Mostra una carta a caso dalla mano del giocatore dei Popoli Liberi. Cura X servitori :isengard:, dove X è il costo crepuscolo della carta mostrata.'
+  lore: ‘Questa forza malvagia non può essere nascosta dal potere degli Elfi…’
+es:
+  title: Viniendo a por el Anillo
+  subtitle: ''
+  text: '**Reagrupación:** Revela una carta al azar de la mano del jugador de Gentes Libres. Cura X siervos :isengard:, donde X es el coste de penumbra de la carta revelada.'
+  lore: Este mal no puede ser ocultado mediante el poder de los Elfos…

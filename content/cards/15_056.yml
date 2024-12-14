@@ -1,0 +1,48 @@
+set: '15'
+rarity: R
+number: '56'
+unique: true
+culture: Gondor
+type: Possession
+class: Ranged Weapon
+cost: 1
+en:
+  title: Aragorn’s Bow
+  subtitle: Ranger’s Longbow
+  text: |-
+    Bearer must be Aragorn.  
+    He is an **archer**.  
+    **Archery:** Add a threat to wound a minion with the lowest strength.
+  lore: The bow can reach what the sword cannot.
+de:
+  title: Aragorn's Bow
+  subtitle: Ranger's Longbow
+  text: |-
+    Bearer must be Aragorn.  
+    He is an **archer**.  
+    **Archery:** Add a threat to wound a minion with the lowest strength.
+  lore: The bow can reach what the sword cannot.
+fr:
+  title: Aragorn's Bow
+  subtitle: Ranger's Longbow
+  text: |-
+    Bearer must be Aragorn.  
+    He is an **archer**.  
+    **Archery:** Add a threat to wound a minion with the lowest strength.
+  lore: The bow can reach what the sword cannot.
+it:
+  title: Aragorn's Bow
+  subtitle: Ranger's Longbow
+  text: |-
+    Bearer must be Aragorn.  
+    He is an **archer**.  
+    **Archery:** Add a threat to wound a minion with the lowest strength.
+  lore: The bow can reach what the sword cannot.
+es:
+  title: Aragorn's Bow
+  subtitle: Ranger's Longbow
+  text: |-
+    Bearer must be Aragorn.  
+    He is an **archer**.  
+    **Archery:** Add a threat to wound a minion with the lowest strength.
+  lore: The bow can reach what the sword cannot.

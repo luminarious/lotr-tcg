@@ -1,0 +1,23 @@
+set: '11'
+rarity: R
+number: '75'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 5
+str: '13'
+vit: '3'
+site: 4
+en:
+  title: Easterling Host
+  subtitle: ''
+  text: '**Lurker.** (Skirmishes involving lurker minions must be resolved after any others.) **Skirmish:** Exert Easterling Host and make it strength –2 until the regroup phase to make each other :men: minion strength +1 until the regroup phase. '
+  lore: Men of the East mass soldiers into huge groups.
+de:
+  title: Ostling Kriegsheer
+  subtitle: ''
+  text: |-
+    **Schleicher.   
+    Kampf:** Strenge das Ostling Kriegsheer an und gib ihm bis zur Sammelphase Stärke -2, um jedem anderen :men: Diener bis zur Sammelphase Stärke +1 zu geben.
+  lore: Die Männer des Ostens formieren Soldaten in großen Blöcken.

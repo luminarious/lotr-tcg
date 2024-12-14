@@ -1,0 +1,24 @@
+set: '7'
+rarity: U
+number: '109'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Long Prepared
+  subtitle: ''
+  text: |-
+    To play, add 2 threats.   
+    **Skirmish:** Exert a :gondor: Man to wound a roaming minion that Man is skirmishing.   
+    Discard this condition at the start of the regroup phase.
+  lore: ''
+de:
+  title: Seit langem geplant
+  subtitle: ''
+  text: |-
+    Lasse 2 Bedrohungen entstehen, um diesen Effekt zu spielen.   
+    **Kampf:** Strenge einen :gondor: Menschen an, um einen wandernden Diener, der gegen diesen Menschen kämpft, zu verwunden.   
+    Lege diesen Effekt zu Beginn der Sammelphase ab.
+  lore: Ich meinerseits wusste schon lange…

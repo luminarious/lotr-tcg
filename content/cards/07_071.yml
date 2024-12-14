@@ -1,0 +1,17 @@
+set: '7'
+rarity: R
+number: '71'
+unique: true
+culture: Gollum
+type: Companion
+cost: 0
+str: '3'
+vit: '4'
+signet: Signet_Frodo
+en:
+  title: Sméagol
+  subtitle: Always Helps
+  text: |-
+    **Ring-bound.** To play, add a burden.   
+    **Assignment:** Assign a minion to Sméagol and add 2 threats to exhaust that minion.
+  lore: ''

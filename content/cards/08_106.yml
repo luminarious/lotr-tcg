@@ -1,0 +1,25 @@
+set: '8'
+rarity: C
+number: '106'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 8
+str: '20'
+vit: '4'
+site: 5
+en:
+  title: Siege Troop
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    **Regroup:** Exert this minion twice to take control of a site.
+  lore: ''
+de:
+  title: Belagerungstrupp
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    **Sammeln:** Strenge diesen Diener zweimal an, um einen Ort zu kontrollieren.
+  lore: … und treibt seine Hörigen in Raserei voran.

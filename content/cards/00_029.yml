@@ -1,0 +1,25 @@
+set: '0'
+rarity: W
+number: '29'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Easterling Pillager
+  subtitle: ''
+  text: |-
+    **Easterling.** **Fierce.**   
+    When you play this minion, you may spot another Easterling to add a burden for each companion over 5.
+  lore: Mount Doom™ Preview<BR> King Draft Pack
+de:
+  title: Ostling Plünderer
+  subtitle: ''
+  text: |-
+    **Ostling.** **Erbittert.**   
+    Du darfst einen anderen Ostling entdecken, wenn du diesen Diener spielst, um eine Lastmarke für jeden Gefährten über 5, den du entdeckst, auf den Ringträger zu legen.
+  lore: Mount Doom™ Preview<BR> King Draft Pack

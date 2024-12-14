@@ -1,0 +1,24 @@
+set: '7'
+rarity: R
+number: '101'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Guarded
+  subtitle: ''
+  text: |-
+    To play, spot 3 :gondor: Men.   
+    Each time the fellowship moves, add a threat or discard this condition.   
+    **Regroup:** Discard this condition to discard a minion (or all roaming minions).
+  lore: ''
+de:
+  title: Bewacht
+  subtitle: ''
+  text: |-
+    Entdecke 3 :gondor: Menschen, um diesen Effekt zu spielen.   
+    Lasse, jedes Mal, wenn sich die Gemeinschaft bewegt, eine Bedrohung entstehen oder lege diesen Effekt ab.   
+    **Sammeln:** Lege diesen Effekt ab, um einen Diener abzulegen (oder alle wandernden Diener).
+  lore: ''

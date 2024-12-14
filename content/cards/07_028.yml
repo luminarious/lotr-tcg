@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '28'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Shadow Between
+  subtitle: ''
+  text: |-
+    To play, spot an Elf.   
+    At the start of your regroup phase, you may discard this condition or a card from hand to heal an Elf.
+  lore: ''
+de:
+  title: Schatten des Zweifels
+  subtitle: ''
+  text: |-
+    Entdecke einen Elben, um diese Karte zu spielen.   
+    Zu Beginn deiner Sammelphase, darfst diesen Effekt oder eine Karte aus deiner Hand ablegen, um einen Elben zu heilen.
+  lore: Aber habe ich dir nicht weisgesagt, dass du weder ein Weib haben noch je eine Frau an dich binden wirst….

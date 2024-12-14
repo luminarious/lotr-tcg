@@ -1,0 +1,21 @@
+set: '13'
+rarity: C
+number: '157'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 2
+str: '3'
+vit: '3'
+res: '7'
+en:
+  title: Westfarthing Businessman
+  subtitle: ''
+  text: 'This companion is strength +1 for each :shire: card that has a culture token on it.'
+  lore: ‘There’s a tidy bit of money tucked away up there, I hear tell….’
+de:
+  title: Kaufmann aus dem Westviertel
+  subtitle: ''
+  text: 'Dieser Gefährte erhält Stärke +1 für jede :shire: Karte, auf der eine Kulturmarke liegt.'
+  lore: Ein hübsches Stück Geld ist da oben versteckt, heißt es….

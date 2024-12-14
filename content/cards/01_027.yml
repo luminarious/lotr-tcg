@@ -1,0 +1,16 @@
+set: '1'
+rarity: U
+number: '27'
+unique: true
+culture: Dwarven
+type: Ally
+race: Dwarf
+cost: 1
+str: '4'
+vit: '2'
+site: '3'
+en:
+  title: Thrarin
+  subtitle: Dwarven Smith
+  text: '**Maneuver:** Exert Thrarin to allow him to participate in archery fire and skirmishes until the regroup phase.'
+  lore: A blacksmith by trade, Thrarin puts down his hammer and takes up his axe to fight when the need arises.

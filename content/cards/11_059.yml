@@ -1,0 +1,21 @@
+set: '11'
+rarity: U
+number: '59'
+unique: true
+culture: Gondor
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Gondorian Blade
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.   
+    While bearer is a ranger or at a river site, he or she is **Damage +1.** 
+  lore: While many knights of Gondor favor hand-and-a-half swords, lighter weapons are often preferred by the rangers who patrol Ithilien.
+de:
+  title: Gondorklinge
+  subtitle: ''
+  text: 'Muss auf einen :gondor: Menschen gespielt werden. Solange sich der Träger an einem Fluss befindet oder Waldläufer ist, erhält er **Schaden +1**.'
+  lore: Während viele Ritter von Gondor anderthalbhändige Schwerter bevorzugten, verwendeten die Waldläufer von Ithilien lieber leichtere Waffen.

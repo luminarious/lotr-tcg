@@ -1,0 +1,21 @@
+set: '7'
+rarity: U
+number: '289'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '2'
+site: 6
+en:
+  title: Mordor Savage
+  subtitle: ''
+  text: '**Skirmish:** Exert this minion and spot another :sauron: minion to add a threat.'
+  lore: …he watched the enemy come charging to the assault.
+de:
+  title: Wilder Ork aus Mordor
+  subtitle: ''
+  text: '**Kampf:** Strenge diesen Diener an und entdecke einen anderen :sauron: Diener, um eine Bedrohung entstehen zu lassen.'
+  lore: …als er beobachtete, wie der Feind zum Angriff herankam.

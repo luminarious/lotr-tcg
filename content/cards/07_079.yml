@@ -1,0 +1,17 @@
+set: '7'
+rarity: R
+number: '79'
+unique: true
+culture: Gondor
+type: Artifact
+class: Hand Weapon
+cost: 3
+str: '+2'
+vit: '+1'
+en:
+  title: Andúril
+  subtitle: Flame of the West
+  text: |-
+    Bearer must be Aragorn. Discard other weapons he bears. He is **damage +1** and cannot bear other weapons.   
+    **Fellowship** or **Regroup:** If the fellowship is at any site 2 or any site 5, play the fellowship’s next site (replacing opponent’s site if necessary).
+  lore: ''

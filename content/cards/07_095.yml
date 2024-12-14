@@ -1,0 +1,24 @@
+set: '7'
+rarity: R
+number: '95'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Gondor Still Stands
+  subtitle: ''
+  text: |-
+    To play, spot 3 :gondor: companions.   
+    While no opponent controls a site, wound a minion at the start of each regroup phase.   
+    **Regroup:** Discard this condition to place a :gondor: fortification from your discard pile on top of your draw deck.
+  lore: ''
+de:
+  title: Noch leistet Gondor Widerstand
+  subtitle: ''
+  text: |-
+    Entdecke 3 :gondor: Gefährten, um diesen Effekt zu spielen.   
+    Verwunde einen Diener zu Beginn der Sammelphase, solange kein Gegner einen Ort kontrolliert.   
+    **Sammeln:** Lege diesen Effekt ab, um eine :gondor: Befestigung aus deinem Ablagestapel oben auf dein Spieldeck zu legen.
+  lore: ''

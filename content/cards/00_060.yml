@@ -1,0 +1,24 @@
+set: '0'
+rarity: P
+number: '60'
+unique: true
+culture: Shire
+type: Possession
+class: Support Area
+cost: 1
+en:
+  title: Tom Bombadil's Hat
+  subtitle: ''
+  text: |-
+    To play, spot 2 :shire: companions.  
+    Each time a Shadow card adds a burden or a threat, add a :shire: token here.  
+    **Fellowship:** Remove 2 :shire: tokens from here to remove a burden. 
+  lore: ''
+de:
+  title: Tom Bombadils Hut
+  subtitle: ''
+  text: |-
+    Entdecke 2 :shire: Gefährten um diese Karte zu spielen.   
+    Jedes Mal, wenn eine Schattenkarte eine Bedrohung oder eine Lastmarke zufügt, darfst du eine :shire: Marke auf diese Karte legen.   
+    **Gemeinschaft:** Entferne eine :shire: Marke von hier, um eine Lastmarke zu entfernen. 
+  lore: ''

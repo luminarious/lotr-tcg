@@ -1,0 +1,18 @@
+set: '10'
+rarity: R
+number: '1'
+unique: true
+culture: Dwarven
+type: Event
+class: Response
+cost: 3
+en:
+  title: Great Day, Great Hour
+  subtitle: ''
+  text: If an opponent plays a minion, exert a Dwarf who is damage +X to exert that minion X times
+  lore: ‘“Oft hope is born, when all is forlorn.”’
+de:
+  title: Ein großer Tag, eine große Stunde
+  subtitle: ''
+  text: Strenge einen Zwerg an, der Schaden +X macht, wenn ein Gegenspieler einen Diener spielt, um diesen X mal anzustrengen.
+  lore: Oft wird Hoffnung geboren, wenn alles ist verloren.

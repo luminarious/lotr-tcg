@@ -1,0 +1,19 @@
+set: '18'
+rarity: R
+number: '38'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 4
+str: '8'
+vit: '4'
+res: '8'
+en:
+  title: Aragorn
+  subtitle: Heir to the Throne of Gondor
+  text: |-
+    **Hunter 2.**  
+    While you can spot 3 Free Peoples cultures, Aragorn is **defender +1**.  
+    While you can spot 2 Shadow cultures, Aragorn is **defender +1**.
+  lore: ''

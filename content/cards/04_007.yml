@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '7'
+unique: true
+culture: Dunland
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Dark Fury
+  subtitle: ''
+  text: '**Skirmish:** Make a :dunland: Man strength +2 (or +4 if at a sanctuary). '
+  lore: Dunland and Dunlendings are the names that the Rohirrim gave to them, because they were swarthy and dark-haired….
+de:
+  title: Dunkle Wut
+  subtitle: ''
+  text: '**Kampf** Gib einem :dunland: Menschen Stärke +2 (oder Stärke +4, wenn er sich an einer Zuflucht befindet).'
+  lore: Dunland und Dunländer sind die Namen, die die Rohirrim ihnen gaben, weil sie schwärzlich und dunkelhaarig waren.
+fr:
+  title: Fureur Noire
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force à un Homme :dunland: (ou +4 s’il est à un sanctuaire).'
+  lore: 'Les Rohirrim, eux, les appelaient gens du Pays de Dun, ou Ceux du Pays de Dun parce qu''ils avaient le teint basané et le cheveu noir… '
+it:
+  title: Furia Oscura
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Uomo :dunland: (o +4 se è presso un rifugio).'
+  lore: Dunland e Dunlandiani erano i nomi dati loro dai Rohirrim, perché erano scuri di pelle e di capelli…
+es:
+  title: Furia Oscura
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Hombre :dunland: fuerza +2 (o +4 si está en un santuario).'
+  lore: Dunlendinos de las Tierras Pardas fue el nombre que los Rohirrim les dieron, porque eran de cabellos negros y rostros cetrinos…

@@ -1,0 +1,18 @@
+set: '17'
+rarity: C
+number: '77'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Orkish Flanker
+  subtitle: ''
+  text: |-
+    Each time this minion wins a skirmish, if it is mounted, exert a companion.  
+    **Shadow:** Exert 3 :orc: minions and spot an :orc: mount to discard a condition.
+  lore: Quick to contain their fleeing victims, the Orkish riders were always feared.

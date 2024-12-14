@@ -1,0 +1,18 @@
+set: '12'
+rarity: S
+number: '188'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Right
+en:
+  title: Hill of Sight
+  subtitle: ''
+  text: '**Battleground. Forest.** While you can spot 3 minions (or 6 companions), each unbound companion is resistance –2.'
+  lore: ''
+de:
+  title: Berg des Auges
+  subtitle: ''
+  text: '**Schlachtfeld. Wald.** Solange du 3 Diener (oder 6 Gefährten) ent-decken kannst, erhält jeder nicht-verbundene Gefährte Resistenz -2.'
+  lore: ''

@@ -1,0 +1,49 @@
+set: '15'
+rarity: R
+number: '173'
+unique: true
+culture: Uruk-hai
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+1'
+en:
+  title: Uglúk’s Sword
+  subtitle: Weapon of Command
+  text: |-
+    Bearer must be an :urukhai: Uruk-hai.  
+    While you control 2 or more sites, bearer can not take wounds (except during skirmish phases).  
+    If bearer is Uglúk, he is **damage +1**.
+  lore: ‘I don't trust you little swine.’
+de:
+  title: Uglúk's Sword
+  subtitle: Weapon of Command
+  text: |-
+    Bearer must be an :urukhai: Uruk-hai.  
+    While you control 2 or more sites, bearer can not take wounds (except during skirmish phases).  
+    If bearer is Uglúk, he is **damage +1**.
+  lore: ‘I don't trust you little swine.’
+fr:
+  title: Uglúk's Sword
+  subtitle: Weapon of Command
+  text: |-
+    Bearer must be an :urukhai: Uruk-hai.  
+    While you control 2 or more sites, bearer can not take wounds (except during skirmish phases).  
+    If bearer is Uglúk, he is **damage +1**.
+  lore: ‘I don't trust you little swine.’
+it:
+  title: Uglúk's Sword
+  subtitle: Weapon of Command
+  text: |-
+    Bearer must be an :urukhai: Uruk-hai.  
+    While you control 2 or more sites, bearer can not take wounds (except during skirmish phases).  
+    If bearer is Uglúk, he is **damage +1**.
+  lore: ‘I don't trust you little swine.’
+es:
+  title: Uglúk's Sword
+  subtitle: Weapon of Command
+  text: |-
+    Bearer must be an :urukhai: Uruk-hai.  
+    While you control 2 or more sites, bearer can not take wounds (except during skirmish phases).  
+    If bearer is Uglúk, he is **damage +1**.
+  lore: ‘I don't trust you little swine.’

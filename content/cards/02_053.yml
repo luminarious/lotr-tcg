@@ -1,0 +1,39 @@
+set: '2'
+rarity: R
+number: '53'
+unique: true
+culture: Moria
+type: Possession
+cost: 1
+str: '+2'
+en:
+  title: Cave Troll's Chain
+  subtitle: ''
+  text: |-
+    Bearer must be Cave Troll of Moria.   
+    The Free Peoples player may choose for the archery phase to be skipped.   
+    Each time Cave Troll of Moria takes a wound during the archery phase, you may wound an archer companion. 
+  lore: ‘They have a Cave Troll!’
+de:
+  title: Die Kette des Höhlentrolls
+  subtitle: ''
+  text: Muss auf den Höhlentroll von Moria gespielt werden. Der Freie Völker Spieler darf ent-scheiden, ob die Fernkampfphase übersprungen wird. Jedesmal, wenn der Höhlentroll von Moria während der Fernkampfphase eine Wunde erhält, darfst du einen Gefährten, der Bogenshütze ist, verwunden.
+  lore: Sie haben einen Höhlentroll!
+fr:
+  title: La Chaîne du Troll des Cavernes
+  subtitle: ''
+  text: |-
+    Le détenteur doit être le Troll des Cavernes.  
+    Le joueur des Peuples Libres peut choisir d’ignorer la phase d’archerie.  
+    Chaque fois que le Troll des Cavernes est blessé pendant la phase d’archerie, vous pouvez blesser un compagnon archer.
+  lore: 'Ils ont un troll des cavernes.” '
+it:
+  title: Catena del Troll delle Caverne
+  subtitle: ''
+  text: Il possessore deve essere il Troll delle Caverne. Il giocatore dei Popoli Liberi può scegliere di saltare la fase degli Arcieri. Ogni volta che il Troll delle Caverne subisce una ferita durante la fase degli arcieri, puoi ferire un compagno arciere.
+  lore: ‘C'è anche un Troll!’
+es:
+  title: La cadena del troll de las cuevas
+  subtitle: ''
+  text: El portador debe ser el Troll de las Cuevas. El jugador de Gentes Libres puede elegir saltar la fase de arquería. Cada vez que el Troll de las Cuevas recibe una herida durante la fase de arquería, puedes herir un compañero **arquero.**
+  lore: ¡Tienen un Troll de las Cuevas!

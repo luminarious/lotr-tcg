@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '196'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 5
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Morgul Predator
+  subtitle: ''
+  text: '**Skirmish:** Exert this minion to make a Nazgûl or :wraith: Orc strength +1.'
+  lore: ‘…driving his slaves in madness on before.’
+de:
+  title: Morgul Bluthund
+  subtitle: ''
+  text: '**Kampf:** Strenge diesen Diener an, um einem Nazgûl oder :wraith: Ork Stärke +1 zu geben.'
+  lore: …und treibt seine Hörigen in Raserei voran.

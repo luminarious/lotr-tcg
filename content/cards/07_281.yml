@@ -1,0 +1,24 @@
+set: '7'
+rarity: U
+number: '281'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Great Siege-towers
+  subtitle: ''
+  text: |-
+    **Engine.**   
+    **Shadow:** Play a besieger to place a :sauron: token here.   
+    **Skirmish:** Remove a :sauron: token from a condition to make a :sauron: Orc strength +1 (limit +2).
+  lore: ''
+de:
+  title: Gewaltige Belagerungstürme
+  subtitle: ''
+  text: |-
+    **Belagerungswaffe.**   
+    **Schatten:** Spiele einen Belagerer, um eine :sauron: Marke auf diese Karte zu legen.   
+    **Kampf:** Entferne eine :sauron: Marke von einem Effekt, um einem :sauron: Ork Stärke +1 zu geben (maximal +2).
+  lore: ''

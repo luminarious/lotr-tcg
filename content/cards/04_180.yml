@@ -1,0 +1,45 @@
+set: '4'
+rarity: C
+number: '180'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '6'
+vit: '2'
+site: 5
+en:
+  title: Uruk Besieger
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    **Regroup:** Stack this minion on a site you control.  
+    **Shadow:** If stacked on a site you control, play this minion. Its twilight cost is -1. 
+  lore: Fresh troops awaited to attack any weakness.
+de:
+  title: Uruk Belagerer
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    **Sammeln:** Lagere diesen Diener auf einem Ort, den du kontrollierst. **Schatten:** Spiele diesen Diener mit um 1 reduzierten Zwielichtkosten, wenn er auf einem Ort lagert, den du kontrollierst.
+  lore: Ausgeruhte Truppen warteten darauf, die Schwachstellen anzugreifen.
+fr:
+  title: Assiégeant Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    **Ralliement :** Empilez ce séide sur un site que vous contrôlez. Ombre : Si ce séide est empilé sur un site que vous contrôlez, jouez-le. Son coût crépusculaire est de -1.
+  lore: Des nouvelles troupes se préparaient à exploiter toute faiblesse.
+it:
+  title: Assediante Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    **Raccolta:** Impila questo servitore su un sito che controlli. **Ombra:** Se impilato su un sito che controlli, gioca questo servitore. Sottrai -1 al suo costo **Crepuscolo.**
+  lore: Truppe fresche attendevano per attaccare un punto debole.
+es:
+  title: Asediador Uruk
+  subtitle: ''
+  text: '**Daño +1.** **Reagrupación:** Apila este siervo en un sitio que controles. **Sombra:** Si está apilado en un sitio que controles, juega este siervo. Su coste de penumbra es -1.'
+  lore: Tropas de refresco esperaban para atacar cualquier punto débil.

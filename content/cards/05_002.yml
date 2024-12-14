@@ -1,0 +1,36 @@
+set: '5'
+rarity: U
+number: '2'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 2
+str: '10'
+vit: '1'
+site: 3
+en:
+  title: Dunlending Renegade
+  subtitle: ''
+  text: When you play this minion, the Free Peoples player may discard 2 cards from hand to discard him.
+  lore: The strength of the hillmen was driven by passion and anger.
+de:
+  title: Abtrünninger Dunländer
+  subtitle: ''
+  text: Wenn du diesen Diener spielst, darf der Freie Völker Spieler 2 Karten aus seiner Hand ablegen, um diesen Diener abzulegen.
+  lore: Die Bergbewohner zogen ihre Kraft aus ihrem leidenschaftlichen Zorn.
+fr:
+  title: Renégat Dun
+  subtitle: ''
+  text: Quand vous jouez ce séide, le joueur des Peuples Libres peut défausser 2 cartes de sa main pour le défausser.
+  lore: La force des hommes des collines était issue de la passion et de la haîne.
+it:
+  title: Rinnegato Dunlandiano
+  subtitle: ''
+  text: Quando giochi questo servitore, il giocatore dei Popoli Liberi può scartare 2 carte dalla mano per scartarlo.
+  lore: La forza degli uomini delle colline nasceva da una rabbia profonda.
+es:
+  title: Renegado Dunlendino
+  subtitle: ''
+  text: Cuando juegas este siervo, el jugador de Gentes Libres puede descartar 2 cartas de la mano para descartarlo.
+  lore: La fuerza de los hombres de las colinas era conducida por la ira y la pasión.

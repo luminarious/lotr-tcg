@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '81'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 4
+str: '8'
+vit: '4'
+signet: Signet_Aragorn
+en:
+  title: Aragorn
+  subtitle: Captain of Gondor
+  text: |-
+    **Knight.**   
+    At the start of each fellowship phase, you may add :twilight2: to heal another :gondor: companion.
+  lore: ''

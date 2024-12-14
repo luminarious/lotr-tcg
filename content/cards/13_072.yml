@@ -1,0 +1,47 @@
+set: '13'
+rarity: U
+number: '72'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Kings’ Legacy
+  subtitle: ''
+  text: |-
+    Each time Elendil wins a skirmish, make a :gondor: or :elven: companion strength +2 until the start of the regroup phase.  
+    Each time Isildur wins a skirmish, heal a Man.  
+    Each time Aragorn wins a skirmish, make a :gondor: Man **damage +1** until the start of the regroup phase.
+  lore: ''
+de:
+  title: Das Vermächtnisder Könige
+  subtitle: ''
+  text: |-
+    Jedes Mal, wenn Elendil einen Kampf gewinnt, darfst du einem :gondor: oder :elven: Gefährten bis zu Beginn der Sammelphase Stärke +2 zu geben. Heile jedes Mal, wenn Isildur einen Kampf gewinnt, einen Menschen.  
+    Jedes Mal, wenn Aragorn einen Kampf ge-winnt, darfst du einem :gondor: Menschen bis zu Be-ginn der Sammelphase **Schaden +1** geben.
+  lore: ''
+fr:
+  title: Kings' Legacy
+  subtitle: ''
+  text: |-
+    Each time Elendil wins a skirmish, make a :gondor: or :elven: companion strength +2 until the start of the regroup phase.  
+    Each time Isildur wins a skirmish, heal a Man.  
+    Each time Aragorn wins a skirmish, make a :gondor: Man **damage +1** until the start of the regroup phase.
+  lore: ''
+it:
+  title: Kings' Legacy
+  subtitle: ''
+  text: |-
+    Each time Elendil wins a skirmish, make a :gondor: or :elven: companion strength +2 until the start of the regroup phase.  
+    Each time Isildur wins a skirmish, heal a Man.  
+    Each time Aragorn wins a skirmish, make a :gondor: Man **damage +1** until the start of the regroup phase.
+  lore: ''
+es:
+  title: Kings' Legacy
+  subtitle: ''
+  text: |-
+    Each time Elendil wins a skirmish, make a :gondor: or :elven: companion strength +2 until the start of the regroup phase.  
+    Each time Isildur wins a skirmish, heal a Man.  
+    Each time Aragorn wins a skirmish, make a :gondor: Man **damage +1** until the start of the regroup phase.
+  lore: ''

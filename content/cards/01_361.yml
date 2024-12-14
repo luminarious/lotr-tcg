@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '361'
+unique: true
+culture: ''
+type: Site
+cost: 9
+siteArrow: Left
+en:
+  title: Slopes of Amon Hen
+  subtitle: ''
+  text: 'The twilight cost of each :isengard: minion is -1.'
+  lore: ''
+de:
+  title: Die Hänge des Amon Hen
+  subtitle: ''
+  text: 'Die Zwielichtkosten aller :isengard: Diener verringern sich um 1.'
+  lore: ''
+fr:
+  title: Pentes d'Amon Hen
+  subtitle: ''
+  text: 'Le coût crépusculaire de chaque séide :isengard: est de -1.'
+  lore: ''
+it:
+  title: Pendio di Amon Hen
+  subtitle: ''
+  text: Sottrai -1 al costo crepuscolo di ogni servitore :isengard:.
+  lore: ''
+es:
+  title: Laderas de Amon Hen
+  subtitle: ''
+  text: 'El coste de penumbra de cada siervo :isengard: es -1.'
+  lore: ''

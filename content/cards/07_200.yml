@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '200'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Morgul Spawn
+  subtitle: ''
+  text: While you can spot a Nazgûl, the Free Peoples player must exert a companion to assign this minion to a skirmish.
+  lore: ‘…the fear of him has passed before him over the River.’
+de:
+  title: Morgulbrut
+  subtitle: ''
+  text: Solange du einen Nazgûl entdecken kannst, muss der Freie Völker Spieler einen Gefährten anstrengen, um diesen Diener einem Kampf zuzuweisen.
+  lore: …und die Furcht vor ihm ist schon über den Fluss vorausgeeilt.

@@ -1,0 +1,16 @@
+set: '17'
+rarity: U
+number: '1'
+unique: true
+culture: Dwarven
+type: Possession
+class: Armor
+cost: 2
+en:
+  title: Armor of Khazâd
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf.  
+    Each time bearer is about to take a wound, you may add a threat to prevent that.  
+    **Regroup:** Discard this possession to take up to 2 other :dwarven: possessions into hand from your discard pile.
+  lore: ''

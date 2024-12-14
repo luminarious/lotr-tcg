@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '243'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Morning Came
+  subtitle: ''
+  text: 'Make a :rohan: Man strength +4. Any Shadow player may place a random card from hand beneath his or her draw deck to make that Man strength +2 instead.'
+  lore: …morning and a wind from the sea; and darkness was removed, and the hosts of Mordor wailed….
+de:
+  title: Der Morgen brach an
+  subtitle: ''
+  text: 'Gib einem :rohan: Menschen Stärke +4. Ein beliebiger Schattenspieler darf eine zufällig bestimmte Karte aus seiner Hand unter sein Spieldeck legen, um diesem Menschen statt dessen Stärke +2 zu geben.'
+  lore: …der Morgen und ein Wind vom Meer; und die Dunkelheit verzog sich und die Heerscharen von Mordor jammerten…

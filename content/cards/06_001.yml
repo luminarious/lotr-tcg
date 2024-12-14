@@ -1,0 +1,33 @@
+set: '6'
+rarity: C
+number: '1'
+unique: true
+culture: Dunland
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Bound By Rage
+  subtitle: ''
+  text: 'When you play this condition, you may spot 2 :dunland: Men to place 2 :dunland: tokens here. **Response:** If a :dunland: Man is about to take a wound, discard this condition or remove a :dunland: token from here to prevent that wound.'
+  lore: ''
+de:
+  title: Im Hass vereint
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Du darfst 2 :dunland: Menschen entdecken, um 2 :dunland: Marken auf diese Karte zu legen, wenn du sie spielst. **Reaktion:** Entferne eine :dunland: Marke von dieser Karte oder lege diesen Effekt ab, wenn ein :dunland: Mensch ein Wunde erleidet, um diese zu verhindern.'
+  lore: ''
+fr:
+  title: Liés par la Rage
+  subtitle: ''
+  text: 'Quand vous jouez cette situation, vous pouvez désigner 2 Hommes :dunland: pour déposer 2 jetons :dunland: ici. **Réponse :** Si un Homme :dunland: est sur le point d’être blessé, défaussez cette situation ou retirez un jeton :dunland: de cette carte pour'
+  lore: ''
+it:
+  title: Spinti Dalla Rabbia
+  subtitle: ''
+  text: 'Quando giochi questa condizione, puoi avvistare 2 Uomini :dunland: per piazzare qui 2 segnalini :dunland:. **Risposta:** Se un Uomo :dunland: sta per subire una ferita, scarta questa condizione o rimuovi da qui un segnalino :dunland: per prevenire quella'
+  lore: ''
+es:
+  title: Obligado por la furia
+  subtitle: ''
+  text: 'Cuando juegas esta condición, puedes avistar 2 Hombres :dunland: para colocar 2 contadores :dunland: aquí. **Respuesta:** Si un Hombre :dunland: va a recibir una herida, descarta esta condición o quita un contador :dunland: para prevenirla.'
+  lore: ''

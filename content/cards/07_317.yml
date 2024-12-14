@@ -1,0 +1,20 @@
+set: '7'
+rarity: C
+number: '317'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 0
+str: '3'
+vit: '4'
+res: '10'
+signet: Signet_Aragorn
+en:
+  title: Frodo
+  subtitle: Hope of Free Peoples
+  text: |-
+    **Ring-bearer (resistance 10).**   
+    **Ring-bound.**   
+    Each time the fellowship moves, you may add :twilight3: to remove a threat.
+  lore: ''

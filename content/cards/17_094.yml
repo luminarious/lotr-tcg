@@ -1,0 +1,15 @@
+set: '17'
+rarity: U
+number: '94'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Dispatched With Haste
+  subtitle: ''
+  text: |-
+    While at a plains site, each mounted companion is strength +1.  
+    **Regroup:** Spot 2 :rohan: Men and discard a :rohan: possession to discard a possession. 
+  lore: Assemble the army at Dunharrow, as many men as can be found.

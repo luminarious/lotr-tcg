@@ -1,0 +1,25 @@
+set: '13'
+rarity: C
+number: '168'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Uruk Aggressor
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    When you play this, you may spot a companion who has resistance 0 to make this minion twilight cost –2.
+  lore: The defenses of the Hornburg were exploited, exposing their weakest points.
+de:
+  title: Aggressiver Uruk
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Du darfst beim Ausspielen dieser Karte einen Gefährten mit Resistenz 0 entdecken, um die Zwielichtkosten dieses Dieners um 2 zu reduzieren.
+  lore: Die Schwachpunkte in den Verteidigungsanlagen der Hornburg wurden erbarmungslos ausgenutzt.

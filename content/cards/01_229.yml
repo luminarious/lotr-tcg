@@ -1,0 +1,18 @@
+set: '1'
+rarity: R
+number: '229'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '12'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Attëa
+  subtitle: Keeper of Dol Guldur
+  text: |-
+    **Fierce.**   
+    **Skirmish:** Remove :twilight1: to make Úlairë Attëa strength +1 (limit +5).
+  lore: Those that knew the most power as kings were placed in particular ways for the Will of Sauron.

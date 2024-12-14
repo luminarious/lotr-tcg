@@ -1,0 +1,18 @@
+set: '10'
+rarity: U
+number: '98'
+unique: true
+culture: Sauron
+type: Event
+class: Response
+cost: 0
+en:
+  title: Ruinous Hail
+  subtitle: ''
+  text: 'If the Free Peoples player plays a possession, discard a :sauron: minion from hand to prevent him or her from playing any more cards until the end of this phase. '
+  lore: …they began to throw missiles marvelously high, so that they passed right above the battlement and fell thudding within the first circle of the City….
+de:
+  title: Zerstörerischer Geschosshagel
+  subtitle: ''
+  text: 'Lege einen :sauron: Diener aus deiner Hand ab, wenn der Freie Völker Spieler eine Ausrüstung spielt, um ihn daran zu hindern bis zum Ende dieser Phase weitere Karten zu spielen.'
+  lore: … da begannen sie… Geschosse so unwahrscheinlich hoch zu schleudern, daß sie über die Festungsmauer hinwegflogen und dumpf aufschlagend in den ersten Ring der Stadt fielen….

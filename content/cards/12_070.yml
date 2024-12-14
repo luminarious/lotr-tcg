@@ -1,0 +1,20 @@
+set: '12'
+rarity: C
+number: '70'
+unique: true
+culture: Man
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Hemmed In
+  subtitle: ''
+  text: |-
+    While you can spot 6 companions, each companion skirmishing a :men: minion loses all strength bonuses from possessions.   
+    **Maneuver:** Spot your :men: minion and discard this condition to transfer a Free Peoples possession borne by a companion to another eligible bearer.
+  lore: ''
+de:
+  title: Umzingelt
+  subtitle: ''
+  text: 'Solange du 6 Gefährten entdecken kannst, verlieren alle Gefährten, die gegen einen :men: Diener kämpfen, sämtliche Stärkeboni von Ausrüstungen. **Manöver:** Entdecke einen deiner :men: Diener und lege diesen Effekt ab, um eine Ausrüstung der Freien Völker von einem Gefährten an einen anderen möglichen Träger weiterzugeben.'
+  lore: ''

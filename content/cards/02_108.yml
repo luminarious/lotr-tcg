@@ -1,0 +1,28 @@
+set: '2'
+rarity: R
+number: '108'
+unique: true
+culture: Shire
+type: Condition
+cost: 1
+str: '+1'
+en:
+  title: O Elbereth! Gilthoniel!
+  subtitle: ''
+  text: |-
+    **Tale.** Bearer must be the Ring-bearer.   
+    **Skirmish:** Discard this condition to take off The One Ring or to cancel a skirmish involving the Ring-bearer and a Nazgûl. 
+  lore: With a last effort Frodo… slipped the Ring from his finger and closed his right hand tight upon it.
+fr:
+  title: Ô Elbereth! Gilthoniel!
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Le détenteur doit être le Porteur de l’Anneau.  
+    **Combat :** Défaussez cette situation pour retirer l’Anneau Unique ou pour annuler un combat impliquant le porteur de l’Anneau et un Nazgûl.
+  lore: 'Dans un ultime effort, Frodon… retira l''Anneau de son doigt et le tint dans sa main crispée. '
+es:
+  title: Oh Elbereth! Gilthoniel!
+  subtitle: ''
+  text: '**Cuento.** El portador debe ser el portador del Anillo. **Escaramuza:** Descarta esta condición para quitarte El Anillo Único o para cancelar una escaramuza implicando al Portador del Anillo y a un Nazgûl.'
+  lore: Haciendo un ultimo esfuerzo, Frodo se saco el Anillo del dedo y lo apretó en la mano derecha.

@@ -1,0 +1,23 @@
+set: '7'
+rarity: R
+number: '18'
+unique: true
+culture: Elven
+type: Possession
+class: Ranged Weapon
+cost: 1
+str: '+1'
+en:
+  title: Bow of the Galadhrim
+  subtitle: Gift of Galadriel
+  text: |-
+    Bearer must be Legolas.   
+    Each time you play an :elven: skirmish event during a skirmish involving Legolas, you may heal him.
+  lore: ''
+de:
+  title: Der Bogen der Galadrim
+  subtitle: Galadriels Geschenk
+  text: |-
+    Muss auf Legolas gespielt werden.   
+    Jedes Mal, wenn du ein :elven: Kampfereignis in einem Kampf spielst, an dem Legolas beteiligt ist, darfst du ihn heilen.
+  lore: ''

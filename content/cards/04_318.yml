@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '318'
+unique: true
+culture: Shire
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Seven We Had
+  subtitle: ''
+  text: '**Fellowship:** Add a burden to discard a condition borne by a Hobbit. '
+  lore: ‘…one we lost at Moria, the others we left at Parth Galen above Rauros….’
+de:
+  title: Sieben Gefährten hatten wir
+  subtitle: ''
+  text: '**Gemeinschaft.** Lege 1 Lastmarke auf den Ringträger, um einen Effekt von einem Hobbit abzulegen.'
+  lore: Einen verloren wir in Moria, die anderen verließen wir bei Parth Galen oberhalb von Rauros….
+fr:
+  title: Nous En Avions Sept
+  subtitle: ''
+  text: '**Compagnie :** Ajoutez un point-fardeau pour défausser une situation détenue par un Hobbit.'
+  lore: '… nous en perdîmes un à la Moria; les autres, nous les avons laissés à Parth Galen au-dessus du Rauros…” '
+it:
+  title: Sette ne Avevamo
+  subtitle: ''
+  text: '**Compagnia:** Aggiungi un segnalino fardello per scartare una condizione portata da un Hobbit.'
+  lore: ‘…uno lo perdemmo a Moria, gli altri li lasciammo a Parth Galen sopra Rauros…’
+es:
+  title: Teníamos Siete
+  subtitle: ''
+  text: '**Comunidad:** Añade una carga para descartar una condición llevada por un Hobbit.'
+  lore: …a uno lo perdimos en Moria, de los otros nos separamos en Parth Galen a orillas del Rauros…

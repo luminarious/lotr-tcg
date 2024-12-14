@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '129'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Mountain Orc
+  subtitle: ''
+  text: 'Each time this minion is assigned to skirmish a companion who has resistance 5 or less, exert that companion. '
+  lore: Larger Orcs are strong enough to run for many miles, and can tire out their prey before attacking.
+de:
+  title: Bergork
+  subtitle: ''
+  text: Jedes Mal, wenn dieser Diener einem Kampf gegen einen Gefährten mit Resistenz 5 oder weniger zugewiesen wird, strenge diesen Gefährten an.
+  lore: Größere Orks sind stark genug, ihre Opfer bis zur Erschöpfung zu hetzen, bevor sie angreifen.

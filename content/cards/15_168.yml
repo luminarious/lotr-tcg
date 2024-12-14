@@ -1,0 +1,18 @@
+set: '15'
+rarity: U
+number: '168'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '5'
+vit: '2'
+site: 5
+en:
+  title: Searching Uruk
+  subtitle: ''
+  text: |-
+    **Fierce. Hunter 1.***(While skirmishing a non-hunter character, this character is strength +1.)*  
+    Searching Uruk is strength +1 for each other :urukhai: hunter you can spot.
+  lore: ‘…we must stick together…’

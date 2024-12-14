@@ -1,0 +1,41 @@
+set: '5'
+rarity: U
+number: '20'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 3
+en:
+  title: Turn of the Tide
+  subtitle: ''
+  text: |-
+    **Spell.**  
+    **Maneuver:** Exert Gandalf to discard up to 2 Shadow possessions. Any Shadow player may discard a minion to prevent this.
+  lore: ‘Indeed my friends, none of you have any weapon that could hurt me.’
+de:
+  title: Am Wendepunkt der Gezeiten
+  subtitle: ''
+  text: '**Zauberspruch.** **Manöver:** Strenge Gandalf an, um bis zu 2 Schattenausrüstungen abzulegen. Ein beliebiger Schattenspieler darf einen Diener ablegen, um dies zu verhindern.'
+  lore: Fürwahr, meine Freunde, keiner von euch hat eine Waffe, die mich verletzen könnte.
+fr:
+  title: Le Renversement de la Marée
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Manœuvre :** Affaiblissez Gandalf pour défausser jusqu’à 2 possessions de l’Ombre. N’importe quel joueur de l’Ombre peut défausser un séide pour empêcher ceci.
+  lore: 'En vérité, mes amis, aucun de vous n''a d''arme capable de m''atteindre.” '
+it:
+  title: Mutare della Marea
+  subtitle: ''
+  text: |-
+    **Magia.**   
+    **Manovra:** Sforza Gandalf per scartare fino a 2 beni Ombra. Ogni giocatore Ombra può scartare un servitore per prevenire questo effetto.
+  lore: ‘In verità amici miei, nessuno di voi possiede armi che potrebbero ferirmi.’
+es:
+  title: Giro de la marea
+  subtitle: ''
+  text: |-
+    **Hechizo.**   
+    **Maniobra:** Esfuerza a Gandalf para descartar hasta 2 posesiones de Sombra. Cualquier jugador de Sombra puede descartar un siervo para prevenir esto.
+  lore: En verdad, amigos míos, ninguno de vosotros tiene aquí un arma que pueda lastimarme.

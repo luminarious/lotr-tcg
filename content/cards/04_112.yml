@@ -1,0 +1,37 @@
+set: '4'
+rarity: C
+number: '112'
+unique: true
+culture: Gondor
+type: Possession
+class: Gauntlets
+cost: 1
+en:
+  title: Boromir's Gauntlets
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.   
+    **Skirmish:** Exert bearer to cancel a skirmish involving bearer. Any Shadow player may remove :twilight1: to prevent this. 
+  lore: ‘…now Boromir has taken his road, and we must make haste to choose our own.’
+de:
+  title: Boromirs Handschuhe
+  subtitle: ''
+  text: 'Muss auf einen :gondor: Menschen gespielt werden. **Kampf:** Strenge den Träger an, um einen Kampf, an dem er beteiligt ist, aufzuheben. Ein beliebiger Schattenspieler darf den Einfluss um :twilight1: verringern, um dies zu verhindern.'
+  lore: Doch jetzt hat Boromir seinen Weg angetreten, und wir müssen uns eilen, den unseren zu wählen.
+fr:
+  title: Les Gantelets de Boromir
+  subtitle: ''
+  text: 'Le détenteur doit être un Homme :gondor:. **Combat :** Affaiblissez le détenteur pour annuler un combat qui implique le détenteur. N’importe quel joueur de l’Ombre peut retirer :twilight1: pour empêcher ceci.'
+  lore: '… Boromir a pris sa route, et nous devons nous hâter de choisir la nôtre.” '
+it:
+  title: Guanti di Boromir
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Uomo :gondor:.   
+    **Schermaglia:** Sforza il possessore per cancellare una schermaglia che coinvolga il possessore. Un qualsiasi giocatore Ombra può rimuovere :twilight1: per prevenire questo effetto.
+  lore: ‘…ora che Boromir è partito per la sua via, dobbiamo affrettarci a scegliere la nostra.’
+es:
+  title: Los Guanteletes De Boromir
+  subtitle: ''
+  text: 'El portador debe ser un Hombre :gondor:. **Escaramuza:** Esfuerza al portador para cancelar una escaramuza en la que participe el portador. Cualquier jugador de Sombra puede quitar :twilight1: para prevenir esto.'
+  lore: …ahora Boromir ha tomado su camino y hemos de apresurarnos a elegir el nuestro.

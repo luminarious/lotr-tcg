@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '52'
+unique: true
+culture: Gollum
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Strange and Terrible
+  subtitle: ''
+  text: 'Spot a :gollum: minion at a mountain site to play a minion from your discard pile. '
+  lore: Gollum on the edge of the abyss was fighting like a mad thing with an unseen foe.
+de:
+  title: Seltsames und Entsetzliches
+  subtitle: ''
+  text: 'Entdecke einen :gollum: Diener an einem Gebirge, um einen Diener aus deinem Ablagestapel zu spielen.'
+  lore: Am Rande des Abgrunds kämpfte Gollum wie ein Wahnsinniger mit einem unsichtbaren Feind.

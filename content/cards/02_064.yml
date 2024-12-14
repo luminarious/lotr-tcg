@@ -1,0 +1,38 @@
+set: '2'
+rarity: C
+number: '64'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 1
+str: '4'
+vit: '1'
+site: 4
+en:
+  title: Goblin Scrabbler
+  subtitle: ''
+  text: |-
+    When you play this minion, you may discard an :elven: condition.   
+    The roaming penalty for each :moria: Orc you play is -1. 
+  lore: Orcs were as keen as hounds on a scent, it was said, but they could also climb.
+de:
+  title: Goblin Sucher
+  subtitle: ''
+  text: 'Wenn du diesen Diener ausspielst, darfst du einen :elven: Effekt ablegen. Die Strafkosten für wandernde :moria: Diener, die du spielst, werden um 1 reduziert.'
+  lore: Orks konnten Fährten ebensogut verfolgen wie Hunde, hieß es, und außerdem konnten sie klettern.
+fr:
+  title: Fouineur Gobelin
+  subtitle: ''
+  text: 'Lorsque vous jouez ce séide, vous pouvez défausser une situation :œ:. La pénalité d’errance pour chacun des Orques :moria: que vous jouez est de -1.'
+  lore: 'Les orques avaient un flair aussi pénétrant que celui des meilleurs chiens de chasse, disait-on, mais ils pouvaient aussi grimper. '
+it:
+  title: Perlustratore Goblin
+  subtitle: ''
+  text: 'Quando giochi questo servitore, puoi scartare una condizione :elven:. Sottrai -1 alla penalità per vagare di ogni Orco :moria: che giochi.'
+  lore: Si diceva che gli Orchi avessero il fiuto più fine di un cane da caccia, e sapevano anche arrampicarsi.
+es:
+  title: Escarbador Goblin
+  subtitle: ''
+  text: 'Cuando juegas este siervo, puedes descartar una condición :elven:. La penalización por vagar de cada Orco :moria: que tu juegues es -1.'
+  lore: Los Orcos tenían un olfato tan afilado como el de los sabuesos, se decía, pero además podían trepar.

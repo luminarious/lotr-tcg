@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '22'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Hope Comes
+  subtitle: ''
+  text: |-
+    To play, spot 2 Elves.   
+    **Response:** If an :elven: skirmish event is played, discard this condition to draw 3 cards.
+  lore: ''
+de:
+  title: Hoffnung entsteht
+  subtitle: ''
+  text: |-
+    Entdecke 2 Elben, um diese Karte zu spielen.   
+    **Reaktion:** Lege diesen Effekt ab, um 3 Karten zu ziehen, wenn ein :elven: Kampfereignis gespielt wird.
+  lore: Entweder unsere Hoffnung kommt, oder alle Hoffnung endet.

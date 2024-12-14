@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '196'
+unique: true
+culture: Moria
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: They Are Coming
+  subtitle: ''
+  text: |-
+
+    **Shadow:** Discard 3 cards from hand to play a :moria: Orc from your discard pile.
+  lore: '‘The last thing written is in a trailing scrawl of elf-letters: they are coming.’'
+de:
+  title: Sie kommen
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Schatten:** Lege 3 Karten aus deiner Hand ab, um einen :moria: Ork aus deinem Ablagestapel zu spielen.'
+  lore: 'Das letzte ist in einem langgezogenen Gekritzel von Elbenzeichen geschrieben: sie kommen.'
+fr:
+  title: Ils Arrivent
+  subtitle: ''
+  text: 'Ombre : Défaussez 3 cartes de votre main pour jouer un Orque :moria: de votre pile de défausse.'
+  lore: '‘La dernière chose écrite est un griffonnage estompé, en lettres elfiques: ils arrivent.’'
+it:
+  title: Stanno Arrivando
+  subtitle: ''
+  text: '**Ombra:** Scarta 3 carte dalla mano per giocare un Orco :moria: dalla tua pila degli scarti.'
+  lore: '‘L''ultimo tratto di lettere elfiche scarabocchiate è: stanno arrivando.’'
+es:
+  title: Están Acercándose
+  subtitle: ''
+  text: '**Sombra:** Descarta 3 cartas de tu mano para jugar un Orco :moria: de tu pila de descartes.'
+  lore: 'Las ultimas palabras son un garabateo arrastrado en letras élficas: Están acercándose.'

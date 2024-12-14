@@ -1,0 +1,36 @@
+set: '3'
+rarity: U
+number: '97'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 1
+str: '5'
+vit: '2'
+site: 6
+en:
+  title: Orc Slayer
+  subtitle: ''
+  text: '**Regroup:** Exert this minion to wound a companion (except the Ring-bearer). '
+  lore: For it is a long tale, full of deeds great and terrible….
+de:
+  title: Ork Mörder
+  subtitle: ''
+  text: '**Sammeln:** Strenge diesen Diener an, um einen Gefährten (außer den Ringträger) zu verwunden.'
+  lore: Denn es ist eine lange Erzählung über große und entsetzliche Taten…
+fr:
+  title: Massacreur Orque
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez ce séide pour blesser un compagnon (excepté le Porteur de l’Anneau).'
+  lore: 'Car c''est une longue histoire, pleine de grands et terribles faits… '
+it:
+  title: Orco Uccisore
+  subtitle: ''
+  text: '**Raccolta:** Sforza questo servitore per ferire un compagno (tranne il Portatore dell’Anello).'
+  lore: E’ infatti una storia lunga, irta di grandi e terribili gesta…’
+es:
+  title: Exterminador Orco
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza este siervo para herir un compañero (excepto el Portador del Anillo).'
+  lore: Porque es una larga historia, llena de gestas grandes y terribles…

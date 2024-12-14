@@ -1,0 +1,25 @@
+set: '7'
+rarity: R
+number: '274'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 5
+str: '12'
+vit: '2'
+site: 5
+en:
+  title: Gorgoroth Officer
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    **Skirmish:** Discard 2 cards from hand to play a :sauron: Orc stacked on a site you control. That Orc is fierce and strength +6 until the regroup phase.
+  lore: ''
+de:
+  title: Gorgoroth Offizier
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    **Kampf:** Lege 2 Karten aus deiner Hand ab, um einen :sauron: Ork zu spielen, der auf einem Ort gelagert ist, den du kontrollierst. Dieser Ork ist bis zur Sammelphase **erbittert** und erhält Stärke +6.
+  lore: Die Trommeln dröhnten lauter. Brände züngelten auf.

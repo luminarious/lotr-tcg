@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '127'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 5
+str: '12'
+vit: '3'
+site: 4
+en:
+  title: Mocking Goblin
+  subtitle: ''
+  text: Each time this minion wins a skirmish, add a burden unless the Free Peoples player discards a Free Peoples event from hand.
+  lore: There was a rush of hoarse laughter, like the fall of sliding stones into a pit….
+de:
+  title: Spottender Goblin
+  subtitle: ''
+  text: Lege jedes Mal, wenn dieser Diener einen Kampf gewinnt, eine Lastmarke auf den Ringträger, wenn der Freie Völker Spieler nicht ein Freie Völker Ereignis von seiner Hand ablegt.
+  lore: Ein heiseres Gelächter brach aus und klang wie Steine, die in eine Grube rollen…

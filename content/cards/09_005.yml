@@ -1,0 +1,24 @@
+set: '9'
+rarity: R
+number: '5'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '7'
+vit: '3'
+en:
+  title: Linnar
+  subtitle: Dwarven Lord
+  text: |-
+    Each time a Dwarf wins a fierce skirmish, you may heal that Dwarf.   
+    **Skirmish:** Discard a :dwarven: card from hand to make a Dwarf **damage +1**. 
+  lore: …they were joined by great forces sent from the Houses of the other Fathers….
+de:
+  title: Frerin
+  subtitle: Zwergenkönig
+  text: |-
+    Jedes Mal, wenn ein Zwerg einen erbitterten Kampf gewinnt, darfst du diesen Zwerg heilen.   
+    **Kampf:** Lege eine :dwarven: Karte aus der Hand ab, um einem Zwerg **Schaden +1** zu geben.
+  lore: …und ihnen schlossen sich starke Kräfte an, die von den Häusern der anderen Väter entsandt wurden…

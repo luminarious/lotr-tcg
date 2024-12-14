@@ -1,0 +1,18 @@
+set: '13'
+rarity: R
+number: '57'
+unique: true
+culture: Gollum
+type: Event
+class: Regroup
+cost: 3
+en:
+  title: Trap Is Sprung
+  subtitle: ''
+  text: To play, discard Gollum from play. Heal the Ring-bearer to add a burden. If the fellowship is not in region 1, you may repeat this for each other wound on the Ring-bearer.
+  lore: ‘Crumbs on his jacket. He took it. He took it!’
+de:
+  title: Die Falle schnappt zu
+  subtitle: ''
+  text: Lege Gollum ab, um diese Karte zu spielen. Heile den Ringträger, um eine Lastmarke auf ihn zu legen. Wenn sich die Gemeinschaft nicht in Region 1 befindet, darfst du dies für jede weitere Wunde auf dem Ringträger wiederholen.
+  lore: Krümel auf seiner Jacke, er hat es genommen, erhat es genommen.

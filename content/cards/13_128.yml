@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '128'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Háma
+  subtitle: Captain of the King’s Guard
+  text: |-
+    Háma is strength +1 for each Shadow possession you can spot.  
+    Each time Háma wins a skirmish, you may discard a possession from play.
+  lore: ‘Do not hope too much! These are dark days.’

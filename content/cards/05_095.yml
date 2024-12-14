@@ -1,0 +1,42 @@
+set: '5'
+rarity: R
+number: '95'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Dead Marshes
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    While the fellowship is at site 4:tower:, Ring-bound companions skirmishing :sauron: Orcs are strength -1.   
+    **Maneuver:** Spot 2 :sauron: Orcs to play up to 2 :sauron: conditions from your discard pile. Discard this condition.
+  lore: ''
+de:
+  title: Die Totensümpfe
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Solange sich die Gemeinschaft an Ort 4:tower: befindet, erhalten Ring-verbundene Gefährten, die gegen :sauron: Orks kämpfen, Stärke -1. **Manöver:** Entdecke 2 :sauron: Orks, um bis zu 2 :sauron: Effekte aus deinem Ablagestapel zu spielen. Lege diesen Effekt ab.'
+  lore: ''
+fr:
+  title: Les Marais Morts
+  subtitle: ''
+  text: |-
+
+    Tant que la compagnie se trouve au site 4±, les compagnons associés à l’Anneau qui combattent des Orques :sauron: ont -1 en force. **Manœuvre :** Désignez 2 Orques :sauron: pour jouer jusqu’à 2 situations :sauron: de votre main, défaussez-la pour ajouter 2 points-fardeau.
+  lore: ''
+it:
+  title: Paludi Morte
+  subtitle: ''
+  text: |-
+    Mentre la compagnia è al sito 4:tower:, sottrai -1 alla forza dei compagni Legati all’Anello che schermagliano con gli Orchi :sauron:.   
+    **Manovra:** Avvista 2 Orchi :sauron: per giocare fino a 2 condizioni :sauron: dalla tua pila degli scarti. Scarta questa condizione.
+  lore: ''
+es:
+  title: Cienaga de los muertos
+  subtitle: ''
+  text: |-
+    Mientras la comunidad esté en el sitio 4:tower:, los compañeros Vinculados al Anillo en escaramuzas en las que participen Orcos :sauron: son fuerza -1.   
+    **Maniobra:** Avista 2 Orcos :sauron: para jugar hasta 2 condiciones :sauron: de tu pila de descartes.
+  lore: ''

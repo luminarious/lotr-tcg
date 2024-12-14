@@ -1,0 +1,22 @@
+set: '10'
+rarity: U
+number: '33'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Hardy Garrison
+  subtitle: ''
+  text: |-
+    To play, spot 2 :gondor: Men.   
+    Each time you lose initiative, you may wound a minion. 
+  lore: All before the walls on either side of the Gate the ground was choked with wreck and with bodies of the slain….
+de:
+  title: Kühne Garnison
+  subtitle: ''
+  text: |-
+    Entdecke 2 :gondor: Menschen, um diesen Effekt zu spielen.   
+    Jedes Mal, wenn du die Initiative verlierst, darfst du einen Diener verwunden.
+  lore: Überall auf den Mauern auf beiden Seiten des Tors war der Boden übersät mit Trümmern und den Leichen der Erschlagenen…

@@ -1,0 +1,22 @@
+set: '12'
+rarity: R
+number: '37'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Come Away
+  subtitle: ''
+  text: |-
+    While you can spot Sméagol, the Shadow number of each site is –1.   
+    Each time the fellowship moves, wound a companion or discard this condition.
+  lore: ‘All ways are watched, yes,’ said Gollum. ‘Of course they are. But hobbits must try some way. This may be least watched.’
+de:
+  title: Kommt weg!
+  subtitle: ''
+  text: |-
+    Solange du Sméagol entdecken kannst, reduziert sich die Schattenzahl jedesOrtes um 1.   
+    Jedes Mal, wenn sich die Gemeinschaft bewegt, verwunde einen Gefährten oder lege diesen Effekt ab.
+  lore: Alle Wege sind bewacht, ja“, sagte Gollum.

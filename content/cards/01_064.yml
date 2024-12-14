@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '64'
+unique: true
+culture: Elven
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Support of the Last Homely House
+  subtitle: ''
+  text: '**Maneuver:** Exert an Elf ally whose home is site 3. Until the regroup phase, that ally is strength +3 and participates in archery fire and skirmishes.'
+  lore: Merely to be there was a cure for weariness, fear, and sadness.
+de:
+  title: Pflege im Letzten Heimeligen Haus
+  subtitle: ''
+  text: '**Manöver:** Strenge einen Elbenverbündeten mit Heimat 3 an. dieser Verbündete erhält bis zur Sammelphase Stärke +3 und kann an Fernkampf und Kampf teilnehmen.'
+  lore: Das blosse Dortsein genügte, um Müdigkeit, Furcht und Traurigkeit zu heilen.
+fr:
+  title: Soutien de la Dernière Maison Accueillante
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un allié Elfe dont la demeure est un site 3. Jusqu’à la phase de ralliement, cet allié a +3 en force et participe au tir des archers et aux combats.'
+  lore: Le seul fait de se trouver là était un remède à la fatigue, à la peur ou à la tristesse.
+it:
+  title: Supporto dell'Ultima Casa Accogliente
+  subtitle: ''
+  text: '**Manovra:** Sforza un alleato Elfo la cui casa sia il sito 3. Fino alla fase di raccolta, quell’alleato aggiunge +3 alla forza e partecipa al tiro degli arcieri e alle schermaglie.'
+  lore: Il semplice fatto di viverci era una cura per la stanchezza, la paura e la tristezza.
+es:
+  title: Apoyo del Último Hogar
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un aliado Elfo cuyo hogar sea el sitio 3. Hasta la fase de reagrupación, ese aliado es fuerza +3 y participa en disparos de arquería y escaramuzas.'
+  lore: Bastaba quedarse allí para curarse del cansancio, el miedo y la melancolía.

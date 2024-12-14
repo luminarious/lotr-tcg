@@ -1,0 +1,19 @@
+set: '4'
+rarity: C
+number: '277'
+unique: true
+culture: Rohan
+type: Ally
+race: Man
+cost: 1
+str: '4'
+vit: '2'
+site: 4T
+en:
+  title: Guma
+  subtitle: Plains Farmer
+  text: |-
+    **Villager.**   
+    Discard Guma if an opponent controls his home site.   
+    **Fellowship:** Exert Guma to heal a :rohan: Man. 
+  lore: Foodstores swelled as refugees like Guma brought provisions to the Hornburg.

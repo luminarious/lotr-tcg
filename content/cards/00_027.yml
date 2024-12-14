@@ -1,0 +1,25 @@
+set: '0'
+rarity: W
+number: '27'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Far Harad Mercenary
+  subtitle: ''
+  text: |-
+    **Southron.**   
+    At the start of a skirmish involving this minion, you may spot another :raider: Man and 6 companions to discard an unbound companion this minion is skirmishing.
+  lore: Mount Doom™ Preview<BR> King Draft Pack
+de:
+  title: Söldner aus Weit-Harad
+  subtitle: ''
+  text: |-
+    **Südländer.**   
+    Zu Beginn jedes Kampfes, an dem dieser Diener beteiligt ist, darfst du 6 Gefährten und einen anderen :raider: Menschen entdecken, um einen nicht-verbundenen Gefährten, gegen den dieser Diener kämpft, abzulegen.
+  lore: Mount Doom™ Preview<BR> King Draft Pack

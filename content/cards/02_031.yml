@@ -1,0 +1,37 @@
+set: '2'
+rarity: U
+number: '31'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Blood of Númenor
+  subtitle: ''
+  text: |-
+    To play, exert a :gondor: companion.   
+    Each :sauron: Orc comes into play exhausted.   
+    Skip the archery phase.   
+    Discard this condition during the **regroup** phase. 
+  lore: ‘I do not know what strength is in my blood, but I swear to you – I will not let the White City fall….’
+de:
+  title: Das Blut von Númenor
+  subtitle: ''
+  text: 'Strenge einen :gondor: Gefährten an, um diese Karte in deinen Unterstützungsbereich zu spielen. Alle :sauron: Orks kommen erschöpft ins Spiel. Überspringe die Fernkampfphase. Lege diesen Effekt in der Sammelphase ab.'
+  lore: Ich weiß nicht, welche Kraft ich aufbringen kann, aber ich schwöre dir – weder wird die weiße Stadt fallen…
+fr:
+  title: Sang de Númenor
+  subtitle: ''
+  text: 'Pour jouer, affaiblissez un compagnon :gondor:. Chaque Orque :sauron: entre en jeu épuisé. Ignorez la phase d’archerie. Défaussez cette situation pendant la phase de ralliement.'
+  lore: 'J''ignore quelles sont les forces qu''il me reste, mais je jure que jamais je ne laisserai prendre la Cité Blanche…” '
+it:
+  title: Stirpe di Númenor
+  subtitle: ''
+  text: 'Per giocarla, sforza un compagno :gondor: Ogni Orco :sauron: entra in gioco esausto. Salta la tua fase degli Arcieri. Scarta questa condizione durante la fase di raccolta.'
+  lore: ‘Non so quanta forza scorra nelle mie vene, ma ti prometto – non lascerò cadere la Città Bianca…’
+es:
+  title: Sangre de Númenor
+  subtitle: ''
+  text: 'Para jugarla, esfuerza un compañero :gondor:. Cada orco :sauron: entra en juego exhausto. Sáltate la fase de arquería. Descarta esta condición durante la fase de reagrupación.'
+  lore: No sé cuanta fuerza corre por mis venas, pero te lo juro – No dejaré que la Ciudad Blanca caiga…

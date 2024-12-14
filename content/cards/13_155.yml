@@ -1,0 +1,23 @@
+set: '13'
+rarity: R
+number: '155'
+unique: true
+culture: Shire
+type: Artifact
+class: Phial
+cost: 0
+res: '+1'
+en:
+  title: Phial of Galadriel
+  subtitle: The Light of Eärendil
+  text: |-
+    Bearer must be a Ring-bound Hobbit.  
+    While bearer is in region 1, bearer gains **muster**.  
+    While bearer is in region 2, each of your :shire: companions gains **muster**.  
+    While bearer is in region 3, each character gains **muster**.
+  lore: ''
+de:
+  title: Galadriels Phiole
+  subtitle: Das Licht von Eärendil
+  text: 'Muss auf einen Ring-verbundenen Hobbit gespielt werden. Solange sich der Träger in Region 1 befindet, erhält er **Appell**. Solange sich der Träger in Region 2 befindet, erhalten alle deine :shire: Gefährten **Appell**. Solange sich der Träger in Region 3 befindet, erhalten alle Charaktere **Appell**.'
+  lore: ''

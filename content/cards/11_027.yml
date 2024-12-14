@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '27'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '5'
+vit: '3'
+res: '6'
+en:
+  title: Woodland Sentinel
+  subtitle: ''
+  text: 'While this companion is at a forest site, he is strength +2. '
+  lore: ‘We drove them off after some time; they were many and fierce, but they cam over the mountains, and were unused to the woods.‘
+de:
+  title: Wächter des Waldreichs
+  subtitle: ''
+  text: 'Solange sich dieser Gefährte an einem Wald befindet, erhält er Stärke +2. '
+  lore: Wir vertrieben sie nach einiger Zeit; es waren ihrer viele, und sie kämpften wütend, doch waren sie von jenseits des Gebirges gekommen und den Wald nicht gewohnt.

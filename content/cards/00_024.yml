@@ -1,0 +1,21 @@
+set: '0'
+rarity: W
+number: '24'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Morgul Patrol
+  subtitle: ''
+  text: ''
+  lore: ‘The nameless enemy has arisen again….’
+de:
+  title: Morgul Patrouille
+  subtitle: ''
+  text: ''
+  lore: ''

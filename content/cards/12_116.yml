@@ -1,0 +1,18 @@
+set: '12'
+rarity: R
+number: '116'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '5'
+en:
+  title: Haethen
+  subtitle: Veteran Fighter
+  text: |-
+    Haethen cannot take wounds during fierce skirmishes.   
+    **Skirmish:** Exert Haethen to make him strength +1.
+  lore: His years as a Rider of Rohan were long behind him, but the threat to Helm’s Deep demanded this old warrior again take up arms.

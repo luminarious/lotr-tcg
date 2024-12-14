@@ -1,0 +1,16 @@
+set: '10'
+rarity: U
+number: '5'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Arwen
+  subtitle: Echo of Lúthien
+  text: '**Skirmish:** Discard a card from hand to discard the bottom card of your draw deck. If the bottom card was an :elven: card, each minion skirmishing Arwen is strength –3.'
+  lore: ‘…mine is the choice of Lúthien, and as she so have I chosen, both the sweet and the bitter.’

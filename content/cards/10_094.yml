@@ -1,0 +1,23 @@
+set: '10'
+rarity: R
+number: '94'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '3'
+site: 6
+en:
+  title: Orc Ravager
+  subtitle: ''
+  text: |-
+    To play, spot a :sauron: minion.   
+    **Shadow:** Remove 2 threats to discard a condition. 
+  lore: The Captains of the West were foundering in a gathering sea.
+de:
+  title: Ork Vandale
+  subtitle: ''
+  text: 'Entdecke einen :sauron: Ork, um diesen Diener zu spielen. **Schatten:** Entferne 2 Bedrohungen, um einen Effekt abzulegen.'
+  lore: Die Heerführer des Westens wurden überflutet von einem anschwellenden Meer.

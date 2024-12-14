@@ -1,0 +1,36 @@
+set: '4'
+rarity: C
+number: '165'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '7'
+vit: '2'
+site: 5
+en:
+  title: Orthanc Warrior
+  subtitle: ''
+  text: '**Damage +1. **'
+  lore: The Uruk-hai bred by Saruman are stronger and more fell than Orcs of Mordor.
+de:
+  title: Orthanc Krieger
+  subtitle: ''
+  text: '**Schaden +1.**'
+  lore: Die von Saruman gezüchteten Uruk-hai waren stärker und grausamer als die Orks aus Mordor.
+fr:
+  title: Guerrier d'Orthanc
+  subtitle: ''
+  text: '**Dégâts +1.**'
+  lore: Les Ourouk-Haï créés par Saroumane sont plus forts et plus féroces que les Orques du Mordor.
+it:
+  title: Guerriero di Orthanc
+  subtitle: ''
+  text: '**Danno +1.**'
+  lore: Gli Uruk-hai creati da Saruman sono più forti e feroci degli Orchi di Mordor.
+es:
+  title: Guerrero De Orthanc
+  subtitle: ''
+  text: '**Daño +1.**'
+  lore: Los Uruk-hai creados por Saruman son más fuertes y más temidos que los Orcos de Mordor.

@@ -1,0 +1,33 @@
+set: '2'
+rarity: C
+number: '37'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Sentinels of Númenor
+  subtitle: ''
+  text: '**Skirmish:** Make a :gondor: companion strength +2 (or +4 if in a **fierce** skirmish). '
+  lore: …they still preserved through the suns and rains of forgotten years the mighty likenesses in which they had been hewn.
+de:
+  title: Die Wächter Númenors
+  subtitle: ''
+  text: '**Kampf** Gib einem :gondor: Gefährten Stärke +2 (oder Stärke +4, wenn er in einem **erbittert**en Kampf kämpft).'
+  lore: … und noch immer bewahrten sie durch Sonne und Regen vergessener Jahre die mächtigen Abbilder, die einst in sie hineingehauen worden waren.
+fr:
+  title: Sentinelles de Númenor
+  subtitle: ''
+  text: '**Combat :** Donnez +2 force à un compagnon :gondor: (ou +4 s’il est dans un combat **acharné**).'
+  lore: '… elles conservaient encore, en dépit des soleils et des pluies d''années oubliées, les puissantes images qui leur avaient été données. '
+it:
+  title: Sentinelle di Númenor
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un compagno :gondor: (o +4 se in una schermaglia **Feroce**).'
+  lore: …ed esse conservavano ancora, attraverso le intemperie di lunghi anni obliati, le possenti sembianze che erano loro state date.
+es:
+  title: Centinelas de Númenor
+  subtitle: ''
+  text: '**Escaramuza:** Da a un compañero :gondor: fuerza +2 (o +4 si está en una escaramuza fiera).'
+  lore: …todavía permanecen a través del sol y la lluvia de años olvidados las poderosas facciones con las que fueron esculpidas.

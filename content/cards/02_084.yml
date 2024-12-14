@@ -1,0 +1,18 @@
+set: '2'
+rarity: R
+number: '84'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 5
+str: '10'
+vit: '3'
+site: 2
+en:
+  title: Úlairë Nelya
+  subtitle: Ringwraith in Twilight
+  text: |-
+    **Twilight.**   
+    While you can spot 2 burdens or 2 wounds on the Ring-bearer, Úlairë Nelya is **fierce** and **damage +1** 
+  lore: Over the lip of the little dell, on the side away from the hill, they felt, rather than saw, a shadow rise, one shadow or more than one.

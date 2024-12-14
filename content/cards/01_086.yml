@@ -1,0 +1,39 @@
+set: '1'
+rarity: C
+number: '86'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Treachery Deeper Than You Know
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Fellowship:** Spot Gandalf to reveal an opponent’s hand.
+  lore: ‘By foul craft, Saruman has crossed Orc with Goblin Men – he is breeding an army in the Caverns of Isengard.’
+de:
+  title: Größerer Verrat, als ihr ahnt
+  subtitle: ''
+  text: '**Zauberspruch.** **Gemeinschaft.** Entdecke Gandalf, um die Handkarten eines Gegenspielers offenzulegen.'
+  lore: Durch üblen Zauber hat Saruman Orks mit Goblins gekreuzt – er erschafft eine Armee in den Höhlen von Isengart.
+fr:
+  title: Trahison Plus Profonde que Vous ne le Pensez
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Compagnie :** Désignez Gandalf pour révéler la main d’un adversaire.
+  lore: ‘Par un artifice infâme, Saroumane a croisé des Orques avec des Hommes – il élève une armée dans les Cavernes d'Isengard.’
+it:
+  title: Tradimento Inconcepibile
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Compagnia:** Avvista Gandalf per far mostrare la mano a un avversario.
+  lore: ‘Con una ripugnante abilità, Saruman ha incrociato gli Orchi con Uomini Orchi – lui sta generando un'armata nelle Caverne di Isengard.’
+es:
+  title: Traición Mas Profunda de Lo Que Imaginas
+  subtitle: ''
+  text: '**Hechizo.** **Comunidad:** Avista a Gandalf para revelar la mano de un oponente.'
+  lore: Con inmunda habilidad, Saruman ha cruzado Orcos con Hombres Goblin – esta criando un ejercito en las Cavernas de Isengard.

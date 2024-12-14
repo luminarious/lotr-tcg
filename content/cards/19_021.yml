@@ -1,0 +1,20 @@
+set: '19'
+rarity: P
+number: '21'
+unique: true
+culture: Moria
+type: Minion
+race: Creature
+cost: 4
+str: '11'
+vit: '4'
+site: 4
+en:
+  title: Watcher in the Water
+  subtitle: Many-tentacled Creature
+  text: |-
+    Discard all other minions (except tentacles).  
+    Watcher in the Water cannot bear possessions.  
+    The fellowship’s current site gains marsh.  
+    **Shadow**: Play a tentacle from your discard pile.
+  lore: …as if a host of snakes were swimming up…

@@ -1,0 +1,24 @@
+set: '9'
+rarity: R+
+number: '47'
+unique: true
+culture: Sauron
+type: Artifact
+class: Support Area
+cost: 0
+en:
+  title: Ithil Stone
+  subtitle: ''
+  text: |-
+    To play, exert a :wraith: or :sauron: minion.   
+    At the start of each of your Shadow phases, you may draw a card.   
+    **Shadow:** Discard this artifact to play a :sauron: minion. Its twilight cost is –3. 
+  lore: ‘…and in it there was a stone like the Moon….’
+de:
+  title: Ithilstein
+  subtitle: ''
+  text: |-
+    Strenge einen :wraith: oder :sauron: Diener an, um diese Karte zu spielen. Du darfst zu Beginn jeder deiner Schattenphasen eine Karte ziehen.   
+
+    **Schatten:** Lege dieses Artefakt ab, um einen :sauron: Diener mit um 3 reduzierten Kosten zu spielen.
+  lore: …und in ihm war ein Stein wie der Mond…

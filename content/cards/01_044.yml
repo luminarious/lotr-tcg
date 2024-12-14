@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '44'
+unique: true
+culture: Elven
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Foul Creation
+  subtitle: ''
+  text: '**Fellowship:** Exert an Elf to reveal an opponent’s hand. You may discard a :isengard: minion revealed to draw 2 cards.'
+  lore: Saruman’s Uruk-hai mirrored the singular focus of their master, viewing with contempt and disgust all they encountered.
+de:
+  title: Verdorbene Schöpfung
+  subtitle: ''
+  text: '**Gemeinschaft.** Strenge einen Elben an, um die Hand eines Gegenspielers offenzulegen. Du darfst ihn einen :isengard: Diener aus diesen Karten ablegen lassen, um 2 Karten zu ziehen.'
+  lore: Sarumans Uruk-hai entsprechen ganz dem Charakter ihres Schöpfers. All denjenigen, denen sie begegnen, bringen sie nur Verachtung und Ekel entgegen.
+fr:
+  title: Création Infecte
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez un Elfe pour révéler la main d’un adversaire. Vous pouvez défausser un séide :isengard: révélé pour piocher 2 cartes.'
+  lore: Les Ourouk-Haï de Saroumane reflètent le point particulier de leur maître, regardant avec mépris et dégoût tout ce qu'ils rencontrent.
+it:
+  title: Creazione Ripugnante
+  subtitle: ''
+  text: '**Compagnia:** Sforza un Elfo per far mostrare la mano a un avversario. Puoi far scartare un servitore :isengard: mostrato per pescare 2 carte.'
+  lore: Gli Uruk-hai di Saruman rispecchiavano il peculiare atteggiamento del loro padrone, osservando con disprezzo e disgusto tutti coloro che incontrano.
+es:
+  title: Creación Inmunda
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza un Elfo para revelar la mano de un oponente. Puedes descartar un siervo :isengard: revelado para robar dos cartas.'
+  lore: Los Uruk-hai de Saruman reflejan el peculiar enfoque de su amo, observando con desprecio y disgusto todo lo que se encuentran.

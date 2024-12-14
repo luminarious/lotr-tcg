@@ -1,0 +1,18 @@
+set: '17'
+rarity: U
+number: '109'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+res: '8'
+en:
+  title: Pippin
+  subtitle: In the Bloom of Health
+  text: |-
+    Add 1 to the number of Ents you can spot.  
+    **Maneuver:** Discard 2 pipeweed cards from play to remove a burden.
+  lore: Ents are - well Ents are all different for one thing.

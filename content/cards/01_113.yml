@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '113'
+unique: true
+culture: Gondor
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: A Ranger's Versatility
+  subtitle: ''
+  text: '**Maneuver:** Exert a ranger at a river or forest to exhaust a minion.'
+  lore: ‘If you bring a Ranger with you, it is well to pay attention to him, especially if the Ranger is Aragorn.’
+de:
+  title: Die zahlreichen Talente eines Waldläufers
+  subtitle: ''
+  text: '**Manöver:** Strenge einen Waldläufer an einem Fluss oder Waldan, um einen Diener zu erschöpfen.'
+  lore: Wenn man einen Waldläufer bei sich hat, dann tut man gut daran, auf ihn zu hören, besonders wenn der Waldläufer Aragorn ist.
+fr:
+  title: Polyvalence de Rôdeur
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un rôdeur à une rivière ou une forêt pour épuiser jusqu’à 2 séides.'
+  lore: ‘Quand on emmène avec soi un Rôdeur, il est bon de lui prêter attention, surtout quand ce Rôdeur est Aragorn.’
+it:
+  title: La Versatilità di un Ramingo
+  subtitle: ''
+  text: '**Sforze:** Avvista un Ramingo presso un fiume o una foresta per rendere Esausti fino a 2 servitori.'
+  lore: ‘Portando seco un Ramingo, è opportuno prestare orecchio alle sue parole, specialmente se quel Ramingo è Aragorn.’
+es:
+  title: La Versatilidad de un Montaraz
+  subtitle: ''
+  text: '**Maniobra:** Avista un montaraz en un río o bosque para dejar exhaustos a hasta 2 siervos.'
+  lore: Si traes a un Montaraz contigo , es bueno prestarle atención, y más aun si el Montaraz es Aragorn.

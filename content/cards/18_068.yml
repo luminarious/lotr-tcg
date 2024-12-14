@@ -1,0 +1,18 @@
+set: '18'
+rarity: C
+number: '68'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '6'
+vit: '2'
+site: 2
+en:
+  title: Harry Goatleaf
+  subtitle: ''
+  text: |-
+    While the fellowship is in region 1, this minion is strength +4.  
+    While the fellowship is in region 2, this minion is strength +2.
+  lore: What do you want?

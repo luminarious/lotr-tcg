@@ -1,0 +1,20 @@
+set: '10'
+rarity: U
+number: '116'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: The Tale of the Great Ring
+  subtitle: ''
+  text: |-
+    **Tale.**   
+    **Skirmish:** Prevent a Hobbit from being overwhelmed unless a Shadow event is (or was) played during this skirmish. Discard this condition. 
+  lore: ‘I have quite finished, Sam,’ said Frodo. ‘The last pages are for you.’
+de:
+  title: Die Geschichte des Großen Rings
+  subtitle: ''
+  text: '**Erzählung.** **Kampf:** Verhindere, dass ein Hobbit überwältigt wird, es sei denn, während dieses Kampfes wird (oder wurde) ein Schattenereignis gespielt. Lege diesen Effekt ab.'
+  lore: Ich bin ganz fertig, Sam", sagte Frodo. "Die letzten Seiten sind für dich.

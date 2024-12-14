@@ -1,0 +1,25 @@
+set: '8'
+rarity: U
+number: '99'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '2'
+site: 5
+en:
+  title: Gorgoroth Patrol
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    **Regroup:** If this minion is stacked on a site you control, discard this minion to make the move limit for this turn –1.
+  lore: …hurrying orcs were digging… just out of bowshot from the walls….
+de:
+  title: Gorgoroth Patrouille
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    **Sammeln:** Lege diesen Diener ab, wenn er auf einem Ort gelagert ist, den du kontrollierst, um die Bewegungsweite in diesem Zug um 1 zu reduzieren.
+  lore: … neue Kräfte strömten nun aus Osgiliath auf das Schlachtfeld.

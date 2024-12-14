@@ -1,0 +1,16 @@
+set: '15'
+rarity: S
+number: '171'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '14'
+vit: '3'
+site: 5
+en:
+  title: Tracking Uruk
+  subtitle: ''
+  text: '**Hunter 1.** *(While skirmishing a non-hunter character, this character is strength +1.)*'
+  lore: '‘We are servants of Saruman the Wise, the White Hand: the Hand that gives us man’s-flesh to eat.’'

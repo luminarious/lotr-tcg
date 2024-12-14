@@ -1,0 +1,21 @@
+set: '10'
+rarity: U
+number: '82'
+unique: true
+culture: Sauron
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 6
+en:
+  title: Cirith Ungol Patroller
+  subtitle: ''
+  text: '**Damage +1.** While you can spot 3 possessions, this minion is **fierce.**'
+  lore: '‘A message came: “Nazgûl uneasy. Spies feared on stairs. Double vigiliance. Patrol to head of Stairs.’'
+de:
+  title: Cirith Ungol Patrouille
+  subtitle: ''
+  text: '**Schaden +1**. Solange du 3 Ausrüstungen entdecken kannst, ist dieser Diener **erbittert**.'
+  lore: 'Eine Meldung kam: ''Nazgûl besorgt. Späher auf Treppe befürchtet. Doppelte Wachsamkeit. Streife zum oberen Ende der Treppe.’'

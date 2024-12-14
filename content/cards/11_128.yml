@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '128'
+unique: true
+culture: Orc
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+3'
+en:
+  title: Mordor Scimitar
+  subtitle: ''
+  text: |-
+    Bearer must be an :orc: minion.   
+    Each time bearer is assigned to skirmish a companion, you may exert that companion.
+  lore: Though Orcs will employ a wide variety of weaponry, they tend to favor long, curved blades.
+de:
+  title: Mordor Krummsäbel
+  subtitle: ''
+  text: 'Muss auf einen :orc: Diener gespielt werden. Jedes Mal, wenn der Träger einem Kampf gegen einen Gefährten zugewiesen wird, darfst du diesen Gefährten anstrengen.'
+  lore: Obwohl Orks verschiedenste Waffen verwenden, ist ihnen ein langes, krummes Schwert am liebsten.

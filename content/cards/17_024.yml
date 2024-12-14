@@ -1,0 +1,19 @@
+set: '17'
+rarity: R
+number: '24'
+unique: true
+culture: Gandalf
+type: Possession
+class: Mount
+cost: 2
+str: '+1'
+vit: '+1'
+res: '+1'
+en:
+  title: Shadowfax
+  subtitle: Greatest of the Mearas
+  text: |-
+    Bearer must be a :gandalf: Wizard.  
+    Discard all other possessions on bearer and bearer may not bear a hand weapon.  
+    **Fellowship:** Add a threat to remove a burden.
+  lore: There are no horses like those that are bred in that great vale between the Misty Mountains and the White.

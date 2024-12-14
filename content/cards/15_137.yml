@@ -1,0 +1,15 @@
+set: '15'
+rarity: U
+number: '137'
+unique: true
+culture: Rohan
+type: Follower
+cost: 2
+en:
+  title: Rohirrim Doorwarden
+  subtitle: ''
+  text: |-
+    **Aid –** :twilight2:. *(At the start of the maneuver phase, you may add* :twilight2: *to transfer this to a companion.)*  
+    To play, spot a :rohan: Man.  
+    Bearer is strength +1 for each possession he or she bears.
+  lore: ‘…any weapon that you bear, be it only a staff, you must leave it on the threshold.’

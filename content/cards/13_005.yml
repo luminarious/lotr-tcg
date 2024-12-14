@@ -1,0 +1,19 @@
+set: '13'
+rarity: R
+number: '5'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Gimli
+  subtitle: Lord of the Glittering Caves
+  text: |-
+    **Damage +1.**  
+    Gimli is strength +1 for each minion assigned to a skirmish.  
+    **Assignment:** Exert Gimli and spot a lurker minion to make that minion lose **lurker** until the regroup phase.
+  lore: He and his people did great works in Gondor and Rohan.

@@ -1,0 +1,28 @@
+set: '4'
+rarity: U
+number: '208'
+unique: true
+culture: Isengard
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Vengeance
+  subtitle: ''
+  text: '**Skirmish:** Make an :isengard: tracker strength +2 for each card borne by the character it is skirmishing. '
+  lore: Saruman instilled a spirit for revenge in his fighting brood.
+de:
+  title: Vergeltung
+  subtitle: ''
+  text: '**Kampf** Gib einem :isengard: Spurenleser Stärke +2 für jede Karte, die auf dem Charakter liegt, gegen den er kämpft.'
+  lore: Saruman erfüllte sein kämpfende Brut mit einem Verlangen nach Rache.
+it:
+  title: Vendetta
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un inseguitore :isengard: per ogni carta portata dal personaggio con cui sta schermagliando.'
+  lore: Saruman instillò uno spirito di vendetta nella sua progenie di guerrieri.
+es:
+  title: Venganza
+  subtitle: ''
+  text: '**Escaramuza:** Da a un rastreador :isengard: fuerza +2 por cada carta que lleve el personaje que esté en una escaramuza contra él.'
+  lore: Saruman imbuyó el espíritu de la venganza en su luchadora progenie.

@@ -1,0 +1,39 @@
+set: '4'
+rarity: U
+number: '63'
+unique: true
+culture: Elven
+type: Possession
+class: Brooch
+cost: 1
+en:
+  title: Elven Brooch
+  subtitle: ''
+  text: |-
+    To play, spot an Elf. Bearer must be a companion.   
+    **Response:** If another possession borne by bearer is about to be discarded by a Shadow card, discard this possession instead. 
+  lore: ‘Not idly do the leaves of Lórien fall.’
+de:
+  title: Elbenbrosche
+  subtitle: ''
+  text: Entdecke einen Elben, um diese Karte auf einen Gefährten zu spielen. **Reaktion:** Wenn eine andere Ausrüstungskarte, mit der der Träger dieser Karte ausgerüstet ist, abgelegt wird, lege statt dessen die Elbenbrosche ab.
+  lore: Nicht zwecklos fallen Lóriens Blätter.
+fr:
+  title: Broche Elfique
+  subtitle: ''
+  text: Pour jouer, désignez un Elfe. Le détenteur doit être un compagnon. **Réponse :** Si une autre possession détenue par le détenteur est sur le point d’être défaussée, défaussez plutôt Broche Elfique.
+  lore: 'Ce n''est pas inutilement que tombent les feuilles de Lórien.” '
+it:
+  title: Spilla Elfica
+  subtitle: ''
+  text: |-
+    Per giocarlo, avvista un Elfo. Il possessore deve essere un compagno.  
+    **Risposta:** Se un altro bene portato dal possessore sta per essere scartato, scarta invece questo bene.
+  lore: ‘Non cadono inutilmente le foglie di Lórien.’
+es:
+  title: Broche Élfico
+  subtitle: ''
+  text: |-
+    Para jugarlo, avista un Elfo. El portador debe ser un compañero.   
+    **Respuesta:** Si se va a descartar otra posesión llevada por el portador, descarta esta en su lugar.
+  lore: Las hojas de Lórien no caen inútilmente.

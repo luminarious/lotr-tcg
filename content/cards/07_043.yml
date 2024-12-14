@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '43'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 3
+en:
+  title: Light the Beacons
+  subtitle: ''
+  text: Exert Gandalf three times (or twice if you have initiative) to make all unbound companions of one culture (except :gandalf:) strength +3 until the regroup phase.
+  lore: ‘Theoden will honour your old alliance and come with a mighty army.’
+de:
+  title: Entzündet die Leuchtfeuer
+  subtitle: ''
+  text: Strenge Gandalf dreimal an (oder zweimal, wenn du die Initiative besitzt), um allen nicht-verbundenen Gefährten einer Kultur (außer :gandalf:) Stärke +3 bis zur Sammelphase zu geben.
+  lore: Théoden wird sich des alten Bündnisses erinnern und mit einer großen Armee zu Hilfe eilen.

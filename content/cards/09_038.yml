@@ -1,0 +1,20 @@
+set: '9'
+rarity: R
+number: '38'
+unique: true
+culture: Gondor
+type: Artifact
+class: Support Area
+cost: 0
+en:
+  title: Seeing Stone of Orthanc
+  subtitle: ''
+  text: |-
+    To play, spot a :gondor: Man with 3 or more vitality (or spot a :gondor: Man and add 2 threats).   
+    **Regroup:** Add a threat or discard this artifact to remove :twilight2: or draw a card. 
+  lore: ‘I am the lawful master of the Stone, and I had both the right and the strength to use it, or so I judged.’
+de:
+  title: Der sehende Stein vom Orthanc
+  subtitle: ''
+  text: 'Entdecke einen :gondor: Menschen, um diese Karte zu spielen. Lasse dazu 2 Bedrohungen entstehen, wenn dieser Mensch 2 oder weniger Lebenspunkte hat. **Sammeln:** Lasse eine Bedrohung entstehen oder lege dieses Artefakt ab, um den Einfluss um :twilight2: zu verringern oder eine Karte zu ziehen.'
+  lore: Ich bin der rechtmäßige Herr des Steins, und ich habe das Recht und auch die Kraft, ihn zu gebrauchen, so beurteile ich es jedenfalls.

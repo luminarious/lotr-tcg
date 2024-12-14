@@ -1,0 +1,13 @@
+set: '15'
+rarity: U
+number: '50'
+unique: true
+culture: Gollum
+type: Event
+class: Fellowship
+cost: 2
+en:
+  title: Something Slimy
+  subtitle: ''
+  text: 'Spot Sméagol to play a condition from your draw deck. If that condition was a :gollum: condition, you may make an opponent place a random card from his or her hand beneath his or her draw deck.'
+  lore: What he was chewing, they did not ask or like to think.

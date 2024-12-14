@@ -1,0 +1,20 @@
+set: '7'
+rarity: U
+number: '309'
+unique: true
+culture: Sauron
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Rope and Winch
+  subtitle: ''
+  text: |-
+    To play, spot 2 :sauron: Orcs.   
+    Discard any number of cards from hand. The Free Peoples player then discards any number of cards from hand. For each card you discarded more than the Free Peoples player, make a :sauron: Orc strength +2.
+  lore: ''
+de:
+  title: Seil und Winde
+  subtitle: ''
+  text: 'Entdecke 2 :sauron: Orks, um diese Karte zu spielen. Lege eine beliebige Anzahl von Karten aus deiner Hand ab. Danach legt der Freie Völker Spieler eine beliebige Anzahl von Karten aus seiner Hand ab. Gib einem :sauron: Ork für jede Karte, die du mehr abgelegt hast, Stärke +2.'
+  lore: ''

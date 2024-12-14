@@ -1,0 +1,37 @@
+set: '1'
+rarity: U
+number: '275'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Seeking It Always
+  subtitle: ''
+  text: |-
+    **Search.**   
+    **Response:** If a stealth event is played, exert a :sauron: tracker to cancel that event.
+  lore: ‘…the only measure that he knows is desire, desire for power; and so he judges all hearts.’
+de:
+  title: Stetig auf der Suche
+  subtitle: ''
+  text: '**Suche.** **Reaktion:** Wenn ein Heimlichkeitsereignis gespielt wird, strenge einen :sauron: Spurenleser an, um dieses Ereignis zu verhindern.'
+  lore: Doch der einzige Maßstab, den er kennt, ist Begehren, das Streben nach Macht, und danach beurteilt er alle Herzen.
+fr:
+  title: Toujours à sa Recherche
+  subtitle: ''
+  text: '**Recherche.** **Réponse :** Si un événement de dissimulation est joué, affaiblissez un traqueur :sauron: pour annuler cet événement.'
+  lore: ‘…la seule mesure qu'il connaisse est le désir, le désir du pouvoir ; et c'est ainsi qu'il juge tous les c*urs.’
+it:
+  title: Cercandolo Sempre
+  subtitle: ''
+  text: |-
+    **Ricerca.** Giocala nella tua area di supporto.  
+    **Risposta:** Se un evento Segretezza è giocato, sforza un inseguitore :sauron: per cancellare quell’evento.
+  lore: ‘…l'unica misura che conosce è il desiderio, desiderio di potere, ed egli giudica tutti i cuori alla stessa stregua.’
+es:
+  title: Siempre Buscándolo
+  subtitle: ''
+  text: '**Búsqueda.** **Respuesta:** Si se juega un evento de sigilo, esfuerza un rastreador :sauron: para cancelar ese evento.'
+  lore: Pero la única medida que conoce es el deseo, deseo de poder, y así juzga todos los corazones.

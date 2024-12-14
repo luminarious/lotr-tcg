@@ -1,0 +1,19 @@
+set: '19'
+rarity: P
+number: '13'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '5'
+en:
+  title: Boromir
+  subtitle: Destined Guide
+  text: |-
+    **Fellowship. Ranger.**   
+    While you can spot two unbound Hobbits, Boromir’s twilight cost is –1.  
+    Each time Boromir wins a skirmish, you may exert an unbound Hobbit to discard each minion he is skirmishing from play.
+  lore: In a dream, I saw the eastern sky grow dark.

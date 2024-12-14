@@ -1,0 +1,45 @@
+set: '0'
+rarity: P
+number: '40'
+unique: true
+culture: Dwarven
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+2'
+en:
+  title: Axe of Erebor
+  subtitle: ''
+  text: |-
+    Bearer must be Gimli.   
+    He is **damage +1.**   
+    **Skirmish:** Discard a :dwarven: condition or a card stacked on a :dwarven: condition to make Gimli strength +1. 
+  lore: '''Give me a row of orc-necks and room to swing and all weariness will fall from me!’'
+de:
+  title: Axt vom Erebor
+  subtitle: ''
+  text: |-
+    Muss auf Gimli gespielt werden. Gimli erhält **Schaden +1.**  
+    **Kampf** Lege eine Karte, die auf einem :dwarven: Effekt gelagert ist, oder einen :dwarven: Effekt ab, um Gimli Stärke +1 zu geben.
+  lore: '''Give me a row of orc-necks and room to swing and all weariness will fall from me!’'
+fr:
+  title: Hache d'Erebor
+  subtitle: ''
+  text: |-
+    Le détenteur doit être Gimli.  
+    Il inflige des **dégâts +1.**  
+    **Combat :** Défaussez une situation :dwarven: ou une carte empilée sur une situation :dwarven: pour donner +1 en force à Gimli.
+  lore: '''Give me a row of orc-necks and room to swing and all weariness will fall from me!’'
+it:
+  title: Ascia di Erebor
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Gimli.  
+    **Danno +1.**  
+    **Schermaglia:** Scarta una condizione :dwarven: o una carta impilata su una condizione :dwarven: per aggiungere +1 alla forza di Gimli.
+  lore: '''Give me a row of orc-necks and room to swing and all weariness will fall from me!’'
+es:
+  title: Hacha De Erebor
+  subtitle: ''
+  text: 'El portador debe ser Gimli. Él es **daño +1.** **Escaramuza:** Descarta una condición :dwarven: o una carta apilada en una condición :dwarven: para darle a Gimli fuerza +1.'
+  lore: '''Give me a row of orc-necks and room to swing and all weariness will fall from me!’'

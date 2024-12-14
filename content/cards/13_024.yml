@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '24'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Spring Forth Nimbly
+  subtitle: ''
+  text: 'Make an Elf strength +1 for each card that has an :elven: token on it.'
+  lore: …the Elf had no boots, but wore only light shoes, as he always did….
+de:
+  title: Geschickt aufspringen
+  subtitle: ''
+  text: 'Gib einem Elben Stärke +1 für jede Karte, die mit einer :elven: Marke versehen ist.'
+  lore: …dass der Elb keine Stiefel trug, sondern nur leichte Schuhe wie sonst auch….

@@ -1,0 +1,18 @@
+set: '13'
+rarity: S
+number: '189'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: Crossroads of the Fallen Kings
+  subtitle: ''
+  text: '**Forest.** When the fellowship moves to this site during the regroup phase, the Free Peoples player may heal a companion of each culture.'
+  lore: ''
+de:
+  title: Scheideweg der gefallenen Könige
+  subtitle: ''
+  text: '**Wald.** Der Freie Völker Spieler darf 1 Gefährten jeder Kultur heilen, wenn die Gemeinschaft diesen Ort in der Sammelphase erreicht.'
+  lore: ''

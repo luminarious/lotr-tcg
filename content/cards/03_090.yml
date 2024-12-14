@@ -1,0 +1,33 @@
+set: '3'
+rarity: C
+number: '90'
+unique: true
+culture: Sauron
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Hand of Sauron
+  subtitle: ''
+  text: '**Maneuver:** Exert a :sauron: minion to make the Free Peoples player discard a card at random from his or her hand. '
+  lore: ‘The power of the Ring could not be undone.’
+de:
+  title: Die Hand Saurons
+  subtitle: ''
+  text: '**Manöver:** Strenge einen :sauron: Diener an, um den Freie Völker Spieler zu zwingen, eine zufällig bestimmte Karte aus seiner Hand abzuwerfen.'
+  lore: Doch die Macht des Ringes konnte nicht gebrochen werden.
+fr:
+  title: La Main de Sauron
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un séide :sauron: pour obliger le joueur des Peuples Libres à défausser une carte au hasard de sa main.'
+  lore: 'Le pouvoir de l''Anneau ne pouvait être vaincu. '
+it:
+  title: Mano di Sauron
+  subtitle: ''
+  text: '**Manovra:** Sforza un servitore :sauron: per far scartare una carta a caso al giocatore dei Popoli Liberi dalla sua mano .'
+  lore: ‘Il potere dell'Anello non può essere annullato.’
+es:
+  title: Mano de Sauron
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un siervo :sauron: para hacer que el jugador de Gentes Libres descarte una carta al azar de su mano.'
+  lore: El Poder del Anillo no podía ser deshecho.

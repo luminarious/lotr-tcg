@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '345'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: White Mountains
+  subtitle: ''
+  text: '**Mountain.** When the fellowship moves to White Mountains, Théoden or 2 companions must exert. '
+  lore: ''
+de:
+  title: Das Weiße Gebirge
+  subtitle: ''
+  text: '**Gebirge.** Wenn sich die Gemeinschaft ins Weiße Gebirge bewegt, strenge Théoden oder 2 beliebige andere Gefährten an.'
+  lore: ''
+fr:
+  title: Les Montagnes Blanches
+  subtitle: ''
+  text: '**Montagne.** Quand la compagnie se déplace vers les Montagnes Blanches, Théoden ou 2 compagnons doivent être affaiblis'
+  lore: ''
+it:
+  title: Monti Bianchi
+  subtitle: ''
+  text: '**Montagna.** Quando la compagnia si muove verso Monti Bianchi, Théoden o 2 compagni devono sforzarsi.'
+  lore: ''
+es:
+  title: Montañas Blancas
+  subtitle: ''
+  text: '**Montaña.** Cuando la comunidad se mueve a las Montañas Blancas, Théoden o 2 compañeros deben esforzarse.'
+  lore: ''

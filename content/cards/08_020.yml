@@ -1,0 +1,18 @@
+set: '8'
+rarity: R
+number: '20'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 3
+en:
+  title: Saved From the Fire
+  subtitle: ''
+  text: Spot Gandalf and place a companion (except the Ring-bearer) in the dead pile to take up to 3 cards from that companion’s culture into hand from your draw deck. Shuffle your draw deck.
+  lore: ‘…we will bear Faramir, Steward of Gondor, to a place where he can sleep in peace….’
+de:
+  title: Vor dem Feuer gerettet
+  subtitle: ''
+  text: Entdecke Gandalf und lege einen Gefährten (außer den Ringträger) auf den Friedhof, um 3 Karten der Kultur dieses Gefährten aus deinem Spieldeck zu suchen und auf deine Hand zu nehmen.
+  lore: … wir werden Faramir, Truchsess von Gondor, an einen Ort bringen, an dem er in Frieden schlafen kann.

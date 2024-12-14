@@ -1,0 +1,15 @@
+set: '15'
+rarity: C
+number: '46'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Nice Fish
+  subtitle: ''
+  text: |-
+    Each time Sméagol wins a skirmish, place a :gollum: token here.  
+    **Regroup:** Heal a Ring-bound companion for each :gollum: token here. Discard this condition.
+  lore: ‘Bring fish with you. Come!’

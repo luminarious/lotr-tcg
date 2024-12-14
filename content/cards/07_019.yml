@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '19'
+unique: true
+culture: Elven
+type: Event
+class: Regroup
+cost: 1
+en:
+  title: Careful Study
+  subtitle: ''
+  text: Spot an Elf and discard 3 cards from hand to reconcile your hand.
+  lore: ‘If thou art in haste, remember the Paths of the Dead.’
+de:
+  title: Sorgfältige Studien
+  subtitle: ''
+  text: Entdecke einen Elben und lege 3 Karten aus deiner Hand ab, um deine Handkarten wieder aufzufüllen.
+  lore: Die Tage sind kurz. Wenn du in Eile bist, gedenke der Pfade der Toten.

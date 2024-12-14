@@ -1,0 +1,13 @@
+set: '17'
+rarity: U
+number: '25'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: The Sap is in the Bough
+  subtitle: ''
+  text: 'Discard a companion from hand to make a :gandalf: companion strength +3 (or +4 if you can spot 3 Ents).'
+  lore: '''Together we will take the road that leads into the west/ and far away, we''ll find a land where both our hearts may rest.’'

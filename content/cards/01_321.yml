@@ -1,0 +1,32 @@
+set: '1'
+rarity: U
+number: '321'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Farmer Maggot’s Fields
+  subtitle: ''
+  text: '**Fellowship:** Exert a Hobbit to play Merry or Pippin from your draw deck.'
+  lore: ''
+de:
+  title: Die Felder des Bauern Maggot
+  subtitle: ''
+  text: '**Gemeinschaft.** Strenge einen Hobbit an, um Merry oder Pippin direkt aus deinem Spieldeck zu spielen.'
+  lore: ''
+fr:
+  title: Champs du Père Maggotte
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez un Hobbit pour jouer Merry ou Pippin de votre pioche.'
+  lore: ''
+it:
+  title: I Campi del Vecchio Maggot
+  subtitle: ''
+  text: '**Compagnia:** Sforza un Hobbit per giocare Merry o Pipino dal tuo mazzo di gioco.'
+  lore: ''
+es:
+  title: Los Campos del Granjero Maggot
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza un Hobbit para jugar a Merry o a Pippin de tu mazo de robar.'
+  lore: ''

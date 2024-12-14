@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '353'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Great Hall
+  subtitle: ''
+  text: '**Sanctuary.** **Battleground.**Each :rohan: ally may participate in archery fire and skirmishes at Great Hall. '
+  lore: ''
+de:
+  title: Die große Halle
+  subtitle: ''
+  text: '**Zuflucht.** **Schlachtfeld.**Alle :rohan: Verbündeten dürfen in der großen Halle am Fernkampf und Kampf teilnehmen.'
+  lore: ''
+fr:
+  title: La Grande Salle
+  subtitle: ''
+  text: '**Sanctuaire.** **Champ de bataille.** Chaque allié :rohan: peut participer à la phase d’archerie et au combat à la Grande Salle.'
+  lore: ''
+it:
+  title: Grande Sala
+  subtitle: ''
+  text: '**Rifugio.** **Campo di Battaglia.** Ogni alleato :rohan: può partecipare nel tiro degli arcieri e nelle schermaglie alla Grande Sala.'
+  lore: ''
+es:
+  title: Gran Salón
+  subtitle: ''
+  text: '**Santuario.** **Campo de batalla.** Cada aliado :rohan: puede participar en disparos de arquería y en escaramuzas en el Gran Salón.'
+  lore: ''

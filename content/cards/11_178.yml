@@ -1,0 +1,23 @@
+set: '11'
+rarity: S
+number: '178'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Bloodthirsty Uruk
+  subtitle: ''
+  text: '**Damage +1.** While you can spot an exhausted companion, this minion is strength +3.'
+  lore: Bred for endurance, the Uruk-hai pursue their foes tirelessly.
+de:
+  title: Blutrünstiger Uruk
+  subtitle: ''
+  text: |-
+    **Schaden +1**.  
+    Solange du einen erschöpften Gefährten entdecken kannst, erhält dieser Diener Stärke +3.
+  lore: Mit angezüchteter Ausdauer verfolgen die Uruks ihre Feinde, ohne zu ermüden.

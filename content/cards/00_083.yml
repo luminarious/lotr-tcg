@@ -1,0 +1,16 @@
+set: '0'
+rarity: P
+number: '83'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '12'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Attëa
+  subtitle: Second of the Nine Riders
+  text: '**Fierce.** Each time Úlairë Attëa is assigned to a fierce skirmish involving a character who has resistance 4 or less, you may exert Úlairë Attëa to add a burden.'
+  lore: DGMA Premier Series Qualifier

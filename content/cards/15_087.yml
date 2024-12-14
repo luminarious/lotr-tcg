@@ -1,0 +1,18 @@
+set: '15'
+rarity: R
+number: '87'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 5
+str: '13'
+vit: '3'
+site: 4
+en:
+  title: Primitive Savage
+  subtitle: ''
+  text: |-
+    While you can spot a companion of strength 12 or more, this minion is strength +5.  
+    Each time this minion wins a skirmish, if he bears a hand weapon, you may take control of a site.
+  lore: The only thing scarier than a Wild Man is a Wild Man with an axe.

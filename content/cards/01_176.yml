@@ -1,0 +1,40 @@
+set: '1'
+rarity: C
+number: '176'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 3
+str: '7'
+vit: '1'
+site: 4
+en:
+  title: Goblin Marksman
+  subtitle: ''
+  text: '**Archer.** (Add 1 to the minion archery total.)'
+  lore: Arrows fell among them. One struck Frodo and sprang back. Another pierced Gandalf’s hat and stuck there like a black feather.
+de:
+  title: Goblin Scharfschütze
+  subtitle: ''
+  text: '**Bogenschütze.**(Erhöhe den Fernkampfwert der Diener um 1.)'
+  lore: Pfeile fielen auf sie. Einer traf Frodo und prallte ab. Ein zweiter durchbohrte Gandalfs Hut und blieb dort wie eine schwarze Feder stecken.
+fr:
+  title: Tireur d'Élite Gobelin
+  subtitle: ''
+  text: |-
+    **Archer.**  
+    (Ajoutez 1 au total d’archerie des séides.)
+  lore: Les flèches tombaient parmi eux. L'une frappa Frodon et ricocha. Une autre transperça le chapeau de Gandalf et y resta plantée comme une plume noire.
+it:
+  title: Tiratore Scelto Goblin
+  subtitle: ''
+  text: |-
+    **Arciere.**  
+    (Aggiungi 1 al totale degli arcieri tra i servitori.)
+  lore: Delle frecce caddero in mezzo a loro. Una di esse colpì Frodo e rimbalzò. Un'altra penetrò nel cappello di Gandalf, rimanendovi conficcata come una piuma nera.
+es:
+  title: Tirador Goblin
+  subtitle: ''
+  text: '**Arquero.** (Añade 1 al total de arquería de los siervos.)'
+  lore: Las flechas cayeron entre ellos. Una golpeo a Frodo y reboto. Otra atravesó el sombrero de Gandalf, y allí se quedo sujeta como una pluma negra.

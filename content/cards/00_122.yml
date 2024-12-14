@@ -1,0 +1,21 @@
+set: '0'
+rarity: P
+number: '122'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '5'
+vit: '3'
+res: '6'
+en:
+  title: Haldir
+  subtitle: Sentry of the Golden Wood
+  text: |-
+    To play, spot an Elf.  
+    While the fellowship is at a battleground site, Haldir is strength +2.  
+    While the fellowship is at a forest site, Haldir is an **archer**.
+  lore: |-
+    Online Hunters Release Event  
+    October 2005

@@ -1,0 +1,16 @@
+set: '6'
+rarity: R
+number: '113'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+signet: Signet_Aragorn
+en:
+  title: Merry
+  subtitle: Impatient Hobbit
+  text: '**Regroup:** Discard Merry to heal a :gandalf: companion.'
+  lore: ‘Don't talk to it Merry. Don't encourage it.’

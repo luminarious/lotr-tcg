@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '82'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '1'
+site: 4
+en:
+  title: Orkish Rider
+  subtitle: ''
+  text: |-
+    Each mounted :orc: Orc is strength +1.  
+    **Shadow:** Discard an :orc: card from your hand to play an :orc: mount from your discard pile.
+  lore: They formed the cavalry of the Orc legions.

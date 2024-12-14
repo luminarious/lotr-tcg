@@ -1,0 +1,16 @@
+set: '1'
+rarity: U
+number: '97'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Frodo
+en:
+  title: Boromir
+  subtitle: Son of Denethor
+  text: '**Skirmish:** Exert Boromir to make a Hobbit strength +3.'
+  lore: ‘Long has my father, the Steward of Gondor, held the forces of Mordor at bay – by the blood of our people are the lands of others kept safe.’

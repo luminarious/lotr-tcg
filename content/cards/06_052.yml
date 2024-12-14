@@ -1,0 +1,33 @@
+set: '6'
+rarity: C
+number: '52'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Garrison of Osgiliath
+  subtitle: ''
+  text: '**Fortification.** When you play this condition, you may spot a :gondor: Man to place 2 :gondor: tokens here. **Skirmish:** Discard this condition or remove a :gondor: token from here to make a :gondor: Man strength +1.'
+  lore: ‘So ever do we watch the shores nigh Osgiliath….’
+de:
+  title: Garnison von Osgiliath
+  subtitle: ''
+  text: '**Befestigung.** Du darfst einen :gondor: Menschen entdecken, um 2 :gondor: Marken auf diese Karte zu legen, wenn du sie spielst. **Kampf** Entferne eine :gondor: Marke von dieser Karte oder lege diesen Effekt ab, um einem :gondor: Mensch en Stärke +1 zu geben.'
+  lore: So bewachen wir immer die Ufer nahe Osgiliath…
+fr:
+  title: La Garnison d'Osgiliath
+  subtitle: ''
+  text: 'Fortification. Quand vous jouez cette situation, vous pouvez désigner un Homme :gondor: pour déposer 2 jetons :gondor: ici. **Combat :** Défaussez cette situation ou retirez un jeton :gondor: de cette carte pour donner +1 en force à un Homme :gondor:'
+  lore: '… nous observons toujours les rives près d''Osgiliath…” '
+it:
+  title: Guarnigione di Osgiliath
+  subtitle: ''
+  text: '**Fortificazione.** Quando giochi questa condizione, puoi avvistare un Uomo :gondor: per piazzare qui 2 segnalini :gondor:. **Schermaglia:** Scarta questa condizione o rimuovi da qui un segnalino :gondor: per aggiungere +1 alla forza di un Uomo :gondor:.'
+  lore: ‘Sorvegliamo infatti costantemente le rive presso Osgiliath….’
+es:
+  title: Guarnición de Osgiliath
+  subtitle: ''
+  text: '**Fortificación.** Cuando juegas esta condición, puedes avistar un Hombre :gondor: para colocar 2 contadores :gondor: aquí. **Escaramuza:** Descarta esta condición o quita un contador :gondor: de aquí para darle a un Hombre :gondor: fuerza +1.'
+  lore: Siempre vigilamos las orillas cerca de Osgiliath…

@@ -1,0 +1,23 @@
+set: '11'
+rarity: C
+number: '103'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 2
+str: '8'
+vit: '1'
+site: 4
+en:
+  title: Warrior of Dunland
+  subtitle: ''
+  text: '**Ambush** :twilight1:. While this minion is at a plains site, it gains an additional ambush :twilight1:.'
+  lore: The open plain affords no shelter, no defense against the Dunlendings.
+de:
+  title: Krieger aus Dunland
+  subtitle: ''
+  text: |-
+    **Hinterhalt** :twilight1:.  
+    Wenn sich dieser Diener an einer Ebene befindet, erhält er zusätzlich **Hinterhalt** :twilight1: .
+  lore: Die weiten Steppen bieten keinen Schutz, keine Verteidigung gegen die Horden der Dunländer.

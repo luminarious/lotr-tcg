@@ -1,0 +1,13 @@
+set: '15'
+rarity: C
+number: '121'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Brilliant Light
+  subtitle: ''
+  text: 'Make a :rohan: companion strength +2 (or +3 and **damage +1** if he or she is a hunter companion).'
+  lore: The Orcs reeled and screamed and cast aside both sword and spear.

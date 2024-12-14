@@ -1,0 +1,33 @@
+set: '6'
+rarity: C
+number: '97'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: We Left None Alive
+  subtitle: ''
+  text: 'When you play this condition, you may spot a :rohan: Man to place 2 :rohan: tokens here. **Skirmish:** Discard this condition or remove a :rohan: token from here to make a :rohan: Man skirmishing an exhausted minion strength +2.'
+  lore: ''
+de:
+  title: Wir ließen keinen am Leben
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Du darfst einen :rohan: Menschen entdecken, um 2 :rohan: Marken auf diese Karte zu legen, wenn du sie spielst. **Kampf** Entferne eine :rohan: Marke von dieser Karte oder lege diesen Effekt ab, um einem :rohan: Menschen, der gegen einen erschöpften Diener kämpft, Stärke +2 zu geben.'
+  lore: ''
+fr:
+  title: Nous n'en Avons Laissé Aucun Vivant
+  subtitle: ''
+  text: 'Quand vous jouez cette situation, vous pouvez désigner un Homme :rohan: pour déposer 2 jetons :rohan: ici.'
+  lore: 'Combat : Défaussez cette situation ou retirez un jeton = de cette carte pour donner +2 en force a un Homme = qui combat un séide épuisé.'
+it:
+  title: Non Abbiamo Lasciato Vivo Nessuno
+  subtitle: ''
+  text: 'Quando giochi questa condizione, puoi avvistare un Uomo :rohan: per piazzare qui 2 segnalini :rohan:. **Schermaglia:** Scarta questa condizione o rimuovi da qui un segnalino :rohan: per aggiungere +2 alla forza di un Uomo :rohan: che sta schermag'
+  lore: ''
+es:
+  title: No dejamos ninguno con vida
+  subtitle: ''
+  text: 'Cuando juegas esta condición, puedes avistar un Hombre :rohan: para colocar 2 contadores :rohan: aquí. **Escaramuza:** Descarta esta condición o quita un contador :rohan: de aquí para darle a un Hombre :rohan: que esté en una escaramuza contra un siervo'
+  lore: ''

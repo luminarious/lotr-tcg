@@ -1,0 +1,22 @@
+set: '12'
+rarity: U
+number: '41'
+unique: true
+culture: Gollum
+type: Condition
+cost: 0
+en:
+  title: Treacherous Little Toad
+  subtitle: ''
+  text: |-
+    To play, spot a :gollum: card.   
+    Bearer must be a wounded companion.   
+    While you can spot a :gollum: character or a :gollum: card in your support area, bearer cannot heal.
+  lore: ‘The Precious will be ours once the Hobbitses are dead!’
+de:
+  title: Widerlicher kleiner Gauner
+  subtitle: ''
+  text: |-
+    Entdecke eine :gollum: Karte, um diesen Effekt auf einen verwundeten Gefährten zu spielen.  
+    Solange du einen :gollum: Charakter oder eine :gollum: Karte in deinem Unterstützungsbereich entdecken kannst, kann der Träger nicht geheilt werden.
+  lore: ''

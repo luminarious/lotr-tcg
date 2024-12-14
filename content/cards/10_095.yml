@@ -1,0 +1,25 @@
+set: '10'
+rarity: R
+number: '95'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '3'
+site: 6
+en:
+  title: Orc Slaughterer
+  subtitle: ''
+  text: |-
+    **Enduring.**   
+    For each wound on this minion, it is strength +2. 
+  lore: All about the hills the hosts of Mordor raged.
+de:
+  title: Schlachtork
+  subtitle: ''
+  text: |-
+    **Zäh.**   
+    Jede Wunde auf diesem Diener gibt ihm Stärke +2.
+  lore: Rings um die Hügel wüteten die Heere von Mordor.

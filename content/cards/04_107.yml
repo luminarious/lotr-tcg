@@ -1,0 +1,38 @@
+set: '4'
+rarity: R
+number: '107'
+unique: true
+culture: Gandalf
+type: Condition
+cost: 1
+en:
+  title: Windows in a Stone Wall
+  subtitle: ''
+  text: |-
+    To play, exert an Ent. Plays on that Ent.   
+    **Response:** If an :isengard: minion is killed, discard this condition to reveal the top 10 cards of an opponent’s draw deck. Discard 1 Shadow card and 1 Free Peoples card revealed. Your opponent reshuffles that deck.
+  lore: ''
+de:
+  title: Fenster in einer Steinmauer
+  subtitle: ''
+  text: 'Strenge einen Ent an, um diese Karte auf diesen Ent zu spielen. **Reaktion:** Wenn ein :isengard: Diener getötet wird, lege diesen Effekt ab, um die obersten 10 Karten vom Spieldeck eines Gegenspielers aufzudecken. Lege von den aufgedeckten Karten 1 Schattenkarte und 1 Karte der Freien Völker ab. Dein Gegenspieler mischt den Rest wieder in sein Spieldeck.'
+  lore: ''
+fr:
+  title: Des Fenêtres Dans un Mur de Pierre
+  subtitle: ''
+  text: 'Pour jouer, affaiblissez un Ent. Jouable sur cet Ent. **Réponse :** Si un séide :isengard: est tué, défaussez cette situation pour révéler les 10 cartes du dessus de la pioche d’un adversaire. Défaussez une carte de l’Ombre et une carte des Peuples Libres parmi celles révélées. Votre adversaire doit remélanger sa pioche.'
+  lore: ''
+it:
+  title: Finestre in un Muro di Pietra
+  subtitle: ''
+  text: |-
+    Per giocarla, sforza un Ent. Giocala su quell’Ent.  
+    **Risposta:** Se un servitore :isengard: è ucciso, scarta questa condizione per mostrare le prime 10 carte del mazzo di gioco di un avversario. Scarta 1 carta Ombra e 1 carta dei Popoli Liberi mostrate. Il tuo avversario deve poi rimescolare quel mazzo.
+  lore: ''
+es:
+  title: Ventanas En Un Muro De Piedra
+  subtitle: ''
+  text: |-
+    Para jugarla, esfuerza un Ent. Se juega en ese Ent.   
+    **Respuesta:** Si un siervo :isengard: muere, descarta esta condición para revelar las 10 cartas superiores del mazo de robar del oponente y descartar 1 carta de Sombra y una carta de Gentes Libres. Tu oponente baraja ese mazo.
+  lore: ''

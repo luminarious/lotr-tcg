@@ -1,0 +1,18 @@
+set: '3'
+rarity: R
+number: '38'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 4
+str: '8'
+vit: '4'
+signet: Signet_Frodo
+en:
+  title: Aragorn
+  subtitle: Heir to the White City
+  text: |-
+    **Ranger.**   
+    Each time the fellowship moves during the fellowship phase, remove :twilight2:. 
+  lore: '‘…his hood was cast back, and his dark hair was blowing in the wind, a light was in his eyes: a king returning from exile in his own land.’'

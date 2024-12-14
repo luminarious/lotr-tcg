@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '39'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Not Alone
+  subtitle: ''
+  text: 'Each time the fellowship moves to a mountain or underground site, you may discard a :gollum: event from hand to take a minion from your discard pile into hand.'
+  lore: Gollum stalked the Ring-bearer over many leagues, awaiting the right opportunity to strike.
+de:
+  title: Nicht alleine
+  subtitle: ''
+  text: 'Du darfst jedes Mal, wenn die Gemeinschaft ein Gebirge oder einen unterirdischen Ort erreicht, ein :gollum: Ereignis aus deiner Hand ablegen, um einen Diener aus deinem Ablagestapelauf die Hand zu nehmen.'
+  lore: Gollum schlich dem Ringträger viele Meilen weit nach, um eine günstige Gelegenheit abzupassen.

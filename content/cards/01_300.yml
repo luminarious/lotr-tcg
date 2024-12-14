@@ -1,0 +1,40 @@
+set: '1'
+rarity: C
+number: '300'
+unique: true
+culture: Shire
+type: Possession
+cost: 1
+en:
+  title: Longbottom Leaf
+  subtitle: ''
+  text: |-
+    **Pipeweed.**   
+    When you play this possession, you may discard up to 2 cards from hand.
+  lore: Longbottom Leaf is the pipeweed enjoyed by most Hobbits throughout the Shire.
+de:
+  title: Langgrundblatt
+  subtitle: ''
+  text: |-
+    **Pfeifenkraut.**  
+    Wenn du diese Karte spielst, darfst du bis zu 2 Karten aus deiner Hand ablegen.
+  lore: Langgrundblatt ist das am meisten gerauchte Pfeifenkraut im Auenland.
+fr:
+  title: Feuille de Longoulet
+  subtitle: ''
+  text: |-
+    **Herbe à pipe.**  
+    Quand vous jouez cette possession, vous pouvez défausser jusqu’à 2 cartes de votre main.
+  lore: La Feuille de Longoulet est l'herbe à pipe appréciée par la plupart des Hobbits de la Comté.
+it:
+  title: Erba di Pianilungone
+  subtitle: ''
+  text: |-
+    **Erba pipa.**  
+    Quando giochi questo bene, puoi scartare fino a 2 carte dalla mano.
+  lore: L'erba di Pianilungone è l'erba pipa preferita dalla maggioranza degli Hobbit, dovunque nella Contea.
+es:
+  title: Hoja Valle Largo
+  subtitle: ''
+  text: '**Hierba para pipa.** Cuando juegas esta posesión, puedes descartar de hasta 2 cartas de tu mano.'
+  lore: La Hoja Valle Largo es la hierba para pipa que disfrutan la mayoría de Hobbits a lo largo de la Comarca.

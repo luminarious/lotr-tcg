@@ -1,0 +1,25 @@
+set: '12'
+rarity: R
+number: '56'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 7
+str: '14'
+vit: '4'
+site: 4
+en:
+  title: Castamir of Umbar
+  subtitle: Corsair Vandal
+  text: |-
+    **Fierce. Toil 1.** *(For each* :men: *character you exert when playing this, its twilight cost is –1.)*   
+    Each wounded :men: minion is strength +2.
+  lore: ‘…they have allied them with the Enemy, and now make a heavy stroke in his cause.’
+de:
+  title: Castamir aus Umbar
+  subtitle: Räuberischer Corsar
+  text: |-
+    **Erbittert. Mühe 1.** *(Für jeden *:men: *Charakter, den du beim Ausspielen dieser Karte anstrengst, reduzieren sich deren Kosten um 1.)*  
+    Jeder verwundete :men: Diener erhält Stärke +2.
+  lore: … und haben sich mit dem Feind verbündet, und jetzt führen sie einen schweren Schlag für seine Sache.

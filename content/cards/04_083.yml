@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '83'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Supporting Fire
+  subtitle: ''
+  text: '**Skirmish:** Make an Elf strength +2 (or +3 if you spot 3 Elf companions). '
+  lore: Sword-work is made easier with archery support.
+de:
+  title: Unterstützungsfeuer
+  subtitle: ''
+  text: '**Kampf** Gib einem Elben Stärke +2 (oder Stärke +3, wenn du 3 Elbengefährten entdeckst).'
+  lore: Schwertarbeit wurde viel einfacher durch die Unterstützung der Bogenschützen.
+fr:
+  title: Tir de Soutien
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force à un Elfe (ou +3 si vous désignez 3 compagnons Elfes).'
+  lore: Le combat à l'épée est facilité par le soutien des archers.
+it:
+  title: Fuoco di Supporto
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Elfo (o +3 se avvisti 3 compagni Elfi).'
+  lore: Il compito delle spade è reso più facile dal supporto degli arcieri.
+es:
+  title: Fuego De Apoyo
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Elfo fuerza +2 (o +3 si avistas 3 compañeros Elfos).'
+  lore: El trabajo de espada se hace más fácil con el apoyo de la arquería.

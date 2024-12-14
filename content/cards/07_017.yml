@@ -1,0 +1,16 @@
+set: '7'
+rarity: R
+number: '17'
+unique: true
+culture: Elven
+type: Possession
+class: Mount
+cost: 2
+str: '+2'
+en:
+  title: Asfaloth
+  subtitle: Elven Steed
+  text: |-
+    Bearer must be an Elf.   
+    **Skirmish:** If bearer is Arwen, exert her to make each minion skirmishing her strength –2.
+  lore: ''

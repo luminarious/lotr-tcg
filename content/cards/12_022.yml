@@ -1,0 +1,16 @@
+set: '12'
+rarity: C
+number: '22'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Rúmil
+  subtitle: Brother of Haldir
+  text: '**Maneuver:** Reveal the top card of your draw deck. If it is an :elven: card, Rúmil is an **archer** until the regroup phase.'
+  lore: …the Elves feared and distrusted the world outside….

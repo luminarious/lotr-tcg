@@ -1,0 +1,39 @@
+set: '5'
+rarity: R
+number: '128'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Thundering Host
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    **Skirmish:** Discard this condition to make a mounted :rohan: Man strength +3 (and heal that Man if at a plains).
+  lore: The roar of hooves was enough to rout the Uruk-hai without sword or spear.
+de:
+  title: Donnernde Hufe
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Kampf** Lege diesen Effekt ab, um einem berittenen :rohan: Menschen Stärke +3 zu geben (und ihn zu heilen, wenn er sich auf einer Ebene befindet).'
+  lore: Allein der Donnerhall der Hufe reichte aus, um die Uruk-hai in die Flucht zu schlagen.
+fr:
+  title: Armée Tonitruante
+  subtitle: ''
+  text: |-
+
+    **Combat :** Défaussez cette situation pour donner +3 en force à un Homme :rohan: qui détient une monture (et guérissez cette Homme s’il se trouve à une plaine).
+  lore: Le grondement des sabots suffisait à mettre les Ourouk-Haï en déroute, sans besoin de recourir ni à l'épée, ni à la lance.
+it:
+  title: Schiera Rombante
+  subtitle: ''
+  text: |-
+
+    **Schermaglia:** Scarta questa condizione per aggiungere +3 alla forza di un Uomo a cavallo :rohan: (e curare quell’Uomo, se presso una pianura).
+  lore: Il rombo degli zoccoli era sufficiente a mandare in rotta gli Uruk-hai senza bisogno di spade o lance.
+es:
+  title: Hueste atronadora
+  subtitle: ''
+  text: '**Escaramuza:** Descarta esta condición para dar a un Hombre :rohan: con montura fuerza +3 (y curar ese Hombre si está en una llanura).'
+  lore: El rugido de los cascos era suficiente para hacer huir los Uruk-hai sin lanza o espada.

@@ -1,0 +1,33 @@
+set: '6'
+rarity: C
+number: '38'
+unique: true
+culture: Gollum
+type: Event
+class: Response
+cost: 0
+en:
+  title: Don’t Follow the Lights
+  subtitle: ''
+  text: '**Response:** If Sméagol wins a skirmish, add a burden to discard a minion.'
+  lore: ‘Careful, careful now or Hobbits go down to join the dead ones and light little candles.’
+de:
+  title: Folgt nicht den Lichtern
+  subtitle: ''
+  text: '**Reaktion:** Lege eine Lastmarke auf den Ringträger, um einen Diener abzulegen, wenn Sméagol einen Kampf gewinnt.'
+  lore: Vorsicht jetzt! Sonst gehen Hobbits hinunter zu den Toten und zünden auch kleine Kerzen an.
+fr:
+  title: Ne Suivez pas les Lumières
+  subtitle: ''
+  text: '**Réponse :** Si Sméagol gagne un combat, ajoutez un point-fardeau pour défausser un séide.'
+  lore: 'Attention maintenant, attention, ssinon Hobbits vont rejoindre les Morts et allumer des petites chandelles.” '
+it:
+  title: Non Seguite le Luci
+  subtitle: ''
+  text: '**Risposta:** Se Sméagol vince una schermaglia, aggiungi un segnalino fardello per scartare un servitore.'
+  lore: ‘Ora piano, molto piano… altrimenti gli Hobbit andrebbero giù a raggiungere i Morti ed accendere piccole candeline.’
+es:
+  title: No sigáis las luces
+  subtitle: ''
+  text: '**Respuesta:** Si Sméagol gana una escaramuza, añade una carga para descartar un siervo.'
+  lore: ¡Con mucha cautela! Si no los Hobbits bajarán a acompañar a los Muertos y encender pequeños cirios.

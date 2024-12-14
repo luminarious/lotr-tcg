@@ -1,0 +1,16 @@
+set: '3'
+rarity: R
+number: '27'
+unique: true
+culture: Elven
+type: Artifact
+class: Ring
+cost: 0
+vit: '+1'
+en:
+  title: Vilya
+  subtitle: ''
+  text: |-
+    Bearer must be Elrond.   
+    **Maneuver:** Exert Elrond twice and spot a Shadow condition to return that condition to its owner’s hand. 
+  lore: Upon his finger was a ring of gold with a great blue stone, Vilya, mightiest of the Three.

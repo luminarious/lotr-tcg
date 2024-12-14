@@ -1,0 +1,15 @@
+set: '18'
+rarity: U
+number: '83'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Destroyers and Usurpers
+  subtitle: ''
+  text: |-
+    Each companion loses all **defender** bonuses and cannot gain defender bonuses.  
+    **Maneuver:** Spot 2 :orc: minions to make the fellowship’s current site gain battleground until the regroup phase.
+  lore: They come with fire, they come with axes. Gnawing, biting, breaking, hacking, burning!

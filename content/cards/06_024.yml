@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '24'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Boomed and Trumpeted
+  subtitle: ''
+  text: '**Skirmish:** Make an Ent strength +X and **damage +X**, where X is the number of unbound Hobbits you can spot.'
+  lore: ‘For bole and bough are burning now, the furnace roars-we go to war!’
+de:
+  title: Mit Pauken und Trompeten
+  subtitle: ''
+  text: '**Kampf** Gib einem Ent Stärke +X und Schaden +X, wobei X der Anzahl nicht-verbundener Hobbits entspricht, die du entdecken kannst.'
+  lore: Jetzt brennts mit Stumpf und Stiel, es brennt und brüllt im feurigen Element.
+fr:
+  title: Ils Rugissaient et Grondaient
+  subtitle: ''
+  text: '**Combat :** Donnez +X en force et des dégâts +X à un Ent, X étant le nombre de Hobbits dissociés que vous pouvez désigner.'
+  lore: 'Car fût et branche brûlent à présent, la fournaise gronde — nous partons en guerre !” '
+it:
+  title: Tuoni e Boati
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +X alla forza e al Danno di un Ent, dove X è pari al numero di Hobbit Non Legati che puoi avvistare.'
+  lore: ‘Bruciano il tronco ed il ramo, e noi andiamo, e noi marciamo!’
+es:
+  title: Bramaban y aullaban
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Ent fuerza +X y daño +X, donde X es el número de Hobbits no-vinculados que puedas avistar.'
+  lore: Pues el tronco y la rama están ardiendo ahora, el horno ruge; ¡partimos a la guerra!

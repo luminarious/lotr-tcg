@@ -1,0 +1,38 @@
+set: '4'
+rarity: U
+number: '11'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '1'
+site: 3
+en:
+  title: Dunlending Looter
+  subtitle: ''
+  text: |-
+    When this minion wins a skirmish, you may stack him on a site you control.   
+    **Shadow:** If stacked on a site you control, play this minion. His twilight cost is -2. 
+  lore: …the Dunlendings raided often over the Isen.
+de:
+  title: Diebischer Dunländer
+  subtitle: ''
+  text: Wenn dieser Diener einen Kampf gewinnt, darfst du ihn auf einem Ort lagern, den du kontrollierst. **Schatten:** Spiele diesen Diener mit um 2 reduzierten Zwielichtkosten, wenn er auf einem Ort lagert, den du kontrollierst.
+  lore: … machten die Dunländer oft Raubzüge über den Isen.
+fr:
+  title: Dépouilleur Dun
+  subtitle: ''
+  text: 'Chaque fois que ce séide gagne un combat, vous pouvez l’empiler sur un site que vous contrôlez. Ombre : Si ce séide est empilé sur un site que vous contrôlez, jouez-le. Son coût crépusculaire est de -2.'
+  lore: '… Ceux du Pays de Dun allaient souvent piller de par l''Isen. '
+it:
+  title: Saccheggiatore Dunlandiano
+  subtitle: ''
+  text: Quando questo servitore vince una schermaglia, puoi impilarlo su un sito che controlli. **Ombra:** Se impilato su un sito che controlli, gioca questo servitore. Sottrai -2 al suo costo **Crepuscolo.**
+  lore: ‘…i Dunlandiani fecero molte scorribande oltre l'Isen.’
+es:
+  title: Saqueador Dunlendino
+  subtitle: ''
+  text: Cuando este siervo gana una escaramuza, puedes apilarlo en un sitio que controles. **Sombra:** Si está apilado en un sitio que controles, juega este siervo. Su coste de penumbra es -2.
+  lore: …los Dunlendinos saqueaban frecuentemente cruzando el Isen.

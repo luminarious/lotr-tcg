@@ -1,0 +1,20 @@
+set: '19'
+rarity: P
+number: '19'
+unique: true
+culture: Moria
+type: Minion
+race: Creature
+cost: 2
+str: '4'
+vit: '2'
+site: 4
+en:
+  title: Reaching Tentacle
+  subtitle: ''
+  text: |-
+    **Tentacle.**  
+    This minion cannot bear possessions.  
+    Discard this minion from play if not at a marsh.  
+    This minion is strength +1 for each tentacle you spot.
+  lore: Frodo felt something seize him by the ankle…

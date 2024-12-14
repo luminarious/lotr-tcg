@@ -1,0 +1,23 @@
+set: '11'
+rarity: S
+number: '65'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Ranger of Westernesse
+  subtitle: ''
+  text: '**Ranger.** When you play this companion, you may play the fellowship’s next site. '
+  lore: The road may pass, but they shall not!
+de:
+  title: Waldläufer von Westerniss
+  subtitle: ''
+  text: |-
+    **Waldläufer**.  
+    Wenn du diesen Gefährten spielst, darfst du den nächsten Ort der Gemeinschaft ausspielen.
+  lore: Die Straße mag durchlaufen, aber die Südländer nicht!

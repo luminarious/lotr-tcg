@@ -1,0 +1,36 @@
+set: '3'
+rarity: C
+number: '56'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Isengard Forger
+  subtitle: ''
+  text: '**Shadow:** Exert this minion to add :twilight1:. '
+  lore: ‘I looked on it and saw that, whereas it had once been green and fair, it was now filled with pits and forges.’
+de:
+  title: Isengart Schmied
+  subtitle: ''
+  text: '**Schatten:** Strenge diesen Diener an, um den Einfluss um :twilight1: zu erhöhen.'
+  lore: Ich schaute hinunter und sah, dass es, während es früher grün und schön gewesen war, jetzt voller Gruben und Schmieden war.
+fr:
+  title: Forgeur de l'Isengard
+  subtitle: ''
+  text: 'Ombre : Affaiblissez ce séide pour ajouter :twilight1:.'
+  lore: 'La contemplant, je vis qu''alors qu''autrefois elle était verte et belle, elle était à présent remplie de puits et de forges.” '
+it:
+  title: Forgiatore di Isengard
+  subtitle: ''
+  text: '**Ombra:** Sforza questo servitore per aggiungere :twilight1:.'
+  lore: ‘In passato era verde e bella, ma ora guardando vidi che era piena di pozzi e di fucine.’
+es:
+  title: Forjador de Isengard
+  subtitle: ''
+  text: '**Sombra:** Esfuerza este siervo para añadir :twilight1:.'
+  lore: Miré en él y vi eso, donde antes era verde y hermoso, ahora estaba lleno de pozos y forjas.

@@ -1,0 +1,46 @@
+set: '4'
+rarity: U
+number: '249'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Southron Commander
+  subtitle: ''
+  text: |-
+    **Southron.** **Ambush** :twilight1:.  
+    **Assignment:** Spot 6 companions to assign this minion to the Ring-bearer. The Free Peoples player may discard an unbound companion to prevent this. 
+  lore: ‘Almost as bad as Orcs, and much bigger.’
+de:
+  title: Anführer der Südländer
+  subtitle: ''
+  text: '**Südländer.** **Hinterhalt** :twilight1:**.** **Zuweisung:** Entdecke 6 Gefährten, um diesen Diener dem Ringträger zuzuweisen. Der Freie Völker Spieler darf einen nicht-verbundenen Gefährten ablegen, um dies zu verhindern.'
+  lore: Fast so schlimm wie Orks, und viel größer.
+fr:
+  title: Commandant Suderon
+  subtitle: ''
+  text: |-
+    **Suderon.** **Embuscade** :twilight1:**.** **Affectation :** Désignez 6 compagnons pour affecter ce séide au Porteur de l’Anneau.  
+    Le joueur des Peuples Libres peut défausser un compagnon dissocié pour empêcher ceci.
+  lore: 'Presqu''aussi mauvais que des Orques, et beaucoup plus grands.” '
+it:
+  title: Comandante Sudrone
+  subtitle: ''
+  text: |-
+    **Sudrone.**  
+    **Imboscata** :twilight1:**.**   
+    **Assegnazione:** Avvista 6 compagni per assegnare questo servitore al Portatore dell’Anello.  
+    Il giocatore dei Popoli Liberi può scartare un compagno Non Legato per prevenire questo effetto.
+  lore: ‘Quasi cattivi come gli Orchi, e molto più grandi.’
+es:
+  title: Comandante Sureño
+  subtitle: ''
+  text: |-
+    **Sureño.** **Emboscar** :twilight1:.   
+    **Asignación:** Avista 6 compañeros para asignar este siervo al Portador del Anillo. El jugador de Gentes Libres puede descartar un compañero no-vinculado para prevenir esto.
+  lore: Casi tan malvados como los Orcos y mucho más grandes.

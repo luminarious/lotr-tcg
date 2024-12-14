@@ -1,0 +1,33 @@
+set: '6'
+rarity: C
+number: '17'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Forewarned
+  subtitle: ''
+  text: 'To play, spot 2 Elves. **Fellowship:** Add :twilight1: to look at the top card of your draw deck. You may discard this condition to discard that card.'
+  lore: ‘Whether by the sword or the slow decay of time, Aragorn will die.’
+de:
+  title: Gewarnt
+  subtitle: ''
+  text: Entdecke 2 Elben, um diese Karte in deinen Unterstützungsbereich zu spielen. **Gemeinschaft:** Erhöhe den Einfluss um :twilight1:, um dir die oberste Karte deines Spieldecks anzuschauen. Du darfst diesen Effekt ablegen, um die Karte abzulegen.
+  lore: Ob durch das Schwert oder langsamen Verfall, eines Tages stirbt Aragorn.
+fr:
+  title: Prévenue
+  subtitle: ''
+  text: 'Pour jouer, désignez 2 Elfes. **Compagnie :** Ajoutez :twilight1: pour regarder la première carte de votre pioche. Vous pouvez défausser cette situation pour défausser la carte regardée.'
+  lore: 'Que ce soit par l''épée ou par le lent déclin du temps, Aragorn mourra.” '
+it:
+  title: Mezzo Avvisato
+  subtitle: ''
+  text: Per giocarla, avvista 2 Elfi. **Compagnia:** Aggiungi:twilight1:per guardare la prima carta del tuo mazzo di gioco. Puoi scartare questa condizione per scartare quella carta.
+  lore: ‘O per la spada o per il lento passare del tempo, Aragorn morirà.’
+es:
+  title: Avisado de antemano
+  subtitle: ''
+  text: 'Para jugarla, avista 2 Elfos. **Comunidad:** Añade:twilight1: para mirar la carta superior de tu mazo de robar. Puedes descartar esta condición para robar esa carta.'
+  lore: Ya sea por la espada o por el lento marchitar del tiempo, Aragorn morirá.

@@ -1,0 +1,19 @@
+set: '15'
+rarity: R
+number: '64'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+res: '6'
+en:
+  title: Madril
+  subtitle: Defender of Osgiliath
+  text: |-
+    **Ranger. Hunter 1.**  
+    While you can spot 2 :gondor: rangers, Madril is twilight cost –2.  
+    At the start of the Maneuver phase, each minion is site number +1 for each threat you can spot until the start of the regroup phase.
+  lore: ‘For that is the ruin of Osgiliath…’

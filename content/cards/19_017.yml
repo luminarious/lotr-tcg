@@ -1,0 +1,15 @@
+set: '19'
+rarity: P
+number: '17'
+unique: true
+culture: Isengard
+type: Condition
+cost: 0
+en:
+  title: Urgency
+  subtitle: ''
+  text: |-
+    **Weather.**  
+    Each time the fellowship moves, add :twilight1: for each Ent you can spot.  
+    **Skirmish**: Discard this condition from play to make a non-:wraith: minion strength +1.
+  lore: If the mountain defeats you, will you risk a more dangerous road?

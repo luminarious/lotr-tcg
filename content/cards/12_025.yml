@@ -1,0 +1,22 @@
+set: '12'
+rarity: U
+number: '25'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Betrayal of Isengard
+  subtitle: ''
+  text: |-
+    Each time an opponent draws a card (or takes a card into hand) during the Shadow phase, you may remove :twilight1:.   
+    **Maneuver:** Exert Gandalf to wound Saruman twice.
+  lore: ‘There is only one Lord of the Ring.’
+de:
+  title: Der Verrat Isengarts
+  subtitle: ''
+  text: |-
+    Jedes Mal, wenn ein Gegenspieler in der Schattenphase eine Karte zieht (oder eine Karte auf die Hand nimmt), darfst du den Einfluss um :twilight1: verringern.  
+    **Manöver:** Strenge Gandalf an, um Saruman zweimal zu verwunden.
+  lore: Es gibt nur einen Herrn des Ringes.

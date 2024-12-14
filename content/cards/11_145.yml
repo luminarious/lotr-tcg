@@ -1,0 +1,16 @@
+set: '11'
+rarity: U
+number: '145'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '7'
+en:
+  title: Éomer
+  subtitle: Guardian of the Eastmark
+  text: 'While you can spot a :rohan: Man, Éomer’s twilight cost is –1. Each time the fellowship moves, you may exert Éomer to return a minion to its owner’s hand. '
+  lore: ‘…wanderers in the Riddermark would be wise to be less haughty in these days of doubt.’

@@ -1,0 +1,16 @@
+set: '3'
+rarity: R
+number: '8'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Gandalf
+en:
+  title: Arwen
+  subtitle: Lady Undómiel
+  text: 'While you can spot 3 :elven: allies whose home is site 3, each minion skirmishing Arwen is strength -3. '
+  lore: Queenly she looked, and thought and knowledge were in her glance, as of one who has known many things that the years bring.

@@ -1,0 +1,13 @@
+set: '15'
+rarity: R
+number: '193'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Mount Doom
+  subtitle: ''
+  text: '**Battleground. Mountain. Underground.** Until the end of the game, sites in this region cannot be replaced.'
+  lore: ''

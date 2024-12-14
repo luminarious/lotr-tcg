@@ -1,0 +1,40 @@
+set: '1'
+rarity: C
+number: '317'
+unique: true
+culture: Shire
+type: Condition
+cost: 1
+en:
+  title: There and Back Again
+  subtitle: ''
+  text: |-
+    **Tale.** Bearer must be a Hobbit companion.   
+    **Maneuver:** Discard this condition to make each Hobbit companion strength +2 until the regroup phase.
+  lore: ‘So there I was – at the mercy of three monstrous trolls….’
+de:
+  title: Hin und wieder zurück
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    Muss auf einen Hobbitgefährten gespielt werden. **Manöver:** Lege diesen Effekt ab, um allen Hobbitgefährten Stärke +2 bis zur Sammelphase zu geben.
+  lore: Da war ich nun – der Gnade dreier riesiger Trolle ausgeliefert…
+fr:
+  title: Histoire d'un Aller et Retour
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Le détenteur doit être un compagnon Hobbit.
+  lore: 'Man*uvre: Défaussez cette situation pour donner à chaque compagnon Hobbit +2 en force jusqu''à la phase de ralliement.'
+it:
+  title: Di Là e Indietro di Nuovo
+  subtitle: ''
+  text: |-
+    **Racconto.** Il possessore deve essere un compagno Hobbit.   
+    **Manovra:** Scarta questa condizione per aggiungere +2 alla forza di ogni compagno Hobbit fino alla fase di raccolta.
+  lore: ‘Così io ero là – in balia di tre mostruosi Troll…’
+es:
+  title: De Una Ida y Una Vuelta
+  subtitle: ''
+  text: '**Cuento.** El portador debe ser un compañero Hobbit. **Maniobra:** Descarta esta condición para que cada compañero Hobbit sea fuerza +2 hasta la fase de reagrupación.'
+  lore: Y ahí estaba yo – a merced de tres monstruosos Trolls…

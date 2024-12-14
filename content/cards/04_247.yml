@@ -1,0 +1,42 @@
+set: '4'
+rarity: R
+number: '247'
+unique: true
+culture: Raider
+type: Possession
+class: Ranged Weapon
+cost: 3
+en:
+  title: Southron Bow
+  subtitle: ''
+  text: |-
+    Bearer must be a :raider: Man.   
+    Bearer is an **archer.**  
+    While you can spot another :raider: Man, the minion archery total is +1. 
+  lore: Volleys from Southron bows are deadly in large numbers.
+de:
+  title: Bogen der Südländer
+  subtitle: ''
+  text: |-
+    Muss auf einen :raider: Menschen gespielt werden. Der Träger ist nun **Bogenschütze.**  
+    Solange du einen anderen :raider: Menschen entdecken kannst, erhöht sich der Fernkampfwert der Diener um 1.
+  lore: In genügend großer Anzahl waren die Pfeile der Südländer tödlich.
+fr:
+  title: Arc Suderon
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un homme :raider:. Le détenteur est un **archer.**  
+    Tant que vous pouvez désigner un autre Homme :raider:, le total d’archerie des séides est de +1.
+  lore: Les volées des arcs suderons sont mortelles en grand nombre.
+it:
+  title: Arco Sudrone
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Uomo :raider:. Il possessore è un **arciere.**  
+    Mentre puoi avvistare un altro Uomo :raider:, aggiungi +1 al totale degli arcieri tra i servitori.
+  lore: Le salve di frecce dei Sudroni sono letali, se in gran numero.
+es:
+  title: Arco Sureño
+  subtitle: ''
+  text: El portador debe ser un Hombre :raider:. El portador es **Arquero.** Mientras puedas avistar otro Hombre :raider:, el total de arquería de los siervos es +1.
+  lore: Las descargas de los arcos Sureños son mortíferas en grandes números.

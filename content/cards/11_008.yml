@@ -1,0 +1,16 @@
+set: '11'
+rarity: U
+number: '8'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+res: '7'
+en:
+  title: Gimli
+  subtitle: Lively Combatant
+  text: '**Damage +1.** Each time Gimli wins a skirmish, you may draw a card. '
+  lore: ‘…I am content. Till now I have hewn naught but wood since I left Moria.’

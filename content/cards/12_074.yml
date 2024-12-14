@@ -1,0 +1,25 @@
+set: '12'
+rarity: R
+number: '74'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Mûmak Rider
+  subtitle: ''
+  text: |-
+    **Archer.**   
+    When you play this minion to a battleground or plains site, you may spot another :men: minion to discard a possession from play.
+  lore: Only the best marksmen can keep their aim true as they are carried along by the great beasts of the Haradrim.
+de:
+  title: Mûmakschütze
+  subtitle: ''
+  text: |-
+    **Bogenschütze.**  
+    Du darfst einen anderen :men: Diener entdecken, wenn du diesen Diener auf ein Schlachtfeld oder eine Ebene spielst, um eine Ausrüstung aus dem Spiel abzulegen.
+  lore: Nur die besten Schützen vermögen auf dem Rückender Bestien ihr Ziel im Auge zu behalten.

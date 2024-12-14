@@ -1,0 +1,25 @@
+set: '11'
+rarity: C
+number: '72'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Column of Easterlings
+  subtitle: ''
+  text: |-
+    **Lurker.** (Skirmishes involving lurker minions must be resolved after any others.)   
+    **Skirmish:** Discard this minion to make a :men: minion strength +4. 
+  lore: The military training of the Easterlings is evident in their marching formations.
+de:
+  title: Kolonne der Ostlinge
+  subtitle: ''
+  text: |-
+    **Schleicher.**  
+    **Kampf:** Lege diesen Diener ab, um einem :men: Diener Stärke +4 zu geben. 
+  lore: Der militärische Drill der Ostlinge wird offensichtlich durch ihre geordneten Formationen.

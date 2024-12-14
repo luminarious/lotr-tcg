@@ -1,0 +1,18 @@
+set: '10'
+rarity: R
+number: '29'
+unique: true
+culture: Gondor
+type: Event
+class: Fellowship
+cost: 2
+en:
+  title: Drawing His Eye
+  subtitle: ''
+  text: 'For each :gondor: companion you spot, reveal 1 card at random from a Shadow player’s hand. Choose a revealed Shadow card to be discarded, then its owner draws a card. '
+  lore: ‘We cannot achieve victory by arms, but by arms we can give the Ring-bearer his only chance, frail though it be.’
+de:
+  title: Seinen Blick abwenden
+  subtitle: ''
+  text: 'Decke für jeden :gondor: Gefährten, den du entdeckst, 1 zufällig bestimmte Karte aus der Hand eines Schattenspielers auf. Wähle eine der aufgedeckten Schattenkarten aus, die abgelegt werden muss. Ihr Besitzer zieht dann eine Karte.'
+  lore: … aber mit Waffen können wir dem Ringträger die einzige Unterstützung bieten, wie gering die Aussichten auch sein mögen.

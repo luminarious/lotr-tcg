@@ -1,0 +1,24 @@
+set: '7'
+rarity: R
+number: '113'
+unique: true
+culture: Gondor
+type: Possession
+class: Armor
+cost: 0
+str: '+2'
+vit: '-1'
+en:
+  title: Pippin's Armor
+  subtitle: ''
+  text: |-
+    Bearer must be Pippin.   
+    While you can spot 3 :gondor: Men, Pippin may take no more than 1 wound in a skirmish.
+  lore: ''
+de:
+  title: Pippins Rüstung
+  subtitle: ''
+  text: |-
+    Muss auf Pippin gespielt werden.   
+    Solange du 3 :gondor: Menschen entdecken kannst, erleidet Pippin nie mehr als eine Wunde in einem Kampf.
+  lore: Hier gelobe ich Lehntreue und Dienst für Gondor…

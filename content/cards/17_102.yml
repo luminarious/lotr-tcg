@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '102'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '7'
+en:
+  title: Théoden
+  subtitle: Northman, King of Rohan
+  text: |-
+    While the Ring-bearer is assigned to a skirmish, each :rohan: companion is strength +1.  
+    **Regroup:** Spot 2 :rohan: followers and exert Théoden to liberate a site.
+  lore: When last I looked, Théoden, was King of Rohan.

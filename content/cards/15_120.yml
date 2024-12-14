@@ -1,0 +1,16 @@
+set: '15'
+rarity: C
+number: '120'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '2'
+site: 4
+en:
+  title: Veteran War Chief
+  subtitle: ''
+  text: '**Skirmish:** Exert this minion to wound a companion it is skirmishing.'
+  lore: ‘…I'll stick you, if you don't shut it down, see?’

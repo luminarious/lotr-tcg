@@ -1,0 +1,21 @@
+set: '12'
+rarity: R
+number: '118'
+unique: true
+culture: Sauron
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '3'
+site: 5
+en:
+  title: The Mouth of Sauron
+  subtitle: Lieutenant of Barad-dûr
+  text: '**Assignment:** Assign The Mouth of Sauron to the companion who has the highest strength. (If two or more are tied for highest, choose one.)'
+  lore: ‘Is there anyone in this rout with authority to treat with me?’ he asked. ‘Or indeed with wit to understand me?’
+de:
+  title: Saurons Mund
+  subtitle: Leutnant von Barad-dûr
+  text: '**Zuweisung:** Weise Saurons Mund dem Gefährten mit der höchsten Stärke zu. (Wenn dies auf mehrere Gefährten zutrifft, entscheide dich für einen.)'
+  lore: Ist hier irgendeiner in diesem wilden Haufen, der ermächtigt ist, mit mir zu verhandeln?“ fragte er. "Oder der auch nur Verstand genug hat, um mich zu verstehen?

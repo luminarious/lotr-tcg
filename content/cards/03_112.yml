@@ -1,0 +1,41 @@
+set: '3'
+rarity: C
+number: '112'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Seek and Hide
+  subtitle: ''
+  text: |-
+    **Stealth.**   
+    **Skirmish:** Spot 2 :shire: companions to make a minion lose all **damage** bonuses. 
+  lore: A Hobbit’s best friends in Moria are the very pillars that support its structure.
+de:
+  title: Suchen und Verstecken
+  subtitle: ''
+  text: |-
+    **Heimlichkeit.**  
+    **Kampf** Entdecke 2 :shire: Gefährten, damit ein Diener alle Schadensboni verliert.
+  lore: Der beste Freund eines Hobbits in Moria waren die Pfeiler, die die Hallen stützten.
+fr:
+  title: À la Souris et au Chat
+  subtitle: ''
+  text: |-
+    **Dissimulation.**  
+    **Combat :** Désignez deux compagnons :shire: pour enlever à un séide tous ses bonus de **dégâts.**
+  lore: Les meilleurs amis d'un hobbit perdu au sein de la Moria sont sans contredit les piliers qui supportent la structure.
+it:
+  title: Cercare e Nascondere
+  subtitle: ''
+  text: |-
+    **Segretezza.**  
+    **Schermaglia:** Avvista 2 compagni :shire: per far perdere a un servitore tutti i bonus ai danni.
+  lore: I migliori amici di uno Hobbit, a Moria, sono gli stessi pilastri che ne sostengono la struttura.
+es:
+  title: Al Escondite Jugamos
+  subtitle: ''
+  text: '**Sigilo.** **Escaramuza:** Avista 2 compañeros :shire: para hacer que un siervo pierda todos los bonos al daño.'
+  lore: El mejor amigo de un Hobbit en Moria son los propios pilares que aguantan su estructura.

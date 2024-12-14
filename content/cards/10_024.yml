@@ -1,0 +1,22 @@
+set: '10'
+rarity: C
+number: '24'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Unabated in Malice
+  subtitle: ''
+  text: |-
+    While you have initiative, each :gollum: minion is **damage +1.**   
+    **Skirmish:** Discard this condition to make a :gollum: minion strength +1 for each culture you can spot. 
+  lore: …she lusted for sweeter meat. And Gollum had brought it to her.
+de:
+  title: Unvermindert böswillig
+  subtitle: ''
+  text: |-
+    Solange du die Initiative besitzt, erhalten alle :gollum: Diener **Schaden +1**.   
+    **Kampf:** Lege diesen Effekt ab, um einem :gollum: Diener Stärke +1 für jede Kultur, die du entdecken kannst, zu geben.
+  lore: … es gelüstete sie nach süßerem Fleisch. Und Gollum hatte es ihr gebracht.

@@ -1,0 +1,23 @@
+set: '0'
+rarity: P
+number: '77'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 5
+str: '8'
+vit: '3'
+res: '6'
+en:
+  title: Riders of the Mark
+  subtitle: ''
+  text: |-
+    To play, spot 2 :rohan: companions.   
+    You may play Riders of the Mark any time you could play a skirmish event. When you play Riders of the Mark, you may exhaust a minion. 
+  lore: With astonishing speed and skill they checked their steeds, wheeled, and came charging round.
+de:
+  title: Reiter der Mark
+  subtitle: ''
+  text: 'Entdecke 2 :rohan: Gefährten, um diese Karte zu spielen. Du darfst die Reiter der Mark spielen, wenn du ein Kampfereignis spielen könntest. Wenn du die Reiter der Mark spielst, darfst du einen Diener erschöpfen.'
+  lore: Mit erstaunlicher Schnelligkeit und Geschicklichkeit brachten sie ihre Pferde zum Stehen, wendeten und kamen angreifend zurück.

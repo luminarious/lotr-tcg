@@ -1,0 +1,38 @@
+set: '4'
+rarity: U
+number: '9'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '1'
+site: 3
+en:
+  title: Dunlending Arsonist
+  subtitle: ''
+  text: 'Each time this minion wins a skirmish, you may play a :dunland: Man from hand; his twilight cost is -2. That Man is **fierce** and **damage +1** until the regroup phase. '
+  lore: ‘They bring fire… and they are burning as they come, rick, cot, and tree.’
+de:
+  title: Dunland Brandstifter
+  subtitle: ''
+  text: 'Jedes Mal, wenn dieser Diener einen Kampf gewinnt, darfst du einen :dunland: Menschen mit um 2 reduzierten Zwielichtkosten aus deiner Hand spielen. Dieser Mensch erhält bis zur Sammelphase **Schaden +1** und ist **Erbittert.**'
+  lore: Sie bringen Feuer mit und verbrennen im Vorbeiziehen Stall, Schober und Baum.
+fr:
+  title: Pyromane Dun
+  subtitle: ''
+  text: 'Chaque fois que ce séide remporte un combat, vous pouvez jouer un Homme :dunland: de votre main; son coût crépusculaire est de -2. Cet Homme est **acharné** et inflige des **dégâts +1** jusqu’à la phase de ralliement.'
+  lore: 'Ils apportent du feu, et ils brûlent tout sur leur passage, meules, chaumières et arbres.” '
+it:
+  title: Incendiario Dunlandiano
+  subtitle: ''
+  text: |-
+    Ogni volta che questo servitore vince una schermaglia, puoi giocare dalla mano un Uomo :dunland:; sottrai -2 al suo costo **Crepuscolo.**  
+    Quell’uomo è **Feroce** e ha **Danno +1** fino alla fase di raccolta.
+  lore: ‘Portano fuoco… e stanno bruciando sul loro passaggio alberi, capanne e pagliai.’
+es:
+  title: Incendiario Dunlendino
+  subtitle: ''
+  text: 'Cada vez que este siervo gana una escaramuza, puedes jugar un Hombre :dunland: de tu mano; su coste de penumbra es -2. Ese Hombre es **daño +1** y **fiero** hasta la fase de reagrupación.'
+  lore: Traen fuego… e incendian todo cuanto encuentran a su paso, niaras, cabañas y árboles.

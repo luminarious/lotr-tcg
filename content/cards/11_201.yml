@@ -1,0 +1,25 @@
+set: '11'
+rarity: C
+number: '201'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '8'
+vit: '3'
+site: 5
+en:
+  title: Sentinel Uruk
+  subtitle: ''
+  text: |-
+    **Damage +1.** **Lurker.** (Skirmishes involving lurker minions must be resolved after any others.)   
+    **Response:** If a :urukhai: minion is about to take a wound in a skirmish, exert or discard this minion to prevent that. 
+  lore: Uruks are trained to safeguard their commanders.
+de:
+  title: Uruk Wachposten
+  subtitle: ''
+  text: |-
+    **Schaden +1. Schleicher.   
+    Reaktion:** Wenn ein :urukhai: Diener im Begriff ist, im Kampf eine Wunde zu erleiden, strenge den Uruk Wachposten an oder lege ihn ab, um dieses zu verhindern.
+  lore: Uruks sind gedrillt, ihre Anführer zu schützen.

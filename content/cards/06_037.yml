@@ -1,0 +1,35 @@
+set: '6'
+rarity: C
+number: '37'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 5
+str: '12'
+vit: '4'
+en:
+  title: Treebeard
+  subtitle: Guardian of the Forest
+  text: '**Unhasty.** **Assignment:** Exert an unbound Hobbit to allow Treebeard to skirmish. **Skirmish:** Exert Treebeard to make an Ent **damage +1**.'
+  lore: ‘The little that I know of his long slow story would make a tale for which we have no time now.’
+de:
+  title: Baumbart
+  subtitle: Hüter des Waldes
+  text: '**Unhastig.** **Zuweisung:** Strenge einen nicht-verbundenen Hobbit an, damit Baumbart am Kampf teilnehmen darf. **Kampf** Strenge Baumbart an, um einem Ent **Schaden +1** zu geben.'
+  lore: …was ich von seiner … Geschichte weiß, würde eine Erzählung ergeben, für die wir jetzt keine Zeit haben.
+fr:
+  title: Sylvebarbe
+  subtitle: Gardien de la Forêt
+  text: '**Peu hâtif.** **Affectationt :** Affaiblissez un Hobbit dissocié pour permettre à Sylvebarbe de combattre. **Combat :** Affaiblissez Sylvebarbe pour donner des **dégâts +1** à un Ent.'
+  lore: 'Le peu que je sache de cette longue et lente histoire ferait un récit pour lequel le temps nous manque actuellement.” '
+it:
+  title: Barbalbero
+  subtitle: Guardiano della Foresta
+  text: '**Senza Fretta.** **Assegnazione:** Sforza un Hobbit Non Legato per consentire a Barbalbero di schermagliare. **Schermaglia:** Sforza Barbalbero per aggiungere **Danno +1** a un Ent.'
+  lore: ‘Il poco che so della sua lunga e lenta storia empirebbe un racconto per il quale ora non abbiamo tempo sufficiente.’
+es:
+  title: Bárbol
+  subtitle: Guardián del Bosque
+  text: '**Sin prisa.** **Asignación:** Esfuerza un Hobbit no-vinculado para permitir que Bárbol participe en escaramuzas. **Escaramuza:** Esfuerza a Bárbol para darle a un Ent **daño +1**.'
+  lore: Lo poco que sé de esta larga historia seria un relato para el que no disponemos de tiempo ahora.

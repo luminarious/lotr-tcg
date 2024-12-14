@@ -1,0 +1,18 @@
+set: '8'
+rarity: C
+number: '116'
+unique: true
+culture: Shire
+type: Event
+class: Response
+cost: 0
+en:
+  title: We Shall Meet Again Soon
+  subtitle: ''
+  text: If the fellowship moves during the regroup phase, exert an unbound Hobbit to place a Shadow card from your discard pile on top of your draw deck.
+  lore: Pippin sat with his knees drawn up and the ball between them. He bent low over it, looking like a greedy child stooping over a bowl of food.
+de:
+  title: Wir werden uns bald wiedertreffen
+  subtitle: ''
+  text: Strenge einen nicht-verbundenen Hobbit an, wenn sich die Gemeinschaft in der Sammelphase bewegt, um eine Schattenkarte aus deinem Ablagestapel oben auf dein Spieldeck zu legen.
+  lore: 'Er sagte:''Wer bist du?’ Ich antwortete immer noch nicht, aber es tat entsetzlich weh; und er bedrängte mich, deshalb sagte ich: ''Ein Hobbit''.'

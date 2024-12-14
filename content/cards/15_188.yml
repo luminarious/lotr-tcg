@@ -1,0 +1,13 @@
+set: '15'
+rarity: S
+number: '188'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Left
+en:
+  title: Breeding pit of Isengard
+  subtitle: ''
+  text: '**Underground.** The twilight cost of the first hunter minion played each Shadow phase is –2.'
+  lore: ''

@@ -1,0 +1,22 @@
+set: '13'
+rarity: R
+number: '81'
+unique: true
+culture: Isengard
+type: Artifact
+class: Staff
+cost: 2
+str: '+2'
+vit: '+1'
+en:
+  title: Staff of Saruman
+  subtitle: Fallen Istar’s Stave
+  text: |-
+    Bearer must be a Wizard.  
+    **Regroup:** If Saruman is the only minion you can spot, discard this artifact from play to return him to your hand.
+  lore: He raised his staff and it engulfed Gandalf in flames.
+de:
+  title: Sarumans Stab
+  subtitle: Stab des gefallenen Istari
+  text: Muss auf einen Zauberer gespielt werden.**Sammeln:** Lege dieses Artefakt ab, um Saruman zurück auf deine Hand zu nehmen, wenn er der einzige Diener ist, den du entdecken kannst.
+  lore: Er erhob seinen Stab und hüllte Gandalf in Feuer.

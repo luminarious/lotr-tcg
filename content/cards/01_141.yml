@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '141'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Their Arrows Enrage
+  subtitle: ''
+  text: |-
+    To play, spot Saruman or an Uruk-hai. Plays to your support area.  
+    Each archer companion and archer ally is strength -1.
+  lore: The ferocious charge of the Uruk-hai catches enemy archers groping for their swords.
+de:
+  title: Von Pfeilen erzürnt
+  subtitle: ''
+  text: Entdecke Saruman oder einen Uruk-hai, um diese Karte in deinen Unterstützungsbereich zu spielen. Die Stärke aller Gefährten und Verbündeten, die Bogenschützen sind, wird um 1 reduziert.
+  lore: Der wilde Ansturm der Uruk-hai zwingt Bogenschützen oft schnell nach ihren Schwertern zu greifen.
+fr:
+  title: Leurs Flèches Exaspèrent
+  subtitle: ''
+  text: Pour jouer, désignez Saroumane ou un Ourouk-Haï. Chaque compagnon archer et allié archer a -1 en force.
+  lore: La charge féroce des Ourouk-Haï rejoignit les archers ennemis alors qu'ils cherchaient leurs épées à tâtons.
+it:
+  title: L'Infuriare delle Loro Frecce
+  subtitle: ''
+  text: Per giocarla, avvista Saruman o un Uruk-hai. Ogni arciere compagno e arciere alleato sottraggono -1 alla forza.
+  lore: La feroce carica degli Uruk-hai sorprende gli arcieri nemici mentre ancora cercano di impugnare le spade.
+es:
+  title: Sus Flechas Enfurecen
+  subtitle: ''
+  text: Para jugarla, avista a Saruman o un Uruk-hai. Cada compañero arquero y aliado arquero es fuerza -1.
+  lore: La feroz carga de los Uruk-hai sorprende a los arqueros enemigos buscando sus espadas.

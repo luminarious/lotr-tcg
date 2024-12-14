@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '168'
+unique: true
+culture: Moria
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Drums in the Deep
+  subtitle: ''
+  text: '**Skirmish:** Make a :moria: Orc strength +2 (or +4 if skirmishing a Dwarf).'
+  lore: 'The drum-beats broke out wildly: doom-boom, doom-boom, and then stopped… Doom, doom went the drum-beats again….'
+de:
+  title: Trommeln in der Tiefe
+  subtitle: ''
+  text: '**Kampf** Gib einem :moria: Ork Stärke +2 (oder Stärke +4, wenn er gegen einen Zwerg kämpft).'
+  lore: 'Die Trommelschläge dröhnten wild: dum-bum, dum-bum, und hörten dann auf…Dum, dum fingen die Trommelschläge wieder an…'
+fr:
+  title: Des Tambours dans les Profondeurs
+  subtitle: ''
+  text: '**Combat :** Donnez à un Orque :moria: +2 en force (ou +4 s’il combat un Nain).'
+  lore: 'Les battements de tambour retentirent furieusement: brrron, brrron, puis s''arrêtèrent … Brrron, brrron, reprirent les tambours….'
+it:
+  title: Tamburi nell'Abisso
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Orco :moria: (o +4 se sta schermagliando con un Nano).'
+  lore: Il rullo del tamburo proruppe selvaggio, dum-bum, dum-bum, poi d'un tratto s'interruppe … Dum, dum ricominciarono a rullare i tamburi….
+es:
+  title: Tambores en Las Profundidades
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Orco :moria: fuerza +2 (o +4 en una escaramuza contra un Enano).'
+  lore: El tambor redobló furiosamente, bum, bum, bum, y enmudeció… Bum, bum, sonaron otra vez los golpes de tambor…

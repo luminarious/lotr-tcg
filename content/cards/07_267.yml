@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '267'
+unique: true
+culture: Sauron
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Din of Arms
+  subtitle: ''
+  text: Choose an opponent to discard the top card of his or her draw deck. If the twilight cost of that card is less than the number of besiegers you spot, take control of a site and all besiegers are strength +3 until the regroup phase.
+  lore: ''
+de:
+  title: Säbelrasseln
+  subtitle: ''
+  text: Wähle einen Gegenspieler aus, der die oberste Karte seines Spieldecks ablegt. Wenn die Zwielichtkosten dieser Karte geringer sind, als die Anzahl der Belagerer, die du entdeckst, darfst du einen Ort kontrollieren und alle Belagerer erhalten bis zu Sammelphase Stärke +3.
+  lore: ''

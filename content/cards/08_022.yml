@@ -1,0 +1,22 @@
+set: '8'
+rarity: C
+number: '22'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Hidden Even From Her
+  subtitle: ''
+  text: |-
+    Gollum is fierce.   
+    **Shadow:** Spot 6 companions to play Gollum from your discard pile and exert a companion. Place this condition on top of your draw deck.
+  lore: …even when he had come to her again and had bowed low….
+de:
+  title: Selbst vor Ihr verborgen
+  subtitle: ''
+  text: |-
+    Gollum ist **erbittert**.   
+    **Schatten:** Entdecke 6 Gefährten, um Gollum aus deinem Ablagestapel zu spielen und einen Gefährten anzustrengen. Lege diesen Effekt oben auf dein Spieldeck.
+  lore: … selbst als er wieder zu ihr gekommen war und sich tief vor ihr verbeugt hatte….

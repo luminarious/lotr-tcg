@@ -1,0 +1,35 @@
+set: '1'
+rarity: R
+number: '253'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Journey Into Danger
+  subtitle: ''
+  text: |-
+    **Search.** To play, exert a :sauron: Orc.   
+    While you can spot 5 companions, each companion’s twilight cost is +2.
+  lore: '‘I do not foretell, for all foretelling is now vain: on the one hand lies darkness, on the other only hope.’'
+de:
+  title: Eine Reise voller Gefahren
+  subtitle: ''
+  text: '**Suche.** Strenge einen :sauron: Ork an, um diese Karte in deinen Unterstützungsbereich zu spielen. Solange du 5 Gefährten entdecken kannst, erhöhen sich die Zwielichtkosten der Gefährten um 2.'
+  lore: 'Ich weissage nicht, denn alles Weissagen ist jetzt vergebens: auf der einen Seite liegt Dunkelheit und auf der anderen nur Hoffnung.'
+fr:
+  title: Voyage au C*ur du Danger
+  subtitle: ''
+  text: '**Recherche.** Pour jouer, affaiblissez un Orque :sauron:. Tant que vous pouvez désigner 5 compagnons, le coût crépusculaire de chaque compagnon est de +2.'
+  lore: '‘Je ne prédis rien, car toute prédiction serait à présent vaine: d''une part il y a les ténèbres, et de l''autre seulement de l''espoir.’'
+it:
+  title: Viaggio nel Pericolo
+  subtitle: ''
+  text: '**Ricerca.** Per giocarla, sforza un Orco :sauron:. Finché puoi avvistare 5 compagni, il costo crepuscolo di ogni compagno è +2.'
+  lore: '‘Non predico il futuro, perché ogni profezia è vana: da un lato vi è l''oscurità, e dall''altro solo speranza.’'
+es:
+  title: Viaje Hacia El Peligro
+  subtitle: ''
+  text: '**Búsqueda.** Para jugarla, esfuerza un Orco :sauron:. Mientras puedas avistar 5 compañeros, el coste de penumbra de cada compañero es +2.'
+  lore: No profetizo nada, pues toda profecía es vana ahora; de un lado hay oscuridad y del otro lado nada mas que esperanza.

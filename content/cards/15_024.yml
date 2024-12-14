@@ -1,0 +1,16 @@
+set: '15'
+rarity: R
+number: '24'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Spied From Afar
+  subtitle: ''
+  text: |-
+    To play, spot 3 Elves.  
+    While you can spot an :elven: follower, the twilight cost of each Shadow possession is +1.  
+    **Skirmish:** Discard this condition to make an :elven: companion strength +1 for each archer companion you can spot.
+  lore: ''

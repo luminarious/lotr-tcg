@@ -1,0 +1,18 @@
+set: '0'
+rarity: P
+number: '90'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Vapour and Steam
+  subtitle: ''
+  text: '**Skirmish:** Exert your :gandalf: companion and add a burden to make that companion **damage +1**.'
+  lore: ‘There was none to see, or perhaps in after ages songs would still be sung of the Battle of the Peak.’
+de:
+  title: Brodem und Dampf
+  subtitle: ''
+  text: '**Kampf:** Strenge einen deiner :gandalf: Gefähr-ten an und lege eine Lastmarke auf den Ringträger, um diesem Gefährten **Schaden +1** zu geben.'
+  lore: Es war niemand da, der es sah, sonst würde der Kampf auf dem Gipfel vielleicht noch in späteren Zeitaltern in Liedern besungen werden.

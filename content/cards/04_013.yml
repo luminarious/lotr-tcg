@@ -1,0 +1,36 @@
+set: '4'
+rarity: U
+number: '13'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '1'
+site: 3
+en:
+  title: Dunlending Pillager
+  subtitle: ''
+  text: 'Each time this minion wins a skirmish, you may discard a Free Peoples possession (or 2 possessions if you spot 6 companions). '
+  lore: ‘Not in half a thousand years have they forgotten their grievance that the lords of Gondor gave the Mark to Eorl the Young and made alliance with him.’
+de:
+  title: Plündernder Dunländer
+  subtitle: ''
+  text: Jedes Mal, wenn dieser Diener einen Kampf gewinnt, darfst du eine Ausrüstung der Freien Völker ablegen (oder 2 Ausrüstungen, wenn du 6 Gefährten entdeckst).
+  lore: In einem halben Jahrtausend haben sie ihren Groll darüber nicht vergessen, dass die Herren von Gondor Eorl dem Jungen die Mark verliehen und ein Bündnis mit ihm geschlossen haben.
+fr:
+  title: Pilleur Dun
+  subtitle: ''
+  text: Chaque fois que ce séide remporte un combat, vous pouvez défausser une possession des Peuples Libres (ou 2 possessions si vous désignez 6 compagnons).
+  lore: 'Depuis un demi-millénaire, ils n''ont pas oublié leur grief de ce que les seigneurs du Gondor ont donné la Marche à Eorl le Grand et fait une alliance avec lui.” '
+it:
+  title: Razziatore Dunlandiano
+  subtitle: ''
+  text: Ogni volta che questo servitore vince una schermaglia, puoi scartare un bene dei Popoli Liberi (o 2 beni se avvisti 6 compagni).
+  lore: ‘Non sono bastati cinquecento anni per cancellare in loro il rancore contro i signori di Gondor che diedero il Mark ad Eorl il Giovane e si allearono con lui.’
+es:
+  title: Dunlendino Saqueador
+  subtitle: ''
+  text: Cada vez que este siervo gana una escaramuza, puedes descartar una posesión de Gentes Libres (o 2 posesiones si puedes avistar 6 compañeros).
+  lore: No han olvidado en medio milenio la ofensa que les infligieran los señores de Gondor al otorgar la Marca a Eorl el Joven y aliarse con él.

@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '251'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Stern People
+  subtitle: ''
+  text: 'To play, spot 2 :rohan: Men. **Regroup:** Discard cards from hand equal to the number of cards in an opponent’s hand to make the move limit +1 for this turn. Each Shadow player may take up to 4 cards into hand from his or her discard pile. Discard this condition.'
+  lore: ''
+de:
+  title: Stolzes Volk
+  subtitle: ''
+  text: 'Entdecke 2 :rohan: Menschen, um diesen Effekt zu spielen. **Sammeln:** Lege so viele Karten aus deiner Hand ab, wie der Handkartenanzahl eines Gegners entspricht, um die Bewegungsweite in diesem Zug um 1 zu erhöhen. Jeder Schattenspieler darf bis zu 4 Karten aus seinem Ablagestapel wieder auf die Hand nehmen. Lege diesen Effekt ab.'
+  lore: ''

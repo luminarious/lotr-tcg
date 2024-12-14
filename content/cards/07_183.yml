@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '183'
+unique: true
+culture: Wraith
+type: Event
+class: Response
+cost: 1
+en:
+  title: Mind and Body
+  subtitle: ''
+  text: 'If a Nazgûl kills a character, wound each character bearing a :wraith: condition.'
+  lore: Weariness and more than weariness oppressed him…
+de:
+  title: Körper und Geist
+  subtitle: ''
+  text: 'Verwunde jeden Charakter auf dem ein :wraith: Effekt liegt, wenn ein Nazgûl einen Charakter tötet.'
+  lore: Müdigkeit und mehr als Müdigkeit bedrückte ihn…

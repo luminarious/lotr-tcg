@@ -1,0 +1,37 @@
+set: '1'
+rarity: R
+number: '125'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Greed
+  subtitle: ''
+  text: |-
+    To play, spot an Uruk-hai.   
+    **Maneuver:** Spot 6 companions and remove :twilight2: to wound a companion (except the Ring-bearer).
+  lore: ‘It is a strange fate that we should suffer so much fear and doubt over so small a thing….’
+de:
+  title: Habgier
+  subtitle: ''
+  text: Entdecke einen Uruk-hai, um diese Karte in deinen Unterstützungsbereich zu spielen. **Manöver:** Entdecke 6 Gefährten und verringere den Einfluss um :twilight2:, um einen der Gefährten (ausser dem Ringträger) zu verwunden.
+  lore: Es ist schon ein seltsames Schicksal, das uns soviel Angst und Zweifel wegen eines so kleinen Dings, beschert.
+fr:
+  title: Avidité
+  subtitle: ''
+  text: 'Pour jouer, désignez un Ourouk-Haï. **Manœuvre :** Désignez 6 compagnons et retirez :twilight2: pour blesser un compagnon (excepté le Porteur de l’Anneau).'
+  lore: ‘N'est-ce pas un étrange destin que nous dussions endurer tant de peur et de doutes pour une si petite chose….’
+it:
+  title: Avidità
+  subtitle: ''
+  text: |-
+    Per giocarla, avvista un Uruk-hai.   
+    **Manovra:** Avvista 6 compagni e rimuovi :twilight2: per ferire un compagno (eccetto il Portatore dell’Anello).
+  lore: ‘Non è uno strano destino, dover soffrire tanta paura e tante incertezze per un oggetto così minuto….’
+es:
+  title: Codicia
+  subtitle: ''
+  text: 'Para jugarla, avista un Uruk-hai. **Maniobra:** Avista 6 compañeros y quita :twilight2: para herir un compañero (excepto el Portador del Anillo).'
+  lore: Es un extraño destino que suframos tanto miedo y tantas dudas por una cosa tan pequeña…

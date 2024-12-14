@@ -1,0 +1,44 @@
+set: '4'
+rarity: R
+number: '237'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Ithilien Wilderness
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    At the start of each phase during which the fellowship has moved to 7:tower:, 8:tower:, or 9:tower: and the twilight pool has fewer than 7 twilight tokens, you may add :twilight8:.  
+    **Skirmish:** Discard this condition to make a :raider: Man strength +2.
+  lore: ''
+de:
+  title: Die Wildnis Ithiliens
+  subtitle: ''
+  text: |-
+    Am Ende der Phase, in der sich die Gemeinschaft an Ort 7:tower:, 8:tower: oder 9:tower: befindet und der Einfluss weniger als 7 beträgt, darfst du den Einfluss um :twilight8: erhöhen.  
+    Kampf Lege diesen Effekt ab, um einem :raider: Menschen Stärke +2 zu geben.
+  lore: ''
+fr:
+  title: La Nature de L'Ithilien
+  subtitle: ''
+  text: |-
+    Jouable dans votre aire de soutien.  
+    A la fin de chaque phase durant laquelle la compagnie s'est déplacée vers le sites 7:tower:, 8:tower: ou 9:tower:, et que la réserve crépusculaire contient moins de 7 jetons-crépuscule, vous pouvez ajouter :twilight8:.  
+    **Combat:** Défaussez cette situation pour donner +2 en force à un Homme :moria:.
+  lore: ''
+it:
+  title: Landa dell'Ithilien
+  subtitle: ''
+  text: |-
+    Giocala nella tua area di supporto.  
+    Alla fine di ogni fase in cui la compagnia si è mossa ai siti 7:tower:, 8:tower: o 9:tower: e la zona del crepuscolo ha meno di 7 segnalini, puoi aggiungere :twilight8:.  
+    Schermaglia: Scarta questa condizione per aggiungere +2 alla forza di un Uomo :moria:.
+  lore: ''
+es:
+  title: Tierras Salvajes De Ithilien
+  subtitle: ''
+  text: 'Al principio de cada una de tus fases de Sombra, si la comunidad está en el sitio 7:tower:, 8:tower:, o 9:tower: y el fondo de penumbra tiene menos de 7 contadores de penumbra, puedes añadir :twilight8:. **Escaramuza:** Descarta esta condición para dar a un Hombre :raider: fuerza +2.'
+  lore: ''

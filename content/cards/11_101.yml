@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '101'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Swarthy Bree-lander
+  subtitle: ''
+  text: 'At the start of the maneuver phase, you may remove :twilight2: to transfer a condition borne by a character to another eligible bearer. '
+  lore: But there was one… who stood looking at them with a knowing and half-mocking expression that made them feel very uncomfortable.
+de:
+  title: Schwärzlicher Breeländer
+  subtitle: ''
+  text: 'Zu Beginn der Manöverphase darfst du den Einfluss um :twilight2: verringern, um einen Effekt, der auf einem Charakter liegt, auf einen anderen möglichen Träger zu verschieben. '
+  lore: Aber da war einer…, der sah sie mit einem so wissenden und halb spöttischen Ausdruck an, dass ihnen ganz unbehaglich wurde.

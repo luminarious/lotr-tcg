@@ -1,0 +1,16 @@
+set: '14'
+rarity: R
+number: '13'
+unique: true
+culture: Orc
+type: Minion
+race: Half-troll
+cost: 4
+str: '9'
+vit: '3'
+site: 4
+en:
+  title: Horror of Harad
+  subtitle: ''
+  text: '**Ambush** :twilight1:**. Damage +1. Fierce. Lurker. Muster. Toil 2.**'
+  lore: The troll-men sprinted on to the Pelennor to bathe their blades in the blood of the enemy.

@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '123'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '12'
+vit: '3'
+site: 5
+en:
+  title: White Hand Captain
+  subtitle: ''
+  text: |-
+    **Fierce.**  
+    While this minion is assigned to a skirmish, each hunter character is strength +1.
+  lore: They wore black armor and mail that was marked with the white hand of Saruman.

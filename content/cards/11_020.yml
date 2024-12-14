@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '20'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: The Lady's Blessing
+  subtitle: ''
+  text: Make an Elf strength +2 (or +3 at a river site).
+  lore: ‘We have come to bid our last farewell,’ she said, ‘and to speed you with blessings from our land.’
+de:
+  title: Segen der Herrin
+  subtitle: ''
+  text: Gib einem Elben Stärke +2 (oder Stärke +3 wenn er sich an einem Fluss befindet).
+  lore: Wir sind gekommen, um Euch ein letztes Lebewohl zu sagen und Euch mit Segenswünschen unseres Landes zu verabschieden.

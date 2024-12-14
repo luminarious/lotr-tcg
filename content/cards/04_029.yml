@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '29'
+unique: true
+culture: Dunland
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: No Refuge
+  subtitle: ''
+  text: 'While a :dunland: Man is stacked on a site, the Shadow number of each site is +5. '
+  lore: As their homes were ravaged by the wild men, refugees fled to the safety of Helm’s Deep.
+de:
+  title: Kein Unterschlupf
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Solange ein :dunland: Mensch auf einem Ort gelagert ist, erhöht sich die Schattenzahl aller Orte um 5.'
+  lore: Während ihre Häuser von den wilden Menschen niedergebrannt wurden, flüchteten die Überlebenden in die Sicherheit von Helms Klamm.
+fr:
+  title: Aucun Refuge
+  subtitle: ''
+  text: 'Tant qu’un Homme :dunland: est empilé sur ce site, la puissance de l’Ombre de chaque site est de +5.'
+  lore: Puisque leurs maisons étaient ravagées par les hommes sauvages, les réfugiés s'enfuirent vers la sécurité du Gouffre de Helm.
+it:
+  title: Nessun Rifugio
+  subtitle: ''
+  text: 'Mentre un Uomo :dunland: è impilato su un sito, aumenta di +5 il numero Ombra di ogni sito.'
+  lore: Quando le loro case furono saccheggiate dagli uomini selvaggi, i profughi scapparono verso la sicurezza del Fosso di Helm.
+es:
+  title: Sin Refugio
+  subtitle: ''
+  text: 'Mientras un Hombre :dunland: esté apilado en un sitio, el número de Sombra de cada sitio es +5.'
+  lore: Mientras sus hogares eran devastados por los hombres salvajes, los refugiados huyeron a la seguridad del Abismo de Helm.

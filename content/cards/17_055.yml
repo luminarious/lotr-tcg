@@ -1,0 +1,16 @@
+set: '17'
+rarity: C
+number: '55'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Sunland Guard
+  subtitle: ''
+  text: '**Maneuver:** Exert this minion to play a :men: minion (or 2 if you spot 6 companions) from a :men: possession as if from hand.'
+  lore: They prepare for the last war.

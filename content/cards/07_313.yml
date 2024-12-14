@@ -1,0 +1,24 @@
+set: '7'
+rarity: C
+number: '313'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Some Secret Art of Flame
+  subtitle: ''
+  text: |-
+    To play, spot a :sauron: Orc.   
+    **Regroup:** Play a :sauron: condition to place a :sauron: token on this card.   
+    While there are 3 tokens on this card, the Shadow has initiative, regardless of the Free Peoples player’s hand.
+  lore: ''
+de:
+  title: Geheimnisvolle Brandgeschosse
+  subtitle: ''
+  text: |-
+    Entdecke einen :sauron: Ork, um diesen Effekt zu spielen.   
+    **Sammeln:** Spiele einen :sauron: Effekt, um eine :sauron: Marke auf diese Karte zu legen.   
+    Solange 3 Marken auf dieser Karte liegen, besitzt die Schattenseite die Initiative, unabhängig von der Handkartenzahl des Freien Völker Spielers.
+  lore: ''

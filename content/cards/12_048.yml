@@ -1,0 +1,25 @@
+set: '12'
+rarity: R
+number: '48'
+unique: true
+culture: Gondor
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+2'
+en:
+  title: Faramir's Sword
+  subtitle: ''
+  text: |-
+    Bearer must be Faramir.   
+    He is **damage +1.**   
+    Each minion skirmishing Faramir at a battleground or forest site is roaming.
+  lore: ‘There will be hard handstrokes nigh at hand ere the day is full.’
+de:
+  title: Faramirs Schwert
+  subtitle: ''
+  text: |-
+    Muss auf Faramir gespielt werden.  
+    Er erhält **Schaden +1**.  
+    Jeder Diener, der auf einem Schlachtfeld oder in einem Wald gegen Faramir kämpft, gilt als wandernd.
+  lore: Es wird hier in der Nähe harte Gefechte geben, ehe der Tag sich vollendet.

@@ -1,0 +1,16 @@
+set: '11'
+rarity: U
+number: '15'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '7'
+en:
+  title: Arwen
+  subtitle: Staunch Defender
+  text: 'Each minion skirmishing Arwen is strength –1 for each forest site on the adventure path. '
+  lore: ‘What grace is given me, let it pass to him. Let him be spared. Save him.’

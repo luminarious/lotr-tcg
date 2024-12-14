@@ -1,0 +1,37 @@
+set: '1'
+rarity: U
+number: '218'
+unique: true
+culture: Wraith
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Nazgûl Sword
+  subtitle: ''
+  text: |-
+    Bearer must be a Nazgûl.   
+    While you can spot 3 burdens, bearer is **damage +1.**
+  lore: The weapons of the Nine are wielded by unseen hands willed by Sauron’s hate.
+de:
+  title: Nazgûl Schwert
+  subtitle: ''
+  text: Muss auf einen Nazgûl gespielt werden. Solange du 3 Lastmarken entdecken kannst, erhält der Träger **Schaden +1.**
+  lore: Die Waffen der Neun werden von unsichtbaren Händen geführt, die von Saurons Hass gelenkt werden.
+fr:
+  title: Épée Nazgûl
+  subtitle: ''
+  text: |
+    Le détenteur doit être un Nazgûl. Tant que vous pouvez désigner 3 points-fardeau, le détenteur inflige des **dégâts +1.**  
+  lore: Les armes des Neuf sont maniées par des mains invisibles animées par la haine de Sauron.
+it:
+  title: Spada del Nazgûl
+  subtitle: ''
+  text: Il possessore deve essere un Nazgûl. Finché puoi avvistare 3 segnalini fardello, il possessore ha **Danno +1.**
+  lore: Le armi dei Nove sono maneggiate da mani invisibili al servizio dell'odio di Sauron.
+es:
+  title: Espada Nazgûl
+  subtitle: ''
+  text: El portador debe ser un Nazgûl. Mientras puedas avistar 3 cargas, el portador es **Daño +1.**
+  lore: Las armas de los Nueve son llevadas por manos invisibles dispuestas por el odio de Sauron.

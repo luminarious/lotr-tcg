@@ -1,0 +1,22 @@
+set: '7'
+rarity: U
+number: '8'
+unique: true
+culture: Dwarven
+type: Possession
+class: Armor
+cost: 2
+en:
+  title: Gimli's Armor
+  subtitle: ''
+  text: |-
+    Bearer must be Gimli.   
+    **Response:** If you have initiative and Gimli is about to take a wound, discard 2 cards from hand to prevent that wound.
+  lore: ''
+de:
+  title: Gimlis Rüstung
+  subtitle: ''
+  text: |-
+    Muss auf Gimli gespielt werden.   
+    **Reaktion:** Wenn du die Initiative besitzt, darfst du 2 Karten aus deiner Hand ablegen, um zu verhindern, dass Gimli eine Wunde erleidet.
+  lore: Ich hoffe, dass das vergessene Volk nicht vergessen haben wird, wie man kämpft….

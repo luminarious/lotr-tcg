@@ -1,0 +1,16 @@
+set: '11'
+rarity: S
+number: '225'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '12'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Toldëa
+  subtitle: Eighth of the Nine Riders
+  text: '**Fierce.** Each time Úlairë Toldëa wins a skirmish, you may play the fellowship’s next site. '
+  lore: The terrifying pursuit of the Nazgûl on their Black Steeds drives their victims headlong into the wild.

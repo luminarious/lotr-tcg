@@ -1,0 +1,18 @@
+set: '4'
+rarity: C
+number: '266'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Éomer
+  subtitle: Sister-son of Théoden
+  text: |-
+    While you can spot a :rohan: Man, Éomer’s twilight cost is -1.   
+    At the start of each turn, you may heal a :rohan: ally. 
+  lore: ‘Now indeed there is hope of victory!’

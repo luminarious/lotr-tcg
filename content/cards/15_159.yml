@@ -1,0 +1,15 @@
+set: '15'
+rarity: U
+number: '159'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Defensive Rush
+  subtitle: ''
+  text: |-
+    While you can spot an :urukhai: minion, the Free Peoples player cannot replace a site.  
+    At the start of each skirmish, you may remove :twilight3: to heal an :urukhai: minion (or heal an :urukhai: minion twice if you control a site.)
+  lore: Though the arrows rained down, the Uruk formation did not break.

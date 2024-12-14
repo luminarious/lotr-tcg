@@ -1,0 +1,17 @@
+set: '15'
+rarity: C
+number: '147'
+unique: true
+culture: Shire
+type: Follower
+cost: 2
+str: '+1'
+res: '+1'
+en:
+  title: Hobbiton Farmer
+  subtitle: Lover of Pipeweed
+  text: |-
+    **Aid –** Add a burden. *(At the start of the maneuver phase, you may add a burden to transfer this to a companion.)*  
+    To play, spot 2 Hobbits.  
+    Bearer is strength +1 for each fierce minion you can spot.
+  lore: …for ages folk in the Shire smoked various herbs…

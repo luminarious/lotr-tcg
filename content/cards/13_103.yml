@@ -1,0 +1,22 @@
+set: '13'
+rarity: U
+number: '103'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Always Threatening
+  subtitle: ''
+  text: |-
+    When you play this, you may add an :orc: token here for each :orc: condition you can spot.  
+    **Skirmish:** Discard this from play or remove 2 tokens from here to make a lurker minion strength +2.
+  lore: ''
+de:
+  title: Ständig drohend
+  subtitle: ''
+  text: |-
+    Du darfst beim Ausspielen dieser Karte für jeden :orc: Effekt, den du entdecken kannst, eine :orc: Marke hier platzieren.   
+    **Kampf:** Lege diesen Effekt ab oder entferne hier 2 Marken, um einem Schleicher Stärke +2 zu geben.
+  lore: ''

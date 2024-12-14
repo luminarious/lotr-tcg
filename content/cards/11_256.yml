@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '256'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: The Prancing Pony
+  subtitle: ''
+  text: '**Dwelling.** At the start of your fellowship phase, you may add a burden to play a ranger from your draw deck.'
+  lore: ''
+de:
+  title: Zum tänzelnden Pony
+  subtitle: ''
+  text: '**Heimstatt.** Zu Beginn der Gemeinschaftsphase darfst du eine Lastmarke auf den Ringträger legen, um einen Waldläufer aus deinem Spieldeck zu spielen.'
+  lore: ''

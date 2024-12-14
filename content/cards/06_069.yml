@@ -1,0 +1,36 @@
+set: '6'
+rarity: C
+number: '69'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 3
+str: '7'
+vit: '3'
+site: 4
+en:
+  title: Isengard Plodder
+  subtitle: ''
+  text: '**Regroup:** Discard an :isengard: Orc to make the Free Peoples player wound a companion.'
+  lore: Saruman dispatched his trusted Orcs to aid in the sack of Rohan.
+de:
+  title: Isengart Handlanger
+  subtitle: ''
+  text: '**Sammeln:** Lege einen :isengard: Ork ab, um den Freie Völker Spieler zu zwingen, einen Gefährten zu verwunden.'
+  lore: Saruman schickte seine getreuen Orks aus, um bei der Plünderung von Rohan zu helfen.
+fr:
+  title: Bûcheur de l'Isengard
+  subtitle: ''
+  text: '**Ralliement :** Défaussez un Orque :isengard: pour forcer le joueur des Peuples Libres à blesser un compagnon.'
+  lore: Saroumane dépêcha ses fidèles Orques pour aider au saccage de Rohan.
+it:
+  title: Scorta di Isengard
+  subtitle: ''
+  text: '**Raccolta:** Scarta un Orco :isengard: per far ferire un compagno al giocatore dei Popoli Liberi.'
+  lore: Saruman inviò i suoi fidati Orchi ad aiutare nel saccheggio di Rohan.
+es:
+  title: Tenaz de Isengard
+  subtitle: ''
+  text: '**Reagrupación:** Descarta un Orco :isengard: para hacer que el jugador de Gentes Libres hiera un compañero.'
+  lore: Saruman envió a sus Orcos de confianza para ayudar en el saqueo de Rohan.

@@ -1,0 +1,24 @@
+set: '12'
+rarity: U
+number: '24'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Taking the High Ground
+  subtitle: ''
+  text: |-
+    **Toil 1.** *(For each* :elven: *character you exert when playing this, its twilight cost is –1.)*   
+    **Archery:** Discard an :elven: character from hand to make the fellowship archery total +1.   
+    Each time the fellowship moves from an underground site, return your Elf to your hand. 
+  lore: ''
+de:
+  title: Erhöhte Position erobern
+  subtitle: ''
+  text: |-
+    **Mühe 1.  
+    Fernkampf:** Lege einen :elven: Charakter aus deiner Hand ab, um der Fernkampfwert der Gemeinschaft um 1 zu erhöhen.  
+    Nimm jedes Mal, wenn sich die Gemein-schaft von einem unterirdischen Ort fort-bewegt, einen deiner Elben auf die Hand.
+  lore: ''

@@ -1,0 +1,45 @@
+set: '4'
+rarity: C
+number: '248'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 3
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Southron Bowman
+  subtitle: ''
+  text: |-
+    **Southron.** **Archer.**   
+    **Archery:** Exert this minion to exert a companion (except the Ring-bearer); this minion does not add to the minion archery total. 
+  lore: The Southron armies deploy archers to harass enemy troop formations.
+de:
+  title: Südländer Bogenschütze
+  subtitle: ''
+  text: |-
+    **Südländer.** **Bogenschütze.**  
+    **FernKampf** Strenge diesen Diener an, um einen Gefährten (außer den Ringträger) anzustrengen; dieser Diener zählt nicht zum Fernkampfwert der Diener.
+  lore: Die Armee des Südlandes setzte Bogenschützen ein, um die feindliche Truppenaufstellung zu stören.
+fr:
+  title: Tireur Suderon
+  subtitle: ''
+  text: |-
+    **Suderon.** **Archer.**  
+    **Archerie :** Affaiblissez ce séide pour affaiblir un compagnon (excepté le Porteur de l’Anneau); ce séide ne s’ajoute pas au total d’archerie des séides.
+  lore: Les armées suderones déploient leurs archers pour harceler les formations ennemies.
+it:
+  title: Tiratore Sudrone
+  subtitle: ''
+  text: |-
+    **Sudrone.**  
+    **Arciere.**  
+    **Arcieri:** Sforza questo servitore per sforzare un compagno (tranne il Portatore dell’Anello); questo servitore non si aggiunge al totale degli arcieri tra i servitori.
+  lore: Gli eserciti dei Sudroni schierano gli arcieri per tormentare le formazioni nemiche.
+es:
+  title: Sureño Arquero
+  subtitle: ''
+  text: '**Sureño.** **Arquero.** **Arquería:** Esfuerza este siervo para esforzar a un compañero (excepto el Portador del Anillo); este siervo no añade al total de arquería de los siervos.'
+  lore: Los ejércitos Sureños despliegan arqueros para hostigar a las formaciones de tropas del enemigo.

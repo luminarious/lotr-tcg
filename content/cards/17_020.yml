@@ -1,0 +1,16 @@
+set: '17'
+rarity: R
+number: '20'
+unique: true
+culture: Gandalf
+type: Follower
+cost: 1
+str: '+1'
+res: '+1'
+en:
+  title: Gwaihir
+  subtitle: The Windlord
+  text: |-
+    **Aid** - Add a threat. *(At the start of the maneuver phase, you may add a threat to transfer this to a companion.)*  
+    If bearer is a :gandalf: Wizard, each time bearer wins a skirmish, you may exert a minion (if that minion is a Wizard, wound it instead).
+  lore: '''…swiftest of the Great Eagles…’'

@@ -1,0 +1,43 @@
+set: '15'
+rarity: C
+number: '133'
+unique: true
+culture: Rohan
+type: Possession
+class: Mount
+cost: 1
+en:
+  title: Rider’s Mount
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    At the start of each skirmish involving bearer, each minion skirmishing bearer must exert.
+  lore: Their horses were of great stature, strong and clean-limbed; their grey coats glistened, their long tails flowed in the wind….
+de:
+  title: Rider's Mount
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    At the start of each skirmish involving bearer, each minion skirmishing bearer must exert.
+  lore: Their horses were of great stature, strong and clean-limbed; their grey coats glistened, their long tails flowed in the wind….
+fr:
+  title: Rider's Mount
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    At the start of each skirmish involving bearer, each minion skirmishing bearer must exert.
+  lore: Their horses were of great stature, strong and clean-limbed; their grey coats glistened, their long tails flowed in the wind….
+it:
+  title: Rider's Mount
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    At the start of each skirmish involving bearer, each minion skirmishing bearer must exert.
+  lore: Their horses were of great stature, strong and clean-limbed; their grey coats glistened, their long tails flowed in the wind….
+es:
+  title: Rider's Mount
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    At the start of each skirmish involving bearer, each minion skirmishing bearer must exert.
+  lore: Their horses were of great stature, strong and clean-limbed; their grey coats glistened, their long tails flowed in the wind….

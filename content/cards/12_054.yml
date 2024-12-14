@@ -1,0 +1,16 @@
+set: '12'
+rarity: R
+number: '54'
+unique: true
+culture: Isengard
+type: Minion
+race: Wizard
+cost: 4
+str: '8'
+vit: '4'
+site: 4
+en:
+  title: Saruman
+  subtitle: Of Many Colours
+  text: '**Damage +1. Fierce. Lurker.** *(Skirmishes involving lurker minions must be resolved after any others.)* When you play Saruman, name a culture. Each companion of the named culture is strength –1.'
+  lore: ‘“White!” he sneered. “It serves as a beginning.”’

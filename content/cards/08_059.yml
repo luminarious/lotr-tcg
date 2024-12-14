@@ -1,0 +1,20 @@
+set: '8'
+rarity: U
+number: '59'
+unique: true
+culture: Raider
+type: Possession
+class: Support Area
+cost: 1
+en:
+  title: Corsair War Galley
+  subtitle: ''
+  text: |-
+    When you play this possession, you may add a :raider: token here. While you can spot 6 :raider: tokens and a :raider: Man, the Shadow has initiative, regardless of the Free Peoples player’s hand.   
+    **Regroup:** Add :twilight1: for each :raider: token you can spot. Discard this possession.
+  lore: ''
+de:
+  title: Kriegsgaleere der Corsaren
+  subtitle: ''
+  text: 'Du darfst eine :raider: Marke auf diese Karte legen, wenn du sie ausspielst. Solange du 6 :raider: Marken und einen :raider: Menschen entdecken kannst, besitzt die Schattenseite die Initiative, unabhängig von der Handkartenzahl des Freien Völker Spielers. **Sammeln:** Erhöhe den Einfluss um (1) für jede :raider: Marke, die du entdecken kannst. Lege diese Ausrüstung ab.'
+  lore: ''

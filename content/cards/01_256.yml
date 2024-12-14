@@ -1,0 +1,36 @@
+set: '1'
+rarity: R
+number: '256'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 5
+str: '9'
+vit: '4'
+site: 6
+en:
+  title: Morgul Hunter
+  subtitle: ''
+  text: For each companion you can spot, this minion is strength +1.
+  lore: Sauron’s hatred lives in the hearts of his minions.
+de:
+  title: Morguljäger
+  subtitle: ''
+  text: Dieser Diener erhält Stärke +1 für jeden Gefährten, den du entdecken kannst.
+  lore: Saurons Hass brennt in den Herzen seiner Diener.
+fr:
+  title: Chasseur de Morgul
+  subtitle: ''
+  text: Pour chaque compagnon que vous désignez, ce séide a +1 en force.
+  lore: La haine de Sauron se retrouve au sein de ses séides.
+it:
+  title: Cacciatore di Morgul
+  subtitle: ''
+  text: Per ogni compagno che puoi avvistare, questo servitore ha +1 alla forza.
+  lore: L'odio di Sauron vive nei cuori dei suoi servi.
+es:
+  title: Cazador de Morgul
+  subtitle: ''
+  text: Por cada compañero que puedas avistar, este siervo es fuerza +1.
+  lore: El odio de Sauron vive en los corazones de sus siervos.

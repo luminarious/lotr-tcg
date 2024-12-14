@@ -1,0 +1,25 @@
+set: '7'
+rarity: R
+number: '163'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Southron Chieftain
+  subtitle: ''
+  text: |-
+    **Southron.** To play, spot a :raider: Man.   
+    Each time the Free Peoples player assigns this minion to a character, the Shadow has initiative until the end of the turn.
+  lore: ''
+de:
+  title: Südland Häuptling
+  subtitle: ''
+  text: |-
+    **Südländer.**   
+    Entdecke einen :raider: Menschen, um diesen Diener zu spielen. Jedes Mal, wenn der Freie Völker Spieler diesem Diener einen Charakter zuweist, erhält die Schattenseite bis zum Ende des Zuges die Initiative.
+  lore: …Verbände aus dem Süden…

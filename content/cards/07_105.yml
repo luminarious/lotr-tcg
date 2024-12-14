@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '105'
+unique: true
+culture: Gondor
+type: Condition
+cost: 3
+en:
+  title: I Will Go
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.   
+    If you have initiative, bearer is defender +1.
+  lore: ''
+de:
+  title: Ich werde gehen
+  subtitle: ''
+  text: |-
+    Muss auf einen :gondor: Menschen gespielt werden.   
+    Solange du die Initiative besitzt, ist der Träger **Verteidiger +1**.
+  lore: Das tue ich.

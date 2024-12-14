@@ -1,0 +1,39 @@
+set: '4'
+rarity: R
+number: '92'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 5
+en:
+  title: Grown Suddenly Tall
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Fellowship:** Spot Gandalf to discard all conditions. 
+  lore: His hood and grey rags were flung away. His white garments shone.
+de:
+  title: Plötzlich groß geworden
+  subtitle: ''
+  text: '**Zauberspruch.** **Gemeinschaft.** Entdecke Gandalf, um alle Effekte abzulegen.'
+  lore: Seine Kapuze und die grauen Lumpen warf er ab. Sein weißes Gewand schimmerte.
+fr:
+  title: Une Stature Soudain Accrue
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Compagnie :** Désignez Gandalf pour défausser toutes les situations.
+  lore: 'Il avait rejeté son capuchon et ses haillons gris, et ses vêtements blancs étincelaient.” '
+it:
+  title: Si Eresse Improvvisamente
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Compagnia:** Avvista Gandalf per scartare tutte le condizioni.
+  lore: ‘Il cappuccio e gli stracci grigi giacevano in terra, e le bianche vesti brillavano.’
+es:
+  title: Crecido De Repente
+  subtitle: ''
+  text: '**Hechizo.** **Comunidad:** Avista a Gandalf para descartar todas las condiciones.'
+  lore: Había dejado caer la capucha y los harapos grises, y ahora la vestidura blanca centelleaba.

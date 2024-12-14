@@ -1,0 +1,18 @@
+set: '18'
+rarity: R
+number: '86'
+unique: true
+culture: Orc
+type: Possession
+class: Mount
+cost: 1
+str: '+1'
+vit: '+1'
+en:
+  title: Gothmog's Warg
+  subtitle: Leader's Mount
+  text: |-
+    Bearer must be an :orc: Orc with strength 9 or less (or bearer must be Gothmog).  
+    Bearer is **fierce**.  
+    While bearer is Gothmog, he is **damage +1** in fierce skirmishes.
+  lore: ''

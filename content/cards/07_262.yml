@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '262'
+unique: true
+culture: Sauron
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Above the Battlement
+  subtitle: ''
+  text: 'Play a besieger stacked on a site you control or remove a burden to play a :sauron: Orc from your discard pile.'
+  lore: …they began to throw missiles marvellously high….
+de:
+  title: Über die Festungsmauern
+  subtitle: ''
+  text: 'Spiele einen Belagerer, der auf einem Ort, den du kontrollierst, gelagert ist oder entferne eine Lastmarke, um einen :sauron: Ork aus dem Ablagestapel zu spielen.'
+  lore: …da begannen sie, …Geschosse so unwahrscheinlich hoch zu schleudern…

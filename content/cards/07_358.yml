@@ -1,0 +1,13 @@
+set: '7'
+rarity: U
+number: '358'
+unique: true
+culture: ''
+type: Site
+cost: 8
+siteArrow: Right
+en:
+  title: Morgulduin
+  subtitle: ''
+  text: '**Shadow:** Remove 2 threats to play a Nazgûl from your discard pile. His twilight cost is -2.'
+  lore: ''

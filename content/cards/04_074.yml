@@ -1,0 +1,18 @@
+set: '4'
+rarity: C
+number: '74'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Gandalf
+en:
+  title: Legolas
+  subtitle: Elven Comrade
+  text: |-
+    **Archer.**   
+    **Skirmish:** Exert Legolas to make a minion skirmishing an unbound companion strength -1 (or -2 if that companion is Gimli). 
+  lore: ‘Come, you shall sit behind me, friend Gimli.’

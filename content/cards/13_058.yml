@@ -1,0 +1,18 @@
+set: '13'
+rarity: R
+number: '58'
+unique: true
+culture: Gollum
+type: Event
+class: Shadow
+cost: 1
+en:
+  title: Wild Light of Madness
+  subtitle: ''
+  text: Spot Gollum to make the Free Peoples player choose to either add a burden or exert a companion.
+  lore: …for at that moment many things happened.
+de:
+  title: Vor Wahnsinn funkelnd
+  subtitle: ''
+  text: Entdecke Gollum, um den Freie Völker Spieler zu zwingen, entweder eine Lastmarke auf den Ringträger zu legen oder einen Gefährten anzustrengen.
+  lore: …denn in diesem Augenblick geschahen viele Dinge.

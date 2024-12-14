@@ -1,0 +1,43 @@
+set: '18'
+rarity: U
+number: '104'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: ' Surrendered Weapons'
+  subtitle: ''
+  text: |-
+    Each time the fellowship moves, you may spot a :rohan: companion to discard a possession a character is bearing from play.  
+    **Skirmish:** Add :twilight1: to transfer a :rohan: possession borne by a companion to another eligible bearer.
+  lore: I cannot allow you before Théoden-King so armed.
+de:
+  title: Surrendered Weapons
+  subtitle: ''
+  text: |-
+    Each time the fellowship moves, you may spot a :rohan: companion to discard a possession a character is bearing from play.  
+    **Skirmish:** Add :twilight1: to transfer a :rohan: possession borne by a companion to another eligible bearer.
+  lore: I cannot allow you before Théoden-King so armed.
+fr:
+  title: Surrendered Weapons
+  subtitle: ''
+  text: |-
+    Each time the fellowship moves, you may spot a :rohan: companion to discard a possession a character is bearing from play.  
+    **Skirmish:** Add :twilight1: to transfer a :rohan: possession borne by a companion to another eligible bearer.
+  lore: I cannot allow you before Théoden-King so armed.
+it:
+  title: Surrendered Weapons
+  subtitle: ''
+  text: |-
+    Each time the fellowship moves, you may spot a :rohan: companion to discard a possession a character is bearing from play.  
+    **Skirmish:** Add :twilight1: to transfer a :rohan: possession borne by a companion to another eligible bearer.
+  lore: I cannot allow you before Théoden-King so armed.
+es:
+  title: Surrendered Weapons
+  subtitle: ''
+  text: |-
+    Each time the fellowship moves, you may spot a :rohan: companion to discard a possession a character is bearing from play.  
+    **Skirmish:** Add :twilight1: to transfer a :rohan: possession borne by a companion to another eligible bearer.
+  lore: I cannot allow you before Théoden-King so armed.

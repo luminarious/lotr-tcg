@@ -1,0 +1,21 @@
+set: '7'
+rarity: U
+number: '293'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Mordor Warrior
+  subtitle: ''
+  text: '**Skirmish:** Discard a card from your hand to make a companion skirmishing this minion strength –1 for each other :sauron: Orc you spot (limit –3).'
+  lore: Sauron had taken the proffered bait in jaws of steel.
+de:
+  title: Krieger Mordors
+  subtitle: ''
+  text: '**Kampf:** Lege eine Karte aus deiner Hand ab, um einem Gefährten, der gegen diesen Diener kämpft, Stärke -1 für jeden anderen :sauron: Ork, den du entdeckst, zu geben (maximal -3).'
+  lore: Sauron hatte den angebotenen Köder mit einem Rachen aus Stahl geschluckt.

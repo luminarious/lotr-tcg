@@ -1,0 +1,25 @@
+set: '7'
+rarity: C
+number: '135'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 1
+str: '5'
+vit: '2'
+site: 4
+en:
+  title: Desert Sneak
+  subtitle: ''
+  text: |-
+    **Southron.** **Ambush** :twilight1:.   
+    When the Free Peoples player assigns this minion to a character and you have initiative, you may wound that character.
+  lore: ''
+de:
+  title: Wüstenspion
+  subtitle: ''
+  text: |-
+    **Südländer.** **Hinterhalt :twilight1:.**   
+    Wenn du die Initiative besitzt, verwunde einen Charakter, den der Freie Völker Spieler diesem Diener zuweist.
+  lore: …und von den südlichen Feldern kam Fußvolk aus Harad…

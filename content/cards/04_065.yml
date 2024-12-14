@@ -1,0 +1,17 @@
+set: '4'
+rarity: R
+number: '65'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Erethón
+  subtitle: Naith Lieutenant
+  text: |-
+    To play, spot an Elf.   
+    While Erethón bears a ranged weapon, he is strength +1 and **damage +1,** and he does not add to the fellowship archery total. 
+  lore: At close range, Erethón’s accuracy is uncanny.

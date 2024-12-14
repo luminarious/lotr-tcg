@@ -1,0 +1,35 @@
+set: '3'
+rarity: R
+number: '15'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Forests of Lothlórien
+  subtitle: ''
+  text: |-
+
+    Each time the fellowship moves, you may spot 3 :elven: allies to wound a minion. 
+  lore: ‘Alas for Lothlórien that I love! It would be a poor life in a land where no mallorn grew.’
+de:
+  title: Die Bäume Lothlóriens
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn sich die Gemeinschaft bewegt, darfst du 3 :elven: Verbündete entdecken, um einen Diener zu verwunden.'
+  lore: Ach, welch ein Jammer um Lothlórien, das ich liebe! Es wäre ein armseliges Leben in einem Lande, wo kein Mallorn wächst.
+fr:
+  title: Les Forêts de la Lothlórien
+  subtitle: ''
+  text: 'Chaque fois que la compagnie se déplace, vous pouvez désigner 3 alliés :œ: pour blesser un séide.'
+  lore: 'Hélas pour la Lothlórien que j''aime! Ce serait une pauvre existence dans un pays où ne pousserait aucun mallorne.” '
+it:
+  title: Foreste di Lothlórien
+  subtitle: ''
+  text: 'Ogni volta che la compagnia si muove, puoi avvistare 3 alleati :elven: per ferire un servitore.'
+  lore: ‘Ahimè, la mia amata Lothlórien! Qual vita infelice in una terra ove non crescono i nostri alberi d'oro!’
+es:
+  title: Bosques de Lothlórien
+  subtitle: ''
+  text: 'Cada vez que la comunidad se mueve, puedes avistar 3 aliados :elven: para herir un siervo.'
+  lore: ¡Ay por el Lórien que yo amo! Sería un vida triste en una tierra donde no crecieran los mallorn.

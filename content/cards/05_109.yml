@@ -1,0 +1,42 @@
+set: '5'
+rarity: C
+number: '109'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '2'
+site: 6
+en:
+  title: Orc Runner
+  subtitle: ''
+  text: |-
+    **Tracker.**  
+    The site number of each :sauron: Orc is -1.  
+    When you play this minion, you may exert him and discard 2 cards from hand to draw a card.
+  lore: ‘There’s no time to kill them properly…. No time for play on this trip.’
+de:
+  title: Orkläufer
+  subtitle: ''
+  text: '**Spurenleser.** Die Ortskennzahl jedes :sauron: Orks reduziert sich um 1. Wenn du diesen Diener spielst, darfst du ihn anstrengen und 2 Karten aus deiner Hand ablegen, um eine Karte zu ziehen.'
+  lore: Wir haben keine Zeit, sie richtig zu töten…. Keine Zeit zum Spielen auf der Fahrt.
+fr:
+  title: Coureur Orque
+  subtitle: ''
+  text: |-
+    Traqueur.   
+    Le numéro de site de chaque Orque :sauron: est de -1.   
+    Quand vous jouez ce séide, vous pouvez l’affaiblir et défausser deux cartes de votre main pour piocher une carte.
+  lore: 'Il n''y a pas le temps de les tuer convenablement… pas le temps de s''amuser dans ce voyage.” '
+it:
+  title: Orco Corridore
+  subtitle: ''
+  text: '**Inseguitore.** Sottrai -1 al numero di sito di ogni Orco :sauron:. Quando giochi questo servitore, puoi sforzarlo e scartare 2 carte dalla mano per pescare una carta.'
+  lore: ‘Non c'è tempo per un assassinio in piena regola… Niente giochi, in questa spedizione.’
+es:
+  title: Corredor Orco
+  subtitle: ''
+  text: '**Rastreador.** El número de sitio de cada Orco :sauron: es -1. Cuando juegas este siervo, puedes esforzarlo y descartar 2 cartas de la mano para robar una carta.'
+  lore: No hay tiempo para matarlos de un modo adecuado…no hay tiempo para diversiones en este viaje.

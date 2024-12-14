@@ -1,0 +1,24 @@
+set: '10'
+rarity: C
+number: '27'
+unique: true
+culture: Gondor
+type: Companion
+race: Wraith
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Dead Man of Dunharrow
+  subtitle: ''
+  text: |-
+    **Enduring.** To play, add a threat.   
+    When you play this companion, exert him twice. 
+  lore: …the Shadow Host pressed behind and fear went on before them….
+de:
+  title: Toter Mensch von Dunharg
+  subtitle: ''
+  text: |-
+    **Zäh.** Lasse eine Bedrohung entstehen, um diesen Gefährten zu spielen.   
+    Strenge ihn zweimal an, wenn du ihn ausspielst. 
+  lore: … das Schattenheer drängte sich hinter ihnen, und Schrecken ging ihnen voraus….

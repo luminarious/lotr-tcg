@@ -1,0 +1,47 @@
+set: '1'
+rarity: C
+number: '261'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 1
+str: '5'
+vit: '2'
+site: 6
+en:
+  title: Orc Ambusher
+  subtitle: ''
+  text: |-
+    **Tracker.**   
+    The roaming penalty for each :sauron: minion you play is -1.   
+    **Response:** If a Free Peoples regroup event is played, exert this minion to cancel that event.
+  lore: ‘Orcs will often pursue foes for many leagues….’
+de:
+  title: Lauernder Orkräuber
+  subtitle: ''
+  text: |-
+    **Spurenleser.**  
+    Die Strafkosten für wandernde :sauron: Diener, die du spielst, werden um 1 reduziert. **Reaktion:** Wenn der Freie Völker Spieler ein Sammelereignis spielt, strenge diesen Diener an, um dieses Ereignis zu verhindern.
+  lore: Orks verfolgen ihre Feinde oftmals über viele Meilen hinweg…
+fr:
+  title: Orque en Embuscade
+  subtitle: ''
+  text: |-
+    **Traqueur.**  
+    La pénalité d’errance pour chaque séide :sauron: que vous jouez est de -1. **Réponse :** Si un événement de ralliement des Peuples Libres est joué, affaiblissez ce séide pour annuler cet événement.
+  lore: ‘Les Orques poursuivent souvent leurs ennemis sur plusieurs lieues….’
+it:
+  title: Orco Incursore
+  subtitle: ''
+  text: |-
+    **Inseguitore.**  
+    Sottrai -1 alla penalità per vagare di ogni servitore :sauron: che giochi.
+  lore: 'Risposta: Se un evento raccolta dei Popoli Liberi viene giocato, sforza questo servitore per cancellare quell''evento.'
+es:
+  title: Emboscador Orco
+  subtitle: ''
+  text: |-
+    **Rastreador.** La penalización por vagar de cada siervo :sauron: que tu juegues es -1.   
+    **Respuesta:** Si se juega un evento de reagrupación de Gentes Libres, esfuerza este siervo para cancelar ese evento.
+  lore: …los Orcos a menudo persiguen a sus enemigos durante varias leguas…

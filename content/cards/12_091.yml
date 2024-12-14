@@ -1,0 +1,21 @@
+set: '12'
+rarity: R
+number: '91'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 5
+str: '12'
+vit: '3'
+site: 4
+en:
+  title: Orc Artisan
+  subtitle: ''
+  text: 'Each time you play an :orc: possession on an :orc: Orc, you may add :twilight1: (or :twilight2: if that Orc is at a battleground or underground site).'
+  lore: Much Orc weaponry is scavenged from fallen foes, but they still have ample need for smiths to outfit their troops.
+de:
+  title: Ork Handwerker
+  subtitle: ''
+  text: 'Jedes Mal, wenn du eine :orc: Ausrüstung auf einen :orc: Ork spielst, darfst du den Einfluss um :twilight1: erhöhen (oder um :twilight2: wenn sich der Ork auf einem Schlacht-feld oder an einem unterirdischen Ort befindet).'
+  lore: Die meiste Ausrüstung wird vom Feind erbeutet. Es werden Schmiede gebraucht, um sie anzupassen.

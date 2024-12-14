@@ -1,0 +1,18 @@
+set: '2'
+rarity: R
+number: '25'
+unique: true
+culture: Gandalf
+type: Ally
+race: Man
+cost: 1
+str: '4'
+vit: '2'
+site: '3'
+en:
+  title: Járnsmid
+  subtitle: Merchant from Dale
+  text: |-
+    To play, spot Gandalf.   
+    Each time you play a shield, armor, helm, or hand weapon, its twilight cost is -1. 
+  lore: The Men of Dale freely traded with the Dwarves of the Lonely Mountain for fine metalwork.

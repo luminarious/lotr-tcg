@@ -1,0 +1,22 @@
+set: '7'
+rarity: U
+number: '93'
+unique: true
+culture: Gondor
+type: Possession
+class: Armor
+cost: 1
+en:
+  title: Footman's Armor
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.   
+    **Response:** If bearer is about to be overwhelmed, discard a :gondor: fortification or a card from hand to make bearer strength +2.
+  lore: ''
+de:
+  title: Rüstung der Fußsoldaten
+  subtitle: ''
+  text: |-
+    Muss auf einen :gondor: Menschen gespielt werden.   
+    **Reaktion:** Lege eine :gondor: Befestigung oder eine Karte aus deiner Hand ab, wenn der Träger im Begriff ist, überwältigt zu werden, um ihm Stärke +2 zu geben.
+  lore: ''

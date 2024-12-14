@@ -1,0 +1,15 @@
+set: '18'
+rarity: C
+number: '3'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Thorin's Harp
+  subtitle: ''
+  text: |-
+    **Tale.**  
+    **Maneuver:** Exert a :dwarven: companion to make the fellowship’s current site gain **mountain** until the regroup phase.
+  lore: ''

@@ -1,0 +1,40 @@
+set: '1'
+rarity: C
+number: '305'
+unique: true
+culture: Shire
+type: Possession
+cost: 1
+en:
+  title: Old Toby
+  subtitle: ''
+  text: |-
+    **Pipeweed.**   
+    When you play this possession, you may draw a card.
+  lore: Bilbo’s favorite pipeweed is Old Toby, the finest weed in the Southfarthing.
+de:
+  title: Alter Tobi
+  subtitle: ''
+  text: |-
+    **Pfeifenkraut.**  
+    Wenn du diese Karte spielst, darfst du eine Karte ziehen.
+  lore: Bilbos bevorzugtes Pfeifenkraut ist Alter Tobi, das beste Kraut im Südviertel.
+fr:
+  title: Vieux Tobie
+  subtitle: ''
+  text: |-
+    **Herbe à pipe.**  
+    Quand vous jouez cette possession, vous pouvez piocher une carte.
+  lore: L'herbe à pipe favorite de Bilbon est celle du Vieux Tobie, la meilleure herbe du Quartier Sud.
+it:
+  title: Vecchio Tobia
+  subtitle: ''
+  text: |-
+    **Erba pipa.**  
+    Quando giochi questo bene, puoi pescare una carta.
+  lore: L'erba pipa favorita da Bilbo è la Vecchio Tobia, l'erba più squisita del Decumano del Sud.
+es:
+  title: Viejo Toby
+  subtitle: ''
+  text: '**Hierba para pipa.** Cuando juegas esta posesión, puedes robar una carta.'
+  lore: La hierba para pipa favorita de Bilbo es Viejo Toby, la mejor hierba de la Cuaderna del Sur.

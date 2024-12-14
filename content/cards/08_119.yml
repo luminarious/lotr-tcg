@@ -1,0 +1,18 @@
+set: '8'
+rarity: U
+number: '119'
+unique: true
+culture: ''
+type: Site
+cost: 7
+siteArrow: Left
+en:
+  title: Crashed Gate
+  subtitle: ''
+  text: At the start of the regroup phase, the Free Peoples player must add 3 threats or choose an opponent who may take control of a site.
+  lore: ‘You're in the service of the Steward of Gondor now. You'll do as you're told.’
+de:
+  title: Zerstörtes Stadtttor
+  subtitle: ''
+  text: Zu Beginn der Sammelphase muss der Freie Völker Spieler 3 Bedrohungen entstehen lassen, oder einen Gegner wählen, der einen Ort kontrollieren darf.
+  lore: ''

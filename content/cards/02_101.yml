@@ -1,0 +1,31 @@
+set: '2'
+rarity: C
+number: '101'
+unique: true
+culture: Shire
+type: Ally
+race: Hobbit
+cost: 1
+str: '1'
+vit: '2'
+site: '1'
+en:
+  title: Filibert Bolger
+  subtitle: Wily Rascal
+  text: '**Skirmish:** Exert a Hobbit companion twice to cancel a fierce skirmish involving that Hobbit. '
+  lore: Filibert knows paths and tracks that few have trodden. He is not adventurous by nature, but his escapades often require rapid departures.
+fr:
+  title: Philibert Bolger
+  subtitle: Malin Vaurien
+  text: '**Combat :** Affaiblissez un compagnon Hobbit deux fois pour annuler un combat **acharné** impliquant ce Hobbit.'
+  lore: Philibert connait des sentiers et des pistes rarement empruntés. Il n'est pas aventurier de nature, mais ses entourloupes nécessitent souvent des départs rapides.
+it:
+  title: Filiberto Bolgeri
+  subtitle: Furfante Astuto
+  text: '**Schermaglia:** Sforza un compagno Hobbit due volte per cancellare una schermaglia **Feroce** che coinvolge quell’Hobbit.'
+  lore: Filiberto conosce sentieri e piste che pochi hanno percorso. Non è di carattere avventuroso, ma le sue scappatelle spesso richiedono rapide fughe.
+es:
+  title: Filiberto Bolger
+  subtitle: Granuja astuto
+  text: '**Escaramuza:** Esfuerza a un compañero Hobbit dos veces para cancelar una escaramuza fiera en la que ese Hobbit esté implicado.'
+  lore: Filiberto conoce caminos que pocos han recorrido. No es aventurero por naturaleza, pero sus escapadas a menudo requerían huídas rápidas.

@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '231'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Fey He Seemed
+  subtitle: ''
+  text: 'Make a :rohan: Man strength +2 (or +3 and **damage +1** if skirmishing a wounded minion).'
+  lore: …the battle-fury of his fathers ran like new fire in his veins….
+de:
+  title: Todgeweiht erschien er
+  subtitle: ''
+  text: 'Gib einem :rohan: Menschen Stärke +2 (oder Stärke +3 und **Schaden +1**, wenn er gegen einen verwundeten Diener kämpft).'
+  lore: … die Kampfeswut seiner Väter rann wie neues Feuer in seinen Adern….

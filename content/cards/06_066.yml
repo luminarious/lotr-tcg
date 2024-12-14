@@ -1,0 +1,36 @@
+set: '6'
+rarity: U
+number: '66'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 3
+str: '7'
+vit: '3'
+site: 4
+en:
+  title: Isengard Builder
+  subtitle: ''
+  text: '**Regroup:** If stacked on an :isengard: card, discard this card to add :twilight2:.'
+  lore: ‘They were all singing with harsh voices, and laughing, making a hideous din.’
+de:
+  title: Isengart Baumeister
+  subtitle: ''
+  text: '**Sammeln:** Wenn dieser Diener auf einer :isengard: Karte lagert, lege ihn von dort ab, um den Einfluss um :twilight2: zu erhöhen.'
+  lore: Sie sangen alle mit rauhen Stimmen und lachten und machten einen scheußlichen Lärm.
+fr:
+  title: Constructeur de l'Isengard
+  subtitle: ''
+  text: '**Ralliement :** Si cette carte est empilée sur une carte :isengard:, défaussez-la pour ajouter :twilight2:.'
+  lore: 'Ils chantaient tous d''une voix rauque et ils riaient, faisant le plus affreux vacarme.” '
+it:
+  title: Costruttore di Isengard
+  subtitle: ''
+  text: '**Raccolta:** Se impilato su una carta :isengard:, scarta questa carta per aggiungere :twilight2:.'
+  lore: ‘Partirono cantando con quelle loro voci crudeli, ridendo e facendo un fracasso orribile.’
+es:
+  title: Constructor de Isengard
+  subtitle: ''
+  text: '**Reagrupación:** Si está apilada en una carta :isengard:, descarta esta carta para añadir :twilight2:.'
+  lore: Todos ellos cantaban en voces desagradables, y reían, haciendo un ruido espantoso.

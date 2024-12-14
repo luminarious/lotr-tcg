@@ -1,0 +1,15 @@
+set: '8'
+rarity: R
+number: '103'
+unique: true
+culture: Sauron
+type: Possession
+class: Support Area
+cost: 3
+en:
+  title: Grond
+  subtitle: Hammer of the Underworld
+  text: |-
+    **Engine.** **Shadow:** Play a :sauron: minion to add a :sauron: token here.   
+    **Regroup:** Remove X :sauron: tokens here to discard a Free Peoples card (except a companion) with a twilight cost of X. Discard a :sauron: minion or this possession.
+  lore: …and the black serpent foundered.

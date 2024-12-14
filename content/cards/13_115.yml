@@ -1,0 +1,23 @@
+set: '13'
+rarity: R
+number: '115'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 5
+str: '12'
+vit: '2'
+site: 4
+en:
+  title: Orc Raid Commander
+  subtitle: ''
+  text: |-
+    To play, spot an :orc: card in your support area.  
+    When you play this, spot a Free Peoples condition to discard from play each other card that has the same card title as that condition.
+  lore: Once inside the walls of the City, the besiegers were ordered to kill on sight.
+de:
+  title: Anführer des Orkkommandos
+  subtitle: ''
+  text: 'Entdecke eine :orc: Karte in deinem Unterstüt-zungsbereich, um diesen Diener zu spielen. Entdecke einen Freien Völker Effekt, um alle anderen Karten mit dem gleichen Namen wie dieser Effekt abzulegen, wenn du diese Karte spielst.'
+  lore: Nachdem die Mauern gefallen waren, lautete der Befehl, alles und jeden zu töten.

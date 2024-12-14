@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '7'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Gimli
+  subtitle: Feared Axeman
+  text: |-
+    **Damage +1.**   
+    **Response:** If a :dwarven: condition is about to be discarded by an opponent, exert a Dwarf or discard a :dwarven: card from hand to prevent that.
+  lore: ''

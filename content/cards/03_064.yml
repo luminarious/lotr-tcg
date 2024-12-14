@@ -1,0 +1,42 @@
+set: '3'
+rarity: R
+number: '64'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 6
+str: '11'
+vit: '4'
+site: 4
+en:
+  title: Orc Commander
+  subtitle: ''
+  text: |-
+    Each other :isengard: Orc is strength +1.   
+    **Regroup:** Exert Orc Commander to make the Free Peoples player wound a companion. 
+  lore: ‘It seems their delight to slash and beat down growing things that are not even in their way.’
+de:
+  title: Orkkommandant
+  subtitle: ''
+  text: 'Alle anderen :isengard: Orks erhalten Stärke +1. **Sammeln:** Strenge den Orkkommandanten an, um den Freie Völker Spieler zu zwingen, einen Gefährten zu verwunden.'
+  lore: Es scheint ihnen Freude zu machen, Pflanzen, die ihnen nicht einmal im Weg sind, zu zerstören und abzuhauen.
+fr:
+  title: Commandant Orque
+  subtitle: ''
+  text: 'Chaque autre Orque :isengard: a +1 en force. **Ralliement :** Affaiblissez le Commandant Orque pour obliger le joueur des Peuples Libres à blesser un compagnon.'
+  lore: 'Il semble qu''ils fassent leurs délices de taillader et d''écraser tout ce qui pousse, même si ce n''est pas sur leur chemin.” '
+it:
+  title: Comandante degli Orchi
+  subtitle: ''
+  text: |-
+    Ogni altro Orco :isengard: aggiunge +1 alla forza.   
+    **Raccolta:** Sforza Comandante degli Orchi per per far ferire al giocatore dei Popoli Liberi un compagno.
+  lore: ‘Sembra che provino gioia nel falciare e abbattere ogni cosa che ostacoli loro la via.’
+es:
+  title: Comandante Orco
+  subtitle: ''
+  text: |-
+    Cada otro Orco :isengard: es fuerza +1.   
+    **Reagrupación:** Esfuerza el Comandante Orco para hacer que el jugador de Gentes Libres hiera un compañero.
+  lore: Parece que disfrutan cortando y tumbando cosas vivientes que ni siquiera están en su camino.

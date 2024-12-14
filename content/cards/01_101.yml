@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '101'
+unique: true
+culture: Gondor
+type: Possession
+class: Armor
+cost: 1
+en:
+  title: Coat of Mail
+  subtitle: ''
+  text: |-
+    Bearer must be a Man.   
+    Bearer may not be overwhelmed unless his or her strength is tripled.
+  lore: Soldiers of the White Tower have long appreciated the craftsmanship of the Gondorian metalsmiths.
+de:
+  title: Panzerhemd
+  subtitle: ''
+  text: Muss auf einen Menschen gespielt werden. Der Träger kann nur mit dreifacher Stärke überwältigt werden.
+  lore: Die Soldaten des weissen Turms schätzen bereits lange die Handwerkskunst der Rüstschmiede Gondors.
+fr:
+  title: Cotte de Mailles
+  subtitle: ''
+  text: Le détenteur doit être un Homme. Le détenteur n’est submergé que si la force du camp adverse est trois fois supérieure à la sienne.
+  lore: Les Soldats de la Tour Blanche ont longtemps apprécié le savoir-faire des forgerons du Gondor.
+it:
+  title: Cotta di Maglia
+  subtitle: ''
+  text: Il possessore deve essere un Uomo. Il possessore non è sopraffatto a meno che la forza degli avversari non sia il triplo della sua forza.
+  lore: I soldati della Torre Bianca hanno a lungo apprezzato la maestria dei fabbri ferrai di Gondor.
+es:
+  title: Cota de Mallas
+  subtitle: ''
+  text: El portador debe ser un Hombre. El portador no es abrumado a no ser que su fuerza sea triplicada.
+  lore: Los Soldados de la Torre Blanca han apreciado durante mucho tiempo el arte de los herreros de Gondor.

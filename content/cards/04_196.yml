@@ -1,0 +1,38 @@
+set: '4'
+rarity: C
+number: '196'
+unique: true
+culture: Isengard
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Uruk Spear
+  subtitle: ''
+  text: |-
+    Bearer must be an Uruk-hai.   
+    **Maneuver:** Exert bearer to discard a Free Peoples mount. 
+  lore: The Uruk-hai braced their long pikes to challenge the oncoming Riders.
+de:
+  title: Urukspeer
+  subtitle: ''
+  text: Muss auf einen Uruk-hai gespielt werden. **Manöver:** Strenge den Träger an, um ein Reittier der Freien Völker abzulegen.
+  lore: Die Uruk-hai brachten ihre langen Piken gegen die anstürmenden Reiter in Stellung.
+fr:
+  title: Lance Ourouk-Haï
+  subtitle: ''
+  text: Le détenteur doit être un Ourouk-Haï. **Manœuvre :** Affaiblissez le détenteur pour défausser une monture des Peuples Libres.
+  lore: Les Ourouk-Haï plantaient leurs longues piques pour défier les cavaliers.
+it:
+  title: Lancia Uruk
+  subtitle: ''
+  text: Il possessore deve essere un Uruk-hai. **Manovra:** Sforza il possessore per scartare una cavalcatura dei Popoli Liberi.
+  lore: Gli Uruk-hai imbracciarono le loro lunghe picche per contrastare i Cavalieri che si avvicinavano.
+es:
+  title: Lanza Uruk
+  subtitle: ''
+  text: |-
+    El portador debe ser un Uruk-hai.   
+    **Maniobra:** Esfuerza al portador para descartar una montura de Gentes Libres.
+  lore: Los Uruk-hai empuñaron sus largas picas para retar a los Jinetes.

@@ -1,0 +1,38 @@
+set: '1'
+rarity: R
+number: '183'
+unique: true
+culture: Moria
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Goblin Swarms
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    **Response:** If your :moria: Orc wins a skirmish, discard cards and wounds on that Orc and stack that Orc on this condition.   
+    **Shadow:** Play an Orc stacked here as if played from hand.
+  lore: Beyond the fire he saw swarming black figures….
+de:
+  title: Goblinschwärme
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Reaktion:** Wenn einer deiner :moria: Orks einen Kampf gewinnt, lege alle Karten und Wunden von diesem Ork ab und lagere ihn auf diesem Effekt. **Schatten:** Spiele einen Ork von diesem Effekt, als wäre er in deiner Hand.'
+  lore: Hinter dem Feuer sah er wimmelnde schwarze Gestalten…
+fr:
+  title: Grouillements Gobelins
+  subtitle: ''
+  text: '**Réponse :** Si votre Orque :moria: remporte un combat, défaussez les cartes et les blessures sur cet Orque et empilez cet Orque sur cette situation. Ombre : Jouez un Orque empilé ici comme s’il était joué de votre main.'
+  lore: Au-delà du feu, il vit des formes noires et foisonnantes….
+it:
+  title: Sciami di Goblin
+  subtitle: ''
+  text: |-
+    Giocala nella tua area di supporto.  
+    **Risposta:** Se un tuo Orco :moria: vince una schermaglia, scarta le carte e le ferite su quell’Orco e impila quell’Orco sotto questa condizione. **Ombra:** Gioca un Orco impilato qui sotto come se fosse giocato dalla mano.
+  lore: Al di là del fuoco scorse uno sciame di figure nere….
+es:
+  title: Enjambre Goblin
+  subtitle: ''
+  text: '**Respuesta:** Si tu Orco :moria: gana una escaramuza, descarta todas las cartas y heridas en ese Orco y apila ese Orco en esta condición. **Sombra:** Juega un Orco aquí apilado como si fuera jugado de tu mano.'
+  lore: Mas allá del fuego vio un enjambre de figuras oscuras…

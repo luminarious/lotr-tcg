@@ -1,0 +1,32 @@
+set: '1'
+rarity: U
+number: '323'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Green Hill Country
+  subtitle: ''
+  text: The twilight cost of each Hobbit is -1.
+  lore: ''
+de:
+  title: Grünbergland
+  subtitle: ''
+  text: Die Zwielichtkosten aller Hobbits verringern sich um 1.
+  lore: ''
+fr:
+  title: Pays des Collines Vertes
+  subtitle: ''
+  text: Le coût crépusculaire de chaque Hobbit est de -1.
+  lore: ''
+it:
+  title: Terra del Verde Colle
+  subtitle: ''
+  text: Sottrai -1 al costo crepuscolo di ogni Hobbit.
+  lore: ''
+es:
+  title: Campo de La Colina Verde
+  subtitle: ''
+  text: El coste de penumbra de cada Hobbit es -1.
+  lore: ''

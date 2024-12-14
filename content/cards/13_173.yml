@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '173'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Uruk Reserve
+  subtitle: ''
+  text: |-
+    **Damage +1. Lurker.** *(Skirmishes involving lurker minions must be resolved after any others.)*  
+    Each time your :urukhai: minion is about to be killed in a skirmish, you may place that minion on the bottom of your draw deck instead.
+  lore: ''

@@ -1,0 +1,18 @@
+set: '15'
+rarity: R
+number: '165'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Merciless Berserker
+  subtitle: ''
+  text: |-
+    **Damage +1**.  
+    **Shadow:** Exert this minion to exert X companions and add X threats, where X is the number of Free Peoples cultures you spot over 2.
+  lore: These are Uruk-hai. Their armor is thick and their shields broad.

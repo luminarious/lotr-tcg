@@ -1,0 +1,32 @@
+set: '1'
+rarity: U
+number: '322'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Green Dragon Inn
+  subtitle: ''
+  text: '**Fellowship:** Exert a Hobbit to play Sam from your draw deck.'
+  lore: ''
+de:
+  title: Der Grüne Drache
+  subtitle: ''
+  text: '**Gemeinschaft.** Strenge einen Hobbit an, um Sam direkt aus deinem Spieldeck zu spielen.'
+  lore: ''
+fr:
+  title: Auberge du Dragon Vert
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez un Hobbit pour jouer Sam de votre pioche.'
+  lore: ''
+it:
+  title: Taverna Al Drago Verde
+  subtitle: ''
+  text: '**Compagnia:** Sforza un Hobbit per giocare Sam dal tuo mazzo di gioco.'
+  lore: ''
+es:
+  title: Posada del Dragón Verde
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza un hobbit para jugar a Sam de tu mazo de robar.'
+  lore: ''

@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '290'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 1
+str: '3'
+vit: '2'
+site: 6
+en:
+  title: Mordor Soldier
+  subtitle: ''
+  text: '**Skirmish:** Remove a threat to make this minion strength +4.'
+  lore: …or the end maybe of all the world of light.
+de:
+  title: Soldat Mordors
+  subtitle: ''
+  text: '**Kampf:** Entferne eine Bedrohung, um diesem Diener Stärke +4 zu geben.'
+  lore: …oder vielleicht das Ende der ganzen Welt des Lichts.

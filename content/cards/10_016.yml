@@ -1,0 +1,18 @@
+set: '10'
+rarity: C
+number: '16'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Gathering Wind
+  subtitle: ''
+  text: 'Exert your Wizard and choose a number. Make each minion with that twilight cost strength –2 until the regroup phase. '
+  lore: …the rush of their wide wings as they passed over was like a gale.
+de:
+  title: Aufkommender Wind
+  subtitle: ''
+  text: Strenge einen deiner Zauberer an und nenne eine Zahl. Alle Diener mit den entsprechenden Kosten erhalten Stärke -2 bis zur Sammelphase.
+  lore: … das Rauschen ihrer breiten Schwingen, als sie vorüberzogen, war wie ein Sturm.

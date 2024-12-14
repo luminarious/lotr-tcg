@@ -1,0 +1,16 @@
+set: '11'
+rarity: R
+number: '170'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+res: '9'
+en:
+  title: Pippin
+  subtitle: Brave Decoy
+  text: '**Skirmish:** If Pippin is not assigned to a skirmish, spot an unbound companion who has less resistance than Pippin to have Pippin replace him or her in a skirmish. '
+  lore: Merry and he had drawn their swords, but the Orcs did not wish to fight….

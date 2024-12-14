@@ -1,0 +1,36 @@
+set: '3'
+rarity: U
+number: '83'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: The Ring Draws Them
+  subtitle: ''
+  text: |-
+
+    Each time the fellowship moves, add :twilight1: for each burden you can spot.   
+    At the end of each of your Shadow phases, exert a Nazgûl or discard this condition. 
+  lore: ‘If I move I shall be seen and hunted!’
+de:
+  title: Der Ring zieht sie an
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn sich die Gemeinschaft bewegt, erhöhe den Einfluss um :twilight1: für jede Lastmarke, die du entdecken kannst. Strenge einen Nazgûl am Ende jeder deiner Schattenphasen an oder lege diesen Effekt ab.'
+  lore: Wenn ich gehe, werde ich gesehen und gejagt!
+fr:
+  title: L'Anneau les Attire
+  subtitle: ''
+  text: 'Chaque fois que la compagnie se déplace, ajoutez :twilight1: pour chaque point-fardeau que vous pouvez désigner. À la fin de chacune de vos phases de l’Ombre, affaiblissez un Nazgûl ou défaussez cette situation.'
+  lore: 'Si je bouge, je serai vu et pourchassé!” '
+it:
+  title: L'Anello li Attira
+  subtitle: ''
+  text: 'Ogni volta che la compagnia si muove, aggiungi :twilight1: per ogni segnalino fardello che puoi avvistare. Alla fine di ogni tua fase Ombra, sforza un Nazgûl o scarta questa condizione.'
+  lore: ‘Se mi muovo, sarò visto e inseguito!’
+es:
+  title: El Anillo les Atrae
+  subtitle: ''
+  text: 'Cada vez que la comunidad se mueve, añade :twilight1: por cada carga que puedas avistar. Al final de cada una de tus fases de Sombra, esfuerza un Nazgûl o descarta esta condición.'
+  lore: ¡Si me muevo me verán y me perseguirán!

@@ -1,0 +1,35 @@
+set: '1'
+rarity: U
+number: '162'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Worry
+  subtitle: ''
+  text: |-
+    To play, exert an Uruk-hai.   
+    Each time a companion or ally loses a skirmish involving an Uruk-hai, the opponent must choose to either exert the Ring-bearer or add a burden.
+  lore: ‘One by one, regardless of their strength to good or evil… they fell.’
+de:
+  title: Sorgen
+  subtitle: ''
+  text: Strenge einen Uruk-hai an, um diese Karte in deinen Unterstützungsbereich zu spielen. Jedesmal, wenn ein Uruk-hai einen Kampf gewinnt, muss der Gegenspieler wählen, ob er den Ringträger anstrengt oder eine Lastmarke auf ihn legt.
+  lore: Einer nach dem anderen fielen sie, ungeachtet ihrer Kraft, ob gut oder böse.
+fr:
+  title: Souci
+  subtitle: ''
+  text: Pour jouer, affaiblissez un Ourouk-Haï. Chaque fois qu’un Ourouk-Haï remporte un combat, l’adversaire doit choisir soit d’affaiblir le Porteur de l’Anneau, soit d’ajouter un point-fardeau.
+  lore: ‘Un à un, indépendamment de leur penchant pour le bien ou le mal, ils tombèrent.’
+it:
+  title: Preoccupazione
+  subtitle: ''
+  text: Per giocarla, sforza un Uruk-hai. Ogni volta che una schermaglia è vinta da uno o più Uruk-hai, l’avversario deve scegliere o di sforzare il Portatore dell’Anello o di aggiungere un segnalino fardello.
+  lore: ‘Uno dopo l'altro, non curanti se la loro forza fosse rivolta al bene o al male… caddero.’
+es:
+  title: Preocupación
+  subtitle: ''
+  text: Para jugarla, esfuerza un Uruk-hai. Cada vez que un Uruk-hai gana una escaramuza, el oponente debe elegir o bien esforzar el Portador del Anillo o añadir una carga.
+  lore: Uno a uno, sin importar su fuerza para bien o para mal… Cayeron.

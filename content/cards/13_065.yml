@@ -1,0 +1,19 @@
+set: '13'
+rarity: R
+number: '65'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 5
+str: '8'
+vit: '5'
+res: '6'
+en:
+  title: Elendil
+  subtitle: High-king of Gondor
+  text: |-
+    **Knight.** To play, spot 2 :gondor: knights or exert 2 :gondor: Men.  
+    Each of your :gondor: companions is resistance +1.  
+    **Maneuver:** Remove a :gondor: token to make an unbound companion resistance +1 until the regroup phase.
+  lore: ‘…and Elendil of Westernesse who overthrew Sauron….’

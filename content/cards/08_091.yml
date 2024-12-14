@@ -1,0 +1,26 @@
+set: '8'
+rarity: R
+number: '91'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 5
+str: '9'
+vit: '3'
+en:
+  title: Rohirrim Army
+  subtitle: ''
+  text: |-
+    To play, spot 3 :rohan: companions.   
+    You may play Rohirrim Army any time you could play a regroup event.   
+    When you play Rohirrim Army, you may discard a minion.
+  lore: ‘Begone, foul dwimmerlaik, lord of carrion!’
+de:
+  title: Armee der Rohirrim
+  subtitle: ''
+  text: |-
+    Entdecke 3 :rohan: Gefährten, um die Armee der Rohirrim zu spielen.   
+    Du kannst sie immer dann spielen, wenn du ein Sammelereignis spielen könntest.   
+    Du darfst einen Diener ablegen, wenn du die Armee der Rohirrim spielst.
+  lore: … wie ein Sturm über der Ebene und wie ein Donner im Gebirge.

@@ -1,0 +1,16 @@
+set: '0'
+rarity: W
+number: '26'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '12'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Toldëa
+  subtitle: Relentless Wraith
+  text: ''
+  lore: 'Soon there could be no doubt: Three or four tall black figures were standing there on the slope, looking down on them.'

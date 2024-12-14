@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '96'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Keep Your Forked Tongue
+  subtitle: ''
+  text: '**Skirmish: **Spot Gandalf and 3 twilight tokens to prevent all wounds to a companion who has the Gandalf signet. '
+  lore: ‘A witless worm you have become.’
+de:
+  title: Hütet Eure gespaltene Zunge
+  subtitle: ''
+  text: '**Kampf** Entdecke Gandalf und einen Einfluss von mindestens 3, um alle Wunden, die ein Gefährte mit dem Gandalfsiegel erleidet, zu verhindern.'
+  lore: Eine einfältige Schlange seid Ihr geworden.
+fr:
+  title: Garde ta Langue Fourchue
+  subtitle: ''
+  text: '**Combat :** Désignez Gandalf et 3 jetons-crépuscules pour prévenir toutes les blessures à un compagnon possédant le sceau Gandalf d’être blessé.'
+  lore: 'Tu es devenu un serpent sans intelligence.” '
+it:
+  title: Ferma La Tua Lingua Biforcuta
+  subtitle: ''
+  text: '**Schermaglia:** Avvista Gandalf e 3 segnalini crepuscolo per prevenire tutte le ferite a un compagno che abbia il sigillo di Gandalf.'
+  lore: ‘Sei diventato un verme dissennato.’
+es:
+  title: Guardate Tu Lengua Bífida
+  subtitle: ''
+  text: '**Escaramuza:** Avista a Gandalf y 3 contadores de penumbra para prevenir que un compañero que tenga el sello de Gandalf reciba heridas.'
+  lore: Te has convertido en un gusano estúpido.

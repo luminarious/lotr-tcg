@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '8'
+unique: true
+culture: Dunland
+type: Event
+class: Skirmish
+cost: 3
+en:
+  title: Death to the Strawheads
+  subtitle: ''
+  text: '**Skirmish:** Make a :dunland: Man strength +1 for each companion you spot. '
+  lore: The dark Dunlendings called their fair-haired enemies from Rohan “Strawheads.
+de:
+  title: Tod den Strohköpfen!
+  subtitle: ''
+  text: '**Kampf** Gib einem :dunland: Menschen Stärke +1 für jeden Gefährten, den du entdeckst.'
+  lore: Die dunkelhaarigen Dunländer nannten ihre blonden Feinde aus Rohan ‚Strohköpfe'.
+fr:
+  title: Mort aux Têtes de Paille
+  subtitle: ''
+  text: '**Combat :** Donnez +1 en force à un Homme :dunland: pour chaque compagnon que vous désignez.'
+  lore: Les sombres habitants du Pays de Dun appelaient leurs ennemis de Rohan, aux cheveux pâles, “Têtes de paille”.
+it:
+  title: Morte ai Testapaglia
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +1 alla forza di un Uomo :dunland: per ogni compagno che avvisti.'
+  lore: Gli scuri Dunlandiani chiamavano i loro biondi nemici di Rohan “Testapaglia”.
+es:
+  title: Muerte Para Los Cabeza-De-Paja
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Hombre :dunland: fuerza +1 por cada compañero que avistes.'
+  lore: Los oscuros Dunlendinos llamaban a sus enemigos de cabello claro de Rohan “Cabeza-de-Paja”.

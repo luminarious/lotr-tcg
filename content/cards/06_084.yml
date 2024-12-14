@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '84'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Spied From Above
+  subtitle: ''
+  text: '**Regroup:** Exert a Nazgûl twice to play a :wraith: or :sauron: minion. That minion’s twilight cost is –8 and it comes into play exhausted.'
+  lore: It leaped into all of their minds that the Black Wings had spied them and had sent armed soldiers to seize them….
+de:
+  title: Späher in der Luft
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Sammeln:** Strenge einen Nazgûl zweimal an, um einen :wraith: oder :sauron: Diener zu spielen. Die Kosten für diesen Diener reduzieren sich um 8 und er kommt erschöpft ins Spiel.'
+  lore: Ihnen allen schoss der Gedanke durch den Kopf, dass die Schwarzen Schwingen sie erspäht … hatten…
+fr:
+  title: Repérés Depuis les Airs
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez un Nazgûl deux fois pour jouer un séide :wraith: ou :sauron:. Le coût crépusculaire de ce séide est de –8 et il entre en jeu épuisé.'
+  lore: 'L''idée les saisit tous que les Ailes Noires les avaient repérés et avaient envoyé des soldats armés les prendre… '
+it:
+  title: Spiati dall'Alto
+  subtitle: ''
+  text: '**Raccolta:** Sforza due volte un Nazgûl per giocare un servitore :wraith: o :sauron:. Sottrai –8 al suo costo crepuscolo ed entra in gioco esausto.'
+  lore: Nelle loro menti balenò il pensiero che le Ali Nere li avessero scorti, e avessero spedito soldati armati per catturarli….
+es:
+  title: Espiados desde lo alto
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza a un Nazgûl dos veces para jugar un siervo :wraith: o :sauron:. El coste de penumbra de ese siervo es –8 y entra en juego exhausto.'
+  lore: …los asaltó la idea de que las Alas Negras los habían descubierto y habían enviado hombres armados a capturarlos…

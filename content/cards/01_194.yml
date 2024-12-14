@@ -1,0 +1,39 @@
+set: '1'
+rarity: U
+number: '194'
+unique: true
+culture: Moria
+type: Event
+class: Response
+cost: 0
+en:
+  title: Relentless
+  subtitle: ''
+  text: |-
+    **Search.**   
+    **Response:** If a stealth event is played, spot 3 :moria: minions to cancel that event.
+  lore: ‘Then dig a hole in the ground,’ said Legolas, ‘if that is more after the fashion of your kind. But you must dig swift and deep, if you wish to hide from Orcs.’
+de:
+  title: Unerbittlich
+  subtitle: ''
+  text: '**Suche.** **Reaktion:** Wenn ein Heimlichkeitsereignis gespielt wird, entdecke 3 :moria: Diener, um dieses Ereignis zu verhindern.'
+  lore: Dann grabe dir eine Höhle im Boden“, sagte Legolas, "wenn das mehr deiner Art entspricht. Aber du musst rasch und tief graben, wenn du dich vor den Orks verstecken willst.
+fr:
+  title: Sans Répit
+  subtitle: ''
+  text: |-
+    **Recherche.**  
+    **Réponse :** Si un événement de dissimulation est joué, désignez 3 séides :moria: pour annuler cet événement.
+  lore: ‘Eh bien, creusez un trou dans le sol, si c'est davantage dans la façon de votre espèce, dit Legolas. Mais il faudra creuser vite et profond si vous voulez vous cacher des Orques’
+it:
+  title: Implacabile
+  subtitle: ''
+  text: |-
+    **Ricerca.**  
+    **Risposta:** Se è giocato un evento Segretezza, avvista 3 servitori :moria: per cancellare quell’evento.
+  lore: ‘Scava allora un fosso nel terreno,’ disse Legolas, ‘Se ciò si confà maggiormente alle abitudini della tua razza. Ma devi scavare veloce e in profondità, se desideri nasconderti dagli Orchi.’
+es:
+  title: Sin Descanso
+  subtitle: ''
+  text: '**Búsqueda.** **Respuesta:** Si se juega un evento de sigilo, avista 3 siervos :moria: para cancelar ese evento.'
+  lore: Entonces cava un agujero en el suelo – dijo Legolas –, si esta mas de acuerdo con tus costumbres. Pero tienes que cavar hondo y muy rápido, o no escaparas a los Orcos.

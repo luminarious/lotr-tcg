@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '90'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Theoden
+en:
+  title: Faramir
+  subtitle: Stout Captain
+  text: |-
+    **Ranger.** To play, spot a :gondor: Man.   
+    Each time Faramir wins a skirmish involving a fierce minion, you may exert Faramir to discard that minion.
+  lore: ''

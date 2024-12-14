@@ -1,0 +1,24 @@
+set: '7'
+rarity: R
+number: '122'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Strong and Old
+  subtitle: ''
+  text: |-
+    To play, spot 2 :gondor: Men.   
+    The twilight cost of each of your :gondor: fortifications is –1.   
+    **Response:** If an opponent is about to control a site, discard 2 :gondor: fortifications to prevent this.
+  lore: ''
+de:
+  title: Mächtig und alt
+  subtitle: ''
+  text: |-
+    Entdecke 2 :gondor: Menschen, um diesen Effekt zu spielen.   
+    Die Kosten für deine :gondor: Befestigungen reduzieren sich um 1.   
+    **Reaktion:** Lege 2 :gondor: Befestigungen ab, wenn ein Gegner im Begriff ist, einen Ort zu kontrollieren, um dies zu verhindern.
+  lore: ''

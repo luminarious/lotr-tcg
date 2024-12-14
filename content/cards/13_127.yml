@@ -1,0 +1,22 @@
+set: '13'
+rarity: C
+number: '127'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Freely Across Our Land
+  subtitle: ''
+  text: |-
+    When you play this, add a :rohan: token here.  
+    **Regroup:** Discard this from play or remove a token from here to play a :rohan: possession from your discard pile on your :rohan: companion.
+  lore: Unchecked, unchallenged, killing at will!
+de:
+  title: Ungehindert durch unser Land
+  subtitle: ''
+  text: |-
+    Lege eine :rohan: Marke auf diese Karte, wenn du sie spielst.  
+    **Sammeln:** Lege diesen Effekt ab oder ent-ferne hier eine Marke, um eine :rohan: Aus-rüstung aus deinem Ablagestapel auf einen deiner :rohan: Gefährten zu spielen.
+  lore: Ungestört, ungestraft, willkürlich mordend!

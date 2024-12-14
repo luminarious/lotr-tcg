@@ -1,0 +1,40 @@
+set: '2'
+rarity: U
+number: '3'
+unique: true
+culture: Dwarven
+type: Possession
+class: Bracers
+cost: 1
+str: '+1'
+en:
+  title: Dwarven Bracers
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf.  
+    **Response:** If bearer is about to take a wound, discard this possession to prevent that wound. 
+  lore: Dwarven-smiths forge bracers for fit and agility.
+de:
+  title: Zwergenarmschienen
+  subtitle: ''
+  text: Muss auf einen Zwerg gespielt werden. **Reaktion:** Wenn der Träger verwundet wird, kannst du diese Ausrüstung ablegen, um die Wunde zu verhindern.
+  lore: Zwergenschmiede fertigen Armschienen, die leicht und doch stark sind.
+fr:
+  title: Brassards Nains
+  subtitle: ''
+  text: Le détenteur doit être un Nain. **Réponse :** Si le détenteur est sur le point d’être blessé, défaussez cette possession pour prévenir la blessure.
+  lore: Les forgerons-nains forgent des brassards pour la forme et l'agilité.
+it:
+  title: Bracciali dei Nani
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Nano.  
+    **Risposta:** Se il possessore sta per subire una ferita, scarta questo bene per prevenire quella ferita.
+  lore: I fabbri dei Nani forgiano dei bracciali per la difesa e per l'agilità.
+es:
+  title: Brazales Enanos
+  subtitle: ''
+  text: |-
+    El portador debe ser un Enano.   
+    **Respuesta:** Si el portador va a recibir una herida, descarta esta posesión para prevenir esa herida.
+  lore: Los herreros enanos forjan brazales para comodidad y agilidad.

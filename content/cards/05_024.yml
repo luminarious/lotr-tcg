@@ -1,0 +1,15 @@
+set: '5'
+rarity: C
+number: '24'
+unique: true
+culture: Gollum
+type: Minion
+cost: 2
+str: '5'
+vit: '4'
+site: 3
+en:
+  title: Gollum
+  subtitle: Nasty Treacherous Creature
+  text: '**Regroup:** Discard Gollum to exert a companion or ally.'
+  lore: ‘…we won't let you go, either. You're full of wickedness and mischief, Gollum.’

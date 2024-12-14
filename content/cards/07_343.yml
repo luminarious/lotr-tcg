@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '343'
+unique: true
+culture: ''
+type: Site
+cost: 4
+siteArrow: Right
+en:
+  title: Pelennor Plain
+  subtitle: ''
+  text: '**Plains.** **Archery:** Spot your minion and remove 3 burdens to make the minion archery total +3.'
+  lore: ''
+de:
+  title: Die Pelennor-Ebene
+  subtitle: ''
+  text: '**Ebene.** **Fernkampf:** Entdecke einen deiner Diener und entferne 3 Lastmarken, um den Fernkampfwert der Diener um 3 zu erhöhen.'
+  lore: ''

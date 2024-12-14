@@ -1,0 +1,24 @@
+set: '7'
+rarity: R
+number: '68'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Scouting
+  subtitle: ''
+  text: |-
+    To play, spot Sméagol.   
+    Each time the fellowship moves, add a threat or discard this condition.   
+    **Maneuver:** Discard Sméagol to discard a minion. An opponent may exert a minion twice to prevent this.
+  lore: ''
+de:
+  title: Auskundschaften
+  subtitle: ''
+  text: |-
+    Entdecke Sméagol, um diese Karte zu spielen.   
+    Lasse jedes Mal, wenn sich die Gemeinschaft bewegt, eine Bedrohung entstehen oder lege diesen Effekt ab.   
+    **Manöver:** Lege Sméagol ab, um einen Diener abzulegen. Ein Gegenspieler darf einen Diener zweimal anstrengen, um dies zu verhindern.
+  lore: ''

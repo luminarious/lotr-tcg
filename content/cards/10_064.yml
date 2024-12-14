@@ -1,0 +1,22 @@
+set: '10'
+rarity: C
+number: '64'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Stooping to the Kill
+  subtitle: ''
+  text: |-
+    While you have initiative, each of your :wraith: minions is **damage +1.**   
+    **Skirmish:** Discard this condition to make a :wraith: minion strength +2. 
+  lore: And with a piercing cry out of the dim sky fell the winged shadows….
+de:
+  title: Auf die Beute herabstürzen
+  subtitle: ''
+  text: |-
+    Solange du die Initiative besitzt, erhalten alle deine :wraith: Diener **Schaden +1**.   
+    **Kampf:** Lege diesen Effekt ab, um einem :wraith: Diener Stärke +2 zu geben.
+  lore: Und mit einem durchdringenden Schrei stürzten aus dem düstern Himmel die geflügelten Schatten herab….

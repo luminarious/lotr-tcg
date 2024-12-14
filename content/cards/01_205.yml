@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '205'
+unique: true
+culture: Wraith
+type: Event
+class: Maneuver
+cost: 5
+en:
+  title: Beauty Is Fading
+  subtitle: ''
+  text: '**Maneuver:** Exert a Nazgûl to discard a Free Peoples possession or Free Peoples condition. If you can spot no such card, discard an ally or companion (except the Ring-bearer) instead.'
+  lore: ‘…the Three will fail, and many fair things will fade and be forgotten.’
+de:
+  title: Schönheit verblasst
+  subtitle: ''
+  text: '**Manöver:** Strenge einen Nazgûl an, um eine Freie Völker Ausrüstung oder einen Freie Völker Effekt abzulegen. Wenn du keine solche Karte entdecken kannst, lege stattdessen einen Verbündeten oder Gefährten (ausser dem Ringträger) ab.'
+  lore: Doch mag es auch sein, dass die Drei… dahinschwinden, und viele schöne Dinge verblassen und vergessen sein werden.
+fr:
+  title: La Beauté Passera
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Nazgûl pour défausser une possession ou une situation des Peuples Libres. Si vous ne pouvez désigner une telle carte, défaussez plutôt un allié ou un compagnon (excepté le Porteur de l’Anneau).'
+  lore: ‘…les Trois feront défaut et beaucoup de belles choses passeront et seront oubliées.’
+it:
+  title: La Bellezza Sta Svanendo
+  subtitle: ''
+  text: '**Manovra:** Sforza un Nazgûl per scartare un bene dei Popoli Liberi o una condizione dei Popoli Liberi. Se non puoi avvistare tali carte, scarta invece un alleato o un compagno (eccetto il Portatore dell’Anello).'
+  lore: ‘…i Tre perdano ogni loro potere, e molte cose belle svaniscano e cadano nell'oblio.’
+es:
+  title: La Belleza Se Desvanece
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un Nazgûl para descartar una posesión o una condición de Gentes Libres. Si no puedes avistar ese tipo de carta, descarta en su lugar un aliado o un compañero (excepto el Portador del Anillo).'
+  lore: …los Tres se malogren, y que junto con ellos se marchiten y olviden muchas cosas hermosas.

@@ -1,0 +1,35 @@
+set: '1'
+rarity: R
+number: '200'
+unique: true
+culture: Moria
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: The Underdeeps of Moria
+  subtitle: ''
+  text: |-
+
+    **Shadow:** Remove :twilight3: to reveal the bottom card of your draw deck. If it is a :moria: Orc, take it into hand. Otherwise, discard it.
+  lore: ‘I am afraid Balin is buried deep, and maybe something else is buried there too.’
+de:
+  title: Die tiefsten Tiefen Morias
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Schatten:** Verringere den Einfluss um :twilight3:, um die unterste Karte deines Spieldecks aufzudecken. Ist die Karte ein :moria: Ork, nimm sie in deine Hand, ansonsten wird sie abgelegt.'
+  lore: Ich fürchte, Balin ist tief begraben, und vielleicht ist auch etwas anderes dort begraben.
+fr:
+  title: Les Profondeurs de la Moria
+  subtitle: ''
+  text: 'Ombre : Retirez :twilight3: pour révéler la dernière carte de votre pioche. Si c’est un Orque :moria:, prenez-la en main. Autrement, défaussez-la.'
+  lore: Je crains que Balin ne soit enterré profondément, et peut-être qu'autre chose est enterré là aussi.’
+it:
+  title: Le Profondità di Moria
+  subtitle: ''
+  text: '**Ombra:** Rimuovi :twilight3: per mostrare l’ultima carta del tuo mazzo di gioco. Se è un Orco:moria:, aggiungila alla tua mano. Altrimenti, scartala.'
+  lore: ‘Temo che Balin sia profondamente sepolto, e forse qualcos'altro è seppellito con lui.’
+es:
+  title: Las Profundidades de Moria
+  subtitle: ''
+  text: '**Sombra:** Quita :twilight3: para revelar la carta inferior de tu mazo de robar. Si es un Orco :moria:, ponla en tu mano. En caso contrario, descártala.'
+  lore: Temo que Balin este sepultado muy profundamente, y quizá también alguna otra cosa.

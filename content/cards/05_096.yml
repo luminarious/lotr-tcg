@@ -1,0 +1,39 @@
+set: '5'
+rarity: R
+number: '96'
+unique: true
+culture: Sauron
+type: Event
+class: Skirmish, Response
+cost: 0
+en:
+  title: Eye of Barad-Dûr
+  subtitle: ''
+  text: |-
+    **Skirmish:** Make a companion or ally skirmishing a :sauron: Orc strength -1 for each Ring-bound companion.   
+    **Response:** If a Free Peoples player reveals this card from your hand, discard this card to add 2 burdens.
+  lore: The Lidless Eye looked out from Sauron’s fortress.
+de:
+  title: Das Auge von Barad-dûr
+  subtitle: ''
+  text: '**Kampf** Gib einem Gefährten oder Verbündeten, der gegen einen :sauron: Ork kämpft, Stärke -1 für jeden Ring-verbundenen Gefährten. **Reaktion:** Wenn der Freie Völker Spieler diese Karte von deiner Hand aufdeckt, lege sie ab, um 2 Lastmarken auf den Ringträger zu legen, wenn der Freie Völker Spieler sie von deiner Hand aufdeckt.'
+  lore: Das Lidlose Auge blickte von der Spitze von Saurons Festung in die Ferne.
+fr:
+  title: L'*il de Barad-dûr
+  subtitle: ''
+  text: '**Combat :** Pour chaque compagnon associé à l’Anneau, donnez -1 en force à un compagnon ou un allié qui combat un Orque :sauron:. **Réponse :** Si un joueur des Peuples Libres révèle cette carte de votre main, défaussez-la pour ajouter 2 points-fardeau.'
+  lore: L'*il Sans Paupière jetait son regard perçant de la forteresse de Sauron.
+it:
+  title: Occhio di Barad-Dûr
+  subtitle: ''
+  text: |-
+    **Schermaglia:** Sottrai -1 alla forza di un compagno o di un alleato che sta schermagliando con un Orco :sauron: per ogni compagno **Legato all’Anello.**  
+    **Risposta:** Se un giocatore dei Popoli Liberi mostra questa carta dalla tua mano, scarta questa carta per aggiungere 2 segnalini fardello.
+  lore: L'Occhio Senza Palpebre osservava dalla fortezza di Sauron.
+es:
+  title: Ojo de Barad-Dûr
+  subtitle: ''
+  text: |-
+    **Escaramuza:** Da a un compañero o un aliado en una escaramuza contra un Orco :sauron: fuerza -1 por cada compañero **Vinculado al Anillo.**   
+    **Respuesta:** Si un jugador de Gentes Libres revela esta carta de tu mano, descarta esta carta para añadir 2 cargas.
+  lore: El Ojo Sin Párpado observaba fuera de la fortaleza de Sauron.

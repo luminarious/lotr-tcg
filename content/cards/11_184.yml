@@ -1,0 +1,23 @@
+set: '11'
+rarity: R
+number: '184'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '13'
+vit: '3'
+site: 5
+en:
+  title: Force of Uruk-hai
+  subtitle: ''
+  text: '**Damage +1.** Each time this minion is about to take a wound at a battleground site, you may spot another :urukhai: card to make the Free Peoples player draw a card instead.'
+  lore: Despite their bloodthirsty nature, Saruman’s creations form armies and fight united for him.
+de:
+  title: Uruk-hai Streitmacht
+  subtitle: ''
+  text: |-
+    **Schaden +1**.  
+    Jedes Mal, wenn dieser Diener im Begriff ist, auf einem Schlachtfeld eine Wunde zu erleiden, darfst du eine andere :urukhai: Karte entdecken, um den Freie Völker Spieler stattdessen eine Karte ziehen zu lassen.
+  lore: Trotz ihrer Blutrünstigkeit kämpfen Sarumans Kreaturen geordnet und geeint.

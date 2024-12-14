@@ -1,0 +1,13 @@
+set: '1'
+rarity: U
+number: '360'
+unique: true
+culture: ''
+type: Site
+cost: 9
+siteArrow: Left
+en:
+  title: Emyn Muil
+  subtitle: ''
+  text: '**Maneuver:** Exert your minion to make that minion **fierce** until the regroup phase.'
+  lore: ''

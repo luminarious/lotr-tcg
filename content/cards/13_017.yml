@@ -1,0 +1,20 @@
+set: '13'
+rarity: U
+number: '17'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Kindreds Estranged
+  subtitle: ''
+  text: 'You may remove from the game 4 other :elven: cards in your discard pile to play this event from your discard pile. Then remove this event from the game. Make a minion skirmishing your Elf at a forest or river site strength –3.'
+  lore: ‘Men multiply and the Firstborn decrease….’
+de:
+  title: Den Eigenen entfremdet
+  subtitle: ''
+  text: |-
+    Du darfst 4 andere :elven: Karten aus deinem Ablagestapel ganz aus dem Spiel entfernen, um dieses Ereignis aus deinem Ablagestapel zu spielen. Entferne dann dieses Ereignis ganz aus dem Spiel.  
+    Gib einem Diener Stärke -3, der in einem Wald oder an einem Fluss gegen einen deiner Elben kämpft.
+  lore: ''

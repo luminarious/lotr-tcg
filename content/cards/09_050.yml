@@ -1,0 +1,20 @@
+set: '9'
+rarity: R
+number: '50'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Everyone Knows
+  subtitle: ''
+  text: |-
+    **Tale.** Each unbound Hobbit is strength +1 for each vitality over 3 he or she has.   
+    **Skirmish:** Prevent an unbound Hobbit from being overwhelmed unless his or her strength is tripled. Discard this condition. 
+  lore: ‘…I'm the tall one, you're the short one.’
+de:
+  title: Alle wissen es
+  subtitle: ''
+  text: '**Erzählung.** Jeder nicht-verbundene Hobbit erhält Stärke +1 für jeden Lebenspunkt über 3. **Kampf:** Ein nicht-verbundener Hobbit kann nur mit dreifacher Stärke überwältigt werden. Lege diesen Effekt ab.'
+  lore: Ich bin der Große, und du bist der Kleine.

@@ -1,0 +1,43 @@
+set: '5'
+rarity: U
+number: '64'
+unique: true
+culture: Isengard
+type: Possession
+class: Mount
+cost: 4
+str: '+4'
+vit: '+2'
+en:
+  title: War-warg
+  subtitle: ''
+  text: |-
+    Bearer must be a **warg-rider.**  
+    **Response:** If a skirmish special ability is used in a skirmish involving bearer, exert bearer to cancel that action.
+  lore: Bigger and stronger wargs were ridden into battle.
+de:
+  title: Kriegswarg
+  subtitle: ''
+  text: Muss auf einen Wargreiter gespielt werden. **Reaktion:** Wenn eine spezielle Kampf-fähigkeit in einem Kampf eingesetzt wird, an dem der Reiter beteiligt ist, strenge ihn an, um dies zu verhindern.
+  lore: Die großen und starken Warge wurden in den Kampf geführt.
+fr:
+  title: Ouargue de Guerre
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un chevaucheur de ouargue.   
+    **Réponse :** Si une capacité spéciale de combat est utilisée dans un combat qui implique le détenteur, affaiblissez le détenteur pour annuler cette action.
+  lore: Les ouargues les plus forts et les plus gros étaient chevauchés au combat.
+it:
+  title: Mannaro da Guerra
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un **Cavalcalupi.**  
+    **Risposta:** Se un’abilità speciale di schermaglia è usata in una schermaglia che coinvolga il possessore, sforza il possessore per cancellare quell’azione.
+  lore: I Mannari più grandi e più forti erano cavalcati in battaglia.
+es:
+  title: Huargo de Guerra
+  subtitle: ''
+  text: |-
+    El portador debe ser un **Jinete de huargo.**   
+    **Respuesta:** Si se usa una habilidad especial de escaramuza en una escaramuza en la que participe el portador, esfuerza al portador para cancelar esa acción.
+  lore: Huargos más grandes y fuertes eran usados en la batalla.

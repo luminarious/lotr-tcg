@@ -1,0 +1,37 @@
+set: '4'
+rarity: U
+number: '62'
+unique: true
+culture: Elven
+type: Possession
+class: Ranged Weapon
+cost: 1
+en:
+  title: Elven Bow
+  subtitle: ''
+  text: |-
+    Bearer must be an Elf.   
+    Bearer is an **archer**. 
+  lore: No finer bows could defend Helm’s Deep than those of the Golden Wood.
+de:
+  title: Elbenbogen
+  subtitle: ''
+  text: |
+    Muss auf einen Elben gespielt werden. Der Träger ist nun **Bogenschütze.**  
+  lore: Es gab keine besseren Bögen, als die des Goldenen Waldes, um Helms Klamm zu verteidigen.
+fr:
+  title: Arc Elfique
+  subtitle: ''
+  text: |
+    Le détenteur doit être un Elfe. Le détenteur est un **archer.**  
+  lore: Pour la défense du Gouffre de Helm, il était impossible de trouver meilleurs arcs que ceux du Bois Doré.
+it:
+  title: Arco Elfico
+  subtitle: ''
+  text: Il possessore deve essere un Elfo. Il possessore è un **arciere.**
+  lore: Non c'era nessun arco che potesse difendere il Fosso di Helm migliore di quelli provenienti dal Bosco d'Oro.
+es:
+  title: Arco Élfico
+  subtitle: ''
+  text: El portador debe ser un Elfo. El portador es **arquero.**
+  lore: Ningún arco podría ser mejor para defender el Abismo de Helm que los del Bosque Dorado.

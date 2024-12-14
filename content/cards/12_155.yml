@@ -1,0 +1,24 @@
+set: '12'
+rarity: R
+number: '155'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 6
+str: '14'
+vit: '4'
+site: 5
+en:
+  title: Uruk Zealot
+  subtitle: ''
+  text: '**Damage +1.** To play, spot an :urukhai: minion. Each companion who has resistance 0 is strength –3. Each time Uruk Zealot wins a skirmish, you may draw 3 cards.'
+  lore: The Uruk-hai do not question the authority of the White Hand. They know its cause is righteous.
+de:
+  title: Uruk Eiferer
+  subtitle: ''
+  text: |-
+    **Schaden +1**. Entdecke einen :urukhai: Diener, um den Uruk Eiferer zu spielen.  
+    Jeder Gefährte mit Resistenz 0 erhält Stärke -3.  
+    Du darfst jedes Mal, wenn der Uruk Eiferer einen Kampf gewinnt, 3 Karten ziehen.
+  lore: ''

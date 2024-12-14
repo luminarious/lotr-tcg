@@ -1,0 +1,42 @@
+set: '5'
+rarity: R
+number: '70'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 7
+str: '14'
+vit: '4'
+site: 4
+en:
+  title: Army of Haradrim
+  subtitle: ''
+  text: |-
+    **Southron.**  
+    **Skirmish:** Remove :twilight3: to play a :raider: mount from your discard pile.
+  lore: The desert lords of Harad support their huge forces with mammoth war beasts.
+de:
+  title: Heer der Haradrim
+  subtitle: ''
+  text: '**Südländer.** **Kampf** Verringere den Einfluss um :twilight3:, um ein :raider: Reittier aus deinem Ablagestapel zu spielen.'
+  lore: Die Wüstenherrscher von Harad verstärkten ihre Armeen mit gewaltigen Kriegsmammuts.
+fr:
+  title: Armée des Haradrim
+  subtitle: ''
+  text: |-
+    **Suderon**   
+    **Combat :** Retirez :twilight3: pour jouer une monture :raider: de votre pile de défausse.
+  lore: Les seigneurs du désert de Harad soutenaient leurs forces avec de massives bêtes de guerre.
+it:
+  title: Esercito degli Haradrim
+  subtitle: ''
+  text: |-
+    **Sudrone.**   
+    **Schermaglia:** Rimuovi :twilight3: per giocare una cavalcatura :raider: dalla tua pila degli scarti.
+  lore: I signori del deserto dell'Harad supportavano le loro truppe con gigantesche bestie da guerra.
+es:
+  title: Ejército de Haradrim
+  subtitle: ''
+  text: '**Sureño.** **Escaramuza:** Quita :twilight3: para jugar una montura :raider: de tu pila de descartes.'
+  lore: Los Señores del Desierto de Harad refuerzan sus grandes fuerzas con mamuts de guerra.

@@ -1,0 +1,39 @@
+set: '3'
+rarity: U
+number: '4'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: A Royal Welcome
+  subtitle: ''
+  text: |-
+
+    **Regroup:** Exert a Dwarf ally to heal a Dwarf companion. 
+  lore: ‘There is even a chance that Dwarves are there, and that in some deep hall of his fathers, Balin son of Fundin may be found.’
+de:
+  title: Ein königlicher Empfang
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. **Sammeln:** Strenge einen Zwergenverbündeten an, um einen Zwergengefährten zu heilen.
+  lore: Es könnte sogar sein, dass Zwerge dort sind und wir Balin, Fundins Sohn, in irgendeiner tiefen Halle seines Vaters finden.
+fr:
+  title: Un Accueil Royal
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez un allié Nain pour guérir un compagnon Nain.'
+  lore: 'Il y a même une chance qu''il y ait des Nains et que l''on puisse y trouver, dans quelque salle profonde de ses ancêtres, Balin fils de Fundin.” '
+it:
+  title: Un Benvenuto Reale
+  subtitle: ''
+  text: |-
+
+    **Raccolta:** Sforza un alleato Nano per curare un compagno Nano.
+  lore: ‘E’ persino possibile che vi abitino ancora i Nani, e che in qualche profonda dimora dei suoi padri si trovi Balin figlio di Fundin.’
+es:
+  title: Una Bienvenida Real
+  subtitle: ''
+  text: |-
+
+    **Reagrupación:** Esfuerza un aliado Enano para curar un compañero Enano.
+  lore: Incluso hay una oportunidad de que haya Enanos, y que en los profundos salones de sus padres, se pueda encontrar a Balin hijo de Fundin.

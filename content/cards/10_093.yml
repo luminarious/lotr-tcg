@@ -1,0 +1,21 @@
+set: '10'
+rarity: U
+number: '93'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Mordor Wretch
+  subtitle: ''
+  text: '**Shadow:** Spot 4 Free Peoples cultures and exert another :sauron: minion twice to add :twilight3: and draw a card. '
+  lore: …a braying of horns… shook the very stones and stunned men’s ears.
+de:
+  title: Mordor Schuft
+  subtitle: ''
+  text: '**Schatten:** Entdecke 4 Kulturen der Freien Völker und strenge einen anderen :sauron: Diener zweimal an, um den Einfluss um :twilight3: zu erhöhen und eine Karte zu ziehen.'
+  lore: … ein Schmettern von Hörnern, das die Steine erbeben ließ und die Ohren der Menschen betäubte.

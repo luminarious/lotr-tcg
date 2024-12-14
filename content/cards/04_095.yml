@@ -1,0 +1,39 @@
+set: '4'
+rarity: R
+number: '95'
+unique: true
+culture: Gandalf
+type: Event
+class: Response
+cost: 3
+en:
+  title: Into Dark Tunnels
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Response:** If you play a :gandalf: event, exert Gandalf twice to place that event in your hand instead of your discard pile. 
+  lore: ‘Even Sauron knows them not. They are older than he. Now I have walked there, but I will bring no report to darken the light of day.’
+de:
+  title: In dunkle Gänge
+  subtitle: ''
+  text: '**Zauberspruch.** **Reaktion:** Wenn du ein :gandalf: Ereignis spielst, strenge Gandalf zweimal an, um dieses Ereignis wieder auf deine Hand zu nehmen, anstatt es auf den Ablagestapel zu legen.'
+  lore: Selbst Sauron kennt sie nicht. Sie sind älter als er. Nun bin ich dort gewandert, doch ich will nicht darüber berichten, um das Licht des Tages nicht zu verdunkeln.
+fr:
+  title: Dans de Noirs Tunnels
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Réponse :** Si vous jouez un événement :gandalf:, affaiblissez Gandalf deux fois pour mettre cet événement dans votre main et non dans la pile de défausse.
+  lore: 'Même Sauron ne les connaît pas. Elles sont plus vieilles que lui. J''y ai marché, mais je n''en ferai aucun récit qui enténébrerait la lumière du jour.” '
+it:
+  title: Nei Tunnel Oscuri
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Risposta:** Se giochi un evento :gandalf:, sforza Gandalf due volte per aggiungere quell’evento alla tua mano invece che piazzarlo nella tua pila degli scarti.
+  lore: ‘Persino Sauron non li conosce. Essi sono più vecchi di lui.’
+es:
+  title: En Túneles Oscuros
+  subtitle: ''
+  text: '**Hechizo.** **Respuesta:** Si juegas un evento :gandalf:, esfuerza a Gandalf dos veces para poner ese evento en tu mano en vez de en tu pila de descartes.'
+  lore: Ni siquiera Sauron las conoce. Son más viejas que él. Recorrí esos caminos, pero nada diré que oscurezca la luz del día.

@@ -1,0 +1,38 @@
+set: '4'
+rarity: U
+number: '24'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '1'
+site: 3
+en:
+  title: Hillman Rabble
+  subtitle: ''
+  text: |-
+    Each time this minion wins a skirmish, you may stack it on a site you control.   
+    **Shadow:** If stacked on a site you control, play this minion. Its twilight cost is -2. 
+  lore: The relentless fury of the Dunlendings consumed one village after another.
+de:
+  title: Bergbewohnergesindel
+  subtitle: ''
+  text: Jedes Mal, wenn dieser Diener einen Kampf gewinnt, darfst du ihn auf einem Ort lagern, den du kontrollierst. **Schatten:** Spiele diesen Diener mit um 2 reduzierten Zwielichtkosten, wenn er auf einem Ort lagert, den du kontrollierst.
+  lore: Die unerbittliche Wut der Dunländer verschlang ein Dorf nach dem anderen.
+fr:
+  title: Foule des Collines
+  subtitle: ''
+  text: 'Chaque fois que ce séide gagne un combat, vous pouvez l’empiler sur un site que vous contrôlez. Ombre : Si ce séide est empilé sur un site que vous contrôlez, jouez-le. Son coût crépusculaire est de -2.'
+  lore: La furie sans bornes de Ceux du Pays de Dun détruisit un village après l'autre.
+it:
+  title: Folla delle Colline
+  subtitle: ''
+  text: Ogni volta che questo servitore vince una schermaglia, puoi impilarlo su un sito che controlli. **Ombra:** Se impilato su un sito che controlli, gioca questo servitore. Sottrai -2 al suo costo **Crepuscolo.**
+  lore: La furia inarrestabile dei Dunlandiani consumò un villaggio dopo l'altro.
+es:
+  title: Populacho Montañes
+  subtitle: ''
+  text: Cada vez que este siervo gana una escaramuza, puedes apilarlo en un sitio que controles. **Sombra:** Si está apilado en un sitio que controles, juega este siervo. Su coste de penumbra es -2.
+  lore: La implacable furia de los Dunlendinos consumió un poblado tras otro.

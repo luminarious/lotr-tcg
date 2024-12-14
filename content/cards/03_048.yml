@@ -1,0 +1,33 @@
+set: '3'
+rarity: C
+number: '48'
+unique: true
+culture: Gondor
+type: Event
+class: Response
+cost: 0
+en:
+  title: We Must Go Warily
+  subtitle: ''
+  text: '**Response:** If the fellowship moves in the regroup phase, exert a :gondor: companion twice to make each minion’s twilight cost +1 until the next regroup phase.'
+  lore: '‘This is the lawn of Parth Galen: a fair place in the summer days of old. Let us hope that no evil has yet come here.’'
+de:
+  title: Wir müssen vorsichtig sein
+  subtitle: ''
+  text: '**Reaktion:** Strenge einen :gondor: Gefährten an, wenn sich die Gemeinschaft in der Sammelphase bewegt, um die Zwielichtkosten für jeden Diener bis zur nächsten Sammelphase um 1 zu erhöhen.'
+  lore: 'Das ist die Wiese Parth Galen: ein schöner Ort einstmals in Sommertagen. Lasst uns hoffen, dass noch nichts Böses hierher gekommen ist.'
+fr:
+  title: Il Faut Avancer avec Circonspection
+  subtitle: ''
+  text: '**Réponse :** Si la compagnie se déplace durant la phase de ralliement, affaiblissez un compagnon :gondor: duex fois pour que le coût crépusculaire de chaque séide soit de +1 jusqu’à la prochaine phase de ralliement.'
+  lore: 'Cette pelouse est celle de Parth Galen: un bel endroit les jours d''été dans l''ancien temps. Espérons qu''aucun mal n''est encore parvenu jusqu''ici. “ '
+it:
+  title: Dovremo Avanzare con Cautela
+  subtitle: ''
+  text: '**Risposta:** Se la compagnia si muove durante e fase di raccolta, sforza un compagno :gondor: per aggiungere +1 al costo crepuscolo di ogni servitore fino alla prossima fase di raccolta.'
+  lore: '‘Ecco il prato di Parth Galen: un bel posto nei giorni estivi dei tempi che furono. Speriamo che il male non vi sia ancora giunto.’'
+es:
+  title: Debemos ir con cautela
+  subtitle: ''
+  text: '**Respuesta:** Si la comunidad se mueve durante la fase de reagrupación, esfuerza un compañero :gondor: para hacer que el coste de penumbra de cada siervo sea +2 hasta la próxima fase de reagrupación.'
+  lore: 'Esta es la pradera de Parth Galen: un sitio hermoso en los días de verano de antaño. Esperemos que el mal todavía no haya llegado aquí.'

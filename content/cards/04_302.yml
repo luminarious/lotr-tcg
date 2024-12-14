@@ -1,0 +1,24 @@
+set: '4'
+rarity: C
+number: '302'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 0
+str: '3'
+vit: '4'
+res: '10'
+signet: Signet_Gandalf
+en:
+  title: Frodo
+  subtitle: Tired Traveller
+  text: |-
+    **Ring-bearer (resistance 10).**  
+    **Fellowship:** Play a Ring-bound companion to remove a burden. 
+  lore: ‘We have come by long ways – out of Rivendell, or Imladris as some call it.’
+fr:
+  title: Frodon
+  subtitle: Voyageur Fatigué
+  text: '**Porteur de l’Anneau (résistance 10).** **Compagnie :** Jouez un compagnon associé à l’Anneau pour retirer un point-fardeau.'
+  lore: 'Nous sommes venus par de longs chemins – de Fondcombe, ou Imladris comme d''aucuns l''appellent.” '

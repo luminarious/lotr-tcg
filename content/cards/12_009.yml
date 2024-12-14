@@ -1,0 +1,18 @@
+set: '12'
+rarity: R
+number: '9'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Loud and Strong
+  subtitle: ''
+  text: '**Skirmish:** Discard a :dwarven: card from hand and spot a minion skirmishing a Dwarf to make that minion **fierce** until the regroup phase.'
+  lore: '‘Alas! My axe is notched: the forty-second had an iron collar on his neck.’'
+de:
+  title: Laut und kräftig
+  subtitle: ''
+  text: '**Kampf:** Lege eine :dwarven: Karte aus deiner Hand ab und entdecke einen Diener, der gegen einen Zwerg kämpft, um diesen Diener bis zur Sammelphase **erbittert** zu machen.'
+  lore: 'Leider ist meine Axt jetzt schartig: der zweiund-vierzigste hatte einen eisernen Kragen um den Hals.'

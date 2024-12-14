@@ -1,0 +1,45 @@
+set: '2'
+rarity: R
+number: '52'
+unique: true
+culture: Moria
+type: Minion
+race: Balrog
+cost: 14
+str: '17'
+vit: '5'
+site: 4
+en:
+  title: The Balrog
+  subtitle: Flame of Udûn
+  text: |-
+    **Damage +1.** **Fierce.** To play, spot a :moria: Orc.   
+    Discard The Balrog if not underground.   
+    **Shadow:** Exert The Balrog and remove :twilight2: to play a :moria: Orc from your discard pile. 
+  lore: …suddenly it drew itself up to a great height, and its wings were spread from wall to wall….
+de:
+  title: Der Balrog
+  subtitle: Flamme von Udûn
+  text: '**Schaden +1.** **Erbittert.** Entdecke einen :moria: Ork, um den Balrog zu spielen. Lege den Balrog ab, wenn er sich nicht an einem unterirdischen Ort befindet. **Schatten:** Strenge den Balrog an und verringere den Einfluss um :twilight2:, um einen :moria: Ork aus deinem Ablagestapel zu spielen.'
+  lore: …und plötzlich richtete er sich zu seiner ganzen Größe auf, und seine Flügel erstreckten sich von Wand zu Wand…
+fr:
+  title: Le Balrog
+  subtitle: La Flamme d'Udûn
+  text: |-
+    **Dégâts +1.** **Acharné.**  
+    Pour jouer, désignez un Orque :moria:. Défaussez Le Balrog si vous n’êtes pas à un site souterrain.  
+    Ombre : Affaiblissez Le Balrog et retirez :twilight2: pour jouer un Orque :moria: de votre pile de défausse.
+  lore: 'La forme s''avança … elle se redressa soudain jusqu''à une grande stature, et ses ailes s''étendirent d''un mur à l''autre …” '
+it:
+  title: Il Balrog
+  subtitle: Fiamma di Udûn
+  text: |-
+    **Danno +1.** **Feroce.**  
+    Per giocarlo, avvista un Orco :moria:. Scarta Il Balrog se non è in un sito **Sotterraneo.**  
+    **Ombra:** Sforza Il Balrog e rimuovi :twilight2: per giocare un Orco :moria: dalla tua pila degli scarti.
+  lore: …d'un tratto si eresse a una immensa altezza, estendendo le ali da una parete all'altra…
+es:
+  title: El Balrog
+  subtitle: Llama de Udûn
+  text: '**Daño +1.** **Fiero.** Para jugarlo, avista un Orco :moria:. Descarta El Balrog si no está en un sitio **Subterráneo.** **Sombra:** Esfuerza El Balrog y quita :twilight2: para jugar un Orco :moria: de tu pila de descartes.'
+  lore: …y de pronto se enderezó hasta alcanzar una gran estatura, extendiendo las alas de muro a muro…

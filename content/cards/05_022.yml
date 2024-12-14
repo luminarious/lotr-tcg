@@ -1,0 +1,38 @@
+set: '5'
+rarity: U
+number: '22'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Evil-smelling Fens
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    Each site on the adventure path is a **marsh.**  
+    **Shadow:** Exert Gollum twice and discard this condition to play a minion from your discard pile.
+  lore: ‘No birds here. There are snakeses, wormses, things in the pools. Lots of things, lots of nasty things.’
+de:
+  title: Übelriechende Fenne
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. Alle Orte des Abenteuerpfades sind Sümpfe. **Schatten:** Strenge Gollum zweimal an und lege diesen Effekt ab, um einen Diener aus deinem Ablagestapel zu spielen.
+  lore: Keine Vögel hier. Es gibt Schlangen, Würmer, Tiere in den Tümpeln. Haufenweise Tiere, haufenweis hässliche Tiere.
+fr:
+  title: Marécages Puants
+  subtitle: ''
+  text: |-
+
+    Chaque site dans le chemin de l’aventure est un marais. **Ombre :** Affaiblissez Gollum deux fois et défaussez cette situation pour jouer un séide de votre pile de défausse.
+  lore: 'Pas d''oiseaux ici. Il y a des serpents, des vers, des choses dans les mares. Des tas de choses, des tas de vilaines choses.” '
+it:
+  title: Fetide Paludi
+  subtitle: ''
+  text: Ogni sito sul cammino dell’avventura è una **Palude.** **Ombra:** Sforza due volte Gollum e scarta questa condizione per giocare un servitore dalla tua pila degli scarti.
+  lore: ‘Niente uccelli qui. Ci sono serpenti, vermi, altre cose negli stagni. Tante cose, tante cose brutte.’
+es:
+  title: Marismas pestilentes
+  subtitle: ''
+  text: Cada sitio en el camino de aventura es un **Pantano.** ****Sombra:**** Esfuerza dos veces a Gollum y descarta esta condición para jugar un siervo de tu pila de descartes.
+  lore: Nada de pájaros aquí. Hay serpientes, gusanos, cosas de las ciénagas. Muchas cosas, montones de cosas inmundas.

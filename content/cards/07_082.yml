@@ -1,0 +1,15 @@
+set: '7'
+rarity: C
+number: '82'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Cirion
+  subtitle: ''
+  text: While you have only 4 or 5 cards in hand, Cirion is strength +2.
+  lore: So now at last the City was besieged…

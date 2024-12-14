@@ -1,0 +1,38 @@
+set: '4'
+rarity: R
+number: '23'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 5
+str: '12'
+vit: '1'
+site: 3
+en:
+  title: Hillman Mob
+  subtitle: ''
+  text: 'Each time this minion wins a skirmish, you may play a :dunland: Man from hand; his twilight cost is -2. That Man is **fierce** and **damage +1** until the regroup phase. '
+  lore: ‘That old hatred Saruman has inflamed.’
+de:
+  title: Bergbewohnerpöbel
+  subtitle: ''
+  text: 'Jedes Mal, wenn dieser Diener einen Kampf gewinnt, darfst du einen :dunland: Menschen mit um 2 reduzierten Zwielichtkosten aus deiner Hand spielen. Dieser Mensch erhält bis zur Sammelphase **Schaden +1** und ist **Erbittert.**'
+  lore: Diesen alten Hass hat Saruman geschürt.
+fr:
+  title: Meute des Collines
+  subtitle: ''
+  text: 'Chaque fois que ce séide remporte un combat, vous pouvez jouer un Homme :dunland: de votre main; son coût crépusculaire est de -2. Cet Homme est **acharné** et inflige des **dégâts +1** jusqu’à la phase de ralliement.'
+  lore: 'Saroumane a enflammé cette ancienne haine. ” '
+it:
+  title: Torma delle Colline
+  subtitle: ''
+  text: |-
+    Ogni volta che questo servitore vince una schermaglia, puoi giocare dalla mano un Uomo :dunland:; sottrai -2 al suo costo **Crepuscolo.**  
+    Quell’Uomo è **Feroce** e ha **Danno +1** fino alla fase di raccolta.
+  lore: ‘Saruman ha infiammato e alimentato quell'antico odio.’
+es:
+  title: Turba De Montañeses
+  subtitle: ''
+  text: 'Cada vez que este siervo gana una escaramuza, puedes jugar un Hombre :dunland: de tu mano; su coste de penumbra es -2. Ese Hombre es **daño +1** y **fiero** hasta la fase de reagrupación.'
+  lore: Este antiguo odio ha inflamado a Saruman.

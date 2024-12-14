@@ -1,0 +1,18 @@
+set: '15'
+rarity: U
+number: '90'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Rapt Hillman
+  subtitle: ''
+  text: |-
+    At the start of the regroup phase, the Free People’s player may liberate a site. You may spot 3 Men to prevent this.  
+    **Maneuver:** Spot another :men: Man and exert this minion to take control of a site.
+  lore: Dunlendings take delight in destruction.

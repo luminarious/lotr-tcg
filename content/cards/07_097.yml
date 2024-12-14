@@ -1,0 +1,21 @@
+set: '7'
+rarity: R
+number: '97'
+unique: true
+culture: Gondor
+type: Ally
+race: Man
+cost: 1
+str: '6'
+vit: '1'
+site: 3T
+en:
+  title: Gondorian Merchant
+  subtitle: ''
+  text: '**Maneuver:** If you have initiative, discard 2 cards from hand to make the site number of a minion +2 until the regroup phase.'
+  lore: …they talked now of Gondor and its ways and customs….
+de:
+  title: Gondorischer Händler
+  subtitle: ''
+  text: '**Manöver:** Lege 2 Karten aus deiner Hand ab, wenn du die Initiative besitzt, um die Ortskennzahl eines Dieners bis zur Sammelphase um 2 zu erhöhen.'
+  lore: …sie sprachen bald von Gondor und seinen Sitten und Bräuchen…

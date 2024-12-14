@@ -1,0 +1,20 @@
+set: '7'
+rarity: C
+number: '246'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Rohirrim Guard
+  subtitle: ''
+  text: '**Skirmish:** Discard a card from hand to exert a minion skirmishing this companion.'
+  lore: …and strengthened his host by some three score of Riders that came late to the weapontake.
+de:
+  title: Rohirrim Wache
+  subtitle: ''
+  text: '**Kampf:** Lege eine Karte aus deiner Hand ab, um einen Diener anzustrengen, der gegen diesen Gefährten kämpft.'
+  lore: … und verstärkte sein Heer um einige sechzig Reiter, die zum Waffenempfang zu spät gekommen waren.

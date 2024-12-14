@@ -1,0 +1,36 @@
+set: '2'
+rarity: C
+number: '63'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '1'
+site: 4
+en:
+  title: Goblin Reinforcements
+  subtitle: ''
+  text: 'When you play this minion, you may heal a :moria: minion. '
+  lore: ‘We don't have a moment! Come nightfall these hills will swarm with Orcs!’
+de:
+  title: Goblin Verstärkung
+  subtitle: ''
+  text: 'Wenn du diesen Diener ausspielst, darfst du einen :moria: Diener heilen.'
+  lore: Sobald die Nacht hereinbricht, wimmelt es hier nur so von Orks.
+fr:
+  title: Renforts Gobelins
+  subtitle: ''
+  text: Lorsque vous jouez ce séide, vous pouvez guérir un séide :moria:.
+  lore: 'Nous n''avons pas un instant à perdre! À la nuit tombée, ces collines grouilleront d''orques! '
+it:
+  title: Rinforzi Goblin
+  subtitle: ''
+  text: Quando giochi questo servitore, puoi curare un servitore :moria:.
+  lore: ‘Non abbiamo tempo! Appena si farà buio queste colline brulicheranno di Orchi!’
+es:
+  title: Refuerzos Goblin
+  subtitle: ''
+  text: Cuando juegas este siervo, puedes curar un siervo :moria:.
+  lore: ¡No disponemos de un momento! ¡Cuando caiga la noche estas colinas estarán atestadas de Orcos!

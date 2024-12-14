@@ -1,0 +1,25 @@
+set: '13'
+rarity: R
+number: '40'
+unique: true
+culture: Gandalf
+type: Possession
+class: Mount
+cost: 2
+str: '+1'
+en:
+  title: Shadowfax
+  subtitle: Roaring Wind
+  text: |-
+    Bearer must be a Wizard.  
+    When you play Shadowfax, you may reinforce a :gandalf: token.  
+    **Skirmish:** Remove 2 :gandalf: tokens to wound a minion skirmishing bearer.
+  lore: Then Shadowfax gathered himself together and sprang away, and the night flowed over him….
+de:
+  title: Schattenfell
+  subtitle: Tosender Wind
+  text: |-
+    Muss auf einen Zauberer gespielt werden.  
+    Du darfst eine :gandalf: Marke ergänzen, wenn du Schattenfell spielst.  
+    **Kampf:** Entferne 2 :gandalf: Marken, um einen Diener zu verwunden, der gegen den Reiter kämpft.
+  lore: Dann raffte sich Schattenfell auf und sprang davon, und die Nacht strömte über ihn hinweg….

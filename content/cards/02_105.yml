@@ -1,0 +1,36 @@
+set: '2'
+rarity: R
+number: '105'
+unique: true
+culture: Shire
+type: Artifact
+class: Armor
+cost: 2
+en:
+  title: Mithril-coat
+  subtitle: ''
+  text: |-
+    Bearer must be Frodo.   
+    The minion archery total is -1.   
+    Each minion skirmishing Frodo does not gain strength bonuses from weapons and loses all damage bonuses. 
+  lore: ‘…its worth was greater than the value of the whole Shire and everything in it.’
+de:
+  title: Mithrilharnisch
+  subtitle: ''
+  text: Muss auf Frodo gespielt werden. Der Fernkampfwert der Diener wird um 1 reduziert. Diener, die gegen Frodo kämpfen, erhalten keine Stärkeboni durch Waffen und verlieren alle Schadensboni.
+  lore: … aber der Harnisch war mehr wert als das gesamte Auenland und alles darinnen.
+fr:
+  title: Cotte de Mithril
+  subtitle: ''
+  text: Le détenteur doit être Frodon. Le total d’archerie des séides est de -1. Chaque séide en combat avec Frodon ne bénéficie d’aucun bonus de force provenant d’armes, et perd tous les bonus aux dégâts.
+  lore: '… la valeur en était plus grande que celle de la Comté entière avec tout ce qu''elle contient.” '
+it:
+  title: Armatura di Mithril
+  subtitle: ''
+  text: Il possessore deve essere Frodo. Sottrai -1 al totale degli arcieri tra i servitori. Ogni servitore che schermaglia con Frodo non guadagna i bonus della forza dalle armi e perde tutti i bonus dei danni.
+  lore: ‘…essa valeva più dell'intera Contea e di tutto ciò che vi si trova.’
+es:
+  title: La cota de mithril
+  subtitle: ''
+  text: El portador debe ser Frodo. El total de arquería de los siervos es -1. Cada siervo que esté en una escaramuza contra Frodo no gana bonos de fuerza por armas y pierde todos los bonos de daño.
+  lore: …su valor es el de la Comarca entera, y todo lo que ella contiene.

@@ -1,0 +1,35 @@
+set: '4'
+rarity: C
+number: '129'
+unique: true
+culture: Gondor
+type: Event
+class: Fellowship, Regroup
+cost: 0
+en:
+  title: Pathfinder
+  subtitle: ''
+  text: '**Fellowship or Regroup:** Spot a ranger to play the fellowship’s next site (replacing opponent’s site if necessary). '
+  lore: ‘If you take my counsel, you will not turn eastward yet. Go straight on, for thus you will have the cover of the woodland for many miles.’
+de:
+  title: Pfadfinder
+  subtitle: ''
+  text: Gemeinschaft oder **Sammeln:** Entdecke einen Waldläufer, um den nächsten Ort deiner Gemeinschaft auszuspielen (und nötigenfalls die Ortskarte eines Gegenspielers zu ersetzen).
+  lore: Wenn Ihr meinem Rat folgt, dann werdet Ihr Euch noch nicht nach Osten wenden. Geht geradeaus weiter, denn so werdet Ihr auf viele Meilen durch den Wald gedeckt sein.
+fr:
+  title: Éclaireur
+  subtitle: ''
+  text: Compagnie ou **Ralliement :** Désignez un rôdeur pour jouer le prochain site de la compagnie (en remplaçant le site d’un adversaire si nécessaire).
+  lore: 'Si vous suivez mon conseil, vous ne tournerez pas encore vers l''est. Continuez tout droit, car vous aurez ainsi l''abri de la forêt sur de nombreux milles.” '
+it:
+  title: Esploratore
+  subtitle: ''
+  text: |-
+    Compagnia o   
+    **Raccolta:** Avvista un ramingo per giocare il prossimo sito della compagnia (rimpiazzando il sito dell’avversario, se necessario).
+  lore: ‘Seguite il mio consiglio, e non puntate ancora verso est. Continuate dritti, e potrete percorrere molte miglia al coperto nei boschi.’
+es:
+  title: Explorador
+  subtitle: ''
+  text: '**Comunidad** o **Reagrupación:** Avista un Montaraz para jugar el próximo sitio de la comunidad (reemplazando el sitio del oponente si es necesario).'
+  lore: Si seguís mi consejo, no tomaréis hacia el este. Continuad en línea recta, pues así tendréis el abrigo de los bosques durante muchas millas.

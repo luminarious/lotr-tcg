@@ -1,0 +1,16 @@
+set: '15'
+rarity: U
+number: '67'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 3
+str: '-2'
+en:
+  title: Portico
+  subtitle: ''
+  text: |-
+    **Fortification**. This condition is twilight cost -1 for each :gondor: ranger you spot.  
+    **Skirmish:** Exert a :gondor: Man or spot 2 rangers to transfer this condition from your support area to a minion skirmishing a :gondor: Man.
+  lore: The doors of Minas Tirith were meant to keep out more than Orcs.

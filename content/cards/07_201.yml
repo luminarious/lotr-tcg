@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '201'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Morgul Spearman
+  subtitle: ''
+  text: While you can spot a Nazgûl, the Free Peoples player must exert a companion to assign this minion to a skirmish.
+  lore: ‘And we have learned… that the Black Captain leads them once again….’
+de:
+  title: Morgul Speerträger
+  subtitle: ''
+  text: Solange du einen Nazgûl entdecken kannst, muss der Freie Völker Spieler einen Gefährten anstrengen, um diesen Diener einem Kampf zuzuweisen.
+  lore: Und wir haben erfahren… dass der Schwarze Heermeister sie wieder führt…

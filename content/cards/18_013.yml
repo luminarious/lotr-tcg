@@ -1,0 +1,16 @@
+set: '18'
+rarity: R
+number: '13'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Haldir
+  subtitle: Warrior Messenger
+  text: '**Skirmish:** Exert Haldir or discard a :elven: card from hand to make a minion skirmishing Haldir strength -2.'
+  lore: I bring word from Elrond of Rivendell.

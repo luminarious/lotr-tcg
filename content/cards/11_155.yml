@@ -1,0 +1,20 @@
+set: '11'
+rarity: C
+number: '155'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Riding Like the Wind
+  subtitle: ''
+  text: |-
+    To play, exert a :rohan: Man.   
+    While you can spot 2 :rohan: mounts, the move limit is +1. Each of your companions that is not mounted is strength –1.
+  lore: The horsemen, following the trail, had turned from the river and were drawing near the downs.
+de:
+  title: Reiten wie der Wind
+  subtitle: ''
+  text: 'Strenge einen :rohan: Menschen an, um diese Karte zu spielen. Solange du 2 :rohan: Reittiere entdecken kannst, erhöht sich die Bewegungsreichweite um 1. Jeder deiner unberittenen Gefährten erhält Stärke -1.'
+  lore: Die Reiter, die der Orkspur folgten, verließen den Fluss und wandten sich dem Höhenzug zu.

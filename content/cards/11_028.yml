@@ -1,0 +1,21 @@
+set: '11'
+rarity: U
+number: '28'
+unique: true
+culture: Gandalf
+type: Possession
+class: Support Area
+cost: 1
+en:
+  title: The Art of Gandalf
+  subtitle: ''
+  text: |-
+    To play, spot a :gandalf: Wizard.   
+    **Regroup:** Stack a spell from hand here.   
+    **Fellowship:** Discard a :gandalf: card from hand to take a card stacked here into hand. 
+  lore: 'The fireworks were by Gandalf: they were not only brought by him, but designed and made by him….'
+de:
+  title: Gandalfs Kunst
+  subtitle: ''
+  text: 'Entdecke einen :gandalf: Zauberer, um diese Karte zu spielen. **Sammeln:** Lagere einen Zauberspruch von deiner Hand hier. **Gemeinschaft:** Lege eine :gandalf: Karte von deiner Hand ab, um eine hier gelagerte Karte auf die Hand zu nehmen.'
+  lore: 'Das Feuerwerk war Gandalfs Sache: er hatte es nicht nur gebracht, sondern auch selbst… hergestellt….'

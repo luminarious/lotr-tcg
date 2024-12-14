@@ -1,0 +1,37 @@
+set: '1'
+rarity: U
+number: '220'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Not Easily Destroyed
+  subtitle: ''
+  text: |-
+
+    **Maneuver** or **Skirmish:** Remove :twilight3: to heal a Nazgûl.
+  lore: ‘They were Kings… great Kings of Men. Sauron gave to them Nine Rings of Power and with them the promise of eternal rule… unending life.’
+de:
+  title: Nicht leicht zu töten
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. **Manöver** oder **Kampf** Verringere den Einfluss um :twilight3:, um einen Nazgûl zu heilen.
+  lore: Sie waren Könige…große Könige der Menschen. Sauron gab ihnen neun Ringe der Macht mit dem Versprechen unendlicher Herrschaft und ewigen Lebens.
+fr:
+  title: Difficilement Détruit
+  subtitle: ''
+  text: 'Manœuvre ou **Combat :** Retirez :twilight3: pour guérir un Nazgûl.'
+  lore: ‘Il s'agissait de Rois … de grands Rois des Hommes. Sauron leur donna Neuf Anneaux de Puissance et avec eux la promesse d'une domination éternelle … une vie sans fin.’
+it:
+  title: Non Facili da Distruggere
+  subtitle: ''
+  text: |-
+    **Manovra** o   
+    **Schermaglia:** Rimuovi :twilight3: per curare un Nazgûl.
+  lore: ‘Erano Re… grandi Re degli Uomini. Sauron diede loro Nove Anelli del Potere e con loro la promessa di un dominio eterno… di una vita senza fine.’
+es:
+  title: No Destruidos Fácilmente
+  subtitle: ''
+  text: '**Maniobra** o **Escaramuza:** Quita :twilight3: para curar un Nazgûl.'
+  lore: Eran Reyes… Grandes Reyes de los Hombres. Sauron les dio Nueve Anillos de Poder y con ellos la promesa de gobernar eternamente… Vida interminable.

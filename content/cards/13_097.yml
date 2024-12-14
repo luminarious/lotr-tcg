@@ -1,0 +1,23 @@
+set: '13'
+rarity: C
+number: '97'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '12'
+vit: '2'
+site: 4
+en:
+  title: Pirate Cutthroat
+  subtitle: ''
+  text: |-
+    To play, spot a :men: card in your support area.  
+    **Shadow:** Exert this minion and spot a Free Peoples condition to reinforce a :men: token for each card you spot that has the same card title as that condition.
+  lore: Prisoners are never taken by the Corsairs of Umbar.
+de:
+  title: Mordlustiger Pirat
+  subtitle: ''
+  text: 'Entdecke eine :men: Karte in deinem Unter-stützungsbereich, um diesen Diener zu spielen.**Schatten:** Strenge diesen Diener an und entdecke einen Freie Völker Effekt, um eine :men: Marke für jeden Karte mit dem gleichen Namen wie der Effekt, die du entdeckst, zu ergänzen.'
+  lore: Die Corsaren von Umbar machten keine Gefangenen.

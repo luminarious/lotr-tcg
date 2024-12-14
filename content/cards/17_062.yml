@@ -1,0 +1,16 @@
+set: '17'
+rarity: C
+number: '62'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '2'
+site: 4
+en:
+  title: Vengeful Savage
+  subtitle: ''
+  text: 'Each time this minion wins a skirmish, you may stack a :men: minion from your discard pile on a :men: possession in your support area.'
+  lore: '''"We will take their king."’'

@@ -1,0 +1,25 @@
+set: '7'
+rarity: C
+number: '275'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '2'
+site: 5
+en:
+  title: Gorgoroth Pillager
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    While this minion is stacked on a site you control, besiegers are fierce.
+  lore: ''
+de:
+  title: Gorgoroth Plünderer
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    Solange dieser Diener auf einem Ort gelagert ist, den du kontrollierst, sind alle Belagerer **erbittert**.
+  lore: Große Wurfmaschinen krochen über das Feld…

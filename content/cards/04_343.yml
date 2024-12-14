@@ -1,0 +1,18 @@
+set: '4'
+rarity: U
+number: '343'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Right
+en:
+  title: Ered Nimrais
+  subtitle: ''
+  text: '**Mountain.** The twilight cost of each companion and ally played at Ered Nimrais is +3. '
+  lore: ''
+fr:
+  title: Ered Nimraïs
+  subtitle: ''
+  text: '**Montagne.**Le coût crépusculaire de chaque compagnon et allié est de +3 lorsque joué à Ered Nimraïs.'
+  lore: ''

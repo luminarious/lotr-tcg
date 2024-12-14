@@ -1,0 +1,43 @@
+set: '4'
+rarity: R
+number: '261'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Wrath of Harad
+  subtitle: ''
+  text: |-
+
+    While you can spot a :raider: Man, each Free Peoples event that spots or exerts a ranger gains this cost: “wound a companion.”   
+    **Skirmish:** Discard this condition to make a :raider: Man strength +2. 
+  lore: Massed Southron troops prepared to attack Gondor.
+de:
+  title: Der Zorn Harads
+  subtitle: ''
+  text: |-
+    Spiele diese Karte in deinen Unterstützungs-bereich. Solange du einen :raider: Menschen entdecken kannst, müssen für alle Ereignisse der Freien Völker, die einen Waldläufer entdecken oder anstrengen, folgende Kosten bezahlt werden: „Verwunde einen Gefährten.“  
+    **Kampf:** Lege diesen Effekt ab, um einem :raider: Menschen Stärke +2 zu geben.
+  lore: ''
+fr:
+  title: L'Ire d'Harad
+  subtitle: ''
+  text: |-
+    Jouable dans votre aire de soutien.  
+    Tant que vous pouvez désigner un Homme :raider:, chaque événement des Peuples Libres qui désigne ou affaiblit un rôdeur comporte le coût additionnel « blessez un compagnon ».  
+    **Combat :** Défaussez cette situation pour donner +2 en force à un Homme :raider:.
+  lore: Les troupes suderones se préparaient à attaquer le Gondor.
+it:
+  title: Ira dell'Harad
+  subtitle: ''
+  text: |-
+    Mentre puoi avvistare un Uomo :raider:, aggiungi a ogni evento dei Popoli Liberi che avvista o sforza un ramingo questo costo: “ferisci un compagno.”   
+    **Schermaglia:** Scarta questa condizione per aggiungere +2 alla forza di un Uomo :raider:.
+  lore: Le forze ammassate degli Haradrim si prepararono ad attaccare Gondor.
+es:
+  title: Ira De Harad
+  subtitle: ''
+  text: 'Mientas puedas avistar un Hombre :raider:, cada evento de Gentes Libres que aviste o esfuerce un montaraz gana este coste: “hiere un compañero.” **Escaramuza:** Descarta esta condición para dar a un Hombre :raider: fuerza +2.'
+  lore: Tropas de Sureños en masa se prepararon para atacar Gondor.

@@ -1,0 +1,21 @@
+set: '0'
+rarity: W
+number: '37'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 8
+str: '14'
+vit: '4'
+site: 3
+en:
+  title: The Witch-king
+  subtitle: Conqueror of Arthedain
+  text: |-
+    **Fierce.**  
+    When you play the Witch-king, you may spot an exhausted companion to add 2 threats.  
+    Each time the Witch-king wins a skirmish, you may remove a threat to exert a companion for each companion over 4.
+  lore: |-
+    Hunters Design-a-Card contest entry  
+    Submitted by "Roy1991

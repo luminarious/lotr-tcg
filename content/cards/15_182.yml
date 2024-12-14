@@ -1,0 +1,15 @@
+set: '15'
+rarity: R
+number: '182'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: A Shadow Fell Over Them
+  subtitle: ''
+  text: |-
+    Each time a Nazgûl wins a skirmish, you may exert 2 Nazgûl (or a Nazgûl twice) to add a threat.  
+    **Assignment:** Spot a Nazgûl and remove :twilight4: to play a Nazgûl from your discard pile.
+  lore: …a blind fear and a deadly cold fell on them. Cowering they looked up.

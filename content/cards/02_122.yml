@@ -1,0 +1,16 @@
+set: '2'
+rarity: P
+number: '122'
+unique: true
+culture: Gandalf
+type: Companion
+race: Wizard
+cost: 4
+str: '7'
+vit: '4'
+signet: Signet_Aragorn
+en:
+  title: Gandalf
+  subtitle: The Grey Pilgrim
+  text: 'At the start of each of your turns, you may draw a card. '
+  lore: ‘When evening in the Shire was grey / his footsteps on the Hill were heard; / before the dawn he went away / on journey long without a word.’

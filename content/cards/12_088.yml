@@ -1,0 +1,22 @@
+set: '12'
+rarity: C
+number: '88'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Great Cost
+  subtitle: ''
+  text: |-
+    At the start of each skirmish involving an :orc: minion, you may spot 6 companions to exert a companion in that skirmish.   
+    **Shadow:** Discard this condition and spot an :orc: minion to make the Free Peoples player place a card from his or her hand on top of his or her draw deck.
+  lore: ''
+de:
+  title: Ein hoher Preis
+  subtitle: ''
+  text: |-
+    Zu Beginn jedes Kampfes, an dem ein :orc: Diener beteiligt ist, darfst du 6 Gefährten entdecken, um einen Gefährten in dem Kampf anzustrengen.   
+    **Schatten:** Lege diesen Effekt ab und entdecke einen :orc: Diener, um den Freie Völker Spieler zu zwingen, eine Karte aus seiner Hand auf sein Spieldeck zu legen.
+  lore: ''

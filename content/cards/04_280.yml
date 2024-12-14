@@ -1,0 +1,17 @@
+set: '4'
+rarity: U
+number: '280'
+unique: true
+culture: Rohan
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+2'
+vit: '+1'
+en:
+  title: Herugrim
+  subtitle: ''
+  text: |-
+    Bearer must be Théoden.  
+    He is **damage +1.**
+  lore: ‘Here, lord, is Herugrim, your ancient blade….’

@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '230'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Left
+en:
+  title: Buckland Homestead
+  subtitle: ''
+  text: '**Dwelling.** **Shadow:** Play a Nazgûl to discard a condition from play.'
+  lore: ''
+de:
+  title: Gehöft in Bockland
+  subtitle: ''
+  text: '**Heimstatt. Schatten:** Spiele einen Nazgûl, um einen Effekt aus dem Spiel abzulegen.'
+  lore: ''

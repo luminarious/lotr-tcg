@@ -1,0 +1,15 @@
+set: '0'
+rarity: W
+number: '6'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 4
+str: '8'
+vit: '4'
+en:
+  title: Aragorn
+  subtitle: The Dunádan
+  text: '**Ranger.** **Triumph -** At the start of the maneuver phase, you may wound a minion.'
+  lore: ‘I see… I look foul and feel fair. Is that it?’

@@ -1,0 +1,44 @@
+set: '4'
+rarity: U
+number: '253'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Southron Sentry
+  subtitle: ''
+  text: |-
+    **Southron.**   
+    **Maneuver:** Exert this minion to add :twilight2: for each site you control. 
+  lore: Pickets guarded the borders of the Southron encampment.
+de:
+  title: Südland Wächter
+  subtitle: ''
+  text: |-
+    **Südländer.**  
+    **Manöver:** Strenge diesen Diener an, um den Einfluss für jeden Ort, den du kontrollierst, um :twilight2: zu erhöhen.
+  lore: Palisaden schützten das Lager der Südländer.
+fr:
+  title: Sentinelle Suderone
+  subtitle: ''
+  text: |-
+    **Suderon.**  
+    **Manœuvre :** Affaiblissez ce séide pour ajouter :twilight2: pour chaque site que vous contrôlez.
+  lore: Des piquets montaient la garde aux frontières du campement suderon.
+it:
+  title: Sentinella Sudrone
+  subtitle: ''
+  text: |-
+    **Sudrone.**  
+    **Manovra:** Sforza questo servitore per aggiungere :twilight2: per ogni sito che controlli.
+  lore: I picchetti controllavano i confini dell'accampamento Sudrone.
+es:
+  title: Centinela Sureño
+  subtitle: ''
+  text: '**Sureño.** **Maniobra:** Esfuerza este siervo para añadir :twilight2: por cada sitio que controles.'
+  lore: Los pelotones protegían los límites del campamento sureño.

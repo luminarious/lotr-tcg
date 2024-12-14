@@ -1,0 +1,36 @@
+set: '1'
+rarity: U
+number: '73'
+unique: true
+culture: Gandalf
+type: Possession
+cost: 1
+en:
+  title: Gandalf's Cart
+  subtitle: ''
+  text: |-
+
+    **Fellowship:** Stack a Free Peoples artifact (or possession) from hand on this card, or play a card stacked here as if played from hand.
+  lore: …a cart came in through Bywater… An old man was driving it all alone.
+de:
+  title: Gandalfs Karren
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. **Gemeinschaft.** Lagere ein Freie Völker Artefakt (oder Ausrüstung) aus deiner Hand auf dem Karren; oder du kannst eine gelagerte Karte vom Karren ausspielen, als wäre sie in deiner Hand.
+  lore: …fuhr… ein zweirädriger Karren durch Wasserau. Ein alter Mann saß ganz allein darauf.
+fr:
+  title: Charrette de Gandalf
+  subtitle: ''
+  text: '**Compagnie :** Empilez un artefact (ou une possession) des Peuples Libres de votre main sur cette carte, ou jouez une carte empilée ici comme si elle était jouée de votre main.'
+  lore: …une charrette entra en plein jour par Lèzeau…. Un vieillard la conduisait seul.
+it:
+  title: Il Carro di Gandalf
+  subtitle: ''
+  text: |-
+    Giocalo nella tua area di supporto.   
+    **Compagnia:** Impila un artefatto dei Popoli Liberi (o un bene) dalla mano su questa carta, o gioca una carta impilata su questa carta come se fosse giocata dalla mano.
+  lore: …un carro traversò Lungacque … Era guidato da un vecchio.
+es:
+  title: El Carro de Gandalf
+  subtitle: ''
+  text: '**Comunidad:** Apila un artefacto (o posesión) de Gentes Libres de tu mano en esta carta, o juega una carta apilada aquí como si fuera jugada de tu mano.'
+  lore: …un carro que parecía venir del puente del Brandivino entró en Delagua a pleno día. Lo conducía un viejo.

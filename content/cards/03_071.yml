@@ -1,0 +1,35 @@
+set: '3'
+rarity: R
+number: '71'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Tower of Orthanc
+  subtitle: ''
+  text: |-
+    To play, spot an :isengard: minion.   
+    Each time the fellowship moves, you may spot an exhausted companion to add :twilight3:. 
+  lore: ‘It was not made by Saruman, but by the men of Númenor long ago; and it is very tall and has many secrets; yet it looks not to be a work of craft.’
+de:
+  title: Der Turm Orthanc
+  subtitle: ''
+  text: 'Entdecke einen :isengard: Diener, um diese Karte in deinen Unterstützungsbereich zu spielen. Jedes Mal, wenn sich die Gemeinschaft bewegt, entdecke einen erschöpften Gefährten, um den Einfluss um :twilight3: zu erhöhen.'
+  lore: Er ist nicht von Saruman erbaut worden, sondern vor langer Zeit von den Menschen von Númenor; und er ist sehr hoch und hat viele Geheimnisse.
+fr:
+  title: La Tour d'Orthanc
+  subtitle: ''
+  text: Pour jouer, désignez un séide :isengard:. Chaque fois que la compagnie se déplace, vous pouvez désigner un compagnon épuisé pour ajouter :twilight3:.
+  lore: 'Elle ne fut pas édifiée par Saroumane, mais, il y a bien longtemps, par les Hommes de Númenor; elle est très élevée et contient maint secrets; elle n''a cependant pas l''air d''un ouvrage habile.” '
+it:
+  title: La Torre di Orthanc
+  subtitle: ''
+  text: Per giocarla, avvista un servitore :isengard:. Ogni volta che la compagnia si muove, puoi avvistare un compagno esausto per aggiungere :twilight3:.
+  lore: ‘Non fu costruita da Saruman, bensì dagli Uomini di Númenor tanto tempo fa; è molto alta e custodisce numerosi segreti, eppure non ha l'apparenza di un'opera d'arte.’
+es:
+  title: Torre de Orthanc
+  subtitle: ''
+  text: Para jugarla, avista un siervo :isengard:. Cada vez que la comunidad se mueve, puedes avistar un compañero exhausto para añadir :twilight3:.
+  lore: No fue edificada por Saruman, sino por los Hombres de Númenor, en otra época; y es muy elevada y tiene muchos secretos; sin embargo no parece ser obra de verdaderos artesanos.

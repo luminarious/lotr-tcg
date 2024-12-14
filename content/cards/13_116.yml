@@ -1,0 +1,21 @@
+set: '13'
+rarity: C
+number: '116'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Orc Reaper
+  subtitle: ''
+  text: 'While you can spot a Free Peoples culture token, each minion that has the title Orc Reaper is strength +2. '
+  lore: As they overrun the lands of the Free Peoples, the forces of the Shadow destroy all available resources.
+de:
+  title: Ork Brandschatzer
+  subtitle: ''
+  text: Solange du eine Kulturmarke der Freien Völker entdecken kannst, erhalten alle Diener mit dem Namen Ork Brandschatzer Stärke +2.
+  lore: Die Streitkräfte des Bösen verwüsteten das Land, während sie darüber hinwegfegten.

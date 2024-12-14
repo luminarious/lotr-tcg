@@ -1,0 +1,20 @@
+set: '11'
+rarity: U
+number: '38'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 6
+en:
+  title: New-awakened
+  subtitle: ''
+  text: '**Spell.** **Toil 2.** (For each :gandalf: character you exert when playing this, its twilight cost is –2.) Spot a :gandalf: Wizard to discard 2 conditions from play. '
+  lore: ‘Too long have you sat in shadows and trusted to twisted tales and crooked promptings.’
+de:
+  title: Wiedererweckt
+  subtitle: ''
+  text: |-
+    **Zauberspruch. Mühe 2.**   
+    Entdecke einen :gandalf: Zauberer, um 2 Effekte aus dem Spiel abzulegen.
+  lore: Zu lange habt ihr im Schatten gesessen und entstellten Berichten und verlogenen Einflüsterungen vertraut

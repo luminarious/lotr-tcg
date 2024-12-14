@@ -1,0 +1,37 @@
+set: '4'
+rarity: R
+number: '203'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 6
+str: '12'
+vit: '3'
+site: 5
+en:
+  title: Uruk-hai Horde
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    The twilight cost of this minion is -1 for each site you control. 
+  lore: The rumour of war grew behind them.
+fr:
+  title: Horde d'Ourouk-Haï
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    Le coût crépusculaire de ce séide est de -1 pour chaque site que vous contrôlez.
+  lore: 'La rumeur de la guerre allait en croissant derrière eux. '
+it:
+  title: Orda di Uruk-hai
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    Sottrai -1 al costo crepuscolo di questo servitore per ogni sito che controlli.
+  lore: ‘Il rumore di guerra cresceva alle loro spalle.’
+es:
+  title: Horda De Uruk-hai
+  subtitle: ''
+  text: '**Daño +1.** El coste de penumbra de este siervo es -1 por cada sitio que controles.'
+  lore: Los rumores de la guerra crecían al paso de las huestes.

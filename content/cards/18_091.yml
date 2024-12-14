@@ -1,0 +1,18 @@
+set: '18'
+rarity: C
+number: '91'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '1'
+site: 4
+en:
+  title: Orkish Sneak
+  subtitle: ''
+  text: |-
+    **Assignment:** Spot another :orc: Orc to assign this minion to skirmish a non-:shire: Ring-bearer.  
+    The Free Peoples player may add a burden or exert the Ring-bearer twice to discard this minion.
+  lore: The Orcs attacked the Alliance, rushing across the field that separated the armies.

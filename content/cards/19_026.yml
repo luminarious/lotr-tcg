@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '26'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '7'
+en:
+  title: Éowyn
+  subtitle: Lady of the Mark
+  text: |-
+    **Valiant.**   
+    **Fellowship**: Play a :rohan: companion with a twilight cost of 3 or more; his or her twilight cost is –1.
+  lore: It’s tradition for the women of the court to farewell the men.

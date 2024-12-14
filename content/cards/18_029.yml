@@ -1,0 +1,13 @@
+set: '18'
+rarity: R
+number: '29'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Deceit
+  subtitle: ''
+  text: '**Response:** If a Free Peoples player’s card is about to discard your other :gollum: condition, remove :twilight1: to prevent that.'
+  lore: Presently they were under the shadow, and there in the midst of it they saw the opening of a cave. 'This is the way in,’ said Gollum softly.

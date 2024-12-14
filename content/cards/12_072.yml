@@ -1,0 +1,45 @@
+set: '12'
+rarity: R
+number: '72'
+unique: true
+culture: Man
+type: Possession
+class: Mount
+cost: 2
+str: '+3'
+en:
+  title: Messenger’s Mount
+  subtitle: ''
+  text: |-
+    Bearer must be The Mouth of Sauron. He is **fierce.**   
+    **Response:** If a :men: minion is about to take a wound, remove :twilight3: to prevent that.
+  lore: …it was huge and hideous, and its face was a frightful mask….
+de:
+  title: Pferd des Herolds
+  subtitle: ''
+  text: |-
+    Muss auf Saurons Mund gespielt werden.  
+    Er wird **erbittert**.  
+    **Reaktion:** Verringere den Einfluss um :twilight3:, wenn ein :men: Diener eine Wunde erleidet, um diese zu verhindern.
+  lore: … es war riesig und hässlich, und sein Gesicht war eine grässliche Maske….
+fr:
+  title: Messenger's Mount
+  subtitle: ''
+  text: |-
+    Bearer must be The Mouth of Sauron. He is <b>fierce.</b>   
+    <b>Response:</b> If a :men: minion is about to take a wound, remove :twilight3: to prevent that.
+  lore: …it was huge and hideous, and its face was a frightful mask….
+it:
+  title: Messenger's Mount
+  subtitle: ''
+  text: |-
+    Bearer must be The Mouth of Sauron. He is <b>fierce.</b>   
+    <b>Response:</b> If a :men: minion is about to take a wound, remove :twilight3: to prevent that.
+  lore: …it was huge and hideous, and its face was a frightful mask….
+es:
+  title: Messenger's Mount
+  subtitle: ''
+  text: |-
+    Bearer must be The Mouth of Sauron. He is <b>fierce.</b>   
+    <b>Response:</b> If a :men: minion is about to take a wound, remove :twilight3: to prevent that.
+  lore: …it was huge and hideous, and its face was a frightful mask….

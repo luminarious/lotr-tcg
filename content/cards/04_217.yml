@@ -1,0 +1,47 @@
+set: '4'
+rarity: U
+number: '217'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Desert Lancers
+  subtitle: ''
+  text: |-
+    **Southron.** To play, spot a :raider: Man.   
+    **Regroup:** Exert Desert Lancers twice to take control of a site. 
+  lore: ‘Mordor has allied itself with… the cruel Haradrim….’
+de:
+  title: Wüstenulanen
+  subtitle: ''
+  text: |-
+    **Südländer.**  
+    Entdecke einen :raider: Menschen, um die Wüstenulanen zu spielen. **Sammeln:** Strenge diesen Diener zweimal an, um einen Ort zu kontrollieren.
+  lore: … denn Mordor verbündete sich mit… den grausamen Haradrim….
+fr:
+  title: Lanciers du Désert
+  subtitle: ''
+  text: |-
+    **Suderon.**  
+    Pour jouer, désignez un Homme :raider:. **Ralliement :** Affaiblissez les Lanciers du Désert deux fois pour prendre le contrôle d’un site.
+  lore: '… le Mordor s''est allié… aux cruels Haradrim…” '
+it:
+  title: Lancieri del Deserto
+  subtitle: ''
+  text: |-
+    **Sudrone.**  
+    Per giocarlo, avvista un Uomo :raider:.   
+    **Raccolta:** Sforza due volte Lancieri del Deserto per prendere il controllo di un sito.
+  lore: ‘Mordor si è alleato con… i crudeli Haradrim…’
+es:
+  title: Lanceros Del Desierto
+  subtitle: ''
+  text: |-
+    **Sureño.** Para jugarlo, avista un Hombre :raider:.   
+    **Reagrupación:** Esfuerza este siervo dos veces para tomar el control de un sitio.
+  lore: Mordor se ha aliado con… los crueles Haradrim…

@@ -1,0 +1,36 @@
+set: '4'
+rarity: C
+number: '206'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Uruk-hai Patrol
+  subtitle: ''
+  text: '**Damage +1.** (or **damage +2** while you control a site). '
+  lore: ‘We are the servants of Saruman the Wise….’
+de:
+  title: Uruk-hai Patrouille
+  subtitle: ''
+  text: '**Schaden +1** (oder **Schaden +2**, solange du einen Ort kontrollierst).'
+  lore: Wir sind die Diener von Saruman dem Weisen….
+fr:
+  title: Patrouille Ourouk-Haï
+  subtitle: ''
+  text: Dégâts +1 (ou **dégâts +2** si vous contrôlez un site).
+  lore: 'Nous sommes les serviteurs de Saroumane le Sage…” '
+it:
+  title: Pattuglia di Uruk-hai
+  subtitle: ''
+  text: '**Danno +1** (o **Danno +2** mentre controlli un sito).'
+  lore: ‘Noi siamo i servitori di Saruman il Saggio.’
+es:
+  title: Patrulla De Uruk-hai
+  subtitle: ''
+  text: Daño +1 (o **Daño +2** mientras controles un sitio).
+  lore: Somos los sirvientes de Saruman el Sabio…

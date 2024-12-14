@@ -1,0 +1,36 @@
+set: '3'
+rarity: U
+number: '57'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 4
+str: '8'
+vit: '3'
+site: 4
+en:
+  title: Isengard Retainer
+  subtitle: ''
+  text: '**Regroup:** Exert this minion to make the Free Peoples player wound a companion. '
+  lore: '‘…the Eagles of the mountain went far and wide, and they saw many things: the gathering of wolves and the mustering of Orcs….’'
+de:
+  title: Isengart Gefolgsmann
+  subtitle: ''
+  text: '**Sammeln:** Strenge diesen Diener an, um den Freie Völker Spieler zu zwingen, einen Gefährten zu verwunden.'
+  lore: 'Und die Adler des Gebirges flogen überallhin und sahen viele Dinge: das Sammeln der Wölfe und die Anwerbung der Orks….'
+fr:
+  title: Vassal de l'Isengard
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez ce séide pour obliger le joueur des Peuples Libres à blesser un compagnon.'
+  lore: '…les Aigles des Montagnes allèrent de tous côtés et virent bien des choses: le rassemblement des loups et le rappel des orques…” '
+it:
+  title: Seguace di Isengard
+  subtitle: ''
+  text: '**Raccolta:** Sforza questo servitore per far ferire al giocatore dei Popoli Liberi un compagno.'
+  lore: '‘…le Aquile delle Montagne volarono in lungo e in largo, e videro molte cose: il riunirsi dei lupi e il radunarsi degli Orchi…’'
+es:
+  title: Criado de Isengard
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza este siervo para hacer que el jugador de Gentes Libres hiera un compañero.'
+  lore: '… Las Águilas de la montaña fueron a lo largo y a lo ancho, y vieron muchas cosas: la agrupación de los lobos y la asamblea de los Orcos…'

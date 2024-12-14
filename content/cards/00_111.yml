@@ -1,0 +1,16 @@
+set: '0'
+rarity: P
+number: '111'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 5
+str: '10'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Cantëa
+  subtitle: Fourth of the Nine Riders
+  text: 'While Úlairë Cantëa is at a forest or dwelling site, he is strength +2 and **Fierce.** '
+  lore: Nine Riders Collection

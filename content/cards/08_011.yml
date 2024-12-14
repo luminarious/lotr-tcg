@@ -1,0 +1,22 @@
+set: '8'
+rarity: R
+number: '11'
+unique: true
+culture: Elven
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: Life of the Eldar
+  subtitle: ''
+  text: |-
+    To play, spot 2 Elves.   
+    Discard an Elf to draw 3 cards.
+  lore: ‘Your hands are cold….’
+de:
+  title: Die Lebenskraft der Eldar
+  subtitle: ''
+  text: |-
+    Entdecke 2 Elben, um dieses Ereignis zu spielen.   
+    Lege einen Elben ab, um 3 Karten zu ziehen.
+  lore: Deine Hände sind kalt….

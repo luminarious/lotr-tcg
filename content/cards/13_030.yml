@@ -1,0 +1,22 @@
+set: '13'
+rarity: C
+number: '30'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Fear and Great Wonder
+  subtitle: ''
+  text: |-
+    When you play this, add a :gandalf: token here.  
+    **Maneuver:** Discard this from play or remove a token from here to spot a :gandalf: companion. That companion gains **muster** until end of turn.
+  lore: The Hosts of Isengard roared, swaying this way and that, turning from fear to fear.
+de:
+  title: Furcht undgroßes Staunen
+  subtitle: ''
+  text: |-
+    Lege eine :gandalf: Marke auf diese Karte, wenn du sie spielst.  
+    **Manöver:** Lege diesen Effekt ab oder entferne hier eine Marke, um einen :gandalf: Gefährten zu entdecken. Dieser Gefährte erhält bis zum Ende des Zuges **Appell**.
+  lore: Die Heere von Isengart schrieen… und fielen von einem Schrecken in den anderen.

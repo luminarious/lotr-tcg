@@ -1,0 +1,46 @@
+set: '4'
+rarity: R
+number: '211'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Weapons of Isengard
+  subtitle: ''
+  text: |-
+    **Machine.**   
+    **Shadow:** Play an :isengard: archer to place an :isengard: token on this card.   
+    **Archery:** Remove 2 :isengard: tokens from this card to make the minion archery total +2. Discard this condition. 
+  lore: Crossbowmen arrived with munitions from Isengard.
+de:
+  title: Waffen aus Isengart
+  subtitle: ''
+  text: |-
+    **Kriegsmaschine.**Spiele diese Karte in deinen Unterstützungsbereich.  
+    **Schatten:** Spiele einen :isengard: Bogenschützen, um eine :isengard: Marke auf diese Karte zu legen.  
+    **FernKampf** Entferne 2 :isengard: Marken von dieser Karte, um den Fernkampfwert der Diener um 2 zu erhöhen. Lege diesen Effekt ab.
+  lore: Armbrustschützen kamen mit Kriegsgerät aus Isengart an.
+fr:
+  title: Les Armes de l'Isengard
+  subtitle: ''
+  text: |-
+    **Machine.**  
+    Ombre : Jouez un archer :isengard: pour déposer un jeton :isengard: sur cette carte. **Archerie :** Retirez 2 jetons :isengard: de cette carte pour augmenter le total d’archerie des séides de +2. Défaussez cette situation.
+  lore: Les arbalétriers arrivèrent avec des munitions de l'Isengard.
+it:
+  title: Armi di Isengard
+  subtitle: ''
+  text: |-
+    **Macchina da Guerra.**  
+    **Ombra:** Gioca un arciere :isengard: per piazzare un segnalino :isengard: su questa carta.   
+    **Arcieri:** Rimuovi 2 segnalini :isengard: da questa carta per aggiungere +2 al totale degli arcieri tra i servitori. Scarta questa condiz
+  lore: I balestrieri giunsero con le munizioni da Isengard.
+es:
+  title: Armas De Isengard
+  subtitle: ''
+  text: |-
+    **Máquina.** **Sombra:** Juega un arquero :isengard: para poner un contador :isengard: en esta carta.   
+    **Arquería:** Quita 2 contadores :isengard: de esta carta para que el total de arquería de los siervos sea +2. Descarta esta condición.
+  lore: Los ballesteros llegaron con munición de Isengard.

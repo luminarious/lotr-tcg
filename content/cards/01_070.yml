@@ -1,0 +1,36 @@
+set: '1'
+rarity: U
+number: '70'
+unique: true
+culture: Gandalf
+type: Ally
+race: Man
+cost: 0
+str: '1'
+vit: '2'
+site: '1'
+en:
+  title: Barliman Butterbur
+  subtitle: Prancing Pony Proprietor
+  text: '**Fellowship:** Exert Barliman Butterbur to take a :gandalf: event into hand from your discard pile.'
+  lore: ‘You don't know much even about them, if you think old Barliman is stupid,’ said Gandalf. ‘He is wise enough on his own ground.’
+de:
+  title: Gerstenmann Butterblume
+  subtitle: Wirt des Tänzelnden Pony
+  text: '**Gemeinschaft.** Strenge Gerstenmann Butterblume an, um ein :gandalf: Ereignis aus deinem Ablagestapel auf deine Hand zu nehmen.'
+  lore: Nicht einmal über sie wisst ihr viel, wenn du den alten Gerstenmann für dumm hälst“, sagte Gandalf. "Auf seinem Gebiet ist er weise genug.
+fr:
+  title: Prosper Poiredebeurré
+  subtitle: Propriétaire du Poney Fringant
+  text: '**Compagnie :** Affaiblissez Prosper Poiredebeurré pour prendre en main un événement :gandalf: de votre pile de défausse.'
+  lore: ‘Vous ne connaissez même pas grand-chose de ceux-là, si vous pensez que le vieux Prosper est bête,’ dit Gandalf. ‘Il est assez sagace dans son domaine propre.’
+it:
+  title: Omorzo Cactaceo
+  subtitle: Oste del Puledro Impennato
+  text: '**Compagnia:** Sforza Omorzo Cactaceo per aggiungere alla tua mano un evento :gandalf: preso dalla tua pila degli scarti.'
+  lore: ‘Nemmeno su di loro sai molto, se credi che il vecchio Cactaceo sia sciocco', disse Gandalf. ‘Nel suo campo è assai saggio.’
+es:
+  title: Cebadilla Mantecona
+  subtitle: Propietario del Poney Pisador
+  text: '**Comunidad:** Esfuerza a Cebadilla Mantecona para poner un evento :gandalf: de la pila de descartes en tu mano.'
+  lore: Sabes de veras muy poco si crees que el viejo Cebadilla es estúpido – dijo Gandalf –. Es bastante sagaz en su propio terreno.

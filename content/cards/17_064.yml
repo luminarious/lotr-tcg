@@ -1,0 +1,16 @@
+set: '17'
+rarity: C
+number: '64'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 7
+str: '15'
+vit: '4'
+site: 4
+en:
+  title: Vengeful Pillager
+  subtitle: ''
+  text: 'When you play this minion from your draw deck or from your :men: possession, it is **fierce** until the regroup phase.'
+  lore: Murderers!

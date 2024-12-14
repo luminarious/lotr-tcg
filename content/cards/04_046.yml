@@ -1,0 +1,44 @@
+set: '4'
+rarity: R
+number: '46'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Ever My Heart Rises
+  subtitle: ''
+  text: |-
+    **Tale.** Plays to your support area.  
+    When you play this condition, reveal the top 6 cards of your draw deck and stack them here.  
+    **Fellowship:** Spot a Dwarf and discard the top card of your draw deck to take a Free Peoples card stacked here into hand.
+  lore: ''
+de:
+  title: Immer geht mir das Herz auf
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    Wenn du diese Karte spielst, decke die obersten 6 Karten von deinem Spieldeck auf und lagere sie hier. **Gemeinschaft.** Entdecke einen Zwerg und lege die oberste Karte von deinem Spieldeck ab, um ein hier gelagerte Karte der Freien Völker auf deine Hand zu nehmen.
+  lore: ''
+fr:
+  title: Mon Coeur Se Relève Toujours
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Lorsque vous jouez cette situation, révélez les 6 cartes du dessus de votre pioche et empilez-les sur cette carte. **Compagnie :** Désignez un Nain et défaussez la carte du dessus de votre pioche pour prendre en main une carte des People Libres empilée ici.
+  lore: ''
+it:
+  title: Il Mio Cuore si Rinfranca Sempre
+  subtitle: ''
+  text: |-
+    **Racconto.** Quando giochi questa condizione, mostra le prime 6 carte del tuo mazzo di gioco e impilale qui.   
+    **Compagnia:** Avvista un Nano e scarta la prima carta del tuo mazzo di gioco per aggiungere alla tua mano una carta del tuo mazzo di gioco per aggiungere alla tua mano una carta dei Popoli Liberi impalata qui.
+  lore: ''
+es:
+  title: El Corazón Siempre Se Me Anima
+  subtitle: ''
+  text: |-
+    **Cuento.** Cuando juegas esta condición, revela las 6 cartas superiores de tu mazo de robar y apílalas aquí.   
+    **Comunidad:** Avista un Enano y descarta la carta superior de tu mazo de robar para tomar en tu mano una carta de Gentes Libres apalada aquí.
+  lore: ''

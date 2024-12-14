@@ -1,0 +1,20 @@
+set: '11'
+rarity: C
+number: '31'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Final Account
+  subtitle: ''
+  text: |-
+    To play, exert a :gandalf: Wizard.  
+    Discard 2 cards from hand to take a Free Peoples card and a Shadow card from your discard pile into hand. 
+  lore: Gandalf lifted it carefully, but the leaves crackled and broke as he laid it on the slab.
+de:
+  title: Letzter Bericht
+  subtitle: ''
+  text: 'Strenge einen :gandalf: Zauberer an, um diese Karte zu spielen. Lege 2 Karten aus deiner Hand ab, um eine Gemeinschaftskarte und eine Schattenkarte aus deinem Ablagestapel auf deine Hand zu nehmen.'
+  lore: Gandalf hob es vorsichtig auf, aber die Seiten rissen und brachen, als er es auf die Steinplatte legte.

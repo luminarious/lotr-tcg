@@ -1,0 +1,25 @@
+set: '7'
+rarity: U
+number: '294'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 6
+str: '15'
+vit: '4'
+site: 6
+en:
+  title: Orc Archer Troop
+  subtitle: ''
+  text: |-
+    **Archer.**   
+    If you have initiative, the minion archery total is +1 and Orc Archer Troop is fierce.
+  lore: ''
+de:
+  title: Abteilung Orkschützen
+  subtitle: ''
+  text: |-
+    **Bogenschütze.**   
+    Wenn du die Initiative besitzt, erhöht sich der Fernkampfwert der Diener um 1 und die Abteilung Orkschützen ist **erbittert**.
+  lore: Der Wind wehte und die Trompeten sangen und Pfeile schwirrten…

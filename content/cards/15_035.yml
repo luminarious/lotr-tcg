@@ -1,0 +1,18 @@
+set: '15'
+rarity: U
+number: '35'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 6
+str: '8'
+vit: '3'
+res: '6'
+en:
+  title: Shadow of the Wood
+  subtitle: ''
+  text: |-
+    This companion is twilight cost -1 for each :gandalf: companion you can spot.  
+    **Fellowship:** Place this companion in the dead pile to remove :twilight5:.
+  lore: Treebeard’s call to the Ent Moot could not be refused.

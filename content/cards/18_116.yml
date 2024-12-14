@@ -1,0 +1,15 @@
+set: '18'
+rarity: C
+number: '116'
+unique: true
+culture: Uruk-hai
+type: Condition
+cost: 0
+str: '+1'
+en:
+  title: Fury of the Evil Army
+  subtitle: ''
+  text: |-
+    Bearer must be an :urukhai: minion.  
+    Each time bearer wins a skirmish, you may choose one: discard a follower from play; heal an :urukhai: minion; or control a site.
+  lore: What can men do against such reckless hate?

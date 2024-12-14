@@ -1,0 +1,18 @@
+set: '12'
+rarity: R
+number: '139'
+unique: true
+culture: Uruk-hai
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Broken in Defeat
+  subtitle: ''
+  text: 'Make an :urukhai: minion strength +2. Then you may spot 6 companions to return this event to your hand.'
+  lore: ‘The world of Men will fall and all will come to darkness, and my city to ruin.’
+de:
+  title: Verzweifelt und besiegt
+  subtitle: ''
+  text: 'Gib einem :urukhai: Diener Stärke +2. Du darfst anschließend 6 Gefährten entdecken, um dieses Ereignis wieder auf die Hand zu nehmen.'
+  lore: Die Welt der Menschen wird untergehen, alles versinkt in Dunkelheit und meine Stadt liegt in Trümmern.

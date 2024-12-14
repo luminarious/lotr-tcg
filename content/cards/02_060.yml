@@ -1,0 +1,36 @@
+set: '2'
+rarity: C
+number: '60'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 2
+str: '4'
+vit: '1'
+site: 4
+en:
+  title: Goblin Bowman
+  subtitle: ''
+  text: '**Archer.** '
+  lore: The crude arrows of the Goblins served notice of the dangers of Moria.
+de:
+  title: Goblinschütze
+  subtitle: ''
+  text: '**Bogenschütze.**'
+  lore: Die groben Pfeile der Goblins waren stumme Zeugen der Gefahren Morias.
+fr:
+  title: Tireur Gobelin
+  subtitle: ''
+  text: '**Archer.**'
+  lore: Les flèches grossières des gobelins servaient d'avertissement quant aux dangers de la Moria.
+it:
+  title: Tiratore Goblin
+  subtitle: ''
+  text: '**Arciere.**'
+  lore: Le rozze frecce dei Goblin portavano notizia dei pericoli di Moria.
+es:
+  title: Goblin Arquero
+  subtitle: ''
+  text: '**Arquero.**'
+  lore: Las rudimentarias flechas de los Goblins sirvieron como aviso de los peligros de Moria.

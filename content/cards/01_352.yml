@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '352'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Lothlórien Woods
+  subtitle: ''
+  text: '**Forest.** **Sanctuary.** Each ally whose home is site 6 is strength +3.'
+  lore: ''
+de:
+  title: Der Wald von Lothlórien
+  subtitle: ''
+  text: '**Wald.** **Zuflucht.** Alle Verbündeten mit Heimatort 6 erhalten Stärke +3.'
+  lore: ''
+fr:
+  title: Les Bois de Lothlórien
+  subtitle: ''
+  text: '**Forêt.** **Sanctuaire.** Chaque allié dont la demeure est un site 6 a +3 en force.'
+  lore: ''
+it:
+  title: Boschi di Lothlórien
+  subtitle: ''
+  text: '**Foresta.** **Rifugio.** Ogni alleato la cui casa sia il sito 6 aggiunge +3 alla forza.'
+  lore: ''
+es:
+  title: Bosques de Lothlórien
+  subtitle: ''
+  text: '**Bosque.** Refugio. Cada aliado cuyo hogar sea el sitio 6 es fuerza +3.'
+  lore: ''

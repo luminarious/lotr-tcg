@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '176'
+unique: true
+culture: Uruk-hai
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: War Machine
+  subtitle: ''
+  text: 'Exert your :urukhai: lurker minion to play an :urukhai: hand weapon from your discard pile on your :urukhai: minion.'
+  lore: …on the front of their iron helms was set an S-rune, wrought of some white metal.
+de:
+  title: Kriegsmaschinerie
+  subtitle: ''
+  text: 'Strenge einen deiner :urukhai: Schleicher an, um eine :urukhai: Handwaffe aus deinem Ablagestapel auf einen deiner :urukhai: Diener zu spielen.'
+  lore: Auf der Stirnseite ihrer eisernen Helme war eine aus einem weißen Metall geschmiedete S-förmige Rune angebracht.

@@ -1,0 +1,22 @@
+set: '7'
+rarity: U
+number: '102'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Hasty Repairs
+  subtitle: ''
+  text: |-
+    To play, spot 3 :gondor: Men.   
+    **Regroup:** While you have only 4 cards in hand, you may discard 2 cards from hand to play a :gondor: fortification from your discard pile.
+  lore: ''
+de:
+  title: Eilige Reparaturen
+  subtitle: ''
+  text: |-
+    Entdecke 3 :gondor: Menschen, um diesen Effekt zu spielen.   
+    **Sammeln:** Solange du genau 4 Karten in der Hand hast, darfst du 2 davon abwerfen, um eine :gondor: Befestigung aus deinem Ablagestapel zu spielen.
+  lore: Die Arbeit wird vor dem Abend beendet sein.

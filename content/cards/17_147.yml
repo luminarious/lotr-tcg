@@ -1,0 +1,12 @@
+set: '17'
+rarity: U
+number: '147'
+unique: true
+culture: ''
+type: Site
+cost: 3
+en:
+  title: Imladris
+  subtitle: ''
+  text: '**River.** When the fellowship moves to this site, if it is a sanctuary, remove 2 burdens.'
+  lore: ''

@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '43'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Far-seeing Eyes
+  subtitle: ''
+  text: |-
+
+    Each time you play an Elf, choose an opponent to discard a card from hand.
+  lore: Keen Elven eyes see farther and more clearly than those of Men or Dwarves.
+de:
+  title: Weitblick
+  subtitle: ''
+  text: Jedesmal, wenn du einen Elben spielst, wähle einen Gegenspieler aus, der 1 Karte aus seiner Hand ablegen muss.
+  lore: Die scharfen Augen der Elben sehen weiter und besser als die der Menschen oder Zwerge.
+fr:
+  title: Yeux Perçants
+  subtitle: ''
+  text: Chaque fois que vous jouez un Elfe, choisissez un adversaire qui doit défausser une carte de sa main.
+  lore: Les yeux perçants des Elfes voient plus loin et plus clairement que ceux des Hommes ou des Nains.
+it:
+  title: Occhi che Vedono Lontano
+  subtitle: ''
+  text: Ogni volta che giochi un Elfo, scegli un avversario e fagli scartare una carta dalla sua mano.
+  lore: Gli occhi acuti degli Elfi possono vedere più lontano e più chiaramente di quelli di Uomini e Nani.
+es:
+  title: Ojos Que Ven Lejos
+  subtitle: ''
+  text: Cada vez que juegues un Elfo, elige un oponente para descartar una carta de su mano.
+  lore: Los agudos ojos Élficos ven mas lejos y mas claramente que los de los Hombres o los Enanos.

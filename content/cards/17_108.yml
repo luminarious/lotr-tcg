@@ -1,0 +1,16 @@
+set: '17'
+rarity: U
+number: '108'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Hornblower Leaf
+  subtitle: ''
+  text: |-
+    **Pipeweed.** To play, spot an unbound Hobbit.  
+    **Regroup:** Discard a pipeweed from play to remove a threat.  
+    **Regroup:** Discard a pipeweed from play to discard a minion. 
+  lore: '''These are the Hornblower brandmarks…’'

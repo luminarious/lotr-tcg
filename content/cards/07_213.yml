@@ -1,0 +1,27 @@
+set: '7'
+rarity: R
+number: '213'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Lemenya
+  subtitle: Assailing Minion
+  text: |-
+    Úlairë Lemenya is strength +1 for each other :wraith: minion you spot.   
+    While you can spot 3 :wraith: minions Úlairë Lemenya is fierce.   
+    While you can spot 4 :wraith: minions Úlairë Lemenya is **damage +1**.
+  lore: ''
+de:
+  title: •Úlairë Lemenya
+  subtitle: Herabstoßender Diener
+  text: |-
+    Úlairë Lemenya erhält Stärke +1 für jeden weiteren :wraith: Diener, den du entdeckst.   
+    Solange du 3 :wraith: Diener entdecken kannst, ist Úlairë Lemenya **erbittert**.   
+    Solange du 4 :wraith: Diener entdecken kannst, erhält Úlairë Lemenya **Schaden +1**.
+  lore: ''

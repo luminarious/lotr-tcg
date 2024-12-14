@@ -1,0 +1,40 @@
+set: '3'
+rarity: R
+number: '1'
+unique: true
+culture: Dwarven
+type: Possession
+cost: 2
+en:
+  title: Book of Mazarbul
+  subtitle: ''
+  text: |-
+    **Tale.** Bearer must be a Dwarf.  
+    At the start of each fellowship phase when the fellowship is at site 4 or higher, you may draw a card for each Dwarf companion. 
+  lore: ‘It seems to be a record of the fortunes of Balin’s folk….’
+de:
+  title: Das Buch von Mazarbul
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    Muss auf einen Zwerg gespielt werden. Ziehe zu Beginn deiner Gemeinschaftsphase eine Karte für jeden Zwergengefährten, wenn sich die Gemeinschaft an Ort 4 oder höher befindet.
+  lore: Es scheint eine Chronik über das Schicksal von Balins Leuten zu sein…
+fr:
+  title: Le Livre de Mazarbul
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Le détenteur doit être un Nain. Au début de chaque phase de compagnie, si la compagnie est au site 4 ou plus, vous pouvez piochez une carte pour chaque compagnon Nain.
+  lore: 'Ce semble être un registre des fortunes des gens de Balin…” '
+it:
+  title: Libro di Mazarbul
+  subtitle: ''
+  text: |-
+    **Racconto.** Il possessore deve essere un Nano.  
+    All’inizio di ogni fase della Compagnia, quando la compagnia è al sito 4 o successivo, puoi pescare una carta per ogni compagno Nano.
+  lore: ‘Parrebbe essere l'epopea del popolo di Balin…’
+es:
+  title: Libro de Mazarbul
+  subtitle: ''
+  text: '**Cuento.** El portador debe ser un Enano. Al principio de cada fase de comunidad cuando la comunidad esta en el sitio 4 o superior, puedes robar una carta por cada compañero Enano.'
+  lore: Parece ser un registro de los azares y fortunas que cayeron sobre el pueblo de Balin…

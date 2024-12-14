@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '176'
+unique: true
+culture: Wraith
+type: Event
+class: Regroup
+cost: 1
+en:
+  title: Disposable Servants
+  subtitle: ''
+  text: Spot a Nazgûl to discard any number of cards from your hand. The Free Peoples player then discards any number of cards from his or her hand. For each card you discarded more than the Free Peoples player, add a threat.
+  lore: ''
+de:
+  title: Entbehrliche Diener
+  subtitle: ''
+  text: Entdecke einen Nazgûl, um eine beliebige Anzahl von Karten aus deiner Hand abzulegen. Danach legt der Freie Völker Spieler eine beliebige Anzahl von Karten aus seiner Hand ab. Lasse eine Bedrohung entstehen für jede Karte, die du mehr als der Freie Völker Spieler abgelegt hast.
+  lore: ''

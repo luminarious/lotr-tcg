@@ -1,0 +1,16 @@
+set: '17'
+rarity: U
+number: '90'
+unique: true
+culture: Orc
+type: Possession
+class: Armor
+cost: 1
+str: '+2'
+en:
+  title: Rider's Gear
+  subtitle: ''
+  text: |-
+    Bearer must be an :orc: Orc.  
+    While bearer is mounted, it cannot take wounds except during the skirmish phase. 
+  lore: Foul of smell but light to bear, a warg would often allow its rider little leeway.

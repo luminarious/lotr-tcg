@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '27'
+unique: true
+culture: Gondor
+type: Artifact
+class: Hand Weapon
+cost: 3
+str: '+2'
+vit: '+1'
+en:
+  title: Andúril
+  subtitle: Sword That Was Broken
+  text: |-
+    Bearer must be Aragorn.  
+    He is **damage +1**.  
+    Each time Aragorn wins a skirmish, you may exert him to liberate a site or discard a condition borne by a companion. 
+  lore: It has been Remade.

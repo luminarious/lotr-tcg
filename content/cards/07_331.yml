@@ -1,0 +1,17 @@
+set: '7'
+rarity: U
+number: '331'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Isengard Ruined
+  subtitle: ''
+  text: '**Fellowship:** Spot Gandalf to add :twilight2:. Each player may draw a card.'
+  lore: ''
+de:
+  title: Zerstörtes Isengart
+  subtitle: ''
+  text: '**Gemeinschaft:** Entdecke Gandalf und erhöhe den Einfluss um :twilight2:. Jeder Spieler darf eine Karte ziehen.'
+  lore: ''

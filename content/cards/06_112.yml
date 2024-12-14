@@ -1,0 +1,33 @@
+set: '6'
+rarity: C
+number: '112'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Long Slow Wrath
+  subtitle: ''
+  text: '**Skirmish:** Exert an unbound Hobbit to make him strength +1 and **damage +1** for each :gandalf: companion you can spot.'
+  lore: '‘The coming of the hobbits and the tidings that they brought have spilled it: it will soon be running like a flood….’'
+de:
+  title: Anhaltender langsamer Zorn
+  subtitle: ''
+  text: '**Kampf** Strenge einen nicht-verbundenen Hobbit an, um ihm Stärke +1 und **Schaden +1** für jeden :gandalf: Gefährten, den du entdecken kannst, zu geben.'
+  lore: 'Die Ankunft der Hobbits und die Nachrichten, die sie mitbrachten, haben seinen Zorn zum Überlaufen gebracht: bald wird er reißend sein wie eine Flut…'
+fr:
+  title: Colère Longue et Sourde
+  subtitle: ''
+  text: '**Combat :** Affaiblissez un Hobbit dissocié pour lui donner +1 en force et des **dégâts +1** pour chaque compagnon :gandalf: que vous pouvez désigner.'
+  lore: 'La venue des Hobbits et les nouvelles qu''ils ont apportées l''ont fait déverser : elle se répandra bientôt comme une inondation….” '
+it:
+  title: Grande e Lenta Collera
+  subtitle: ''
+  text: '**Schermaglia:** Sforza un Hobbit Non Legato per aggiungergli +1 alla forza e **Danno +1** per ogni compagno :gandalf: che puoi avvistare.'
+  lore: '‘Sono stati gli Hobbit con il loro arrivo e le notizie che portavano, l''ultima goccia: tra poco avanzerà come un''inondazione….’'
+es:
+  title: Larga y lenta cólera
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza un Hobbit no-vinculado para darle fuerza +1 y **daño +1** por cada compañero :gandalf: que puedas avistar.'
+  lore: La llegada de los Hobbits y las noticias que le trajeron fueron la gota que colmó el vaso; pronto esa cólera se extenderá como una inundación…

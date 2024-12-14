@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '349'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Left
+en:
+  title: Helm's Gate
+  subtitle: ''
+  text: '**Battleground.** Each companion and minion bearing a hand weapon is strength +2. '
+  lore: ''
+de:
+  title: Helms Tor
+  subtitle: ''
+  text: '**Schlachtfeld.** Jeder Gefährte und Diener, der mit einer Handwaffe ausgerüstet ist, erhält Stärke +2.'
+  lore: ''
+fr:
+  title: La Porte de Helm
+  subtitle: ''
+  text: '**Champ de bataille.** Chaque compagnon et chaque séide possédant une arme de mêlée a +2 en force.'
+  lore: '5'
+it:
+  title: Cancello di Helm
+  subtitle: ''
+  text: '**Campo di Battaglia.** Aggiungi +2 alla forza di ogni compagno e servitore che porta un’arma da mischia.'
+  lore: ''
+es:
+  title: La Puerta De Helm
+  subtitle: ''
+  text: '**Campo de batalla.** Cada compañero llevando un arma de mano y cada siervo llevando un arma de mano es fuerza +2.'
+  lore: ''

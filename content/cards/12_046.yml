@@ -1,0 +1,33 @@
+set: '12'
+rarity: C
+number: '46'
+unique: true
+culture: Gondor
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Elendil’s Valor
+  subtitle: ''
+  text: 'Make a :gondor: companion **defender +1** until the regroup phase.'
+  lore: ‘In panoply of ancient kings, / in chainéd rings he armoured him; / his shining shield was scored with runes / to ward all wounds and harm from him….’
+de:
+  title: Elendils Mut
+  subtitle: ''
+  text: 'Mache einen :gondor: Gefährten bis zur Sammelphase **Verteidiger +1.**'
+  lore: Dem alten Königsbrauch gemäß / Legte er Helm und Rüstung an, / Grub Runen in den Silberschild / Zum Schutze gegen Harm und Not….
+fr:
+  title: Elendil's Valor
+  subtitle: ''
+  text: 'Make a :gondor: companion <b>defender +1</b> until the regroup phase.'
+  lore: ‘In panoply of ancient kings, / in chainéd rings he armoured him; / his shining shield was scored with runes / to ward all wounds and harm from him….’
+it:
+  title: Elendil's Valor
+  subtitle: ''
+  text: 'Make a :gondor: companion <b>defender +1</b> until the regroup phase.'
+  lore: ‘In panoply of ancient kings, / in chainéd rings he armoured him; / his shining shield was scored with runes / to ward all wounds and harm from him….’
+es:
+  title: Elendil's Valor
+  subtitle: ''
+  text: 'Make a :gondor: companion <b>defender +1</b> until the regroup phase.'
+  lore: ‘In panoply of ancient kings, / in chainéd rings he armoured him; / his shining shield was scored with runes / to ward all wounds and harm from him….’

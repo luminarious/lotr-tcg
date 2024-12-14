@@ -1,0 +1,25 @@
+set: '13'
+rarity: C
+number: '163'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Entranced Uruk
+  subtitle: ''
+  text: |-
+    **Damage +1. Lurker.** *(Skirmishes involving lurker minions must be resolved after any others.)*  
+    Possessions borne by this minion cannot be discarded by Free Peoples cards.
+  lore: An Uruk is disarmed only when it hurls its weapon.
+de:
+  title: Uruk im Kampfrausch
+  subtitle: ''
+  text: |-
+    **Schaden +1, Schleicher.**  
+    Freie Völker Karten können keine Ausrüstungen von diesem Diener ablegen.
+  lore: Ein Uruk wird nur entwaffnet, wenn er seine Waffe wegschleudert.

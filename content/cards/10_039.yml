@@ -1,0 +1,25 @@
+set: '10'
+rarity: U
+number: '39'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Corsair Ruffian
+  subtitle: ''
+  text: |-
+    **Corsair.**   
+    When you play this minion, you may spot another Corsair and discard the top card of the Free Peoples player’s draw deck to add 2 :raider: tokens to a card that already has a :raider: token on it. 
+  lore: An incarnation of savagery was Ghynóh the Cruel.
+de:
+  title: Corsaren Raufbold
+  subtitle: ''
+  text: |-
+    **Corsar.**   
+    Du darfst einen anderen Corsaren entdecken und die oberste Karte vom Spieldeck des Freien Völker Spielers ablegen, wenn du diesen Diener spielst, um 2 :raider: Marken auf eine Karte zu legen, auf der bereits eine :raider: Marke liegt.
+  lore: Ghynóh, der Grausame, war der Inbegriff der Wildheit.

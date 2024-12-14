@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '89'
+unique: true
+culture: Orc
+type: Possession
+class: Mount
+cost: 3
+str: '+2'
+vit: '+2'
+en:
+  title: Relentless Warg
+  subtitle: ''
+  text: |-
+    Bearer must be an :orc: Orc with strength 10 or less.  
+    Bearer is **fierce**.  
+    When you play this possession, spot a race. While bearer is skirmishing a companion of that race, bearer is strength +3 and **damage +1**.
+  lore: The wolves of Isengard will return.

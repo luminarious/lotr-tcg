@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '167'
+unique: true
+culture: Moria
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Denizens Enraged
+  subtitle: ''
+  text: '**Skirmish:** Make a :moria: Orc strength +1 for each other :moria: Orc you spot (limit +4).'
+  lore: '…there came a great noise: a rolling Boom that seemed to come from depths far below, and to tremble in the stone at their feet.'
+de:
+  title: Aufgebrachte Bewohner
+  subtitle: ''
+  text: '**Kampf** Gib einem :moria: Ork Stärke +1 für jeden anderen :moria: Ork, den du entdecken kannst (maximal +4).'
+  lore: '…als ein großer Lärm anhob: ein rollendes Bum, das aus großen Tiefen zu kommen und in den Steinen zu ihren Füssen zu zittern schien.'
+fr:
+  title: Habitants Rendus Furieux
+  subtitle: ''
+  text: '**Combat :** Donnez à un Orque :moria: +1 en force pour chaque autre Orque :moria: que vous désignez (limite de +4).'
+  lore: '… un grand bruit se fit entendre: un roulement grondant, qui semblait venir des profondeurs lointaines et vibrer dans la pierre sous leurs pieds.'
+it:
+  title: Abitanti Adirati
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +1 alla forza di un Orco :moria: per ogni altro Orco :moria: che avvisti (limite +4).'
+  lore: '…quando si udì un grande rumore: un bum rombante che pareva giungesse dalle profondità sotto di loro, tremando nella roccia ai loro piedi.'
+es:
+  title: Habitantes Enfurecidos
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Orco :moria: fuerza +1 por cada otro Orco :moria: que puedas avistar (limite +4).'
+  lore: …se oyó un gran ruido, como si algo rodara retumbando en los abismos lejanos, estremeciendo el suelo de piedra.

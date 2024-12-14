@@ -1,0 +1,38 @@
+set: '4'
+rarity: U
+number: '28'
+unique: true
+culture: Dunland
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: No Defense
+  subtitle: ''
+  text: |-
+
+    **Shadow:** Remove :twilight3: to place a :dunland: token here.  
+    **Skirmish:** Spot a :dunland: Man and remove a :dunland: token from this card. A character skirmishing that :dunland: Man does not gain strength bonuses from possessions. 
+  lore: ''
+de:
+  title: Keine Verteidigung
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Schatten:** Verringere den Einfluss um :twilight3:, um eine :dunland: Marke auf diese Karte zu legen. **Kampf** Entdecke einen :dunland: Menschen und entferne eine :dunland: Marke von dieser Karte. Ein Charakter, der gegen diesen :dunland: Menschen kämpft, erhält keine Stärkeboni von Ausrüstungkarten.'
+  lore: ''
+fr:
+  title: Sans Défense
+  subtitle: ''
+  text: 'Ombre : Retirez :twilight3: pour déposer un jeton :dunland: sur cette carte. **Combat :** Désignez un Homme :dunland: et retirez un jeton :dunland: de cette carte. Un personnage qui combat cet Homme :dunland: n’obtient pas de bonus de force grâce à des possessions.'
+  lore: ''
+it:
+  title: Nessuna Difesa
+  subtitle: ''
+  text: |-
+    **Ombra:** Rimuovi :twilight3: per piazzare un segnalino :dunland: qui.   
+    **Schermaglia:** Avvista un Uomo :dunland: e rimuovi un segnalino :dunland: da questa carta. Un personaggio che stia schermagliando con quell’Uomo :dunland: non guadagna bonus alla forza dai beni.
+  lore: ''
+es:
+  title: Sin Defensa
+  subtitle: ''
+  text: '**Sombra:** Quita :twilight3: para poner un contador :dunland: aquí. **Escaramuza:** Avista un Hombre :dunland: y quita un contador :dunland: de esta carta. Un personaje que esté en una escaramuza contra ese Hombre :dunland: no gana bonos a la fuerza por posesiones.'
+  lore: ''

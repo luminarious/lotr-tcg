@@ -1,0 +1,17 @@
+set: '13'
+rarity: R
+number: '10'
+unique: true
+culture: Elven
+type: Possession
+class: Mount
+cost: 2
+res: '+1'
+en:
+  title: Asfaloth
+  subtitle: Swift Blossom
+  text: |-
+    Bearer must be an Elf.  
+    When you play Asfaloth, you may reinforce an :elven: token.  
+    **Skirmish:** Remove 2 :elven: tokens to heal bearer (or heal bearer and heal another Elf if bearer is in a fierce skirmish).
+  lore: ‘…my horse will not let any rider fall….’

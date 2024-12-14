@@ -1,0 +1,16 @@
+set: '1'
+rarity: P
+number: '364'
+unique: true
+culture: Gandalf
+type: Companion
+race: Wizard
+cost: 4
+str: '7'
+vit: '4'
+signet: Signet_Gandalf
+en:
+  title: Gandalf
+  subtitle: The Grey Wizard
+  text: '**Fellowship:** Exert Gandalf to play a companion who has the Gandalf signet. The twilight cost of that companion is -2.'
+  lore: …his long white hair, his sweeping silver beard, and his broad shoulders, made him look like some wise king of ancient legend.

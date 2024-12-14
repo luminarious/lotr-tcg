@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '337'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Right
+en:
+  title: Council Courtyard
+  subtitle: ''
+  text: '**Sanctuary.** When the fellowship moves from Council Courtyard, remove :twilight2:.'
+  lore: ''
+de:
+  title: Der Ratshof
+  subtitle: ''
+  text: '**Zuflucht.** Verringere den Einfluss um :twilight2:, wenn sich deine Gemeinschaft von hier fortbewegt.'
+  lore: ''
+fr:
+  title: Place du Conseil
+  subtitle: ''
+  text: '**Sanctuaire.** Quand la compagnie se déplace de la Place du Conseil, retirez :twilight2:.'
+  lore: ''
+it:
+  title: Cortile del Consiglio
+  subtitle: ''
+  text: '**Rifugio.** Quando la Compagnia si muove dal Cortile del Consiglio, rimuovi :twilight2:.'
+  lore: ''
+es:
+  title: Patio del Concilio
+  subtitle: ''
+  text: Refugio. Cuando la comunidad se mueve del Patio del Concilio, quita :twilight2:.
+  lore: ''

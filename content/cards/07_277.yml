@@ -1,0 +1,25 @@
+set: '7'
+rarity: C
+number: '277'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Gorgoroth Sapper
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    **Shadow:** Discard 2 cards from hand to play a :sauron: Orc stacked on a site you control (discard 1 card from hand instead if that Orc is a besieger).
+  lore: ''
+de:
+  title: Gorgoroth Pionier
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    **Schatten:** Lege 2 Karten aus deiner Hand ab, um einen :sauron: Ork zu spielen, der auf einem Ort gelagert ist, den du kontrollierst (oder lege 1 Karte ab, wenn dieser Ork Belagerer ist).
+  lore: Es war das Tor, gegen das er seinen schwersten Schlag führen wollte.

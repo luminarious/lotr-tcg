@@ -1,0 +1,24 @@
+set: '13'
+rarity: R
+number: '126'
+unique: true
+culture: Rohan
+type: Possession
+class: Mount
+cost: 2
+str: '+1'
+en:
+  title: Firefoot
+  subtitle: Mearas of The Mark
+  text: |-
+    Bearer must be a :rohan: Man.  
+    When you play Firefoot, you may reinforce a :rohan: token.  
+    At the start of the maneuver phase, if bearer is Éomer, you may remove 2 :rohan: tokens to make him **defender +1** and strength +1 until the regroup phase.
+  lore: ''
+de:
+  title: Feuerfuß
+  subtitle: Mearh der Mark
+  text: |-
+    Muss auf einen :rohan: Menschen gespielt werden. Du darfst eine :rohan: Marke ergänzen, wenn du Feuerfuß spielst.  
+    Du darfst zu Beginn der Manöverphase 2 :rohan: Marken entfernen, wenn Éomer der Reiter ist, um ihm bis zur Sammelphase Stärke +1 zu geben und ihn **Verteidiger +1** zu machen.
+  lore: ''

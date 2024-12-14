@@ -1,0 +1,15 @@
+set: '15'
+rarity: S
+number: '2'
+unique: true
+culture: ''
+type: Ring
+cost: 1
+str: '+1'
+en:
+  title: The One Ring
+  subtitle: The Ruling Ring
+  text: |-
+    **Response:** If the Ring-bearer is about to take a wound in a skirmish, he or she wears The One Ring until the regroup phase.   
+    While the Ring-bearer is wearing The One Ring, each time he or she is about to take a wound in a skirmish, add a burden instead.
+  lore: One Ring to rule them all….

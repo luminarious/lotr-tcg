@@ -1,0 +1,15 @@
+set: '10'
+rarity: U
+number: '4'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Aegnor
+  subtitle: Elven Escort
+  text: '**Skirmish:** Exert Aegnor to make a minion skirmishing an unbound :elven: companion strength –1 for each archer you spot. '
+  lore: Affectionately referred to as ‘Figwit’ by his contemporaries in Rivendell.

@@ -1,0 +1,13 @@
+set: '15'
+rarity: U
+number: '142'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Swift Stroke
+  subtitle: ''
+  text: 'Spot your :rohan: Man bearing a possession to discard all possessions from one character.'
+  lore: …she drove her sword between crown and mantle, as the great shoulders bowed before her.

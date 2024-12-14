@@ -1,0 +1,48 @@
+set: '4'
+rarity: R
+number: '103'
+unique: true
+culture: Gandalf
+type: Ally
+race: Ent
+cost: 4
+str: '12'
+vit: '4'
+site: '2T & 8T '
+en:
+  title: Treebeard
+  subtitle: Earthborn
+  text: |-
+    **Unhasty.**  
+    **Response:** If an unbound Hobbit is about to be discarded, stack him here instead.   
+    **Fellowship:** Exert Treebeard and add :twilight1: to play an unbound Hobbit stacked here. 
+  lore: ‘Do not be hasty, that is my motto.’
+de:
+  title: Baumbart
+  subtitle: Erdspross
+  text: |-
+    **Unhastig.**  
+    **Reaktion:** Wenn ein nicht-verbundener Hobbit abgelegt wird, lagere ihn statt dessen auf Baumbart. **Gemeinschaft.** Strenge Baumbart an und erhöhe den Einfluss um :twilight1:, um einen hier gelagerten, nicht-verbundenen Hobbit zu spielen.
+  lore: '''Sei nicht hastig’ ist mein Wahlspruch.'
+fr:
+  title: Sylvebarbe
+  subtitle: Né de la Terre
+  text: |-
+    **Peu hâtif.**  
+    **Réponse :** Si un Hobbit dissocié est sur le point d’être défaussé, empilez-le plutôt ici. **Compagnie :** Affaiblissez Sylvebarbe et ajoutez :twilight1: pour jouer un Hobbit dissocié empilé sur cette carte.
+  lore: 'Pas de jugement hâtif, c''est ma devise.” '
+it:
+  title: Barbalbero
+  subtitle: Nato dalla Terra
+  text: |-
+    **Senza Fretta.**  
+    **Risposta:** Se un Hobbit Non Legato sta per essere scartato, impilalo invece qui.   
+    **Compagnia:** Sforza Barbalbero e aggiungi :twilight1: per giocare un Hobbit Non Legato impilato qui.
+  lore: ‘Niente fretta, questo è il mio motto.’
+es:
+  title: Bárbol
+  subtitle: Nacido de la Tierra
+  text: |-
+    **Sin prisa.** **Respuesta:** Si un Hobbit no-vinculado va a ser descartado, en vez de eso apilalo aquí.   
+    **Comunidad:** Esfuerza a Bárbol y añade :twilight1: para jugar un Hobbit no-vinculado apilado aquí.
+  lore: No te apresures, esa es mi divisa.

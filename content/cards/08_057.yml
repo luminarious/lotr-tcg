@@ -1,0 +1,25 @@
+set: '8'
+rarity: R
+number: '57'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Corsair Marauder
+  subtitle: ''
+  text: |-
+    **Corsair.**   
+    When you play this minion, if you can spot another corsair, you may discard a possession to add 2 :raider: tokens to a card that already has a :raider: token on it.
+  lore: Umbar remained at war with Gondor for many lives of men….
+de:
+  title: Marodierender Corsar
+  subtitle: ''
+  text: |-
+    **Corsar.**   
+    Lege eine Ausrüstung ab, wenn du beim Ausspielen dieses Dieners einen anderen Corsaren entdecken kannst, um 2 :raider: Marken auf eine Karte zu legen, auf der bereits eine :raider: Marke liegt.
+  lore: Viele Menschenleben lang führte Umbar mit Gondor Krieg….

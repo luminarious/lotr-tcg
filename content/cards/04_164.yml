@@ -1,0 +1,45 @@
+set: '4'
+rarity: R
+number: '164'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '12'
+vit: '2'
+site: 5
+en:
+  title: Orthanc Champion
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    **Assignment: **Exert Orthanc Champion to assign it to an unbound companion.   
+    That companion may exert to prevent this. 
+  lore: A warrior trained in single combat, he tore a swath through the defenders.
+de:
+  title: Orthanc Kämpe
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    **Zuweisung:** Strenge diesen Diener an, um ihn einem nicht-verbundenen Gefährten zuzuweisen. Dieser Gefährte darf sich anstrengen, um dies zu verhindern.
+  lore: Ein Kämpfer, speziell für den Zweikampf trainiert, schnitt durch die Reihen der Verteidiger aus Rohan, wie eine Sense durch Gras.
+fr:
+  title: Champion d'Orthanc
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    **Affectation :** Affaiblissez le Champion d’Orthanc pour l’affecter à un compagnon dissocié. Ce compagnon peut s’affaiblir pour empêcher ceci.
+  lore: Entraîné pour le combat au corps-à-corps, le guerrier décima les défenseurs.
+it:
+  title: Campione di Orthanc
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    **Assegnazione:** Sforza Campione di Orthanc per assegnarlo a un compagno Non Legato. Quel compagno può sforzarsi per prevenire questo effetto.
+  lore: Guerriero addestrato nel combattimento singolo, falciava le schiere dei difensori.
+es:
+  title: Campeón De Orthanc
+  subtitle: ''
+  text: '**Daño +1.** **Asignación:** Esfuerza el Campeón De Orthanc para asignarlo a un compañero no-vinculado. Ese compañero se puede esforzar para prevenir esto.'
+  lore: Un guerrero entrenado en combate singular, abrió una brecha entre los defensores.

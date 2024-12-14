@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '110'
+unique: true
+culture: Orc
+type: Event
+class: Shadow
+cost: 1
+en:
+  title: Bound to its Fate
+  subtitle: ''
+  text: 'Spot an :orc: minion to reveal the Free Peoples player’s hand. The Free Peoples player chooses to either discard a revealed Free Peoples event or add a burden.'
+  lore: ‘Now it comes to it, I don't like parting with it at all, I may say.’
+de:
+  title: An sein Schicksal gebunden
+  subtitle: ''
+  text: 'Entdecke einen :orc: Diener, um die Hand des Freie Völker Spielers aufzudecken. Der Freie Völker Spieler muss entweder ein aufgedecktes Freie Völker Ereignis ablegen, oder eine Lastmarke auf den Ringträger legen.'
+  lore: Jetzt, da es soweit ist, mag ich ihn ganz und gar nicht hergeben, das muss ich schon sagen.

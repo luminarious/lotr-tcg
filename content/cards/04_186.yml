@@ -1,0 +1,49 @@
+set: '4'
+rarity: R
+number: '186'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '10'
+vit: '3'
+site: 5
+en:
+  title: Uruk Follower
+  subtitle: ''
+  text: |-
+    **Tracker.** **Fierce.**  
+    Unbound Hobbits may not be discarded.   
+    **Response:** If an unbound Hobbit is killed, exert this minion to add a burden. 
+  lore: But at the moment Uglúk was not engaged in sport. He needed speed and had to humour unwilling followers.
+de:
+  title: Uruk Gefolgsmann
+  subtitle: ''
+  text: |-
+    **Spurenleser.** **Erbittert.**  
+    Nicht-verbundene Hobbits dürfen nicht abgelegt werden. **Reaktion:** Strenge diesen Diener an, wenn ein nicht-verbundener Hobbit getötet wird, um eine Lastmarke auf den Ringträger zu legen.
+  lore: Aber im Augenblick war Uglúk nicht auf Scherze aus. Er brauchte Eile und musste unwillige Gefolgsleute bei Laune halten.
+fr:
+  title: Suivant Ourouk
+  subtitle: ''
+  text: |-
+    **Traqueur.** **Acharné.**  
+    Les Hobbits dissociés ne peuvent pas être défaussés. **Réponse :** Si un Hobbit dissocié est tué, affaiblissez ce séide pour ajouter un point-fardeau.
+  lore: 'Mais, pour le moment, Ouglouk n''était pas porté au jeu. Il avait besoin de promptitude, et il devait se prêter aux caprices de suivants involontaires. '
+it:
+  title: Seguace Uruk
+  subtitle: ''
+  text: |-
+    **Inseguitore.**  
+    **Feroce.**  
+    Hobbit Non Legati non possono essere scartati.  
+    **Risposta:** Se un Hobbit Non Legato è ucciso, sforza questo servitore per aggiungere un segnalino fardello.
+  lore: Ma per il momento Uglúk non pensava allo svago. Aveva fretta e doveva incoraggiare e incitare coloro che non avevano voglia di seguirlo.
+es:
+  title: Seguidor Uruk
+  subtitle: ''
+  text: |-
+    **Rastreador.** **Fiero.** Los Hobbits no-vinculados no pueden ser descartados.   
+    **Respuesta:** Si un Hobbit no-vinculado muere, esfuerza este siervo para añadir una carga.
+  lore: Pero por el momento Uglúk no estaba con ánimo de diversiones. Le corría prisa y no era ocasión de discutir con quienes lo seguían de mala gana.

@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '192'
+unique: true
+culture: Moria
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Pinned Down
+  subtitle: ''
+  text: |-
+
+    While you can spot a :moria: archer, the fellowship archery total is -1.
+  lore: Arrows whined and whistled down the corridor as he sprang back.
+de:
+  title: Pfeilhagel
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Solange du einen :moria: Bogenschützen entdecken kannst, reduziert sich der Fernkampfwert der Gemeinschaft um 1.'
+  lore: Pfeile sausten und pfiffen den Gang herunter, als er zurücksprang.
+fr:
+  title: Coincé
+  subtitle: ''
+  text: Tant que vous pouvez désigner un archer :moria:, le total d’archerie de la compagnie est de -1.
+  lore: Des flèches piaulèrent et sifflèrent le long du couloir, tandis qu'il se rejetait en arrière.
+it:
+  title: Inchiodati a Terra
+  subtitle: ''
+  text: Finché puoi avvistare un arciere :moria:, sottrai -1 al totale degli arcieri della Compagnia.
+  lore: Le frecce fischiarono e sibilarono lungo il corridoio mentre egli balzava indietro.
+es:
+  title: Clavado
+  subtitle: ''
+  text: Mientras puedas avistar un arquero :moria:, el total de arquería de la comunidad es -1.
+  lore: …y se tambaleo hacia atrás… Las flechas llegaron silbando…

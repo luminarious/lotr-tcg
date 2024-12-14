@@ -1,0 +1,39 @@
+set: '3'
+rarity: U
+number: '2'
+unique: true
+culture: Dwarven
+type: Possession
+class: Pipe
+cost: 1
+en:
+  title: Gimli's Pipe
+  subtitle: ''
+  text: |-
+    Bearer must be Gimli.   
+    **Fellowship:** Exert Gimli to add 1 to the number of pipes you can spot. 
+  lore: ‘And certainly it was from Bree that the art of smoking the genuine weed spread in the recent centuries among Dwarves and such other folk….’
+de:
+  title: Gimlis Pfeife
+  subtitle: ''
+  text: Muss auf Gimli gespielt werden. **Gemeinschaft.** Strenge Gimli an, um die Zahl der Pfeifen, die du entdecken kannst, um 1 zu erhöhen.
+  lore: Und sicherlich hat sich die Kunst, das echte Kraut zu rauchen, in den letzten Jahrhunderten von Bree aus unter den Zwergen und anderem Volk… verbreitet.
+fr:
+  title: La Pipe de Gimli
+  subtitle: ''
+  text: Le détenteur doit être Gimli. **Compagnie :** Affaiblissez Gimli pour ajouter 1 au nombre de pipes que vous désignez.
+  lore: 'Et c''est certainement de Bree que l''art de fumer l''herbe véritable se répandit au cours des siècles récents parmi les Nains et autres gens…” '
+it:
+  title: La Pipa di Gimli
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Gimli.   
+    **Compagnia:** Sforza Gimli per aggiungere 1 al numero di pipe che puoi avvistare.
+  lore: ‘Fu certo da Brea che l'arte di fumare l'autentica erba pipa si è diffusa recentemente fra i Nani e fra altre genti ancora…’
+es:
+  title: La Pipa de Gimli
+  subtitle: ''
+  text: |-
+    El portador debe ser Gimli.   
+    **Comunidad:** Esfuerza a Gimli para añadir 1 al número de pipas que puedes avistar.
+  lore: …fue en Bree donde nació el arte de fumar la verdadera hierba, y desde allí se extendió en el curso de los últimos siglos entre los Enanos y algunos otros pueblos…

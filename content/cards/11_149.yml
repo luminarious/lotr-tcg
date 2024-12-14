@@ -1,0 +1,19 @@
+set: '11'
+rarity: U
+number: '149'
+unique: true
+culture: Rohan
+type: Condition
+cost: 4
+en:
+  title: Protecting the Hall
+  subtitle: ''
+  text: |-
+    **Toil 2.** (For each :rohan: character you exert when playing this, its twilight cost is –2.) Bearer must be a :rohan: Man.   
+    **Assignment:** Discard this condition from play to make bearer **defender +1.**
+  lore: ‘ are welcome here in days of war but our own folk….’
+de:
+  title: Die Halle verteidigen
+  subtitle: ''
+  text: '**Mühe 2.** Muss auf einen :rohan: Menschen gespielt werden. **Zuweisung:** Lege diesen Effekt ab, um den Träger **Verteidiger +1** zu machen.'
+  lore: Niemand ist uns willkommen, es sei denn, er gehöre zu unserem Volk…

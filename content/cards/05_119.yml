@@ -1,0 +1,18 @@
+set: '5'
+rarity: U
+number: '119'
+unique: true
+culture: ''
+type: Site
+cost: 8
+siteArrow: Right
+en:
+  title: Nan Curunír
+  subtitle: ''
+  text: '**Plains.** **Response:** If your mounted minion is about to take a wound, remove :twilight2: to prevent that wound.'
+  lore: ''
+fr:
+  title: Nan Curunir
+  subtitle: ''
+  text: '**Plaines.** **Réponse :** Si votre séide détenant une monture est sur le point d’être blessé, retirez :twilight2: pour empêcher la blessure.'
+  lore: ''

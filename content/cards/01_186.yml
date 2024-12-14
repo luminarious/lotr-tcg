@@ -1,0 +1,36 @@
+set: '1'
+rarity: R
+number: '186'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 3
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Guard Commander
+  subtitle: ''
+  text: '**Skirmish:** Remove :twilight3: to make a :moria: Orc strength +2.'
+  lore: His broad flat face was swart, his eyes were like coals, and his tongue was red….
+de:
+  title: Kommandant der Wache
+  subtitle: ''
+  text: '**Kampf** Verringere den Einfluss um :twilight3:, um einem :moria: Ork Stärke +2 zu geben.'
+  lore: Sein breites, flaches Gesicht war schwärzlich, seine Augen waren wie Kohlen, und seine Zunge war rot…
+fr:
+  title: Commandant de la Garde
+  subtitle: ''
+  text: '**Combat :** Retirez :twilight3: pour donner à un Orque :moria: +2 en force.'
+  lore: Sa large face plate était basanée, ses yeux, d'un noir de charbon et sa langue, rouge….
+it:
+  title: Comandante Goblin
+  subtitle: ''
+  text: '**Schermaglia:** Rimuovi :twilight3: per aggiungere +2 alla forza di un Orco :moria:.'
+  lore: Fosca era la sua larga faccia piatta, e gli occhi come tizzoni, e la lingua rossa….
+es:
+  title: Comandante de La Guardia
+  subtitle: ''
+  text: '**Escaramuza:** Quita :twilight3: para dar a un Orco :moria: fuerza +2.'
+  lore: La cara ancha y chata era morena, los ojos como carbones, la lengua roja…

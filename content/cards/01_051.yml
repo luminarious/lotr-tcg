@@ -1,0 +1,18 @@
+set: '1'
+rarity: U
+number: '51'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Gandalf
+en:
+  title: Legolas
+  subtitle: Prince of Mirkwood
+  text: |-
+    **Archer.**   
+    While skirmishing a Nazgûl, Legolas is strength +3.
+  lore: There was also a strange Elf clad in green and brown, Legolas, a messenger from his father, Thranduil, the King of the Elves of Northern Mirkwood.

@@ -1,0 +1,13 @@
+set: '15'
+rarity: U
+number: '131'
+unique: true
+culture: Rohan
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Last Days of My House
+  subtitle: ''
+  text: 'Spot 2 :rohan: Men (or 1 hunter :rohan: Man) to play a :rohan: companion or a :rohan: follower from your draw deck.'
+  lore: No parent should have to bury their child.

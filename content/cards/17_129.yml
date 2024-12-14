@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '129'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 6
+str: '17'
+vit: '3'
+site: 5
+en:
+  title: White Hand Legion
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    To play, remove 2 threats.
+  lore: The Orcs yelled and jeered.

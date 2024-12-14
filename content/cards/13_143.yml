@@ -1,0 +1,23 @@
+set: '13'
+rarity: R
+number: '143'
+unique: true
+culture: Shire
+type: Possession
+class: Mount
+cost: 2
+en:
+  title: Bill the Pony
+  subtitle: Dearly-loved
+  text: |-
+    Bearer must be a Ring-bound Hobbit.  
+    When you play Bill the Pony, you may reinforce a :shire: token.  
+    **Regroup:** Spot 2 minions and remove 2 :shire: tokens to make a Shadow player discard a minion from play.
+  lore: Sam would not go to bed until he had visited Bill….
+de:
+  title: Lutz, das Pony
+  subtitle: Innig geliebt
+  text: |-
+    Muss auf einen Ring-verbundenen Hobbit gespielt werden. Du darfst eine :shire: Mar-ke ergänzen, wenn du Lutz, das Pony spielst.  
+    **Sammeln:** Entdecke 2 Diener und entferne 2 :shire: Marken, um den Schattenspieler zu zwingen, einen Diener abzulegen.
+  lore: Sam wollte nicht ins Bett gehen, ehe er Lutz im Stall besucht hatte.

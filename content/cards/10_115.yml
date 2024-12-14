@@ -1,0 +1,22 @@
+set: '10'
+rarity: U
+number: '115'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Slunk Out of Sight
+  subtitle: ''
+  text: |-
+    **Stealth.**   
+    If there are 6 or more :shire: cards in your discard pile, cancel a skirmish involving your Hobbit and a minion who is not fierce. Each minion in that skirmish is **fierce** until the regroup phase. 
+  lore: …harsh and loud they heard orc-voices.
+de:
+  title: Außer Sicht
+  subtitle: ''
+  text: |-
+    **Heimlichkeit.**   
+    Hebe einen Kampf auf, an dem einer deiner Hobbits und ein Diener, der nicht **erbittert** ist, beteiligt sind, wenn du 6 oder mehr :shire: Karten in deinem Ablagestapel hast. Jeder Diener, der an diesem Kampf beteiligt ist, wird bis zur Sammelphase **erbittert**.
+  lore: … als sie harte und laute Orkstimmen hörten.

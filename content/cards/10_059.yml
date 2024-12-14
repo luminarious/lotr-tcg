@@ -1,0 +1,16 @@
+set: '10'
+rarity: R
+number: '59'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 5
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Gorbag
+  subtitle: Covetous Captain
+  text: 'For each wound on the Ring-bearer, each :wraith: Orc is strength +1.'
+  lore: ‘I tell you, it’s no game serving down in the city.’

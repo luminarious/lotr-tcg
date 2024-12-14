@@ -1,0 +1,36 @@
+set: '3'
+rarity: C
+number: '101'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Orc Warrior
+  subtitle: ''
+  text: '**Maneuver:** Exert this minion and discard your :sauron: condition to make the Free Peoples player discard the top 2 cards from his or her draw deck. '
+  lore: Orcs were multiplying again in the mountains.
+de:
+  title: Ork Krieger
+  subtitle: ''
+  text: '**Manöver:** Strenge diesen Diener an und lege einen deiner :sauron: Effekte ab, um den Freie Völker Spieler zu zwingen, die beiden obersten Karten von seinem Spieldeck abzulegen.'
+  lore: Die Orks nahmen wieder an Zahl zu in den Bergen.
+fr:
+  title: Guerrier Orque
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez ce séide et défaussez votre situation :sauron: pour obliger le joueur des Peuples Libres à défausser deux cartes du dessus de sa pioche.'
+  lore: 'Les orques se multipliaient de nouveau dans les montagnes. '
+it:
+  title: Guerriero Orco
+  subtitle: ''
+  text: '**Manovra:** Sforza questo servitore e scarta una tua condizione :sauron: per far scartare al giocatore dei Popoli Liberi le prime due carte del suo mazzo di gioco.'
+  lore: Di nuovo gli Orchi si moltiplicavano, sulle montagne.
+es:
+  title: Guerrero Orco
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza este siervo y descarta tu condición :sauron: para hacer que el jugador de Gentes Libres descarte las 2 cartas superiores de su mazo de robar.'
+  lore: Los Orcos se estaban multiplicando otra vez en las montañas.

@@ -1,0 +1,18 @@
+set: '11'
+rarity: R
+number: '44'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Incited
+  subtitle: ''
+  text: 'Each time a companion loses a skirmish, you may exert Gollum to take a :gollum: card into hand from your discard pile.'
+  lore: ‘He’s much more dangerous than he looks.’
+de:
+  title: Aufgehetzt
+  subtitle: ''
+  text: 'Jedes Mal, wenn ein Gefährte einen Kampf verliert, darfst du Gollum anstrengen, um eine :gollum: Karte aus deinem Ablagestapel auf deine Hand zu nehmen..'
+  lore: Er ist viel gefährlicher, als er aussieht.

@@ -1,0 +1,35 @@
+set: '4'
+rarity: U
+number: '234'
+unique: true
+culture: Raider
+type: Event
+class: Maneuver, Skirmish
+cost: 0
+en:
+  title: Flanking Attack
+  subtitle: ''
+  text: '**Maneuver** or **Skirmish:** Exert a Southron to add :twilight3:. '
+  lore: ‘Our scouts report more Haradrim making their way up here….’
+de:
+  title: Flankenangriff
+  subtitle: ''
+  text: '**Manöver** oder **Kampf** Strenge einen Südländer an, um den Einfluss um :twilight3: zu erhöhen.'
+  lore: Die Kundschafter berichten, dass noch mehr Haradrim auf dem Weg hierher sind….
+fr:
+  title: Attaque Latérale
+  subtitle: ''
+  text: Manœuvre ou **Combat :** Affaiblissez un Suderon pour ajouter :twilight3:.
+  lore: 'Nos éclaireurs rapportent encore plus d''Haradrim remontant jusqu''ici…” '
+it:
+  title: Attacco sul Fianco
+  subtitle: ''
+  text: |-
+    Manovra o   
+    **Schermaglia:** Sforza un Sudrone per aggiungere :twilight3:.
+  lore: ‘Le nostre guide riferiscono di altri Haradrim in avvicinamento…’
+es:
+  title: Ataque Por El Flanco
+  subtitle: ''
+  text: '**Maniobra** o **Escaramuza:** Esfuerza un Sureño para añadir :twilight3:.'
+  lore: Nuestros exploradores informan de que más Haradrim se están acercando…

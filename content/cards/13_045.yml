@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '45'
+unique: true
+culture: Gollum
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Cunningly Hidden
+  subtitle: ''
+  text: 'You may remove from the game 4 :gollum: cards in your discard pile instead of paying the twilight cost for this card. Spot Gollum to make a minion strength +2.'
+  lore: ‘No one ever found out what had become of Déagol….’
+de:
+  title: Listig versteckt
+  subtitle: ''
+  text: 'Du darfst 4 :gollum: Karten aus deinem Ablagestapel ganz aus dem Spiel entfernen, anstatt die Zwielichtkosten für diese Karte zu zahlen. Entdecke Gollum, um einem Diener Stärke +2 zu geben.'
+  lore: Niemand fand je heraus, was mit Déagol geschehen war.

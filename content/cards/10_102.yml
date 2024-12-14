@@ -1,0 +1,21 @@
+set: '10'
+rarity: C
+number: '102'
+unique: true
+culture: Sauron
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+1'
+en:
+  title: Uruk Axe
+  subtitle: ''
+  text: |-
+    Bearer must be a :sauron: minion.   
+    If bearer is an Uruk-hai, it is strength +2. 
+  lore: A sharp edge for the sharp-natured.
+de:
+  title: Urukaxt
+  subtitle: ''
+  text: 'Muss auf einen :sauron: Diener gespielt werden. Wenn ein Uruk-hai hiermit ausgerüstet ist, erhält er Stärke +2.'
+  lore: Eine brutale Klinge für brutale Gesellen.

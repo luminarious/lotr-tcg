@@ -1,0 +1,18 @@
+set: '0'
+rarity: P
+number: '43'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 5
+str: '10'
+vit: '3'
+site: 2
+en:
+  title: Úlairë Nelya
+  subtitle: Ringwraith in Twilight
+  text: |-
+    **Twilight.**   
+    While you can spot 2 burdens or 2 wounds on the Ring-bearer, Úlairë Nelya is **fierce** and **damage +1** 
+  lore: Frodo thought he heard a faint hiss as venomous breath and felt a thin piercing chill. Then the shapes slowly advanced.

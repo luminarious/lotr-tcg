@@ -1,0 +1,18 @@
+set: '5'
+rarity: R
+number: '123'
+unique: true
+culture: Dwarven
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Baruk Khazâd
+  subtitle: ''
+  text: '**Maneuver:** Exert a Dwarf to wound a minion. You may take the next maneuver action.'
+  lore: Axes of the Dwarves!” cried Gimli in the secret tongue of his kin.
+fr:
+  title: Barouk Khazâd
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Nain pour blesser un séide. Vous pouvez effectuer le prochaine action de manœuvre.'
+  lore: Haches des Nains! » s'écria Gimli dans la langue secrète de son peuple.

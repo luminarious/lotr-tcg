@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '159'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Small Hope
+  subtitle: ''
+  text: |-
+    **Maneuver:** If you cannot spot 2 burdens, exert an Easterling to add a burden.   
+    **Skirmish:** Discard this condition to make an Easterling strength +2.
+  lore: ''
+de:
+  title: Geringe Hoffnung
+  subtitle: ''
+  text: |-
+    **Manöver:** Strenge einen Ostling an, wenn du keine 2 Lastmarken entdecken kannst, um eine Lastmarke auf den Ringträger zu legen.   
+    **Kampf:** Lege diesen Effekt ab, um einem Ostling Stärke +2 zu geben.
+  lore: …dass selbst Faramir die Furten würde lange halten können.

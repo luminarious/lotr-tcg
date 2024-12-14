@@ -1,0 +1,18 @@
+set: '1'
+rarity: R
+number: '96'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Boromir
+  subtitle: Lord of Gondor
+  text: |-
+    **Ranger.**   
+    Boromir is not overwhelmed unless his strength is tripled.
+  lore: ‘…Boromir will also be in the Company. He is a valiant man.’

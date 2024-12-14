@@ -1,0 +1,16 @@
+set: '7'
+rarity: R
+number: '16'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Gandalf
+en:
+  title: Arwen
+  subtitle: Fair Elf Maiden
+  text: While skirmishing a fierce minion, Arwen is strength +3.
+  lore: ‘But she also sends word to you… Fair well, Elfstone!’

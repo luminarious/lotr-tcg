@@ -1,0 +1,27 @@
+set: '4'
+rarity: R
+number: '176'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '3'
+site: 5
+en:
+  title: Uglúk
+  subtitle: Servant of Saruman
+  text: |-
+    **Tracker.** **Fierce.**  
+    The roaming penalty for each :isengard: tracker you play is -2.  
+    While you can spot 2 :isengard: trackers, Uglúk is strength +3.  
+    While you can spot 3 :isengard: trackers, Uglúk is **damage +1.**
+  lore: ''
+fr:
+  title: Ouglouk
+  subtitle: Serviteur de Saroumane
+  text: |-
+    **Traqueur.** **Acharné.**  
+    La pénalité d’errance pour chacun des traqueurs :isengard: que vous jouez est de -2. Tant que vous pouvez désigner 2 traqueurs :isengard:, Ouglouk a +3 en force. Tant que vous pouvez désigner 3 traqueurs :isengard: Ouglouk inflige des **dégâts +1.**
+  lore: ''

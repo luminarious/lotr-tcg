@@ -1,0 +1,22 @@
+set: '9'
+rarity: R
+number: '6'
+unique: true
+culture: Dwarven
+type: Artifact
+class: Ring
+cost: 0
+str: '+1'
+en:
+  title: Ring of Accretion
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf.   
+    Bearer is **damage +1.**   
+    **Maneuver:** For each Dwarf you spot, reveal a card from the top of your draw deck. Take all Free Peoples cards revealed into hand and discard the rest. Discard this artifact. 
+  lore: ''
+de:
+  title: Der Ring des Wachstums
+  subtitle: ''
+  text: Muss auf einen Zwerg gespielt werden. Der Träger erhält **Schaden +1**. **Manöver:** Decke eine Karte für jeden Zwerg, den du entdeckst, von oben von deinem Spieldeck auf. Nimm alle aufgedeckten Karten der Freien Völker auf deine Hand und lege den Rest ab. Lege dieses Artefakt ab.
+  lore: ''

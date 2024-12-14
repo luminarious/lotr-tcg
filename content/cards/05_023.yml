@@ -1,0 +1,40 @@
+set: '5'
+rarity: U
+number: '23'
+unique: true
+culture: Gollum
+type: Condition
+cost: 1
+en:
+  title: Follow Sméagol
+  subtitle: ''
+  text: |-
+    Plays on Sméagol.   
+    **Regroup:** Exert Sméagol or Gollum to play the fellowship’s next site (replacing opponent’s site if necessary).
+  lore: ‘Follow Sméagol very carefully, and you may go a long way, quite a long way, before He catches you, yes perhaps.’
+de:
+  title: Folgt Sméagol!
+  subtitle: ''
+  text: Muss auf Sméagol gespielt werden. **Sammeln:** Strenge Sméagol oder Gollum an, um den nächsten Ort deiner Gemeinschaft auszuspielen (und nötigenfalls die Ortskarte eines Gegenspielers zu ersetzen).
+  lore: Folgt Sméagol sehr vorsichtig, dann könnt ihr einen langen Weg, einen recht langen Weg gehen, ehe Er euch erwischt, ja, vielleicht.
+fr:
+  title: Suivez Sméagol
+  subtitle: ''
+  text: |-
+    Jouable sur Sméagol.   
+    **Ralliement :** Affaiblissez Sméagol ou Gollum pour jouer le prochain site de la compagnie (en remplaçant si nécessaire le site d’un adversaire).
+  lore: 'Suivez Sméagol avec grand soin, et vous pourrez aller loin, très loin, avant qu''Il ne vous attrape, oui, peut-être.” '
+it:
+  title: Seguite Sméagol
+  subtitle: ''
+  text: |-
+    Giocala su Sméagol.   
+    **Raccolta:** Sforza Sméagol o Gollum per giocare il prossimo sito della compagnia (rimpiazzando il sito dell’avversario se necessario).
+  lore: ‘Seguite Sméagol molto attentamente, e farete forse molta strada, molta molta strada, prima che Lui vi trovi.’
+es:
+  title: Seguid a Sméagol
+  subtitle: ''
+  text: |-
+    Se juega sobre Sméagol.   
+    **Reagrupación:** Esfuerza a Sméagol o a Gollum para jugar el sitio siguiente de la comunidad (reemplazando el de tu oponente si es necesario).
+  lore: Seguid a Sméagol con cuidado, y podréis ir lejos, muy lejos, antes que Él os atrape, sí, quizá.

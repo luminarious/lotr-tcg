@@ -1,0 +1,42 @@
+set: '4'
+rarity: C
+number: '15'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 1
+str: '5'
+vit: '1'
+site: 3
+en:
+  title: Dunlending Ravager
+  subtitle: ''
+  text: |-
+    While skirmishing a :rohan: Man, this minion is strength +2.   
+    **Assignment:** Spot an ally to make that ally participate in skirmishes and assign this minion to skirmish that ally. 
+  lore: ‘They will not give way now for dusk or dawn, until Théoden is taken, or they themselves are slain.’
+de:
+  title: Dunland Vandale
+  subtitle: ''
+  text: 'Solange dieser Diener gegen einen :rohan: Menschen kämpft, erhält er Stärke+2. **Zuweisung:** Entdecke einen Verbündeten, um diesen zu zwingen am Kampf teilzunehmen. Der Dunland Vandale wird diesem Verbündeten zugewiesen.'
+  lore: Sie werden nicht zurückweichen, ob nun die Abend – oder Morgendämmerung kommt, bis Théoden gefangengenommen ist oder sie selbst erschlagen sind.
+fr:
+  title: Ravageur Dun
+  subtitle: ''
+  text: Lorsqu’il combat un Homme :rohan:, ce séide a +2 en force. **Affectation :** Désignez un allié pour faire participer cet allié aux combats et affecter ce séide au combat de cet allié.
+  lore: 'Ils ne fléchiront pas maintenant, que ce soit le crépuscule ou l''aube, tant que Théoden ne sera pris ou eux-mêmes tués.” '
+it:
+  title: Distruttore Dunlandiano
+  subtitle: ''
+  text: |-
+    Mentre schermaglia con un Uomo :rohan:, aggiungi +2 alla forza di questo servitore.   
+    **Assegnazione:** Avvista un alleato per far parteci-pare quell’alleato alle schermaglie e assegnare questo servitore a schermagliare con quell’alleato.
+  lore: ‘Alba e crepuscolo non li faranno indietreggiare se prima non avranno fatto prigioniero Théoden, o non si saranno fatti tutti uccidere.’
+es:
+  title: Devastador Dunlendino
+  subtitle: ''
+  text: |-
+    Mientras esté en una escaramuza contra un Hombre :rohan:, este siervo es fuerza +2.   
+    **Asignación:** Avista un aliado para hacer que ese aliado participe en escaramuzas y asignar este siervo contra ese aliado.
+  lore: No los detendrán las luces del alba ni las sombras del crepúsculo, hasta que hayan tomado prisionero a Théoden, o ellos mismos hayan sucumbido.

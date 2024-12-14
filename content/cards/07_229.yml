@@ -1,0 +1,16 @@
+set: '7'
+rarity: C
+number: '229'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Éowyn
+  subtitle: Restless Maiden
+  text: '**Skirmish:** Discard a possession borne by Éowyn to make her strength +2.'
+  lore: He turned and saw her as a glimmer… for she was clad in white; but her eyes were on fire.

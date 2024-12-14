@@ -1,0 +1,36 @@
+set: '4'
+rarity: C
+number: '207'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '3'
+site: 5
+en:
+  title: Uruk-hai Raiding Party
+  subtitle: ''
+  text: '**Damage +1. **'
+  lore: Bands of Uruks crossed the plains of Rohan.
+de:
+  title: Uruk-hai Stoßtrupp
+  subtitle: ''
+  text: '**Schaden +1.**'
+  lore: Banden von Uruks zogen durch die Ebenen von Rohan.
+fr:
+  title: Pillards Ourouk-Haï
+  subtitle: ''
+  text: '**Dégâts +1.**'
+  lore: Des groupes d'Ourouks traversaient les plaines de Rohan.
+it:
+  title: Predoni Uruk-hai
+  subtitle: ''
+  text: '**Danno +1.**'
+  lore: Le bande di Uruk attraversavano le pianure di Rohan.
+es:
+  title: Partida De Asalto Uruk-hai
+  subtitle: ''
+  text: '**Daño +1.**'
+  lore: Bandas de Uruks cruzaron las llanuras de Rohan.

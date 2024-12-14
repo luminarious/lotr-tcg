@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '23'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Into the West
+  subtitle: ''
+  text: '**Regroup:** Exert an Elf to reveal the top card of your draw deck. If it is an :elven: card, remove 3 threats. Place the revealed card beneath your draw deck.'
+  lore: ‘The days are now short.’
+de:
+  title: Gen Westen
+  subtitle: ''
+  text: '**Sammeln:** Strenge einen Elben an, um die oberste Karte deines Spieldecks aufzudecken. Entferne 3 Bedrohungen, wenn es sich um eine :elven: Karte handelt. Lege die aufgedeckte Karte unter dein Spieldeck.'
+  lore: Die Tage sind nun kurz.

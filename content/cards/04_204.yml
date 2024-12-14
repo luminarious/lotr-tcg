@@ -1,0 +1,44 @@
+set: '4'
+rarity: C
+number: '204'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Uruk-hai Marauder
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    The twilight cost of this minion is -1 for each site you control. 
+  lore: ‘We shall have some fun later.’
+de:
+  title: Marodierende Uruk-hai
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Die Zwielichtkosten für diesen Diener reduzieren sich um 1 für jeden Ort, den du kontrollierst.
+  lore: Wir werden nachher noch Spaß haben.
+fr:
+  title: Maraudeur Ourouk-Haï
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    Le coût crépusculaire de ce séide est de -1 pour chaque site que vous contrôlez.
+  lore: 'Nous nous amuserons plus tard.” '
+it:
+  title: Predatore Uruk-hai
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    Sottrai -1 al costo crepuscolo di questo servitore per ogni sito che controlli.
+  lore: ‘Ci divertiremo davvero, più tardi.’
+es:
+  title: Merodeador Uruk-hai
+  subtitle: ''
+  text: '**Daño +1.** El coste de penumbra de este siervo es -1 por cada sitio que controles.'
+  lore: Cómo nos divertiremos más tarde.

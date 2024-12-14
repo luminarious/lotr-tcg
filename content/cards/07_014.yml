@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '14'
+unique: true
+culture: Dwarven
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Slaked Thirsts
+  subtitle: ''
+  text: 'Choose one: Spot a Dwarf to draw a card; or, if this card is stacked on a :dwarven: condition, spot a Dwarf companion and discard this event to exert a minion twice.'
+  lore: ‘Food and drink would pay off some of my score against you.’
+de:
+  title: Gestillter Durst
+  subtitle: ''
+  text: 'Entdecke einen Zwerg, um eine Karte zu ziehen, oder entdecke einen Zwergengefährten und lege dieses Ereignis ab, wenn es auf einem :dwarven: Effekt lagert, um einen Diener zweimal anzustrengen.'
+  lore: Essen und Trinken würden einen Teil meiner Rechnung gegen euch begleichen.

@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '238'
+unique: true
+culture: Rohan
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Knights of His House
+  subtitle: ''
+  text: 'Choose an opponent. For each mounted companion you spot, that opponent must remove :twilight1: or place a random card from hand beneath his or her draw deck.'
+  lore: Éomer rode there, and the white horsetail on his helm floating in his speed….
+de:
+  title: Die Ritter Seines Hauses
+  subtitle: ''
+  text: 'Wähle einen Gegenspieler aus. Dieser muss für jeden berittenen Gefährten, den du entdeckst, entweder den Einfluss um :twilight1: verringern oder eine zufällig bestimmte Karte aus seiner Hand unter sein Spieldeck legen.'
+  lore: Éomer ritt dort so geschwind, dass der weiße Pferdeschweif an seinem Helm flatterte…

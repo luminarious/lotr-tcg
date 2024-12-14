@@ -1,0 +1,20 @@
+set: '11'
+rarity: R
+number: '207'
+unique: true
+culture: Wraith
+type: Event
+class: Shadow
+cost: 6
+en:
+  title: Dark Powers Strengthen
+  subtitle: ''
+  text: '**Toil 2.** (For each :wraith: character you exert when playing this, its twilight cost is –2.) Spot a Nazgûl to draw 3 cards.'
+  lore: The Witch-king nearly seized the Ring in Frodo’s moment of weakness.
+de:
+  title: Dunkle Kräfte nehmen zu
+  subtitle: ''
+  text: |-
+    **Mühe 2.** *(Für jeden* :wraith: *Charakter, den du beim Ausspielen dieser Karte anstrengst, reduzieren sich deren Kosten um 2.)*   
+    Entdecke einen Nazgûl, um 3 Karten zu ziehen.
+  lore: Fast ergriff der Hexenkönig den Ring in Frodos Moment der Schwäche.

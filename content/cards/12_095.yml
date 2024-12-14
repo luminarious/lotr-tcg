@@ -1,0 +1,25 @@
+set: '12'
+rarity: C
+number: '95'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 2
+str: '5'
+vit: '2'
+site: 4
+en:
+  title: Orc Skulker
+  subtitle: ''
+  text: |-
+    **Lurker.** *(Skirmishes involving lurker minions must be resolved after any others.)*   
+    Each skirmish event you play is twilight cost –1.
+  lore: ‘I have never heard before of Orcs upon Amon Hen. Yet who knows what may happen in these evil days….’
+de:
+  title: Orkschleicher
+  subtitle: ''
+  text: |-
+    **Schleicher.** *(Kämpfe mit Schleichern dürfen erst nach allen anderen abgehandelt werden.)*  
+    Jedes Kampfereignis, das du spielst,kostet 1 weniger.
+  lore: Dass Orks auf Amon Hen waren, habe ich noch nie gehört. Indes, wer weiß, was in diesen bösen Tagen geschehen mag….

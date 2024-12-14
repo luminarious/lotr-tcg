@@ -1,0 +1,16 @@
+set: '18'
+rarity: U
+number: '60'
+unique: true
+culture: Man
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Corsair Boarding Axe
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: minion.  
+    **Skirmish:** Remove :twilight3: to reinforce a :men: token and make bearer **fierce** until the regroup phase.
+  lore: Small and light, the boarding axe is ideal for close-quarters fighting aboard ships or in confined spaces.

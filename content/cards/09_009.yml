@@ -1,0 +1,24 @@
+set: '9'
+rarity: R
+number: '9'
+unique: true
+culture: Dwarven
+type: Artifact
+class: Ring
+cost: 0
+str: '+1'
+vit: '+1'
+en:
+  title: Ring of Retribution
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf.   
+    **Response:** If bearer wins a skirmish, discard this artifact to exert each Orc. 
+  lore: ‘We fought this war for vengeance, and vengeance we have taken. But it is not sweet.’
+de:
+  title: Der Ring der Vergeltung
+  subtitle: ''
+  text: |-
+    Muss auf einen Zwerg gespielt werden.   
+    **Reaktion:** Lege dieses Artefakt ab, um jeden Ork anzustrengen, wenn der Träger einen Kampf gewinnt.
+  lore: Wir führten diesen Krieg um der Rache willen, und Rache haben wir genommen. Aber sie ist nicht süß

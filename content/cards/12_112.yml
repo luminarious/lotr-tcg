@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '112'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '7'
+en:
+  title: Éomer
+  subtitle: Éored Leader
+  text: |-
+    While you can spot a :rohan: Man, Éomer’s twilight cost is –1.   
+    **Maneuver:** If you can spot more minions than companions, exert Éomer to play a :rohan: companion from your draw deck.
+  lore: …the front of the first éored roared like a breaker foaming to the shore….

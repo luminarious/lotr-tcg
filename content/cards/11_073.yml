@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '73'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Corps of Harad
+  subtitle: ''
+  text: While this minion is at a battleground site, it is **Fierce.**
+  lore: When an enemy offers resistance, the Haradrim bloodlust rises to the occasion.
+de:
+  title: Haradkorps
+  subtitle: ''
+  text: 'Solange sich dieser Diener an einem Schlachtfeld befindet, ist er **erbittert**. '
+  lore: Mit dem Widerstand der Feinde steigt die Blutlust der Haradrim.

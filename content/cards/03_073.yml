@@ -1,0 +1,33 @@
+set: '3'
+rarity: U
+number: '73'
+unique: true
+culture: Isengard
+type: Event
+class: Regroup
+cost: 1
+en:
+  title: The Trees Are Strong
+  subtitle: ''
+  text: '**Regroup:** Discard X :isengard: Orcs to make the Free Peoples player wound X companions. '
+  lore: ‘Their roots go deep.’
+de:
+  title: Die Bäume sind stark
+  subtitle: ''
+  text: '**Sammeln:** Lege X :isengard: Orks ab, um den Freie Völker Spieler zu zwingen, X Gefährten zu verwunden.'
+  lore: Ihre Wurzeln dringen tief.
+fr:
+  title: Les Arbres Sont Solides
+  subtitle: ''
+  text: '**Ralliement :** Défaussez X Orques :isengard: pour obliger le joueur des Peuples Libres à blesser X compagnons.'
+  lore: 'Leurs racines sont profondes.” '
+it:
+  title: Gli Alberi sono Forti
+  subtitle: ''
+  text: '**Raccolta:** Scarta X Orchi :isengard: per far ferire al giocatore dei Popoli Liberi X compagni.'
+  lore: ‘Le loro radici sono profonde.’
+es:
+  title: Los Árboles Son Fuertes
+  subtitle: ''
+  text: '**Reagrupación:** Descarta X Orcos :isengard: para hacer que el jugador de Gentes Libres hiera X compañeros.'
+  lore: Sus raíces son profundas.

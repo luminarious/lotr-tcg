@@ -1,0 +1,39 @@
+set: '4'
+rarity: C
+number: '102'
+unique: true
+culture: Gandalf
+type: Event
+class: Regroup
+cost: 3
+en:
+  title: Task Was Not Done
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Regroup:** Exert Gandalf to discard up to 2 wounded minions. 
+  lore: ‘Naked I was sent back – for a brief time, until my task is done. And naked I lay upon the mountain-top.’
+de:
+  title: Die Aufgabe ist noch nicht erfüllt
+  subtitle: ''
+  text: '**Zauberspruch.** **Sammeln:** Strenge Gandalf an, um bis zu 2 verwundete Diener abzulegen.'
+  lore: Nackt wurde ich zurückgeschickt – für eine kurze Zeit, bis meine Aufgabe erfüllt ist. Und nackt lag ich auf dem Berggipfel.
+fr:
+  title: La Tâche ne Fut Pas Accomplie
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Ralliement :** Affaiblissez Gandalf pour défausser jusqu’à 2 séides blessés.
+  lore: 'Je fus renvoyé nu, pour une brève période, jusqu''à ce que ma tâche soit accomplie. Et nu je restai étendu sur le sommet de la montagne.” '
+it:
+  title: Il Dovere non è Stato Compiuto
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Raccolta:** Sforza Gandalf per scartare fino a due servitori feriti.
+  lore: Nudo fui rimandato indietro, ma per un breve tempo, finché il mio compito non fosse concluso. E giacqui nudo in cima alla montagna.
+es:
+  title: La Tarea No Fue Cumplida
+  subtitle: ''
+  text: '**Hechizo.** **Reagrupación:** Esfuerza a Gandalf para descartar hasta 2 siervos heridos.'
+  lore: Desnudo fui enviado de vuelta, durante un tiempo, hasta que llevara a cabo mi trabajo. Y desnudo yací en la cima de la montaña.

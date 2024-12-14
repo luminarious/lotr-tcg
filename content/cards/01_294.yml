@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '294'
+unique: true
+culture: Shire
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Hobbit Appetite
+  subtitle: ''
+  text: '**Fellowship:** Add :twilightX: to heal a Hobbit companion X times.'
+  lore: ‘What about Elevenses, Luncheon, Afternoon Tea and Supper – he knows about them, doesn't he?’
+de:
+  title: Hobbit Appetit
+  subtitle: ''
+  text: '**Gemeinschaft.** Erhöhe den Einfluss um :twilightX:, um einen Hobbitgefährten X mal zu heilen.'
+  lore: Was ist mit zweitem Frühstück, Mittagessen, Nachmittagstee und Abendbrot – darüber weiss er doch Bescheid, oder?
+fr:
+  title: Appétit Hobbit
+  subtitle: ''
+  text: '**Compagnie :** Ajoutez :twilightX: pour guérir un compagnon Hobbit X fois.'
+  lore: ‘Et à propos de la collation de 11 heures, du déjeuner, du goûter et du souper – il est au courant, n'est-ce pas ?’
+it:
+  title: Appetito degli Hobbit
+  subtitle: ''
+  text: '**Compagnia:** Aggiungi :twilightX: per curare un compagno Hobbit X volte.'
+  lore: ‘E circa la Prima Colazione, il Pranzo, il Tè del pomeriggio e la Cena – lui li conosce, non è vero?’
+es:
+  title: Apetito Hobbit
+  subtitle: ''
+  text: '**Comunidad:** Añade :twilightX: para curar un compañero Hobbit X veces.'
+  lore: ¿Que hay del desayuno, el almuerzo, el té de la tarde y la cena – los conoce, verdad?

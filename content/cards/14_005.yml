@@ -1,0 +1,18 @@
+set: '14'
+rarity: R
+number: '5'
+unique: true
+culture: Gandalf
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Brand
+  subtitle: King of Dale
+  text: |-
+    Each of your Dwarves and other :gandalf: Men is strength +1.  
+    While you can spot more minions than companions, the fellowship archery total is +X, where X is the number of minions minus the number of companions.
+  lore: …he had the aid of the Dwarves of Erebor.

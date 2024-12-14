@@ -1,0 +1,23 @@
+set: '7'
+rarity: C
+number: '240'
+unique: true
+culture: Rohan
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Long Spear
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.   
+    You may add a threat to play this possession anytime you could play a skirmish event.
+  lore: ''
+de:
+  title: Langspeer
+  subtitle: ''
+  text: |-
+    Muss auf einen :rohan: Menschen gespielt werden.   
+    Du darfst eine Bedrohung entstehen lassen, um diese Ausrüstung immer dann zu spielen, wenn du ein Kampfereignis spielen könntest.
+  lore: …und erfahrener waren ihre Ritter mit langen und grausamen Speeren.

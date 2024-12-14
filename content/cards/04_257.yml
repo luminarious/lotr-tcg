@@ -1,0 +1,46 @@
+set: '4'
+rarity: R
+number: '257'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Southron Veterans
+  subtitle: ''
+  text: |-
+    **Southron.** **Ambush** :twilight1:.  
+    **Maneuver:** Exert this minion and spot 6 companions to make the Free Peoples player exert 2 companions. 
+  lore: He caught a glimpse of swarthy men… running down the slope some way off….
+de:
+  title: Erfahrene Südländer
+  subtitle: ''
+  text: |-
+    **Südländer.****Hinterhalt** :twilight1:.  
+    **Manöver:** Strenge diesen Diener an und entdecke 6 Gefährten, um den Freie Völker Spieler zu zwingen, 2 Gefährten anzustrengen.
+  lore: Flüchtig sah er schwärzliche Menschen…, die in einiger Entfernung den Hang hinunterrannten….
+fr:
+  title: Vétérans Suderons
+  subtitle: ''
+  text: |-
+    **Suderon.** **Embuscade** :twilight1:.  
+    **Manœuvre :** Affaiblissez ce séide et désignez 6 compagnons pour obliger le joueur des Peuples Libres à affaiblir deux compagnons.
+  lore: 'Il eut un moment la vision d''hommes… qui descendaient la pente en courant à quelque distance… '
+it:
+  title: Veterani Sudroni
+  subtitle: ''
+  text: |-
+    **Sudrone.****Imboscata** :twilight1:.  
+    **Manovra:** Sforza questo servitore e avvista 6 compagni per far sforzare 2 compagni al giocatore dei Popoli Liberi.
+  lore: …intravide degli Uomini di carnagione scura… scendere di corsa il pendio…
+es:
+  title: Veteranos Sureños
+  subtitle: ''
+  text: |-
+    Sureños. **Emboscar** :twilight1:.  
+    **Maniobra:** Esfuerza este siervo y avista 6 compañeros para hacer que el jugador de Gentes Libres esfuerce a 2 compañeros.
+  lore: Por un momento alcanzó a ver a unos hombres endrinos… que corrían cuesta abajo a cierta distancia…

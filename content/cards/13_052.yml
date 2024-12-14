@@ -1,0 +1,21 @@
+set: '13'
+rarity: U
+number: '52'
+unique: true
+culture: Gollum
+type: Event
+class: Shadow
+cost: 2
+en:
+  title: Little Snuffler
+  subtitle: ''
+  text: |-
+    If the fellowship is in region 1, spot Gollum to wound a companion.  
+    If the fellowship is in region 2, spot Gollum to exert a companion.  
+    If the fellowship is in region 3, play a :gollum: minion from your discard pile.
+  lore: ''
+de:
+  title: Kleiner Schnüffler
+  subtitle: ''
+  text: 'Entdecke Gollum, um einen Gefährten zu verwunden, wenn sich die Gemeinschaft in Region 1 befindet. Entdecke Gollum, um einen Gefährten anzustrengen, wenn sich die Gemeinschaft in Region 2 befindet. Spiele einen :gollum: Diener aus deinem Ablagestapel, wenn sich die Gemeinschaft in Region 3 befindet.'
+  lore: ''

@@ -1,0 +1,25 @@
+set: '12'
+rarity: R
+number: '85'
+unique: true
+culture: Orc
+type: Minion
+race: Troll
+cost: 12
+str: '15'
+vit: '4'
+site: 4
+en:
+  title: Cave Troll of Moria
+  subtitle: Savage Menace
+  text: |-
+    **Damage +1. Fierce. Toil 2.** *(For each *:orc:* character you exert when playing this, its twilight cost is –2.)*   
+    Each time an :orc: lurker wins a skirmish, you may make the Free Peoples player discard the top 2 cards of his or her draw deck.
+  lore: ‘There is no hope of escape that way.’
+de:
+  title: Der Höhlentroll von Moria
+  subtitle: Wilde Bedrohung
+  text: |-
+    **Schaden +1. Erbittert. Mühe 2.**  
+    Jedes Mal, wenn ein :orc: Schleicher einen Kampf gewinnt, darfst du den FreieVölker Spieler zwingen, die beiden obersten Karten seines Spieldecks abzulegen.
+  lore: Auf jenem Weg zu fliehen besteht keine Hoffnung.

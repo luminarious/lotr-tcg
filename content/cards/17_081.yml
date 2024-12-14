@@ -1,0 +1,16 @@
+set: '17'
+rarity: C
+number: '81'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Orkish Marauder
+  subtitle: ''
+  text: 'This minion is strength +1 for each :orc: condition in your discard pile.'
+  lore: As the Orcs silently approached, the fear they brought multiplied.

@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '35'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: No Colour Now
+  subtitle: ''
+  text: 'Discard your :gandalf: condition from play to discard a condition from play and draw a card.'
+  lore: He raised his hand, and spoke slowly in a clear cold voice. ‘Saruman, your staff is broken.’
+de:
+  title: Jetzt keine Farbe
+  subtitle: ''
+  text: 'Lege einen deiner :gandalf: Effekte ab, um einen Effekt abzulegen und eine Karte zu ziehen.'
+  lore: 'Er hob die Hand und sprach langsam mit einer klaren, kalten Stimme: "Saruman, dein Stab ist zerbrochen.'

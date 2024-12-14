@@ -1,0 +1,20 @@
+set: '9'
+rarity: R
+number: '10'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Sindri
+  subtitle: Dwarven Lord
+  text: 'You may play :dwarven: skirmish events stacked on :dwarven: conditions as if from hand. '
+  lore: Concerning the beginning of the Dwarves strange tales are told both by the Eldar and by the Dwarves themselves….
+de:
+  title: Borin
+  subtitle: Zwergenkönig
+  text: 'Du darfst :dwarven: Ereignisse, die auf :dwarven: Effekten gelagert sind, spielen, als wären sie auf deiner Hand.'
+  lore: Über die Anfänge der Zwerge werden seltsame Geschichten erzählt, sowohl von den Eldar als auch von den Zwergen selbst…

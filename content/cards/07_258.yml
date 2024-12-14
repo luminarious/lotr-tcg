@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '258'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: White Hot Fury
+  subtitle: ''
+  text: 'Make a mounted :rohan: Man strength +1 for each mounted companion. If that Man is skirmishing a :raider: minion, also make him or her strength +2 and damage +2.'
+  lore: Fewer were they but they clove through the Southrons like a fire-bolt in a forest.
+de:
+  title: Heiß brennende Wut
+  subtitle: ''
+  text: 'Gib einem berittenen :rohan: Menschen Stärke +1 für jeden berittenen Gefährten. Wenn dieser Mensch gegen einen :raider: Diener kämpft, gib ihm noch zusätzlich Stärke +2 und **Schaden +2**.'
+  lore: Geringer an Zahl waren sie, aber sie fuhren durch die Südländer hindurch wie ein feuriger Blitz durch einen Wald.

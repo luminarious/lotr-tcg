@@ -1,0 +1,40 @@
+set: '5'
+rarity: C
+number: '62'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '6'
+vit: '2'
+site: 5
+en:
+  title: Uruk Sapper
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    When you play this minion, you may place an :isengard: token on a machine.
+  lore: The destruction of the Hornburg fortifications was the task of Saruman’s engineer troops.
+de:
+  title: Uruk Pionier
+  subtitle: ''
+  text: '**Schaden +1**. Wenn du diesen Diener spielst, darfst du eine :isengard: Marke auf eine Kriegsmaschine legen.'
+  lore: Die Aufgabe von Sarumans Pioniertruppen bestand in der Zerstörung der Befestigungen der Hornburg.
+fr:
+  title: Sapeur Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**   
+    Quand vous jouez ce séide, vous pouvez déposer un jeton :isengard: sur une machine.
+  lore: La destruction des fortifications du Fort le Cor revenait aux troupes d'ingénieurs de Saroumane.
+it:
+  title: Zappatore Uruk
+  subtitle: ''
+  text: '**Danno +1.** Quando giochi questo servitore, puoi piazzare un segnalino :isengard: su una **Macchina da Guerra.**'
+  lore: La distruzione del Trombatorrione era lo scopo degli zappatori di Saruman.
+es:
+  title: Zapador Uruk
+  subtitle: ''
+  text: '**Daño +1.** Cuando juegas este siervo, puedes poner un contador :isengard: en una **Máquina.**'
+  lore: La destrucción de las fortificaciones de Cuernavilla era el trabajo de los ingenieros de Saruman.

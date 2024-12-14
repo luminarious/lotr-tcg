@@ -1,0 +1,13 @@
+set: '15'
+rarity: R
+number: '119'
+unique: true
+culture: Orc
+type: Event
+class: Shadow
+cost: 1
+en:
+  title: Unreasonable Choice
+  subtitle: ''
+  text: 'Spot 2 :orc: minions to discard a Free Peoples condition. The Free Peoples player may add :twilight2: for each Free Peoples condition you can spot to prevent that.'
+  lore: An attacking swarm of Orcs leaves few desirable options.

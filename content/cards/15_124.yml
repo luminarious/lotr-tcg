@@ -1,0 +1,49 @@
+set: '15'
+rarity: R
+number: '124'
+unique: true
+culture: Rohan
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Éomer’s Spear
+  subtitle: Trusty Weapon
+  text: |-
+    Bearer must be a :rohan: Man.  
+    If bearer is Éomer and he is unwounded, he is **damage +1** and resistance +1.  
+    **Skirmish:** If bearer is Éomer, discard this possession to wound a minion he is skirmishing.
+  lore: Aim for their heads!
+de:
+  title: Éomer's Spear
+  subtitle: Trusty Weapon
+  text: |-
+    Bearer must be a :rohan: Man.  
+    If bearer is Éomer and he is unwounded, he is **damage +1** and resistance +1.  
+    **Skirmish:** If bearer is Éomer, discard this possession to wound a minion he is skirmishing.
+  lore: Aim for their heads!
+fr:
+  title: Éomer's Spear
+  subtitle: Trusty Weapon
+  text: |-
+    Bearer must be a :rohan: Man.  
+    If bearer is Éomer and he is unwounded, he is **damage +1** and resistance +1.  
+    **Skirmish:** If bearer is Éomer, discard this possession to wound a minion he is skirmishing.
+  lore: Aim for their heads!
+it:
+  title: Éomer's Spear
+  subtitle: Trusty Weapon
+  text: |-
+    Bearer must be a :rohan: Man.  
+    If bearer is Éomer and he is unwounded, he is **damage +1** and resistance +1.  
+    **Skirmish:** If bearer is Éomer, discard this possession to wound a minion he is skirmishing.
+  lore: Aim for their heads!
+es:
+  title: Éomer's Spear
+  subtitle: Trusty Weapon
+  text: |-
+    Bearer must be a :rohan: Man.  
+    If bearer is Éomer and he is unwounded, he is **damage +1** and resistance +1.  
+    **Skirmish:** If bearer is Éomer, discard this possession to wound a minion he is skirmishing.
+  lore: Aim for their heads!

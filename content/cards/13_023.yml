@@ -1,0 +1,21 @@
+set: '13'
+rarity: C
+number: '23'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Shrouded Elf
+  subtitle: ''
+  text: '**Response:** If you play an event during a skirmish involving this companion, exert this companion to place that event on top of your draw deck.'
+  lore: Cloaked by Elven garments and by darkness, warriors led by Haldir reinforced Helm’s Deep.
+de:
+  title: Verhüllter Elb
+  subtitle: ''
+  text: '**Reaktion:** Strenge diesen Gefährten an, wenn du ein Ereignis in einem Kampf spielst, an dem dieser Gefährte beteiligt ist, um dieses oben auf dein Spieldeck zu legen.'
+  lore: Elbenkrieger, in tarnende Gewänder und Dunkelheit gehüllt, kamen unter der Führung Haldirs Helms Klamm zu Hilfe.

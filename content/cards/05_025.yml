@@ -1,0 +1,15 @@
+set: '5'
+rarity: R
+number: '25'
+unique: true
+culture: Gollum
+type: Minion
+cost: 2
+str: '5'
+vit: '4'
+site: 3
+en:
+  title: Gollum
+  subtitle: Stinker
+  text: Gollum is strength +1 for each burden. Each time Gollum wins a skirmish, you may add a burden.
+  lore: ‘Still he’s a Baggins, my precious, yes, a Baggins. A Baggins stole it. He found it and he said nothing. We hates Bagginses.’

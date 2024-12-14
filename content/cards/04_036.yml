@@ -1,0 +1,36 @@
+set: '4'
+rarity: U
+number: '36'
+unique: true
+culture: Dunland
+type: Possession
+class: Hand Weapon
+cost: 0
+str: '+2'
+en:
+  title: War Club
+  subtitle: ''
+  text: |-
+    Bearer must be a :dunland: Man.   
+    Each time bearer wins a skirmish, you may discard 2 Free Peoples possessions. 
+  lore: The wooden weapons of the wild men slew scores of unarmed villagers.
+de:
+  title: Kriegskeule
+  subtitle: ''
+  text: 'Muss auf einen :dunland: Menschen gespielt werden. Jedes Mal, wenn der Träger einen Kampf gewinnt, darfst du 2 Ausrüstungskarten der Freien Völker ablegen.'
+  lore: Die hölzernen Waffen der wilden Menschen erschlugen unzählige unbewaffnete Dorfbewohner.
+fr:
+  title: Massue de Guerre
+  subtitle: ''
+  text: Le détenteur doit être un Homme :dunland:. Chaque fois que le détenteur gagne un combat, vous pouvez défausser 2 possessions des Peuples Libres.
+  lore: Des vingtaines de villageois sans défense périrent sous les coups des armes de bois des hommes sauvages.
+it:
+  title: Mazza da Guerra
+  subtitle: ''
+  text: Il possessore deve essere un Uomo :dunland:. Ogni volta che il possessore vince una schermaglia, puoi scartare 2 beni dei Popoli Liberi.
+  lore: Le armi di legno degli Uomini selvaggi uccisero centinaia di villici disarmati.
+es:
+  title: Garrote De Guerra
+  subtitle: ''
+  text: El portador debe ser un Hombre :dunland:. Cada vez que el portador gana una escaramuza, puedes descartar 2 posesiones de Gentes Libres.
+  lore: Las armas de madera de los hombres salvajes exterminaron a cientos de aldeanos desarmados.

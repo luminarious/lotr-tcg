@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '88'
+unique: true
+culture: Gondor
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: An Able Guide
+  subtitle: ''
+  text: '**Regroup:** Spot a ranger to remove :twilight4:.'
+  lore: ‘…though I cannot disappear, I have hunted many wild and wary things and I can usually avoid being seen, if I wish.’
+de:
+  title: Ein fähiger Führer
+  subtitle: ''
+  text: '**Sammeln:** Entdecke einen Waldläufer, um den Einfluss um :twilight4: zu reduzieren.'
+  lore: …und wenngleich ich nicht verschwinden kann, so habe ich doch viele wilde und wachsame Geschöpfe gejagt und kann es, wenn ich will, gewöhnlich vermeiden, gesehen zu werden.
+fr:
+  title: Un Guide Compétent
+  subtitle: ''
+  text: '**Ralliement :** Désignez un rôdeur pour retirer :twilight4:.'
+  lore: ‘…bien que je ne puisse disparaître, j'ai chassé maintes créatures sauvages et méfiantes, et je puis généralement éviter d'être vu, si je le désire.’
+it:
+  title: Un'Abile Guida
+  subtitle: ''
+  text: '**Raccolta:** Avvista un Ramingo per rimuovere :twilight4:.'
+  lore: ‘…e benché non abbia il potere di scomparire, ho dato la caccia a un sì gran numero di cose selvagge e di esseri guardinghi, che riesco generalmente a evitare di essere visto, quando lo desidero.’
+es:
+  title: Un Guía Capaz
+  subtitle: ''
+  text: '**Reagrupación:** Avista un montaraz para quitar :twilight4:.'
+  lore: …y aunque no puedo desaparecer, he seguido las huellas de muchas criaturas salvajes y cautelosas, y comúnmente evito que me vean, si así lo deseo.

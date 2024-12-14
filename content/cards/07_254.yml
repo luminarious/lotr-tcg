@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '254'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Theoden
+en:
+  title: Théoden
+  subtitle: Leader of Spears
+  text: |-
+    **Valiant.** While you can spot a :rohan: Man, Théoden’s twilight cost is –1.   
+    Each time the fellowship moves, you may exert a :rohan: companion to exert a minion.
+  lore: ''

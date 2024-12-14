@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '118'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: Hornburg Hall
+  subtitle: ''
+  text: '**Sanctuary.** **Fellowship:** Spot 3 companions with the Théoden signet and discard your hand to draw 4 cards.'
+  lore: ''
+de:
+  title: Großer Saal der Hornburg
+  subtitle: ''
+  text: 'Zuflucht. Gemeinschaft: Entdecke 3 Gefährten mit dem Théodensiegel und lege deine Hand ab, um 4 Karten zu ziehen.'
+  lore: ''
+fr:
+  title: Le Vestibule du Fort le Cor
+  subtitle: ''
+  text: 'Sanctuaire. Compagnie : Désignez 3 compagnons possédant le signet Théoden et défaussez votre main pour piocher 4 cartes.'
+  lore: ''
+it:
+  title: Sala del Trombatorrione
+  subtitle: ''
+  text: 'Rifugio. Compagnia: Avvista 3 compagni con il sigillo di Théoden e scarta la tua mano per pescare 4 carte.'
+  lore: ''
+es:
+  title: Salón de cuernavilla
+  subtitle: ''
+  text: 'Santuario. Comunidad: Avista 3 compañeros con el sello de Théoden y descarta tu mano para robar 4 cartas.'
+  lore: ''

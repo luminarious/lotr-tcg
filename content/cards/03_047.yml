@@ -1,0 +1,33 @@
+set: '3'
+rarity: U
+number: '47'
+unique: true
+culture: Gondor
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Voice of Rauros
+  subtitle: ''
+  text: '**Maneuver:** Exert Aragorn to make each companion with the Aragorn signet **damage +1** until the regroup phase. '
+  lore: As he ran the cries came louder, but fainter now and desperately the horn was blowing.
+de:
+  title: Die Stimme des Rauros
+  subtitle: ''
+  text: '**Manöver:** Strenge Aragorn an, um jedem Gefährten mit dem Aragornsiegel **Schaden +1** bis zur Sammelphase zu geben.'
+  lore: Während er rannte, waren die Schreie erst lauter geworden und dann leiser, und das Horn blies verzweifelt.
+fr:
+  title: La Voix du Rauros
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez Aragorn pour donner à chaque compagnon possédant le sceau d’Aragorn des **dégâts +1** jusqu’à la phase de ralliement.'
+  lore: 'Tandis qu''il courait, les appels croissaient, mais plus faibles à présent, et le cor sonnait désespérément. '
+it:
+  title: Voce di Rauros
+  subtitle: ''
+  text: '**Manovra:** Sforza Aragorn per aggiungere **Danno +1** a ogni compagno con il sigillo di Aragorn fino alla fase di raccolta.'
+  lore: Mentre correva, le grida si fecero più forti, e poi nuovamente fioche. Il corno suonava disperatamente.
+es:
+  title: Voz del Rauros
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza a Aragorn para hacer que cada compañero con el sello de Aragorn sea **daño +1** hasta la fase de reagrupación.'
+  lore: Mientras corría los gritos aumentaron, pero la llamada del cuerno era ahora mas débil y desesperada.

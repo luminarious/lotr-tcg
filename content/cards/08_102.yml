@@ -1,0 +1,27 @@
+set: '8'
+rarity: C
+number: '102'
+unique: true
+culture: Sauron
+type: Minion
+race: Troll
+cost: 9
+str: '16'
+vit: '4'
+site: 5
+en:
+  title: Great Hill Troll
+  subtitle: ''
+  text: |-
+    **Besieger.** **Fierce.**   
+    The twilight cost of this minion is –1 for each :sauron: engine you spot.   
+    When you play this minion at sites 5:king: to 9:king:, you may discard a Free Peoples condition.
+  lore: …and soon yet more companies of the enemy were swiftly setting up….
+de:
+  title: Gewaltiger Hügeltroll
+  subtitle: ''
+  text: |-
+    **Belagerer.** **Erbittert.**   
+    Die Kosten für diesen Diener reduzieren sich um 1 für jede :sauron: Belagerungswaffe, die du entdeckst.   
+    Du darfst einen Effekt der Freien Völker ablegen, wenn du diesen Diener an Ort 5iii bis 9iii ausspielst.
+  lore: … und hatten schwere Hämmer in ihren knorrigen Händen.

@@ -1,0 +1,43 @@
+set: '5'
+rarity: C
+number: '91'
+unique: true
+culture: Rohan
+type: Possession
+class: Shield
+cost: 1
+en:
+  title: Rohirrim Shield
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    The minion archery total is -1.   
+    **Regroup:** Discard this possession to heal bearer.
+  lore: The Rohirrim carried round wooden shields, usable on foot and on horseback.
+de:
+  title: Schild der Rohirrim
+  subtitle: ''
+  text: 'Muss auf einen :rohan: Menschen gespielt werden. Der Fernkampfwert der Diener reduziert sich um 1. **Sammeln:** Lege diese Ausrüstung ab, um den Träger zu heilen.'
+  lore: Die Rohirrim benutzten runde Holzschilde, die sie zu Fuß und vom Rücken ihrer Pferde einsetzen konnten.
+fr:
+  title: Bouclier Rohirrim
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un Homme :rohan:.   
+    Le total d’archerie des séides est de -1.   
+    **Ralliement :** Défaussez cette possession pour guérir le détenteur.
+  lore: Les Rohirrim transportaient des boucliers ronds faits de bois, qu'il pouvaient utiliser tant à pied qu'en selle.
+it:
+  title: Scudo Rohirrim
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Uomo [. Sottrai -1 al totale degli arcieri tra i servitori.   
+    **Raccolta:** Scarta questo bene per curare il possessore.
+  lore: I Rohirrim portavano rotondi scudi di legno, utilizzabili a cavallo e a piedi.
+es:
+  title: Escudo de los Rohirrim
+  subtitle: ''
+  text: |-
+    El portador debe ser un Hombre [. El total de arquería de los siervos es -1.   
+    **Reagrupación:** Descarta esta posesión para curar al portador.
+  lore: Los Rohirrim llevaban escudos redondos de madera, usables tanto a pie como a caballo.

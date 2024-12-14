@@ -1,0 +1,25 @@
+set: '13'
+rarity: C
+number: '159'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Assault Denizen
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    This minion is strength +1 for each Free Peoples culture token you can spot.
+  lore: Theories and tactics of warfare were tested upon the battlefields of Middle-earth.
+de:
+  title: Schaden +1. Soldat des Angrifftrupps
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Dieser Diener erhält Stärke +1 für jede Kulturmarke der Freien Völker, die du entdecken kannst.
+  lore: Kriegstheorie und Kampftaktik wurde auf den Schlachtfeldern von Mittelerde getestet.

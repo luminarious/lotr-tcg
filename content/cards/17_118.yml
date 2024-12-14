@@ -1,0 +1,16 @@
+set: '17'
+rarity: C
+number: '118'
+unique: true
+culture: Uruk-hai
+type: Possession
+class: Support Area
+cost: 2
+en:
+  title: Vile Pit
+  subtitle: ''
+  text: |-
+    To play, spot an :urukhai: hunter.  
+    At the start of each Shadow phase, you may discard 2 :urukhai: cards from hand to play an :urukhai: hunter from your discard pile.  
+    **Regroup:** Discard this condition to return an :urukhai: hunter from play to your hand.
+  lore: Saruman gazed on his creations with great pride

@@ -1,0 +1,20 @@
+set: '9'
+rarity: R
+number: '11'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '5'
+vit: '4'
+en:
+  title: Úri
+  subtitle: Dwarven Lord
+  text: '**Skirmish:** If Úri is damage +X, exert him to make him strength +X. '
+  lore: …the Dwarves had the victory through their strength, and their matchless weapons, and the fire of their anger, as they hunted for Azog in every den under mountain.
+de:
+  title: Náin
+  subtitle: Zwergenkönig
+  text: '**Kampf:** Strenge Náin an, wenn er Schaden +X ist, um ihm Stärke +X zu geben.'
+  lore: Aber die Zwerge waren siegreich durch ihre Stärke, ihre unvergleichlichen Waffen und ihre rasende Wut, als sie in jeder Höhle unter dem Gebirge nach Azog jagten.

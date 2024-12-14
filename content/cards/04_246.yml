@@ -1,0 +1,44 @@
+set: '4'
+rarity: R
+number: '246'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Southron Assassin
+  subtitle: ''
+  text: |-
+    **Southron.**   
+    Each time a companion or ally loses a skirmish involving a Southron, you may remove :twilight1: to make the Free Peoples player wound a Ring-bound companion. 
+  lore: ‘Some of the Southrons have broken from the trap and are flying from the road.’
+de:
+  title: Südland Attentäter
+  subtitle: ''
+  text: |-
+    **Südländer.**  
+    Jedes Mal, wenn ein Gefährte oder Verbündeter einen Kampf verliert, an dem ein Südländer beteiligt war, darfst du den Einfluss um :twilight1: verringern, um den Freie Völker Spieler zu zwingen, einen Ring-verbundenen Gefährten zu verwunden.
+  lore: Einige der Südländer sind aus der Falle ausgebrochen und fliehen von der Straße.
+fr:
+  title: Assassin Suderon
+  subtitle: ''
+  text: |-
+    **Suderon.**  
+    Chaque fois qu’un compagnon ou un allié perd un combat qui implique un Suderon, vous pouvez retirer :twilight1: pour obliger le joueur des Peuples Libres à blesser un compagnon **Associé à l’Anneau.** 
+  lore: 'Certains des Suderons se sont échappés du piège et s''enfuient de la route.” '
+it:
+  title: Assassino Sudrone
+  subtitle: ''
+  text: |-
+    **Sudrone.**  
+    Ogni volta che un compagno o un alleato perde una schermaglia che coinvolga un Sudrone, puoi rimuovere :twilight1: per far ferire un compagno Legato all’Anello al giocatore dei Popoli Liberi.
+  lore: ‘Alcuni dei Sudroni sono sfuggiti alla trappola e stanno scappando via dalla strada.’
+es:
+  title: Asesino Sureño
+  subtitle: ''
+  text: '**Sureño.** Cada vez que un compañero o un aliado pierde una escaramuza contra un Sureño, puedes quitar :twilight1: para hacer que el jugador de Gentes Libres hiera un compañero **Vinculado al Anillo.**'
+  lore: Algunos de los Sureños han conseguido escapar de la emboscada y ahora huyen del camino.

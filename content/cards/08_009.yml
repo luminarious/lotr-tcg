@@ -1,0 +1,18 @@
+set: '8'
+rarity: U
+number: '9'
+unique: true
+culture: Elven
+type: Event
+class: Archery
+cost: 2
+en:
+  title: A Grey Ship
+  subtitle: ''
+  text: Spot an Elf companion and make the fellowship archery total –X (to a minimum of 0) to heal X unbound companions. You may not use archery special abilities.
+  lore: ‘…full of ghosts.’
+de:
+  title: Ein graues Schiff
+  subtitle: ''
+  text: Entdecke einen Elbengefährten und reduziere den Fernkampfwert der Gemeinschaft um X (bis zu einem Minimum von 0), um X nicht-verbundene Gefährten zu heilen. Du kannst keine speziellen Fernkampffähigkeiten einsetzen.
+  lore: … voller Gespenster.

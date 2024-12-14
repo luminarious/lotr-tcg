@@ -1,0 +1,24 @@
+set: '7'
+rarity: U
+number: '45'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Númenor's Pride
+  subtitle: ''
+  text: |-
+    To play, spot Gandalf and add 3 threats.   
+    Gandalf is defender +1 and cannot take wounds.   
+    Discard this condition at the start of the regroup phase.
+  lore: ''
+de:
+  title: Stolz Númenors
+  subtitle: ''
+  text: |-
+    Entdecke Gandalf und lasse 3 Bedrohungen entstehen, um diese Karte zu spielen.   
+    Gandalf ist **Verteidiger +1** und kann keine Wunden erleiden.   
+    Lege diesen Effekt zu Beginn deiner Sammelphase ab.
+  lore: ''

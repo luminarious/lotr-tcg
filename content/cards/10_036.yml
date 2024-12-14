@@ -1,0 +1,18 @@
+set: '10'
+rarity: C
+number: '36'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Cast Unto the Winds
+  subtitle: ''
+  text: '**Regroup:** Spot a Southron, remove a threat, and remove :twilight3: to wound an unbound companion.'
+  lore: ‘With horns in my mouth / I walk in the South….’
+de:
+  title: In die Luft geschleudert
+  subtitle: ''
+  text: '**Sammeln:** Entdecke einen Südländer, entferne eine Bedrohung und verringere den Einfluss um :twilight3:, um einen nicht-verbundenen Gefährten zu verwunden.'
+  lore: Hörner im Maul / Schüttle ich faul / Mein Ohrenpaar….

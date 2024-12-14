@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '291'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '2'
+site: 6
+en:
+  title: Mordor Trooper
+  subtitle: ''
+  text: '**Skirmish:** Remove 2 threats to make a :sauron:Orc strength +6.'
+  lore: …and then all hope was quenched.
+de:
+  title: Fußsoldat Mordors
+  subtitle: ''
+  text: '**Kampf:** Entferne 2 Bedrohungen, um einem :sauron: Ork Stärke +6 zu geben.'
+  lore: …und da war alle Hoffnung erloschen.

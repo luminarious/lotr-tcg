@@ -1,0 +1,15 @@
+set: '18'
+rarity: U
+number: '10'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Elven Supplies
+  subtitle: ''
+  text: |-
+    **Fellowship:** Remove a culture token from a Free Peoples card to add an :elven: token here.  
+    **Skirmish:** Remove 2 :elven: tokens from here to make a minion skirmishing an :elven: companion strength -1.
+  lore: By river you have the chance of outrunning the enemy…

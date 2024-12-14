@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '82'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+site: 4
+en:
+  title: Footman of Dunland
+  subtitle: ''
+  text: 'The fellowship’s current site gains plains. '
+  lore: Their savage war bands move swiftly across flat terrain.
+de:
+  title: Fußsoldat aus Dunland
+  subtitle: ''
+  text: Der Ort, an dem sich die Gemeinschaft befindet, wird eine Ebene.
+  lore: Ihre wilden Kriegerbanden bewegen sich schnell über flaches Land.

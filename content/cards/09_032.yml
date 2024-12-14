@@ -1,0 +1,18 @@
+set: '9'
+rarity: R+
+number: '32'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 5
+str: '8'
+vit: '5'
+en:
+  title: Elendil
+  subtitle: The Tall
+  text: |-
+    To play, spot 2 :gondor: Men.   
+    **Fellowship:** Play an artifact on Elendil to make the move limit +1 for this turn.   
+    **Regroup:** Discard a :gondor: artifact to liberate a site. 
+  lore: …and the North-realm they made in Arnor, and the South-realm in Gondor….

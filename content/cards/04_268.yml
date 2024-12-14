@@ -1,0 +1,40 @@
+set: '4'
+rarity: U
+number: '268'
+unique: true
+culture: Rohan
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Éomer's Spear
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    If bearer is Éomer and he is mounted, Éomer is **damage +2.**
+  lore: He advanced until the point of his spear was within a foot of Aragorn’s breast.
+de:
+  title: Éomers Speer
+  subtitle: ''
+  text: |-
+    Muss auf einen :rohan: Menschen gespielt werden.  
+    Wenn Éomer mit diesem Speer ausgerüstet ist und er beritten ist, erhält Éomer **Schaden +2**.
+  lore: Er näherte sich, bis die Spitze seines Speers einen Fuß von Aragorns Brust entfernt war.
+fr:
+  title: La Lance d'Éomer
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un Homme :rohan:.  
+    Si le détenteur est Éomer et qu’il détient une monture, Éomer inflige des **dégâts +2**.
+  lore: 'Il avanca jusqu''à ce que la pointe de sa lance fût à un pied de la poitrine d''Aragorn. '
+it:
+  title: Lancia di Éomer
+  subtitle: ''
+  text: Il possessore deve essere un Uomo :rohan:. Se il possessore è Éomer ed è a cavallo, Éomer ha **Danno +2.**
+  lore: Quando la punta della sua lancia fu a un piede dal petto di Aragorn, si fermò.
+es:
+  title: La Lanza De Éomer
+  subtitle: ''
+  text: El portador debe ser un Hombre :rohan:. Si el portador es Éomer y tiene una montura, Éomer es **daño +2.**
+  lore: Avanzó hasta que la punta de la lanza tocó casi el pecho de Aragorn.

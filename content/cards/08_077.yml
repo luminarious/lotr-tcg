@@ -1,0 +1,25 @@
+set: '8'
+rarity: R
+number: '77'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Morgul Squealer
+  subtitle: ''
+  text: |-
+    **Shadow:** Discard this minion to play a :wraith: minion from your discard pile.   
+    **Shadow:** Spot 6 companions and discard this minion to play up to 2 :wraith: minions from your draw deck; their twilight costs are each –1.
+  lore: ‘The time of the Orc has come.’
+de:
+  title: Morgul Handlanger
+  subtitle: ''
+  text: |-
+    **Schatten:** Lege diesen Diener ab, um einen :wraith: Diener aus deinem Ablagestapel zu spielen.   
+    **Schatten:** Entdecke 6 Gefährten und lege diesen Diener ab, um bis zu 2 :wraith: Diener aus deinem Spieldeck zu spielen; die Kosten für beide Diener sind um 1 reduziert.
+  lore: ''

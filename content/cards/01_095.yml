@@ -1,0 +1,45 @@
+set: '1'
+rarity: R
+number: '95'
+unique: true
+culture: Gondor
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Blade of Gondor
+  subtitle: ''
+  text: |-
+    Bearer must be Boromir.   
+    He is **damage +1.**   
+    **Skirmish:** Exert Boromir to wound an Orc or Uruk-hai he is skirmishing.
+  lore: With the valour of Boromir’s mighty longsword, the Enemies of the West are kept at bay.
+de:
+  title: Das Schwert von Gondor
+  subtitle: ''
+  text: |-
+    Muss auf Boromir gespielt werden. Er erhält **Schaden +1.**  
+    **Kampf** Strenge Boromir an, um einen Ork oder Uruk-hai, den er bekämpft, zu verwunden.
+  lore: Boromirs Mut und sein mächtiges Langschwert halten die Feinde des Westens in Schach.
+fr:
+  title: Épée de Gondor
+  subtitle: ''
+  text: |-
+    Le détenteur doit être Boromir. Il inflige des **dégâts +1.**  
+    **Combat :** Affaiblissez Boromir pour blesser un Orque ou Ourouk-Haï qu’il combat.
+  lore: Avec la valeur de la puissante épée longue de Boromir, les Ennemis de l'Ouest sont maintenus à distance.
+it:
+  title: Lama di Gondor
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Boromir. **Danno +1.**  
+    **Schermaglia:** Sforza Boromir per ferire un Orco o un Uruk-hai contro cui stia schermagliando.
+  lore: Grazie al valore del potente spadone di Boromir, i Nemici dell'Ovest sono tenuti a bada.
+es:
+  title: Hoja de Gondor
+  subtitle: ''
+  text: |-
+    El portador debe ser Boromir. Él es **Daño +1.**  
+    **Escaramuza:** Esfuerza a Boromir para herir un Orco o Uruk-hai con el que esté en una escaramuza.
+  lore: Con el valor de la poderosa espada larga de Boromir los Enemigos del Oeste son mantenidos a raya.

@@ -1,0 +1,25 @@
+set: '10'
+rarity: R
+number: '101'
+unique: true
+culture: Sauron
+type: Minion
+race: Troll
+cost: 7
+str: '14'
+vit: '4'
+site: 6
+en:
+  title: Troll of Cirith Gorgor
+  subtitle: ''
+  text: |-
+    **Damage +1.** **Fierce.** To play, spot a :sauron: minion.   
+    This minion is strength +1 for each possession you can spot. 
+  lore: …these fell creatures would bite the throats of those that they threw down.
+de:
+  title: Troll von Cirith Gorgor
+  subtitle: ''
+  text: |-
+    **Schaden +1**. **Erbittert.** Entdecke einen :sauron: Diener, um diesen Diener zu spielen.   
+    Dieser Diener erhält Stärke +1 für jede Ausrüstung, die du entdecken kannst.
+  lore: … diese grausamen Geschöpfe beißen demjenigen, den sie niederstrecken, die Kehle durch.

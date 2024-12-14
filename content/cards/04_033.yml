@@ -1,0 +1,23 @@
+set: '4'
+rarity: R
+number: '33'
+unique: true
+culture: Dunland
+type: Minion
+race: Wizard
+cost: 4
+str: '8'
+vit: '4'
+site: 4
+en:
+  title: Saruman
+  subtitle: Rabble-rouser
+  text: |-
+    Saruman may not be assigned to a skirmish.   
+    Each time the fellowship moves, the Free Peoples player must exert a companion for each :dunland: Man you can spot. **Skirmish: **Exert Saruman to make a :dunland: Man strength +2. 
+  lore: ''
+fr:
+  title: Saroumane
+  subtitle: Agitateur
+  text: 'Saroumane ne peut pas être affecté à un combat. Chaque fois que la compagnie se déplace, le joueur des Peuples Libre doit affaiblir un compagnon pour chaque Homme :dunland: que vous pouvez désigner. **Combat :** Affaiblissez Saroumane pour donner +2 en force à un Homme :dunland:.'
+  lore: ''

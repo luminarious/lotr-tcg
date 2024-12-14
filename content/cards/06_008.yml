@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '8'
+unique: true
+culture: Dunland
+type: Event
+class: Response
+cost: 2
+en:
+  title: Too Long Have These Peasants Stood
+  subtitle: ''
+  text: '**Response:** If a :dunland: Man wins a skirmish, discard all conditions.'
+  lore: The rabble of Dunland pillaged their way across the Mark.
+de:
+  title: Die Bauern haben sich zu lange widersetzt
+  subtitle: ''
+  text: '**Reaktion:** Lege alle Effekte ab, wenn ein :dunland: Mensch einen Kampf gewinnt.'
+  lore: Der Abschaum aus Dunland zog einen Pfad der Verwüstung quer durch die Mark.
+fr:
+  title: Ces Paysans Sont Restés Trop Longtemps
+  subtitle: ''
+  text: '**Réponse :** Si un Homme :dunland: gagne un combat, défaussez toutes les situations.'
+  lore: La foule d'hommes de Dun pilla tout le long de la Marche.
+it:
+  title: Questi Contadini Sono Sopravvissuti Troppo a Lungo
+  subtitle: ''
+  text: '**Risposta:** Se un Uomo :dunland: vince una schermaglia, scarta tutte le condizioni.'
+  lore: La marmaglia del Dunland attraversò il Mark saccheggiandolo.
+es:
+  title: Demasiado tiempo han resistido estos campesinos
+  subtitle: ''
+  text: '**Respuesta:** Si un Hombre :dunland: gana una escaramuza, descarta todas las condiciones.'
+  lore: El populacho de Dunland saqueó toda la Marca.

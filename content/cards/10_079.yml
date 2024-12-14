@@ -1,0 +1,22 @@
+set: '10'
+rarity: C
+number: '79'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Barren Land
+  subtitle: ''
+  text: |-
+    To play, spot a :sauron: minion. Each time the fellowship moves to any site 8 or 9, exert each Ring-bound companion.   
+    **Shadow:** Discard this condition to play a :sauron: minion. Its twilight cost is –2. 
+  lore: There the last living things gave up their struggle….
+de:
+  title: Ödes Land
+  subtitle: ''
+  text: |-
+    Entdecke einen :sauron: Diener, um diesen Effekt zu spielen. Strenge, jedes Mal, wenn sich die Gemeinschaft zu einem Ort 8 oder 9 bewegt, jeden Ring-verbundenen Gefährten an.   
+    **Schatten:** Lege diesen Effekt ab, um einen :sauron: Diener mit um 2 reduzierten Kosten zu spielen.
+  lore: Dort gaben die letzten Pflanzen den Kampf auf….

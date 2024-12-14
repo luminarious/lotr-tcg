@@ -1,0 +1,20 @@
+set: '10'
+rarity: U
+number: '22'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Reclaim the Precious
+  subtitle: ''
+  text: '**Assignment:** Assign Gollum to a companion bearing an artifact. The Free Peoples player may add a burden to prevent this and assign Gollum. **Regroup:** Exert Gollum twice to discard a possession. Discard this condition. '
+  lore: …white fangs gleamed, and then snapped as they bit.
+de:
+  title: Den Schatz wiedererlangt
+  subtitle: ''
+  text: |-
+    **Zuweisung:** Weise Gollum einem Gefährten zu, der ein Artefakt trägt. Der Freie Völker Spieler darf eine Lastmarke auf den Ringträger legen, um dies zu verhindern und Gollum zuzuweisen.   
+    **Sammeln:** Strenge Gollum zweimal an, um eine Ausrüstung abzulegen. Lege diesen Effekt ab.
+  lore: ''

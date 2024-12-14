@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '91'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Blood Has Been Spilled
+  subtitle: ''
+  text: '**Skirmish:** Discard a mount borne by a :rohan: Man to prevent that Man from being overwhelmed unless his or her strength is tripled.'
+  lore: They were hemming the Orcs in, preventing them from scattering, and driving them….
+de:
+  title: Blut ist vergossen worden
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Kampf** Lege ein Reittier von einem :rohan: Menschen ab, damit dieser Mensch nur mit dreifacher Stärke überwältigt werden kann.'
+  lore: Sie umringten die Orks, verhinderten, dass sie sich zerstreuten, und trieben sie…
+fr:
+  title: Du Sang a Été Versé
+  subtitle: ''
+  text: '**Combat :** Défaussez une monture détenue par un Homme :rohan: pour empêcher cet Homme d’être submergé, sauf si la force du camp adverse est trois fois supérieure à la sienne.'
+  lore: 'Ils cernaient les Orques, les empêchant de se disperser et les contraignant… '
+it:
+  title: Il Sangue è Stato Versato
+  subtitle: ''
+  text: '**Schermaglia:** Scarta una cavalcatura portata da un Uomo :rohan: per impedire che quell’Uomo sia sopraffatto a meno che la forza degli avversari non sia il triplo della forza di quell’uomo.'
+  lore: Formavano una barriera che impediva agli Orchi di disperdersi….
+es:
+  title: Se ha derramado sangre
+  subtitle: ''
+  text: '**Escaramuza:** Descarta una montura llevada por un Hombre :rohan: para prevenir que ese Hombre sea abrumado a no ser que su fuerza sea triplicada.'
+  lore: Estaban cercando a los Orcos, impidiendo que se dispersaran, y conduciéndolos…

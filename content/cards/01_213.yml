@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '213'
+unique: true
+culture: Wraith
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Frozen by Fear
+  subtitle: ''
+  text: '**Skirmish:** Make a Nazgûl strength +2 (or +3 if the Ring-bearer is assigned to a skirmish that has not resolved).'
+  lore: …he was quaking as if he was bitter cold, but his terror was swallowed up in a sudden temptation to put on the Ring.
+de:
+  title: Starr vor Angst
+  subtitle: ''
+  text: '**Kampf** Gib einem Nazgûl Stärke +2 (oder Stärke +3, wenn der Ringträger einem noch nicht ausgewertetem Kampf zugewiesen ist).'
+  lore: …er zitterte, als ob er bitterlich fröre, aber seine Angst ging in der plötzlichen Versuchung unter, den Ring aufzustreifen.
+fr:
+  title: Pétrifié par la Peur
+  subtitle: ''
+  text: '**Combat :** Donnez à un Nazgûl +2 en force (ou +3 si le Porteur de l’Anneau est affecté à un combat qui n’a pas été mené).'
+  lore: …il tremblait comme sous l'effet d'un froid glacial, mais sa terreur se trouva submergée par la soudaine tentation de mettre l'Anneau.
+it:
+  title: Pietrificato dalla Paura
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Nazgûl (o +3 se il Portatore dell’Anello è assegnato a una schermaglia che non ha risolto).'
+  lore: … ma il suo spavento fu improvvisamente come inghiottito dalla forte tentazione d'infilarsi l'Anello.
+es:
+  title: Helado por el Miedo
+  subtitle: ''
+  text: '**Escaramuza:** Da fuerza + 2 a un Nazgûl (o +3 si el Portador del Anillo está asignado a una escaramuza que no se ha resuelto).'
+  lore: …temblaba de pies a cabeza, como atacado por un frío intenso, pero la repentina tentación de ponerse enseguida el Anillo se sobrepuso a todo…

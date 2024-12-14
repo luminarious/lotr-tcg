@@ -1,0 +1,33 @@
+set: '6'
+rarity: R
+number: '123'
+unique: true
+culture: Gandalf
+type: Condition
+cost: 2
+str: '+4'
+en:
+  title: Enraged
+  subtitle: ''
+  text: Bearer must be an Ent. Limit 1 per bearer. Discard this condition at the end of the turn.
+  lore: ‘They pushed, pulled, tore, shook, and hammered….’
+de:
+  title: Erzürnt
+  subtitle: ''
+  text: Muss auf einen Ent gespielt werden. Maximal 1 pro Ent. Lege diesen Effekt am Ende des Spielzuges ab.
+  lore: Sie schoben und zogen und rissen und schüttelten…
+fr:
+  title: Enragé
+  subtitle: ''
+  text: Le détenteur doit être un Ent. Limite de 1 par détenteur. Défaussez cette situation à la fin du tour.
+  lore: 'Ils poussèrent, tirèrent, arrachèrent, secouèrent, martelèrent…’ '
+it:
+  title: Furiosi
+  subtitle: ''
+  text: Il possessore deve essere un Ent. Limite 1 per possessore. Scarta questa condizione alla fine del turno.
+  lore: ‘Spingevano, tiravano, laceravano, scuotevano, martellavano…’
+es:
+  title: Enfurecido
+  subtitle: ''
+  text: El portador debe ser un Ent. Límite 1 por portador. Descarta esta condición al final del turno.
+  lore: Empujaron, tironearon, arrancaron, sacudieron y martillearon…

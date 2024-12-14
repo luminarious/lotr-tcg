@@ -1,0 +1,38 @@
+set: '3'
+rarity: U
+number: '24'
+unique: true
+culture: Elven
+type: Possession
+cost: 0
+en:
+  title: Phial of Galadriel
+  subtitle: ''
+  text: |-
+    To play, exert an Elf. Bearer must be the Ring-bearer.   
+    Bearer’s resistance is +2. 
+  lore: ‘May it be a light to you in dark places, when all other lights go out. Remember Galadriel and her Mirror!’
+de:
+  title: Galadriels Phiole
+  subtitle: ''
+  text: Strenge einen Elben an, um diese Karte zu spielen. Muss auf den Ringträger gespielt werden. Die Resistenz des Ringträgers erhöht sich um 2.
+  lore: Möge es dir ein Licht sein an dunklen Orten, wenn alle anderen Lichter ausgehen. Erinnere dich Galadriels und ihres Spiegels!
+fr:
+  title: Fiole de Galadriel
+  subtitle: ''
+  text: |-
+    Pour jouer, affaiblissez un Elfe. Le détenteur doit être le Porteur de l’Anneau.  
+    Le détenteur a +2 en résistance.
+  lore: 'Qu''elle vous soit une lumière dans les endroits ténébreux, quand toutes les autres lumières s''éteindront. Souvenez-vous de Galadriel et de son Miroir!” '
+it:
+  title: Fiala di Galadriel
+  subtitle: ''
+  text: |-
+    Per giocarlo, sforza un Elfo. Il possessore deve essere il Portatore dell’Anello.  
+    Aggiungi +2 alla resistenza del Portatore.
+  lore: ‘Possano i suoi raggi guidarti nei luoghi oscuri, ove tutte le altre luci si spegnessero. Ricorda Galadriel e il suo Specchio!’
+es:
+  title: Vial de Galadriel
+  subtitle: ''
+  text: Para jugarlo, esfuerza un Elfo. El portador debe ser el Portador del Anillo. La resistencia del Portador es +2.
+  lore: Que sea para ti una luz en los sitios oscuros, cuando todas las otras luces se hayan extinguido. ¡Recuerda a Galadriel y el Espejo!

@@ -1,0 +1,37 @@
+set: '4'
+rarity: C
+number: '212'
+unique: true
+culture: Isengard
+type: Condition
+cost: 1
+en:
+  title: Weary
+  subtitle: ''
+  text: |-
+    **Search.** Plays on a companion or ally.   
+    Limit 1 per character.   
+    Each time the Free Peoples player assigns bearer to skirmish an :isengard: tracker, bearer must exert. 
+  lore: ‘We shall not turn back here.’
+de:
+  title: Erschöpft
+  subtitle: ''
+  text: '**Suche.** Muss auf einen Gefährten oder Verbündeten gespielt werden. Maximal 1 pro Charakter. Jedes Mal, wenn der Freie Völker Spieler den Träger einem :isengard: Spurenleser zuweist, muss sich der Träger anstrengen.'
+  lore: Wir werden hier nicht umkehren.
+fr:
+  title: Lassitude
+  subtitle: ''
+  text: |-
+    **Recherche.**  
+    Jouable sur un compagnon ou un allié. Limite de 1 par personnage. Chaque fois que le joueur des Peuples Libres affecte le détenteur à un combat contre un traqueur :isengard:, le détenteur doit s’affaiblir.
+  lore: 'Nous n''allons pas faire demi-tour ici.” '
+it:
+  title: Sfinito
+  subtitle: ''
+  text: '**Ricerca.** Giocala su un compagno o un alleato. Limite 1 per personaggio. Ogni volta che il giocatore dei Popoli Liberi assegna il possessore a una schermaglia con un inseguitore :isengard:, il possessore deve sforzarsi.'
+  lore: ‘Ancora non è giunto il momento di tornare indietro.’
+es:
+  title: Cansado
+  subtitle: ''
+  text: '**Búsqueda.** Se juega en un compañero o un aliado. Límite 1 por personaje. Cada vez que el jugador de Gentes Libres asigna el portador a una escaramuza contra un rastreador :isengard:, el portador debe esforzarse.'
+  lore: No volveremos atrás.

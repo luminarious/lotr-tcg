@@ -1,0 +1,41 @@
+set: '5'
+rarity: R
+number: '16'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 5
+en:
+  title: Down From the Hills
+  subtitle: ''
+  text: |-
+    **Spell.**  
+    **Maneuver:** Exert Gandalf 3 times to make an unbound companion with the Gandalf signet strength +5, **defender +1,** **damage +2,** and unable to take wounds until the regroup phase.
+  lore: Down leaped Shadowfax, like a deer….
+de:
+  title: Hinab von den Bergen
+  subtitle: ''
+  text: '**Zauberspruch.** **Manöver:** Strenge Gandalf dreimal an, um einem nicht-verbundenen Gefährten mit dem Gandalfsiegel bis zur Sammelphase Stärke +5 und **Schaden +2** zu geben sowie ihn **Verteidiger +1** und unverwundbar zu machen.'
+  lore: Hinab sprang Schattenfell wie ein Hirsch….
+fr:
+  title: Du Haut des Collines
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Manœuvre :** Affaiblissez Gandalf 3 fois pour transformer un compagnon qui possède le sceau Gandalf de la façon suivante: il a +5 en force, est **défenseur +1**, inflige des **dégâts +2** et ne peut pas être blessé jusqu’à la phase de ralliement.
+  lore: 'S''élança aussi Gripoil, tel un daim… '
+it:
+  title: Giù dai Colli
+  subtitle: ''
+  text: |-
+    **Magia.**   
+    **Manovra:** Sforza Gandalf 3 volte per aggiungere a un compagno Non Legato con il sigillo di Gandalf +5 alla forza, **Difensore +1**, **Danno +2** e quel compagno non può subire ferite fino alla fase di raccolta.
+  lore: E dall'alto piombò Ombromanto, come un daino…
+es:
+  title: Bajando desde las colinas
+  subtitle: ''
+  text: |-
+    **Hechizo.**   
+    **Maniobra:** Esfuerza a Gandalf tres veces para dar a un compañero no-vinculado que tenga el sello de Gandalf fuerza +5, **defensor +1**, **Daño +2** y que no reciba heridas hasta la fase de reagrupación.
+  lore: Y también baja Sombragrís, brincando como un ciervo…

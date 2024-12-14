@@ -1,0 +1,18 @@
+set: '17'
+rarity: U
+number: '40'
+unique: true
+culture: Man
+type: Possession
+class: Mount
+cost: 3
+str: '+3'
+en:
+  title: Beast of War
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: Man.  
+    While you can spot a threat, bearer is **fierce**.  
+    While you can spot 3 threats, bearer is **damage +1**.  
+    While you can spot 5 threats, you may play this from your discard pile.
+  lore: …mûmakil were bellowing as they were goaded to war.

@@ -1,0 +1,21 @@
+set: '10'
+rarity: C
+number: '76'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Advance Marauder
+  subtitle: ''
+  text: '**Skirmish:** exert this minion to make a roaming :sauron: minion strength +3.'
+  lore: The sun gleamed red….
+de:
+  title: Stoßtrupp Marodeur
+  subtitle: ''
+  text: '**Kampf:** Strenge diesen Diener an, um einem wandernden :sauron: Diener Stärke +3 zu geben.'
+  lore: Die Sonne glühte rot….

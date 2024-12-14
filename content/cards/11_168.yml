@@ -1,0 +1,16 @@
+set: '11'
+rarity: C
+number: '168'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+res: '9'
+en:
+  title: Merry
+  subtitle: Loyal Companion
+  text: 'For each other unbound companion assigned to a skirmish, Merry is strength +2. '
+  lore: ‘We can't leave Frodo! Pippin and I always intended to go wherever he went, and we still do.’

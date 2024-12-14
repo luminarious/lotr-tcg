@@ -1,0 +1,23 @@
+set: '11'
+rarity: R
+number: '181'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '7'
+vit: '2'
+site: 5
+en:
+  title: Determined Uruk
+  subtitle: ''
+  text: |-
+    To play, spot a :urukhai: minion.   
+    Each time a companion exerts, you may draw a card.
+  lore: As their prey grows tired, the Uruks gain the advantage.
+de:
+  title: Entschlossener Uruk
+  subtitle: ''
+  text: 'Entdecke einen :urukhai: Diener, um diesen Diener zu spielen. Jedes Mal, wenn sich ein Gefährte anstrengt, darfst du eine Karte ziehen.'
+  lore: Die Uruks ziehen Vorteile aus der Erschöpfung ihrer Opfer.

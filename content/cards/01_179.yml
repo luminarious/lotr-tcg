@@ -1,0 +1,36 @@
+set: '1'
+rarity: C
+number: '179'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '1'
+site: 4
+en:
+  title: Goblin Scavengers
+  subtitle: ''
+  text: 'When you play this minion, you may play a weapon from your discard pile on your :moria: Orc.'
+  lore: ‘The Orcs have often plundered Moria; there is nothing left in the upper halls.’
+de:
+  title: Goblin Plünderer
+  subtitle: ''
+  text: 'Wenn du diesen Diener spielst, darfst du eine Waffe aus deinem Ablagestapel auf einen deiner :moria: Orks spielen.'
+  lore: Die Orks haben Moria oft geplündert; in den oberen Hallen ist nichts zurückgeblieben.
+fr:
+  title: Charognards Gobelins
+  subtitle: ''
+  text: Quand vous jouez ce séide, vous pouvez jouer une arme de votre pile de défausse sur votre Orque :moria:.
+  lore: ‘Les Orques ont souvent pillé la Moria ; il ne reste rien dans les salles supérieures.’
+it:
+  title: Saccheggiatori Goblin
+  subtitle: ''
+  text: Quando giochi questo servitore, puoi giocare un’arma presa dalla tua pila degli scarti su un tuo Orco :moria:.
+  lore: ‘Gli Orchi hanno più volte saccheggiato Moria; non vi è più nulla nei saloni superiori.’
+es:
+  title: Saqueadores Goblin
+  subtitle: ''
+  text: Cuando juegas este siervo, puedes jugar un arma de tu pila de descartes en tu Orco :moria:.
+  lore: Los Orcos han saqueado Moria a menudo. No queda nada en las salas superiores.

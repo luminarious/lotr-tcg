@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '71'
+unique: true
+culture: Man
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Last Days
+  subtitle: ''
+  text: 'Each time a :men: minion is killed or discarded from play (except during the regroup phase), you may play a :men: minion. Its twilight cost is –2, and it is **fierce** and strength +2 until the regroup phase.'
+  lore: ‘Not long now shall stand the high hall which Brego son of Eorl built. Fire shall devour the high seat.’
+de:
+  title: Die letzten Tage
+  subtitle: ''
+  text: 'Jedes Mal, wenn ein :men: Diener getötet oder aus dem Spiel abgelegt wird (außer in der Sammelphase), darfst du einen :men: Diener mit um 2 reduzierten Zwielichtkosten spielen. Dieser Diener ist bis zur Sammel-phase **erbittert** und erhält Stärke +2.'
+  lore: Nicht lange mehr wird die hohe Halle stehen…. Feuer wird den Thron verzehren.

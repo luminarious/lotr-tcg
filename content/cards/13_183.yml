@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '183'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Lemenya
+  subtitle: Servant of the Shadow
+  text: |-
+    **Fierce.  
+    Shadow:** Exert Úlairë Lemenya and discard a Nazgûl from your hand to discard a condition from play.
+  lore: ‘As the Shadow grows once more, they too may walk again.’

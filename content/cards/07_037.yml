@@ -1,0 +1,16 @@
+set: '7'
+rarity: R
+number: '37'
+unique: true
+culture: Gandalf
+type: Companion
+race: Wizard
+cost: 4
+str: '7'
+vit: '4'
+signet: Signet_Theoden
+en:
+  title: Gandalf
+  subtitle: Manager of Wizards
+  text: '**Skirmish:** Place 3 cards from hand on top of your draw deck to make a minion skirmishing an unbound companion strength –3. Any Shadow player may place 3 cards from his or her hand on top of his or her draw deck to prevent this.'
+  lore: ''

@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '191'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Right
+en:
+  title: Shores of Nen Hithoel
+  subtitle: ''
+  text: '**River. Shadow:** Spot 5 :orc: Orcs to prevent the fellowship from moving again this turn.'
+  lore: ''
+de:
+  title: Die Ufer von Nen Hithoel
+  subtitle: ''
+  text: '**Fluss. Schatten:** Entdecke 5 :orc: Orks, um zu verhindern, dass die Gemeinschaft in diesem Zug weiterzieht.'
+  lore: ''

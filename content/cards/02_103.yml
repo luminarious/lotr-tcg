@@ -1,0 +1,33 @@
+set: '2'
+rarity: U
+number: '103'
+unique: true
+culture: Shire
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Hobbit Sword-play
+  subtitle: ''
+  text: '**Maneuver:** Exert a Hobbit bearing a weapon to wound a minion. That minion’s owner may remove :twilight3: to prevent this. '
+  lore: Boromir sensed that a blade in a Halfling’s hand would surprise a larger foe.
+de:
+  title: Hobbit Schwertkunst
+  subtitle: ''
+  text: '**Manöver:** Strenge einen Hobbit mit einer Waffe an, um einen Diener zu verwunden. Der Spieler dieses Dieners kann den Einfluss um :twilight3: verringern, um dies zu verhindern.'
+  lore: Boromir spürte, dass ein Schwert in der Hand eines Halblings so manchen größeren Feind überraschen würde.
+fr:
+  title: Escrime Hobbite
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Hobbit détenteur d’une arme pour blesser un séide. Le propriétaire de ce séide peut retirer :twilight3: pour empêcher ceci.'
+  lore: Boromir s'imaginait qu'une lame dans la main d'un Semi-Homme avait de quoi surprendre un adversaire de plus grande taille.
+it:
+  title: Scherma degli Hobbit
+  subtitle: ''
+  text: '**Manovra:** Sforza un Hobbit che porta un’arma per ferire un servitore. Il possessore di quel servitore può rimuovere :twilight3: per prevenire ciò.'
+  lore: Boromir intuì che una spada nelle mani di un Mezzuomo avrebbe colto di sorpresa un nemico più grosso.
+es:
+  title: Esgrima hobbit
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un Hobbit llevando una arma para herir un siervo. El propietario de ese siervo puede quitar :twilight3: para prevenir esto.'
+  lore: Boromir presintió que una hoja en la mano de un Mediano sorprendería a un enemigo más grande.

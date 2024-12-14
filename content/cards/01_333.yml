@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '333'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Left
+en:
+  title: Midgewater Moors
+  subtitle: ''
+  text: '**Plains.** Each time a minion is played, the Free Peoples player discards a card from hand.'
+  lore: ''
+de:
+  title: Mückenwasserödlande
+  subtitle: ''
+  text: '**Ebene.** Jedesmal, wenn ein Diener gespielt wird, muss der Freie Völker Spieler eine Karte aus seiner Hand ablegen.'
+  lore: ''
+fr:
+  title: Landes de l'Eau-aux-Cousins
+  subtitle: ''
+  text: '**Plaines.** Chaque fois qu’un séide est joué, le joueur des Peuples Libres défausse une carte de sa main.'
+  lore: ''
+it:
+  title: Brughiere delle Chiane Ditteri
+  subtitle: ''
+  text: '**Pianure.** Ogni volta che viene giocato un servitore, il giocatore dei Popoli Liberi scarta una carta dalla mano.'
+  lore: ''
+es:
+  title: Páramos de Moscagua
+  subtitle: ''
+  text: '**Llanura.** Cada vez que se juega un siervo, el jugador de Gentes Libres descarta una carta de su mano.'
+  lore: ''

@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '51'
+unique: true
+culture: Gondor
+type: Possession
+class: Hand Weapon
+cost: 1
+en:
+  title: Banner of Westernesse
+  subtitle: ''
+  text: 'Bearer must be a :gondor: companion. Each time bearer wins a skirmish, you may heal another :gondor: companion. **Response:** If bearer wins a skirmish, discard this possession to liberate a site.'
+  lore: ‘What brought they from the foundered land / Over the flowing sea?… / and one white tree.’
+de:
+  title: Das Banner von Westernis
+  subtitle: ''
+  text: 'Muss auf einen :gondor: Gefährten gespielt werden. Jedes Mal, wenn der Träger einen Kampf gewinnt, darfst du einen anderen :gondor: Gefährten heilen. **Reaktion:** Lege diese Ausrüstung ab, um einen Ort zu befreien, wenn der Träger einen Kampf gewinnt.'
+  lore: Was brachten sie aus versunkenem Land / Über das flutende Meer?… / Und einen weißen Baum.
+fr:
+  title: Bannière de l'Ouesternesse
+  subtitle: ''
+  text: Le détenteur doit être un compagnon :gondor:. Chaque fois que le détenteur gagne un combat, vous pouvez guérir un autre compagnon :gondor:. **Réponse :** Si le détenteur gagne un combat, défaussez cette possession pour libérer un site.
+  lore: 'Qu''ont-ils apporté de la terre effondrée, / Sur le flot de la mer ? / … Et un arbre blanc.” '
+it:
+  title: Stendardo dell'Ovesturia
+  subtitle: ''
+  text: Il possessore deve essere un compagno :gondor:. Ogni volta che il possessore vince una schermaglia, puoi curare un altro compagno :gondor:. **Risposta:** Se il possessore vince una schermaglia, scarta questo bene per liberare un sito.
+  lore: ‘Che portaron da terre sommerse / Oltre il mare in tempesta?…. / E un albero bianco.’
+es:
+  title: Estandarte de Oesternesse
+  subtitle: ''
+  text: El portador debe ser un compañero :gondor:. Cada vez que el portador gana una escaramuza, puedes curar otro compañero :gondor:. **Respuesta:** Si el portador gana una escaramuza, descarta esta posesión para liberar un sitio.
+  lore: ¿Qué trajeron de las tierras sumergidas / sobre las olas del mar?…/ y un árbol blanco.

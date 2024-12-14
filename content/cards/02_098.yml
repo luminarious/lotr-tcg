@@ -1,0 +1,33 @@
+set: '2'
+rarity: U
+number: '98'
+unique: true
+culture: Shire
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Dear Friends
+  subtitle: ''
+  text: '**Fellowship:** Exert a companion to place a Free Peoples card from your discard pile beneath your draw deck (or 2 Free Peoples cards if that companion has the Frodo signet). '
+  lore: He pressed him for news of himself and of the wide world… and they stayed up far into the night.
+de:
+  title: Gute Freunde
+  subtitle: ''
+  text: '**Gemeinschaft.** Strenge einen Gefährten an, um eine Freie Völker Karte aus deinem Ablagestapel unter dein Spieldeck zu legen (oder 2 Freie Völker Karten, wenn dieser Gefährte das Frodosiegel hat).'
+  lore: Er bestürmte ihn mit Fragen, wie es ihm ergangen sei und was es Neues in der weiten Welt gebe… und sie blieben bis weit in die Nacht auf.
+fr:
+  title: Chers Amis
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez un compagnon pour révéler une carte des Peuples Libres de votre pile de défausse et la placer sous votre pioche (ou 2 cartes des Peuples Libres si ce compagnon possède le sceau de Frodon).'
+  lore: 'Il le pressa de lui donner des nouvelles de lui-même et du vaste monde… et ils veillèrent fort avant dans la nuit. '
+it:
+  title: Cari Amici
+  subtitle: ''
+  text: '**Compagnia:** Sforza un compagno per mettere una carta dei Popoli Liberi, presa dalla tua pila degli scarti, sotto il tuo mazzo di gioco (o 2 carte dei Popoli Liberi se quel compagno ha il sigillo di Frodo).'
+  lore: Sollecitò notizie sul suo conto e sul resto del mondo… e rimasero in piedi fino a molto tardi.
+es:
+  title: Amigos queridos
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza un compañero para poner una carta de Gentes Libres de tu pila de descartes bajo tu mazo de robar (o 2 cartas de Gentes Libres si ese compañero tiene el sello de Frodo).'
+  lore: Le preguntó por noticias de si mismo y de todo el mundo… y estuvieron despiertos hasta muy entrada la noche.

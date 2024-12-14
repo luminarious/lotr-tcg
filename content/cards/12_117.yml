@@ -1,0 +1,16 @@
+set: '12'
+rarity: U
+number: '117'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Léofric
+  subtitle: Defender of the Mark
+  text: '**Skirmish:** If Léofric is in a skirmish, exert him to play a :rohan: skirmish event from your draw deck.'
+  lore: ‘There is trouble now on all our borders, and we are threatened….’

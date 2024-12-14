@@ -1,0 +1,20 @@
+set: '13'
+rarity: C
+number: '147'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Faith in Friendship
+  subtitle: ''
+  text: |-
+    When you play this, add a :shire: token here.  
+    At the start of the regoup phase, you may discard this from play or remove a token from here to heal a :shire: companion.
+  lore: I'm going to take care of you.
+de:
+  title: Glaube an die Freundschaft
+  subtitle: ''
+  text: 'Lege eine :shire: Marke auf diese Karte, wenn du sie spielst. Du darfst zu Beginn der Sammelphase diesen Effekt ablegen oder hier eine Marke entfernen, um einen :shire: Gefährten zu heilen.'
+  lore: Ich werde mich um dich kümmern.

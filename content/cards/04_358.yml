@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '358'
+unique: true
+culture: ''
+type: Site
+cost: 7
+siteArrow: Right
+en:
+  title: Ring of Isengard
+  subtitle: ''
+  text: '**Shadow:** Play a :dunland: minion to draw a card. '
+  lore: ''
+de:
+  title: Der Ring von Isengart
+  subtitle: ''
+  text: '**Schatten:** Wenn du einen :dunland: Diener spielst, ziehe eine Karte.'
+  lore: ''
+fr:
+  title: Le Cercle d'Isengard
+  subtitle: ''
+  text: 'Ombre : Jouez un séide :dunland: pour piochez une carte.'
+  lore: ''
+it:
+  title: Anello di Isengard
+  subtitle: ''
+  text: '**Ombra:** Gioca un servitore :dunland: per pescare una carta.'
+  lore: ''
+es:
+  title: Anillo De Isengard
+  subtitle: ''
+  text: '**Sombra:** Juega un siervo :dunland: para robar una carta.'
+  lore: ''

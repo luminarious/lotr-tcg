@@ -1,0 +1,16 @@
+set: '11'
+rarity: R
+number: '147'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Gamling
+  subtitle: Defender of the Hornburg
+  text: 'At the start of the fellowship phase, you may add :twilight1: to play a possession on Gamling from your draw deck. '
+  lore: ‘If they come to bargain for our goods at Helm’s Gate, they will pay a high price….’

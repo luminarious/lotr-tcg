@@ -1,0 +1,24 @@
+set: '13'
+rarity: U
+number: '150'
+unique: true
+culture: Shire
+type: Follower
+cost: 1
+vit: '+1'
+en:
+  title: Frodo Gamgee
+  subtitle: Son of Samwise
+  text: |-
+    **Aid –** Add 2 burdens. *(At the start of the maneuver phase, you may add 2 burdens to transfer this to a companion.)*  
+    To play, spot a Ring-bound Hobbit.  
+    Bearer is strength +1 for each Ring-bound Hobbit you can spot.
+  lore: …Rose and me had settled to call him Frodo, with your leave…’
+de:
+  title: Frodo Gamdschie
+  subtitle: Sohn des Samweis
+  text: |-
+    **Hilfe –** Lege 2 Lastmarken auf den Ringträger.  
+    Entdecke einen Ring-verbundenen Hobbit, um diese Karte zu spielen.  
+    Der Beigestandene erhält Stärke +1 für jeden Ring-verbundenen Hobbit, den du entdecken kannst.
+  lore: …waren übereingekommen, ihn Frodo zu nennen….

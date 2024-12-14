@@ -1,0 +1,43 @@
+set: '2'
+rarity: R
+number: '1'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Beneath the Mountains
+  subtitle: ''
+  text: |-
+    **Tale.** Plays to your support area.  
+    **Fellowship:** Discard the top 3 cards from your draw deck to play a :dwarven: weapon from your discard pile. 
+  lore: ‘There forged was blade, and bound was hilt; / The delver mined, the mason built.’
+de:
+  title: Unter den Bergen
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    **Gemeinschaft.** Lege die obersten 3 Karten von deinem Spieldeck ab, um eine :dwarven: Waffe aus deinem Ablagestapel zu spielen.
+  lore: Geschärfte Schwerterklinge sang / Der Reichtum wuchs bei jedem Gang.
+fr:
+  title: Sous les Montagnes
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    **Compagnie :** Défaussez les 3 premières cartes de votre pioche pour jouer une arme :dwarven: de votre pile de défausse.
+  lore: 'Là, était forgée la lame et fixée la garde; / L''excavateur creusait, la maçon bâtissait.” '
+it:
+  title: Sotto le Montagne
+  subtitle: ''
+  text: |-
+    **Racconto.** Giocalo nella tua area di supporto.   
+    **Compagnia:** Scarta le prime tre carte dal tuo mazzo di gioco per giocare un’arma :dwarven: dalla tua pila degli scarti.
+  lore: Ivi forgiata la lama ed all'elsa unita, / Ivi minator scavava e murator costruiva con fatica.
+es:
+  title: Bajo las montañas
+  subtitle: ''
+  text: |-
+    **Cuento.**   
+    **Comunidad:** Descarta las 3 primeras cartas de tu mazo de robar para jugar un arma :dwarven: de tu pila de descartes.
+  lore: Se forjaba la hoja de la espada, y se fijaban las empuñaduras; / cavaba el cavador, el albañil edificaba.

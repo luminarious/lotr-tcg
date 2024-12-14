@@ -1,0 +1,21 @@
+set: '11'
+rarity: R
+number: '108'
+unique: true
+culture: Orc
+type: Minion
+race: Troll
+cost: 6
+str: '13'
+vit: '3'
+site: 5
+en:
+  title: Beastly Olog-hai
+  subtitle: ''
+  text: '**Damage +1.** **Fierce.** To play, spot an :orc: minion. **Assignment:** Exert this minion to assign it to a companion bearing an artifact. The Free Peoples player may discard an artifact from play to prevent this.'
+  lore: Some held that they were not Trolls, but giant Orcs…
+de:
+  title: Brutaler Olog-hai
+  subtitle: ''
+  text: '**Schaden +1. Erbittert.** Entdecke einen :orc: Diener, um diesen Diener zu spielen. **Zuweisung:** Strenge diesen Diener an, um ihn einem Gefährten zuzuweisen, der ein Artefakt trägt. Der Freie Völker Spieler darf ein Artefakt ablegen, um dies zu verhindern.'
+  lore: ''

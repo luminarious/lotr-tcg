@@ -1,0 +1,45 @@
+set: '4'
+rarity: R
+number: '245'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 3
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Southron Archer
+  subtitle: ''
+  text: |-
+    **Southron.** **Archer.**   
+    While you can spot another Southron, the minion archery total is +1 for each site you control. 
+  lore: ‘They have passed on to the Black Gate; but more may follow.’
+de:
+  title: Südland Bogenschützen
+  subtitle: ''
+  text: |-
+    **Südländer.** **Bogenschütze.**  
+    Solange du einen anderen Südländer entdecken kannst, erhöht sich der Fernkampfwert der Diener für jeden Ort, den du kontrollierst, um 1.
+  lore: Sie sind weitergezogen zum Schwarzen Tor; aber noch mehr mögen folgen.
+fr:
+  title: Archer Suderon
+  subtitle: ''
+  text: |-
+    **Suderon.** **Archer.**  
+    Tant que vous pouvez désigner un autre Suderon, le total d’archerie des séides est de +1 pour chaque site que vous contrôlez.
+  lore: 'Ils sont passés, en direction de la Porte Noire; mais d''autres peuvent suivre.” '
+it:
+  title: Arciere Sudrone
+  subtitle: ''
+  text: |-
+    **Sudrone.**  
+    **Arciere.**  
+    Mentre puoi avvistare un altro Sudrone, aggiungi +1 al totale degli arcieri tra i servitori per ogni sito che controlli.
+  lore: ‘Sono arrivati al Cancello Nero; ma altri potrebbero venire.’
+es:
+  title: Arquero Sureño
+  subtitle: ''
+  text: '**Sureño.** **Arquero.** Mientras puedas avistar otro sureño, el total de arquería de los siervos es +1 por cada sitio que controles.'
+  lore: Iban todos hacia la Puerta Negra; pero otros podrían venir detrás.

@@ -1,0 +1,37 @@
+set: '1'
+rarity: U
+number: '74'
+unique: true
+culture: Gandalf
+type: Possession
+class: Pipe
+cost: 0
+en:
+  title: Gandalf’s Pipe
+  subtitle: ''
+  text: |-
+    Bearer must be Gandalf.  
+    **Fellowship:** Discard a pipeweed possession and spot X pipes to remove X burdens.
+  lore: ‘I know what is the matter with me,’ he muttered, as he sat down by the door. ‘I need smoke!’
+de:
+  title: Gandalfs Pfeife
+  subtitle: ''
+  text: Muss auf Gandalf gespielt werden. **Gemeinschaft.** Lege ein Pfeifenkraut ab und entdecke X Pfeifen, um X Lastmarken zu entfernen.
+  lore: Ich weiss, was mit mir los ist“, murmelte er, als er sich an die Tür setzte. "Ich brauche was zu rauchen!.
+fr:
+  title: Pipe de Gandalf
+  subtitle: ''
+  text: Le détenteur doit être Gandalf. **Compagnie :** Défaussez une possession Herbe à Pipe et désignez X pipes pour retirer X points-fardeau.
+  lore: ‘Je sais bien ce qui ne va pas,’ murmura-t-il en s'asseyant près de la porte. ‘J'ai besoin de fumer !’
+it:
+  title: La Pipa di Gandalf
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Gandalf.   
+    **Compagnia:** Scarta un bene erba pipa e avvista X pipe per rimuovere X segnalini fardello.
+  lore: ‘So cosa vi è in me che non va', mormorò, sedendosi vicino alla porta. ‘Ho bisogno di fumare!’
+es:
+  title: La Pipa de Gandalf
+  subtitle: ''
+  text: El portador debe ser Gandalf. **Comunidad:** Descarta una posesión hierba para pipa y avista X pipas para quitar X cargas.
+  lore: Ya sé lo que me ocurre – murmuro mientras se sentaba junto a la puerta –. ¡Necesito un poco de humo!

@@ -1,0 +1,45 @@
+set: '4'
+rarity: C
+number: '187'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 1
+str: '5'
+vit: '1'
+site: 5
+en:
+  title: Uruk Foot Soldier
+  subtitle: ''
+  text: |-
+    **Tracker.** **Fierce.**  
+    During a fierce skirmish involving this minion, it is strength +3 and **damage +1.** 
+  lore: ‘Evening’s coming on, and we ought to get a move on.’
+de:
+  title: Uruk Fußsoldat
+  subtitle: ''
+  text: |-
+    **Spurenleser.** **Erbittert.**  
+    Dieser Diener erhält während eines **Erbittert**en Kampfes Stärke +3 und **Schaden +1.**
+  lore: Der Abend kommt, und wir sollten uns dranhalten.
+fr:
+  title: Soldat d'Infanterie Ourouk
+  subtitle: ''
+  text: |-
+    **Traqueur.** **Acharné.**  
+    Pendant un combat **acharné** qui l’implique, ce séide a +3 en force et inflige des **dégâts +1.**
+  lore: 'Le soir tombe, et nous devrions partir.” '
+it:
+  title: Fante Uruk
+  subtitle: ''
+  text: |-
+    **Inseguitore.**  
+    **Feroce.**  
+    Durante una schermaglia **Feroce** che coinvolga questo servitore, aggiungi +3 alla sua forza e **Danno +1.**
+  lore: ‘La sera sta per arrivare, e dovremmo rimetterci in marcia.’
+es:
+  title: Soldado De A Pie Uruk
+  subtitle: ''
+  text: '**Rastreador.** **Fiero.** Durante una escaramuza fiera en la que esté participando, él es fuerza +3 y **daño +1.**'
+  lore: El atardecer se nos echa encima, y deberíamos movernos.

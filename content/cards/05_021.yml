@@ -1,0 +1,33 @@
+set: '5'
+rarity: R
+number: '21'
+unique: true
+culture: Gollum
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Be Back Soon
+  subtitle: ''
+  text: '**Maneuver:** Discard Sméagol to discard a minion. An opponent may exert a minion twice to prevent this.'
+  lore: ‘Now I wonder where he’s got to?’
+de:
+  title: Bin gleich zurück
+  subtitle: ''
+  text: '**Manöver:** Lege Sméagol ab, um einen Diener abzulegen. Ein Gegenspieler darf einen Diener zweimal anstrengen, um dies zu verhindern.'
+  lore: Ich möchte mal wissen, wo er hingegangen ist?
+fr:
+  title: Reviendra Bientôt
+  subtitle: ''
+  text: '**Manœuvre :** Défaussez Sméagol pour défausser un séide. Un adversaire peut affaiblir un séide deux fois pour empêcher ceci.'
+  lore: 'Je me demand où il est allé!” '
+it:
+  title: Torna Presto
+  subtitle: ''
+  text: '**Manovra:** Scarta Sméagol per scartare un servitore. Un avversario può sforzare due volte un servitore per prevenire questo effetto.'
+  lore: ‘Chissà dove se ne è andato!’
+es:
+  title: Volverá pronto
+  subtitle: ''
+  text: '**Maniobra:** Descarta a Sméagol para descartar un siervo. Un oponente puede esforzar dos veces un siervo para prevenir esto.'
+  lore: Me pregunto a dónde habrá ido.

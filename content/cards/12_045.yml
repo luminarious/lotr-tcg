@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '45'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Confronting the Eye
+  subtitle: ''
+  text: '**Fellowship:** Spot a :gondor: Man and add :twilight2: to make each unbound companion strength +1 until the regroup phase (limit +1).'
+  lore: ‘To know that I lived and walked the earth was a blow to his heart, I deem; for he knew it not till now.’
+de:
+  title: Dem Feind insAuge schauen
+  subtitle: ''
+  text: '**Gemeinschaft:** Entdecke einen :gondor: Menschen und erhöhe den Einfluss um :twilight2: um jedem nicht-verbundenen Gefährten bis zur Sammelphase Stärke +1 zu geben (maximal +1).'
+  lore: Zu erfahren, dass ich lebe und auf der Erde wandele, war ein Schlag für sein Herz, schätze ich….

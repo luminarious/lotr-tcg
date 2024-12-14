@@ -1,0 +1,16 @@
+set: '15'
+rarity: C
+number: '136'
+unique: true
+culture: Rohan
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Rohirrim Axe
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    While bearer is skirmishing a hunter minion, bearer is **damage +1**.
+  lore: Rohirrim young and old were given weapons of all kinds to defend Helm’s Deep.

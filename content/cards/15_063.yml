@@ -1,0 +1,18 @@
+set: '15'
+rarity: U
+number: '63'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+res: '6'
+en:
+  title: Mablung
+  subtitle: Ranger of Ithilien
+  text: |-
+    **Ranger. Hunter 1.** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    **Skirmish:** Exert Mablung to wound a roaming minion he is skirmishing.
+  lore: ‘We come to teach them another lesson.’

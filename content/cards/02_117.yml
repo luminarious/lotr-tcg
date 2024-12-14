@@ -1,0 +1,32 @@
+set: '2'
+rarity: C
+number: '117'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Town Center
+  subtitle: ''
+  text: '**Fellowship:** Play a :shire: ally to draw a card. '
+  lore: ''
+de:
+  title: Stadtzentrum
+  subtitle: ''
+  text: '**Gemeinschaft.** Spiele einen :shire: Verbündeten, um eine Karte zu ziehen.'
+  lore: ''
+fr:
+  title: Place Publique
+  subtitle: ''
+  text: '**Compagnie :** Jouez un allié :shire: pour piocher une carte.'
+  lore: ''
+it:
+  title: Centro della Città
+  subtitle: ''
+  text: '**Compagnia:** Gioca un alleato :shire: per pescare una carta.'
+  lore: ''
+es:
+  title: Centro del pueblo
+  subtitle: ''
+  text: '**Comunidad:** Juega un aliado :shire: para robar una carta.'
+  lore: ''

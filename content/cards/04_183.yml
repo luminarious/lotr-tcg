@@ -1,0 +1,44 @@
+set: '4'
+rarity: C
+number: '183'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '6'
+vit: '2'
+site: 5
+en:
+  title: Uruk Crossbowman
+  subtitle: ''
+  text: |-
+    **Archer.**   
+    **Archery:** Exert this minion to make the Free Peoples player wound an unbound companion; this minion does not add to the minion archery total. 
+  lore: Both the weapon and its wielder were foul creations of Saruman.
+de:
+  title: Uruk Armbrustschütze
+  subtitle: ''
+  text: |-
+    **Bogenschütze.**  
+    **FernKampf** Strenge diesen Diener an, um den Freie Völker Spieler zu zwingen, einen nicht-verbundenen Gefährten zu verwunden; dieser Diener zählt dann nicht zum Fernkampfwert der Diener.
+  lore: Sowohl die Waffe als auch ihr Besitzer waren teuflische Schöpfungen Sarumans.
+fr:
+  title: Arbalétrier Ourouk
+  subtitle: ''
+  text: |-
+    **Archer.**  
+    **Archerie :** Affaiblissez ce séide pour obliger le joueur des Peuples Libres à blesser un compagnon dissocié; ce séide ne s’ajoute pas au total d’archerie des séides.
+  lore: L'arme et celui qui la maniait était tous deux des créations infectes de Saroumane.
+it:
+  title: Balestriere Uruk
+  subtitle: ''
+  text: |-
+    **Arciere.**  
+    **Arcieri:** Sforza questo servitore per far ferire al giocatore dei Popoli Liberi un compagno Non Legato; questo servitore non si aggiunge al totale degli arcieri tra i servitori.
+  lore: Tanto l'arma quanto il suo possessore erano delle ripugnanti creazioni di Saruman.
+es:
+  title: Ballestero Uruk
+  subtitle: ''
+  text: '**Arquero.** **Arquería:** Esfuerza este siervo para hacer que el jugador de Gentes Libres esfuerze un compañero no-vinculado; este siervo no añade al total de arquería de los siervos.'
+  lore: Ambas, el arma y su portador, fueron inmundas creaciones de Saruman.

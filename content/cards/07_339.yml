@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '339'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Right
+en:
+  title: Hall of the Kings
+  subtitle: ''
+  text: '**Sanctuary.** **Fellowship:** If you cannot spot 3 threats, add a threat to draw a card.'
+  lore: ''
+de:
+  title: Die Halle der Könige
+  subtitle: ''
+  text: '**Zuflucht.** **Gemeinschaft:** Lasse eine Bedrohung entstehen, um eine Karte zu ziehen, wenn du keine 3 Bedrohungen entdecken kannst.'
+  lore: ''

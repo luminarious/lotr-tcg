@@ -1,0 +1,18 @@
+set: '1'
+rarity: R
+number: '50'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Frodo
+en:
+  title: Legolas
+  subtitle: Greenleaf
+  text: |-
+    **Archer.**   
+    **Archery:** Exert Legolas to wound a minion; Legolas does not add to the fellowship archery total.
+  lore: ‘And I too will go with him,’ said Legolas. ‘It would be faithless now to say farewell.’

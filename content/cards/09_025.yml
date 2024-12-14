@@ -1,0 +1,18 @@
+set: '9'
+rarity: R
+number: '25'
+unique: true
+culture: Gandalf
+type: Companion
+race: Tree
+cost: 2
+str: '6'
+vit: '4'
+en:
+  title: Huorn
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    This companion is strength +1 for each Ent you spot.   
+    **Response:** If this companion is about to take a wound, exert an Ent to prevent that. 
+  lore: ‘…the Forest itself was moving behind us.’

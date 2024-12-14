@@ -1,0 +1,22 @@
+set: '12'
+rarity: U
+number: '167'
+unique: true
+culture: Wraith
+type: Event
+class: Shadow
+cost: 4
+en:
+  title: Minas Morgul Answers
+  subtitle: ''
+  text: |-
+    **Toil 2.** *(For each* :wraith: *character you exert when playing this, its twilight cost is –2.)*   
+    Spot a Nazgûl to discard a Free Peoples condition from play.
+  lore: 'There was a flare of livid lightnings: forks of blue flame springing up from the tower and from the encircling hills into the sullen clouds.'
+de:
+  title: Die Antwort vonMinas Morgul
+  subtitle: ''
+  text: |-
+    **Mühe 2.**  
+    Entdecke einen Nazgûl, um einen Effekt der Freien Völker aus dem Spiel abzulegen.
+  lore: 'Fahle Blitze flammten auf: gezackte blaue Flammen schossen vom Turm und den umgebenden Bergen empor in die dunklen Wolken.'

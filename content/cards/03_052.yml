@@ -1,0 +1,35 @@
+set: '3'
+rarity: R
+number: '52'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: A Fell Voice on the Air
+  subtitle: ''
+  text: |-
+
+    **Shadow:** Exert Saruman to play an :isengard: weather condition from your discard pile. Its twilight cost is -2. 
+  lore: ‘He’s trying to bring down the mountain!’
+de:
+  title: Grausame Stimmen in der Luft
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Schatten:** Strenge Saruman an, um einen :isengard: Wettereffekt aus deinem Ablagestapel zu spielen. Die Zwielichtkosten reduzieren sich um 2.'
+  lore: Er versucht, den Berg zum Einsturz zu bringen!
+fr:
+  title: Une Vile Voix Dans l'Air
+  subtitle: ''
+  text: 'Ombre : Affaiblissez Saroumane pour jouer une situation de climat :isengard: de votre pile de défausse. Son coût crépusculaire est de -2.'
+  lore: 'Il essaie de faire tomber la montagne!” '
+it:
+  title: Una Voce Funesta nell'Aria
+  subtitle: ''
+  text: '**Ombra:** Sforza Saruman per giocare una condizione atmosferica :isengard: dalla tua pila degli scarti. Sottrai -2 al suo costo **Crepuscolo.**'
+  lore: ‘Sta cercando di far crollare la montagna!’
+es:
+  title: Una voz cruel en el aire
+  subtitle: ''
+  text: '**Sombra:** Esfuerza a Saruman para jugar una condición de clima :isengard: de tu pila de descartes. Su coste de penumbra es -2.'
+  lore: ¡Está intentando derrumbar la montaña!

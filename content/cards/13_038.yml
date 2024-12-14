@@ -1,0 +1,15 @@
+set: '13'
+rarity: R
+number: '38'
+unique: true
+culture: Gandalf
+type: Follower
+cost: 2
+res: '+2'
+en:
+  title: Radagast
+  subtitle: Tender of Beasts
+  text: |-
+    **Aid –** :twilight2:. *(At the start of the maneuver phase, you may add* :twilight2: *to transfer this to a companion.)*  
+    While you can spot 2 :gandalf: companions, minions skirmishing bearer do not gain strength bonuses from possessions.
+  lore: ‘It would have been useless in any case to try and win over the honest Radagast to treachery.’

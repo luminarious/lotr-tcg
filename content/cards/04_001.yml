@@ -1,0 +1,35 @@
+set: '4'
+rarity: R
+number: '1'
+unique: true
+culture: ''
+type: Ring
+en:
+  title: The One Ring
+  subtitle: Answer To All Riddles
+  text: |-
+    While wearing The One Ring, the Ring-bearer is strength +2, and each time he is about to take a wound in a skirmish, add a burden instead.  
+    **Skirmish:** Add a burden to wear The One Ring until the regroup phase. 
+  lore: ‘…thought to have perished from the world.’
+de:
+  title: Der Eine Ring
+  subtitle: Die Lösung all der Rätsel
+  text: Solange er den Einen Ring benutzt, erhält der Ringträger Stärke +2 und er erhält für jede Wunde, die ihm im Kampf zugefügt wird, statt dessen 1 Lastmarke. **Kampf** Lege 1 Lastmarke auf den Ringträger, um den Einen Ring bis zur Sammelphase zu benutzen.
+  lore: … von dem angenommen wurde, er sei aus der Welt verschwunden.
+fr:
+  title: L'Anneau Unique
+  subtitle: La Réponse à Toutes les Énigmes
+  text: Tant qu’il a l’Anneau au doigt, le Porteur de l’Anneau a +2 en force et, chaque fois qu’il est sur le point de prendre une blessure en combat, ajoutez plutôt un point-fardeau. **Combat :** Ajoutez un point-fardeau pour mettre l’Anneau au doigt jusqu’à la phase de ralliement.
+  lore: '… que l''on croyait disparu du monde.” '
+it:
+  title: L'Unico Anello
+  subtitle: La Risposta a Tutti gli Enigmi
+  text: |-
+    Mentre indossa L’Unico Anello, aggiungi +2 alla forza del Portatore dell’Anello e, ogni volta che sta per subire una ferita in una schermaglia, aggiungi invece 1 segnalino fardello.   
+    **Schermaglia:** Aggiungi 1 segnalino fardello per indossare L’Unico Anello fino alla fase di raccolta.
+  lore: ‘…che tutti pensavano scomparso dal mondo.’
+es:
+  title: El Anillo Único
+  subtitle: Respuesta a Todos Los Acertijos
+  text: Mientras lleve puesto el Anillo Único, el Portador del Anillo es fuerza +2, y cada vez que vaya a recibir una herida en una escaramuza, en vez de eso añade una carga. **Escaramuza:** Añade una carga para llevar puesto el Anillo Único hasta la fase de reagrupación.
+  lore: …que se creía desaparecido para el mundo.

@@ -1,0 +1,33 @@
+set: '2'
+rarity: U
+number: '34'
+unique: true
+culture: Gondor
+type: Event
+class: Response
+cost: 0
+en:
+  title: Gondor Will See It Done
+  subtitle: ''
+  text: '**Response:** If a companion is about to take a wound, exert a :gondor: companion to prevent that wound. '
+  lore: ‘Boromir!… Go after those two young hobbits, and guard them at the least, even if you cannot find Frodo.’
+de:
+  title: Gondor wird dafür sorgen, dass es so geschieht
+  subtitle: ''
+  text: '**Reaktion:** Wenn einem Gefährten eine Wunde zugefügt wird, strenge einen :gondor: Gefährten an, um diese Wunde zu verhindern.'
+  lore: Boromir! … Gehe den beiden jungen Hobbits nach und beschütze sie wenigstens, selbst wenn du Frodo nicht finden kannst.
+fr:
+  title: Gondor Verra à Ce Que Ce Soit Fait
+  subtitle: ''
+  text: '**Réponse :** Si un compagnon est sur le point d’être blessé, affaiblissez un compagnon :gondor: pour prévenir la blessure.'
+  lore: 'Boromir! … Suivez ces deux jeunes Hobbits et protégez-les tout au moins, même si vous ne pouvez trouver Frodon.” '
+it:
+  title: Gondor Provvederà
+  subtitle: ''
+  text: '**Risposta:** Se un compagno sta per subire una ferita, sforza un compagno :gondor: per prevenire quella ferita.'
+  lore: Boromir!… Rincorri quei due giovani Hobbit, e custodiscili almeno, anche se non riesci a trovare Frodo.
+es:
+  title: Gondor lo verá cumplido
+  subtitle: ''
+  text: '**Respuesta:** Si un compañero va a recibir una herida, esfuerza un compañero :gondor: para prevenir esa herida.'
+  lore: ¡Boromir! Sigue a esos dos jóvenes Hobbits, y por lo menos cuida de ellos, incluso si no puedes encontrar a Frodo.

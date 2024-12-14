@@ -1,0 +1,16 @@
+set: '11'
+rarity: S
+number: '33'
+unique: true
+culture: Gandalf
+type: Companion
+race: Wizard
+cost: 4
+str: '7'
+vit: '4'
+res: '7'
+en:
+  title: Gandalf
+  subtitle: Leader of the Company
+  text: 'While Gandalf is in region 1, each other companion is strength +2. While Gandalf is in region 2, each companion is strength +1. While Gandalf is in region 3, he is strength +2. '
+  lore: ‘I will help you bear this burden, Frodo Baggins….’

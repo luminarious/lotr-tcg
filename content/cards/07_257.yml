@@ -1,0 +1,20 @@
+set: '7'
+rarity: C
+number: '257'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Veteran Horseman
+  subtitle: ''
+  text: '**Skirmish:** Exert this companion to make him strength +1 for each mounted companion you spot.'
+  lore: …through Folde and Fenmarch and the Firienwood, six thousand speards to Sunlending….
+de:
+  title: Erfahrener Reiter
+  subtitle: ''
+  text: '**Kampf:** Strenge diesen Gefährten an, um ihm Stärke +1 zu geben für jeden berittenen Gefährten, den du entdeckst.'
+  lore: …Durch Folde und Fenmark und Firienwald, / Sechstausend Speere nach Sunlending…

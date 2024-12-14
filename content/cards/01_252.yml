@@ -1,0 +1,35 @@
+set: '1'
+rarity: R
+number: '252'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: The Irresistible Shadow
+  subtitle: ''
+  text: |-
+    To play, exert a :sauron: Orc.   
+    If you can spot 5 burdens and the Free Peoples player has no cards in his or her draw deck, the Ring-bearer is corrupted.
+  lore: Once more the desire to slip on the Ring came over Frodo; but this time it was stronger than before.
+de:
+  title: Unaufhaltsamer Schatten
+  subtitle: ''
+  text: 'Strenge einen :sauron: Ork an, um diese Karte in deinen Unterstützungsbereich zu spielen. Wenn du 5 Lastmarken entdecken kannst und der Freie Völker Spieler keine Karten mehr in seinem Spieldeck hat, erliegt der Ringträger der Versuchung des Rings.'
+  lore: Wieder wurde Frodo von dem Wunsch befallen, den Ring aufzustreifen, aber diesmal stärker als vorher.
+fr:
+  title: L'Ombre Irrésistible
+  subtitle: ''
+  text: Pour jouer, affaiblissez un Orque :sauron:. Si vous pouvez désigner 5 points-fardeau et que le joueur des Peuples Libres n’a pas de carte dans sa pioche, le Porteur de l’Anneau est corrompu.
+  lore: Une fois de plus, le désir de glisser l'Anneau à son doigt s'empara de Frodon ; mais cette fois, il était plus fort qu'auparavant.
+it:
+  title: L'Irresistibile Ombra
+  subtitle: ''
+  text: Per giocarla, sforza un Orco :sauron:. Se puoi avvistare 5 segnalini fardello e il giocatore dei Popoli Liberi non ha carte nel suo mazzo di gioco, il Portatore dell’Anello è corrotto.
+  lore: Il desiderio di infilarsi l'Anello s'impadronì di Frodo; ma questa volta con molta più forza.
+es:
+  title: La Sombra Irresistible
+  subtitle: ''
+  text: Para jugarla, esfuerza un Orco :sauron:. Si puedes avistar 5 cargas y el jugador de Gentes Libres no tiene cartas en su mazo de robar, el Portador del Anillo se corrompe.
+  lore: Una vez mas Frodo sintió el deseo de ponerse el Anillo, y el deseo era mas fuerte que nunca.

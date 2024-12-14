@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '43'
+unique: true
+culture: Dwarven
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Come Here Lad
+  subtitle: ''
+  text: '**Fellowship:** Stack the top 2 cards from your draw deck on a :dwarven: condition that has a card already stacked on it. '
+  lore: ‘You are the canniest, luckiest, most reckless fool I've ever met! Bless you.’
+de:
+  title: Komm her, Bursche!
+  subtitle: ''
+  text: '**Gemeinschaft.** Lagere die 2 obersten Karten von deinem Spieldeck auf einem :dwarven: Effekt, wenn auf diesem bereits mindestens eine Karte lagert.'
+  lore: Du bist der schlauste, sorgloseste und närrischste Glückspilz, der mir je untergekommen ist. Sei gesegnet.
+fr:
+  title: Venez Ici Jeune Homme
+  subtitle: ''
+  text: '**Compagnie :** Empilez les 2 cartes du dessus de votre pioche sur une situation :dwarven: où au moins une carte est déjà empilée.'
+  lore: 'Vous êtes le plus rusé, le plus chanceux, le plus insouciant fou que j''aie jamais rencontré. Soyez béni.” '
+it:
+  title: Vieni Qui Amico
+  subtitle: ''
+  text: '**Compagnia:** Impila le prime 2 carte dalla cima del mazzo di gioco su una condizione :dwarven: che abbia una carta già impilata sopra.'
+  lore: ‘Sei il più scaltro, fortunato, imprudente pazzo che io abbia mai incontrato! Che tu sia benedetto.’
+es:
+  title: Ven Aquí Muchacho
+  subtitle: ''
+  text: '**Comunidad:** Apila las 2 cartas superiores de tu mazo de robar en una condición :dwarven: que ya tenga una carta apilada en ella.'
+  lore: ¡Eres el loco más temerario, astuto y con suerte que jamás he encontrado! Bendito seas.

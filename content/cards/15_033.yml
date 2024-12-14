@@ -1,0 +1,13 @@
+set: '15'
+rarity: R
+number: '33'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: One Last Surprise
+  subtitle: ''
+  text: '**Spell**. Spot Gandalf and an unbound companion skirmishing a minion to use Gandalf’s resistance to resolve that skirmish instead of that companion’s strength.'
+  lore: The dragon passed like an express train…and burst over Bywater with a deafening explosion.

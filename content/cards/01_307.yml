@@ -1,0 +1,21 @@
+set: '1'
+rarity: R
+number: '307'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+signet: Signet_Gandalf
+en:
+  title: Pippin
+  subtitle: Hobbit of Some Intelligence
+  text: When you play Pippin, remove a burden or wound from a companion.
+  lore: ‘Anyway, you need people of intelligence on this sort of mission… quest… thing.’
+it:
+  title: Pipino
+  subtitle: Hobbit Assai Intelligente
+  text: Quando giochi Pipino, rimuovi un segnalino fardello o ferita da un compagno.
+  lore: ‘ad ogni modo, ti servono persone intelligenti per questa sorta di missione… impresa… cosa.’

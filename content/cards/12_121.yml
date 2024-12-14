@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '121'
+unique: true
+culture: Shire
+type: Event
+class: Response
+cost: 0
+en:
+  title: Flotsam and Jetsam
+  subtitle: ''
+  text: If a companion (except a Hobbit) wins a skirmish, heal a Hobbit.
+  lore: ‘Welcome, my lords, to Isengard!’ he said. ‘We are the doorwardens.’
+de:
+  title: Treibgut und Beute
+  subtitle: ''
+  text: Heile einen Hobbit, wenn ein Gefährte (außer einem Hobbit) einen Kampf gewinnt.
+  lore: Willkommen, meine Herren, in Isengart!“ sagte er. "Wir sind die Torwächter.

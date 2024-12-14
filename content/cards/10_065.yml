@@ -1,0 +1,18 @@
+set: '10'
+rarity: C
+number: '65'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Swarming Like Beetles
+  subtitle: ''
+  text: '**Maneuver:** Spot a :wraith: Orc and remove a threat to wound an unwounded companion. '
+  lore: ‘…in secret they have long been building floats and barges in great number in East Osgiliath.’
+de:
+  title: Wie wimmelnde Insekten
+  subtitle: ''
+  text: '**Manöver:** Entdecke einen :wraith: Ork und entferne eine Bedrohung, um einen unverwundeten Gefährten zu verwunden.'
+  lore: … dass sie seit langem heimlich eine große Zahl von Flößen und Barken in Ost-Osgiliath gebaut haben.

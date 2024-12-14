@@ -1,0 +1,25 @@
+set: '13'
+rarity: R
+number: '174'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '12'
+vit: '3'
+site: 5
+en:
+  title: Uruk Rogue
+  subtitle: ''
+  text: |-
+    **Damage +1.  
+    Skirmish:** If no other minions are assigned to a skirmish, you may exert this minion twice to make it **fierce** and strength +4 until the regroup phase.
+  lore: Some minions prefer to fight alone.
+de:
+  title: Uruk Einzelgänger
+  subtitle: ''
+  text: |-
+    **Schaden +1.  
+    Kampf:** Strenge diesen Diener zweimal an, wenn kein anderer Diener einem Kampf zugewiesen ist, um ihn bis zur Sammelphase **erbittert** zu machen und ihm Stärke +4 zu geben.
+  lore: Manche Uruks kämpfen lieber allein.

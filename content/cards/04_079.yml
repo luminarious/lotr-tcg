@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '79'
+unique: true
+culture: Elven
+type: Event
+class: Response
+cost: 1
+en:
+  title: Night Without End
+  subtitle: ''
+  text: '**Response:** If an Elf wins a skirmish, exert that Elf to liberate a site or wound a minion. '
+  lore: ‘Would that this night would end, and I could have better light for shooting.’
+de:
+  title: Nacht ohne Ende
+  subtitle: ''
+  text: '**Reaktion:** Wenn ein Elb einen Kampf gewinnt, strenge diesen Elben an, um einen Ort zu befreien oder einen Diener zu verwunden.'
+  lore: Ich wollte, die Nacht nähme ein Ende und ich hätte besseres Licht zum Schiessen.
+fr:
+  title: Une Nuit Interminable
+  subtitle: ''
+  text: '**Réponse :** Si un Elfe gagne un combat, affaiblissez cet Elfe pour libérer un site ou pour blesser un séide.'
+  lore: '… si cette nuit pouvait se terminer, que j''aie une meilleure lumière pour mon tir!” '
+it:
+  title: Notte senza Fine
+  subtitle: ''
+  text: '**Risposta:** Se un Elfo vince una schermaglia, sforza quell’Elfo per liberare un sito o ferire un servitore.'
+  lore: ‘Se almeno questa notte finisse, e io potessi finalmente avere una luce migliore per tirare.’
+es:
+  title: Noche Sin Fin
+  subtitle: ''
+  text: '**Respuesta:** Si un Elfo gana una escaramuza, esfuerza ese Elfo para liberar un sitio o herir un siervo.'
+  lore: Quisiera que la noche terminase de una vez, así tendría mejor luz para tomar puntería.

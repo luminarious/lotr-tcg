@@ -1,0 +1,42 @@
+set: '1'
+rarity: C
+number: '295'
+unique: true
+culture: Shire
+type: Ally
+race: Hobbit
+cost: 1
+str: '2'
+vit: '2'
+site: '1'
+en:
+  title: Hobbit Farmer
+  subtitle: ''
+  text: |-
+    While you can spot your site 1, this ally has the game text of that site.   
+    **Fellowship:** Exert this ally and spot opponent’s site 1 to replace it with your site 1.
+  lore: ‘…where our hearts truly lie is in peace and quiet and good-tilled earth….’
+de:
+  title: Hobbitbauer
+  subtitle: ''
+  text: Solange du deine Ortskarte 1 entdecken kannst, hat der Hobbitbauer den Kartentext dieses Ortes. **Gemeinschaft.** Strenge diesen Verbündeten an und entdecke die Ortskarte 1 eines Gegenspielers, um sie durch deine eigene Ortskarte 1 zu ersetzen.
+  lore: …unsere Herzen sehnen sich nach Frieden und Ruhe und gut bestellter Erde…
+fr:
+  title: Fermier Hobbit
+  subtitle: ''
+  text: Tant que vous pouvez désigner votre site 1, cet allié a le descriptif de ce site. **Compagnie :** Affaiblissez cet allié et désignez le site 1 de l’adversaire pour le remplacer par votre site 1.
+  lore: ‘…le véritable siège du c*ur est la paix, le calme et a terre bien cultivée….’
+it:
+  title: Contadino Hobbit
+  subtitle: ''
+  text: |-
+    Finché puoi avvistare il tuo sito 1, questo alleato ha il testo di gioco di quel sito.   
+    **Compagnia:** Sforza questo alleato e avvista il sito 1 avversario e sostituiscilo con il tuo sito 1.
+  lore: ‘… e ciò a cui i nostri cuori invero anelano è la pace e la quiete e un campo ben lavorato….’
+es:
+  title: Granjero Hobbit
+  subtitle: ''
+  text: |-
+    Mientras puedas avistar tu sitio 1, este aliado tiene el texto de juego de ese sitio.   
+    **Comunidad:** Esfuerza este aliado y avista el sitio 1 de un oponente reemplazarlo por tu sitio 1.
+  lore: … Donde verdaderamente residen nuestros corazones es en la paz y la calma y en la tierra bien arada…

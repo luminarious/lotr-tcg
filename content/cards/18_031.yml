@@ -1,0 +1,13 @@
+set: '18'
+rarity: R
+number: '31'
+unique: true
+culture: Gollum
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: It Draws Him
+  subtitle: ''
+  text: 'Spot a :gollum: card to play a minion. Its twilight cost -1 (or -3 if it is roaming).'
+  lore: He will never be rid of his need for it. He hates and loves the Ring, as he hates and loves himself.

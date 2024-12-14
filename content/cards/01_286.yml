@@ -1,0 +1,36 @@
+set: '1'
+rarity: C
+number: '286'
+unique: true
+culture: Shire
+type: Ally
+race: Hobbit
+cost: 1
+str: '2'
+vit: '2'
+site: '2'
+en:
+  title: Bounder
+  subtitle: ''
+  text: '**Skirmish:** Exert this ally to prevent a Hobbit from being overwhelmed unless that Hobbit’s strength is tripled.'
+  lore: ‘Aye, reckon we're in for a quiet night… mind how you go.’
+de:
+  title: Nachtwächter
+  subtitle: ''
+  text: '**Kampf** Strenge diesen Verbündeten an, damit ein Hobbit nur noch mit dreifacher Stärke überwältigt werden kann.'
+  lore: Aye, ich denke, es wird eine ruhige Nacht…achtet auf den Weg.
+fr:
+  title: Frontalier
+  subtitle: ''
+  text: '**Combat :** Affaiblissez cet allié pour empêcher un Hobbit d’être submergé à moins que la force du camp adverse ne soit trois fois supérieure à celle du Hobbit.'
+  lore: ‘Ouais, la nuit s'annonce calme… faites attention à vous.’
+it:
+  title: Guardafrontiere
+  subtitle: ''
+  text: '**Schermaglia:** Sforza questo alleato per impedire che un Hobbit sia sopraffatto, a meno che la forza degli avversari non sia il triplo della forza di quell’Hobbit.'
+  lore: ‘Si, calcola che siamo qui per una nottata tranquilla … io sorveglio in che modo vai.’
+es:
+  title: Oficial
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza este aliado para prevenir que un Hobbit sea abrumado a no ser que la fuerza de ese Hobbit sea triplicada.'
+  lore: Recordad que estamos aquí para pasar una noche tranquila… Cuidado como os marcháis.

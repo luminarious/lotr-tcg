@@ -1,0 +1,19 @@
+set: '12'
+rarity: O
+number: '201'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 5
+str: '10'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Cantëa
+  subtitle: Black Assassin
+  text: |-
+    **Fierce.   
+    Assignment:** Assign Úlairë Cantëa to a companion who has resistance 0.   
+    **Skirmish:** Spot 6 companions and another :wraith: card to kill a companion Úlairë Cantëa is skirmishing.
+  lore: ‘Flee them! Speak no words to them! They are deadly.’

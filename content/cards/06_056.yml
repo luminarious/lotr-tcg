@@ -1,0 +1,33 @@
+set: '6'
+rarity: C
+number: '56'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Trust
+  subtitle: ''
+  text: '**Skirmish:** Make a :gondor: Man strength +2 (and heal a companion if you spot an :elven: token).'
+  lore: ‘You cannot falter now.’
+de:
+  title: Vertrauen
+  subtitle: ''
+  text: '**Kampf** Gib einem :gondor: Menschen Stärke +2 (und heile einen Gefährten, wenn du eine :elven: Marke entdeckst).'
+  lore: Du darfst jetzt nicht zögern.
+fr:
+  title: Confiance
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force à un Homme :gondor: (et guérissez un compagnon si vous désignez un jeton :elven:).'
+  lore: 'Vous ne pouvez pas défaillir maintenant.” '
+it:
+  title: Fiducia
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Uomo :gondor: (e cura un compagno se avvisti un segnalino :elven:).'
+  lore: ‘Ora non puoi esitare.’
+es:
+  title: Confianza
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Hombre :gondor: fuerza +2 (y cura un compañero si avistas un contador p).'
+  lore: No puedes vacilar ahora.

@@ -1,0 +1,17 @@
+set: '4'
+rarity: C
+number: '67'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Fereveldir
+  subtitle: Son of Thandronen
+  text: |-
+    To play, spot an Elf.   
+    **Skirmish:** Exert Fereveldir and discard an :elven: token from your condition to wound a minion Fereveldir is skirmishing. 
+  lore: Thandronen’s sons patrol the borders of Lórien together.

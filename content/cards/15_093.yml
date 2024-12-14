@@ -1,0 +1,16 @@
+set: '15'
+rarity: C
+number: '93'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 2
+str: '7'
+vit: '1'
+site: 4
+en:
+  title: Swarthy Hillman
+  subtitle: ''
+  text: While you control a site, this minion is an **archer**.
+  lore: The Wild Men will defend their territories at all costs.

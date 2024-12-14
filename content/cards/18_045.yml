@@ -1,0 +1,16 @@
+set: '18'
+rarity: U
+number: '45'
+unique: true
+culture: Gondor
+type: Possession
+class: Ranged Weapon
+cost: 2
+str: '+1'
+en:
+  title: Dúnadan's Bow
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: ranger.  
+    **Archery:** Discard 2 :gondor: cards from hand to make the fellowship archery total +1.
+  lore: Well trained and deadly accurate, a ranger’s bow was more an extension of himself than a weapon of wood.

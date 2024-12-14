@@ -1,0 +1,24 @@
+set: '2'
+rarity: C
+number: '102'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 0
+str: '3'
+vit: '4'
+res: '10'
+signet: Signet_Aragorn
+en:
+  title: Frodo
+  subtitle: Reluctant Adventurer
+  text: |-
+    **Ring-bound.** **Ring-bearer** (resistance 10).   
+    The cost of each artifact, possession, and :shire: tale played on Frodo is -1. 
+  lore: ‘I am not made for perilous quests. I wish I had never seen the Ring! Why did it come to me? Why was I chosen?’
+fr:
+  title: Frodon
+  subtitle: Aventurier Malgré Lui
+  text: '**Porteur de l’Anneau (résistance 10).** Le coût de chaque artefact, possession et récit :shire: joué sur Frodon est de -1.'
+  lore: 'Je ne suis pas fait pour les quêtes périlleuses. Je voudrais bien n''avoir jamais vu l''Anneau! Pourquoi m''est-il venu? Pourquoi ai-je été choisi?” '

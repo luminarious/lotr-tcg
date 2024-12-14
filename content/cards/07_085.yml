@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '85'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '8'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Denethor
+  subtitle: Steward of the City
+  text: |-
+    **Fellowship:** Play a :gondor: knight. That knight’s twilight cost is –2.   
+    Each time a Shadow card adds a threat, add a burden. Each time a Shadow card adds a burden, add a threat.
+  lore: ''

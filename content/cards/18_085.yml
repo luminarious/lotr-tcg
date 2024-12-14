@@ -1,0 +1,18 @@
+set: '18'
+rarity: R
+number: '85'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 6
+str: '15'
+vit: '3'
+site: 4
+en:
+  title: Gothmog
+  subtitle: Morgul Leader
+  text: |-
+    Each the fellowship and minion archery totals are +3.  
+    **Regroup:** Remove :twilight2: to play an :orc: minion from your discard pile.
+  lore: Fear. The city is rank with it.

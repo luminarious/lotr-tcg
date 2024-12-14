@@ -1,0 +1,16 @@
+set: '1'
+rarity: R
+number: '302'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+signet: Signet_Frodo
+en:
+  title: Merry
+  subtitle: Friend to Sam
+  text: '**Skirmish:** If Merry is not assigned to a skirmish, exert him twice to add his strength to another companion.'
+  lore: ‘We're coming too! You'll have to send us home tied up in a sack to stop us!’

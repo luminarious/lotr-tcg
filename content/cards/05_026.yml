@@ -1,0 +1,33 @@
+set: '5'
+rarity: U
+number: '26'
+unique: true
+culture: Gollum
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Look at Him
+  subtitle: ''
+  text: '**Shadow:** Spot Sméagol or Gollum to add :twilight1: for each burden.'
+  lore: ‘That’s what it is. It’s that Gollum! Snakes and adders! And to think I thought that we'd puzzle him with our bit of a climb!’
+de:
+  title: Schau dir das an!
+  subtitle: ''
+  text: '**Schatten:** Entdecke Sméagol oder Gollum, um den Einfluss für jede Lastmarke auf dem Ringträger um :twilight1: zu erhöhen.'
+  lore: Da haben wir’s. Das ist dieser Gollum! Schlangen und Nattern! Und wenn man sich vorstellt, dass ich geglaubt hatte, wir verwirren ihn mit unserem bißchen Klettern!
+fr:
+  title: Regardez-Le
+  subtitle: ''
+  text: '**Ombre :** Désignez Sméagol ou Gollum pour ajouter :twilight1: pour chaque point-fardeau.'
+  lore: 'Ça y est. C''est ce Gollum! Par tous les serpents et vipères! Et dire que j''avais pensé qu''on le gênerait avec notre bout d''escalade!” '
+it:
+  title: Guardalo
+  subtitle: ''
+  text: '**Ombra:** Avvista Sméagol o Gollum per aggiungere:twilight1: per ogni segnalino fardello.'
+  lore: ‘Ecco cos'è. E’ quel Gollum! Vipere e serpi! E dire che pensavo di metterlo in difficoltà con quel poco di discesa che abbiamo fatto noi!’
+es:
+  title: Mírelo
+  subtitle: ''
+  text: '****Sombra:**** Avista a Sméagol o a Gollum para añadir :twilight1: por cada carga.'
+  lore: Ya está ahí. ¡Es ese Gollum! ¡Sapos y culebras! ¡Y pensé que lo habíamos despistado con nuestra pequeña hazaña!

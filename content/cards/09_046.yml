@@ -1,0 +1,18 @@
+set: '9'
+rarity: R
+number: '46'
+unique: true
+culture: Rohan
+type: Artifact
+class: Support Area
+cost: 0
+en:
+  title: The Red Arrow
+  subtitle: ''
+  text: '**Assignment:** Exert a :gondor: Man to play a :rohan: Man. You may exert that :rohan: Man to play a possession on him or her. Discard this artifact. '
+  lore: ‘The Red Arrow has not been seen in the Mark in all my years! Has it indeed come to that?’
+de:
+  title: Der Rote Pfeil
+  subtitle: ''
+  text: '**Zuweisung:** Strenge einen :gondor: Menschen an, um einen :rohan: Menschen zu spielen. Du darfst diesen :rohan: Menschen anstrengen, um eine Ausrüstung auf ihn zu spielen. Lege dieses Artefakt ab.'
+  lore: Der rote Pfeil ist in all meinen Jahren nicht in der Mark gesehen worden! Ist es wirklich so weit gekommen?

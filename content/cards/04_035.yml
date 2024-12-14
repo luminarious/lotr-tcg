@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '35'
+unique: true
+culture: Dunland
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Wake of Destruction
+  subtitle: ''
+  text: '**Maneuver:** Spot 2 sites you control to make each of your :dunland: Men **fierce** until the regroup phase. '
+  lore: The anger of the wild men increased with every home they pillaged.
+de:
+  title: Im Sog der Zerstörung
+  subtitle: ''
+  text: '**Manöver:** Entdecke 2 Orte, die du kontrollierst, um alle deine :dunland: Menschen bis zur Sammelphase **Erbittert** zu machen.'
+  lore: Der Zorn der wilden Menschen wuchs mit jedem Haus, das sie zerstörten.
+fr:
+  title: Vague de Destruction
+  subtitle: ''
+  text: '**Manœuvre :** Désignez 2 sites que vous contrôlez pour rendre chacun de vos Hommes :dunland: **acharné** jusqu’à la phase de ralliement.'
+  lore: La colère des hommes sauvages croissait d'une maison pillée à l'autre.
+it:
+  title: Scia di Distruzione
+  subtitle: ''
+  text: '**Manovra:** Avvista 2 siti che controlli per rendere **Feroce** ognuno dei tuoi Uomini :dunland: fino alla fase di raccolta.'
+  lore: L'astio degli uomini selvaggi aumentò dopo ogni casa saccheggiata.
+es:
+  title: El Despertar De La Destrucción
+  subtitle: ''
+  text: '**Maniobra:** Avista 2 sitios que controles para dar a cada uno de tus Hombres :dunland: **fiero** hasta la fase de reagrupación.'
+  lore: La ira de los hombres salvajes creció con cada hogar saqueado.

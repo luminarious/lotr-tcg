@@ -1,0 +1,22 @@
+set: '7'
+rarity: U
+number: '244'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Mustering for Battle
+  subtitle: ''
+  text: |-
+    To play, spot 3 :rohan: Men.   
+    **Maneuver:** Exert a :rohan: companion twice or discard this condition to play a :rohan: possession from your discard pile.
+  lore: ''
+de:
+  title: Heerschau
+  subtitle: ''
+  text: |-
+    Entdecke 3 :rohan: Menschen, um diesen Effekt zu spielen.   
+    **Manöver:** Strenge einen :rohan: Gefährten zweimal an oder lege diesen Effekt ab, um eine :rohan: Ausrüstung aus deinem Ablagestapel zu spielen.
+  lore: Denn wir sind bereits im Krieg, wie Ihr vielleicht gesehen habt, und Ihr findet uns nicht ganz unvorbereitet.

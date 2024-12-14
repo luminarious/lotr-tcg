@@ -1,0 +1,22 @@
+set: '8'
+rarity: U
+number: '13'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Shake Off the Shadow
+  subtitle: ''
+  text: |-
+    **Fellowship:** Exert an Elf companion and either a :gandalf: companion or a :dwarven: companion to add an :elven: token here.   
+    **Archery:** Remove an :elven: token here to add 1 to the fellowship archery total (limit +2).
+  lore: ‘Speak and be comforted….’
+de:
+  title: Die Schatten abschüttlen
+  subtitle: ''
+  text: |-
+    **Gemeinschaft:** Strenge einen Elbengefährten und entweder einen :gandalf: oder :dwarven: Gefährten an, um eine :elven: Marke auf diese Karte zu legen.   
+    **Fernkampf:** Entferne eine :elven: Marke von dieser Karte, um den Fernkampfwert der Gemeinschaft um 1 zu erhöhen (maximal +2).
+  lore: Sprich und sei getröstet….

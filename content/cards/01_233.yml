@@ -1,0 +1,18 @@
+set: '1'
+rarity: U
+number: '233'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 5
+str: '10'
+vit: '3'
+site: 2
+en:
+  title: Úlairë Nelya
+  subtitle: Lieutenant of Morgul
+  text: |-
+    **Fierce.**   
+    **Shadow:** Exert Úlairë Nelya and spot an opponent’s site to replace it with your site of the same number.
+  lore: Many of the Nine were princes of majesty and power.

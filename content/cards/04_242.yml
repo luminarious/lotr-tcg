@@ -1,0 +1,38 @@
+set: '4'
+rarity: U
+number: '242'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Raiders From the East
+  subtitle: ''
+  text: |-
+
+    **Shadow:** Remove :twilight3: and exert a :raider: Man to place a :raider: token here.   
+    **Maneuver:** Remove a :raider: token here to add :twilight1:. 
+  lore: The Easterlings raid their enemies to gather supplies and equipment.
+de:
+  title: Räuber aus dem Osten
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Schatten:** Verringere den Einfluss um :twilight3: und strenge einen :raider: Menschen an, um eine :raider: Marke auf diese Karte zu legen. **Manöver:** Entferne eine :raider: Marke von dieser Karte, um den Einfluss um :twilight1: zu erhöhen.'
+  lore: Die Ostlinge überfielen ihre Feinde, um Vorräte und Ausrüstung zu stehlen.
+fr:
+  title: Pillards de l'Est
+  subtitle: ''
+  text: 'Ombre : Retirez :twilight3: et affaiblissez un Homme :raider: pour déposer un jeton :raider: sur cette carte. **Manœuvre :** Retirez un jeton :raider: de cette carte pour ajouter :twilight1:.'
+  lore: Les Orientaux organisent des raids en territoire ennemi pour amasser des provisions et de l'équipement.
+it:
+  title: Predoni dal'Est
+  subtitle: ''
+  text: '**Ombra:** Rimuovi :twilight3: e sforza un Uomo :raider: per piazzare qui un segnalino :raider:. **Manovra:** Rimuovi un segnalino :raider: qui presente per aggiungere :twilight1:.'
+  lore: Gli Esterling razziano i loro nemici per ottenere provviste ed equipaggiamento.
+es:
+  title: Asaltadores Del Este
+  subtitle: ''
+  text: |-
+    **Sombra:** Quita :twilight3: y esfuerza un Hombre :raider: para poner un contador :raider: aquí.   
+    **Maniobra:** Quita un contador :raider: para añadir :twilight1:.
+  lore: Los Orientales asaltan a sus enemigos para acaparar equipo y suministros.

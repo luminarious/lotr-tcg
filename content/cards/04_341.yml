@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '341'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Right
+en:
+  title: Throne Room
+  subtitle: ''
+  text: '**Sanctuary.** **Fellowship:** Play Théoden from your draw deck. '
+  lore: ''
+de:
+  title: Thronsaal
+  subtitle: ''
+  text: '**Zuflucht.** **Gemeinschaft.** Spiele Théoden direkt aus deinem Spieldeck.'
+  lore: ''
+fr:
+  title: La Salle du Trône
+  subtitle: ''
+  text: '**Sanctuaire.** **Compagnie :** Jouez Théoden de votre pioche.'
+  lore: ''
+it:
+  title: Sala del Trono
+  subtitle: ''
+  text: '**Rifugio.** **Compagnia:** Gioca Théoden dal tuo mazzo di gioco.'
+  lore: ''
+es:
+  title: Salón Del Trono
+  subtitle: ''
+  text: '**Santuario.** **Comunidad:** Juega a Théoden de tu mazo de Robar.'
+  lore: ''

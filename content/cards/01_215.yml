@@ -1,0 +1,39 @@
+set: '1'
+rarity: U
+number: '215'
+unique: true
+culture: Wraith
+type: Event
+class: Shadow
+cost: 1
+en:
+  title: The Master's Will
+  subtitle: ''
+  text: |-
+    **Search.**   
+    **Shadow:** Spot X Nazgûl to reveal the top X cards of your draw deck. Take into your hand all :wraith: cards revealed and discard the rest.
+  lore: …something seemed to be compelling him to disregard all warnings, and he longed to yield.
+de:
+  title: Der Wille des Meisters
+  subtitle: ''
+  text: '**Suche.** **Schatten:** Entdecke X Nazgûl, um die obersten X Karten deines Spieldecks aufzudecken. Nimm alle auf diese Weise aufgedeckten :wraith: Karten in deine Hand und lege die übrigen ab.'
+  lore: …aber irgend etwas schien ihn zu zwingen, alle Warnungen zu missachten, und es drängte ihn nachzugeben.
+fr:
+  title: La Volonté du Maître
+  subtitle: ''
+  text: |-
+    **Recherche.**  
+    Ombre : Désignez X Nazgûl pour révéler les X premières cartes de votre pioche. Prenez en main toutes les cartes :wraith: révélées et défaussez les autres.
+  lore: …mais quelque chose semblait le contraindre à passer outre à tous les avertissements, et il brûlait d'y céder.
+it:
+  title: Il Volere del Padrone
+  subtitle: ''
+  text: |-
+    **Ricerca.**  
+    **Ombra:** Avvista X Nazgûl per mostrare X carte dalla cima del tuo mazzo di gioco. Aggiungi alla tua mano tutte le carte :wraith: mostrate e scarta il resto.
+  lore: … qualcosa sembrava istigarlo, con una potenza quasi irresistibile, a trascurare tutti gli avvertimenti.
+es:
+  title: La Voluntad del Amo
+  subtitle: ''
+  text: '**Búsqueda.** **Sombra:** Avista X Nazgûl para revelar las X cartas superiores de tu mazo de robar. Coge en tu mano todas las cartas :wraith: reveladas y descarta el resto.'
+  lore: …pero algo parecía impulsarlo a desoír todas las advertencias, y dejarse llevar.

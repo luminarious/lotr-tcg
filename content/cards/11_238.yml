@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '238'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Right
+en:
+  title: Expanding Marshland
+  subtitle: ''
+  text: '**Marsh.** **Shadow:** If the total number of minions and twilight tokens is 3 or fewer, play a minion at twilight cost –3.'
+  lore: ''
+de:
+  title: Ausgedehnte Moore
+  subtitle: ''
+  text: '**Sumpf. Schatten:** Wenn der Einfluss und die Zahl der Diener 3 oder weniger beträgt, spiele einen Diener mit um 3 reduzierten Kosten.'
+  lore: ''

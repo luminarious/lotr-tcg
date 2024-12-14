@@ -1,0 +1,35 @@
+set: '4'
+rarity: R
+number: '284'
+unique: true
+culture: Rohan
+type: Possession
+class: Armor
+cost: 2
+en:
+  title: King's Mail
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.   
+    Bearer takes no more than 1 wound during each skirmish phase. If bearer is Théoden, he may not take wounds except during a skirmish involving him. 
+  lore: Now men came bearing raiment of war from the king’s hoard….
+de:
+  title: Die Rüstung des Königs
+  subtitle: ''
+  text: 'Muss auf einen :rohan: Menschen gespielt werden. Der Träger erleidet in jeder Kampfphase maximal 1 Wunde. Wenn Théoden hiermit ausgerüstet ist, darf er nur in einem Kampf, an dem er beteiligt ist, Wunden erleiden.'
+  lore: Nun kamen Männer und brachten Kriegsausrüstung aus des Königs Hort….
+fr:
+  title: La Cotte du Roi
+  subtitle: ''
+  text: Le détenteur doit être un Homme :rohan:. Le détenteur ne prend pas plus d’une blessure pendant chaque phase de combat. Si le détenteur est Théoden, il ne peut prendre de blessures que pendant un combat qui l’implique.
+  lore: 'Des hommes apportèrent alors un équipement de guerre des magasins du roi… '
+it:
+  title: Cotta di Maglia del Re
+  subtitle: ''
+  text: Il possessore deve essere un Uomo :rohan:. Il possessore non subisce più di una ferita durante ogni fase di schermaglia. Se il possessore è Théoden, non può subire ferite, tranne che durante una schermaglia che lo coinvolga.
+  lore: Giunsero allora Uomini con abiti da guerra appartenenti al tesoro reale…
+es:
+  title: La Cota De Mallas Del Rey
+  subtitle: ''
+  text: El portador debe ser un Hombre :rohan:. El portador no recibe más de una herida en cada escaramuza. Si el portador es Théoden, sólo puede recibir heridas durante una escaramuza en la que él se encuentre.
+  lore: Los hombres trajeron entonces paramentos de guerra de los arcones de Rey…

@@ -1,0 +1,16 @@
+set: '6'
+rarity: R
+number: '92'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Gandalf
+en:
+  title: Éomer
+  subtitle: Rohirrim Captain
+  text: '**Valiant.** While you can spot a :rohan: Man, Éomer’s twilight cost is –1. **Skirmish:** Discard 3 cards from hand to make a :rohan: Man strength +2 for each wound on each minion in his or her skirmish.'
+  lore: ‘Gúthwinë for the Mark!’

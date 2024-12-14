@@ -1,0 +1,20 @@
+set: '11'
+rarity: U
+number: '185'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 4
+en:
+  title: Fortitude
+  subtitle: ''
+  text: |-
+    When you play this condition, spot an :urukhai: minion to add 3 :urukhai: tokens here.   
+    **Response:** If an :urukhai: minion is about to take a wound, discard this condition or remove an :urukhai: token from here to prevent that.
+  lore: Resiliency is bred into the fighting Uruk-hai.
+de:
+  title: Tapferkeit
+  subtitle: ''
+  text: 'Wenn du diesen Effekt spielst, entdecke einen :urukhai: Diener, um 3 :urukhai: Marken auf diese Karte zu legen. **Reaktion:** Wenn ein :urukhai: Diener im Begriff ist, eine Wunde zu erleiden, lege diesen Effekt ab oder entferne eine :urukhai: Marke von dieser Karte, um dieses zu verhindern.'
+  lore: Ihre Zähigkeit ist den kämpfenden Uruk-hai angezüchtet.

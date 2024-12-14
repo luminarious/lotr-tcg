@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '58'
+unique: true
+culture: Elven
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: The Seen and the Unseen
+  subtitle: ''
+  text: '**Fellowship:** Exert 2 Elves to discard a condition.'
+  lore: ‘You have entered the realm of the Lady of the Wood – you cannot go back.’
+de:
+  title: Sichtbares und Unsichtbares
+  subtitle: ''
+  text: '**Gemeinschaft.** Strenge 2 Elben an, um einen Effekt abzulegen.'
+  lore: Du hast das Reich der Herrin des Waldes betreten – du kannst nicht zurückgehen.
+fr:
+  title: Le Visible et l'Invisible
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez 2 Elfes pour défausser une situation.'
+  lore: Vous êtes entré dans le royaume de la Dame de la Forêt – vous ne pouvez repartir.
+it:
+  title: Visibili e Invisibili
+  subtitle: ''
+  text: '**Compagnia:** Sforza 2 Elfi per scartare una condizione.'
+  lore: ‘Siete entrati nel regno della Dama della Foresta – non potete tornare indietro.’
+es:
+  title: Lo Visible y Lo Invisible
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza 2 Elfos para descartar una condición.'
+  lore: Habéis entrado en el reino de la Dama del Bosque – no podéis regresar.

@@ -1,0 +1,22 @@
+set: '7'
+rarity: C
+number: '41'
+unique: true
+culture: Gandalf
+type: Event
+class: Response
+cost: 2
+en:
+  title: Intimidate
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    If a companion is about to take a wound, spot Gandalf to prevent that wound.
+  lore: ''
+de:
+  title: Einschüchtern
+  subtitle: ''
+  text: |-
+    **Zauberspruch.**  
+    Wenn einem Gefährten eine Wunde zugefügt wird, entdecke Gandalf, um diese zu verhindern.
+  lore: ''

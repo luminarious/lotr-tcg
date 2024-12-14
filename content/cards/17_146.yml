@@ -1,0 +1,12 @@
+set: '17'
+rarity: U
+number: '146'
+unique: true
+culture: ''
+type: Site
+cost: 3
+en:
+  title: Falls of Rauros
+  subtitle: ''
+  text: '**River.** When the Fellowship moves to this site in region 2, the Free Peoples player places a card from the dead pile out of play.'
+  lore: ''

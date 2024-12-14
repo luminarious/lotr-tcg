@@ -1,0 +1,21 @@
+set: '13'
+rarity: R
+number: '48'
+unique: true
+culture: Gollum
+type: Possession
+cost: 2
+vit: '+1'
+en:
+  title: Fishing Boat
+  subtitle: ''
+  text: |-
+    Bearer must be Sméagol.  
+    When you play Fishing Boat, you may reinforce a :gollum: token.  
+    Each time Sméagol is about to be overwhelmed in a skirmish, you may remove 2 :gollum:tokens to make him strength +2 until the end of that skirmish.
+  lore: ''
+de:
+  title: Ruderboot
+  subtitle: ''
+  text: 'Muss auf Sméagol gespielt werden. Du darfst eine :gollum: Marke ergänzen, wenn du das Ruderboot spielst. Jedes Mal, wenn Sméagol in einem Kampf überwältigt würde, darfst du 2 :gollum: Marken entfernen, um ihm bis zum Ende dieses Kampfes Stärke +2 zu geben.'
+  lore: ''

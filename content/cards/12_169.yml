@@ -1,0 +1,43 @@
+set: '12'
+rarity: R
+number: '169'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Sauron’s Gaze
+  subtitle: ''
+  text: |-
+    **Skirmish:** Transfer this condition from your support area to a character skirmishing a Nazgûl.   
+    The Free Peoples player cannot use bearer’s special abilities.
+  lore: ‘Then suddenly he seemed to see me, and he laughed at me. It was cruel. It was like being stabbed with knives.’
+de:
+  title: Saurons Blick
+  subtitle: ''
+  text: |-
+    **Kampf:** Verschiebe diesen Effekt aus deinem Unterstützungsbereich auf einen Charakter, der gegen einen Nazgûl kämpft.  
+    Der Freie Völker Spieler kann keine speziellen Fähigkeiten des Trägers nutzen.
+  lore: Dann schien er mich plötzlich zu sehen, und er lachte mich aus. Es war grausam. Es war, als ob ich von Dolchen durchbohrt würde.
+fr:
+  title: Sauron's Gaze
+  subtitle: ''
+  text: |-
+    <b>Skirmish:</b> Transfer this condition from your support area to a character skirmishing a Nazgûl.   
+    The Free Peoples player cannot use bearer’s special abilities.
+  lore: ‘Then suddenly he seemed to see me, and he laughed at me. It was cruel. It was like being stabbed with knives.’
+it:
+  title: Sauron's Gaze
+  subtitle: ''
+  text: |-
+    <b>Skirmish:</b> Transfer this condition from your support area to a character skirmishing a Nazgûl.   
+    The Free Peoples player cannot use bearer’s special abilities.
+  lore: ‘Then suddenly he seemed to see me, and he laughed at me. It was cruel. It was like being stabbed with knives.’
+es:
+  title: Sauron's Gaze
+  subtitle: ''
+  text: |-
+    <b>Skirmish:</b> Transfer this condition from your support area to a character skirmishing a Nazgûl.   
+    The Free Peoples player cannot use bearer’s special abilities.
+  lore: ‘Then suddenly he seemed to see me, and he laughed at me. It was cruel. It was like being stabbed with knives.’

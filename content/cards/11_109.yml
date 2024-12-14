@@ -1,0 +1,23 @@
+set: '11'
+rarity: U
+number: '109'
+unique: true
+culture: Orc
+type: Possession
+class: Armor
+cost: 1
+en:
+  title: Bladed Gauntlets
+  subtitle: ''
+  text: |-
+    Bearer must be an :orc: minion.   
+    Bearer is a **Lurker.** (Skirmishes involving lurker minions must be resolved after any others.)   
+    **Skirmish:** Exert bearer to make an :orc: minion strength +2.
+  lore: One cannot easily discern Orc armor from weapon.
+de:
+  title: Stachelbewehrte Handschuhe
+  subtitle: ''
+  text: |-
+    Muss auf einen :orc: Diener gespielt werden. Er ist nun **Schleicher.  
+    Kampf:** Strenge den Träger an, um einem :orc: Diener Stärke +2 zu geben.
+  lore: Orkrüstungen sind nicht leicht von Orkwaffen zu unterscheiden.

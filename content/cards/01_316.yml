@@ -1,0 +1,37 @@
+set: '1'
+rarity: U
+number: '316'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: A Talent for Not Being Seen
+  subtitle: ''
+  text: |-
+    **Stealth.** To play, exert a Hobbit.   
+    Each time the fellowship moves, spot 2 Hobbit companions to make the Shadow number -1 (or spot 4 to make it -2).
+  lore: With their small size, Hobbits use any hole to hide in, and their trail is difficult to detect.
+de:
+  title: Eine Begabung, ungesehen zu bleiben
+  subtitle: ''
+  text: '**Heimlichkeit.** Strenge einen Hobbit an, um diese Karte in deinen Unterstützungsbereich zu spielen. Jedesmal, wenn sich deine Gemeinschaft bewegt, entdecke 2 Hobbits, um die Schattenzahl des Ortes um 1 zu reduzieren (oder entdecke 4 Hobbits, um sie um 2 zu reduzienen.)'
+  lore: Ihre geringe Körpergröße erlaubt es Hobbits, sich in kleinsten Löchern zu verstecken und ihre Spuren sind schwer zu finden.
+fr:
+  title: Un Don pour ne pas Être Vu
+  subtitle: ''
+  text: '**Dissimulation.** Pour jouer, affaiblissez un Hobbit. Chaque fois que la compagnie se déplace, désignez 2 compagnons Hobbits pour diminuer la Puissance de l’Ombre de -1 (ou désignez 4 pour la diminuer de -2).'
+  lore: Avec leur petite taille, les Hobbits utilisent n'importe quel trou pour s'y cacher, et leur piste est difficile à remarquer.
+it:
+  title: Un Talento per Non Essere Visto
+  subtitle: ''
+  text: |-
+    **Segretezza.**  
+    Per giocarla, sforza un Hobbit. Ogni volta che la Compagnia si muove, avvista 2 compagni Hobbit e sottrai -1 al numero Ombra (o avvistane 4 e sottrai -2).
+  lore: Con la loro piccola taglia, gli Hobbit usano qualsiasi buco come nascondiglio, e le loro tracce sono difficili da notare.
+es:
+  title: Talento para No Ser Visto
+  subtitle: ''
+  text: '**Sigilo.**Para jugarlo, esfuerza un Hobbit. Cada vez que la comunidad se mueve, avista 2 compañeros Hobbit para hacer que el número de Sombra sea -1 (o avista 4 para hacerlo -2).'
+  lore: Con su pequeño tamaño, los Hobbits usan cualquier hueco para esconderse, y su rastro es difícil de detectar.

@@ -1,0 +1,16 @@
+set: '9'
+rarity: R
+number: '19'
+unique: true
+culture: Elven
+type: Artifact
+class: Ring
+cost: 0
+vit: '+1'
+en:
+  title: Narya
+  subtitle: Ring of Fire
+  text: |-
+    Bearer must be Círdan or Gandalf.   
+    **Fellowship:** Remove X culture tokens, where X is equal to bearer’s vitality. Discard this artifact.
+  lore: …the Third Ring, Narya the Great, and the stone upon it was red as fire.

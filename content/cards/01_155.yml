@@ -1,0 +1,36 @@
+set: '1'
+rarity: R
+number: '155'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '7'
+vit: '2'
+site: 5
+en:
+  title: Uruk Spy
+  subtitle: ''
+  text: '**Response:** If the Ring-bearer puts on The One Ring, exert this minion. Discard a card from the top of your draw deck for each :isengard: minion you spot. Add a burden for each Shadow card discarded in this way.'
+  lore: A wary eye on the mission could undo the quest.
+de:
+  title: Uruk Spion
+  subtitle: ''
+  text: '**Reaktion:** Strenge den Uruk Spion an, wenn der Ringträger den Einen Ring benutzt. Lege eine Karte für jeden :isengard: Diener, den du entdecken kannst, von deinem Spieldeck ab. Für jede so abgelegte Karte darfst du eine Lastmarke auf den Ringträger legen.'
+  lore: Ein Paar aufmerksame Augen kann die Reise der Gefährten jäh beenden.
+fr:
+  title: Espion Ourouk
+  subtitle: ''
+  text: '**Réponse :** Si le Porteur de l’Anneau met l’Anneau Unique, affaiblissez ce séide. Défaussez une carte du dessus de votre pioche pour chaque séide :isengard: que vous désignez. Ajoutez un point-fardeau pour chaque carte de l’Ombre defaussée de cette manière.'
+  lore: Un oeil guettant la mission pourrait ruiner la quête.
+it:
+  title: Spia Uruk
+  subtitle: ''
+  text: '**Risposta:** Se il Portatore dell’Anello indossa L’Unico Anello, sforza questo servitore. Scarta una carta dalla cima del tuo mazzo di gioco per ogni servitore :isengard: che avvisti. Aggiungi un segnalino fardello per ogni carta Ombra così scartata.'
+  lore: Un occhio sospettoso sulla missione potrebbe rovinare l'impresa.
+es:
+  title: Espía Uruk
+  subtitle: ''
+  text: '**Respuesta:** Si el Portador del Anillo se pone El Anillo Único, esfuerza este siervo. Descarta la carta superior de tu mazo de robar por cada siervo :isengard: que avistes. Añade una carga por cada carta de sombra así descartada.'
+  lore: Un ojo vigilante en la misión puede deshacer la búsqueda.

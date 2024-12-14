@@ -1,0 +1,44 @@
+set: '5'
+rarity: R
+number: '46'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 6
+str: '12'
+vit: '3'
+site: 5
+en:
+  title: Berserk Savage
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    Berserk Savage is strength +1 for each wound on a character in its skirmish.  
+    **Skirmish:** Remove 4 :isengard: tokens from a machine and exert Berserk Savage twice to make it strength +8.
+  lore: Skull-like helmets are distinctive to the Berserkers.
+de:
+  title: Wilder Berserker
+  subtitle: ''
+  text: '**Schaden +1.** Der Wilde Berserker erhält Stärke +1 für jede Wunde auf einem Charakter, der an seinem Kampf beteiligt ist. **Kampf** Entferne 4 :isengard: Marken von einer Kriegs-maschine und strenge den Wilden Berserker zweimal an, um ihm Stärke +8 zu geben.'
+  lore: Totenkopfhelme sind typisch für die Berserker.
+fr:
+  title: Sauvage Fou Fourieux
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**   
+    Sauvage Fou Furieux a +1 en force pour chaque blessure sur un personnage impliqué dans son combat.   
+    **Combat :** Retirez 4 jetons :isengard: d’une machine et affaiblissez Sauvage Fou Furieux deux fois pour lui donner +8 en force.
+  lore: Les fous furieux se distinguent par leurs casques à l'image de crânes.
+it:
+  title: Berserker Selvaggio
+  subtitle: ''
+  text: |-
+    **Danno +1.** Aggiungi +1 alla forza di Berserker Selvaggio per ogni ferita su un personaggio nella sua schermaglia.   
+    **Schermaglia:** Rimuovi 4 segnalini :isengard: da una macchina da guerra e sforza due volte Berserker Selvaggio per aggiungere +8 alla sua forza.
+  lore: Elmi dalla forma di teschio distinguono i Berserker.
+es:
+  title: Salvaje Berserker
+  subtitle: ''
+  text: '**Daño +1.** Salvaje Berserker es fuerza +1 por cada herida en cada personaje en su escaramuza. **Escaramuza:** Quita 4 contadores :isengard: de una máquina y esfuerza dos veces el Salvaje Berserk para darle fuerza +8.'
+  lore: Yelmos con aspecto de calavera son distintivos de los Berserkers.

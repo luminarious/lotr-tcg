@@ -1,0 +1,33 @@
+set: '15'
+rarity: U
+number: '20'
+unique: true
+culture: Elven
+type: Event
+class: Archery
+cost: 0
+en:
+  title: Lórien’s Blessing
+  subtitle: ''
+  text: 'Spot an :elven: follower to make the minion archery total -3.'
+  lore: ‘We have drunk the cup of parting…and the shadows fall between us.’
+de:
+  title: Lórien's Blessing
+  subtitle: ''
+  text: 'Spot an :elven: follower to make the minion archery total -3.'
+  lore: ‘We have drunk the cup of parting…and the shadows fall between us.’
+fr:
+  title: Lórien's Blessing
+  subtitle: ''
+  text: 'Spot an :elven: follower to make the minion archery total -3.'
+  lore: ‘We have drunk the cup of parting…and the shadows fall between us.’
+it:
+  title: Lórien's Blessing
+  subtitle: ''
+  text: 'Spot an :elven: follower to make the minion archery total -3.'
+  lore: ‘We have drunk the cup of parting…and the shadows fall between us.’
+es:
+  title: Lórien's Blessing
+  subtitle: ''
+  text: 'Spot an :elven: follower to make the minion archery total -3.'
+  lore: ‘We have drunk the cup of parting…and the shadows fall between us.’

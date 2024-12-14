@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '161'
+unique: true
+culture: Isengard
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Men Will Fall
+  subtitle: ''
+  text: '**Skirmish: **Spot Saruman or an :isengard: Man to make an unbound companion strength -2. '
+  lore: ‘The Ring of Barahir. So, Gandalf Greyhame thinks he has found Isildur’s heir, the Lost King of Gondor… Fool! That line was broken years ago.’
+de:
+  title: Menschen werden fallen
+  subtitle: ''
+  text: '**Kampf** Entdecke Saruman oder einen :isengard: Menschen, um einem nicht-verbundenen Gefährten Stärke -2 zu geben.'
+  lore: Barahirs Ring- Nun, Gandalf Graumähne glaubt, er habe Isildurs Erbe gefunden, den verlorenen König von Gondor… Narr! Diese Linie ist bereits vor vielen Jahren unterbrochen worden.
+fr:
+  title: Les Hommes Tomberont
+  subtitle: ''
+  text: '**Combat :** Désignez Saroumane ou un Homme :isengard: pour donner -2 en force à un compagnon dissocié.'
+  lore: 'L''Anneau de Barahir. Alors Gandalf Maisongrise croit avoir trouvé l''héritier d''Isildur, le Roi perdu du Gondor… Le fou! Cette lignée s''est brisée il y a des années.” '
+it:
+  title: Gli Uomini Cadranno
+  subtitle: ''
+  text: '**Schermaglia:** Avvista Saruman o un Uomo :isengard: per sottrarre -2 alla forza di un compagno Non Legato.'
+  lore: ‘L'Anello di Barahir. Così, Gandalf Grigiomanto pensa di aver trovato l'erede di Isildur, il Re Perduto di Gondor… Stolto! Quella linea è stata interrotta anni fa.’
+es:
+  title: Los Hombres Caerán
+  subtitle: ''
+  text: '**Escaramuza:** Avista a Saruman o a un Hombre :isengard: para dar a un compañero no-vinculado fuerza -2.'
+  lore: El Anillo de Barahir. Así pues, Gandalf Capagrís piensa que ha encontrado al Heredero de Isildur, el Rey Perdido de Gondor… ¡Loco! Esa estirpe se cortó hace años.

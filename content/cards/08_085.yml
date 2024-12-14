@@ -1,0 +1,18 @@
+set: '8'
+rarity: U
+number: '85'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Charged Headlong
+  subtitle: ''
+  text: 'If you have initiative, discard a :rohan: possession to play a :rohan: possession from your discard pile.'
+  lore: Sea-kings’ city in the South-kingdom / foe-beleaguered, fire-encircled.
+de:
+  title: Nehmt sie von der Spitze
+  subtitle: ''
+  text: 'Lege eine :rohan: Ausrüstung ab, um eine :rohan: Ausrüstung aus deinem Ablagestapel zu spielen, wenn du die Initiative besitzt.'
+  lore: … und die schwarze Schlange sank zu Boden.

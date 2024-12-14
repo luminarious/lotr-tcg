@@ -1,0 +1,18 @@
+set: '3'
+rarity: U
+number: '115'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Caras Galadhon
+  subtitle: ''
+  text: '**Forest.** **Sanctuary.** While the fellowship is at Caras Galadhon, no more than one minion may be assigned to each skirmish. '
+  lore: ''
+es:
+  title: Caras Galadon
+  subtitle: ''
+  text: '**Bosque.** **Santuario.** Mientras la comunidad está en Caras Galadon, sólo se puede asignar un siervo a cada escaramuza.'
+  lore: ''

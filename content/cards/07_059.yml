@@ -1,0 +1,15 @@
+set: '7'
+rarity: C
+number: '59'
+unique: true
+culture: Gollum
+type: Minion
+cost: 2
+str: '5'
+vit: '4'
+site: 3
+en:
+  title: Gollum
+  subtitle: Vile Creature
+  text: '**Skirmish:** Exert Gollum twice or remove a threat to make him strength +2.'
+  lore: ‘When they come to the bridge they will see us. Come away! Climb, climb!’

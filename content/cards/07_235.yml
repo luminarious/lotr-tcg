@@ -1,0 +1,15 @@
+set: '7'
+rarity: C
+number: '235'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Guthláf
+  subtitle: Herald
+  text: '**Skirmish:** Discard a :rohan: condition to make Guthláf strength +1.'
+  lore: And straightaway all the horns in the host were lifted up in music….

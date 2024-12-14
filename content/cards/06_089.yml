@@ -1,0 +1,33 @@
+set: '6'
+rarity: R
+number: '89'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Winged and Ominous
+  subtitle: ''
+  text: '**Regroup:** Exert a Nazgûl to place a :wraith: token on this card. **Shadow:** Remove 3 :wraith: tokens from here to add :twilight2:.'
+  lore: It scudded across the moon… outrunning the wind in its fell speed.
+de:
+  title: Geflügelte Bedrohung
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Sammeln:** Strenge einen Nazgûl an, um eine :wraith: Marke auf diese Karte zu legen. **Schatten:** Entferne 3 :wraith: Marken von dieser Karte, um den Einfluss um :twilight2: zu erhöhen.'
+  lore: Sie zog vor dem Mond vorbei…
+fr:
+  title: Ailées et Menaçantes
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez un Nazgûl pour déposer un jeton :wraith: ici. **Ombre :** Retirez 3 jetons :wraith: de cette carte pour ajouter :twilight2:.'
+  lore: 'Elle glissait devant la lune, laissant le vent derrière elle, avec sa rapidité féroce. '
+it:
+  title: Alata e Immonda
+  subtitle: ''
+  text: '**Raccolta:** Sforza un Nazgûl per piazzare un segnalino :wraith: su questa carta. **Ombra:** Rimuovi da qui 3 segnalini :wraith: per aggiungere :twilight2:.'
+  lore: Saettò davanti alla luna… oltrepassando il vento con la sua feroce rapidità.
+es:
+  title: Alado y Ominoso
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza un Nazgûl para colocar un contador :wraith: en esta carta. **Sombra:** Quita 3 contadores :wraith: de aquí para añadir :twilight2:.'
+  lore: Cruzó como una ráfaga por delante de la luna… Dejando atrás el viento.

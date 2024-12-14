@@ -1,0 +1,16 @@
+set: '18'
+rarity: R
+number: '69'
+unique: true
+culture: Man
+type: Possession
+class: Hand Weapon
+cost: 0
+str: '+1'
+en:
+  title: Henchman's Dagger
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: minion.  
+    Bearer may bear this hand weapon in addition to 1 other hand weapon.
+  lore: Carved from bone or forged from iron, no warrior would enter the fields of battle without a trusty, simple blade.

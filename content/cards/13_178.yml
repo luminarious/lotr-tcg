@@ -1,0 +1,22 @@
+set: '13'
+rarity: R
+number: '178'
+unique: true
+culture: Wraith
+type: Event
+class: Regroup
+cost: 3
+en:
+  title: Dark Fell About Him
+  subtitle: ''
+  text: |-
+    To play, exert your Nazgûl twice and spot an exhausted companion.  
+    Heal that companion to add a burden. If the fellowship is not in region 1, you may repeat this for each other wound on that companion.
+  lore: Men cast from the saddle lay grovelling on the ground.
+de:
+  title: Dunkelheit kam über ihn
+  subtitle: ''
+  text: |-
+    Entdecke einen erschöpften Gefährten und strenge einen Nazgûl zweimal an, um diese Karte zu spielen.  
+    Heile diesen Gefährten, um eine Last-marke auf den Ringträger zu legen. Wenn sich die Gemeinschaft nicht in Region 1 befindet, darfst du dies für jede Wunde auf diesem Gefährten wiederholen.
+  lore: ''

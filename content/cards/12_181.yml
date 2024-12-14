@@ -1,0 +1,22 @@
+set: '12'
+rarity: C
+number: '181'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Unending Life
+  subtitle: ''
+  text: |-
+    While you can spot 6 companions, each Nazgûl is strength +3.   
+    **Skirmish:** Discard this condition to heal a Nazgûl.
+  lore: ‘The power of their master is in them, and they stand or fall by him.’
+de:
+  title: Endloses Dasein
+  subtitle: ''
+  text: |-
+    Alle Nazgûl erhalten Stärke +3, solange du 6 Gefährten entdecken kannst.  
+    **Kampf:** Lege diesen Effekt ab, um einen Nazgûl zu heilen.
+  lore: Die Macht ihres Herrn steckt in ihnen, und durch ihn stehen oder fallen sie.

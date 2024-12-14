@@ -1,0 +1,13 @@
+set: '17'
+rarity: C
+number: '46'
+unique: true
+culture: Man
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Pandemonium
+  subtitle: ''
+  text: 'Play a :men: minion stacked on a :men: possession as if from hand.'
+  lore: Few could escape the oncoming pillage of the Dunlending’s savage stampede.

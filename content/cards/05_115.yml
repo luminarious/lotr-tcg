@@ -1,0 +1,20 @@
+set: '5'
+rarity: U
+number: '115'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 2
+str: '3'
+vit: '4'
+res: '5'
+signet: Signet_Aragorn
+en:
+  title: Sam
+  subtitle: Nice Sensible Hobbit
+  text: |-
+    **Ring-bound.**  
+    While you can spot Frodo and Sméagol, Sam may not be overwhelmed unless his strength is tripled.   
+    **Response:** If Frodo is killed, make Sam the **Ring-bearer (resistance 5).**
+  lore: ‘Trust Sméagol now? Very, very good.’

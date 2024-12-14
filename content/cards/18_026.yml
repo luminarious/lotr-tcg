@@ -1,0 +1,16 @@
+set: '18'
+rarity: R
+number: '26'
+unique: true
+culture: Gandalf
+type: Possession
+cost: 1
+vit: '+1'
+res: '+2'
+en:
+  title: Radagast's Herb Bag
+  subtitle: ''
+  text: |-
+    Bearer must be a :gandalf: Wizard.  
+    Each time you play a :gandalf: spell, you may exert bearer to wound a minion.
+  lore: The tools of a master of herb and beast-lore were often confined to the simplest of places.

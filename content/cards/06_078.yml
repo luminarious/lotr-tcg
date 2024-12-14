@@ -1,0 +1,36 @@
+set: '6'
+rarity: R
+number: '78'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 6
+str: '13'
+vit: '3'
+site: 4
+en:
+  title: Easterling Army
+  subtitle: ''
+  text: '**Easterling.** **Fierce.** **Skirmish:** Spot 2 burdens and exert this minion to make an Easterling strength +1. **Skirmish:** Spot 4 burdens and exert this minion to make an Easterling strength +2. **Skirmish:** Spot 6 burdens and exert this minion to make an Easterling strength +3.'
+  lore: ''
+de:
+  title: Armee der Ostlinge
+  subtitle: ''
+  text: Diener • Mensch
+  lore: Ostling. Erbittert. Kampf Entdecke 2 Lastmarken und strenge diesen Diener an, um einem Ostling Stärke +1 zu geben. Kampf Entdecke 4 Lastmarken und strenge diesen Diener an, um einem Ostling Stärke +2 zu geben. Kampf Entdecke 6 Lastmarken und strenge di
+fr:
+  title: Armée Orientale
+  subtitle: ''
+  text: '**Oriental.** **Acharné.** **Combat :** Désignez 2 points-fardeau et affaiblissez ce séide pour donner +1 en force à un **Oriental.** **Combat :** Désignez 4 points-fardeau et affaiblissez ce séide pour donner +2 en force à un **Oriental.** **Combat :** Désignez 6 points-fardeau'
+  lore: ''
+it:
+  title: Esercito Esterling
+  subtitle: ''
+  text: '**Esterling.** **Feroce.** **Schermaglia:** Avvista 2 segnalini fardello e sforza questo servitore per aggiungere +1 alla forza di un Easterling. **Schermaglia:** Avvista 4 segnalini fardello e sforza questo servitore per aggiungere +2 alla forza di un **Esterling.** Scherm'
+  lore: ''
+es:
+  title: Ejercito Oriental
+  subtitle: ''
+  text: '**Oriental.** **Fiero.** **Escaramuza:** Avista 2 cargas y esfuerza este siervo para darle a un Oriental fuerza +1. **Escaramuza:** Avista 4 cargas y esfuerza este siervo para darle a un Oriental fuerza +2. **Escaramuza:** Avista 6 cargas y esfuerza este siervo para darle a'
+  lore: ''

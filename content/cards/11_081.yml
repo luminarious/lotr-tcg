@@ -1,0 +1,21 @@
+set: '11'
+rarity: R
+number: '81'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Fletcher of Harad
+  subtitle: ''
+  text: 'While this minion is at a plains site, it is an **Archer.** While you can spot 6 companions, each :men: minion is an **Archer.** '
+  lore: Makers of bows and arrows have a strong trade for the raiders of Harad.
+de:
+  title: Pfeilmacher aus Harad
+  subtitle: ''
+  text: 'Solange sich dieser Diener an einer Ebene befindet, ist er **Bogenschütze**. Solange du 6 Gefährten entdecken kannst, ist jeder :men: Diener **Bogenschütze**. '
+  lore: Bogner und Pfeilmacher treiben guten Handel mit den Räubern aus Harad.

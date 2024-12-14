@@ -1,0 +1,18 @@
+set: '8'
+rarity: U
+number: '80'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Nertëa
+  subtitle: Thrall of The One
+  text: |-
+    **Enduring.** **Fierce.**   
+    The site number of each :wraith: minion is –1.
+  lore: They had been mustered….

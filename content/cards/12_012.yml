@@ -1,0 +1,22 @@
+set: '12'
+rarity: U
+number: '12'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Proud and Able
+  subtitle: ''
+  text: |-
+    Each Dwarf is **damage +1** for each possession he bears.   
+    **Fellowship:** Discard this condition to play a :dwarven: possession from your discard pile.
+  lore: ‘Dwarves’ tongues run on when speaking of their handiwork, they say.’
+de:
+  title: Stolz und fähig
+  subtitle: ''
+  text: |-
+    Jeder Zwerg erhält für jede Ausrüstung, die er trägt, **Schaden +1.  
+    Gemeinschaft:** Lege diesen Effekt ab, um eine :dwarven: Ausrüstung aus deinem Ablagestapel zu spielen.
+  lore: Die Zungen der Zwerge stehen nicht still, wenn sie von ihren eigenen Werken berichten, heißt es.

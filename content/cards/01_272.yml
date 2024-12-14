@@ -1,0 +1,36 @@
+set: '1'
+rarity: R
+number: '272'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '2'
+site: 6
+en:
+  title: Orc War Band
+  subtitle: ''
+  text: '**Skirmish:** Exert this minion to wound a character it is skirmishing.'
+  lore: Sauron has countless armies of Orcs at his disposal.
+de:
+  title: Ork Kriegstrupp
+  subtitle: ''
+  text: '**Kampf** Strenge diesen Diener an, um den Charakter, den er bekämpft, zu verwunden.'
+  lore: Sauron stehen unzählige Orkarmeen zur Verfügung.
+fr:
+  title: Troupe de Guerre Orque
+  subtitle: ''
+  text: '**Combat :** Affaiblissez ce séide pour blesser un personnage qu’il combat.'
+  lore: Sauron a des armées innombrables d'Orques à sa disposition.
+it:
+  title: Banda di Orchi
+  subtitle: ''
+  text: '**Schermaglia:** Sforza questo servitore per ferire un personaggio contro cui stia schermagliando.'
+  lore: Sauron ha innumerevoli armate di Orchi a sua disposizione.
+es:
+  title: Partida de Guerra Orca
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza este siervo para herir un personaje que este en una escaramuza contra él.'
+  lore: Sauron tiene incontables ejércitos de Orcos a su disposición.

@@ -1,0 +1,28 @@
+set: '8'
+rarity: U
+number: '94'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Gorgoroth Agitator
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    To play, spot a :sauron: Orc.   
+    When you play this minion, if you can spot another besieger, you may add a threat for each companion over 4.   
+    **Shadow:** Remove a threat to play a :sauron: engine from your discard pile.
+  lore: ''
+de:
+  title: Gorgoroth Hetzer
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    Entdecke einen :sauron: Ork, um diesen Diener zu spielen. Du darfst eine Bedrohung für jeden Gefährten über 4 entstehen lassen, wenn du beim Ausspielen dieses Dieners einen anderen Belagerer entdecken kannst.   
+    **Schatten:** Entferne eine Bedrohung, um eine :sauron: Belagerungswaffe aus deinem Ablagestapel zu spielen.
+  lore: ''

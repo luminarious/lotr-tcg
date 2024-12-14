@@ -1,0 +1,18 @@
+set: '8'
+rarity: R
+number: '33'
+unique: true
+culture: Gondor
+type: Event
+class: Response
+cost: 1
+en:
+  title: Elessar's Edict
+  subtitle: ''
+  text: 'If a :gondor: Wraith is about to be killed, discard him and either exhaust another :gondor: Wraith or spot another exhausted :gondor: Wraith to prevent that.'
+  lore: ‘Yes, the Dead ride behind. They have been summoned….’
+de:
+  title: Elessars Erlass
+  subtitle: ''
+  text: 'Wenn ein :gondor: Gespenst getötet wird, lege dieses ab und erschöpfe statt dessen ein anderes :gondor: Gespenst.'
+  lore: Ja, die Toten reiten hinterher. Sie wurden gerufen.

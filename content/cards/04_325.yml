@@ -1,0 +1,32 @@
+set: '4'
+rarity: U
+number: '325'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Eastemnet Gullies
+  subtitle: ''
+  text: '**Fellowship:** Exert 2 unbound companions to play Legolas from your draw deck. '
+  lore: ''
+de:
+  title: Gräben Ostemnets
+  subtitle: ''
+  text: '**Gemeinschaft.** Strenge 2 nicht-verbundene Gefährten an, um Legolas direkt aus deinem Spieldeck zu spielen.'
+  lore: ''
+fr:
+  title: Ravins de l'Estemnet
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez 2 compagnons dissociés pour jouer Legolas de votre pioche.'
+  lore: ''
+it:
+  title: Burroni dell'Estemnet
+  subtitle: ''
+  text: '**Compagnia:** Sforza 2 compagni Non Legati per giocare Legolas dal tuo mazzo di gioco.'
+  lore: ''
+es:
+  title: Barrancos De Estemnet
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza 2 compañeros no-vinculados para jugar a Legolas de tu mazo de robar.'
+  lore: ''

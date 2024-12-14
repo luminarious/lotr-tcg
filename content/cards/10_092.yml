@@ -1,0 +1,25 @@
+set: '10'
+rarity: U
+number: '92'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Mordor Pillager
+  subtitle: ''
+  text: |-
+    **Besieger.** **Fierce.**   
+    **Shadow:** Exert this minion and spot another :sauron: minion to control a site. If you cannot spot 3 Free Peoples cultures, the Free Peoples player may exert a companion to prevent this. 
+  lore: ''
+de:
+  title: Mordor Plünderer
+  subtitle: ''
+  text: |-
+    **Belagerer.** **Erbittert.**   
+    **Schatten:** Strenge diesen Diener an und entdecke einen anderen :sauron: Diener, um einen Ort zu kontrollieren. Wenn du keine 3 Kulturen der Freien Völker entdecken kannst, darf der Freie Völker Spieler einen Gefährten anstrengen, um dies zu verhindern.
+  lore: ''

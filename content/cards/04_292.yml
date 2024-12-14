@@ -1,0 +1,16 @@
+set: '4'
+rarity: C
+number: '292'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '2'
+signet: Signet_Aragorn
+en:
+  title: Théoden
+  subtitle: Son of Thengel
+  text: '**Regroup:** Spot a :rohan: ally and exert Théoden to liberate a site. '
+  lore: ‘I myself will go to war, to fall in the front of the battle, if it must be.’

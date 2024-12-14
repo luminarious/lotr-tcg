@@ -1,0 +1,16 @@
+set: '11'
+rarity: S
+number: '164'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 0
+str: '3'
+vit: '4'
+res: '10'
+en:
+  title: Frodo
+  subtitle: Protected by Many
+  text: 'Ring-bearer. **Ring-bound.** At the start of the regroup phase, you may exert Frodo to make him gain **muster** until the end of the regroup phase. (At the start of the regroup phase, you may discard a card from hand to draw a card.) '
+  lore: ‘I will take the Ring… though I do not know the way.’

@@ -1,0 +1,17 @@
+set: '7'
+rarity: U
+number: '334'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Steps of Edoras
+  subtitle: ''
+  text: 'Each :gondor: companion is defender +1 until the end of the turn.'
+  lore: ''
+de:
+  title: Treppen in Edoras
+  subtitle: ''
+  text: 'Alle :gondor: Gefährten sind **Verteidiger +1** bis zum Ende des Zuges.'
+  lore: ''

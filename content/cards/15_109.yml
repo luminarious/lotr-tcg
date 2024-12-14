@@ -1,0 +1,18 @@
+set: '15'
+rarity: R
+number: '109'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 6
+str: '13'
+vit: '3'
+site: 4
+en:
+  title: Gorbag
+  subtitle: Filthy Rebel
+  text: |-
+    **Hunter 3.** *(While skirmishing a non-hunter character, this character is strength +3.)*  
+    When you play Gorbag, you may discard a card from the top of the Free Peoples player’s deck for each hunter character you can spot.
+  lore: I'm gonna bleed you…like a stuck pig!

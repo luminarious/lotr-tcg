@@ -1,0 +1,22 @@
+set: '10'
+rarity: C
+number: '85'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Flames Within
+  subtitle: ''
+  text: |-
+    While you have initiative, each of your :sauron: minions is strength +2.   
+    **Skirmish:** Discard this condition to make a :sauron: minion strength +2 (or +4 if it is roaming).
+  lore: Soon there was great peril of fire behind the wall….
+de:
+  title: Feuer in der Stadt
+  subtitle: ''
+  text: |-
+    Solange du die Initiative besitzt, erhalten alle deine :sauron: Diener Stärke +2.   
+    **Kampf:** Lege diesen Effekt ab, um einem :sauron: Diener Stärke +2 zu geben (oder Stärke +4, wenn er wandernd ist).
+  lore: Bald bestand hinter der Mauer große Feuergefahr….

@@ -1,0 +1,35 @@
+set: '6'
+rarity: C
+number: '27'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 4
+str: '6'
+vit: '4'
+en:
+  title: Ent Avenger
+  subtitle: ''
+  text: While you can spot 3 Ents, this companion is strength +2.
+  lore: As they drew near the flash and flicker of their eyes could be seen.
+de:
+  title: Rachsüchtiger Ent
+  subtitle: ''
+  text: Solange du 3 Ents entdecken kannst, erhält dieser Gefährte Stärke +2.
+  lore: Als sie näherkamen, sah man das Blitzen und Flackern ihrer Augen.
+fr:
+  title: Vengeur Ent
+  subtitle: ''
+  text: Tant que vous pouvez désigner 3 Ents, ce compagnon a +2 en force.
+  lore: 'Comme ils approchaient, on pouvait voir l''éclat et le clignotement de leurs yeux. '
+it:
+  title: Ent Vendicatore
+  subtitle: ''
+  text: Mentre puoi avvistare 3 Ent, aggiungi +2 alla forza di questo compagno.
+  lore: ‘Quando furono vicini, si potè scorgere il bagliore lampeggiante nei loro occhi.’
+es:
+  title: Vengador Ent
+  subtitle: ''
+  text: Mientras puedas avistar 3 Ents, este compañero es fuerza +2.
+  lore: A medida que se acercaban la chispa de sus ojos se podía observar.

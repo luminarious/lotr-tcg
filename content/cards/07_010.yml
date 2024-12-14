@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '10'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Loyalty Unshaken
+  subtitle: ''
+  text: |-
+    When you play this condition, you may stack 2 cards from hand here and draw a card for each :dwarven: card you stack.   
+    **Skirmish:** Make a Dwarf strength +2. Also, make that Dwarf damage +2 for each :dwarven: card stacked on this condition. Discard this condition.
+  lore: ''
+de:
+  title: Unerschütterliche Treue
+  subtitle: ''
+  text: |-
+    Wenn du diesen Effekt spielst, darfst du 2 Karten aus deiner Hand hier lagern. Ziehe 1 Karte für jede :dwarven: Karte, die du hier lagerst.   
+    **Kampf:** Gib einem Zwerg Stärke +2. Außerdem erhält dieser Zwerg **Schaden +2** für jede :dwarven: Karte, die hier gelagert ist. Lege diesen Effekt ab.
+  lore: ''

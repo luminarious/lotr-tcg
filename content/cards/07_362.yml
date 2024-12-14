@@ -1,0 +1,13 @@
+set: '7'
+rarity: U
+number: '362'
+unique: true
+culture: ''
+type: Site
+cost: 9
+siteArrow: Left
+en:
+  title: Narchost
+  subtitle: ''
+  text: '**Shadow:** Spot 8 burdens to make the Ring-bearer wear The One Ring until the regroup phase.'
+  lore: ''

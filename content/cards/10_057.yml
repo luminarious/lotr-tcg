@@ -1,0 +1,21 @@
+set: '10'
+rarity: U
+number: '57'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Cirith Ungol Watchman
+  subtitle: ''
+  text: Each companion skirmishing this minion loses all damage and strength bonuses from possessions.
+  lore: Sam looked up towards the orc-tower, and suddenly from its narrow windows lights stared out like small red eyes.
+de:
+  title: Cirith Ungol Spähposten
+  subtitle: ''
+  text: Jeder Gefährte, der gegen diesen Diener kämpft, verliert alle Schadens- und Stärkeboni von Ausrüstungen.
+  lore: Sam blickte hinauf zu dem Orkturm, und plötzlich starrten aus dessen schmalen Fenstern Licher heraus wie kleine rote Augen.

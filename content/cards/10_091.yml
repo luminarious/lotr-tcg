@@ -1,0 +1,21 @@
+set: '10'
+rarity: C
+number: '91'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Mordor Fiend
+  subtitle: ''
+  text: '**Shadow:** If you cannot spot another minion and there are 3 or fewer twilight tokens, add :twilight3: (or :twilight5:if this minion is roaming).'
+  lore: The onslaught of Mordor broke like a wave on the beleaguered hills….
+de:
+  title: Mordor Teufel
+  subtitle: ''
+  text: '**Schatten:** Wenn du keinen anderen Diener entdecken kannst und der Einfluss 3 oder weniger beträgt, erhöhe den Einfluss um :twilight3: (oder um :twilight5:, wenn dieser Diener wandernd ist).'
+  lore: Der Angriff von Mordor brandete wie eine Woge gegen die belagerten Hügel….

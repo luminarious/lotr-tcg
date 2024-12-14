@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '37'
+unique: true
+culture: Dunland
+type: Event
+class: Response
+cost: 1
+en:
+  title: War Cry of Dunland
+  subtitle: ''
+  text: '**Response:** If a :dunland: Man wins a skirmish, make him **fierce** and strength +4 until the regroup phase. '
+  lore: ‘Death to the Forgoil!’
+de:
+  title: Kriegsschrei der Dunländer
+  subtitle: ''
+  text: '**Reaktion:** Gib einem :dunland: Menschen bis zur Sammelphase Stärke +4 und mache ihn **Erbittert**, wenn er einen Kampf gewinnt.'
+  lore: Tod den Forgoil!
+fr:
+  title: Cri de Guerre du Pays de Dun
+  subtitle: ''
+  text: '**Réponse :** Si un Homme :dunland: remporte un combat, rendez-le **acharné** et donnez-lui +4 en force jusqu’à la phase de ralliement.'
+  lore: 'Mort au Forgoil!” '
+it:
+  title: Grido di Battaglia del Dunland
+  subtitle: ''
+  text: '**Risposta:** Se un Uomo :dunland: vince una schermaglia, aggiungi +4 alla sua forza e rendilo **Feroce** fino alla fase di raccolta.'
+  lore: Morte ai Forgoil!’
+es:
+  title: Grito De Guerra De Las Tierras Pardas
+  subtitle: ''
+  text: '**Respuesta:** Si un Hombre :dunland: gana una escaramuza, dale **fiero** y fuerza +4 hasta la fase de reagrupación.'
+  lore: ¡Muerte para los Forgoil!

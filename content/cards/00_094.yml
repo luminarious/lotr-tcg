@@ -1,0 +1,20 @@
+set: '0'
+rarity: P
+number: '94'
+unique: true
+culture: Shire
+type: Artifact
+class: Armor
+cost: 2
+en:
+  title: Mithril-coat
+  subtitle: Dwarf-mail
+  text: |-
+    Bearer must be a Ring-bound Hobbit. Each minion skirmishing bearer loses all damage bonuses.  
+    **Skirmish:** Exert bearer to make each minion he is skirmishing lose **fierce** and unable to gain fierce until the regroup phase.
+  lore: ‘…cold as ice, and harder than steel.’
+de:
+  title: Mithrilharnisch
+  subtitle: Zwergenpanzer
+  text: Muss auf einen Ring-verbundenen Hobbit gespielt werden. Alle Diener verlieren sämtliche Schadensboni, wenn sie gegen den Träger kämpfen.**Kampf:** Strenge den Träger an, damit alle Diener, gegen die er kämpft, bis zur Sammelphase die Fähig-keit **erbittert** verlieren und auch nicht wieder erlangen können.
+  lore: ''

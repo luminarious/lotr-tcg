@@ -1,0 +1,41 @@
+set: '4'
+rarity: C
+number: '283'
+unique: true
+culture: Rohan
+type: Possession
+class: Mount
+cost: 2
+en:
+  title: Horse of Rohan
+  subtitle: ''
+  text: |-
+    To play, spot a :rohan: Man. Bearer must be a Man, Elf, or Wizard.   
+    At the start of each skirmish involving bearer, each minion skirmishing bearer must exert. 
+  lore: Very swift were the horses of Rohan.
+de:
+  title: Pferd von Rohan
+  subtitle: ''
+  text: |-
+    Entdecke einen :rohan: Mensch, um diese Karte auf einen Menschen, Elben oder Zauberer zu spielen.  
+    Zu Beginn jedes Kampfes, an dem der Träger beteiligt ist, müssen alle Diener in diesem Kampf angestrengt werden.
+  lore: Sehr schnell waren die Pferde von Rohan.
+fr:
+  title: Cheval de Rohan
+  subtitle: ''
+  text: |-
+    Pour jouer, désignez un Homme :rohan:. Le détenteur doit être un Homme, un Elfe ou un Magicien.  
+    Au début de chaque combat impliquant le détenteur, affaiblissez chaque séide qui combat le détenteur.
+  lore: 'Rapides étaient les chevaux de Rohan. '
+it:
+  title: Cavallo di Rohan
+  subtitle: ''
+  text: |-
+    Per giocarlo, avvista un Uomo :rohan:. Il possessore deve essere un Uomo, un Elfo, o uno Stregone.  
+    All’inizio di ogni schermaglia che coinvolga il possessore, ogni servitore che stia schermagliando con il possessore deve sforzarsi.
+  lore: Velocissimi erano i cavalli di Rohan.
+es:
+  title: Caballo De Rohan
+  subtitle: ''
+  text: Para jugarlo, avista un Hombre :rohan:. El portador debe ser un Hombre, Elfo o Mago. Al principio de cada escaramuza en la que participe el portador, cada siervo que esté en una escaramuza contra el portador debe esforzarse.
+  lore: Los caballos de Rohan se alejaron rápidamente.

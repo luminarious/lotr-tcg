@@ -1,0 +1,19 @@
+set: '18'
+rarity: R
+number: '67'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 2
+str: '4'
+vit: '3'
+site: 4
+en:
+  title: Gríma
+  subtitle: Witless Worm
+  text: |-
+    **Regroup:** Exert Gríma to add :twilight2:.  
+    **Regroup:** Remove a :men: token to add :twilight2:.  
+    **Regroup:** Remove :twilight4: to exert an unbound companion.
+  lore: '''You are held wise, my friend Wormtongue, and are doubtless a great support to your master.’'

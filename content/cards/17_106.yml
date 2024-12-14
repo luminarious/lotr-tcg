@@ -1,0 +1,15 @@
+set: '17'
+rarity: U
+number: '106'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Halfling Leaf
+  subtitle: ''
+  text: |-
+    **Pipeweed.** To play, spot a Hobbit.  
+    **Skirmish:** Discard a pipeweed from play to cancel a skirmish involving an unbound Hobbit.
+  lore: '''It feels good, and it smells good.’'

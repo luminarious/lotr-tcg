@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '347'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Left
+en:
+  title: Deep of Helm
+  subtitle: ''
+  text: '**Plains.** **Battleground.** The twilight cost of the first Uruk-hai played at Deep of Helm each turn is -3. '
+  lore: ''
+de:
+  title: Helms Klamm
+  subtitle: ''
+  text: '**Ebene.** **Schlachtfeld.** Die Zwielichtkosten für den ersten Uruk-hai, der in jedem Spielzug hier gespielt wird, reduzieren sich um 3.'
+  lore: ''
+fr:
+  title: Les Profondeurs de Helm
+  subtitle: ''
+  text: '**Plaine.** **Champ de bataille.** À chaque tour, le coût crépusculaire du premier Ourouk-Haï joué aux Profondeurs de Helm est de -3.'
+  lore: ''
+it:
+  title: Fosso di Helm
+  subtitle: ''
+  text: '**Pianura.** **Campo di Battaglia.** Sottrai -3 al costo crepuscolo del primo Uruk-hai giocato al Fosso di Helm in ogni turno.'
+  lore: ''
+es:
+  title: Abismo De Helm
+  subtitle: ''
+  text: '**Llanura.** **Campo de batalla.** El coste de penumbra del primer Uruk-hai jugado en el Abismo de Helm cada turno es -3.'
+  lore: ''

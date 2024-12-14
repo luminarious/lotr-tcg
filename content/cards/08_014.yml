@@ -1,0 +1,18 @@
+set: '8'
+rarity: C
+number: '14'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 3
+en:
+  title: A Fool
+  subtitle: ''
+  text: 'At sites 1:king: to 5:king:, heal Gandalf. At any other site, prevent a Hobbit from being overwhelmed unless his or her strength is tripled.'
+  lore: ‘…but an honest fool he remains.’
+de:
+  title: Ein Narr
+  subtitle: ''
+  text: Heile Gandalf, wenn sich deine Gemeinschaft an Ort 1iii bis 5iii befindet. An allen anderen Orten kann ein Hobbit nur mit dreifacher Stärke überwältigt werden.
+  lore: … aber ein ehrlicher Narr bleibt er.

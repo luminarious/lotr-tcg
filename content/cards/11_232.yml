@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '232'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Left
+en:
+  title: Cavern Entrance
+  subtitle: ''
+  text: '**Underground.** Skirmish special abilities cannot be used.'
+  lore: ''
+de:
+  title: Höhleneingang
+  subtitle: ''
+  text: '**Unterirdisch.** Kampffähigkeiten dürfen nicht benutzt werden.'
+  lore: ''

@@ -1,0 +1,13 @@
+set: '18'
+rarity: R
+number: '28'
+unique: true
+culture: Gollum
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Countless Cords
+  subtitle: ''
+  text: Spot Shelob to make a minion strength +1 for each threat you can spot.
+  lore: '''But don''t go on, master! Don''t go down to that den! Now’s our only chance. Now let’s get out of this foul hole!’'

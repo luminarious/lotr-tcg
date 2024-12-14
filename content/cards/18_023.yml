@@ -1,0 +1,13 @@
+set: '18'
+rarity: U
+number: '23'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: One-Upsmanship
+  subtitle: ''
+  text: '**Spell.** Spot 2 pipeweed cards to remove a burden for each :gandalf: Wizard you can spot.'
+  lore: Gandalf regarded the smoke ring for a moment, sucked his cheeks in, and blew out a majestic, full-rigged ship that sailed right through the ring.

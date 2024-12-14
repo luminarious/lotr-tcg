@@ -1,0 +1,15 @@
+set: '15'
+rarity: R
+number: '12'
+unique: true
+culture: Elven
+type: Follower
+cost: 2
+en:
+  title: Dínendal
+  subtitle: Mirkwood Archer
+  text: |-
+    **Aid –** :twilight3:. *(At the start of the maneuver phase, you may add* :twilight3: *to transfer this to a companion.)*  
+    Each time you transfer this to a companion, except an :elven: companion, exert bearer.  
+    Bearer is an **archer**.
+  lore: Elven archers were seldom seen before it was too late.

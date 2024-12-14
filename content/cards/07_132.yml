@@ -1,0 +1,25 @@
+set: '7'
+rarity: C
+number: '132'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Desert Nomad
+  subtitle: ''
+  text: |-
+    **Southron.**   
+    While you can spot 2 threats, this minion is **damage +1**.
+  lore: ''
+de:
+  title: Wüstennomade
+  subtitle: ''
+  text: |-
+    **Südländer.**   
+    Solange du 2 Bedrohungen entdecken kannst, erhält dieser Diener **Schaden +1**.
+  lore: Im Süden sind die Haradrim auf dem Marsch…

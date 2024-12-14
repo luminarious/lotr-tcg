@@ -1,0 +1,14 @@
+set: '1'
+rarity: U
+number: '31'
+unique: true
+culture: Elven
+type: Possession
+class: Mount
+cost: 2
+str: '+2'
+en:
+  title: Asfaloth
+  subtitle: ''
+  text: Bearer must be an Elf. When played on Arwen, Asfaloth’s twilight cost is -2. While at a plains site, bearer is strength +2. Discard Asfaloth when at an underground site.
+  lore: ‘Noro lim, Asfaloth, noro lim!’

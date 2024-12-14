@@ -1,0 +1,26 @@
+set: '8'
+rarity: R
+number: '25'
+unique: true
+culture: Gollum
+type: Minion
+race: Spider
+cost: 6
+str: '8'
+vit: '8'
+site: 8
+en:
+  title: Shelob
+  subtitle: Eater of Light
+  text: |-
+    **Fierce.**   
+    When you play Shelob, you may play a :gollum: possession from your draw deck.   
+    Shelob is strength +3 for each minion stacked on a :gollum: possession.
+  lore: …who only desired death for all others….
+de:
+  title: Kankra
+  subtitle: Lichtfresserin
+  text: |-
+    **Erbittert.**   
+    Du darfst eine :gollum: Ausrüstung aus deinem Spieldeck spielen, wenn du Kankra spielst. Kankra erhält Stärke +3 für jeden Diener, der auf einer :gollum: Ausrüstung lagert.
+  lore: … die sie nur den Tod für alle anderen ersehnte….

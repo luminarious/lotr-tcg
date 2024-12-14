@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '227'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Left
+en:
+  title: Anduin Banks
+  subtitle: ''
+  text: '**River.** The minion archery total is +2 for each companion in the fellowship over 4.'
+  lore: ''
+de:
+  title: Die Ufer des Anduin
+  subtitle: ''
+  text: '**Fluss.** Für jeden Gefährten über 4 erhöht sich der Fernkampfwert der Diener um 2.'
+  lore: ''

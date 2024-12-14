@@ -1,0 +1,18 @@
+set: '8'
+rarity: C
+number: '114'
+unique: true
+culture: Shire
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: Straining Towards Us
+  subtitle: ''
+  text: 'Exert Frodo to remove :twilight1: for each Frodo signet you spot.'
+  lore: ‘…they found the enemy already on the out-wall, or assailing it….’
+de:
+  title: Auf uns gerichtet
+  subtitle: ''
+  text: Strenge Frodo an, um den Einfluss um (1) für jedes Frodosiegel, das du entdeckst, zu verringern.
+  lore: … fast blind für alles andere, was in Bewegung ist. Wir müssen dafür sorgen, dass es so bleibt. Darin liegt all unsere Hoffnung.

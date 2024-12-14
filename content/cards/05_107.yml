@@ -1,0 +1,46 @@
+set: '5'
+rarity: U
+number: '107'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '11'
+vit: '3'
+site: 6
+en:
+  title: Orc Patrol
+  subtitle: ''
+  text: |-
+    **Tracker.**  
+    The site number of each :sauron: Orc is -3.  
+    **Maneuver:** Exert Orc Patrol twice and spot another :sauron: Orc to discard a condition.
+  lore: Sauron’s Orcs ranged far and wide, searching for Baggins and the Ring.
+de:
+  title: Orkpatrouille
+  subtitle: ''
+  text: '**Spurenleser.** Die Ortskennzahl jedes :sauron: Orks reduziert sich um 3. **Manöver:** Strenge diesen Diener zweimal an und entdecke einen anderen :sauron: Ork, um einen Effekt abzulegen.'
+  lore: Saurons Orks suchten weit und breit nach einem Beutlin und dem Ring.
+fr:
+  title: Patrouille Orque
+  subtitle: ''
+  text: |-
+    Traqueur.   
+    Le numéro de site de chaque Orque :sauron: est de -3.   
+    **Manœuvre :** Affaiblissez Patrouille Orque deux fois et désigner un autre Orque :sauron: pour défausser une situation.
+  lore: Les Orques de Sauron couvraient le plus grand territoire possible à la recherche de Sacquet et de l'Anneau.
+it:
+  title: Squadra di Orchi
+  subtitle: ''
+  text: |-
+    **Inseguitore.** Sottrai -3 al numero di sito di ogni Orco :sauron:.   
+    **Manovra:** Sforza due volte Squadra di Orchi e avvista un altro Orco :sauron: per scartare una condizione.
+  lore: Gli Orchi di Sauron vagavano in lungo e in largo, cercando Baggins e l'Anello.
+es:
+  title: Patrulla de Orcos
+  subtitle: ''
+  text: |-
+    **Rastreador.** El número de sitio de cada Orco :sauron: es -3.   
+    **Maniobra:** Esfuerza dos veces la Patrulla de Orcos y avista otro Orco :sauron: para descartar una condición.
+  lore: Los Orcos de Sauron se dispersaron a lo largo y a lo ancho, buscando a los Bolsón y el Anillo.

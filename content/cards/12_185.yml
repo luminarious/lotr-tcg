@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '185'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Left
+en:
+  title: The Angle
+  subtitle: ''
+  text: '**Forest. Shadow:** Play a Nazgûl (or spot 6 companions and discard 2 cards from hand) to draw a card.'
+  lore: ''
+de:
+  title: Der Winkel
+  subtitle: ''
+  text: '**Wald. Schatten:** Spiele einen Nazgûl (oder entdecke 6 Gefährten und lege 2 Karten aus der Hand ab), um eine Karte zu ziehen.'
+  lore: ''

@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '199'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '14'
+vit: '3'
+site: 5
+en:
+  title: Relentless Uruk
+  subtitle: ''
+  text: '**Damage +1.** Each time a Free Peoples event is played during a skirmish involving this minion, this minion is strength –2 until the regroup phase.'
+  lore: Single-minded in purpose, the Uruk-hai are not easily swayed from their intended path.
+de:
+  title: Unbarmherziger Uruk
+  subtitle: ''
+  text: '**Schaden +1**. Dieser Diener erhält jedes Mal Stärke -2, wenn während eines Kampfes, an dem er beteiligt ist, ein Ereignis der Freien Völker gespielt wird.'
+  lore: Uruk-hai lassen sich schwer von dem abbringen zu dem sie erschaffen wurden.

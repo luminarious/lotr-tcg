@@ -1,0 +1,18 @@
+set: '14'
+rarity: R
+number: '15'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Uruk-hai Scout
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    When you play this, choose one of the following keywords: battleground, mountain, plains, or underground. The fellowship’s current site gains that keyword until the end of the turn.
+  lore: …swart, slant-eyed, with thick legs and large hands.

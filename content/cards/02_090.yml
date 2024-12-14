@@ -1,0 +1,36 @@
+set: '2'
+rarity: C
+number: '90'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '3'
+site: 6
+en:
+  title: Orc Taskmaster
+  subtitle: ''
+  text: '**Shadow:** Exert this minion to add :twilight1:. '
+  lore: An Orc acts when the taskmaster promises reward or the whip.
+de:
+  title: Ork Sklaventreiber
+  subtitle: ''
+  text: '**Schatten:** Strenge diesen Diener an, um den Einfluss um :twilight1: zu erhöhen.'
+  lore: Ein Ork handelt, wenn der Sklaventreiber Strafe oder Belohnung verspricht.
+fr:
+  title: Contrôleur Orque
+  subtitle: ''
+  text: 'Ombre : Affaiblissez ce séide pour ajouter :twilight1:.'
+  lore: Un orque n'agit que lorsque le contrôleur promet une récompense – ou le fouet.
+it:
+  title: Sorvegliante Orco
+  subtitle: ''
+  text: '**Ombra:** Sforza questo servitore per aggiungere :twilight1:.'
+  lore: Un Orco si muove quando il sorvegliante promette una ricompensa o la frusta.
+es:
+  title: Capataz Orco
+  subtitle: ''
+  text: '**Sombra:** Esfuerza este siervo para añadir :twilight1:.'
+  lore: Un Orco actúa cuando el capataz promete o una recompensa o el látigo.

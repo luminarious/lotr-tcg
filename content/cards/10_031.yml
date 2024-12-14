@@ -1,0 +1,18 @@
+set: '10'
+rarity: C
+number: '31'
+unique: true
+culture: Gondor
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Every Little is a Gain
+  subtitle: ''
+  text: 'Spot a :gondor: Man to discard a stacked Shadow card or to wound a minion bearing a Fortification.'
+  lore: And so the companies came and were hailed and cheered and passed through the Gate, men of the Outlands marching to defend the City of Gondor in a dark hour….
+de:
+  title: Jedes Bißchen ist ein Gewinn
+  subtitle: ''
+  text: 'Entdecke einen :gondor: Menschen, um eine gelagerte Schattenkarte abzulegen oder um einen Diener zu verwunden, auf dem eine Befestigung liegt.'
+  lore: Und so kamen die Heerscharen und wurden begrüßt und bejubelt und zogen durch das Tor, die Mannen der Außenlehen, die heranmarschierten, um in einer dunklen Stunde die Stadt von Gondor zu verteidigen…

@@ -1,0 +1,36 @@
+set: '4'
+rarity: C
+number: '16'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '1'
+site: 3
+en:
+  title: Dunlending Robber
+  subtitle: ''
+  text: 'Each time this minion wins a skirmish, you may make him strength +2 and **fierce** until the regroup phase. '
+  lore: ‘We will fight….’
+de:
+  title: Dunland Räuber
+  subtitle: ''
+  text: Jedes Mal, wenn dieser Diener einen Kampf gewinnt, darfst du ihm bis zur Sammelphase Stärke +2 geben und ihn **Erbittert** machen.
+  lore: Wir werden kämpfen….
+fr:
+  title: Voleur Dun
+  subtitle: ''
+  text: Chaque fois que ce séide remporte un combat, vous pouvez le rendre **acharné** et lui donner +2 en force jusqu’à la phase de ralliement.
+  lore: 'Nous nous battrons…” '
+it:
+  title: Ladro Dunlandiano
+  subtitle: ''
+  text: Ogni volta che questo servitore vince una schermaglia, puoi aggiungere +2 alla sua forza e renderlo **Feroce** fino alla fase di raccolta.
+  lore: ‘Noi combatteremo…’
+es:
+  title: Ladrón Dunlendino
+  subtitle: ''
+  text: Cada vez que este siervo gana una escaramuza, puedes darle fuerza +2 y **fiero** hasta la fase de reagrupación.
+  lore: Lucharemos…

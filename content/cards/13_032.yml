@@ -1,0 +1,22 @@
+set: '13'
+rarity: C
+number: '32'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: For a While Less Dark
+  subtitle: ''
+  text: |-
+    **Spell.**  
+    Make a :gandalf: companion strength +2 (or +4 if that companion bears a follower).
+  lore: The Nazgûl gave a long wailing cry and swerved away; and with that the four others waivered….
+de:
+  title: Eine Weile weniger dunkel
+  subtitle: ''
+  text: |-
+    **Zauberspruch.**  
+    Gib einem :gandalf: Gefährten Stärke +2 (oder +4, wenn diesem Gefährten ein Gefolgsmann beisteht).
+  lore: Der Nazgûl stieß einen langen Klageruf aus und wich seitlich aus; und daraufhin begannen auch die vier anderen schwankend zu werden….

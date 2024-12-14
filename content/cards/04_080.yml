@@ -1,0 +1,17 @@
+set: '4'
+rarity: U
+number: '80'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 1
+str: '5'
+vit: '2'
+en:
+  title: Ordulus
+  subtitle: Young Warrior
+  text: |-
+    To play, spot an Elf.   
+    The twilight cost of each ranged weapon played on Ordulus is -1. 
+  lore: Ordulus always has an arrow nocked and a full quiver too.

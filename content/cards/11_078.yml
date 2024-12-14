@@ -1,0 +1,20 @@
+set: '11'
+rarity: R
+number: '78'
+unique: true
+culture: Man
+type: Event
+class: Archery
+cost: 7
+en:
+  title: Elevated Fire
+  subtitle: ''
+  text: '**Toil 2.** (For each :men: character you exert when playing this, its twilight cost is –2.) Spot a :men: minion to make the minion archery total +3. '
+  lore: The war towers of the mûmakil provide a great advantage for archers.
+de:
+  title: Erhöhte Schussposition
+  subtitle: ''
+  text: |-
+    **Mühe 2.**   
+    Entdecke einen :men: Diener, um den Fernkampfwert der Diener um 3 zu erhöhen.
+  lore: Die Kriegstürme der Mûmakil geben den Bogenschützen einen großen Vorteil.

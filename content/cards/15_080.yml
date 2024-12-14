@@ -1,0 +1,16 @@
+set: '15'
+rarity: C
+number: '80'
+unique: true
+culture: Man
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Great Axe
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: Man.  
+    While bearer is skirmishing a hunter companion, bearer is strength +2.
+  lore: To his surprise, Frodo’s cloak served as an effective camoflague among the rocks.

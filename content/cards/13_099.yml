@@ -1,0 +1,22 @@
+set: '13'
+rarity: S
+number: '99'
+unique: true
+culture: Man
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Stragglers
+  subtitle: ''
+  text: |-
+    When you play this, add a :men: token here.  
+    **Skirmish:** Discard this from play or remove a token from here to make a :men: minion strength +2 for each :men: minion not assigned to a skirmish.
+  lore: When finished ransacking a homestead, Dunlendings slaughtered fleeing villagers.
+de:
+  title: Flüchtlinge
+  subtitle: ''
+  text: |-
+    Lege eine :men: Marke auf diese Karte, wenn du sie spielst.  
+    **Kampf:** Lege diesen Effekt ab oder entferne hier eine Marke, um einem :men: Diener Stärke +2 für jeden :men: Diener, der keinem Kampf zugewiesen ist, zu geben.
+  lore: Nachdem sie die Häuser geplündert hatten, töteten die Dunländer die flüchtenden Dorfbewohner.

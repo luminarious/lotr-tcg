@@ -1,0 +1,36 @@
+set: '3'
+rarity: C
+number: '55'
+unique: true
+culture: Isengard
+type: Possession
+class: Hand Weapon
+cost: 0
+str: '+2'
+en:
+  title: Isengard Axe
+  subtitle: ''
+  text: |-
+    Bearer must be an :isengard: Orc.   
+    When you play this weapon, add :twilight1:. 
+  lore: Axes eat into the forests of Isengard as well as the victims of Saruman’s Orcs.
+de:
+  title: Isengart Axt
+  subtitle: ''
+  text: 'Muss auf einen :isengard: Ork gespielt werden. Erhöhe den Einfluss um :twilight1:, wenn du diese Waffe spielst.'
+  lore: Die Äxte fraßen sich sowohl in die Bäume Isengarts als auch in die Opfer von Sarumans Orks.
+fr:
+  title: Hache de l'Isengard
+  subtitle: ''
+  text: Le détenteur doit être un Orque :isengard:. Quand vous jouez cette arme, ajoutez :twilight1:.
+  lore: Les haches s'enfoncent aussi bien dans les forêts de l'Isengard que dans les victimes des Orques de Saroumane.
+it:
+  title: Ascia di Isengard
+  subtitle: ''
+  text: Il possessore deve essere un Orco :isengard:. Quando giochi quest’arma, aggiungi :twilight1:.
+  lore: Le loro asce penetrano nelle foreste di Isengard come nelle vittime degli Orchi di Saruman.
+es:
+  title: Hacha de Isengard
+  subtitle: ''
+  text: El portador debe ser un Orco :isengard:. Cuando juegas este arma, añade :twilight1:.
+  lore: Sus hachas no solo se alimentan en los bosques de Isengard, sino también en la carne de sus victimas.

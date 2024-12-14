@@ -1,0 +1,40 @@
+set: '1'
+rarity: U
+number: '239'
+unique: true
+culture: Sauron
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: All Thought Bent on It
+  subtitle: ''
+  text: |-
+    **Search.**   
+    **Maneuver:**   
+    Spot a :sauron: Orc and 5 companions to make the Free Peoples player exert a companion for each companion over 4.
+  lore: '‘…for the Ring yearns, above all else, to return to the hand of its Master: they are one….’'
+de:
+  title: Mit aller Macht versessen
+  subtitle: ''
+  text: '**Suche.** **Manöver:** Entdecke einen :sauron: Ork und 5 Gefährten, um den Freie Völker Spieler zu zwingen, einen Gefährten für jeden Gefährten mehr als 4 anzustrengen.'
+  lore: '…weil der Ring, mehr als alles andere, zurück zu seinem Meister will: denn sie sind eins…'
+fr:
+  title: Toutes ses Pensées Vont vers Lui
+  subtitle: ''
+  text: |-
+    **Recherche.**  
+    **Manœuvre :** Désignez un Orque :sauron: et 5 compagnons pour obliger le joueur des Peuples Libres à affaiblir un compagnon pour chaque compagnon au delà de 4.
+  lore: '‘…car l''Anneau désire, avant tout, retourner dans la main de son Maître: ils sont un….’'
+it:
+  title: Tutti i Pensieri si Rivolgono ad Esso
+  subtitle: ''
+  text: |-
+    **Ricerca.**  
+    **Manovra:** Avvista un Orco :sauron: e 5 compagni per far sforzare un compagno al giocatore dei Popoli Liberi per ogni compagno oltre il quarto.
+  lore: '‘…la bramosia per l''Anello, sopra ogni altra, per farlo tornare nelle mani del suo Padrone: loro sono uno….’'
+es:
+  title: Todos Los Pensamientos Sobre Él
+  subtitle: ''
+  text: '**Búsqueda.** **Maniobra:** Avista un Orco :sauron: y cinco compañeros para hacer que el jugador de Gentes Libres esfuerce un compañero por cada compañero por encima de cuatro.'
+  lore: '… Pues el Anillo ansia, por encima de todo, volver a la mano de su Amo: ellos son uno…'

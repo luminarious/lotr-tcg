@@ -1,0 +1,14 @@
+set: '15'
+rarity: U
+number: '39'
+unique: true
+culture: Gollum
+type: Condition
+cost: 1
+en:
+  title: Called to Mordor
+  subtitle: ''
+  text: |-
+    Bearer must be Sméagol.  
+    While you can spot 2 Ring-bound Hobbits, each time an opponent uses a skirmish special ability in a skirmish involving Gollum or Sméagol, you may wound a minion.
+  lore: It won't be long now. He will soon be ready.

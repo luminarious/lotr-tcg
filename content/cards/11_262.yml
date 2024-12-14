@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '262'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Right
+en:
+  title: Watch-tower of Cirith Ungol
+  subtitle: ''
+  text: '**Mountain.****Maneuver:** Exert your :orc: minion to discard a card at random from the Free Peoples player’s hand. '
+  lore: ''
+de:
+  title: Wachtturm von Cirith Ungol
+  subtitle: ''
+  text: '**Gebirge. Manöver:** Strenge deinen :orc: Diener an, um eine zufällig bestimmte Karte aus der Hand des Freien Völker Spielers abzulegen.'
+  lore: ''

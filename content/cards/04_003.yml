@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '3'
+unique: true
+culture: Dunland
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Anger
+  subtitle: ''
+  text: '**Skirmish:** Spot 3 :dunland: minions or a site you control to make a :dunland: Man **fierce** until the regroup phase. '
+  lore: Rage filled the hearts of the Dunlending attackers.
+de:
+  title: Zorn
+  subtitle: ''
+  text: '**Kampf** Entdecke 3 :dunland: Diener oder einen Ort, den du kontrollierst, um einen :dunland: Menschen bis zur Sammelphase **Erbittert** zu machen.'
+  lore: Rasender Zorn erfüllte die Herzen der Angreifer aus dem Dunland.
+fr:
+  title: Colère
+  subtitle: ''
+  text: '**Combat :** Désignez 3 séides :dunland: ou un site que vous contrôlez pour rendre un Homme :dunland: **acharné** jusqu’à la phase de ralliement.'
+  lore: La rage emplissait le coeur des attaquants de Dun.
+it:
+  title: Collera
+  subtitle: ''
+  text: '**Schermaglia:** Avvista 3 servitori :dunland: o un sito che controlli per rendere **Feroce** un Uomo :dunland: fino alla fase di raccolta.'
+  lore: La rabbia riempì i cuori degli assalitori Dunlandiani.
+es:
+  title: Rabia
+  subtitle: ''
+  text: '**Escaramuza:** Avista 3 siervos :dunland: o un sitio que controles para dar a un Hombre :dunland: **fiero** hasta la fase de reagrupación.'
+  lore: La furia llenó los corazones de los atacantes Dunlendinos.

@@ -1,0 +1,18 @@
+set: '11'
+rarity: C
+number: '19'
+unique: true
+culture: Elven
+type: Event
+class: Fellowship
+cost: 3
+en:
+  title: Farewell to Lórien
+  subtitle: ''
+  text: 'Spot an Elf to heal each companion who has resistance 5 or more. '
+  lore: ‘…the memory of Lothlórien shall remain ever clear and unstained in your heart, and shall neither fade nor grow stale.’
+de:
+  title: Abschied von Lórien
+  subtitle: ''
+  text: Entdecke einen Elben, um jeden Gefährten mit Resistenz 5 oder mehr zu heilen.
+  lore: …die Erinnerung an Lothlórien in deinem Herzen immer rein und ungetrübt bleiben und weder verblassen noch schal werden soll.

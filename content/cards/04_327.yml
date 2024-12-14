@@ -1,0 +1,32 @@
+set: '4'
+rarity: U
+number: '327'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Plains of Rohan
+  subtitle: ''
+  text: '**Plains.** **Fellowship:** Exert 2 unbound companions to play Gimli from your draw deck. '
+  lore: ''
+de:
+  title: Die Ebenen von Rohan
+  subtitle: ''
+  text: '**Ebene.** **Gemeinschaft.** Strenge 2 nicht-verbundene Gefährten an, um Gimli direkt aus deinem Spieldeck zu spielen.'
+  lore: ''
+fr:
+  title: Les Plaines de Rohan
+  subtitle: ''
+  text: '**Plaine.** **Compagnie :** Affaiblissez 2 compagnons dissociés pour jouer Gimli de votre pioche.'
+  lore: ''
+it:
+  title: Pianure di Rohan
+  subtitle: ''
+  text: '**Pianura.** **Compagnia:** Sforza 2 compagni Non Legati per giocare Gimli dal tuo mazzo di gioco.'
+  lore: ''
+es:
+  title: La Marca De Los Jinetes
+  subtitle: ''
+  text: '**Llanura.** **Comunidad:** Esfuerza 2 compañeros no-vinculados para jugar a Aragorn de tu mazo de robar.'
+  lore: ''

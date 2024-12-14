@@ -1,0 +1,15 @@
+set: '18'
+rarity: U
+number: '108'
+unique: true
+culture: Shire
+type: Possession
+class: Support Area
+cost: 1
+en:
+  title: Golden Perch Ale
+  subtitle: ''
+  text: |-
+    Each time a :shire: companion wins a skirmish, you may add a :shire: token here.  
+    **Fellowship:** Remove a :shire: token here to remove a burden. 
+  lore: '''The best beer in the Eastfarthing, or used to be: it is a long time since I tasted it.’'

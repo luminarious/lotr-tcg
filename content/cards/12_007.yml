@@ -1,0 +1,21 @@
+set: '12'
+rarity: C
+number: '7'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Dwarven Warrior
+  subtitle: ''
+  text: When you play this companion during the fellowship phase, choose a Shadow player who must discard the top 2 cards of his or her draw deck.
+  lore: Though Dáin rules Erebor as King Under the Mountain, many of his kindred continue to dwell in the Iron Hills.
+de:
+  title: Zwergenkrieger
+  subtitle: ''
+  text: Bestimme einen Schattenspieler, der die beiden obersten Karten seines Spieldecks ablegen muss, wenn du diesen Gefährten in der Gemeinschaftsphase spielst.
+  lore: Daín herrschte zwar als König unter dem Berg über den Erebor, dennoch lebten viele Zwerge weiter in den Eisenbergen.

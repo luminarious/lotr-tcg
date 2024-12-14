@@ -1,0 +1,18 @@
+set: '4'
+rarity: P
+number: '364'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 4
+str: '8'
+vit: '4'
+signet: Signet_Aragorn
+en:
+  title: Aragorn
+  subtitle: Wingfoot
+  text: |-
+    **Ranger.**  
+    Each time the fellowship moves, you may wound a minion for each unbound Hobbit you spot. 
+  lore: ‘Forty leagues and five you have measured ere the fourth day is ended! Hardy is the race of Elendil!’

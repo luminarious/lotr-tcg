@@ -1,0 +1,18 @@
+set: '17'
+rarity: U
+number: '104'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '6'
+en:
+  title: Warrior of Rohan
+  subtitle: ''
+  text: |-
+    Possessions cannot be transferred from this companion to another character.  
+    **Fellowship:** Play a possession on this companion to liberate a site.
+  lore: Rohirrim territories are not easily taken.

@@ -1,0 +1,20 @@
+set: '0'
+rarity: W
+number: '32'
+unique: true
+culture: Gandalf
+type: Companion
+race: Wizard
+cost: 4
+str: '7'
+vit: '4'
+res: '7'
+en:
+  title: Gandalf
+  subtitle: Returned
+  text: |-
+    When you play Gandalf (except in your starting fellowship), you may play a :gandalf: possession on him from your draw deck or discard pile.  
+    Each time Gandalf wins a skirmish, you may reinforce a Free Peoples token.
+  lore: |-
+    Hunters Design-a-Card contest entry  
+    Submitted by "menace64

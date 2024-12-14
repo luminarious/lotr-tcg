@@ -1,0 +1,43 @@
+set: '3'
+rarity: C
+number: '43'
+unique: true
+culture: Gondor
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Might of Númenor
+  subtitle: ''
+  text: |-
+    **Tale.**   
+    **Maneuver:** Spot a :gondor: companion to reveal a card at random from an opponent’s hand. Heal X companions, where X is the twilight cost of the card revealed. 
+  lore: ‘But the lords of Minas Tirith still fight on….’
+de:
+  title: Die Macht von Númenor
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    Entdecke einen :gondor: Gefährten, um eine zufällig bestimmte Karte aus der Hand eines Gegenspielers aufzudecken. Heile X Gefährten, wobei X den Zwielichtkosten der aufgedeckten Karte entspricht.
+  lore: Doch die Herrscher von Minas Tirith kämpfen immer noch….
+fr:
+  title: La Puissance de Númenor
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    **Manœuvre :** Désignez un compagnon :gondor: pour révéler une carte au hasard de la main d’un adversaire. Guérissez X compagnons, où X est le coût crépusculaire de la carte révélée.
+  lore: 'Mais les Seigneurs de Minas Tirith continuent de se battre….” '
+it:
+  title: Potere di Númenor
+  subtitle: ''
+  text: |-
+    **Racconto.**   
+    **Manovra:** Avvista un compagno :gondor: per mostrare una carta a caso dalla mano di un avversario. Cura X compagni, dove X è il costo crepuscolo della carta mostrata.
+  lore: ‘Ma i Signori di Minas Tirith continuano a combattere…’
+es:
+  title: Poder de Númenor
+  subtitle: ''
+  text: |-
+    **Cuento.**   
+    **Maniobra:** Avista un compañero :gondor: para revelar una carta al azar de la mano de un oponente. Cura X compañeros, donde X es el coste de penumbra de la carta revelada.
+  lore: Pero los señores de Minas Tirith todavía luchan…

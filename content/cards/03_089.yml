@@ -1,0 +1,33 @@
+set: '3'
+rarity: U
+number: '89'
+unique: true
+culture: Sauron
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: Gleaming in the Snow
+  subtitle: ''
+  text: '**Regroup:** Exert a :sauron: Orc and spot a :gondor: companion to add a burden. '
+  lore: ‘A Ring of Power looks after itself…. It may slip off treacherously, but its keeper never abandons it.’
+de:
+  title: Ein Glitzern im Schnee
+  subtitle: ''
+  text: '**Sammeln:** Strenge einen :sauron: Ork an und entdecke einen :gondor: Gefährten, um eine Lastmarke auf den Ringträger zu legen.'
+  lore: Ein Ring der Macht passt selbst auf sich auf. Er kann sich heimtückisch davonmachen, aber sein Hüter gibt ihn niemals auf.
+fr:
+  title: Un Miroitement dans la Neige
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez un Orque :sauron: et désignez un compagnon :gondor: pour ajouter un point-fardeau.'
+  lore: 'Un Anneau de Pouvoir a soin de lui-même… Il peut glisser traîtreusement du doigt, mais son gardien ne l''abandonne jamais.” '
+it:
+  title: Brilla nella Neve
+  subtitle: ''
+  text: '**Raccolta:** Sforza un Orco :sauron: e avvista un compagno :gondor: per aggiungere un segnalino fardello.'
+  lore: '‘Un Anello del Potere vive la propria vita: può benissimo scivolare a tradimento, ma il suo custode non lo abbandonerà mai.’'
+es:
+  title: Brillando en la Nieve
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza un Orco :sauron: y avista un compañero :gondor: para añadir una carga.'
+  lore: Un Anillo de Poder cuida de si mismo… Se te puede salir del dedo de forma traicionera, pero su portador nunca lo abandona.

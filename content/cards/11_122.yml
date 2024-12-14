@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '122'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '8'
+vit: '3'
+site: 4
+en:
+  title: Frenzied Orc
+  subtitle: ''
+  text: 'While this minion is at an underground site, each character skirmishing it is strength –2. While you can spot 6 companions, each character skirmishing an :orc: minion is strength –2.'
+  lore: More enemies seem only to further fuel their rage.
+de:
+  title: Rasender Ork
+  subtitle: ''
+  text: 'Solange sich dieser Diener an einem unterirdischen Ort befindet, erhält jeder Charakter, der gegen ihn kämpft, Stärke -2. Solange du 6 Gefährten entdeckst, erhält jeder Charakter, der gegen einen :orc: Diener kämpft, Stärke -2.'
+  lore: Je mehr Feinde desto stärker wird ihr Zorn.

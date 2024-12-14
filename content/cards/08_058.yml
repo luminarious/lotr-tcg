@@ -1,0 +1,25 @@
+set: '8'
+rarity: C
+number: '58'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 2
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Corsair Plunderer
+  subtitle: ''
+  text: |-
+    **Corsair.**   
+    When you play this minion, you may discard 2 cards from hand to add 2 :raider: tokens to a card that already has a :raider: token on it.
+  lore: …Umbar… fell into the hands of the Men of Harad.
+de:
+  title: Plündernder Corsar
+  subtitle: ''
+  text: |-
+    **Corsar.**   
+    Du darfst 2 Karten aus deiner Hand ablegen, wenn du diesen Diener spielst, um 2 :raider: Marken auf eine Karte zu legen, auf der bereits eine :raider: Marke liegt.
+  lore: … Umbar… fiel den Menschen von Harad in die Hände.

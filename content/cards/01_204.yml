@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '204'
+unique: true
+culture: Wraith
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: All Veils Removed
+  subtitle: ''
+  text: '**Skirmish:** Make a Nazgûl strength +2 (or +5 if the Ring-bearer wears The One Ring).'
+  lore: ‘Give up the Halfling…!’
+de:
+  title: Alle Schleier gelüftet
+  subtitle: ''
+  text: '**Kampf** Gib einem Nazgûl Stärke +2 (oder Stärke +5, wenn der Ringträger den Einen Ring benutzt).'
+  lore: Überlasse uns den Halbling, Elbenweib.
+fr:
+  title: Tous Voiles Levés
+  subtitle: ''
+  text: '**Combat :** Donnez à un Nazgûl +2 en force (ou +5 si le Porteur de l’Anneau a l’Anneau Unique au doigt).'
+  lore: ‘Renoncez au Semi-Homme…!’
+it:
+  title: Rimossi Tutti i Veli
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Nazgûl (o +5 se il Portatore dell’Anello indossa L’Unico Anello).'
+  lore: ‘Lasciate il Mezzuomo…!’
+es:
+  title: Todos Los Velos Caen
+  subtitle: ''
+  text: '**Escaramuza:** Da fuerza +2 a un Nazgûl (o +5 si el Portador del Anillo lleva puesto El Anillo Único).'
+  lore: ¡Dadnos al Mediano…!

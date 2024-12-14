@@ -1,0 +1,41 @@
+set: '2'
+rarity: R
+number: '50'
+unique: true
+culture: Moria
+type: Artifact
+class: Hand Weapon
+cost: 1
+str: '+3'
+en:
+  title: The Balrog's Sword
+  subtitle: ''
+  text: |-
+    Bearer must be The Balrog.   
+    It is **damage +1**   
+    This weapon may be borne in addition to 1 other hand weapon. 
+  lore: In its right hand was a blade like a stabbing tongue of fire….
+de:
+  title: Das Schwert des Balrog
+  subtitle: ''
+  text: |-
+    Muss auf den Balrog gespielt werden. Er erhält **Schaden +1.**  
+    Diese Waffe darf zusätzlich zu einer weiteren Handwaffe benutzt werden.
+  lore: In seiner rechten Hand war eine Klinge wie eine zustoßende Zunge aus Feuer…
+fr:
+  title: L'Épée du Balrog
+  subtitle: ''
+  text: Le détenteur doit être Le Balrog. Le Balrog inflige des dégâts + 1. Cette arme peut être détenue en plus d’une autre arme de mêlée.
+  lore: 'De l''ombre, une épée rouge sortit flamboyante. '
+it:
+  title: La Spada del Balrog
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Il Balrog. Egli ha **Danno +1.**  
+    Quest’arma può essere trasportata in aggiunta a un’altra arma da mischia.
+  lore: Nella mano destra teneva una lama pari a un'acuminata lingua di fuoco…
+es:
+  title: La espada de El Balrog
+  subtitle: ''
+  text: El portador debe ser El Balrog. Él es **daño +1.** Este arma puede ser llevada además de otro arma de mano.
+  lore: En su mano derecha había una espada como una punzante lengua de fuego…

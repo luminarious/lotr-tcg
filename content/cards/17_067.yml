@@ -1,0 +1,15 @@
+set: '17'
+rarity: R
+number: '67'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: A Defiled Charge
+  subtitle: ''
+  text: |-
+    To play, exert your mounted :orc: Orc.  
+    Each time the Free Peoples player assigns a mounted :orc: Orc to a companion, he or she must choose to either exert that companion or add :twilight2:.
+  lore: The wolf snarled and sprang towards them with a great leap.

@@ -1,0 +1,44 @@
+set: '1'
+rarity: R
+number: '165'
+unique: true
+culture: Moria
+type: Minion
+race: Troll
+cost: 10
+str: '15'
+vit: '4'
+site: 4
+en:
+  title: Cave Troll of Moria
+  subtitle: Scourge of the Black Pit
+  text: |-
+    **Damage +1.** **Fierce.** To play, spot a :moria: Orc.   
+    At an underground site, Cave Troll of Moria’s twilight cost is -3.
+  lore: Frodo’s quest nearly ended before his companions halted the Cave Troll’s ferocious attack.
+de:
+  title: Höhlentroll von Moria
+  subtitle: Geissel der schwarzen Grube
+  text: |-
+    **Schaden +1.** **Erbittert.**  
+    Entdecke einen :moria: Ork, um den Höhlentroll von Moria zu spielen. An einem unterirdischen Ort reduzieren sich die Zwielichtkosten des Höhlentroll von Moria um 3.
+  lore: Frodos Reise endete beinahe, bevor es den Gefährten gelang den wilden Angriff des Höhlentrolls zurückzuschlagen.
+fr:
+  title: Troll des Cavernes
+  subtitle: Fléau du Puits Noir de la Moria
+  text: |-
+    **Dégâts +1.** **Acharné.**  
+    Pour jouer, désignez un Orque :moria:. À un site souterrain, le coût crépusculaire du Troll des Cavernes est de -3.
+  lore: La quête de Frodon se serait arrêtée là si ses compagnoons n'avaient pas contré la féroce attaque du Troll des Cavernes.
+it:
+  title: Troll delle Caverne
+  subtitle: Flagello del Pozzo Nero di Moria
+  text: |-
+    **Danno +1.** **Feroce.**  
+    Per giocarlo, avvista un Orco :moria:. In un sito sotterraneo, sottrai -3 al costo crepuscolo del Troll delle Caverne.
+  lore: L'impresa di Frodo quasi finì, prima che i suoi compagni fermassero il feroce attacco del Troll delle Caverne.
+es:
+  title: Troll de las Cuevas
+  subtitle: Azote del Pozo Negro de Moria
+  text: '**Daño +1.** **Fiero.** Para jugarlo, avista un Orco :moria:. En un sitio subterráneo, el coste de penumbra del Troll de las Cuevas es -3.'
+  lore: La búsqueda de Frodo casi termina antes de que sus compañeros detuvieran el feroz ataque del Troll de las Cuevas.

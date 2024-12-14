@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '170'
+unique: true
+culture: Moria
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Fool of a Took!
+  subtitle: ''
+  text: '**Shadow:** Spot a Hobbit (except the Ring-bearer) to reveal cards from the top of your draw deck until you reveal one that is not a :moria: minion. Take the revealed cards into hand.'
+  lore: ‘Fool of a Took! Throw yourself in next time and rid us of your stupidity!’
+de:
+  title: Närrischer Tuk!
+  subtitle: ''
+  text: '**Schatten:** Entdecke einen Hobbit (ausser dem Ringträger), um die obersten Karten von deinem Spieldeck aufzudecken, bis du eine Karte aufdeckst, die kein :moria: Diener ist. Nimm alle aufgedeckten Karten in deine Hand.'
+  lore: Närrischer Tuk! …Wirf dich das nächste Mal selbst hinein, dann kannst du uns in Zukunft keinen Ärger mehr bereiten.
+fr:
+  title: Touque Stupide !
+  subtitle: ''
+  text: 'Ombre : Désignez un Hobbit (excepté le Porteur de l’Anneau) pour révéler les cartes du dessus de votre pioche jusqu’à ce que vous en révéliez une qui ne soit pas un séide :moria:. Prenez les cartes révélées en main.'
+  lore: ‘Touque stupide ! Jetez-vous dedans la prochaine fois et débarrassez-nous de votre stupidité !’
+it:
+  title: Idiota di un Tuc!
+  subtitle: ''
+  text: '**Ombra:** Avvista un Hobbit (eccetto il Portatore dell’Anello) per mostrare le carte poste in cima al tuo mazzo di gioco, fino a quando non ne mostri una che non sia un servitore :moria:. Aggiungi alla tua mano le carte mostrate.'
+  lore: ‘Idiota di un Tuc! Gettati tu dentro la prossima volta, così in futuro non ci seccherai più!’
+es:
+  title: ¡Tuk Estúpido!
+  subtitle: ''
+  text: '**Sombra:** Avista un Hobbit (excepto el Portador del Anillo) para revelar las cartas superiores de tu mazo de robar hasta revelar una que no sea un siervo :moria:. Coge las cartas reveladas en tu mano.'
+  lore: ¡Tuk estúpido! ¡Tírate tu mismo la próxima vez, y no molestaras mas!

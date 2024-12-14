@@ -1,0 +1,16 @@
+set: '4'
+rarity: C
+number: '310'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+signet: Signet_Frodo
+en:
+  title: Merry
+  subtitle: Learned Guide
+  text: '**Skirmish:** Exert the Ring-bearer to discard Merry. Any Shadow player may remove :twilight2: to prevent this. '
+  lore: ‘I don't suppose you have much notion where we are; but I spent my time at Rivendell rather better.’

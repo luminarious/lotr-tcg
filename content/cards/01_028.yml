@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '28'
+unique: true
+culture: Dwarven
+type: Event
+class: Fellowship
+cost: 2
+en:
+  title: Wealth of Moria
+  subtitle: ''
+  text: '**Fellowship:** Spot a Dwarf to reveal the top 3 cards of your draw deck. Take all Free Peoples cards revealed into hand and discard the rest.'
+  lore: '‘For here alone in all the world was found Moria-silver, or true-silver as some have called it: mithril is the Elvish name.’'
+de:
+  title: Morias Reichtum
+  subtitle: ''
+  text: '**Gemeinschaft.** Entdecke einen Zwerg, um die obersten 3 Karten von deinem Spieldeck aufzudecken. Nimm alle Karten der Freien Völker in deine Hand und lege die übrigen ab.'
+  lore: 'Doch allein hier und sonst nirgends in der Welt wurde Moria-Silber gefunden, oder Wahr-Silber, wie manche es genannt haben: mithril ist der elbische Name.'
+fr:
+  title: Richesse de la Moria
+  subtitle: ''
+  text: '**Compagnie :** Désignez un Nain pour révéler les 3 premières cartes de votre pioche. Prenez en main toutes les cartes de Peuples Libres révélées et défaussez les autres.'
+  lore: ‘Du monde entier ce n'est qu'ici qu'on trouvait l'argent de la Moria ou vrai-argent, comme d'aucuns l'ont appelé. Mithril est son nom elfique.’
+it:
+  title: Ricchezze di Moria
+  subtitle: ''
+  text: '**Compagnia:** Avvista un Nano per mostrare le prime 3 carte del tuo mazzo di gioco. Aggiungi alla mano tutte le carte dei Popoli Liberi mostrate e scarta il resto.'
+  lore: '‘Codesto è l''unico posto al mondo ove si trovi l''argento di Moria o, come l''hanno chiamato alcuni, il vero-argento: mithril è il nome elfico.’'
+es:
+  title: Riqueza de Moria
+  subtitle: ''
+  text: '**Comunidad:** Avista un Enano para revelar las 3 superiores cartas de tu mazo de robar. Coge todas las cartas de Gentes Libres reveladas en tu mano y descarta el resto.'
+  lore: 'Pues este era el único sitio del mundo donde había plata de Moria, o plata autentica como algunos la llamaban: mithril es el nombre Élfico.'

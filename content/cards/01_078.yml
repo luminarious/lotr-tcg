@@ -1,0 +1,39 @@
+set: '1'
+rarity: C
+number: '78'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Mysterious Wizard
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Skirmish:** Make Gandalf strength +2 (or +4 if there are 4 or fewer burdens on the Ring-bearer).
+  lore: ‘…there are older and fouler things than Orcs in the deep places of the world.’
+de:
+  title: Geheimnisvoller Zauberer
+  subtitle: ''
+  text: '**Zauberspruch.** **Kampf** Gib Gandalf Stärke +2 (oder Stärke +4, wenn 4 oder weniger Lastmarken auf dem Ringträger liegen).'
+  lore: Es gibt schlimmere und ältere Dinge als Orks in den Tiefen dieser Welt.
+fr:
+  title: Mystérieux Magicien
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Combat :** Donnez à Gandalf +2 en force (ou +4 s’il y a 4 points-fardeau ou moins sur le Porteur de l’Anneau).
+  lore: ‘…il y a dans les profondeurs du monde des êtres plus anciens et plus répugnants que les Orques.’
+it:
+  title: Stregone Misterioso
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Schermaglia:** Aggiungi +2 alla forza di Gandalf (o +4 se ci sono 4 o meno segnalini fardello sul Portatore dell’Anello).
+  lore: ‘…ci sono cose più antiche e più immonde degli Orchi nei luoghi profondi della terra.’
+es:
+  title: Mago Misterioso
+  subtitle: ''
+  text: '**Hechizo.** **Escaramuza:** Da a Gandalf fuerza +2 (o +4 si hay 4 o menos cargas en el Portador del Anillo).'
+  lore: … Hay cosas mas viejas e inmundas que los Orcos en las profundidades del mundo.

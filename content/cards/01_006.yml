@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '6'
+unique: true
+culture: Dwarven
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Delving
+  subtitle: ''
+  text: '**Fellowship:** Exert a Dwarf companion to draw 3 cards.'
+  lore: ‘…they delved too greedily and too deep, and disturbed that from which they fled, Durin’s Bane.’
+de:
+  title: Ausschachten
+  subtitle: ''
+  text: '**Gemeinschaft.** Strenge einen Zwergengefährten an, um 3 Karten zu ziehen.'
+  lore: '…sie gruben zu gierig und zu tief und störten das auf, wovor sie flohen: Durins Fluch.'
+fr:
+  title: Fouilles
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez un compagnon Nain pour piocher 3 cartes.'
+  lore: ‘…ils creusèrent avec trop d'avidité et allèrent trop profondément, et ils dérangèrent ainsi ce qu'ils fuyaient, le Fléau de Durin.’
+it:
+  title: Scavare
+  subtitle: ''
+  text: '**Compagnia:** Sforza un compagno Nano per pescare 3 carte.'
+  lore: ‘…scavarono troppo avidamente e troppo in profondità, disturbando ciò da cui fuggivano, il Flagello di Durin.’
+es:
+  title: Cavar
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza un compañero Enano para robar 3 cartas.'
+  lore: …que cavaron con demasiada codicia, demasiado abajo, y perturbaron aquello de que huían, el Daño de Durin.

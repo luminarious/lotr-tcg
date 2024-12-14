@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '120'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Stand to Arms
+  subtitle: ''
+  text: 'If you have initiative, discard 2 cards from hand to wound a roaming minion skirmishing a :gondor: Man twice.'
+  lore: ‘Return to the outer walls!’
+de:
+  title: Zu den Waffen
+  subtitle: ''
+  text: 'Lege 2 Karten aus deiner Hand ab, wenn du die Initiative besitzt, um einen wandernden Diener, der gegen einen :gondor: Menschen kämpft, zweimal zu verwunden.'
+  lore: Zurück auf eure Posten!

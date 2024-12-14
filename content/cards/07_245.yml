@@ -1,0 +1,22 @@
+set: '7'
+rarity: U
+number: '245'
+unique: true
+culture: Rohan
+type: Possession
+class: Armor
+cost: 1
+en:
+  title: Riding Armor
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.   
+    **Response:** If you have initiative and bearer is about to take a wound in a skirmish, discard 3 cards from hand to prevent that wound.
+  lore: ''
+de:
+  title: Reiterrüstung
+  subtitle: ''
+  text: |-
+    Muss auf einen :rohan: Menschen gespielt werden.   
+    **Reaktion:** Wenn der Träger eine Wunde erleidet und du die Initiative besitzt, lege 3 Karten aus deiner Hand ab, um diese Wunde zu verhindern.
+  lore: ''

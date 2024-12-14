@@ -1,0 +1,32 @@
+set: '1'
+rarity: U
+number: '320'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: East Road
+  subtitle: ''
+  text: Each companion’s twilight cost is +2.
+  lore: ''
+de:
+  title: Die Oststrasse
+  subtitle: ''
+  text: Die Zwielichtkosten für jeden Gefährten erhöhen sich um 2.
+  lore: ''
+fr:
+  title: Route de l'Est
+  subtitle: ''
+  text: Le coût crépusculaire de chaque compagnon est de +2.
+  lore: ''
+it:
+  title: Via dell'Est
+  subtitle: ''
+  text: Aggiungi +2 al costo crepuscolo di ogni compagno.
+  lore: ''
+es:
+  title: Carretera del Este
+  subtitle: ''
+  text: El coste de penumbra de cada compañero es +2.
+  lore: ''

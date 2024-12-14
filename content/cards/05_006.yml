@@ -1,0 +1,33 @@
+set: '5'
+rarity: C
+number: '6'
+unique: true
+culture: Dwarven
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Defending the Keep
+  subtitle: ''
+  text: '**Fellowship:** Spot a Dwarf to draw a card or play a :dwarven: condition from your discard pile.'
+  lore: ‘I have fought many wars, master Dwarf. I know how to defend my own Keep.’
+de:
+  title: Verteidigung der Feste
+  subtitle: ''
+  text: 'Gemeinschaft. Entdecke einen Zwerg, um eine Karte zu ziehen oder um einen :dwarven: Effekt aus deinem Ablagestapel zu spielen.'
+  lore: Ich habe viele Kriege gefochten, Herr Zwerg, und ich weiss, meine eigene Festung durchaus zu verteidigen.
+fr:
+  title: À la Défense du Fort
+  subtitle: ''
+  text: '**Compagnie :** Désignez un Nain pour piocher une carte ou jouer une situation <symol>@: de votre pile de défausse.'
+  lore: 'J''ai combattu dans plusieurs guerres, maître Nain. Je sais comment défendre mon propre fort.” '
+it:
+  title: Difendere la Fortezza
+  subtitle: ''
+  text: '**Compagnia:** Avvista un Nano per pescare una carta o giocare una condizione :dwarven: dalla tua pila degli scarti.'
+  lore: ‘Ho combattuto molte guerre, Mastro Nano. So come difendere la mia Fortezza.’
+es:
+  title: Defendiendo la Fortaleza
+  subtitle: ''
+  text: '**Comunidad:** Avista un enano para robar una carta o para jugar una condición :dwarven: de tu pila de descartes.'
+  lore: ‘He luchado en muchas guerras, señor Enano. Se como defender mi propia plaza.’

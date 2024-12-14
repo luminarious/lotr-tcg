@@ -1,0 +1,13 @@
+set: '17'
+rarity: C
+number: '69'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Cry and Panic
+  subtitle: ''
+  text: 'Each time a mounted :orc: Orc wins a skirmish, the Free Peoples player must reveal his or her hand and place two Free Peoples cards revealed on the bottom of his or her draw deck. '
+  lore: Wargs! We are under attack!

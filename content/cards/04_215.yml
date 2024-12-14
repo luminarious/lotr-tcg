@@ -1,0 +1,35 @@
+set: '4'
+rarity: R
+number: '215'
+unique: true
+culture: Isengard
+type: Condition
+cost: 0
+en:
+  title: Wounded
+  subtitle: ''
+  text: |-
+    To play, exert an :isengard: Man. Plays on a Free Peoples Man.   
+    When you play this condition, exert bearer.   
+    Wounds may not be removed from bearer. 
+  lore: ‘He’s alive!’
+de:
+  title: Verwundet
+  subtitle: ''
+  text: 'Strenge einen :isengard: Menschen an, um diese Karte auf einen Menschen der Freien Völker zu spielen. Wenn du diesen Effekt ausspielst, strenge den Träger an. Wunden dürfen vom Träger nicht entfernt werden.'
+  lore: Er lebt!
+fr:
+  title: Blessé
+  subtitle: ''
+  text: Pour jouer, affaiblissez un Homme :isengard:. Jouable sur un Homme des Peuples Libres. Lorsque vous jouez cette situation, affaiblissez le détenteur. Les blessures ne peuvent pas être retirées du détenteur.
+  lore: 'Il est vivant!” '
+it:
+  title: Ferito
+  subtitle: ''
+  text: Per giocarla, sforza un Uomo :isengard:. Giocala su un Uomo dei Popoli Liberi. Quando giochi questa condizione, sforza il possessore. Le ferite non possono essere rimosse dal possessore.
+  lore: ‘E’ ancora vivo!’
+es:
+  title: Herido
+  subtitle: ''
+  text: Para jugarla, esfuerza un Hombre :isengard:. Se juega en un Hombre de Gentes Libres. Cuando juegas esta condición, esfuerza al portador. Las heridas no se pueden quitar del portador.
+  lore: ¡Está vivo!

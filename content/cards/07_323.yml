@@ -1,0 +1,16 @@
+set: '7'
+rarity: C
+number: '323'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+signet: Signet_Gandalf
+en:
+  title: Pippin
+  subtitle: Sworn to Service
+  text: While you cannot spot 4 threats, Pippin is strength +1 for each threat you can spot.
+  lore: ‘I do not know what put it into your head, or your heart, to do that. But it was well done.’

@@ -1,0 +1,19 @@
+set: '15'
+rarity: U
+number: '175'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '3'
+site: 5
+en:
+  title: Uruk Infantry
+  subtitle: ''
+  text: |-
+    **Damage +1**.  
+    While you can spot a companion of strength 10 or more, this minion is strength +2.  
+    **Regroup:** Exert 4 :urukhai: minions (or discard 3 :urukhai: minions) to take control of a site. 
+  lore: March to Helm’s Deep! Leave none alive!

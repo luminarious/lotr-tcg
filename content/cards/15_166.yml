@@ -1,0 +1,15 @@
+set: '15'
+rarity: U
+number: '166'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Poised for Assault
+  subtitle: ''
+  text: |-
+    Each time a companion loses a skirmish involving an :urukhai: minion, place an :urukhai: token here.  
+    **Skirmish:** Remove 2 :urukhai: tokens from here to take control of a site.
+  lore: Over the wall…the last assault came sweeping like a dark wave upon a hill of sand.

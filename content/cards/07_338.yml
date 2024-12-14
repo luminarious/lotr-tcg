@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '338'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Right
+en:
+  title: Beacon of Minas Tirith
+  subtitle: ''
+  text: '**Sanctuary.** **Fellowship:** If you cannot spot 3 threats, add a threat to heal a companion.'
+  lore: ''
+de:
+  title: Leuchtfeuer von Minas Tirith
+  subtitle: ''
+  text: '**Zuflucht.** **Gemeinschaft:** Lasse eine Bedrohung entstehen, um einen Gefährten zu heilen, wenn du keine 3 Bedrohungen entdecken kannst.'
+  lore: ''

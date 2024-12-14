@@ -1,0 +1,19 @@
+set: '16'
+rarity: R
+number: '1'
+unique: true
+culture: Wraith
+type: Minion
+race: Wraith
+cost: 5
+str: '11'
+vit: '4'
+site: 2
+en:
+  title: Barrow-wight Stalker
+  subtitle: ''
+  text: |-
+    **Enduring.**  
+    Each :wraith: Wraith cannot take wounds (except during skirmishes).  
+    **Shadow:** Remove a burden to play a :wraith: Wraith. That minion’s twilight cost is –2. 
+  lore: The icy touch froze his bones, and he remembered no more.

@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '25'
+unique: true
+culture: Dwarven
+type: Event
+class: Response
+cost: 0
+en:
+  title: Still Draws Breath
+  subtitle: ''
+  text: '**Response:** If a Dwarf wins a skirmish, heal that Dwarf.'
+  lore: When thirteen had fallen the rest fled shrieking, leaving the defenders unharmed….
+de:
+  title: Er atmet noch
+  subtitle: ''
+  text: '**Reaktion:** Wenn ein Zwerg einen Kampf gewinnt, heile diesen Zwerg.'
+  lore: Als dreizehn gefallen waren, ergriffen die übrigen schreiend die Flucht und liessen die Verteidiger unverletzt zurück…
+fr:
+  title: Encore du Souffle
+  subtitle: ''
+  text: '**Réponse :** Si un Nain remporte un combat, guérissez ce Nain.'
+  lore: Quand treize furent tombés, les autres s'enfuirent en hurlant, laissant les défenseurs indemnes….
+it:
+  title: Respira Ancora
+  subtitle: ''
+  text: '**Risposta:** Se un Nano vince una schermaglia, cura quel Nano.'
+  lore: Quando ne furono caduti tredici, gli altri fuggirono strillando, lasciando la Compagnia illesa….
+es:
+  title: Todavía Respira
+  subtitle: ''
+  text: '**Respuesta:** Si un Enano gana una escaramuza, cura ese Enano.'
+  lore: Cuando ya habían caído trece, el resto huyo chillando, dejando a los defensores indemnes…

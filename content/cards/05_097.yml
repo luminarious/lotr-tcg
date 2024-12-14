@@ -1,0 +1,36 @@
+set: '5'
+rarity: C
+number: '97'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '2'
+site: 6
+en:
+  title: Gate Soldier
+  subtitle: ''
+  text: 'When you play a :sauron: condition, you may exert this minion and remove :twilight2: to draw a card.'
+  lore: …a host of orcs lurked, ready at a signal to issue forth like black ants going to war.
+de:
+  title: Wachsoldat
+  subtitle: ''
+  text: 'Wenn du einen :sauron: Effekt spielst, darfst du diesen Diener anstrengen und den Einfluss um :twilight2: verringern, um eine Karte zu ziehen.'
+  lore: … dort lauerte ein Heer von Orks, um auf ein Zeichen hin herauszustürzen wie schwarze Ameisen, die in den Krieg ziehen.
+fr:
+  title: Soldat de la Porte
+  subtitle: ''
+  text: 'Quand vous jouez une situation :sauron:, vous pouvez affaiblir ce séide et retirer :twilight2: pour piocher une carte.'
+  lore: '… là, restait tapie une armée d''Orques, prêts à sortir au premier signal telles des fourmis partant en guerre. '
+it:
+  title: Soldato del Cancello
+  subtitle: ''
+  text: 'Quando giochi una condizione :sauron:, puoi sforzare questo servitore e rimuovere :twilight2: per pescare una carta.'
+  lore: …un esercito di Orchetti attendeva il segnale per precipitarsi fuori come formiche nere in guerra.
+es:
+  title: Soldado de la puerta
+  subtitle: ''
+  text: 'Cuando juega suna condición :sauron:, puedes esforzar este siervo y quitar :twilight2: para robar una carta.'
+  lore: …emboscado un ejército de Orcos, listo para lanzarse afuera a una señal como hormigas negras que parten a la guerra.

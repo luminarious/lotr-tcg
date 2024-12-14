@@ -1,0 +1,15 @@
+set: '7'
+rarity: U
+number: '107'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Iorlas
+  subtitle: ''
+  text: '**Response:** If a possession or engine is played by your opponent, remove a :gondor: token from your condition to make that opponent remove :twilight1:. If he or she cannot, discard that possession or engine.'
+  lore: ''

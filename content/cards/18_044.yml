@@ -1,0 +1,13 @@
+set: '18'
+rarity: C
+number: '44'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Defenses Long Held
+  subtitle: ''
+  text: 'Make a ranger strength +2 and you may reinforce a :gondor: token.'
+  lore: 'Let the armies of Mordor know this: Never again will the land of my people fall into enemy hands!'

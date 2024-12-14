@@ -1,0 +1,25 @@
+set: '11'
+rarity: C
+number: '76'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '9'
+vit: '3'
+site: 4
+en:
+  title: Easterling Shield Wall
+  subtitle: ''
+  text: |-
+    **Lurker.** (Skirmishes involving lurker minions must be resolved after any others.)   
+    **Response:** If a :men: minion is about to take a wound in a skirmish, exert this minion and remove :twilight1: to prevent that. 
+  lore: Tight columns allow Easterlings to protect each other.
+de:
+  title: Ostling Schildwall
+  subtitle: ''
+  text: |-
+    **Schleicher.  
+    Reaktion:** Wenn ein :men: Diener im Begriff ist, eine Wunde in einem Kampf zu erleiden, strenge diesen Diener an und verringere den Einfluss um :twilight1:, um dies zu verhindern.
+  lore: Enge Reihen erlauben es den Ostlingen, sich gegenseitig zu schützen.

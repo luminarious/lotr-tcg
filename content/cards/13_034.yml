@@ -1,0 +1,22 @@
+set: '13'
+rarity: U
+number: '34'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Look to My Coming
+  subtitle: ''
+  text: |-
+    You may remove from the game 4 other :gandalf: cards in your discard pile to play this event from your discard pile. Then remove this event from the game.  
+    Spot Gandalf to make your :gandalf: companion strength +3.
+  lore: ‘…at dawn on the fifth day.’
+de:
+  title: Erwartet mein Kommen
+  subtitle: ''
+  text: |-
+    Du darfst 4 andere :gandalf: Karten aus deinem Ablagestapel ganz aus dem Spiel entfernen, um dieses Ereignis aus deinem Ablagestapel zu spielen. Entferne dann dieses Ereignis ganz aus dem Spiel.  
+    Entdecke Gandalf, um einem deiner :gandalf: Gefährten Stärke +3 zu geben.
+  lore: …beim ersten Licht des fünften Tages.

@@ -1,0 +1,41 @@
+set: '1'
+rarity: U
+number: '46'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Gift of Boats
+  subtitle: ''
+  text: |-
+    To play, exert an Elf ally.   
+    When the fellowship moves from a river during the fellowship phase, the move limit for this turn is +1.
+  lore: ‘They will not sink, lade them as you will; but they are wayward if mishandled.’
+de:
+  title: Drei kleine Boote
+  subtitle: ''
+  text: |-
+    Strenge einen Elbenverbündeten an, um diese Karte in deinen Unterstützungsbereich zu spielen.  
+    Wenn sich die Gemeinschaft in der Gemeinschaftsphase von einem Fluss fortbewegt, erhöht sich das Bewegungslimit in diesem Zug um 1.
+  lore: Sie sinken nicht, wie schwer ihr sie auch beladen mögt; aber sie sind unberechenbar, wenn sie falsch behandelt werden.
+fr:
+  title: Offrande de Bateaux
+  subtitle: ''
+  text: |-
+    Pour jouer, affaiblissez un allié Elfe. Jouable dans votre aire de soutien.  
+    Quand la compagnie avance depuis une rivière durant la phase de compagnie, la limite de mouvement est de +1.
+  lore: Elles ne couleront pas, quel que soit leur chargement ; mais elles sont indociles, quand on ne sait pas les manier.
+it:
+  title: Il Regalo delle Barche
+  subtitle: ''
+  text: |-
+    Per giocarla, sforza un Elfo alleato. Giocala nella tua area di supporto.  
+    Quando la Compagnia si muove da un fiume furante la fase della compagnia, il limite dei movimenti per questo turno è +1.
+  lore: ‘Non affondano, qualunque sia il carico; ma se vengono trattate male, sono capricciose.’
+es:
+  title: Don de Los Botes
+  subtitle: ''
+  text: Para jugarlo, esfuerza un aliado Elfo. Cuando la comunidad está en un río durante la fase de comunidad, el límite de movimiento para este turno es +1.
+  lore: No se hundirán, aunque las carguéis demasiado, pero no son fáciles de manejar.

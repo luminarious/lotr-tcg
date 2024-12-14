@@ -1,0 +1,14 @@
+set: '18'
+rarity: C
+number: '39'
+unique: true
+culture: Gondor
+type: Possession
+class: Armor
+cost: 1
+str: '+1'
+en:
+  title: Armor of the White City
+  subtitle: ''
+  text: 'Bearer must be a :gondor: Man. Bearer is a **knight**.'
+  lore: '''Surely this is the greatest jest in all the history of Gondor: that we should ride with seven thousand, scarce as many as the vanguard of its army in the days of its power, to assail the mountains and the impenetrable gate of the Black Land!’'

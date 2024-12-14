@@ -1,0 +1,14 @@
+set: '15'
+rarity: U
+number: '41'
+unique: true
+culture: Gollum
+type: Condition
+cost: 1
+en:
+  title: Controlled By The Ring
+  subtitle: ''
+  text: |-
+    Bearer must be Gollum.  
+    **Skirmish:** If Gollum is not assigned to a skirmish, discard this condition to have him replace a minion skirmishing a companion.
+  lore: Gollum’s appetite for the One Ring could not be quenched.

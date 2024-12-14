@@ -1,0 +1,15 @@
+set: '7'
+rarity: R
+number: '58'
+unique: true
+culture: Gollum
+type: Minion
+cost: 2
+str: '5'
+vit: '4'
+site: 3
+en:
+  title: Gollum
+  subtitle: Plotting Deceiver
+  text: If you have initiative during the Shadow phase, you may play this minion from your discard pile.
+  lore: ‘Let Her deal with them… she must eat. All She gets is filthy Orcses.’

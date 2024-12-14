@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '341'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Right
+en:
+  title: Rivendell Valley
+  subtitle: ''
+  text: '**Sanctuary.** **Fellowship:** Play an Elf to draw a card.'
+  lore: ''
+de:
+  title: Das Tal von Bruchtal
+  subtitle: ''
+  text: '**Zuflucht.** **Gemeinschaft.** Wenn du einen Elben spielst, ziehe eine Karte.'
+  lore: ''
+fr:
+  title: Vallée de Fondcombe
+  subtitle: ''
+  text: '**Sanctuaire.** **Compagnie :** Jouez un Elfe pour piocher une carte.'
+  lore: ''
+it:
+  title: Valle di Gran Burrone
+  subtitle: ''
+  text: '**Rifugio.** **Compagnia:** Gioca un Elfo per pescare una carta.'
+  lore: ''
+es:
+  title: Valle de Rivendel
+  subtitle: ''
+  text: Refugio. **Comunidad:** Juega un Elfo para robar una carta.
+  lore: ''

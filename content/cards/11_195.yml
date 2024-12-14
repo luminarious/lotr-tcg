@@ -1,0 +1,23 @@
+set: '11'
+rarity: C
+number: '195'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Murderous Uruk
+  subtitle: ''
+  text: '**Damage +1.** **Muster.** (At the start of the regroup phase, you may discard a card from hand to draw a card.) '
+  lore: Like a machine of Saruman, his minions are created for one purpose – killing.
+de:
+  title: Mörderischer Uruk
+  subtitle: ''
+  text: |-
+    **Schaden +1**.  
+    **Appell**. *(Zu Beginn der Sammelphase darfst du eine Karte aus deiner Hand ablegen, um eine Karte zu ziehen.)*
+  lore: Wie seine Maschinen dienen Sarumans Kreaturen nur einem Zweck - Töten.

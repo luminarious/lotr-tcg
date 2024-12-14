@@ -1,0 +1,16 @@
+set: '18'
+rarity: R
+number: '50'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: The Faithful Stone
+  subtitle: ''
+  text: |-
+    **Tale.**  
+    Each time a non-:wraith: minion is played, you may spot a Man to put a :gondor: token here.  
+    **Maneuver:** Remove 3 :gondor: tokens from here to spot a minion. That minion cannot be assigned to a skirmish until the regroup phase.
+  lore: Each turn was guarded by Púkel-men stones with their huge, clumsy arms folded across their round bellies.

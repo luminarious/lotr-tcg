@@ -1,0 +1,35 @@
+set: '1'
+rarity: U
+number: '198'
+unique: true
+culture: Moria
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Through the Misty Mountains
+  subtitle: ''
+  text: |-
+    **Search.** To play, exert a :moria: minion.   
+    Each time the fellowship moves to site 4, 5, or 6 and contains a Dwarf or Elf, the Free Peoples player discards 2 cards at random from hand.
+  lore: ‘One must tread the path that need chooses.’
+de:
+  title: Durch das Nebelgebirge
+  subtitle: ''
+  text: '**Suche.** Strenge einen :moria: Diener an, um diese Karte in deinen Unterstützungsbereich zu spielen. Jedesmal, wenn sich die Gemeinschaft zu den Orten 4, 5 und 6 bewegt und einen Zwergen oder Elben dabei hat, muss der Freie Völker Spieler 2 zufällig bestimmte Karten aus seiner Hand ablegen.'
+  lore: Man muss dem Pfad folgen, der vor einem liegt.
+fr:
+  title: Par les Monts Brumeux
+  subtitle: ''
+  text: '**Recherche.** Pour jouer, affaiblissez un séide :moria:. Chaque fois que la compagnie se déplace jusqu’au site 4, 5 ou 6 et comprend un Nain ou un Elfe, le joueur des Peuples Libres défausse 2 cartes au hasard de sa main.'
+  lore: ‘Il faut prendre le chemin que dicte la nécessité.’
+it:
+  title: Attraverso le Montagne Nebbiose
+  subtitle: ''
+  text: '**Ricerca.** Per giocarla, sforza un servitore :moria:. Ogni volta che la Compagnia si muove al sito 4, 5, o 6 e comprende un Nano o un Elfo, il giocatore dei Popoli Liberi scarta 2 carte a caso dalla mano.'
+  lore: ‘Bisogna percorrere il sentiero scelto dalla necessità!’
+es:
+  title: A Través de Las Montañas Nubladas
+  subtitle: ''
+  text: '**Búsqueda.** Para jugarla, esfuerza un siervo :moria:. Cada vez que la comunidad se mueve al sitio 4, 5 o 6 y contiene un Enano o un Elfo, el jugador de Gentes Libres descarta 2 cartas al azar de su mano.'
+  lore: Uno debe seguir el camino que la necesidad elige.

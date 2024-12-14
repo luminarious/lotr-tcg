@@ -1,0 +1,39 @@
+set: '4'
+rarity: C
+number: '97'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Long I Fell
+  subtitle: ''
+  text: |-
+    **Spell.**  
+    **Skirmish:** Spot Gandalf to prevent all wounds to him. Any Shadow player may make you wound a minion to prevent this. 
+  lore: ‘His fire was about me. I was burned.’
+de:
+  title: Lange Zeit fiel ich
+  subtitle: ''
+  text: '**Zauberspruch.** **Kampf** Entdecke Gandalf, um zu verhindern, dass er Wunden erleidet. Ein beliebiger Schattenspieler darf dich einen Diener verwunden lassen, um dies zu verhindern.'
+  lore: Sein Feuer war um mich. Es verbrannte mich.
+fr:
+  title: Je Suis Tombé Longtemps
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Combat :** Désignez Gandalf pour empêcher toutes les blessures dirigées contre lui. N’importe quel joueur de l’Ombre peut vous obliger à blesser un séide pour empêcher ceci.
+  lore: 'Son feu m''environnait. J''étais brûlé.” '
+it:
+  title: A Lungo Caddi
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Schermaglia:** Avvista Gandalf per prevenire tutte le ferite su di lui. Un qualsiasi giocatore Ombra può farti ferire un servitore per prevenire questo effetto.
+  lore: ‘Il suo fuoco mi avvolgeva. Avvampai.’
+es:
+  title: Mucho Tiempo Caí
+  subtitle: ''
+  text: '**Hechizo.** **Escaramuza:** Avista a Gandalf para prevenirle todas las heridas. Cualquier jugador de Sombra puede hacerte herir un siervo para prevenir esto.'
+  lore: El fuego de él me envolvía, quemándome.

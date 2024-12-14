@@ -1,0 +1,20 @@
+set: '7'
+rarity: R
+number: '318'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 0
+str: '3'
+vit: '4'
+res: '10'
+signet: Signet_Gandalf
+en:
+  title: Frodo
+  subtitle: Wicked Masster!
+  text: |-
+    **Ring-bearer (resistance 10).**   
+    **Ring-bound.**   
+    **Skirmish:** At sites 6:king: to 8:king:, add 4 burdens to wound a minion skirmishing Frodo.
+  lore: ''

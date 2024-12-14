@@ -1,0 +1,33 @@
+set: '2'
+rarity: R
+number: '109'
+unique: true
+culture: Shire
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Orc-bane
+  subtitle: ''
+  text: '**Maneuver:** Spot Sting or Glamdring and exert its bearer X times to wound X Orcs or X Uruk-hai. '
+  lore: Glamdring shone with a pale light, and Sting glinted at the edges.
+de:
+  title: Orkfluch
+  subtitle: ''
+  text: '**Manöver:** Entdecke Stich oder Glamdring und strenge den Träger X mal an, um X Orks oder X Uruk-hai zu verwunden.'
+  lore: Glamdring schimmerte mit einem bleichen Licht, und Stich glänzte an den Schneiden.
+fr:
+  title: Le Fléau des Orques
+  subtitle: ''
+  text: '**Manœuvre :** Désignez Dard ou Glamdring et affaiblissez son détenteur X fois pour blesser X Orques ou X Ourouk-Haï.'
+  lore: 'Glamdring brilla d''une pâle lumière et les tranchants de Dard étincelèrent. '
+it:
+  title: Flagello degli Orchi
+  subtitle: ''
+  text: '**Manovra:** Avvista Pungolo o Glamdring e sforza il suo possessore X volte per ferire X Orchi o X Uruk-hai.'
+  lore: Glamdring emanava un pallido bagliore, e Pungolo irradiava luce dalla lama.
+es:
+  title: Exterminadora de Orcos
+  subtitle: ''
+  text: '**Maniobra:** Avista a Dardo o a Glamdring y esfuerza a su portador X veces para herir X Orcos o X Uruk-hai.'
+  lore: Glamdring brilló con una luz pálida, y los bordes de Dardo centellearon.

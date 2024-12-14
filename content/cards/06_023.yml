@@ -1,0 +1,35 @@
+set: '6'
+rarity: R
+number: '23'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 4
+str: '9'
+vit: '3'
+en:
+  title: Naith Warband
+  subtitle: ''
+  text: To play, spot 3 Elf companions. While Naith Warband bears a ranged weapon, it takes no more than 1 wound during each skirmish phase and does not add to the fellowship archery total.
+  lore: ‘But do not think that only by singing amid the trees… is Lothlórien maintained and defended….’
+de:
+  title: Kampftrupp aus Naith
+  subtitle: ''
+  text: Entdecke 3 Elbengefährten, um diesen Gefährten zu spielen. Solange der Kampftrupp aus Naith mit einer Fernkampfwaffe ausgerüstet ist, erleidet er nur eine Wunde pro Kampfphase und zählt nicht zum Fernkampfwert der Gemeinschaft.
+  lore: Aber glaube nicht, dass nur durch Singen unter den Bäumen… Lothlórien gehalten und… verteidigt wird.
+fr:
+  title: Bande de Guerre Naith
+  subtitle: ''
+  text: Pour jouer, désignez 3 compagnons Elfes. Tant que la Bande de Guerre Naith détient une arme de portée, elle ne prend pas plus d’une blessure durant chaque phase de combat et ne s’ajoute pas au total d’archerie de la compagnie.
+  lore: 'Mais n''imaginez pas que c''est seulement par des chants dans les arbres… que ce pays de Lothlorien est maintenau et défendu….” '
+it:
+  title: Compagnia del Naith
+  subtitle: ''
+  text: Per giocarlo, avvista 3 compagni Elfi. Mentre Compagnia del Naith porta un’Arma da Tiro, non subisce più di 1 ferita durante ogni fase di schermaglia e non si aggiunge al totale degli arcieri della compagnia.
+  lore: ‘Ma non credere che siano sufficienti i canti fra gli alberi… per custodire e difendere dal Nemico la terra di Lothlórien.’
+es:
+  title: Banda de Guerra de Naith
+  subtitle: ''
+  text: Para jugarla, avista 3 compañeros Elfos. Mientras la Banda de Guerra de Naith lleve un arma de distancia, no recibe más de 1 herida durante cada fase de escaramuza y no añade al total de arquería de la comunidad.
+  lore: Pero no pienses sólo eso cantando entre los árboles… Lothlórien está mantenida y defendida…

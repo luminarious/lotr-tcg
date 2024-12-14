@@ -1,0 +1,48 @@
+set: '5'
+rarity: R
+number: '50'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 4
+str: '9'
+vit: '3'
+site: 4
+en:
+  title: Foul Horde
+  subtitle: ''
+  text: |-
+    **Warg-rider.**  
+    While Foul Horde is not exhausted, it is **fierce.**  
+    While Foul Horde has at least 3 vitality, it is **Ambush** :twilight1:.   
+    While Foul Horde has at least 4 vitality, it is **damage +1.**
+  lore: ''
+de:
+  title: Abscheuliche Horde
+  subtitle: ''
+  text: |-
+    **Wargreiter.**  
+    Solange die Abscheuliche Horde nicht erschöpft ist, ist sie **erbittert.**  
+    Solange die Abscheuliche Horde mindestens Vitalität 3 hat, erhält sie **Hinterhalt** :twilight1:**.**  
+    Solange die Abscheuliche Horde mindestens Vitalität 4 hat, erhält sie **schaden +1.**
+  lore: ''
+fr:
+  title: Horde Infecte
+  subtitle: ''
+  text: |-
+    **Chevaucheur de ouargue.**   
+    Tant que Horde Infecte n’est pas épuisée, elle est **acharné**e.   
+    Tant que Horde Infecte a au moins 3 de vitalité, elle a **embuscade** :twilight1:**.**  
+    Tant que Horde Infecte a au moins 4 de vitalité, elle inflige des **dégâts +1.**
+  lore: ''
+it:
+  title: Orda Infida
+  subtitle: ''
+  text: '**Cavalcalupi.** Mentre Orda Infida non è esausto, è **Feroce.** Mentre Orda Infida ha almeno Vitalità 3, ha Imboscata :twilight1:**.** Mentre Orda Infida ha almeno Vitalità 4, ha **Danno +1.**'
+  lore: ''
+es:
+  title: Horda Inmunda
+  subtitle: ''
+  text: '**Jinete de huargo.** Mientras la Horda Inmunda no esta exhausta, es **fiero.** Mientras la Horda Inmunda tiene al menos vitalidad 3, es Emboscar :twilight1:. Mientras la Horda Inmunda tiene al menos vitalidad 4, es **daño +1.**'
+  lore: ''

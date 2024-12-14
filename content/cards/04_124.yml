@@ -1,0 +1,37 @@
+set: '4'
+rarity: R
+number: '124'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Help in Doubt and Need
+  subtitle: ''
+  text: |-
+
+    **Skirmish:** Exert an unbound :gondor: Man to make a :rohan: companion strength +2, or exert a :rohan: companion to make an unbound :gondor: Man strength +2. 
+  lore: ‘The Heir of Elendil would be a strength indeed to the Sons of Eorl in this evil tide.’
+de:
+  title: Hilfe in Zweifel und Not
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Kampf** Strenge einen nicht-verbundenen :gondor: Menschen an, um einem :rohan: Gefährten Stärke +2 zu geben, oder strenge einen :rohan: Gefährten an, um einem nicht-verbundenen :gondor: Menschen Stärke +2 zu geben.'
+  lore: Elendils Erbe wäre wahrlich eine Verstärkung für Eorls Söhne in dieser bösen Zeit.
+fr:
+  title: De l'Aide dans le Doute et le Besoin
+  subtitle: ''
+  text: '**Combat :** Affaiblissez un Homme :gondor: dissocié pour donner +2 en force à un compagnon :rohan:, ou affaiblissez un compagnon :rohan: pour donner +2 en force à un Homme :gondor: dissocié.'
+  lore: 'L''Héritier d''Elendil serait assurément une force pour les Fils d''Eorl en cette mauvaise période.” '
+it:
+  title: Aiuto nel Dubbio e nel Bisogno
+  subtitle: ''
+  text: |-
+
+    **Schermaglia:** Sforza un Uomo :gondor: Non Legato per aggiungere +2 alla forza di un compagno :rohan:, o sforza un compagno :rohan: per aggiungere +2 alla forza di un Uomo :gondor: Non Legato.
+  lore: ‘L'Erede di Elendil sarebbe una vera forza per i Figli di Eorl in questa tragica situazione.’
+es:
+  title: Ayuda En La Necesidad Y En La Duda
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza un Hombre :gondor: no-vinculado para dar a un compañero :rohan: fuerza +2, o esfuerza un compañero :rohan: para dar a un Hombre :gondor: no-vinculado fuerza +2.'
+  lore: El Heredero de Elendil sería sin duda un fuerte apoyo para los Hijos de Eorl en estos tiempos aciagos.

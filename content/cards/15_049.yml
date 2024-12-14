@@ -1,0 +1,18 @@
+set: '15'
+rarity: R
+number: '49'
+unique: true
+culture: Gollum
+type: Companion
+cost: 0
+str: '3'
+vit: '4'
+res: '5'
+en:
+  title: Sméagol
+  subtitle: Wretched and Hungry
+  text: |-
+    **Ring-bound**. To play, add a burden.  
+    Each Ring-bound companion is resistance +1.  
+    **Skirmish:** Exert 2 Ring-bound Hobbits to make Sméagol strength +1 and prevent him from being overwhelmed unless his strength is tripled.
+  lore: …this creature is in some way bound up with my errand.’

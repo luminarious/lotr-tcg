@@ -1,0 +1,19 @@
+set: '14'
+rarity: R
+number: '9'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '6'
+en:
+  title: Halbarad
+  subtitle: Ranger of the North
+  text: |-
+    **Ranger.**  
+    While the Ring-bearer has resistance 9 or more, Halbarad’s twilight cost is –1.  
+    At the start of the maneuver phase, you may discard a :gondor: card from hand to heal a :gondor: companion.
+  lore: He was tall, a dark standing shadow.

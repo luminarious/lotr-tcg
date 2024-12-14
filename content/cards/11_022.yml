@@ -1,0 +1,16 @@
+set: '11'
+rarity: R
+number: '22'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '7'
+en:
+  title: Legolas
+  subtitle: Woodland Emissary
+  text: 'At the start of the archery phase, you may spot another Elf to exert a minion. '
+  lore: Traveling to the council at Imladris was only the beginning of a much greater journey for the Elven Prince. “‘Few can foresee whither their road will lead them, till they come to its end.’

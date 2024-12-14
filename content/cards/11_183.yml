@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '183'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Feral Uruk
+  subtitle: ''
+  text: While this minion is at a battleground site, it is strength +1 and **Damage +1.**
+  lore: Only in combat is an Uruk-hai truly fulfilling its purpose.
+de:
+  title: Barbarischer Uruk
+  subtitle: ''
+  text: Solange sich dieser Diener auf einem Schachtfeld befindet, erhält er Stärke +1 und **Schaden +1**.
+  lore: Der Kampf ist der einzige Zweck für einen Uruk-hai.

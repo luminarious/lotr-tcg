@@ -1,0 +1,32 @@
+set: '1'
+rarity: U
+number: '325'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Shire Lookout Point
+  subtitle: ''
+  text: '**Fellowship:** Spot Gandalf to play Gandalf’s Cart from your draw deck.'
+  lore: ''
+de:
+  title: Auenland Aussichtspunkt
+  subtitle: ''
+  text: '**Gemeinschaft.** Entdecke Gandalf, um Gandalfs Karren direkt aus deinem Spieldeck zu spielen.'
+  lore: ''
+fr:
+  title: Belvédère de la Comté
+  subtitle: ''
+  text: '**Compagnie :** Désignez Gandalf pour jouer la Charrette de Gandalf de votre pioche.'
+  lore: ''
+it:
+  title: Osservatorio della Contea
+  subtitle: ''
+  text: '**Compagnia:** Avvista Gandalf per giocare Il Carro di Gandalf dal tuo mazzo di gioco.'
+  lore: ''
+es:
+  title: Observatório de la Comarca
+  subtitle: ''
+  text: '**Comunidad:** Avista a Gandalf para jugar El Carro de Gandalf de tu mazo de robar.'
+  lore: ''

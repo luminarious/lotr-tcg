@@ -1,0 +1,18 @@
+set: '1'
+rarity: R
+number: '230'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 5
+str: '10'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Cantëa
+  subtitle: Lieutenant of Dol Guldur
+  text: |-
+    **Fierce.**   
+    **Skirmish:** Exert Úlairë Cantëa to discard a weapon borne by a character he is skirmishing.
+  lore: The Ringwraith has no semblance to the Man, its being passed into twilight, life spirit into void.

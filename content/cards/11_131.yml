@@ -1,0 +1,23 @@
+set: '11'
+rarity: C
+number: '131'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '7'
+vit: '3'
+site: 4
+en:
+  title: Orc Miscreant
+  subtitle: ''
+  text: |-
+    To play, spot an :orc: minion.   
+    **Regroup:** Exert this minion to add a burden.
+  lore: ‘Some of the trees they just cut down and leave to rot – orc-mischief that….’
+de:
+  title: Ork Schurke
+  subtitle: ''
+  text: 'Entdecke einen :orc: Diener, um diesen Diener zu spielen. **Sammeln:** Strenge diesen Diener an, um eine Lastmarke auf den Ringträger zu legen.'
+  lore: Einige der Bäume hauen sie bloß um und lassen sie liegen, dass sie verrotten - Ork-Streiche sind das….

@@ -1,0 +1,39 @@
+set: '1'
+rarity: C
+number: '24'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Stairs of Khazad-dûm
+  subtitle: ''
+  text: |-
+    **Tale.**   
+    While a Dwarf skirmishes a :moria: minion, that Dwarf is strength +1.
+  lore: ‘Moria – Khazad-dûm! Greatest of the dwarf-halls – What I would not give to look upon its treasures!’
+de:
+  title: Die Treppen von Khazad-dûm
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    Wenn ein Zwerg einen :moria: Diener bekämpft, erhält dieser Zwerg Stärke +1.
+  lore: Moria – Khazad-dûm! Größtes aller Zwergenreiche – Was würde ich nicht alles geben, seine Pracht zu sehen!
+fr:
+  title: Escalier de Khazad-dûm
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Tant qu’un Nain combat un séide :moria:, ce Nain a +1 en force.
+  lore: ‘La Moria – Khazad-dûm ! La plus grande des demeures naines – Que ne donnerais-je pas pour examiner ses trésors !’
+it:
+  title: Le Scale di Khazad-dûm
+  subtitle: ''
+  text: '**Racconto.** Mentre un Nano sta schermagliando con un servitore :moria:, quel Nano aggiunge +1 alla forza.'
+  lore: ‘Moria – Khazad-dûm! Il più grande palazzo dei Nani – Cosa non darei per sbirciare i suoi tesori!’
+es:
+  title: Escaleras de Khazad-dûm
+  subtitle: ''
+  text: '**Cuento.**Cuando un Enano este en una escaramuza contra un siervo :moria:, ese Enano es fuerza +1.'
+  lore: ‘¡Moria – Khazad-dûm! El más grande de los pabellones Enanos – Que no daría por contemplar sus tesoros!’

@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '141'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Otsëa
+  subtitle: Duplicitous Specter
+  text: |-
+    **Fierce.** When you play Úlairë Otsëa, you may spot another Nazgûl to draw a card for each wounded companion you can spot.  
+    **Regroup:** Exert Úlairë Otsëa and discard a :wraith: card from hand to add a burden.
+  lore: Blinded by their greed, they took them without question.

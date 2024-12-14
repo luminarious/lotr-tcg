@@ -1,0 +1,33 @@
+set: '3'
+rarity: R
+number: '80'
+unique: true
+culture: Moria
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Such a Little Thing
+  subtitle: ''
+  text: '**Maneuver:** Spot a :moria: minion to wound Boromir 3 times. The Free Peoples player may discard 2 Free Peoples possessions to prevent this. '
+  lore: ‘Boromir… give the Ring to Frodo.’
+de:
+  title: So ein kleines Ding
+  subtitle: ''
+  text: '**Manöver:** Entdecke einen :moria: Diener, um Boromir dreimal zu verwunden. Der Freie Völker Spieler darf 2 Freie Völker Ausrüstungen ablegen, um dies zu verhindern.'
+  lore: Boromir… gib Frodo den Ring zurück.
+fr:
+  title: Une Si Petite Chose
+  subtitle: ''
+  text: '**Manœuvre :** Désignez un séide :moria: pour blesser Boromir trois fois. Le joueur des Peuples Libres peut défausser 2 possessions des Peuples Libres pour prévenir ceci.'
+  lore: 'Boromir… donne l''Anneau à Frodon.” '
+it:
+  title: Una Così Piccola Cosa
+  subtitle: ''
+  text: '**Manovra:** Avvista un servitore :moria: per ferire Boromir 3 volte. Il giocatore dei Popoli Liberi può scartare 2 beni dei Popoli Liberi per prevenirlo.'
+  lore: ‘Boromir… restituisci l'Anello a Frodo.’
+es:
+  title: Una Cosa Tan Pequeña
+  subtitle: ''
+  text: '**Maniobra:** Avista un siervo :moria: para herir 3 veces a Boromir. El jugador de Gentes Libres puede descartar 2 posesiones de Gentes Libres para prevenir esto.'
+  lore: Boromir… dale el Anillo a Frodo.

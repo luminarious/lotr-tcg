@@ -1,0 +1,25 @@
+set: '8'
+rarity: R
+number: '95'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '2'
+site: 5
+en:
+  title: Gorgoroth Assassin
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    **Assignment:** Spot a :sauron: engine or site you control to assign this minion to an unbound companion.
+  lore: …they could endure the Sun, so long as the will of Sauron held sway over them.
+de:
+  title: Gorgoroth Attentäter
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    **Zuweisung:** Entdecke eine :sauron: Belagerungswaffe oder einen Ort, den du kontrollierst, um diesen Diener einem nicht-verbundenen Gefährten zuzuweisen.
+  lore: … die voller Bosheit steckten und sogar ihresgleichen hassten….

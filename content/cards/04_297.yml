@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '297'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Work for the Sword
+  subtitle: ''
+  text: '**Skirmish:** Make a :rohan: Man strength +2 (and **damage +2** if mounted). '
+  lore: ‘The Orcs are destroyed. We slaughtered them during the night.’
+de:
+  title: Arbeit für die Schwerter
+  subtitle: ''
+  text: '**Kampf** Gib einem :rohan: Menschen Stärke +2 (und **Schaden +2**, wenn er beritten ist).'
+  lore: Die Orks sind vernichtet. Wir haben sie in der Nacht erschlagen.
+fr:
+  title: Du Travail pour l'Épée
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force à un Homme :rohan: (et il inflige des **dégâts +2** s’il détient une monture).'
+  lore: 'Les Orques sont morts. Nous les avons massacrés durant la nuit.” '
+it:
+  title: Lavoro per la Spada
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Uomo :rohan: (e **Danno +2** se a cavallo).'
+  lore: ‘Gli Orchi sono stati distrutti. Li abbiamo uccisi durante la notte.’
+es:
+  title: Trabajo Para La Espada
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Hombre :rohan: fuerza +2 (y **Daño +2** si tiene una montura).'
+  lore: Los Orcos fueron destruídos. Los aniquilamos durante la noche.

@@ -1,0 +1,39 @@
+set: '1'
+rarity: R
+number: '16'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Greatest Kingdom of My People
+  subtitle: ''
+  text: |-
+    **Tale.** Exert a Dwarf to play this condition.   
+    Each time your opponent plays an Orc, that player discards the top card of his or her draw deck.
+  lore: ‘With golden roof and silver floor / And runes of power upon the door.’
+de:
+  title: Das größte Königreich meines Volkes
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    Strenge einen Zwerg an, um diesen Effekt auszuspielen. Jedesmal, wenn ein Gegenspieler einen Ork spielt, legt dieser die oberste Karte seines Spieldecks ab.
+  lore: Mit Gold verziert und Edelstein und silbern köstlich ausgelegt, das Tor von Runenkraft geprägt.
+fr:
+  title: Le Plus Grand Royaume de mon Peuple
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Affaiblissez un Nain pour jouer cette situation. Chaque fois que votre adversaire joue un Orque, ce joueur défausse la première carte de sa pioche.
+  lore: ‘Avec des toits d'or et des parquets d'argent / Et des runes de puissance sur la porte.’
+it:
+  title: Il più Grande Regno del Mio Popolo
+  subtitle: ''
+  text: '**Racconto.** Sforza un Nano per giocare questa condizione. Ogni volta che il tuo avversario gioca un Orco, quel giocatore scarta la prima carta del suo mazzo di gioco.'
+  lore: ‘Sul suo capo i soffitti d'argento/ Su porte le rune del potere, e d'oro il pavimento.’
+es:
+  title: El Reino Más Grande de Mi Gente
+  subtitle: ''
+  text: '**Cuento.**Esfuerza un Enano para jugar esta condición. Cada vez que un oponente juega un Orco, ese jugador descarta la carta superior de su mazo de robar.'
+  lore: Y runas poderosas en la puerta, / de bóvedas de oro y de suelo de plata.

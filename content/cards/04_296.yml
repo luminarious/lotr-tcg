@@ -1,0 +1,38 @@
+set: '4'
+rarity: U
+number: '296'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Well Stored
+  subtitle: ''
+  text: |-
+
+    At the start of each fellowship phase, you may heal a villager. 
+  lore: ‘Behind us in the caves of the Deep are… old and young, children and women. But great store of food, and many beasts and their fodder, have also been gathered there.’
+de:
+  title: Gut versorgt
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. Zu Beginn jeder Gemeinschaftsphase darfst du einen Dorfbewohner heilen.
+  lore: Hinter uns in den Höhlen sind… Alt und Jung, Kinder und Frauen. Aber auch große Vorräte von Lebensmitteln sind angelegt worden, und viele Tiere sind da und Futter für sie.
+fr:
+  title: Bien Approvisionnés
+  subtitle: ''
+  text: |
+    Au début de chaque phase de compagnie, vous pouvez guérir un **Villageois.**  
+  lore: 'Derrière nous, dans les cavernes de Helm se trouvent… vieux et jeunes, femmes et enfants. Mais de grandes réserves de nourritures, et plusieurs bêtes et leur fourrage ont aussi été rassemblés ici.” '
+it:
+  title: Ben Immagazzinato
+  subtitle: ''
+  text: |-
+    Giocala nella tua area di supporto.  
+    All’inizio di ogni fase della compagnia, puoi curare un **Villico.**
+  lore: ‘Dietro di noi, nelle caverne del Fosso, sono rifugiati… vecchi e giovani, donne e bambini. Ma ivi abbiamo anche riunito grandi quantità di provviste, di animali e di foraggio.’
+es:
+  title: Bien Almacenado
+  subtitle: ''
+  text: Al principio de cada fase de comunidad, puedes curar un **Aldeano.**
+  lore: Atrás, en las cavernas del Abismo, están… viejos y jóvenes, niños y mujeres. Pero también hemos llevado allí provisiones en abundancia y muchas bestias, y el forraje necesario para alimentarlas.

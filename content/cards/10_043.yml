@@ -1,0 +1,22 @@
+set: '10'
+rarity: U
+number: '43'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Field of the Fallen
+  subtitle: ''
+  text: |-
+    To play, spot a :raider: Man. While there is a character in the dead pile, each companion of the same culture as that character is strength –1.   
+    **Skirmish:** Exert your Southron to make him strength +1. 
+  lore: ''
+de:
+  title: Feld der Gefallenen
+  subtitle: ''
+  text: |-
+    Entdecke einen :raider: Menschen, um diesen Effekt zu spielen. Solange sich ein Charakter auf dem Friedhof befindet, erhalten alle Gefährten seiner Kultur Stärke -1.   
+    **Kampf:** Strenge einen deiner Südländer an, um ihm Stärke +1 zu geben.
+  lore: ''

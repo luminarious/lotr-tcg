@@ -1,0 +1,13 @@
+set: '18'
+rarity: R
+number: '80'
+unique: true
+culture: Man
+type: Event
+class: Shadow
+cost: 3
+en:
+  title: Treachery
+  subtitle: ''
+  text: Spot Gríma to exert an unbound companion. That companion cannot use his or her game text until the regroup phase.
+  lore: This order does not come from me. It comes from the king. He signed it this morning.

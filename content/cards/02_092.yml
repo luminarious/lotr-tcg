@@ -1,0 +1,37 @@
+set: '2'
+rarity: U
+number: '92'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Spies of Mordor
+  subtitle: ''
+  text: |-
+    **Search.** To play, spot a :sauron: Orc.   
+    Each time the fellowship moves during the regroup phase, you may draw a card (or 2 cards if you spot a :sauron: tracker). 
+  lore: ‘Mordor Orcs patrol the Eastern Shore. We must wait for the cover of darkness.’
+de:
+  title: Spione aus Mordor
+  subtitle: ''
+  text: '**Suche.** Entdecke einen :sauron: Ork, um diese Karte in deinen Unterstützungsbereich zu spielen. Jedesmal, wenn sich die Gemeinschaft in der Sammelphase bewegt, darfst du eine Karte ziehen (oder 2 Karten, wenn du einen :sauron: Spurenleser entdeckst).'
+  lore: Orks bewachen das Ostufer. Wir warten auf den Einbruch der Dunkelheit.
+fr:
+  title: Espions du Mordor
+  subtitle: ''
+  text: |-
+    **Recherche.**  
+    Pour jouer, désignez un Orque :sauron:. Lorsque la compagnie se déplace pendant la phase de ralliement, vous pouvez piocher une carte (ou 2 si vous désignez un traqueur :sauron:).
+  lore: 'Des Orques du Mordor patrouillent la rive Est. Nous devons attendre le couvert de la nuit.” '
+it:
+  title: Spie di Mordor
+  subtitle: ''
+  text: '**Ricerca.** Per giocarla, avvista un Orco :sauron:. Ogni volta che la compagnia si sposta durante la fase di raccolta, puoi pescare una carta (o 2 carte se avvisti un inseguitore :sauron:).'
+  lore: ‘Gli Orchi di Mordor pattugliano la Riva orientale. Dobbiamo attendere che cali l'oscurità.’
+es:
+  title: Espías de mordor
+  subtitle: ''
+  text: '**Búsqueda.** Para jugarla, avista un Orco :sauron:. Cada vez que la comunidad se mueve durante la fase de reagrupación, puedes robar una carta (o 2 cartas si puedes avistar un rastreador :sauron:).'
+  lore: Orcos de Mordor patrullan la orilla este. Debemos esperar la cobertura de la oscuridad.

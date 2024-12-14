@@ -1,0 +1,18 @@
+set: '11'
+rarity: R
+number: '30'
+unique: true
+culture: Gandalf
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+res: '6'
+en:
+  title: Erland
+  subtitle: Dale Counselor
+  text: |-
+    To play, spot a :gandalf: companion.   
+    **Skirmish:** Exert Erland to take a :gandalf: skirmish event from your discard pile into hand. 
+  lore: ‘They are valiant men and keep open the High Pass and the Ford of Carrock.’

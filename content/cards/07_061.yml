@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '61'
+unique: true
+culture: Gollum
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Hobbitses Are Dead
+  subtitle: ''
+  text: 'Spot Gollum or Sméagol to make a Nazgûl, :sauron: minion or :gollum: minion strength +2. If you have initiative, you may play this event from your discard pile; place it under your draw deck instead of discarding it.'
+  lore: ''
+de:
+  title: Hobbitse sind tot
+  subtitle: ''
+  text: 'Entdecke Gollum oder Sméagol, um einem Nazgûl, :sauron: Diener oder :gollum: Diener Stärke +2 zu geben. Du darfst dieses Ereignis aus deinem Ablagestapel spielen, wenn du die Initiative besitzt. In diesem Fall lege es unter dein Spieldeck anstatt in deinen Ablagestapel.'
+  lore: ''

@@ -1,0 +1,22 @@
+set: '10'
+rarity: U
+number: '2'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Memories of Darkness
+  subtitle: ''
+  text: |-
+    To play, spot a Dwarf.   
+    Each time you lose initiative (except during the fellowship phase), you may play a :dwarven: condition from hand or from your discard pile.
+  lore: ‘Had I known what was before me, I think that not for any friendship would I have taken the Paths of the Dead.’
+de:
+  title: Erinnerungen an die Dunkelheit
+  subtitle: ''
+  text: |-
+    Entdecke einen Zwerg, um diesen Effekt zu spielen.   
+    Jedes Mal, wenn du die Initiative verlierst (außer in der Gemeinschaftsphase), darfst du einen :dwarven: Effekt aus deiner Hand oder deinem Ablagestapel spielen.
+  lore: Hätte ich gewußt, was was vor mir lag, dann glaube ich, dass ich um keiner Freundschaft willen die Pfade der Toten eingeschlagen hätte.

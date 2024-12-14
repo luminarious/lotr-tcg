@@ -1,0 +1,19 @@
+set: '17'
+rarity: S
+number: '11'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Orophin
+  subtitle: Silvan Elf
+  text: |-
+    **Hunter 1.** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    While Orophin is skirmishing a wounded minion, he is strength +3.  
+    **Archery:** Exert another :elven: hunter and add a threat to wound a minion.
+  lore: Guardian of the Golden Wood.

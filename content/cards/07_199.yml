@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '199'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Morgul Soldier
+  subtitle: ''
+  text: Nazgûl are strength +1.
+  lore: …ever and anon, high above the city, a faint cry would come….
+de:
+  title: Morgulsoldat
+  subtitle: ''
+  text: Nazgûl erhalten Stärke +1.
+  lore: …doch dann und wann ertönte hoch über der Stadt ein schwacher Schrei…

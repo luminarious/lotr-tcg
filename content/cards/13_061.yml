@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '61'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Banners Blowing
+  subtitle: ''
+  text: 'You may remove from the game 4 other :gondor: cards in your discard pile to play this event from your discard pile. Then remove this event from the game. Make your :gondor: Man strength +3. '
+  lore: And so… with less than six thousands… the Captains of the West came at last to challenge the Black Gate….
+de:
+  title: Mit fliegenden Fahnen
+  subtitle: ''
+  text: 'Du darfst 4 andere :gondor: Karten aus deinem Ablagestapel ganz aus dem Spiel entfernen, um dieses Ereignis aus deinem Ablagestapel zu spielen. Entferne dann dieses Ereignis ganz aus dem Spiel. Gib einem deiner :gondor: Menschen Stärke +3.'
+  lore: … hatten die Heerführer des Westens weniger als 6000 Mann, als sie… das schwarze Tor… herausforderten.

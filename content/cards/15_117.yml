@@ -1,0 +1,18 @@
+set: '15'
+rarity: R
+number: '117'
+unique: true
+culture: Orc
+type: Minion
+race: Troll
+cost: 6
+str: '15'
+vit: '3'
+site: 4
+en:
+  title: Tower Troll
+  subtitle: ''
+  text: |-
+    For each companion over 5, this minion is **damage +1**.  
+    **Assignment:** Exert this minion twice to assign it to a companion (except the Ring-bearer). If you cannot spot 6 companions, the Free Peoples player may exert a companion to prevent this.
+  lore: ''

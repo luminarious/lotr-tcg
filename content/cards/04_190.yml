@@ -1,0 +1,49 @@
+set: '4'
+rarity: C
+number: '190'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '5'
+vit: '3'
+site: 5
+en:
+  title: Uruk Pursuer
+  subtitle: ''
+  text: |-
+    **Tracker.** **Fierce.**  
+    Unbound Hobbits may not be discarded.  
+    **Response:** If an unbound Hobbit is killed, exert this minion to make the Free Peoples player wound an unbound companion. 
+  lore: ‘None of that! Hold your tongues.’
+de:
+  title: Uruk Verfolger
+  subtitle: ''
+  text: |-
+    **Spurenleser.** **Erbittert.**  
+    Nicht-verbundene Hobbits dürfen nicht abgelegt werden. **Reaktion:** Strenge diesen Diener an, wenn ein nicht-verbundener Hobbit getötet wird, um den Freie Völker Spieler zu zwingen, einen nicht-verbundenen Gefährten zu verwunden.
+  lore: Nichts dergleichen. Haltet den Mund.
+fr:
+  title: Pourchasseur Ourouk
+  subtitle: ''
+  text: |-
+    **Traqueur.** **Acharné.**  
+    Les Hobbits dissociés ne peuvent pas être défaussés. **Réponse :** Si un Hobbit dissocié est tué, affaiblissez ce séide pour obliger le joueur des Peuples Libres à blesser un compagnon dissocié.
+  lore: 'Pas de ça. Bouclez-la.” '
+it:
+  title: Persecutore Uruk
+  subtitle: ''
+  text: |-
+    **Inseguitore.**  
+    **Feroce.**  
+    Hobbit Non Legati non possono essere scartati.  
+    **Risposta:** Se un Hobbit Non Legato è ucciso, sforza questo servitore per far ferire al giocatore dei Popoli Liberi un compagno Non Legato.
+  lore: ‘Ehi voi!… Cucitevi la bocca.’
+es:
+  title: Uruk Perseguidor
+  subtitle: ''
+  text: |-
+    **Rastreador.** **Fiero.** Los Hobbits no-vinculados no pueden ser descartados.   
+    **Respuesta:** Si un Hobbit no-vinculado muere, esfuerza este siervo para hacer que el jugador de Gentes Libres hiera un compañero no-vinculado.
+  lore: Nada de charlas.

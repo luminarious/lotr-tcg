@@ -1,0 +1,18 @@
+set: '8'
+rarity: C
+number: '34'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Gandalf
+en:
+  title: Faramir
+  subtitle: Defender of Osgiliath
+  text: |-
+    **Knight.**   
+    When you play Faramir (except in your starting fellowship), you may reveal the top 10 cards of your draw deck. You may play a knight revealed. Shuffle your draw deck.
+  lore: ‘…I will go and do what I can in his stead––if you command it.’

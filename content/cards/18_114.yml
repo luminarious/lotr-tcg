@@ -1,0 +1,16 @@
+set: '18'
+rarity: R
+number: '114'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 2
+vit: '-1'
+en:
+  title: Cleaved
+  subtitle: ''
+  text: |-
+    **Regroup:** Exert an :urukhai: hunter twice to transfer this condition from your support area to an unbound companion.  
+    **Archery:** Spot an :urukhai: minion to transfer this condition from your support area to a Free Peoples archer.
+  lore: ''

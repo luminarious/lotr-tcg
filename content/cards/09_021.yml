@@ -1,0 +1,42 @@
+set: '9'
+rarity: R
+number: '21'
+unique: true
+culture: Elven
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Pippin’s Dagger
+  subtitle: ''
+  text: |-
+    Bearer must be Pippin.   
+    **Skirmish:** Exert Pippin twice or discard this possession to wound a minion an Elf is skirmishing. Any Shadow player may remove :twilight1: to prevent this. 
+  lore: ‘These are the daggers of the Noldorin.’
+de:
+  title: Pippins Dolch
+  subtitle: ''
+  text: 'Muss auf Pippin gespielt werden. **Kampf:** Strenge Pippin zweimal an oder lege diese Ausrüstung ab, um einen Diener zu verwunden, der gegen einen Elben kämpft. Ein beliebiger Schattenspieler darf den Einfluss um :twilight1: verringern, um dies zu verhindern.'
+  lore: Dies sind Dolche der Noldor.
+fr:
+  title: Pippin's Dagger
+  subtitle: ''
+  text: |-
+    Bearer must be Pippin.   
+    **Skirmish:** Exert Pippin twice or discard this possession to wound a minion an Elf is skirmishing. Any Shadow player may remove :twilight1: to prevent this. 
+  lore: ‘These are the daggers of the Noldorin.’
+it:
+  title: Pippin's Dagger
+  subtitle: ''
+  text: |-
+    Bearer must be Pippin.   
+    **Skirmish:** Exert Pippin twice or discard this possession to wound a minion an Elf is skirmishing. Any Shadow player may remove :twilight1: to prevent this. 
+  lore: ‘These are the daggers of the Noldorin.’
+es:
+  title: Pippin's Dagger
+  subtitle: ''
+  text: |-
+    Bearer must be Pippin.   
+    **Skirmish:** Exert Pippin twice or discard this possession to wound a minion an Elf is skirmishing. Any Shadow player may remove :twilight1: to prevent this. 
+  lore: ‘These are the daggers of the Noldorin.’

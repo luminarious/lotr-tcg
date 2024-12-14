@@ -1,0 +1,17 @@
+set: '18'
+rarity: U
+number: '62'
+unique: true
+culture: Man
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+1'
+en:
+  title: Corsair Grappling Hook
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: minion.  
+    When you play this possession you may reinforce a :men: token twice.  
+    Each time a companion is killed during a skirmish phase, you may control a site.
+  lore: A tool equally useful in times of peace and in times of war.

@@ -1,0 +1,19 @@
+set: '18'
+rarity: R
+number: '71'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 5
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Mûmakil Commander
+  subtitle: Bold and Grim
+  text: |-
+    While at a battleground, this minion is strength +2.  
+    Each mounted Man is strength +1.  
+    **Regroup:** Shuffle any number of your :men: mounts in play into your draw deck.
+  lore: With a sound of his horn, a line of Mûmakil appeared and the Pelennor field was filled with chaos.

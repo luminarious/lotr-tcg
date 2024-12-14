@@ -1,0 +1,15 @@
+set: '7'
+rarity: R
+number: '87'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Derufin
+  subtitle: ''
+  text: '**Regroup:** While you have exactly 5 cards in hand, you may exert Derufin to discard an engine, machine, or possession.'
+  lore: From the uplands of Morthond….

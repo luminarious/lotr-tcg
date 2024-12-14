@@ -1,0 +1,15 @@
+set: '0'
+rarity: W
+number: '23'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+en:
+  title: Éomer
+  subtitle: Forthwith Banished
+  text: ''
+  lore: ‘Do I hope in vain that you have been sent to me for a help in doubt and need?’

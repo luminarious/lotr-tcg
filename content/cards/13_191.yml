@@ -1,0 +1,18 @@
+set: '13'
+rarity: S
+number: '191'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Left
+en:
+  title: Fords of Isen
+  subtitle: ''
+  text: '**River.** Each character is strength +1 for each card borne by that character.'
+  lore: ''
+de:
+  title: Die Furten des Isen
+  subtitle: ''
+  text: '**Fluss.** Jeder Charakter erhält Stärke +1 für jede Karte, die auf ihm liegt.'
+  lore: ''

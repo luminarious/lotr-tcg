@@ -1,0 +1,41 @@
+set: '2'
+rarity: U
+number: '56'
+unique: true
+culture: Moria
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Fill With Fear
+  subtitle: ''
+  text: |-
+
+    While you can spot The Balrog, skip the archery phase.   
+    **Maneuver:** Exert The Balrog to discard a ranged weapon. 
+  lore: He drew, but his hand fell, and the arrow slipped to the ground. He gave a cry of dismay and fear.
+de:
+  title: Von Angst erfüllt
+  subtitle: ''
+  text: |-
+    Spiele diese Karte in deinen Unterstützungsbereich.  
+    Überspringe die Fernkampfphase, solange du den Balrog entdecken kannst.  
+    **Manöver:** Strenge den Balrog an, um eine Fernkampfwaffe abzulegen.
+  lore: Er zog ab, aber seine Hand fiel herunter und der Pfeil glitt auf den Boden. Er stieß einen Schreckensschrei aus.
+fr:
+  title: Plein d'Effroi
+  subtitle: ''
+  text: Tant que vous pouvez désigner Le Balrog, ignorez la phase d’archerie. **Manœuvre :** Affaiblissez Le Balrog pour défausser une arme de portée.
+  lore: 'Il banda la corde, mais sa main retomba, et la flèche glissa à terre. Il poussa un cri de désarroi. '
+it:
+  title: Pervasi dalla Paura
+  subtitle: ''
+  text: |-
+    Mentre avvisti Il Balrog, salta la fase degli arcieri.   
+    **Manovra:** Sforza Il Balrog per scartare un’arma da tiro.
+  lore: Ma mentre stava per scoccare il colpo, la sua mano cadde, e la freccia scivolò per terra. Lanciò un grido di sbigottimento e di terrore.
+es:
+  title: Llenar de miedo
+  subtitle: ''
+  text: Mientras puedas avistar El Balrog, sáltate la fase de arquería. **Maniobra:** Esfuerza El Balrog para descartar una arma de distancia.
+  lore: Se preparó, pero su mano falló, y la flecha se cayó al suelo. Dio un grito de miedo y desesperación.

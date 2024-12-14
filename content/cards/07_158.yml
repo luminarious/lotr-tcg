@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '158'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Rout
+  subtitle: ''
+  text: |-
+    To play, spot a :raider: Man.   
+    Each time the fellowship moves, the Free Peoples player must exert 2 companions if you have initiative.
+  lore: ''
+de:
+  title: Heillose Flucht
+  subtitle: ''
+  text: |-
+    Entdecke einen :raider: Menschen, um diesen Effekt zu spielen.   
+    Jedes Mal, wenn sich die Gemeinschaft bewegt und du die Initiative besitzt, muss der Freie Völker Spieler 2 Gefährten anstrengen
+  lore: Schon machten sich Männer davon, flohen verwirrt und kopflos hierhin und dorthin…

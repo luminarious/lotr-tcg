@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '122'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Home and Hearth
+  subtitle: ''
+  text: Each time you play a Hobbit, you may remove a burden. Then, if the fellowship is at dwelling site, heal the Ring-bearer.
+  lore: He drew a deep breath. ‘Well, I'm back,’ he said.
+de:
+  title: Heim und Herd
+  subtitle: ''
+  text: Jedes Mal, wenn du einen Hobbit spielst, darfst du eine Lastmarke entfernen. Heile den Ringträger anschließend, wenn sich die Gemeinschaft an einer Heimstatt befindet.
+  lore: Er holte tief Luft. "Ja, ich bin zurück“, sagte er.

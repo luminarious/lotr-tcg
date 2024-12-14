@@ -1,0 +1,44 @@
+set: '1'
+rarity: U
+number: '153'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Uruk Slayer
+  subtitle: ''
+  text: |-
+    **Damage +1**.   
+    **Skirmish:** Remove :twilight1: to make this minion strength +1 (limit +3).
+  lore: A foe who is willing to kill or die outright is a foe to be feared indeed.
+de:
+  title: Uruk Schlächter
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    **Kampf** Verringere den Einfluss um :twilight1:, um dem Uruk Schlächter +1 Stärke zu geben (maximal +3).
+  lore: Einen Feind, der direkt bereit ist zu töten oder zu sterben, muss man zu Recht fürchten.
+fr:
+  title: Massacreur Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    **Combat :** Retirez :twilight1: pour donner à ce séide +1 en force (limite de +3).
+  lore: Un ennemi qui désire tuer ou mourir sur le coup est un ennemi qui est à redouter de fait.
+it:
+  title: Uruk Assassino
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    **Schermaglia:** Rimuovi :twilight1: per aggiungere +1 alla forza di questo servitore (limite +3).
+  lore: ''
+es:
+  title: Exterminador Uruk
+  subtitle: ''
+  text: '**Daño +1.** **Escaramuza:** Quita :twilight1: para dar fuerza + 1 a este siervo (límite +3).'
+  lore: Un enemigo que esta dispuesto a matar o a morir en el acto es un enemigo al cual temer.

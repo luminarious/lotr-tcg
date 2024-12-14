@@ -1,0 +1,18 @@
+set: '9'
+rarity: R+
+number: '28'
+unique: true
+culture: Gollum
+type: Minion
+cost: 2
+str: '5'
+vit: '4'
+site: 3
+en:
+  title: Gollum
+  subtitle: Dark as Darkness
+  text: |-
+    **Shadow:** Exert Gollum twice to exert the Ring-bearer.   
+    **Shadow:** Remove a burden to add :twilight1:. **Skirmish:** Remove a burden to add :twilight2:. **Regroup:** Remove a burden to add :twilight3:.   
+    **Regroup:** Exert Gollum twice to wound the Ring-bearer. 
+  lore: ''

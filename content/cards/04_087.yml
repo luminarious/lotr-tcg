@@ -1,0 +1,28 @@
+set: '4'
+rarity: C
+number: '87'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Valor
+  subtitle: ''
+  text: '**Skirmish:** Make an Elf strength +2 (or +3 if skirmishing a wounded minion). '
+  lore: An Elf avoids taking up arms, but once committed to the fray, his will is resolute.
+de:
+  title: Heldenmut
+  subtitle: ''
+  text: '**Kampf** Gib einem Elben Stärke +2 (oder Stärke +3, wenn er gegen einen verwundeten Diener kämpft).'
+  lore: Ein Elb meidet den Kampf, aber wenn er dazu gezwungen wird, ist er entschlossen bis zum Äußersten.
+fr:
+  title: Bravoure
+  subtitle: ''
+  text: '**Combat :** Donner +2 en force à un Elfe (ou +3 s’il combat un séide blessé).'
+  lore: Un Elfe évite de prendre les armes, mais une fois engagé au combat, sa volonté est sans faille.
+it:
+  title: Coraggio
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Elfo (o +3 se sta schermagliando con un servitore ferito).'
+  lore: Gli Elfi evitano di impugnare le armi, ma una volta impegnati nella lotta la loro volontà è ferrea.

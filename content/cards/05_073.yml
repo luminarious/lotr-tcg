@@ -1,0 +1,16 @@
+set: '5'
+rarity: C
+number: '73'
+unique: true
+culture: Raider
+type: Possession
+class: Mount
+cost: 2
+str: '+3'
+en:
+  title: Mûmak
+  subtitle: ''
+  text: |-
+    Bearer must be a Southron. Bearer is **fierce.**  
+    Each time bearer wins a skirmish, you may add :twilight2:.
+  lore: Sam saw a vast shape crash out of the trees and come careering down the slope.

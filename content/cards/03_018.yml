@@ -1,0 +1,18 @@
+set: '3'
+rarity: U
+number: '18'
+unique: true
+culture: Elven
+type: Ally
+race: Elf
+cost: 2
+str: '5'
+vit: '2'
+site: '3'
+en:
+  title: Galdor
+  subtitle: Councilor From the West
+  text: |-
+    To play, spot an Elf.   
+    **Regroup:** Exert Galdor and spot a minion to return that minion to its owner’s hand. 
+  lore: ‘My heart tells me that Sauron will expect us to take the western way, when he learns what has befallen. He soon will.’

@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '54'
+unique: true
+culture: Gollum
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Out of All Knowledge
+  subtitle: ''
+  text: 'Spot Sméagol or exert Gollum to make Sméagol strength +2 and you may reinforce a :gollum: token.'
+  lore: '‘And he thought suddenly: “It would be cool and shady under those mountains. The Sun could not watch me there.”’'
+de:
+  title: Er ward nichtmehr gesehen
+  subtitle: ''
+  text: 'Entdecke Sméagol oder strenge Gollum an, um Sméagol Stärke +2 zu geben und du darfst eine :gollum: Marke ergänzen.'
+  lore: 'Und plötzlich dachte er: ‚Es muss kühl und schattig sein unter diesen Bergen. Dort wird mich die Sonne nicht beobachten.‘'

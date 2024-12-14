@@ -1,0 +1,23 @@
+set: '11'
+rarity: U
+number: '67'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '7'
+vit: '1'
+site: 4
+en:
+  title: Archer of Harad
+  subtitle: ''
+  text: '**Archer.** While you can spot a companion who has resistance 4 or less, the minion archery total is +1.'
+  lore: Haradrim bowmen pick off stragglers who rout after losing a battle.
+de:
+  title: Bogenschütze aus Harad
+  subtitle: ''
+  text: |-
+    **Bogenschütze**.   
+    Solange du einen Gefährten mit Resistenz 4 oder weniger entdecken kannst erhöht sich der Fernkampfwert der Diener um 1.
+  lore: Die Bogenschützen der Haradrim erlegen die Versprengten, die sich nach einer Niederlage sammeln wollen.

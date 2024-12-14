@@ -1,0 +1,36 @@
+set: '1'
+rarity: U
+number: '181'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 1
+str: '5'
+vit: '1'
+site: 4
+en:
+  title: Goblin Sneak
+  subtitle: ''
+  text: 'When you play this minion, you may place a :moria: Orc from your discard pile beneath your draw deck.'
+  lore: Their limber forms allow the Goblins of Moria to slither past barred doors and collapsed passageways.
+de:
+  title: Goblin Kriecher
+  subtitle: ''
+  text: 'Wenn du diesen Diener spielst, darfst du einen :moria: Ork aus deinem Ablagestapel unter dein Spieldeck legen.'
+  lore: Ihr geschmeidiger Körperbau erlaubt es den Goblins von Moria durch versperrte Türen und zusammengebrochene Gänge zu schlüpfen.
+fr:
+  title: Mouchard Gobelin
+  subtitle: ''
+  text: 'Quand vous jouez ce séide, vous pouvez placer un Orque :moria: de votre pile de défausse sous votre pioche.'
+  lore: La forme de leurs membres permet aux Gobelins de la Moria de se glisser au-delà des portes bloquées et des passages effondrés.
+it:
+  title: Spione Goblin
+  subtitle: ''
+  text: 'Quando giochi questo servitore, puoi mettere un Orco :moria: dalla tua pila degli scarti sotto il tuo mazzo di gioco.'
+  lore: Le loro figure flessibili permettono ai Goblin di Moria di scivolare oltre porte sbarrate e sentieri franati.
+es:
+  title: Acechador Goblin
+  subtitle: ''
+  text: 'Cuando juegas este siervo, puedes poner un Orco :moria: de tu pila de descartes bajo tu mazo de robar.'
+  lore: Sus ágiles formas permiten a los Goblins de Moria deslizarse a través de puertas enrejadas y pasillos derrumbados.

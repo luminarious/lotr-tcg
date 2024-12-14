@@ -1,0 +1,18 @@
+set: '17'
+rarity: C
+number: '136'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '6'
+vit: '2'
+site: 5
+en:
+  title: White Hand Warrior
+  subtitle: ''
+  text: |-
+    **Damage +1. Hunter 4.** *(While skirmishing a non-hunter character, this character is strength +4.)*  
+    Each time this minion is assigned to a non-hunter companion, you may heal a hunter. 
+  lore: Leave none alive!

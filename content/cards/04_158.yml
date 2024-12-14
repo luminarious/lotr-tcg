@@ -1,0 +1,44 @@
+set: '4'
+rarity: R
+number: '158'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 7
+str: '12'
+vit: '3'
+site: 5
+en:
+  title: Lieutenant of Orthanc
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    **Maneuver:** Exert Lieutenant of Orthanc to make another Uruk-hai **fierce** until the regroup phase. 
+  lore: ‘Do you wish to see the greatness of our army? We are the fighting Uruk-hai.’
+de:
+  title: Leutnant des Orthanc
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    **Manöver:** Strenge diesen Diener an, um einen anderen Uruk-hai bis zur Sammelphase **Erbittert** zu machen.
+  lore: Willst du die Größe unseres Heeres sehen? Wir sind die kämpfenden Uruk-hai.
+fr:
+  title: Lieutenant d'Orthanc
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    **Manœuvre :** Affaiblissez le Lieutenant d’Orthanc pour rendre un autre Ourouk-Haï **acharné** jusqu’à la phase de ralliement.
+  lore: 'Voulez-vous voir la grandeur de notre armée? Nous sommes les combattans ourouk-haï.” '
+it:
+  title: Luogotenente di Orthanc
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    **Manovra:** Sforza Luogotenente di Orthanc per rendere **Feroce** un altro Uruk-hai fino alla fase di raccolta.
+  lore: ‘Desideri vedere quanto è grande il nostro esercito? Noi siamo gli imbattibili Uruk-hai.’
+es:
+  title: Lugarteniente De Orthanc
+  subtitle: ''
+  text: '**Daño +1.** **Maniobra:** Esfuerza el Lugarteniente De Orthanc para darle a otro Uruk-hai **fiero** hasta la fase de reagrupación.'
+  lore: ¿Quieres ver la grandeza de nuestro ejército? Somos los guerreros Uruk-hai.

@@ -1,0 +1,38 @@
+set: '5'
+rarity: C
+number: '65'
+unique: true
+culture: Isengard
+type: Possession
+class: Mount
+cost: 3
+str: '+3'
+vit: '+1'
+en:
+  title: Warg
+  subtitle: ''
+  text: |-
+    Bearer must be a **warg-rider.**  
+    **Response:** If a skirmish special ability is used in a skirmish involving bearer, exert bearer to cancel that action.
+  lore: ‘Tell him there is no hope ahead. He should return to Edoras before the wolves of Isengard come there.’
+fr:
+  title: Ouargue
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un chevaucheur de ouargue.   
+    **Réponse :** Si une capacité spéciale de combat est utilisée dans un combat qui implique le détenteur, affaiblissez le détenteur pour annuler cette action.
+  lore: 'Il ferait mieux de retourner à Edoras avant que les loups de l''Isengard n''y arrivent.” '
+it:
+  title: Mannaro
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un **Cavalcalupi.**  
+    **Risposta:** Se un’abilità speciale di schermaglia è usata in una schermaglia che coinvolga il possessore, sforza il possessore per cancellare quell’azione.
+  lore: ‘Ditegli che oltre questa zona non vi è speranza. Che torni a Edoras prima che i lupi d'Isengard vi si rechino.’
+es:
+  title: Huargo
+  subtitle: ''
+  text: |-
+    El portador debe ser un **Jinete de huargo.**   
+    **Respuesta:** Si se usa una habilidad especial de escaramuza en una escaramuza en la que participe el portador, esfuerza al portador para cancelar esa acción.
+  lore: Decidle que no queda ninguna esperanza. Que mejor sería regresar a Edoras antes que lleguen los lobos de Isengard.

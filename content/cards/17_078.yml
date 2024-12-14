@@ -1,0 +1,16 @@
+set: '17'
+rarity: C
+number: '78'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Orkish Footman
+  subtitle: ''
+  text: 'This minion is strength +1 for each twilight token you can spot. '
+  lore: They feared their master more than any enemy.

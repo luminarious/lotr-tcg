@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '241'
+unique: true
+culture: Sauron
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Curse From Mordor
+  subtitle: ''
+  text: '**Shadow:** Spot a :sauron: Orc to discard an :elven: condition.'
+  lore: The Dark Lord harbors an ancient hatred for descendants of Gil-galad and those that marched with his gleaming host.
+de:
+  title: Mordors Fluch
+  subtitle: ''
+  text: '**Schatten:** Entdecke einen :sauron: Ork, um einen :elven: Effekt abzulegen.'
+  lore: Der dunkle Herrscher hegt einen uralten Groll gegen die Nachfahren von Gil-galad und derer, die in seiner glorreichen Heerschar marschierten.
+fr:
+  title: Malédiction du Mordor
+  subtitle: ''
+  text: 'Ombre : Désignez un Orque :sauron: pour défausser une situation :œ:.'
+  lore: Le Seigneur Ténébreux voue une haine ancienne aux descendants de Gil-galad et à ceux qui ont marché avec son armée rayonnante.
+it:
+  title: Maledizione da Mordor
+  subtitle: ''
+  text: '**Ombra:** Avvista un Orco :sauron: per scartare una condizione :elven:.'
+  lore: Il Signore Oscuro nutre un odio antico per i discendenti di Gil-Galad e quelli che marciarono con il suo brillante esercito.
+es:
+  title: Maldición de Mordor
+  subtitle: ''
+  text: '**Sombra:** Avista un Orco :sauron: para descartar una condición :elven:.'
+  lore: El Señor Oscuro alberga un odio antiguo hacia los descendientes de Gil-Galad, y aquellos que marcharon con su hueste resplandeciente.

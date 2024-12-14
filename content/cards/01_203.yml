@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '203'
+unique: true
+culture: Wraith
+type: Event
+class: Response
+cost: 0
+en:
+  title: All Blades Perish
+  subtitle: ''
+  text: '**Response:** If a Nazgûl is about to take a wound, prevent that wound.'
+  lore: ‘…all blades perish that pierce that dreadful King. More deadly to him was the name of Elbereth.’
+de:
+  title: Alle Klingen vergehen
+  subtitle: ''
+  text: '**Reaktion:** Wenn ein Nazgûl verwundet wird, verhindere diese Wunde.'
+  lore: …alle Klingen, die diesen entsetzlichen König durchbohren, vergehen. Tödlicher für ihn war der Name Elbereth.
+fr:
+  title: Toutes les Lames Périssent
+  subtitle: ''
+  text: '**Réponse :** Si un Nazgûl est sur le point d’être blessé, empêchez cette blessure.'
+  lore: ‘…toutes les lames qui percent ce terrible Roi périssent. Le nom d'Elbereth lui fut plus mortel.’
+it:
+  title: Tutte le Lame Si Infrangono
+  subtitle: ''
+  text: '**Risposta:** Se un Nazgûl sta per essere ferito, previeni quella ferita.'
+  lore: ‘…tutte le lame che feriscono il corpo di quell'orrendo re vanno in frantumi. Più infausto per lui è stato il nome di Elbereth.’
+es:
+  title: Todas Las Hojas Perecen
+  subtitle: ''
+  text: '**Respuesta:** Si un Nazgûl va a recibir una herida, previene esa herida.'
+  lore: … Y las espadas que traspasan a ese rey terrible caen destruidas. Mas mortal fue para él el nombre de Elbereth.

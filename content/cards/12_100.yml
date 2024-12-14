@@ -1,0 +1,25 @@
+set: '12'
+rarity: R
+number: '100'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Rallying Orc
+  subtitle: ''
+  text: |-
+    **Lurker.** *(Skirmishes involving lurker minions must be resolved after any others.)*   
+    Each time you play another :orc: lurker at a battleground or underground site, you may make the Free Peoples player exert a companion.
+  lore: Orcs can spring from the shadows in surprising numbers.
+de:
+  title: Ork Rädelsführer
+  subtitle: ''
+  text: |-
+    **Schleicher.** *(Kämpfe mit Schleichern dürfen erst nach allen anderen abgehandelt werden.)*  
+    Jedes Mal, wenn du einen anderen :orc: Schleicher auf ein Schlachtfeld oderan einen unterirdischen Ort spielst, darfst du den Freie Völker Spieler zwingen, einen Gefährten anzustrengen.
+  lore: Orks springen in verblüffender Zahl aus den Schatten.

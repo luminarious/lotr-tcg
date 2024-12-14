@@ -1,0 +1,18 @@
+set: '12'
+rarity: R
+number: '175'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '11'
+vit: '4'
+site: 3
+en:
+  title: Úlairë Enquëa
+  subtitle: Black Threat
+  text: |-
+    **Fierce. Toil 1.** *(For each* :wraith: *character you exert when playing this, its twilight cost is –1.)*   
+    **Response:** If you are playing a :wraith: event that has toil X, exert Úlairë Enquëa to reduce that event’s twilight cost by X.
+  lore: ‘…the Shire is no longer any protection to you.’

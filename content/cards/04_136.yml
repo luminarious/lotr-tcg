@@ -1,0 +1,48 @@
+set: '4'
+rarity: U
+number: '136'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '10'
+vit: '3'
+site: 5
+en:
+  title: Advance Uruk Patrol
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    While at a battleground, this minion is **fierce.**   
+    While you control a battleground, this minion is strength +4. 
+  lore: ‘This is no rabble of mindless Orcs.’
+de:
+  title: Uruk Erkundungstrupp
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Auf einem Schlachtfeld ist dieser Diener **Erbittert.**  
+    Solange du ein Schlachtfeld kontrollierst, erhält dieser Diener Stärke +4.
+  lore: Das ist keine Bande dummer Orks.
+fr:
+  title: Patrouille Avancée Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    Tant qu’il se trouve à un champ de bataille, ce séide est **acharné.**  
+    Tant que vous contrôlez un champ de bataille, ce séide a +4 en force.
+  lore: 'Ceci n''est pas une meute d''Orques stupides.” '
+it:
+  title: Squadra d'Avanguardia Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    Mentre è presso un campo di battaglia, questo servitore è **Feroce.**  
+    Mentre controlli un campo di battaglia, aggiungi +4 alla forza di questo servitore.
+  lore: ‘Questa non è feccia di Orchi senza cervello.’
+es:
+  title: Patrulla Avanzada Uruk
+  subtitle: ''
+  text: '**Daño +1.** Mientras esté en un campo de batalla, este siervo es **fiero.** Mientras controles un campo de batalla, este siervo es fuerza +4.'
+  lore: Esta no es una chusma de orcos descerebrados.

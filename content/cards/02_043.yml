@@ -1,0 +1,42 @@
+set: '2'
+rarity: R
+number: '43'
+unique: true
+culture: Isengard
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Lurtz's Sword
+  subtitle: ''
+  text: |-
+    Bearer must be Lurtz.   
+    He is **damage +1** Each time Lurtz wins a skirmish, the Free Peoples player must discard the top 2 cards of his or her draw deck. 
+  lore: The Uruk giant laid down his bow and drew a broad-bladed weapon.
+de:
+  title: Lurtz' Schwert
+  subtitle: ''
+  text: |-
+    Muss auf Lurtz gespielt werden. Er erhält **Schaden +1.**  
+    Jedesmal, wenn Lurtz einen Kampf gewinnt, muss der Freie Völker Spieler die beiden obersten Karten von seinem Spieldeck ablegen.
+  lore: Der riesige Uruk ließ seinen Bogen fallen und zog ein Schwert mit breiter Klinge.
+fr:
+  title: L'Épée de Lurtz
+  subtitle: ''
+  text: |-
+    Le détenteur doit être Lurtz. Lurtz inflige des **dégâts +1.**  
+    Chaque fois que Lurtz gagne un combat, le joueur des Peuples Libres doit défausser les 2 premières cartes de sa pioche.
+  lore: L'énorme Ourouk posa son arc et dégaina une arme tranchante.
+it:
+  title: La Spada di Lurtz
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Lurtz. Egli ha **Danno +1.**  
+    Ogni volta che Lurtz vince una schermaglia, il giocatore dei Popoli Liberi deve scartare le prime 2 carte del suo mazzo di gioco.
+  lore: Il gigantesco Uruk-hai depose il suo arco ed estrasse una spada dalla lunga lama.
+es:
+  title: La espada de Lurtz
+  subtitle: ''
+  text: El portador debe ser Lurtz. Él es **Daño +1.** Cada vez que Lurtz gana una escaramuza, el jugador de Gentes Libres debe descartar las 2 cartas superiores de su mazo de robar.
+  lore: El gigantesco Uruk dejó su arco y desenvainó una espada de hoja ancha.

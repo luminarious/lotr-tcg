@@ -1,0 +1,25 @@
+set: '7'
+rarity: C
+number: '287'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Mordor Guard
+  subtitle: ''
+  text: |-
+    **Skirmish:** Exert 3 :sauron: Orcs to add 3 threats.   
+    When this minion is discarded, remove 3 threats.
+  lore: ''
+de:
+  title: Wächter Mordors
+  subtitle: ''
+  text: |-
+    **Kampf:** Strenge 3 :sauron: Orks an, um 3 Bedrohungen entstehen zu lassen.   
+    Entferne 3 Bedrohungen, wenn dieser Diener abgelegt wird.
+  lore: …das Heer von Mordor brach in ein Hohngeschrei aus.

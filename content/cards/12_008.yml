@@ -1,0 +1,33 @@
+set: '12'
+rarity: C
+number: '8'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: His Father’s Charge
+  subtitle: ''
+  text: '**Skirmish:** Discard this condition to make a Dwarf strength +1 for each of the following that is true: he is at a mountain or underground site; he has resistance 3 or more; he is bearing a possession; he is skirmishing a fierce minion.'
+  lore: A sharpened axe does well to protect Dwarven honor.
+de:
+  title: Das Erbe seiner Ahnen
+  subtitle: ''
+  text: '**Kampf:** Lege diesen Effekt ab, um einem Zwerg für jede folgende Bedingung, die gültig ist, Stärke +1 zu geben: er befindet sich an einem unterirdischen Ort oder in einem Gebirge; er hat Resistenz 3 oder mehr; er trägt eine Ausrüstung; er kämpft gegen einen erbitterten Diener.'
+  lore: ''
+fr:
+  title: His Father's Charge
+  subtitle: ''
+  text: '<b>Skirmish:</b> Discard this condition to make a Dwarf strength +1 for each of the following that is true: he is at a mountain or underground site; he has resistance 3 or more; he is bearing a possession; he is skirmishing a fierce minion.'
+  lore: A sharpened axe does well to protect Dwarven honor.
+it:
+  title: His Father's Charge
+  subtitle: ''
+  text: '<b>Skirmish:</b> Discard this condition to make a Dwarf strength +1 for each of the following that is true: he is at a mountain or underground site; he has resistance 3 or more; he is bearing a possession; he is skirmishing a fierce minion.'
+  lore: A sharpened axe does well to protect Dwarven honor.
+es:
+  title: His Father's Charge
+  subtitle: ''
+  text: '<b>Skirmish:</b> Discard this condition to make a Dwarf strength +1 for each of the following that is true: he is at a mountain or underground site; he has resistance 3 or more; he is bearing a possession; he is skirmishing a fierce minion.'
+  lore: A sharpened axe does well to protect Dwarven honor.

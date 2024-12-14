@@ -1,0 +1,37 @@
+set: '1'
+rarity: R
+number: '137'
+unique: true
+culture: Isengard
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Saruman's Reach
+  subtitle: ''
+  text: |-
+    **Search.**   
+    **Maneuver:** Exert an Uruk-hai to make the opponent choose to either exert 2 companions or make the Ring-bearer put on The One Ring until the regroup phase.
+  lore: Saruman used both magic and minions to impose his will.
+de:
+  title: Sarumans Griff
+  subtitle: ''
+  text: '**Suche.** **Manöver:** Strenge einen Uruk-hai an, um deinen Gegenspieler zu zwingen entweder 2 Gefährten anzustrengen oder den Ringträger den Einen Ring bis zur Sammelphase benutzen zu lassen.'
+  lore: Saruman benutzt sowohl Zauberkräfte als auch seine Diener, um der Welt seinen Willen aufzuzwingen.
+fr:
+  title: L'Emprise de Saroumane
+  subtitle: ''
+  text: '**Recherche.**'
+  lore: 'Man*uvre: Affaiblissez un Ourouk-Haï pour obliger l''adversaire à choisir soit d''affaiblir 2 compagnons, soit de faire mettre l''Anneau Unique au Porteur de l''Anneau jusqu''à la phase de ralliement.'
+it:
+  title: A Portata di Saruman
+  subtitle: ''
+  text: |-
+    **Ricerca.**  
+    **Manovra:** Sforza un Uruk-hai per far scegliere all’avversario o di sforzare 2 compagni o di far indossare L’Unico Anello al Portatore dell’Anello, fino alla fase di raccolta.
+  lore: Saruman usò sia la magia che i suoi servi per imporre la sua volontà.
+es:
+  title: El Alcance de Saruman
+  subtitle: ''
+  text: '**Búsqueda.** **Maniobra:** Esfuerza un Uruk-hai para hacer que el oponente elija o bien esforzar 2 compañeros o hacer que el Portador del Anillo se ponga El Anillo Único hasta la fase de reagrupación.'
+  lore: Saruman uso tanto magia como siervos para imponer su voluntad.

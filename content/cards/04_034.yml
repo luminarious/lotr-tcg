@@ -1,0 +1,39 @@
+set: '4'
+rarity: U
+number: '34'
+unique: true
+culture: Dunland
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Secret Folk
+  subtitle: ''
+  text: |-
+    Each time a companion or ally loses a skirmish involving a :dunland: Man, you may place a :dunland: token on this card.  
+    **Maneuver:** Discard a Free Peoples possession for each :dunland: token here (limit 3). Discard this condition. 
+  lore: ''
+de:
+  title: Ein heimliches Volk
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn ein Gefährte oder Verbündeter einen Kampf verliert, an dem ein :dunland: Mensch beteiligt war, darfst du eine :dunland: Marke auf diese Karte legen. **Manöver:** Lege eine Ausrüstungskarte der Freien Völker für jede :dunland: Marke hier ab (maximal 3). Lege diesen Effekt ab.'
+  lore: ''
+fr:
+  title: Peuple Secret
+  subtitle: ''
+  text: 'Chaque fois qu’un compagnon ou un allié perd un combat impliquant un Homme :dunland:, vous pouvez déposer un jeton :dunland: sur cette carte. **Manœuvre :** Défaussez une possession des Peuples Libres pour chaque jeton :dunland: qui se trouve ici (limite de 3). Défaussez cette situation.'
+  lore: ''
+it:
+  title: Popolo Segreto
+  subtitle: ''
+  text: |-
+    Ogni volta che un compagno o un alleato perde una schermaglia che coinvolga un Uomo :dunland:, puoi piazzare un segnalino :dunland: su questa carta.   
+    **Manovra:** Scarta un bene dei Popoli Liberi per ogni segnalino :dunland: qui presente (limite 3). Scarta questa condizione.
+  lore: ''
+es:
+  title: Pueblo Secreto
+  subtitle: ''
+  text: |-
+    Cada vez que un compañero o aliado pierde una escaramuza en la que participe un Hombre :dunland:, puedes poner un contador :dunland: en esta carta.   
+    **Maniobra:** Descarta una posesión de Gentes Libres por cada contador :dunland: puesto aquí (límite 3). Descarta esta conditión.
+  lore: ''

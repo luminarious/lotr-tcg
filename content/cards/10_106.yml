@@ -1,0 +1,18 @@
+set: '10'
+rarity: C
+number: '106'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Chance Observation
+  subtitle: ''
+  text: 'If there are 4 or more :shire: cards in your discard pile, make a Hobbit strength +1 for each Hobbit you can spot. '
+  lore: ‘…he thought he saw something shining in the river-bed; and holding his breath he grabbed at it.’
+de:
+  title: Zufällige Beobachtung
+  subtitle: ''
+  text: 'Gib einem Hobbit Stärke +1 für jeden Hobbit, den du entdecken kannst, wenn du 4 oder mehr :shire: Karten in deinem Ablagestapel hast.'
+  lore: … weil er im Flussbett etwas glitzern zu sehen glaubte; und er hielt die Luft an und griff hastig danach.

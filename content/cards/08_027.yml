@@ -1,0 +1,17 @@
+set: '8'
+rarity: R
+number: '27'
+unique: true
+culture: Gollum
+type: Companion
+cost: 0
+str: '3'
+vit: '4'
+signet: Signet_Frodo
+en:
+  title: Sméagol
+  subtitle: Slippery Sneak
+  text: |-
+    **Ring-bound.** To play, add a burden.   
+    **Skirmish:** Add a number of threats equal to the total vitality of the minions Sméagol is skirmishing to discard Sméagol. **Regroup:** Discard Sméagol to take a :gollum: minion from your discard pile into hand.
+  lore: ''

@@ -1,0 +1,22 @@
+set: '12'
+rarity: R
+number: '83'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: The Beckoning Shadow
+  subtitle: ''
+  text: |-
+    To play, exert an :orc: minion.   
+    If you can spot 5 burdens, and the Free Peoples player has no cards in his or her draw deck, the Ring-bearer is corrupted.
+  lore: Once more the desire to slip on the Ring came over Frodo; but this time it was stronger than before.
+de:
+  title: Verlockender Schatten
+  subtitle: ''
+  text: |-
+    Strenge einen :orc: Diener an, um diesen Effekt zu spielen.  
+    Wenn du 5 Lastmarken entdecken kannst und der Freie Völker Spieler keine Karten mehr in seinem Spieldeck hat, erliegt der Ringträger der Versuchung des Ringes.
+  lore: Wieder wurde Frodo von dem Wunsch befallen, den Ring aufzustreifen, der aber stärker war als vorher.

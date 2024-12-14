@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '246'
+unique: true
+culture: Sauron
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Enduring Evil
+  subtitle: ''
+  text: '**Skirmish:** Spot X burdens to make a character skirmishing a :sauron: Orc strength -X.'
+  lore: ‘The Dark Tower was broken, but its foundations were not removed; for they were made with the power of the Ring, and while it remains they will endure.’
+de:
+  title: Andauerndes Übel
+  subtitle: ''
+  text: '**Kampf** Entdecke X Lastmarken, um einem Charakter, der gegen einen :sauron: Ork kämpft, Stärke -X zu geben.'
+  lore: Der Schwarze Turm war geschleift, doch seine Grundmauern standen noch; denn sie waren mit der Macht des Ringes gebaut worden, und solange er da ist, bleiben sie erhalten.
+fr:
+  title: Mal Persistant
+  subtitle: ''
+  text: '**Combat :** Désignez X points-fardeau pour donner à un personnage combattant un Orque :sauron: -X en force.'
+  lore: ‘La Tour Sombre était démolie, mais les fondations n'en étaient pas effacées ; car elles avaient été faites par le pouvoir de l'Anneau et tant qu'il restera, elles demeureront.’
+it:
+  title: Male Durevole
+  subtitle: ''
+  text: '**Schermaglia:** Avvista X segnalini fardello per sottrarre -X alla forza di un personaggio che stia schermagliando con un Orco :sauron:.'
+  lore: ‘La Torre Oscura fu demolita, ma le sue fondamenta rimasero perché furono costruite col potere dell'Anello e scompariranno soltanto con esso.’
+es:
+  title: Mal Duradero
+  subtitle: ''
+  text: '**Escaramuza:** Avista X cargas para hacer que un personaje en una escaramuza contra un Orco :sauron: sea fuerza -X.'
+  lore: La Torre Oscura fue demolida, pero quedaron los cimientos; pues habían sido puestos con el poder del Anillo, y mientras haya Anillo nada podrá desenterrarlos.

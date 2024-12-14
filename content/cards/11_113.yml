@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '113'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Cutthroat Orc
+  subtitle: ''
+  text: 'This minion is strength +1 for each companion who has resistance 5 or less. '
+  lore: The smell of human flesh is often enough to frenzy an Orc warrior.
+de:
+  title: Mörderischer Ork
+  subtitle: ''
+  text: Dieser Diener erhält Stärke +1 für jeden Gefährten mit Resistenz 5 oder weniger.
+  lore: Der Geruch von Menschenfleisch reicht aus, um einen Ork in den Blutrausch zu treiben.

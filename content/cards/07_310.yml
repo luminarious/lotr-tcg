@@ -1,0 +1,24 @@
+set: '7'
+rarity: U
+number: '310'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Sauron's Hatred
+  subtitle: ''
+  text: |-
+    To play, spot a :sauron: Orc.   
+    **Shadow:** Remove a threat to play a :sauron: Orc without paying any roaming penalty.   
+    **Regroup:** Spot a :sauron: Orc and remove :twilight4: to add a threat.
+  lore: ''
+de:
+  title: Saurons Hass
+  subtitle: ''
+  text: |-
+    Entdecke einen :sauron: Ork, um diesen Effekt zu spielen.   
+    **Schatten:** Entferne eine Bedrohung, um einen :sauron: Ork ohne Strafkosten für wandernde Diener auszuspielen.   
+    **Sammeln:** Entdecke einen :sauron: Ork und verringere den Einfluss um :twilight4:, um eine Bedrohung entstehen zu lassen.
+  lore: ''

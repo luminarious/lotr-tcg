@@ -1,0 +1,19 @@
+set: '7'
+rarity: U
+number: '15'
+unique: true
+culture: Elven
+type: Condition
+cost: 2
+en:
+  title: Ancient Blade
+  subtitle: ''
+  text: |-
+    Bearer must be an :elven: companion.   
+    Each minion gains this ability: “**Assignment:** Assign this minion to bearer of Ancient Blade.” **Regroup:** Discard this condition to discard a minion and reconcile your hand.
+  lore: ''
+de:
+  title: Alte Klinge
+  subtitle: ''
+  text: 'Muss auf einen :elven: Gefährten gespielt werden. Alle Diener erhalten: "**Zuweisung:** Weise diesen Diener, dem Träger der Alten Klinge zu.". **Sammeln:** Lege diesen Effekt ab, um einen Diener abzulegen und deine Handkarten wieder aufzufüllen.'
+  lore: ''

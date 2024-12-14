@@ -1,0 +1,16 @@
+set: '15'
+rarity: C
+number: '28'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 4
+str: '6'
+vit: '4'
+res: '6'
+en:
+  title: Ent Avenger
+  subtitle: ''
+  text: While you can spot 3 Ents, this companion is strength +2.
+  lore: As they drew near the flash and flicker of their eyes could be seen.

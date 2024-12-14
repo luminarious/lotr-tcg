@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '73'
+unique: true
+culture: Gollum
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Sneaking!
+  subtitle: ''
+  text: |-
+    **Stealth.**   
+    Heal Sméagol (or cancel Sméagol’s skirmish if he has more vitality than the minion or minions he is skirmishing).
+  lore: ''
+de:
+  title: Schnüffeln!
+  subtitle: ''
+  text: |-
+    **Heimlichkeit.**   
+    Heile Sméagol (oder hebe Sméagols Kampf auf, falls er mehr Lebenspunkte hat, als alle Diener gegen die er kämpft).
+  lore: Was hast du getrieben?

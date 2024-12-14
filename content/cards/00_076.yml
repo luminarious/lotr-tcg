@@ -1,0 +1,20 @@
+set: '0'
+rarity: P
+number: '76'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Spurred to Battle
+  subtitle: ''
+  text: |-
+    To play, exert an :orc: minion.   
+    At the start of the Shadow phase, add :twilight1:.
+  lore: Even victory does not long slake the Orkish thirst for blood. It merely drives them onward to a new confrontation.
+de:
+  title: In die Schlacht getrieben
+  subtitle: ''
+  text: 'Strenge einen :orc: Diener an, um diese Karte zu spielen. Erhöhe den Einfluss zu Beginn der Schattenphase um :twilight1:.'
+  lore: Kein Sieg löscht den Blutdurst der Orks. Er treibt sie nur zu neuen Schlachten.

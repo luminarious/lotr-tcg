@@ -1,0 +1,19 @@
+set: '17'
+rarity: S
+number: '33'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '6'
+vit: '3'
+res: '5'
+en:
+  title: Ranger of the White Tree
+  subtitle: ''
+  text: |-
+    **Ranger. Hunter 1.**  
+    When this is in your starting fellowship and you can spot an unbound :gondor: companion with cost 3 or more, his twilight cost is -2.  
+    **Maneuver:** Exert this companion and spot a roaming minion to make him **defender +1** until the start of the regroup phase.
+  lore: ''

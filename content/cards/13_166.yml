@@ -1,0 +1,20 @@
+set: '13'
+rarity: U
+number: '166'
+unique: true
+culture: Uruk-hai
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: New Enemy
+  subtitle: ''
+  text: |-
+    You may remove from the game 4 :urukhai: cards in your discard pile instead of paying the twilight cost for this card.  
+    Make your :urukhai: minion skirmishing a companion with resistance 4 or less strength +2.
+  lore: …goblin-soldiers of greater stature.
+de:
+  title: Ein neuer Feind
+  subtitle: ''
+  text: 'Du darfst 4 :urukhai: Karten aus deinem Ablagestapel ganz aus dem Spiel ent-fernen, anstatt die Kosten für diese Karte zu zahlen. Gib einem deiner :urukhai: Diener, der gegen einen Gefährten mit Resistenz 4 oder weniger kämpft, Stärke +2.'
+  lore: …Bilwiß-Krieger von größerer Gestalt….

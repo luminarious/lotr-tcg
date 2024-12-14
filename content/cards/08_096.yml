@@ -1,0 +1,19 @@
+set: '8'
+rarity: R
+number: '96'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 5
+str: '12'
+vit: '3'
+site: 5
+en:
+  title: Gorgoroth Berserker
+  subtitle: ''
+  text: |-
+    **Besieger.** **Enduring.**   
+    To play, spot a :sauron: Orc.   
+    **Maneuver:** If you have initiative, exert Gorgoroth Berserker twice to take control a site. **Maneuver:** Remove a threat and exert Gorgoroth Berserker twice to take control a site.
+  lore: …and wielded heavy hammers in their knotted hands.

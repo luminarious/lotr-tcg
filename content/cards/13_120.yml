@@ -1,0 +1,22 @@
+set: '13'
+rarity: C
+number: '120'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Unforgiving Depths
+  subtitle: ''
+  text: |-
+    While you can spot 3 underground sites, each :orc: Orc gains **muster**.  
+    **Shadow:** Discard this condition from play and spot an :orc: minion to replace the fellowship’s current site with an underground site from your adventure deck.
+  lore: ''
+de:
+  title: Erbarmungslose Tiefen
+  subtitle: ''
+  text: |-
+    Solange du 3 unterirdische Orte ent-decken kannst, erhalten alle :orc: Orks **Appell.  
+    Schatten:** Lege diesen Effekt ab und entdecke einen :orc: Diener, um den Ort an dem sich die Gemeinschaft befindet, durch einen unterirdischen Ort aus deinem Abenteuerdeck zu ersetzen.
+  lore: ''

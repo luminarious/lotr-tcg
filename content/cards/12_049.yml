@@ -1,0 +1,26 @@
+set: '12'
+rarity: U
+number: '49'
+unique: true
+culture: Gondor
+type: Possession
+class: Mount
+cost: 1
+str: '+1'
+res: '+1'
+en:
+  title: Gondorian Steed
+  subtitle: ''
+  text: |-
+    Bearer must be a knight.   
+    Bearer is **damage +1**.   
+    Each time the fellowship moves from a mountain site, add :twilight2:.
+  lore: A skilled cavalry augments Minas Tirith’s mighty defenses.
+de:
+  title: Gondorross
+  subtitle: ''
+  text: |-
+    Muss auf einen Ritter gespielt werden.  
+    Er erhält **Schaden +1**.  
+    Erhöhe den Einfluss jedes Mal um :twilight2: wenn sich die Gemeinschaft von einem Gebirge fortbewegt.
+  lore: Eine gut ausgebildete Kavallerie verstärkt die Verteidigungsanlagen von Minas Tirith.

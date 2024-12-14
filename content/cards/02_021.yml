@@ -1,0 +1,18 @@
+set: '2'
+rarity: C
+number: '21'
+unique: true
+culture: Gandalf
+type: Ally
+race: Man
+cost: 2
+str: '5'
+vit: '2'
+site: '3'
+en:
+  title: Erland
+  subtitle: Advisor to Brand
+  text: |-
+    To play, spot Gandalf.   
+    Shadow players may not look at or reveal cards in your hand. 
+  lore: ‘They are good folk the Bardings. The grandson of Bard the Bowman rules them, Brand son of Bain son of Bard.’

@@ -1,0 +1,21 @@
+set: '13'
+rarity: C
+number: '77'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '5'
+en:
+  title: Tradesman From Lebennin
+  subtitle: ''
+  text: 'At the start of each fellowship phase, you may add :twilight2: to reinforce a :gondor: token.'
+  lore: Fearful of the spreading Shadow, many from southern Gondor sought refuge behind the walls of Minas Tirith.
+de:
+  title: Händler aus Lebennin
+  subtitle: ''
+  text: 'Zu Beginn jeder Gemeinschaftsphase darfst du den Einfluss um :twilight2: erhöhen, um eine :gondor: Marke zu ergänzen.'
+  lore: Aus Angst vor dem sich ausbreitenden Schatten suchten viele Menschen aus Südgondor Zuflucht in Minas Tirith.

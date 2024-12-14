@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '347'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Right
+en:
+  title: Moria Stairway
+  subtitle: ''
+  text: '**Underground.** Each companion and minion bearing a hand weapon is **damage +1**.'
+  lore: ''
+de:
+  title: Die Treppen von Moria
+  subtitle: ''
+  text: '**Unterirdisch.** Alle Gefährten und Diener, die eine Handwaffe haben, erhalten **Schaden +1.** '
+  lore: ''
+fr:
+  title: Escalier de la Moria
+  subtitle: ''
+  text: '**Souterrain.** Chaque compagnon et séide portant une arme de mêlée inflige des **dégâts +1.** '
+  lore: ''
+it:
+  title: Le Scale di Moria
+  subtitle: ''
+  text: 'Sotteraneo. Ogni compagno e servitore che trasporti un’arma da mischia ha **Danno +1.** '
+  lore: ''
+es:
+  title: Escalera de Moria
+  subtitle: ''
+  text: '**Subterráneo.** Cada compañero y siervo que lleve un arma de mano es **Daño +1.** '
+  lore: ''

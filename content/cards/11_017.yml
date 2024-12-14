@@ -1,0 +1,22 @@
+set: '11'
+rarity: R
+number: '17'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 6
+en:
+  title: Elven Marksmanship
+  subtitle: ''
+  text: |-
+    To play, spot an Elf. **Toil 2.** (For each :elven: character you exert when playing this, its twilight cost is –2.)  
+    **Archery:** Discard this condition to make the fellowship archery total +2. 
+  lore: Sighted by keen vision and loosed with blinding swiftness, Elven arrows rarely miss their targets
+de:
+  title: Elbische Treffsicherheit
+  subtitle: ''
+  text: |-
+    Entdecke einen Elben um diese Karte zu spielen. **Mühe 2.   
+    Fernkampf:** Lege diesen Effekt ab, um den Fernkampfwert der Gemeinschaft um 2 zu erhöhen.
+  lore: Gut gezielt und schnell geschossen, verfehlen die Pfeile der Elben selten ihr Ziel.

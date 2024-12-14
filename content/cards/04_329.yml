@@ -1,0 +1,32 @@
+set: '4'
+rarity: U
+number: '329'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Western Emyn Muil
+  subtitle: ''
+  text: 'When the Fellowship moves from Western Emyn Muil, each Ring-bound companion must exert. '
+  lore: ''
+de:
+  title: Westlicher Emyn Muil
+  subtitle: ''
+  text: Wenn sich die Gemeinschaft aus dem westlichen Emyn Muil fort-bewegt, muss jeder Ring-verbundene Gefährte angestrengt werden.
+  lore: ''
+fr:
+  title: Emyn Muil Occidental
+  subtitle: ''
+  text: Lorsque la compagnie quitte Emyn Muil Occidental, vous devez affaiblir chaque compagnon **Associé à l’Anneau.**
+  lore: ''
+it:
+  title: Emyn Muil Occidentale
+  subtitle: ''
+  text: Quando la Compagnia si muove da Emyn Muil Occidentale, ogni compagno Legato all’Anello deve sforzarsi.
+  lore: ''
+es:
+  title: Emyn Muil Occidental
+  subtitle: ''
+  text: Cuando la comunidad se mueve de Emyn Muil Occidental, cada compañero Vinculado al Anillo debe esforzarse.
+  lore: ''

@@ -1,0 +1,18 @@
+set: '15'
+rarity: R
+number: '30'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 7
+str: '8'
+vit: '4'
+res: '6'
+en:
+  title: Leaflock
+  subtitle: Finglas
+  text: |-
+    Leaflock’s twilight cost is -1 for each Ent you can spot.  
+    While you can spot 3 other Ents, Leaflock is strength +4.
+  lore: When roused to action, little could stop the destructive power of the Ents.

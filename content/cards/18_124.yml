@@ -1,0 +1,18 @@
+set: '18'
+rarity: C
+number: '124'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: White Hand Attacker
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    While at a battleground, this minion is strength +2.
+  lore: The Uruk-hai army stopped and growled in anticipation of the upcoming battle.

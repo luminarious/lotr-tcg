@@ -1,0 +1,18 @@
+set: '15'
+rarity: O
+number: '201'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '12'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Attëa
+  subtitle: Desirous of Power
+  text: |-
+    **Fierce.**  
+    Úlairë Attëa is strength +1 for every 3 twilight tokens you can spot.
+  lore: The Nazgûl were strongest, and most terrifying, at night.

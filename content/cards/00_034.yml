@@ -1,0 +1,20 @@
+set: '0'
+rarity: W
+number: '34'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Gimli
+  subtitle: Sprinter
+  text: |-
+    **Damage + 1.** **Hunter 1** (While skirmishing a non-hunter character, this character is strength +1.)  
+    Each time Gimli wins a skirmish, you may add a threat to wound a minion (or wound a hunter minion twice).
+  lore: |-
+    Hunters Design-a-Card contest entry  
+    Submitted by "Bjearid

@@ -1,0 +1,35 @@
+set: '4'
+rarity: C
+number: '2'
+unique: true
+culture: ''
+type: Ring
+en:
+  title: The One Ring
+  subtitle: The Ruling Ring
+  text: |-
+    **Response:** If bearer is about to take a wound in a skirmish, he wears The One Ring until the regroup phase.   
+    While wearing The One Ring, each time the Ring-bearer is about to take a wound during a skirmish, add a burden instead. 
+  lore: One Ring to rule them all….
+de:
+  title: Der Eine Ring
+  subtitle: Der Meisterring
+  text: '**Reaktion:** Wenn der Ringträger im Begriff ist, im Kampf eine Wunde zu erleiden, kann er den Ring bis zur Sammelphase benutzen. Solange er den Ring benutzt, erhält der Ringträger für jede Wunde, die ihm im Kampf zugefügt wird, statt dessen 1 Lastmarke.'
+  lore: Ein Ring, sie zu knechten…
+fr:
+  title: L'Anneau Unique
+  subtitle: L'Anneau Souverain
+  text: '**Réponse :** Si le détenteur est sur le point de se faire blesser en combat, il met l’Anneau Unique jusqu’à la phase de ralliement. Tant qu’il a l’Anneau Unique au doigt, chaque fois que le Porteur de l’Anneau est sur le point de se faire blesser pendant un point-fardeau.'
+  lore: combat, ajoutez plutôt un point-fardeau. “Un Anneau pour les gouverner tous….
+it:
+  title: L'Unico Anello
+  subtitle: L'Anello Dominante
+  text: |-
+    **Risposta:** Se il possessore sta per essere ferito in una schermaglia, indossa L’Unico Anello fino alla fase di raccolta.  
+    Finché indossa L’Unico Anello, ogni volta che il Portatore dell’Anello subirebbe una ferita durante una schermaglia, aggiungi invece 1
+  lore: Un Anello per domarli…
+es:
+  title: El Anillo Único
+  subtitle: El Anillo Soberano
+  text: '**Respuesta:** Si el portador va a recibir una herida en una escaramuza, se pone El Anillo Único hasta la fase de reagrupación. Mientras lleve El Anillo Único puesto, cada vez que el Portador del Anillo vaya a recibir una herida en una escaramuza, en vez de e'
+  lore: Un Anillo para gobernarlos a todos…

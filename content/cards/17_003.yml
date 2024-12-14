@@ -1,0 +1,13 @@
+set: '17'
+rarity: U
+number: '3'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Dwarven Stratagem
+  subtitle: ''
+  text: 'Spot a Dwarf hunter and choose one: exert a minion for each hunter you can spot or reinforce a :dwarven: token for each hunter you can spot.'
+  lore: Always well armed, a Dwarf has many options in battle.

@@ -1,0 +1,22 @@
+set: '12'
+rarity: C
+number: '6'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Dwarven Skill
+  subtitle: ''
+  text: |-
+    **Toil 2.** *(For each* :dwarven: *character you exert when playing this, its twilight cost is –2.)*   
+    **Skirmish:** Discard this condition to make a Dwarf strength +3 (or +4 if he has resistance 4 or more).
+  lore: Gimli’s axe-work on the Amon Hen hewed a mighty path through the Uruk-hai.
+de:
+  title: Zwergisches Geschick
+  subtitle: ''
+  text: |-
+    **Mühe 2.** *(Für jeden* :dwarven: *Charakter, den du beim Ausspielen dieser Karte anstrengst, reduzieren sich deren Kosten um 2.)*  
+    **Kampf:** Lege diesen Effekt ab, um einem Zwerg Stärke +3 zu geben (oder Stärke +4, wenn er Resistenz 4 oder mehr hat).
+  lore: Gimlis Axt hieb eine Schneise durch die Uruk-hai.

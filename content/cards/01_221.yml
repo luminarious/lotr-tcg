@@ -1,0 +1,42 @@
+set: '1'
+rarity: R
+number: '221'
+unique: true
+culture: Wraith
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+3'
+en:
+  title: The Pale Blade
+  subtitle: ''
+  text: |-
+    Bearer must be The Witch-king.   
+    He is **damage +1.** **Response:** If The Witch-king wins a skirmish, exert him to discard a Free Peoples condition.
+  lore: In his wretched grip, the Captain raised a Pale Sword.
+de:
+  title: Die Bleiche Klinge
+  subtitle: ''
+  text: |-
+    Muss auf den Hexenkönig gespielt werden. Er erhält **Schaden +1.**  
+    **Reaktion:** Wenn der Hexenkönig einen Kampf gewinnt, strenge ihn an, um einen Effekt der Freien Völker abzulegen.
+  lore: In seiner elenden Hand erhob der Anführer ein bleiches Schwert.
+fr:
+  title: L'Épée Blême
+  subtitle: ''
+  text: |-
+    Le détenteur doit être le Roi-Sorcier. Il inflige des **dégâts +1.**  
+    **Réponse :** Si le Roi-Sorcier remporte un combat, affaiblissez-le pour défausser une situation des Peuples Libres.
+  lore: Dans sa misérable poigne, le Capitaine tenait une Épée Blême.
+it:
+  title: La Pallida Lama
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Il Re Stregone. **Danno +1.**  
+    **Risposta:** Se Il Re Stregone vince una schermaglia, sforzalo per scartare una condizione dei Popoli Liberi.
+  lore: Con la sua miserabile stretta, il Capitano sollevò la Pallida Spada.
+es:
+  title: La Espada Pálida
+  subtitle: ''
+  text: El portador debe ser El Rey Brujo. Él es **daño +1.** **Respuesta:** Si el Rey Brujo gana una escaramuza, esfuérzalo para descartar una condición de Gentes Libres.
+  lore: Con su penoso agarre, el Capitán levantó una Espada Pálida.

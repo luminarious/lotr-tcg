@@ -1,0 +1,18 @@
+set: '12'
+rarity: S
+number: '190'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Right
+en:
+  title: Northern Pelennor
+  subtitle: ''
+  text: '**Battleground. Plains. Shadow:** Make your lurker minion lose **lurker** until the regroup phase.'
+  lore: ''
+de:
+  title: Nördlicher Pelennor
+  subtitle: ''
+  text: '**Schlachtfeld. Ebene. Schatten:** Einer deiner Schleicher-Diener verliert seine Schleicher-Fähigkeit bis zur Sammelphase.'
+  lore: ''

@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '35'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 3
+en:
+  title: Fool's Hope
+  subtitle: ''
+  text: Spot Gandalf and discard 2 cards from hand to make an opponent discard all but 2 Shadow conditions.
+  lore: ‘There never was much hope….’
+de:
+  title: Die Hoffnung eines Narren
+  subtitle: ''
+  text: Entdecke Gandalf und lege 2 Karten aus deiner Hand ab, um einen Gegenspieler zu zwingen, alle Schatteneffekte bis auf 2 abzulegen.
+  lore: Es gab nie viel Hoffnung….

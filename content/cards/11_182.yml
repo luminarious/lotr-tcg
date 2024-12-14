@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '182'
+unique: true
+culture: Uruk-hai
+type: Event
+class: Response
+cost: 1
+en:
+  title: Devastation
+  subtitle: ''
+  text: 'If your :urukhai: minion wins a skirmish, discard a condition from play.'
+  lore: The villages hold nothing of value to the Uruk-hai; they are simply things to be destroyed.
+de:
+  title: Verwüstung
+  subtitle: ''
+  text: 'Wenn dein :urukhai: Diener einen Kampf gewinnt, lege einen Effekt aus dem Spiel ab.'
+  lore: Ein Dorf hat keinen Wert für die Uruk-hai, es ist einfach zum Zerstören da.

@@ -1,0 +1,33 @@
+set: '6'
+rarity: C
+number: '111'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Kept Safe
+  subtitle: ''
+  text: 'When you play this condition, place 2 :shire: tokens here. **Response:** If an unbound Hobbit is about to take a wound, discard this condition or remove a :shire: token from here to prevent that wound.'
+  lore: ''
+de:
+  title: Sicher verwahrt
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Lege 2 :shire: Marken auf diesen Effekt, wenn du ihn spielst. **Reaktion:** Entferne eine :shire: Marke von dieser Karte oder lege diesen Effekt ab, wenn ein nicht-verbundener Hobbit eine Wunde erleidet, um diese zu verhindern.'
+  lore: ''
+fr:
+  title: Gardé en Sûreté
+  subtitle: ''
+  text: 'Quand vous jouez cette situation, déposez 2 jetons :shire: ici. **Réponse :** Si un Hobbit dissocié est sur le point d’être blessé, défaussez cette situation ou retirez 1 jeton :shire: de cette carte pour prévenir cette blessure.'
+  lore: ''
+it:
+  title: Tenuto al Sicuro
+  subtitle: ''
+  text: 'Quando giochi questa condizione, piazza qui 2 segnalini :shire:. **Risposta:** Se un Hobbit Non Legato sta per subire una ferita, scarta questa condizione o rimuovi da qui un segnalino :shire: per prevenire quella ferita.'
+  lore: ''
+es:
+  title: A buen recaudo
+  subtitle: ''
+  text: 'Cuando juegas esta condición, coloca 2 contadores :shire: aquí. **Respuesta:** Si un Hobbit no-vinculado va a recibir una herida, descarta esta condición o quita un contador :shire: de aquí para prevenir esa herida.'
+  lore: ''

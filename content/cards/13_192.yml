@@ -1,0 +1,18 @@
+set: '13'
+rarity: S
+number: '192'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Left
+en:
+  title: The Great Gates
+  subtitle: ''
+  text: '**Battleground.** While a player can spot more companions than minions, each minion is strength +1.'
+  lore: ''
+de:
+  title: Das Große Tor
+  subtitle: ''
+  text: '**Schlachtfeld.** Jeder Diener erhält Stärke +1, solange ein Spieler mehr Gefährten als Diener entdecken kann.'
+  lore: ''

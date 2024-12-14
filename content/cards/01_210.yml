@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '210'
+unique: true
+culture: Wraith
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Dark Whispers
+  subtitle: ''
+  text: '**Skirmish:** Spot 3 burdens to make a Nazgûl strength +1 and **damage +1,** or spot 6 burdens to make a Nazgûl strength +3 and **damage +2.**'
+  lore: ‘The Ring… The Ring… The Ring….’
+de:
+  title: Dunkles Geflüster
+  subtitle: ''
+  text: '**Kampf** Entdecke 3 Lastmarken, um einem Nazgûl Stärke +1 und **Schaden +1** zu geben, oder entdecke 6 Lastmarken, um einem Nazgûl Stärke +3 und **Schaden +2** zu geben.'
+  lore: Der Ring…der Ring…der Ring…
+fr:
+  title: Sombres Murmures
+  subtitle: ''
+  text: '**Combat :** Désignez 3 points-fardeau pour donner à un Nazgûl +1 en force et des **dégâts +1**, ou désignez 6 points-fardeau pour donner à un Nazgûl +3 en force et des **dégâts +2**.'
+  lore: ‘L'Anneau … L'Anneau … L'Anneau…. ‘
+it:
+  title: Sussurri Oscuri
+  subtitle: ''
+  text: '**Schermaglia:** Avvista 3 segnalini fardello per aggiungere +1 alla forza di un Nazgûl e **Danno +1**, o avvista 6 segnalini fardello per aggiungere +3 alla forza di un Nazgûl **Danno +2.**'
+  lore: ‘L'Anello… L'Anello… L'Anello….’
+es:
+  title: Susurros Oscuros
+  subtitle: ''
+  text: '**Escaramuza:** Avista 3 cargas para dar a un Nazgûl fuerza +1 y **daño +1**, o avista 6 cargas para dar a un Nazgûl fuerza +3 y **daño +2.**'
+  lore: El Anillo… El Anillo… El Anillo…

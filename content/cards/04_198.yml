@@ -1,0 +1,44 @@
+set: '4'
+rarity: C
+number: '198'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Uruk Stormer
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    Each time a companion or ally is killed during a skirmish involving an Uruk-hai, you may take control of a site. 
+  lore: They wavered, broke, and fled back; and then charged again, broke and charged again; and each time, like the incoming sea, they halted at a higher point.
+de:
+  title: Uruk Angreifer
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Jedes Mal, wenn ein Gefährte oder Verbündeter in einem Kampf getötet wird, an dem ein Uruk-hai beteiligt ist, darfst du einen Ort kontrollieren.
+  lore: Sie wankten, wichen zurück und griffen wieder an; und wie das heranwogende Meer hielten sie jedes Mal an einem höheren Punkt an.
+fr:
+  title: Assaillant Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    Chaque fois qu’un compagnon ou un allié est tué pendant un combat qui implique un Ourouk-Haï, vous pouvez prendre le contrôle d’un site.
+  lore: 'Ils fléchirent, se débandèrent et s''enfuirent; ils chargèrent encore et se débandèrent à plusieurs reprises; et chaque fois, comme la marée montante, ils s''arrêtaient en un point plus élevé. '
+it:
+  title: Assaltatore Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    Ogni volta che un compagno o un alleato è ucciso durante una schermaglia che coinvolga un Uruk-hai, puoi prendere il controllo di un sito.
+  lore: ‘Vacillarono, ruppero le linee e fuggirono; ma tosto ricominciò la carica, lo scompiglio e di nuovo la carica; ogni volta, come l'alta marea, guadagnavano terreno.’
+es:
+  title: Agitador Uruk
+  subtitle: ''
+  text: '**Daño +1.** Cada vez que un compañero o aliado muere durante una escaramuza en la que participe un Uruk-hai, puedes tomar el control de un sitio.'
+  lore: Sorprendidos, las criaturas titubearon, se desbandaron y emprendieron la fuga; pero en seguida volvieron a la carga, dispersándose y atacando de nuevo, y cada vez, como una marea creciente, se detenían en un punto más elevado.

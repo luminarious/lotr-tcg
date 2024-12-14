@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '254'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Right
+en:
+  title: Pelennor Flat
+  subtitle: ''
+  text: '**Plains.** At the start of the maneuver phase, the Free Peoples player must add a burden or discard 3 cards from hand. '
+  lore: ''
+de:
+  title: Ebene des Pelennor
+  subtitle: ''
+  text: '**Ebene.** Zu Beginn der Manöverphase muss der Freie Völker Spieler eine Lastmarke auf den Ringträger legen oder 3 Karten aus der Hand ablegen.'
+  lore: ''

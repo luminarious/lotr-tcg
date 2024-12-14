@@ -1,0 +1,18 @@
+set: '10'
+rarity: C
+number: '61'
+unique: true
+culture: Wraith
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Houses of Lamentation
+  subtitle: ''
+  text: 'Make a :wraith: minion strength +2 (or +4 if skirmishing a companion of the same culture as a card in the dead pile).'
+  lore: ‘…thy shrivelled mind be left naked to the Lidless Eye.’
+de:
+  title: Klagehäuser
+  subtitle: ''
+  text: 'Gib einem :wraith: Diener Stärke +2 (oder Stärke +4, wenn er gegen einen Gefährten derselben Kultur einer Karte im Friedhof kämpft).'
+  lore: … wo… deine verdorrte Seele nackt dem Lidlosen Auge überlassen werden soll.

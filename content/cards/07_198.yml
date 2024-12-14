@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '198'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '1'
+site: 4
+en:
+  title: Morgul Ruffian
+  subtitle: ''
+  text: While you can spot a Nazgûl, this minion may only take wounds during skirmish phases.
+  lore: …while the less stout-hearted quailed and wept.
+de:
+  title: Morgul Raufbold
+  subtitle: ''
+  text: Solange du einen Nazgûl entdecken kannst, kann dieser Diener Wunden nur in Kampfphasen erleiden.
+  lore: …während die weniger Beherzten zitterten und weinten.

@@ -1,0 +1,13 @@
+set: '18'
+rarity: C
+number: '117'
+unique: true
+culture: Uruk-hai
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Ghastly Wound
+  subtitle: ''
+  text: 'Make an :urukhai: minion strength +2 and **damage +1**.'
+  lore: That force of ten-thousand Uruk-hai was designed for the downfall of Man - and all those that allied with them.

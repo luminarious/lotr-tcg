@@ -1,0 +1,35 @@
+set: '3'
+rarity: R
+number: '54'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 4
+en:
+  title: Hollowing of Isengard
+  subtitle: ''
+  text: |-
+    To play, spot an :isengard: Orc.   
+    **Shadow:** Discard this condition to add :twilight3:. 
+  lore: ‘Rip them all down!’
+de:
+  title: Die Gruben von Isengart
+  subtitle: ''
+  text: 'Entdecke einen :isengard: Ork, um diese Karte in deinen Unterstützungsbereich zu spielen. **Schatten:** Lege diesen Effekt ab, um den Einfluss um :twilight3: zu erhöhen.'
+  lore: Reißt alle Bäume heraus!
+fr:
+  title: L'Excavation de l'Isengard
+  subtitle: ''
+  text: 'Pour jouer, désignez un Orque :isengard:. Ombre : Défaussez cette situation pour ajouter :twilight3:.'
+  lore: 'Arrachez-les tous!” '
+it:
+  title: Voragine di Isengard
+  subtitle: ''
+  text: Per giocarla, avvista un Orco :isengard:. **Ombra:** Scarta questa condizione per aggiungere :twilight3:.
+  lore: ‘Sradicateli tutti!’
+es:
+  title: Horadamiento de Isengard
+  subtitle: ''
+  text: Para jugarla, avista un Orco :isengard:. **Sombra:** Descarta esta condición para añadir :twilight3:.
+  lore: Derribadlos todos!

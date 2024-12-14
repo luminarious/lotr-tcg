@@ -1,0 +1,13 @@
+set: '15'
+rarity: S
+number: '194'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Left
+en:
+  title: Westfold Village
+  subtitle: ''
+  text: '**Plains.** Each hunter character is strength +1.'
+  lore: ''

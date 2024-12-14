@@ -1,0 +1,29 @@
+set: '1'
+rarity: R
+number: '124'
+unique: true
+culture: Isengard
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Cruel Caradhras
+  subtitle: ''
+  text: |-
+    **Spell.** **Weather.**   
+    **Maneuver:** Exert a :isengard: minion to make the opponent choose to either exert the Ring-bearer or add a burden.
+  lore: ‘Yonder stands Barazinbar, the Redhorn, cruel Caradhras….’
+de:
+  title: Grausamer Caradhras
+  subtitle: ''
+  text: |-
+    **Zauberspruch.** **Wetter.**  
+    **Manöver:** Strenge einen :isengard: Diener an, um den Freie Völker Spieler zu zwingen, entweder den Ringträger anzustrengen oder eine Lastmarke auf ihn zu legen.
+  lore: Dort drüben erhebt sich Barazinbar, das Rothorn, der grausame Caradhras…
+it:
+  title: Crudele Caradhras
+  subtitle: ''
+  text: |-
+    **Magia.** **Atmosferica.**  
+    **Manovra:** Sforza un servitore :isengard: per far scegliere all’avversario di sforzare il Portatore dell’Anello o di aggiungere un segnalino fardello.
+  lore: ‘Laggiù si erge Barazinbar, il Cornorosso, il crudele Caradhras….’

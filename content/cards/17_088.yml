@@ -1,0 +1,18 @@
+set: '17'
+rarity: U
+number: '88'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '14'
+vit: '2'
+site: 4
+en:
+  title: Orkish Warrior
+  subtitle: ''
+  text: |-
+    While you can spot a companion of strength 12 or more, this minion is strength +4.  
+    Each time the fellowship moves during the regroup phase, discard this minion.
+  lore: These Orcs were loathsome as Elves were fair.

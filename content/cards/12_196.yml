@@ -1,0 +1,18 @@
+set: '12'
+rarity: O
+number: '196'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '7'
+en:
+  title: Faramir
+  subtitle: Dúnadan of Gondor
+  text: |-
+    **Ranger.   
+    Skirmish:** Exert Faramir to make him strength +1 for each wound on the Ring-bearer.
+  lore: ‘We do not want the escapes of Mirkwood in Ithilien.’

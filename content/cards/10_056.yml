@@ -1,0 +1,21 @@
+set: '10'
+rarity: C
+number: '56'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Cirith Ungol Warrior
+  subtitle: ''
+  text: '**Shadow:** Spot a possession to make this minion fierce until the regroup phase. '
+  lore: …deafening, roaring in his ears, the crash of the feet and the rending clamour of the Orcs before him.
+de:
+  title: Krieger aus Cirith Ungol
+  subtitle: ''
+  text: '**Schatten:** Entdecke eine Ausrüstung, um diesen Diener bis zur Sammelphase **erbittert** zu machen.'
+  lore: … betäubend, in seinen Ohren dröhnend, der Krach der Füße und das durchdringende Geschrei der Orks vor ihm.

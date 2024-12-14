@@ -1,0 +1,18 @@
+set: '3'
+rarity: R
+number: '13'
+unique: true
+culture: Elven
+type: Ally
+race: Elf
+cost: 4
+str: '8'
+vit: '4'
+site: '3'
+en:
+  title: Elrond
+  subtitle: Herald to Gil-galad
+  text: |-
+    At the start of each of your turns, you may spot an ally whose home is site 3 to heal that ally twice.   
+    **Regroup:** Exert Elrond twice to heal a companion. 
+  lore: Venerable he seemed as a king crowned with many winters, and yet hale as a tried warrior….

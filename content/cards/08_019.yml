@@ -1,0 +1,18 @@
+set: '8'
+rarity: U
+number: '19'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: On Your Doorstep
+  subtitle: ''
+  text: Spot Gandalf and exert a companion to place a card of that companion’s culture from your discard pile on top of your draw deck.
+  lore: ‘Lord Denethor is a Steward only.’
+de:
+  title: Auf Eurer Schwelle
+  subtitle: ''
+  text: 'Entdecke Gandalf und strenge einen Gefährten an, um eine Karte der Kultur dieses Gefährten aus deinem Ablagestapel auf dein Spieldeck zu legen. '
+  lore: Herr Denethor ist nur der Truchsess.

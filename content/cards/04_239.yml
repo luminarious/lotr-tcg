@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '239'
+unique: true
+culture: Raider
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Men of Rhûn
+  subtitle: ''
+  text: '**Skirmish:** Make a :raider: Man strength +3 (or +4 if you spot 4 burdens). '
+  lore: Sudden war came upon Gondor out of Rhûn, land of the East.
+de:
+  title: Menschen aus Rhûn
+  subtitle: ''
+  text: '**Kampf** Gib einem :raider: Menschen Stärke +3 (oder Stärke +4, wenn du 4 Lastmarken entdeckst).'
+  lore: Der Krieg kam unvermittelt aus dem Osten über Gondor, aus dem Land Rhûn.
+fr:
+  title: Les Hommes de Rhûn
+  subtitle: ''
+  text: '**Combat :** Donner +3 en force à un Homme :raider: (ou +4 si vous désignez 4 points-fardeau).'
+  lore: La guerre vint soudainement au Gondor depuis Rhûn, le pays de l'est.
+it:
+  title: Uomini di Rhûn
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +3 alla forza di un Uomo :raider: (o +4 se avvisti 4 segnalini fardello).'
+  lore: La guerra improvvisamente piombò su Gondor, da Rhûn, terra dell'Est.
+es:
+  title: Hombres De Rhûn
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Hombre :raider: fuerza +3 (o +4 si avistas 4 cargas).'
+  lore: De repente llegó la guerra a Gondor desde Rhûn, tierra del Este.

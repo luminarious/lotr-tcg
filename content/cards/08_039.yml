@@ -1,0 +1,24 @@
+set: '8'
+rarity: C
+number: '39'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Knight of Dol Amroth
+  subtitle: ''
+  text: |-
+    **Knight.**   
+    Each time this companion wins a skirmish, you may wound a minion he is skirmishing.
+  lore: '''Amroth for Gondor!’ they cried.'
+de:
+  title: Ritter von Dol Amroth
+  subtitle: ''
+  text: |-
+    **Ritter.**   
+    Jedes Mal, wenn dieser Gefährte einen Kampf gewinnt, darfst du einen Diener verwunden, gegen den er gekämpft hat.
+  lore: Amroth für Gondor!" riefen sie.

@@ -1,0 +1,23 @@
+set: '4'
+rarity: R
+number: '125'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Henneth Annûn
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    While the fellowship is at site 6:tower:, each roaming minion skirmishing a Ring-bound companion is strength -2.  
+    **Skirmish:** Spot a :gondor: Man and discard this condition to wound a roaming minion. 
+  lore: ‘This is the Window of the Sunset….’
+it:
+  title: Henneth Annún
+  subtitle: ''
+  text: |-
+    Giocala nella tua area di.supporto. Mentre la compagnia è al sito 6:tower:, sottrai -2 alla forza di ogni servitore vagante che stia scher-magliando con un compagno **Legato all’Anello.**  
+    **Schermaglia:** Avvista un Uomo :gondor: e scarta questa condizione per ferire un servitor vagante.
+  lore: ‘ Questa è la Finestra del Tramonto…’

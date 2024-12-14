@@ -1,0 +1,18 @@
+set: '5'
+rarity: C
+number: '81'
+unique: true
+culture: Rohan
+type: Ally
+race: Man
+cost: 1
+str: '4'
+vit: '2'
+site: 4T
+en:
+  title: Ecglaf
+  subtitle: Courageous Farmer
+  text: |-
+    **Villager.**  
+    **Fellowship:** Exert Ecglaf and spot 2 valiant Men to play a :rohan: possession from your discard pile.
+  lore: Like many of the Rohirrim, Ecglaf no longer had a home awaiting his return.

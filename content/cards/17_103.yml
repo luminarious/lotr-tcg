@@ -1,0 +1,13 @@
+set: '17'
+rarity: U
+number: '103'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Where Now The Horse
+  subtitle: ''
+  text: 'Spot a :rohan: companion to make Frodo strength +5. If Frodo loses the skirmish, discard that :rohan: companion.'
+  lore: '''They have passed like rain in the mountains, like the wind in the meadow.’'

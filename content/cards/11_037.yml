@@ -1,0 +1,21 @@
+set: '11'
+rarity: U
+number: '37'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: New Authority
+  subtitle: ''
+  text: |-
+    To play, spot a :gandalf: Wizard.   
+    Each time a Shadow card adds a burden, you may remove :twilight3:.   
+    **Response:** If a minion uses its special ability, discard this condition to cancel the effect of that special ability. 
+  lore: ‘Prepare for battle!’
+de:
+  title: Neuer Befehlshaber
+  subtitle: ''
+  text: 'Entdecke einen :gandalf: Zauberer, um diese Karte zu spielen. Jedes Mal, wenn eine Schattenkarte eine Lastmarke auf den Ringträger legt, darfst du den Einfluss um :twilight3: verringern. **Reaktion:** Wenn ein Diener eine Sonderfähigkeit benutzt, lege diesen Effekt ab, um ihre Wirkung aufzuheben.'
+  lore: ''

@@ -1,0 +1,18 @@
+set: '14'
+rarity: R
+number: '7'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+res: '5'
+en:
+  title: Duilin
+  subtitle: Ranger From Blackroot Vale
+  text: |-
+    **Ranger.**  
+    While the fellowship is at a forest or river site, Duilin is strength +3.
+  lore: To Minas Tirith Duinhir brought both of his sons, Derufin and Duilin, to defend the Free Peoples of Middle-earth.

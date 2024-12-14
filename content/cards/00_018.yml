@@ -1,0 +1,15 @@
+set: '0'
+rarity: W
+number: '18'
+unique: true
+culture: Gollum
+type: Minion
+cost: 2
+str: '5'
+vit: '4'
+site: 3
+en:
+  title: Gollum
+  subtitle: Wretched Creature
+  text: ''
+  lore: ‘The thieves, the thieves, the filthy little thieves.’

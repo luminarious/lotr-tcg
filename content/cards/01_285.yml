@@ -1,0 +1,39 @@
+set: '1'
+rarity: U
+number: '285'
+unique: true
+culture: Shire
+type: Possession
+class: Pipe
+cost: 1
+en:
+  title: Bilbo's Pipe
+  subtitle: ''
+  text: |-
+    Bearer must be a Hobbit.   
+    **Fellowship:** Discard a pipeweed possession and spot X pipes to shuffle X tales from your discard pile into your draw deck.
+  lore: Bilbo has a fine pipe, carved for him by his Dwarven friends.
+de:
+  title: Bilbos Pfeife
+  subtitle: ''
+  text: Muss auf einen Hobbit gespielt werden. **Gemeinschaft.** Lege ein Pfeifenkraut ab und entdecke X Pfeifen, um X Erzählungen aus deinem Ablagestapel in dein Spieldeck zu mischen.
+  lore: Bilbo besitzt eine schöne Pfeife, die ihm von seinen Zwergenfreunden gefertigt wurde.
+fr:
+  title: Pipe de Bilbon
+  subtitle: ''
+  text: Le détenteur doit être un Hobbit. **Compagnie :** Défaussez une possession Herbe à Pipe et désignez X pipes pour mélanger X récits de votre pile de défausse dans votre pioche.
+  lore: Bilbon a une magnifique pipe, sculptée pour lui par ses amis Nains.
+it:
+  title: Pipa di Bilbo
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Hobbit.   
+    **Compagnia:** Scarta un bene erba pipa e avvista X pipe per mescolare X racconti presi dalla tua pila degli scarti nel tuo mazzo di gioco.
+  lore: Bilbo ha un'eccellente pipa, intagliata per lui dai suo amici Nani.
+es:
+  title: La Pipa de Bilbo
+  subtitle: ''
+  text: |-
+    El portador debe ser un Hobbit.   
+    **Comunidad:** Descarta una posesión hierba para pipa y avista X pipas para barajar X cuentos de tu pila de descartes en tu mazo de robar.
+  lore: Bilbo tiene una buena pipa, hecha por sus amigos enanos para él.

@@ -1,0 +1,25 @@
+set: '13'
+rarity: R
+number: '104'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Chamber Patrol
+  subtitle: ''
+  text: |-
+    To play, spot an :orc: minion.  
+    While the fellowship is in region 1, :orc: Orcs cannot take wounds.  
+    While the fellowship is in region 2, the current site gains **underground**.  
+    While the fellowship is in region 3, each :orc: Orc is strength +2.
+  lore: ''
+de:
+  title: Grabkammerpatrouille
+  subtitle: ''
+  text: 'Entdecke einen :orc: Diener, um diese Karte zu spielen. Solange sich die Gemeinschaft in Region 1 befindet, kann kein :orc: Ork Wunden erleiden. Solange sich die Gemeinschaft in Region 2 befindet, wird ihr Aufenthaltsort **unterirdisch**. Solange sich die Gemeinschaft in Region 3 befindet, erhält jeder :orc: Ork Stärke +2.'
+  lore: ''

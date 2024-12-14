@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '144'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 8
+str: '14'
+vit: '4'
+site: 3
+en:
+  title: The Witch-king
+  subtitle: Conqueror of Arthedain
+  text: |-
+    **Fierce.**  
+    Each time the Witch-king wins a fierce skirmish, you may exert a companion for each companion you can spot over 4.
+  lore: ''

@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '131'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Stand Together
+  subtitle: ''
+  text: Each time a Hobbit wins a skirmish, he or she gains **muster** until the end of the turn. *(At the start of the regroup phase, you may discard a card from hand to draw a card.)*
+  lore: ‘For a breathless time they sat there, silent and alert…’
+de:
+  title: Wir halten zusammen
+  subtitle: ''
+  text: Jedes Mal, wenn ein Hobbit einen Kampf gewinnt, erhält dieser bis zum Ende des Zuges **Appell**. *(Zu Beginn der Sammelphase darfst du eine Karte aus deiner Hand ablegen, um eine Karte zu ziehen.)*
+  lore: Eine Zeitlang saßen sie atemlos da, schweigend und wachsam….

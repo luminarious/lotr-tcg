@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '53'
+unique: true
+culture: Gollum
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Naked Waste
+  subtitle: ''
+  text: 'You may remove from the game 4 other :gollum: cards in your discard pile to play this event from your discard pile. Then remove this event from the game. Spot Sméagol to make a Ring-bound companion strength +3.'
+  lore: ‘Nothing can hide from them. Curse the White Face!’
+de:
+  title: Nackte Wildnis
+  subtitle: ''
+  text: 'Du darfst 4 andere :gollum: Karten aus deinem Ablagestapel ganz aus dem Spiel entfernen, um dieses Ereignis aus deinem Ablagestapel zu spielen. Entferne dann dieses Ereignis ganz aus dem Spiel. Entdecke Sméagol, um einem Ring-verbundenen Gefährten Stärke +3 zu geben.'
+  lore: ''

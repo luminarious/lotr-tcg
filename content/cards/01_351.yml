@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '351'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Galadriel's Glade
+  subtitle: ''
+  text: '**Sanctuary.** **Fellowship:** Exert an Elf to look at an opponent’s hand.'
+  lore: ''
+de:
+  title: Galadriels Lichtung
+  subtitle: ''
+  text: '**Zuflucht.** **Gemeinschaft.** Strenge einen Elben an, um dir die Handkarten eines Gegenspielers anzusehen.'
+  lore: ''
+fr:
+  title: Clairière de Galadriel
+  subtitle: ''
+  text: '**Sanctuaire.** **Compagnie :** Affaiblissez un Elfe pour regarder la main d’un adversaire.'
+  lore: ''
+it:
+  title: Radura di Galadriel
+  subtitle: ''
+  text: '**Rifugio.** **Compagnia:** Sforza un Elfo per guardare la mano di un avversario.'
+  lore: ''
+es:
+  title: El Claro de Galadriel
+  subtitle: ''
+  text: Refugio. **Comunidad:** Esfuerza un Elfo para mirar la mano de un oponente.
+  lore: ''

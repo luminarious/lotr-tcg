@@ -1,0 +1,16 @@
+set: '15'
+rarity: C
+number: '75'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 1
+str: '5'
+vit: '1'
+site: 4
+en:
+  title: Courageous Easterling
+  subtitle: ''
+  text: '**Skirmish:** If this minion is skirmishing, discard this minion to play a :men: minion from your discard pile. That minion is **fierce** until the regroup phase.'
+  lore: Easterlings came to Mordor to aid Sauron in his final assualt.

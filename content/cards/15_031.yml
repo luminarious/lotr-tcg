@@ -1,0 +1,15 @@
+set: '15'
+rarity: U
+number: '31'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 4
+en:
+  title: Mellon!
+  subtitle: ''
+  text: |-
+    To play, spot 2 :gandalf: companions.  
+    At the start of the maneuver phase, discard this condition to make each player count the number of cards in his or her hand, discard each of them and draw the same number of cards from the top of his or her draw deck.
+  lore: ''

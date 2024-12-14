@@ -1,0 +1,21 @@
+set: '12'
+rarity: C
+number: '87'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Goblin Aggressor
+  subtitle: ''
+  text: 'While this minion is bearing a possession, each :orc: minion is strength +1.'
+  lore: ‘The road may lead to Moria, but how can we hope that it will lead through Moria….’
+de:
+  title: Aggressiver Goblin
+  subtitle: ''
+  text: 'Solange dieser Diener ausgerüstet ist, erhalten alle :orc: Diener Stärke +1.'
+  lore: Der Weg mag nach Moria führen, aber wie können wir hoffen, dass er durch Moria führt?

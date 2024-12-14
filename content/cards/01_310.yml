@@ -1,0 +1,19 @@
+set: '1'
+rarity: R
+number: '310'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 2
+str: '3'
+vit: '4'
+res: '5'
+signet: Signet_Frodo
+en:
+  title: Sam
+  subtitle: Faithful Companion
+  text: |-
+    **Fellowship:** Play Bill the Pony from your draw deck.   
+    **Response:** If Frodo dies, make Sam the **Ring-bearer (resistance 5).**
+  lore: ‘Mr. Frodo’s not going anywhere without me!’

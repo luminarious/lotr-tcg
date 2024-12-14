@@ -1,0 +1,43 @@
+set: '19'
+rarity: P
+number: '27'
+unique: true
+culture: Sauron
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Sauron’s Might
+  subtitle: ''
+  text: |-
+    Remove a Free Peoples culture token to add a threat.  
+    When you play this event, you may remove :twilight1: to place this on the bottom of your draw deck instead of in your discard pile.
+  lore: One by one, the free lands of Middle-earth fell to the power of the Ring.
+de:
+  title: Sauron's Might
+  subtitle: ''
+  text: |-
+    Remove a Free Peoples culture token to add a threat.  
+    When you play this event, you may remove to place this on the bottom of your draw deck instead of in your discard pile.
+  lore: One by one, the free lands of Middle-earth fell to the power of the Ring.
+fr:
+  title: Sauron's Might
+  subtitle: ''
+  text: |-
+    Remove a Free Peoples culture token to add a threat.  
+    When you play this event, you may remove to place this on the bottom of your draw deck instead of in your discard pile.
+  lore: One by one, the free lands of Middle-earth fell to the power of the Ring.
+it:
+  title: Sauron's Might
+  subtitle: ''
+  text: |-
+    Remove a Free Peoples culture token to add a threat.  
+    When you play this event, you may remove to place this on the bottom of your draw deck instead of in your discard pile.
+  lore: One by one, the free lands of Middle-earth fell to the power of the Ring.
+es:
+  title: Sauron's Might
+  subtitle: ''
+  text: |-
+    Remove a Free Peoples culture token to add a threat.  
+    When you play this event, you may remove to place this on the bottom of your draw deck instead of in your discard pile.
+  lore: One by one, the free lands of Middle-earth fell to the power of the Ring.

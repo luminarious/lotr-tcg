@@ -1,0 +1,16 @@
+set: '6'
+rarity: R
+number: '50'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 4
+str: '8'
+vit: '4'
+signet: Signet_Theoden
+en:
+  title: Aragorn
+  subtitle: Defender of Free Peoples
+  text: '**Skirmish:** Remove an :elven: token to make a minion skirmishing Aragorn strength –3. **Skirmish:** Remove a :dwarven: token to heal a Dwarf. **Regroup:** If Aragorn is mounted, remove a :rohan: token to wound a minion twice.'
+  lore: ‘…this is the hour when we draw swords together.’

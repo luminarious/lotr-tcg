@@ -1,0 +1,13 @@
+set: '6'
+rarity: U
+number: '117'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Left
+en:
+  title: Meduseld
+  subtitle: ''
+  text: '**Sanctuary.** **Fellowship:** Exert 3 companions with the Gandalf signet to play an unbound companion from your dead pile.'
+  lore: ''

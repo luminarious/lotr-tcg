@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '359'
+unique: true
+culture: ''
+type: Site
+cost: 8
+siteArrow: Right
+en:
+  title: Northern Ithilien
+  subtitle: ''
+  text: '**Shadow:** Remove 2 threats and play Gollum from your discard pile to add 2 burdens.'
+  lore: ''
+de:
+  title: Nördliches Ithilien
+  subtitle: ''
+  text: '**Schatten:** Entferne 2 Bedrohungen und spiele Gollum aus deinem Ablagestapel, um 2 Lastmarken auf den Ringträger zu legen.'
+  lore: ''

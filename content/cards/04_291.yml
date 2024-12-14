@@ -1,0 +1,37 @@
+set: '4'
+rarity: C
+number: '291'
+unique: true
+culture: Rohan
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Sword of Rohan
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.   
+    While bearer is skirmishing an Uruk-hai, bearer is **damage +1.**
+  lore: ‘This is a good sword, Haleth, son of Háma… there is always hope.’
+de:
+  title: Schwert aus Rohan
+  subtitle: ''
+  text: 'Muss auf einen :rohan: Menschen gespielt werden. Solange der Träger gegen einen Uruk-hai kämpft, erhält er **Schaden +1.**'
+  lore: Das ist ein gutes Schwert, Haleth, Sohn des Háma… es gibt immer Hoffnung.
+fr:
+  title: Epée de Rohan
+  subtitle: ''
+  text: |
+    Le détenteur doit être un Homme :rohan:. Lorsque le détenteur combat un Ourouk-Haï, il inflige des **.**  
+  lore: 'C''est une bonne épée Haleth, fils de Hama… il y a toujours de l''espoir.” '
+it:
+  title: Spada di Rohan
+  subtitle: ''
+  text: Il possessore deve essere un Uomo :rohan:. Mentre il possessore sta schermagliando con un Uruk-hai, il possessore ha **Danno +1.**
+  lore: ‘Questa è una buona lama, Haleth, figlio di Hàma… c'è sempre speranza.’
+es:
+  title: Espada De Rohan
+  subtitle: ''
+  text: El portador debe ser un Hombre :rohan:. Mientras el portador esté en una escaramuza contra un Uruk-hai, el portador es **daño +1.**
+  lore: Esta es una buena espada, Haleth, hijo de Háma… siempre hay esperanza.

@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '32'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Border Defenses
+  subtitle: ''
+  text: '**Skirmish:** Make an Elf strength +2 (or +4 if skirmishing an archer).'
+  lore: ‘None of the Orcs will ever return out of Lórien. And there will be many Elves hidden on the northern border before another night falls.’
+de:
+  title: Verteidigung der Grenzen
+  subtitle: ''
+  text: '**Kampf** Gib einem Elben Stärke +2 (oder Stärke +4, wenn er einen Bogenschützen bekämpft).'
+  lore: Nicht einer von den Orks wird je aus Lórien zurückkehren. Und viele Elben werden an der Nordgrenze auf der Lauer liegen, ehe die nächste Nacht hereinbricht.
+fr:
+  title: Défenses Frontalières
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force (ou +4 s’il combat un archer) à un Elfe.'
+  lore: ‘Aucun des Orques ne ressortira jamais de la Lórien. Et il y aura beaucoup d'Elfes cachés à la lisière nord avant la tombée de la nuit.’
+it:
+  title: Difese di Confine
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Elfo (o +4 se sta schermagliando con un arciere).'
+  lore: Di quegli Orchi nemmeno uno uscirà vivo da Lòrien. E vi saranno molti Elfi nascosti al confine settentrionale prima del calar della prossima notte.’
+es:
+  title: Defensas Fronterizas
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Elfo fuerza +2 (+4 en una escaramuza contra un arquero).'
+  lore: Ninguno de los Orcos saldrá jamás de Lórien. Y habrá muchos Elfos ocultos en la frontera norte antes que caiga otra noche.

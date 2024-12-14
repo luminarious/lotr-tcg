@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '357'
+unique: true
+culture: ''
+type: Site
+cost: 8
+siteArrow: Right
+en:
+  title: Morgul Vale
+  subtitle: ''
+  text: '**Skirmish:** Spot your :sauron: minion and remove 2 threats to make your :sauron: minion strength +3.'
+  lore: ''
+de:
+  title: Morgultal
+  subtitle: ''
+  text: '**Kampf:** Entferne 2 Bedrohungen, um einem deiner :sauron: Diener Stärke +3 zu geben.'
+  lore: ''

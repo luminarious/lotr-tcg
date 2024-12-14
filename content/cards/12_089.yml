@@ -1,0 +1,21 @@
+set: '12'
+rarity: U
+number: '89'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 5
+str: '12'
+vit: '3'
+site: 4
+en:
+  title: Mordor Aggressor
+  subtitle: ''
+  text: 'While this minion is bearing a possession, each :orc: minion is strength +2.'
+  lore: ‘The enemy,’ men murmured. ‘The dike is down. Here they come pouring through the breaches!’
+de:
+  title: Aggressiver Mordorork
+  subtitle: ''
+  text: 'Solange dieser Diener ausgerüstet ist, erhalten alle :orc: Diener Stärke +2.'
+  lore: Der Feind“, murmelten die Männer. "Der Damm ist gefallen. Hier kommen sie durch die Breschen geströmt!

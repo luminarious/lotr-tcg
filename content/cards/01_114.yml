@@ -1,0 +1,41 @@
+set: '1'
+rarity: R
+number: '114'
+unique: true
+culture: Gondor
+type: Condition
+cost: 1
+vit: '+1'
+en:
+  title: The Saga of Elendil
+  subtitle: ''
+  text: |-
+    **Tale.** Bearer must be a :gondor: companion.   
+    **Skirmish:** Discard this condition to make bearer strength +2.
+  lore: From out of the depths of the Sea, from the foundered land of Númenor, came Elendil to Middle-earth to found the kingdoms of Arnor and Gondor.
+de:
+  title: Die Legende von Elendil
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    Muss auf einen :gondor: Gefährten gespielt werden. **Kampf** Lege diesen Effekt ab, um dem Träger Stärke +2 zu geben.
+  lore: Aus den Tiefen des Meeres, aus den Gründerlanden der Númenor, kam Elendil nach Mittelerde, um die Königreiche von Arnor und Gondor zu erschaffen.
+fr:
+  title: La Saga d'Elendil
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Le détenteur doit être un compagnon :gondor:. **Combat :** Défaussez cette situation pour donner au détenteur +2 en force.
+  lore: Des profondeurs de la Mer, des terres submergées de Númenor, vint Elendil dans les Terres du Milieu pour fonder les royaumes d'Arnor et de Gondor.
+it:
+  title: La Saga di Elendil
+  subtitle: ''
+  text: |-
+    **Racconto.** Il possessore deve essere un compagno :gondor:.   
+    **Schermaglia:** Scarta questa condizione per aggiungere +2 alla forza del possessore.
+  lore: Dalle profondità del Mare, dalle sprofondate terre di Númenor, Elendil arrivò nella Terra di Mezzo per fondare i regni di Arnor e Gondor.
+es:
+  title: La Saga de Elendil
+  subtitle: ''
+  text: '**Cuento.**El portador debe ser un compañero :gondor:. **Escaramuza:** Descarta esta condición para dar al portador fuerza +2.'
+  lore: Desde el mar profundo, desde la hundida tierra de Númenor, vino Elendil a la Tierra Media a fundar los reinos de Arnor y Gondor.

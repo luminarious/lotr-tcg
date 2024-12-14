@@ -1,0 +1,40 @@
+set: '4'
+rarity: C
+number: '137'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Attack on Helm's Deep
+  subtitle: ''
+  text: |-
+
+    **Shadow:** Play an Uruk-hai to place an :isengard: token on this card.   
+    **Regroup: **Remove 3 :isengard: tokens from this card and discard an Uruk-hai to take control of a site. 
+  lore: ‘Ten thousand strong at least….’
+de:
+  title: Angriff auf Helms Klamm
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Schatten:** Spiele einen Uruk-hai, um eine :isengard: Marke auf diese Karte zu legen. **Sammeln:** Entferne 3 :isengard: Marken von diesem Effekt und lege einen Uruk-hai ab, um einen Ort zu kontrollieren.'
+  lore: Es sind mindestens zehntausend….
+fr:
+  title: Attaque au Gouffre de Helm
+  subtitle: ''
+  text: 'Ombre : Jouez un Ourouk-Haï pour déposer un jeton :isengard: sur cette carte. **Ralliement :** Retirez 3 jetons :isengard: de cette carte et défaussez un Ourouk-Haï pour prendre le contrôle d’un site.'
+  lore: 'Au moins dix mille hommes…” '
+it:
+  title: Attacco al Fosso di Helm
+  subtitle: ''
+  text: |-
+    **Ombra:** Gioca un Uruk-hai per piazzare un segnalino :isengard: su questo carta.   
+    **Raccolta:** Rimuovi 3 segnalini :isengard: da questa carta e scarta un Uruk-hai per prendere il controllo di un sito.
+  lore: ‘Almeno diecimila…’
+es:
+  title: Ataque En El Abismo De Helm
+  subtitle: ''
+  text: |-
+    **Sombra:** Juega un Uruk-hai para poner un contador :isengard: en esta carta.   
+    **Reagrupación:** Quita 3 contadores :isengard: de esta carta y descarta un Uruk-hai para tomar el control de un sitio.
+  lore: Diez mil y fuertes, por lo menos…

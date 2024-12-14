@@ -1,0 +1,41 @@
+set: '2'
+rarity: C
+number: '99'
+unique: true
+culture: Shire
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: Deft in Their Movements
+  subtitle: ''
+  text: |-
+    **Stealth.**  
+    **Regroup:** Spot 2 Hobbits to make each site’s Shadow number -2 until the end of the turn. 
+  lore: They possessed from the first the art of disappearing swiftly and silently, when large folk who they do not wish to meet come blundering by.
+de:
+  title: Geschickt in ihren Bewegungen
+  subtitle: ''
+  text: |-
+    **Heimlichkeit.**  
+    **Sammeln:** Entdecke 2 Hobbits, um die Schattenzahl jedes Ortes bis zum Ende des Spielzuges um 2 zu reduzieren.
+  lore: Von Anfang an beherrschten sie die Kunst, rasch und geräuschlos zu verschwinden, wenn große Leute, denen sie nicht begegnen wollen, dahertrapsen.
+fr:
+  title: Adroits dans leurs Mouvements
+  subtitle: ''
+  text: |-
+    **Dissimulation.**  
+    **Ralliement :** Désignez 2 Hobbits pour diminuer la puissance de l’Ombre de chaque site de 2 jusqu’à la fin du tour.
+  lore: 'Ils ont toujours eu l''art de disparaître vivement et en silence quand des Grandes Gens qu''ils ne désirent pas rencontrer viennent par hasard de leur côté… '
+it:
+  title: Svelti nei Movimenti
+  subtitle: ''
+  text: |-
+    **Segretezza.**  
+    **Raccolta:** Avvista 2 Hobbit per sottrarre -2 al numero Ombra di ogni sito fino alla fine del turno.
+  lore: Sin dall'inizio possedevano l'arte di sparire veloci e silenziosi al sopraggiungere di genti che non desideravano incontrare.
+es:
+  title: Hábiles en sus movimientos
+  subtitle: ''
+  text: '**Sigilo.** **Reagrupación:** Avista 2 Hobbits para hacer que el número de sombra de cada sitio sea -2 hasta el final del turno.'
+  lore: Dominaron desde un principio el arte de desaparecer rápido y en silencio, cuando la Gente Grande con la que no querían tropezar se les acercaba casualmente.

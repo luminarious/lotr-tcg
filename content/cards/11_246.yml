@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '246'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Left
+en:
+  title: Mere of Dead Faces
+  subtitle: ''
+  text: '**Marsh.** **Regroup:** Exert your Gollum or your Sméagol to play the fellowship’s next site. '
+  lore: ''
+de:
+  title: Pfuhl der Toten Gesichter
+  subtitle: ''
+  text: '**Sumpf. Sammeln:** Strenge deinen Gollum oder Sméagol an, um den nächsten Ort der Gemeinschaft zu spielen.'
+  lore: ''

@@ -1,0 +1,16 @@
+set: '17'
+rarity: C
+number: '75'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Orkish Dreg
+  subtitle: ''
+  text: 'Each time you play this minion, you may spot another :orc: minion to exert a companion for each Free Peoples culture you can spot over 2.'
+  lore: Under the cover of darkness the Orcs came.

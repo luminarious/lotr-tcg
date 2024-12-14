@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '60'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Away on the Wind
+  subtitle: ''
+  text: '**Response:** If Faramir is about to take a wound, discard this condition from play and place Boromir or Denethor in the dead pile from play to prevent that and heal Faramir twice. '
+  lore: '‘…then I will have naught: neither life diminished, nor love halved, nor honour abated.’'
+de:
+  title: Vom Winde davongetrieben
+  subtitle: ''
+  text: '**Reaktion:** Lege diesen Effekt ab, wenn Faramir eine Wunde erleidet und lege Boromir oder Denethor aus dem Spiel auf den Friedhof, um diese Wunde zu verhindern und Faramir zweimal zu heilen.'
+  lore: '…dann will ich nichts haben: weder ein erniedrigtes Leben noch geteilte Liebe oder verminderte Ehre.'

@@ -1,0 +1,35 @@
+set: '6'
+rarity: U
+number: '32'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 13
+str: '10'
+vit: '4'
+en:
+  title: Host of Fangorn
+  subtitle: ''
+  text: To play, spot 2 Ent companions. Host of Fangorn’s twilight cost is –2 for each Ent or unbound Hobbit you can spot.
+  lore: ‘Of course, it is likely enough, my friends…that we are going to our doom, the last march of the Ents.’
+de:
+  title: Armee aus Fangorn
+  subtitle: ''
+  text: Entdecke 2 Entgefährten, um diese Karte zu spielen. Die Kosten dieses Gefährten reduzieren sich um 2 für jeden Ent und nicht-verbundenen Hobbit, den du entdecken kannst.
+  lore: Kommt meine Freunde… wahrscheinlich ist es der Weg unseres Untergangs, der letzte Marsch der Ents.
+fr:
+  title: Armée de Fangorn
+  subtitle: ''
+  text: Pour jouer, désignez 2 compagnons Ents. Le coût crépusculaire de l’Armée de Fangorn est de –2 pour chaque Ent et Hobbit dissocié que vous pouvez désigner.
+  lore: 'Naturellement, il est assez probable, mes amis… que nous allons à notre propre fin : la dernière marche des Ents.” '
+it:
+  title: Schiera di Fangorn
+  subtitle: ''
+  text: Per giocarlo, avvista 2 compagni Ent. Sottrai –2 al costo crepuscolo di Schiera di Fangorn per ogni Ent o Hobbit Non Legato che puoi avvistare.
+  lore: '‘Certo è molto probabile, amici… che stiamo marciando verso la nostra distruzione: l''ultima marcia degli Ent.’'
+es:
+  title: Hueste de Fangorn
+  subtitle: ''
+  text: Para jugarla, avista 2 compañeros Ents. El coste de penumbra de la Hueste de Fangorn es –2 por cada Ent o Hobbit no-vinculado que puedas avistar.
+  lore: Naturalmente, amigos míos, es muy probable… que vayamos hacia nuestra perdición, la última marcha de los Ents.

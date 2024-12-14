@@ -1,0 +1,13 @@
+set: '17'
+rarity: R
+number: '45'
+unique: true
+culture: Man
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: In the Wild Men's Wake
+  subtitle: ''
+  text: 'Spot a :men: possession in your support area and a :men: minion. Make that minion strength +1 for each minion stacked on that possession. You may discard that possession to make that minion damage +1.'
+  lore: Too long have these peasants stood against you.

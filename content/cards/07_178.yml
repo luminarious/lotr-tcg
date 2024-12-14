@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '178'
+unique: true
+culture: Wraith
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Foul Clutches
+  subtitle: ''
+  text: Discard 3 cards from hand to make a Nazgûl strength +3.
+  lore: ‘Ah! there one of the foul things is stooping on him.’
+de:
+  title: Grausige Umklammerung
+  subtitle: ''
+  text: Lege 3 Karten aus deiner Hand ab, um einem Nazgûl Stärke +3 zu geben.
+  lore: Ach! Eins dieser widerlichen Geschöpfe beugt sich über ihn.

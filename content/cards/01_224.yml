@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '224'
+unique: true
+culture: Wraith
+type: Event
+class: Response
+cost: 0
+en:
+  title: Return to Its Master
+  subtitle: ''
+  text: '**Response:** If the Ring-bearer wears The One Ring at the end of a skirmish phase, cancel all remaining assignments and assign a Nazgûl to skirmish the Ring-bearer; The One Ring’s game text does not apply during this skirmish.'
+  lore: ‘The Riders made straight for you….”’
+de:
+  title: Zurück zu Seinem Herrn
+  subtitle: ''
+  text: '**Reaktion:** Wenn der Ringträger den Einen Ring am Ende eines Kampfes benutzt, hebe alle weiteren Zuweisungen auf und weise dem Ringträger einen Nazgûl zu. Der Kartentext des Einen Rings zählt für diesen Kampf nicht.'
+  lore: Die Reiter hielten stracks auf dich zu…
+fr:
+  title: Retourner à son Maître
+  subtitle: ''
+  text: '**Réponse :** Si le Porteur de l’Anneau a l’Anneau Unique au doigt à la fin d’une phase de combat, annulez toutes les affectations restantes et assignez un Nazgûl pour combattre le Porteur de l’Anneau ; le descriptif de l’Anneau Unique ne s’applique pas au co'
+  lore: ‘Les Cavaliers vont droit sur vous….”’
+it:
+  title: Ritorno al Suo Padrone
+  subtitle: ''
+  text: '**Risposta:** Se il Portatore dell’Anello indossa L’Unico Anello alla fine di una fase di schermaglia, cancella tutte le restanti assegnazioni e assegna un Nazgûl alla schermaglia con il Portatore dell’Anello; il testo di gioco de L’Unico Anello non si applic'
+  lore: ‘I Cavalieri puntarono diritti su di te….”’
+es:
+  title: Retorno a Su Amo
+  subtitle: ''
+  text: '**Respuesta:** Si el Portador del Anillo lleva puesto El Anillo Único al final de una fase de escaramuza, cancela todas las demás asignaciones y asigna un Nazgûl en una escaramuza contra el Portador del Anillo. El texto de juego de El Anillo Único no se aplic'
+  lore: Los Jinetes fueron directamente detrás de ti…

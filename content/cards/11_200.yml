@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '200'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '10'
+vit: '2'
+site: 5
+en:
+  title: Ruthless Uruk
+  subtitle: ''
+  text: Each time this minion is assigned to skirmish a character who has resistance 3 or less, you may exert this minion to discard a possession borne by that character.
+  lore: Weapons mean little against the strength of Uruks.
+de:
+  title: Skrupelloser Uruk
+  subtitle: ''
+  text: Jedes Mal, wenn dieser Diener einem Kampf gegen einen Charakter mit Resistenz 3 oder weniger zugewiesen wird, darfst du ihn anstrengen, um eine Ausrüstung von diesem Charakter abzulegen.
+  lore: Waffen sind nichts gegen die Stärke der Uruks.

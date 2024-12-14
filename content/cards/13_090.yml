@@ -1,0 +1,21 @@
+set: '13'
+rarity: C
+number: '90'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Easterling Runner
+  subtitle: ''
+  text: '**Shadow:** Exert this minion, spot another :men: minion, and remove a culture token to reinforce a :men: token.'
+  lore: The key to coordinating the columns of the Easterling army is their use of swift couriers.
+de:
+  title: Ostling Kurier
+  subtitle: ''
+  text: '**Schatten:** Strenge diesen Diener an, entdecke einen anderen :men: Diener und entferne eine Kulturmarke, um eine :men: Marke zu ergänzen.'
+  lore: Die Ostlingarmee benutzt flinke Kurierläufer, um ihre Kohorten erfolgreich einzusetzen.

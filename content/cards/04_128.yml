@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '128'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: New Errand
+  subtitle: ''
+  text: '**Skirmish:** Spot a Ring-bound Man to make a minion’s site number +2. If that minion loses this skirmish, you may wound a minion. '
+  lore: ‘…we come to Ambush the Men of Harad.’
+de:
+  title: Ein neuer Auftrag
+  subtitle: ''
+  text: '**Kampf** Entdecke einen Ring-verbundenen Menschen, damit sich die Ortskennzahl eines Dieners um 2 erhöht. Wenn dieser Diener den Kampf verliert, darfst du einen Diener verwunden.'
+  lore: … wir sind gekommen, um den Menschen aus Harad aus dem Hinterhalt aufzulauern.
+fr:
+  title: Une Nouvelle Mission
+  subtitle: ''
+  text: '**Combat :** Désignez un Homme associé à l’Anneau pour ajouter 2 au numéro de site d’un séide. Si ce séide perd ce combat, vous pouvez blesser un séide.'
+  lore: '… nous venons tendre une embûche aux Hommes de Harad.” '
+it:
+  title: Un Nuovo Scopo
+  subtitle: ''
+  text: '**Schermaglia:** Avvista un Uomo Legato all’Anello per aumentare di +2 il numero di sito di un servitore. Se quel servitore perde questa schermaglia, puoi ferire un servitore.'
+  lore: ‘…siamo venuti a tendere un agguato agli Uomini dell'Harad.’
+es:
+  title: Nueva Misión
+  subtitle: ''
+  text: '**Escaramuza:** Avista un Hombre Vinculado al Anillo para hacer que el número de sitio de un siervo sea +2. Si ese siervo pierde esta escaramuza, puedes herir un siervo.'
+  lore: …venimos a emboscar a los Hombres de Harad.

@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '273'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Fight for the Villagers
+  subtitle: ''
+  text: '**Skirmish:** Make a :rohan: Man strength +2 (or +3 if you spot a villager). '
+  lore: ‘Bar the gates, set a watch on the surrounds, and get the women and children to the caves.’
+de:
+  title: Kämpft für die Dorfbewohner
+  subtitle: ''
+  text: '**Kampf:** Gib einem :rohan: Menschen Stärke +2 (oder Stärke +3, wenn du einen Dorfbewohner entdeckst).'
+  lore: Verriegelt die Tore, stellt Wachen auf und bringt Frauen und Kinder in die Höhlen.
+fr:
+  title: Défendez les Villageois
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force à un Homme :rohan: (ou +3 en force si vous désignez un villageois).'
+  lore: 'Barrez les portes, montez la garde aux alentours et menez femmes et enfants aux cavernes…” '
+it:
+  title: Combattere per i Villici
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Uomo :rohan: (o +3 se avvisti un villico).'
+  lore: ‘Serrate i cancelli, mettete delle sentinelle di guardia, e portate le donne e i bambini nelle caverne.’
+es:
+  title: Luchar Por Los Campesinos
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Hombre :rohan: fuerza +2 (o +3 si avistas un aldeano).'
+  lore: Barrad las puertas, estableced una guardia en el perímetro, y llevad a las mujeres y los niños a las cuevas.

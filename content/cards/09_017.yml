@@ -1,0 +1,21 @@
+set: '9'
+rarity: R+
+number: '17'
+unique: true
+culture: Elven
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+1'
+en:
+  title: Knife of the Galadhrim
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man. If bearer is Aragorn, he may bear this hand weapon in addition to 1 other hand weapon.   
+    **Skirmish:** Discard this possession to wound a minion bearer is skirmishing. 
+  lore: It was overlaid with a tracery of flowers and leaves wrought of silver and gold….
+de:
+  title: Messer der Galadrim
+  subtitle: ''
+  text: 'Muss auf einen :gondor: Menschen gespielt werden. Wenn Aragorn mit dieser Waffe ausgerüstet ist, darf er sie zusätzlich zu einer weiteren Handwaffe tragen. Kampf: Lege diese Waffe ab, um einen Diener zu verwunden, gegen den der Träger kämpft.'
+  lore: Sie war überzogen mit Flechtwerk aus goldenen und silbernen Blüten und Blättern…

@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '107'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Barbarous Orc
+  subtitle: ''
+  text: '**Skirmish:** Exert another :orc: minion to make this minion strength +2 (or +4 if this minion is skirmishing a companion who has resistance 4 or less).'
+  lore: Fiercely tribal, rival Orc bands unite only against a more hated enemy.
+de:
+  title: Ork Barbar
+  subtitle: ''
+  text: '**Kampf:** Strenge einen anderen :orc: Diener an, um dem Ork Barbar Stärke +2 zu geben (oder +4, wenn dieser Diener gegen einen Gefährten mit Resistenz 4 oder weniger kämpft).'
+  lore: Orks vereinen sich nur gegen einen Feind, den sie mehr hassen als andere Orkstämme.

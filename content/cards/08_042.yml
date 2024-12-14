@@ -1,0 +1,22 @@
+set: '8'
+rarity: U
+number: '42'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: A Path Appointed
+  subtitle: ''
+  text: |-
+    **Fellowship:** Exert a :gondor: Man and either a :dwarven: companion or a :rohan: companion to add a :gondor: token here.   
+    **Regroup:** Remove a :gondor: token here to discard a minion.
+  lore: ‘…those who follow me do so of their free will….’
+de:
+  title: Vorherbestimmter Weg
+  subtitle: ''
+  text: |-
+    **Gemeinschaft:** Strenge einen :gondor: Menschen und entweder einen :dwarven: oder :rohan: Gefährten an, um eine :gondor: Marke auf diese Karte zu legen.   
+    **Sammeln:** Entferne eine :gondor: Marke von dieser Karte, um einen Diener abzulegen.
+  lore: … jene, die mir folgen, tun es aus freiem Willen….

@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '61'
+unique: true
+culture: Isengard
+type: Condition
+cost: 1
+str: '-1'
+en:
+  title: Desertion
+  subtitle: ''
+  text: 'To play, spot an :isengard: Man. Plays on a companion (except the Ring-bearer). **Assignment:** Assign an :isengard: minion with less strength than bearer to skirmish bearer. Discard this condition.'
+  lore: ‘Who knows what you've spoken to the darkness in the bitter watches of the night?’
+de:
+  title: Fahnenflucht
+  subtitle: ''
+  text: 'Entdecke einen :isengard: Menschen, um diese Karte auf einen Gefährten (außer den Ringträger) zu spielen. **Zuweisung:** Strenge einen :isengard: Diener mit geringerer Stärke als der Träger dieses Effekts an, um diesen Diener gegen ihn kämpfen zu lassen. Lege diesen Effekt ab'
+  lore: Wer weiß, was Ihr der Dunkelheit anvertraut…?
+fr:
+  title: Désertion
+  subtitle: ''
+  text: 'Pour jouer, désignez un Homme :isengard:. Jouable sur un compagnon (sauf le Porteur de l’Anneau). **Affectationt :** Affectez un séide :isengard: (moins fort que le détenteur) au combat du détenteur. Défaussez cette situation.'
+  lore: 'Qui sait ce que tu as dit à l''obscurité durant les amères veilles de la nuit ? '
+it:
+  title: Diserzione
+  subtitle: ''
+  text: 'Per giocarla, avvista un Uomo :isengard:. Giocala su un compagno (tranne il Portatore dell’Anello). **Assegnazione:** Assegna un servitore :isengard: con forza minore di quella del possessore a schermagliare con il possessore. Scarta questa condizione.'
+  lore: ‘Ma chissà quali parole hai pronunciato nell'oscurità, durante le amare veglie?’
+es:
+  title: Desertar
+  subtitle: ''
+  text: 'Para jugarla, avista un Hombre :isengard:. Se juega en un compañero (excepto el Portador del Anillo). **Asignación:** Asigna un siervo :isengard: con menos fuerza que el portador a el portador. Descarta esta condición.'
+  lore: ¿Quién sabe lo que le habrás susurrado a la oscuridad en tus amargas vigilias nocturnas?

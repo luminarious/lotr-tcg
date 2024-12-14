@@ -1,0 +1,18 @@
+set: '18'
+rarity: R
+number: '99'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Gamling
+  subtitle: Dutiful Marshal
+  text: |-
+    **Valiant.**  
+    **Skirmish:** Transfer a :rohan: possession that Gamling can bear to him.
+  lore: Summon every able-bodied man to Dunharrow.

@@ -1,0 +1,27 @@
+set: '6'
+rarity: U
+number: '116'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Westfold
+  subtitle: ''
+  text: '**Fellowship:** Exert Aragorn twice to play a companion with the Aragorn signet from your draw deck.'
+  lore: ''
+fr:
+  title: L'Ouestfolde
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez Aragorn deux fois pour jouer un compagnon possédant le signet Aragorn de votre pioche.'
+  lore: ''
+it:
+  title: Ovestfalda
+  subtitle: ''
+  text: '**Compagnia:** Sforza due volte Aragorn per giocare un compagno con il sigillo di Aragorn dal tuo mazzo di gioco.'
+  lore: ''
+es:
+  title: Folde Oeste
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza a Aragorn dos veces para jugar un compañero con el sello de Aragorn de tu mazo de robar.'
+  lore: ''

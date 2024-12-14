@@ -1,0 +1,21 @@
+set: '0'
+rarity: W
+number: '36'
+unique: true
+culture: Isengard
+type: Minion
+race: Wizard
+cost: 4
+str: '8'
+vit: '4'
+site: 4
+en:
+  title: Saruman
+  subtitle: Instigator of Insurrection
+  text: |-
+    Saruman cannot be assigned to skirmish an unwounded character.  
+    While you can spot 6 companions, all minions gain hunter 2.  
+    **Response:** If a hunter minion is about to take a wound, exert Saruman to prevent that.
+  lore: |-
+    Hunters Design-a-Card contest entry  
+    Submitted by "lyonscc

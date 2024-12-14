@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '314'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Stronghold of Cirith Ungol
+  subtitle: ''
+  text: |-
+    **Response:** If your :sauron: minion wins a skirmish, place a :sauron: token here (limit 1 per site).   
+    **Regroup:** Add :twilight2: for each token here. Discard this condition.
+  lore: ''
+de:
+  title: Die Feste Cirith Ungol
+  subtitle: ''
+  text: |-
+    **Reaktion:** Wenn einer deiner :sauron: Diener einen Kampf gewinnt, lege eine :sauron: Marke auf diese Karte (maximal 1 pro Ort).   
+    **Sammeln:** Erhöhe den Einfluss um :twilight2: für jede Marke auf dieser Karte. Lege diesen Effekt ab.
+  lore: Im Lande Mordor, wo die Schatten drohn.

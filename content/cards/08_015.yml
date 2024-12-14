@@ -1,0 +1,16 @@
+set: '8'
+rarity: R
+number: '15'
+unique: true
+culture: Gandalf
+type: Companion
+race: Wizard
+cost: 4
+str: '7'
+vit: '4'
+signet: Signet_Aragorn
+en:
+  title: Gandalf
+  subtitle: Leader of Men
+  text: When Gandalf is in your starting fellowship, his twilight cost is -2.
+  lore: ‘…the rule of no realm is mine, neither of Gondor nor any other, great or small.’

@@ -1,0 +1,44 @@
+set: '4'
+rarity: U
+number: '250'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+site: 4
+en:
+  title: Southron Explorer
+  subtitle: ''
+  text: |-
+    **Southron.**  
+    **Regroup:** Exert this minion and remove :twilight5: to take control of a site. 
+  lore: Scouts find oases for Southron armies as they cross the deserts of Harad.
+de:
+  title: Südland Kundschafter
+  subtitle: ''
+  text: |-
+    **Südländer.**  
+    **Sammeln:** Strenge diesen Diener an und verringere den Einfluss um :twilight5:, um einen Ort zu kontrollieren
+  lore: Kundschafter entdeckten Oasen für die Armee der Südländer auf ihrem Vormarsch durch die Wüsten Harads.
+fr:
+  title: Explorateur Suderon
+  subtitle: ''
+  text: |-
+    **Suderon.**  
+    **Ralliement :** Affaiblissez ce séide et retirez :twilight5: pour prendre le contrôle d’un site.
+  lore: En traversant les déserts de Harad, les éclaireurs trouvent des oasis pour les Suderons.
+it:
+  title: Esploratore Sudrone
+  subtitle: ''
+  text: |-
+    **Sudrone.**  
+    **Raccolta:** Sforza questo servitore e rimuovi :twilight5: per prendere il controllo di un sito.
+  lore: Le guide trovano oasi per gli eserciti Sudroni quando attraversano i deserti dell'Harad.
+es:
+  title: Explorador Sureño
+  subtitle: ''
+  text: '**Sureño.** **Reagrupación:** Esfuerza este siervo y quita :twilight5: para tomar el control de un sitio.'
+  lore: Los exploradores buscan oasis para los ejércitos Sureños mientras cruzan los desiertos de Harad.

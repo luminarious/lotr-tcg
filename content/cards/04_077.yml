@@ -1,0 +1,36 @@
+set: '4'
+rarity: U
+number: '77'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Lórien Is Most Welcome
+  subtitle: ''
+  text: |-
+    To play, spot 3 Elves.   
+    Each wounded minion loses all damage bonuses.   
+    Discard this condition during the regroup phase. 
+  lore: ‘We are proud to fight alongside Men once more….’
+de:
+  title: Lórien ist herzlich willkommen
+  subtitle: ''
+  text: Entdecke 3 Elben, um diese Karte in deinen Unterstützungsbereich zu spielen. Verwundete Diener verlieren sämtliche Schadensboni. Dieser Effekt wird in der Sammelphase abgelegt.
+  lore: Wir sind stolz, wieder an der Seite der Menschen zu kämpfen….
+fr:
+  title: La Lórien est la Bienvenue
+  subtitle: ''
+  text: Pour jouer, désignez 3 Elfes. Chaque séide blessé perd tous ses bonus de dégâts. Défaussez cette situation durant la phase de ralliement.
+  lore: 'Nous sommes fiers de nous battre à nouveau au côté des Hommes…” '
+it:
+  title: Lórien è la Benvenuta
+  subtitle: ''
+  text: Per giocarla, avvista 3 Elfi. Ogni servitore ferito perde tutti i bonus ai danni. Scarta questa condizione durante la fase di raccolta.
+  lore: ‘Siamo orgogliosi di combattere ancora una volta a fianco degli Uomini…’
+es:
+  title: Lórien Es Bienvenido
+  subtitle: ''
+  text: Para jugarla, avista 3 Elfos. Cada siervo herido pierde todos sus bonos de daño. Descarta esta condición durante la fase de reagrupación.
+  lore: Estamos orgullosos de luchar al lado de los Hombres otra vez…

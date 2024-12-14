@@ -1,0 +1,23 @@
+set: '12'
+rarity: R
+number: '19'
+unique: true
+culture: Elven
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+1'
+en:
+  title: Long-knives of Legolas
+  subtitle: ''
+  text: |-
+    Bearer must be Legolas.   
+    Each Orc or Uruk-hai skirmishing Legolas is strength –2.
+  lore: Sharp, bone-handled knives defend the Elves of Mirkwood at close quarters.
+de:
+  title: Legolas' Langmesser
+  subtitle: ''
+  text: |-
+    Muss auf Legolas gespielt werden.  
+    Alle Orks oder Uruk-hai, die gegen Legolas kämpfen, erhalten Stärke -2.
+  lore: Scharfe Messer, mit Knochengriffen versehen, schützen die Elben aus dem Dunkelwald im Nahkampf.

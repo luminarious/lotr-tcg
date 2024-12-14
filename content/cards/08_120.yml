@@ -1,0 +1,18 @@
+set: '8'
+rarity: U
+number: '120'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Right
+en:
+  title: Osgiliath Channel
+  subtitle: ''
+  text: '**River.** **Regroup:** Spot your minion and 6 companions to make the Free Peoples player choose to move again this turn.'
+  lore: No such anguish had Shelob ever known, or dreamed of knowing….
+de:
+  title: Kanal durch Osgiliath
+  subtitle: ''
+  text: '**Fluss.** **Sammeln:** Entdecke einen deiner Diener und 6 Gefährten, um den Freie Völker Spieler zu zwingen, sich für das Weitergehen zu entscheiden.'
+  lore: ''

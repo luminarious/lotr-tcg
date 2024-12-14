@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '358'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Right
+en:
+  title: Pillars of the Kings
+  subtitle: ''
+  text: '**River.** **Fellowship:** Discard a :gondor: card from hand to heal a :gondor: companion.'
+  lore: ''
+de:
+  title: Die Säulen der Könige
+  subtitle: ''
+  text: '**Fluss.** **Gemeinschaft.** Lege eine :gondor: Karte aus deiner Hand ab, um einen :gondor: Gefährten zu heilen.'
+  lore: ''
+fr:
+  title: Piliers des Rois
+  subtitle: ''
+  text: '**Rivière.** **Compagnie :** Défaussez une carte :gondor: de votre main pour guérir un compagnon :gondor:.'
+  lore: ''
+it:
+  title: Colonne dei Re
+  subtitle: ''
+  text: '**Fiume.** **Compagnia:** Scarta una carta :gondor: dalla mano per curare un compagno :gondor:.'
+  lore: ''
+es:
+  title: Pilares de Los Reyes
+  subtitle: ''
+  text: '**Río.** **Comunidad:** Descarta una carta :gondor: de tu mano para curar un compañero :gondor:.'
+  lore: ''

@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '239'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Right
+en:
+  title: Fangorn Glade
+  subtitle: ''
+  text: '**Forest.** When the fellowship moves to this site, add :twilight1: for each Free Peoples weapon. '
+  lore: ''
+de:
+  title: Lichtung in Fangorn
+  subtitle: ''
+  text: '**Wald.** Erhöhe den Einfluss um :twilight1: für jede Waffe der Freien Völker, wenn die Gemeinschaft diesen Ort erreicht.'
+  lore: ''

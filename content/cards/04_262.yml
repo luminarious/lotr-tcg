@@ -1,0 +1,16 @@
+set: '4'
+rarity: R
+number: '262'
+unique: true
+culture: Rohan
+type: Ally
+race: Man
+cost: 1
+str: '3'
+vit: '2'
+site: '3T & 6T '
+en:
+  title: Aldor
+  subtitle: Soldier of Edoras
+  text: '**Archery:** Exert Aldor and spot a villager to make the fellowship archery total +1. '
+  lore: Fighting to defend his people, Aldor found courage to replace his youth.

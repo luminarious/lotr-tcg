@@ -1,0 +1,17 @@
+set: '17'
+rarity: R
+number: '142'
+unique: true
+culture: Wraith
+type: Artifact
+class: Ring
+cost: 0
+str: '+1'
+en:
+  title: Ring of Savagery
+  subtitle: ''
+  text: |-
+    Bearer must be a Nazgûl.  
+    Each time bearer wins a skirmish, the Free Peoples player must either add a burden or exert a companion.  
+    **Response:** If a player reconciles, return bearer to his owner’s hand.
+  lore: ''

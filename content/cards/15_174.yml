@@ -1,0 +1,18 @@
+set: '15'
+rarity: R
+number: '174'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '11'
+vit: '3'
+site: 5
+en:
+  title: Uruk Cavern Striker
+  subtitle: ''
+  text: |-
+    **Damage +1**.  
+    **Skirmish:** Spot a Free Peoples player’s site on the adventure path and exert this minion twice to exchange the spotted site with a site you control. You now control the spotted site.
+  lore: Get them into the caves.

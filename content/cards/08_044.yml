@@ -1,0 +1,22 @@
+set: '8'
+rarity: U
+number: '44'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Sixth Level
+  subtitle: ''
+  text: |-
+    **Fortification.**   
+    **Regroup:** Exert a :gondor: Man to play a :gondor: fortification from your discard pile (limit 1).
+  lore: …and in each wall was a gate.
+de:
+  title: Sechster Ring
+  subtitle: ''
+  text: |-
+    **Befestigung.**   
+    **Sammeln:** Strenge einen :gondor: Menschen an, um eine :gondor: Befestigung aus deinem Ablagestapel zu spielen (maximal 1).
+  lore: … und in jeder Mauer war ein Tor.

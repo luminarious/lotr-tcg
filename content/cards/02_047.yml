@@ -1,0 +1,49 @@
+set: '2'
+rarity: C
+number: '47'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '7'
+vit: '2'
+site: 5
+en:
+  title: Uruk Scout
+  subtitle: ''
+  text: |-
+    **Tracker.** **Damage +1.**   
+    The roaming penalty for each :isengard: minion you play is -1.   
+    **Response:** If an event is played that spots or exerts a ranger, exert this minion to cancel that event. 
+  lore: Forward Uruk troops caught the fellowship unaware.
+de:
+  title: Uruk Späher
+  subtitle: ''
+  text: |-
+    **Spurenleser.**  
+    **Schaden +1.**  
+    Die Strafkosten für wandernde :isengard: Diener, die du spielst, werden um 1 reduziert. **Reaktion:** Wenn ein Ereignis gespielt wird, das einen Waldläufer entdeckt oder anstrengt, dann strenge diesen Diener an, um das Ereignis zu verhindern.
+  lore: Die Gefährten wurden von der Vorhut der Uruk Truppen überrascht.
+fr:
+  title: Éclaireur Ourouk
+  subtitle: ''
+  text: |-
+    **Traqueur.** **Dégâts +1.**  
+    La pénalité d’errance de chaque séides :isengard: que vous jouez est de -1.  
+    **Réponse :** Si un événement nécessitant de désigner ou d’affaiblir un rôdeur est joué, affaiblissez ce séide pour annuler l’événement.
+  lore: La compagnie fut surprise par l'avant-garde Ourouk.
+it:
+  title: Guida Uruk
+  subtitle: ''
+  text: |-
+    **Inseguitore.**  
+    **Danno +1.**  
+    Sottrai -1 alla penalità per il vagare di ogni servitore :isengard: che giochi.  
+    **Risposta:** Se viene giocato un evento che avvista o sforza un Ramingo, sforza questo servitore per cancellare quell’evento.
+  lore: Le truppe in avanscoperta degli Uruk colsero la Compagnia di sorpresa.
+es:
+  title: Explorador Uruk
+  subtitle: ''
+  text: '**Rastreador.** **Daño +1.** La penalización por vagar de cada siervo :isengard: que tu juegues es -1. **Respuesta:** Si se juega un evento que avista o esfuerza un montaraz, esfuerza este siervo para cancelar ese evento.'
+  lore: Las tropas de avanzadilla Uruk tomaron a la comunidad por sorpresa.

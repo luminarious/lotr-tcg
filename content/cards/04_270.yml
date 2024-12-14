@@ -1,0 +1,18 @@
+set: '4'
+rarity: C
+number: '270'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Theoden
+en:
+  title: Éowyn
+  subtitle: Lady of Rohan
+  text: |-
+    **Valiant.**  
+    **Response:** If an unbound companion is about to take a wound, exert Éowyn and add :twilight1: to prevent that wound. 
+  lore: Thus Aragorn… beheld Éowyn… and thought her fair, fair and cold, like a morning of pale spring that is not yet come to womanhood.

@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '336'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Wold of Rohan
+  subtitle: ''
+  text: '**Plains.** Each time the Free Peoples player assigns a companion or ally to a skirmish, add :twilight1:. '
+  lore: ''
+de:
+  title: Die Ödlande von Rohan
+  subtitle: ''
+  text: '**Ebene.** Jedes Mal, wenn der Freie Völker Spieler einen Gefährten oder Verbündeten einem Kampf zuweist, erhöhe den Einfluss um :twilight1:.'
+  lore: ''
+fr:
+  title: Plateau de Rohan
+  subtitle: ''
+  text: '**Plaine.** Chaque fois que le joueur des Peuples Libres affecte un compagnon ou un allié au combat, ajoutez :twilight1:.'
+  lore: ''
+it:
+  title: Landa di Rohan
+  subtitle: ''
+  text: '**Pianura.** Ogni volta che il giocatore dei Popoli Liberi assegna un compagno o un alleato a una schermaglia, aggiungi :twilight1:.'
+  lore: ''
+es:
+  title: Mesetas De Rohan
+  subtitle: ''
+  text: '**Llanura.** Cada vez que el jugador de Gentes Libres asigna un compañero o aliado a una escaramuza, añade :twilight1:.'
+  lore: ''

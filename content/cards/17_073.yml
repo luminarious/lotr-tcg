@@ -1,0 +1,16 @@
+set: '17'
+rarity: R
+number: '73'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 6
+str: '17'
+vit: '2'
+site: 4
+en:
+  title: Orkish Berserker
+  subtitle: ''
+  text: 'When this minion wins a skirmish, discard an :orc: minion from play. '
+  lore: These Orcs were fearsome warriors.

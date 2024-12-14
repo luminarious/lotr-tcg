@@ -1,0 +1,18 @@
+set: '12'
+rarity: S
+number: '126'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: No Worse for Wear
+  subtitle: ''
+  text: Prevent a Hobbit from being overwhelmed unless his or her strength is tripled. Then, if the fellowship is at a dwelling site, you may discard 2 cards from hand to return this event to your hand.
+  lore: ‘That was good.'”“‘Let’s get another one!’
+de:
+  title: Nicht angeschlagen
+  subtitle: ''
+  text: Ein Hobbit kann nur mit dreifacher Stärke überwältigt werden. Du darfst anschließend 2 Karten aus deiner Hand ablegen, wenn sich die Gemienschaft an einer Heimstatt befindet, um dieses Ereignis zurück auf deine Hand zu nehmen.
+  lore: Das war gut.“"Holen wir uns noch eine!

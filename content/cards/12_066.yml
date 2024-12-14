@@ -1,0 +1,22 @@
+set: '12'
+rarity: U
+number: '66'
+unique: true
+culture: Man
+type: Event
+class: Skirmish
+cost: 6
+en:
+  title: Gathering Strength
+  subtitle: ''
+  text: |-
+    **Toil 2.** *(For each* :men: *character you exert when playing this, its twilight cost is –2.)*   
+    Make a :men: minion strength +6.
+  lore: ‘Always more people coming to Mordor. One day all the peoples will be inside.’
+de:
+  title: Kräfte sammeln
+  subtitle: ''
+  text: |-
+    **Mühe 2.** *(Für jeden *:men: *Charakter, den du beim Ausspielen dieser Karte anstrengst, reduzieren sich deren Kosten um 2.)*  
+    Gib einem :men: Diener Stärke +6.
+  lore: Immer mehr Volk kommt nach Mordor. Bald werden alle Völker drinnen sein.

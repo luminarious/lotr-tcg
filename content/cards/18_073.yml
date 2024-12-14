@@ -1,0 +1,15 @@
+set: '18'
+rarity: R
+number: '73'
+unique: true
+culture: Orc
+type: Possession
+class: Support Area
+cost: 3
+en:
+  title: Grond
+  subtitle: Forged With Black Steel
+  text: |-
+    To play, spot an :orc: minion.  
+    Each time the fellowship moves in the regroup phase, you may discard this possession to search the Free Peoples player’s draw deck and remove up to 2 Free Peoples cards from the game.
+  lore: Grond! Grond! Grond! Grond! Grond! Grond!

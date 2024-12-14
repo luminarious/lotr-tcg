@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '3'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: "A Clamour of Many\_Voices"
+  subtitle: ''
+  text: 'Each time a Dwarf wins a skirmish in which you played a :dwarven: event, you may draw a card.'
+  lore: …crying strange news in the dawn.
+de:
+  title: Ein Geschrei vieler Stimmen
+  subtitle: ''
+  text: "Du darfst jedes Mal, wenn ein Zwerg einen Kampf gewinnt, in dem du ein :dwarven: Ereignis gespielt hast, eine Karte ziehen.\x7F"
+  lore: … die seltsame Neuigkeiten in der Morgendämmerung ausriefen.

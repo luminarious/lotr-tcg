@@ -1,0 +1,32 @@
+set: '1'
+rarity: U
+number: '324'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: The Prancing Pony
+  subtitle: ''
+  text: '**Fellowship:** Add a burden to play Aragorn from your draw deck.'
+  lore: ''
+de:
+  title: Zum Tänzelnden Pony
+  subtitle: ''
+  text: '**Gemeinschaft.** Lege eine Lastmarke auf den Ringträger, um Aragorn direkt aus deinem Spieldeck zu spielen.'
+  lore: ''
+fr:
+  title: Le Poney Fringant
+  subtitle: ''
+  text: '**Compagnie :** Ajoutez un point-fardeau pour jouer Aragorn de votre pioche.'
+  lore: ''
+it:
+  title: Il Puledro Impennato
+  subtitle: ''
+  text: '**Compagnia:** Aggiungi un segnalino fardello per giocare Aragorn dal tuo mazzo di gioco.'
+  lore: ''
+es:
+  title: El Poney Pisador
+  subtitle: ''
+  text: '**Comunidad:** Añade una carga para jugar a Aragorn de tu mazo de robar.'
+  lore: ''

@@ -1,0 +1,40 @@
+set: '1'
+rarity: C
+number: '269'
+unique: true
+culture: Sauron
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Orc Scimitar
+  subtitle: ''
+  text: |-
+    Bearer must be a :sauron: Orc.  
+    **Skirmish:** Remove :twilight1: to make bearer strength +1 (limit +3).
+  lore: An Orc’s weapon reflects his passion for war and cruelty.
+de:
+  title: Orkkrummsäbel
+  subtitle: ''
+  text: 'Muss auf einen :sauron: Ork gespielt werden. **Kampf** Verringere den Einfluss um :twilight1:, um dem Träger Stärke +1 zu geben (maximal +3).'
+  lore: Die Waffe eines Orks spiegelt seine Begeisterung für Mord und Totschlag wieder.
+fr:
+  title: Cimeterre Orque
+  subtitle: ''
+  text: 'Le détenteur doit être un :sauron: Orque. **Combat :** Retirez :twilight1: pour donner au détenteur +1 en force (limité à +3).'
+  lore: Une arme d'Orque reflète sa passion pour la guerre et la cruauté.
+it:
+  title: Scimitarra degli Orchi
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Orco :sauron:.   
+    **Schermaglia:** Rimuovi :twilight1: per aggiungere +1 alla forza del possessore (limite +3).
+  lore: L'arma di un Orco riflette la sua passione per la guerra e la crudeltà.
+es:
+  title: Cimitarra Orca
+  subtitle: ''
+  text: |-
+    El portador ha de ser un Orco :sauron:.   
+    **Escaramuza:** Quita :twilight1: para dar al portador fuerza +1 (limite +3).
+  lore: El arma de un Orco refleja su pasión por la guerra y la crueldad.

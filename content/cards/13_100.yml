@@ -1,0 +1,21 @@
+set: '13'
+rarity: S
+number: '100'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Vicious Dunlending
+  subtitle: ''
+  text: '**Skirmish:** If this minion is not assigned to a skirmish, you may exert him to make another :men: minion **damage +1**.'
+  lore: A swath of terror cut across the fields of Rohan.
+de:
+  title: Boshafter Dunländer
+  subtitle: ''
+  text: '**Kampf:** Du darfst diesen Diener anstrengen, wenn er keinem Kampf zugewiesen ist, um einem anderen :men: Diener **Schaden +1** zu geben.'
+  lore: Er trieb einen Pfad der Verwüstung durch die Ebenen Rohans.

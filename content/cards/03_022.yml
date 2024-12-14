@@ -1,0 +1,35 @@
+set: '3'
+rarity: C
+number: '22'
+unique: true
+culture: Elven
+type: Event
+class: Fellowship, Regroup
+cost: 1
+en:
+  title: Master of Healing
+  subtitle: ''
+  text: '**Fellowship:** or **Regroup:** Spot Elrond (or 2 :elven: allies) to heal a companion or ally. '
+  lore: '‘Elrond has cured you: he has tended you for days, ever since you were brought in.’'
+de:
+  title: Meister der Heilkünste
+  subtitle: ''
+  text: 'Gemeinschaft oder **Sammeln:** Entdecke Elrond (oder 2 :elven: Verbündete), um einen Gefährten oder Verbündeten zu heilen.'
+  lore: 'Elrond hat dich geheilt: tagelang hat er dich gepflegt, seit du hergebracht wurdest.'
+fr:
+  title: Maître Guérisseur
+  subtitle: ''
+  text: Compagnie ou **Ralliement :** Désignez Elrond (ou 2 alliés :œ:) pour guérir un compagnon ou un allié.
+  lore: 'Elrond vous a guéri: il vous a soigné plusieurs jours durant, depuis le moment où on vous a apporté ici.” '
+it:
+  title: Maestro della Guarigione
+  subtitle: ''
+  text: |-
+    Compagnia o   
+    **Raccolta:** Avvista Elrond (o 2 alleati :elven:) per curare un compagno o un alleato.
+  lore: ‘Fu Elrond a curarti, in questi giorni, da quando fosti portato qui.’
+es:
+  title: Maestro de la Curación
+  subtitle: ''
+  text: '**Comunidad** o **Reagrupación:** Avista a Elrond (o a 2 aliados :elven:) para curar un compañero o un aliado.'
+  lore: 'Elrond te ha curado: te ha atendido durante días, desde el momento en el que te trajeron.'

@@ -1,0 +1,44 @@
+set: '3'
+rarity: C
+number: '74'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '6'
+vit: '2'
+site: 5
+en:
+  title: Uruk Raider
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    While an ally is in the dead pile, this minion is strength +3 and **fierce**. 
+  lore: There is no safety where Saruman’s emblem is shown.
+de:
+  title: Uruk Räuber
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Wenn ein Verbündeter im Friedhof liegt, erhält dieser Diener Stärke +3 und er ist **Erbittert.**
+  lore: Es gibt keine Sicherheit, wo sich Sarumans Zeichen zeigt.
+fr:
+  title: Pillard Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    Tant qu'il y a un allié dans le cimetière, ce séide a +3 en force et est **acharné.**
+  lore: Il n'y a pas de sécurité là où l'emblème de Saroumane est présent.
+it:
+  title: Predone Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    Quando un alleato è nella pila dei morti, questo servitore aggiunge +3 alla forza e diventa **Feroce.**
+  lore: Non c'è riparo quando appare l'emblema di Saruman.
+es:
+  title: Asaltador Uruk
+  subtitle: ''
+  text: '**Daño +1.** Mientras haya un aliado en la pila de muertos, este siervo es fuerza +3 y **fiero.**'
+  lore: No hay seguridad allá donde se muestra el emblema de Saruman.

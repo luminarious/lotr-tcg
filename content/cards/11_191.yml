@@ -1,0 +1,21 @@
+set: '11'
+rarity: U
+number: '191'
+unique: true
+culture: Uruk-hai
+type: Possession
+class: Ranged Weapon
+cost: 1
+vit: '+1'
+en:
+  title: Isengard Siege Bow
+  subtitle: ''
+  text: |-
+    Bearer must be a :urukhai: minion.   
+    While bearer is at a battleground site, it is an **Archer.** 
+  lore: Saruman’s machine works also makes formidable heavy bows for the Uruk-hai.
+de:
+  title: Isengart Belagerungsbogen
+  subtitle: ''
+  text: 'Muss auf einen :urukhai: Diener gespielt werden. Der Träger ist **Bogenschütze**, solange er sich an einem Schlachtfeld befindet.'
+  lore: Sarumans Maschinen liefern auch hervorragende, schwere Bögen für seine Uruk-hai.

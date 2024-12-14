@@ -1,0 +1,22 @@
+set: '12'
+rarity: U
+number: '132'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Sudden Fury
+  subtitle: ''
+  text: |-
+    Each time a :shire: companion loses a skirmish, add a :shire: token here.   
+    **Skirmish:** Remove a :shire: token from here to make a :shire: companion strength +1.
+  lore: It raised a whip a second time, but the blow never fell.
+de:
+  title: Plötzliche Wut
+  subtitle: ''
+  text: |-
+    Lege jedes Mal, wenn ein :shire: Gefährte einen Kampf verliert, eine :shire: Marke auf diese Karte.  
+    **Kampf:** Entferne hier eine :shire: Marke, um einem :shire: Gefährten Stärke +1 zu geben.
+  lore: Er hob eine Peitsche ein zweites Mal, aber der Schlag fiel nie.

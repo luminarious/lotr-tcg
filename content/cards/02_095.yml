@@ -1,0 +1,36 @@
+set: '2'
+rarity: C
+number: '95'
+unique: true
+culture: Sauron
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Vile Blade
+  subtitle: ''
+  text: |-
+    Bearer must be a :sauron: Orc.   
+    Bearer is strength +2 while skirmishing a Man or Elf. 
+  lore: The blood of enemies slain that day blackened the edge of the commander’s blade.
+de:
+  title: Heimtückische Klinge
+  subtitle: ''
+  text: 'Muss auf einen :sauron: Ork gespielt werden. Der Träger erhält Stärke +2, wenn er gegen einen Menschen oder Elben kämpft.'
+  lore: Das Blut erschlagener Feinde schwärzte an diesem Tag die Klinge des Anführers.
+fr:
+  title: Lame Infâme
+  subtitle: ''
+  text: Le détenteur doit être un Orque :sauron:. Le détenteur a +2 en force pendant qu’il combat un Homme ou un Elfe.
+  lore: Le sang des ennemis occis ce jour-là noircissait le tranchant de la lame du commandant.
+it:
+  title: Lama Vile
+  subtitle: ''
+  text: 'Il possessore deve essere un Orco :sauron: Aggiungi +2 alla forza del possessore quando schermaglia con un Uomo o un Elfo.'
+  lore: Il sangue dei nemici uccisi quel giorno anneriva il taglio della lama del comandante.
+es:
+  title: Hoja vil
+  subtitle: ''
+  text: El portador debe ser un Orco :sauron:. El portador es **Daño +2** mientras esté en una escaramuza contra un Hombre o un Elfo.
+  lore: La sangre de los enemigos exterminados ese día ennegrecía el filo de la hoja del comandante.

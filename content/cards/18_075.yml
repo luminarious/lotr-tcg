@@ -1,0 +1,13 @@
+set: '18'
+rarity: R
+number: '75'
+unique: true
+culture: Orc
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Gruesome Meal
+  subtitle: ''
+  text: 'Make a companion skirmishing an :orc: minion strength -2 (or -3 if he or she is an archer).'
+  lore: They dined on the flesh of all that lived and breathed in Middle-earth.

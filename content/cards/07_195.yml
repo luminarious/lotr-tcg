@@ -1,0 +1,24 @@
+set: '7'
+rarity: U
+number: '195'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Morgul on the March
+  subtitle: ''
+  text: |-
+    To play, spot a Nazgûl.   
+    Each time the Free Peoples player draws a card (except during the regroup phase), add a threat.   
+    **Regroup:** Discard a Nazgûl and this condition to add a threat.
+  lore: ''
+de:
+  title: Morgul auf dem Vormarsch
+  subtitle: ''
+  text: |-
+    Entdecke einen Nazgûl, um diesen Effekt zu spielen.   
+    Lasse, jedes Mal, wenn der Freie Völker Spieler eine Karte zieht (außer in der Sammelphase) eine Bedrohung entstehen.   
+    **Sammeln:** Lege einen Nazgûl und diesen Effekt ab, um eine Bedrohung entstehen zu lassen.
+  lore: ''

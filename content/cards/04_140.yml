@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '140'
+unique: true
+culture: Isengard
+type: Event
+class: Maneuver
+cost: 5
+en:
+  title: Beyond All Hope
+  subtitle: ''
+  text: '**Maneuver:** Exert 2 Uruk-hai to add a burden for each card in the dead pile. '
+  lore: ‘How shall any tower withstand such numbers and such reckless hate?’
+de:
+  title: Jenseits aller Hoffnung
+  subtitle: ''
+  text: '**Manöver:** Strenge 2 Uruk-hai an, um für jede Karte im Friedhof eine Lastmarke auf den Ringträger zu legen.'
+  lore: Wie soll irgendein Turm einer solchen Anzahl von Feinden und solchem tollkühnen Hass standhalten?
+fr:
+  title: Au-Delà de Tout Espoir
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez 2 Ourouk-Haï pour ajouter un point-fardeau pour chaque carte que contient le cimetière.'
+  lore: 'Comment aucune tour pourrait-elle résister à un tel nombre et à une haine aussi violente?” '
+it:
+  title: Aldilà di Ogni Speranza
+  subtitle: ''
+  text: '**Manovra:** Sforza 2 Uruk-hai per aggiungere un segnalino fardello per ogni carta nella pila dei morti.'
+  lore: ‘Come potrà mai una torre resistere a una tale valanga e a un odio così implacabile?’
+es:
+  title: Más Allá de Toda Esperanza
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza 2 Uruk-hai para añadir una carga por cada carta en la pila de muertos.'
+  lore: ¿Cómo podrá una torre resistir a fuerzas tan numerosas y a un odio tan implacable?

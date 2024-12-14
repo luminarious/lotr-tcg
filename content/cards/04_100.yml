@@ -1,0 +1,39 @@
+set: '4'
+rarity: R
+number: '100'
+unique: true
+culture: Gandalf
+type: Possession
+class: Mount
+cost: 2
+str: '+2'
+en:
+  title: Shadowfax
+  subtitle: ''
+  text: |-
+    Bearer must be Gandalf. Discard any hand weapon he bears.  
+    Gandalf may not bear a hand weapon.  
+    At the start of each skirmish involving Gandalf, each minion skirmishing him must exert. 
+  lore: ‘He is the chief of the Mearas, lords of horses….’
+de:
+  title: Schattenfell
+  subtitle: ''
+  text: Muss auf Gandalf gespielt werden. Lege alle Handwaffen von Gandalf ab und er darf auch keine Handwaffen tragen. Zu Beginn jedes Kampfes, an dem Gandalf beteiligt ist, muss jeder Diener in diesem Kampf angestrengt werden.
+  lore: Er ist das Haupt der Mearas, der Fürsten unter den Pferden….
+fr:
+  title: Gripoil
+  subtitle: ''
+  text: Le détenteur doit être Gandalf. Défaussez toute arme de mêlée détenue par Gandalf. Gandalf ne peut pas détenir une arme de mêlée. Au début de chaque combat impliquant Gandalf, chaque séide qui le combat doit s’affaiblir.
+  lore: 'Il est le chef des Mearas, seigneurs des chevaux…” '
+it:
+  title: Ombromanto
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Gandalf. Scarta ogni arma da mischia che porta. Gandalf non può portare un’arma da mischia.  
+    All’inizio di ogni schermaglia che coinvolga Gandalf, ogni servitore che stia schermagliando con lui deve sforzarsi.
+  lore: ‘E’ il capo dei Mearas, principi dei cavalli…’
+es:
+  title: Sombragrís
+  subtitle: ''
+  text: El portador debe ser Gandalf. Descarta cualquier arma de mano que lleve. Gandalf no puede portar un arma de mano. Al principio de cada escaramuza en la que participe Gandalf, cada siervo en una escaramuza contra él debe esforzarse.
+  lore: Es el jefe de los Mearas, señores de los caballos…

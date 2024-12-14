@@ -1,0 +1,41 @@
+set: '5'
+rarity: C
+number: '32'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+str: '-2'
+vit: '-1'
+en:
+  title: Citadel of the Stars
+  subtitle: ''
+  text: |-
+    **Fortification.**   
+    **Skirmish:** Exert a :gondor: Man or spot 3 knights to transfer this condition from your support area to a minion skirmishing a :gondor: Man.
+  lore: The city of Osgiliath was the first capital of Gondor.
+de:
+  title: Die Zitadelle der Sterne
+  subtitle: ''
+  text: '**Befestigung.** **Kampf** Strenge einen :gondor: Menschen an oder entdecke 3 Ritter, um diesen Effekt aus deinem Unterstützungsbereich auf einen Diener zu verschieben, der gegen einen :gondor: Menschen kämpft.'
+  lore: Osgiliath war die erste Hauptstadt von Gondor.
+fr:
+  title: La Citadelle des Étoiles
+  subtitle: ''
+  text: |-
+    **Fortification.**   
+    **Combat :** Affaiblissez un Homme :gondor: ou désignez 3 chevaliers pour transférer cette situation de votre aire de soutien à un séide qui combat un Homme :gondor:.
+  lore: La ville d'Osgiliath était la première capitale du Gondor.
+it:
+  title: Cittadella delle Stelle
+  subtitle: ''
+  text: |-
+    **Fortificazione.**   
+    **Schermaglia:** Sforza un Uomo :gondor: o avvista 3 Cavalieri per trasferire questa condizione dalla tua area di supporto a un servitore che sta schermagliando con Uomo :gondor:.
+  lore: La città di Osgiliath fu la prima capitale di Gondor.
+es:
+  title: Ciudadela de las Estrellas
+  subtitle: ''
+  text: '**Fortificación.** **Escaramuza:** Esfuerza un Hombre :gondor: o avista 3 caballeros para transferir esta condición de tu área de apoyo a un siervo que esté en una escaramuza contra un Hombre :gondor:.'
+  lore: La ciudad de Osgiliath fue la primera capital de Gondor.

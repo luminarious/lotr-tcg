@@ -1,0 +1,35 @@
+set: '2'
+rarity: U
+number: '76'
+unique: true
+culture: Wraith
+type: Condition
+cost: 0
+en:
+  title: Helpless
+  subtitle: ''
+  text: |-
+    To play, spot Frodo and a Nazgûl.   
+    Plays on Sam.   
+    Sam’s game text does not apply. 
+  lore: He heard Frodo’s voice, but it seemed to come from a great distance, or from under the earth, crying out strange words.
+de:
+  title: Hilflos
+  subtitle: ''
+  text: Entdecke Frodo und einen Nazgûl, um diese Karte auf Sam zu spielen. Sams Spieltext darf nicht genutzt werden.
+  lore: Er hörte Frodos Stimme, aber es war, als ob sie aus großer Ferne oder von unter der Erde käme, und sie rief fremdartige Wörter.
+fr:
+  title: Impuissant
+  subtitle: ''
+  text: Pour jouer cette carte, désignez Frodon et un Nazgûl. Jouable sur Sam. Le descriptif de Sam ne s’applique pas.
+  lore: 'Il entendait la voix de Frodon, mais elle semblait venir de très loin ou de sous la terre, criant des mots étranges. '
+it:
+  title: Impotente
+  subtitle: ''
+  text: Per giocarla, avvista Frodo e un Nazgûl. Giocala su Sam. Il testo di gioco di Sam non si applica.
+  lore: Egli aveva udito la voce di Frodo, ma sembrava giungere da molto lontano, o da sotto terra, e gridare strane parole.
+es:
+  title: Desvalido
+  subtitle: ''
+  text: Para jugarla, avista a Frodo y a un Nazgûl. Se juega en Sam. El texto de juego de Sam no se aplica.
+  lore: Oyó la voz de Frodo, pero esta parecía venir de una gran distancia, o de bajo la tierra, gritando extrañas palabras.

@@ -1,0 +1,33 @@
+set: '2'
+rarity: U
+number: '68'
+unique: true
+culture: Moria
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Must Do Without Hope
+  subtitle: ''
+  text: '**Maneuver:** Exert The Balrog to add a burden. '
+  lore: His enemy halted again, facing him, and the shadow about it reached out like two vast wings.
+de:
+  title: Wir müssen es ohne Hoffnung versuchen
+  subtitle: ''
+  text: '**Manöver:** Strenge den Balrog an, um eine Lastmarke auf den Ringträger zu legen.'
+  lore: Sein Feind blieb wieder stehen und schaute ihn an, und der Schatten um ihn reckte sich wie zwei riesige Flügel.
+fr:
+  title: Il Faut Abandonner Tout Espoir
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez Le Balrog pour ajouter un point-fardeau.'
+  lore: 'Son ennemi s''arrêta de nouveau face à lui, et l''ombre qui l''entourait s''étendait comme deux vastes ailes. '
+it:
+  title: Dovremo Fare a Meno della Speranza
+  subtitle: ''
+  text: '**Manovra:** Sforza Il Balrog per aggiungere un segnalino fardello.'
+  lore: Il nemico si arrestò nuovamente, fronteggiandolo, ed intorno ad esso l'ombra allungò due grandi ali.
+es:
+  title: Seguir sin esperanza
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza El Balrog para añadir una carga.'
+  lore: El enemigo se detuvo de nuevo, enfrentándolo, y la sombra que lo envolvía se abrió a los lados como dos vastas alas.

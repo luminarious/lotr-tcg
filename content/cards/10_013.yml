@@ -1,0 +1,21 @@
+set: '10'
+rarity: R
+number: '13'
+unique: true
+culture: Elven
+type: Artifact
+cost: 0
+en:
+  title: Phial of Galadriel
+  subtitle: Star-glass
+  text: |-
+    Bearer must be a Hobbit.   
+    **Skirmish:** Until the regroup phase, remove the game text (except card type and race) of a minion skirmishing bearer and make it unable to gain game text. Discard this artifiact. 
+  lore: …the hand that held it sparkled with white fire.
+de:
+  title: Galadriels Phiole
+  subtitle: Sternenglas
+  text: |-
+    Muss auf einen Hobbit gespielt werden.   
+    **Kampf:** Entferne bis zur Sammelphase den Spieltext (außer Kartentyp und Volk) von einem Diener, der gegen den Träger kämpft, und verhindere, dass dieser Diener wieder einen Spieltext erhält. Lege dieses Artefakt ab.
+  lore: … und die Hand, die es hielt, mit weißem Feuer funkelte.

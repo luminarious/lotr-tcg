@@ -1,0 +1,32 @@
+set: '2'
+rarity: U
+number: '116'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Hobbiton Woods
+  subtitle: ''
+  text: '**Forest.** **Fellowship:** Exert a Hobbit to play your site 2 (replacing opponent’s site if necessary). '
+  lore: ''
+de:
+  title: Hobbinger Wald
+  subtitle: ''
+  text: '**Wald.****Gemeinschaft.** Strenge einen Hobbit an, um deinen Ort 2 zu spielen (und nötigenfalls eine vorhandene Ortskarte zu ersetzen).'
+  lore: ''
+fr:
+  title: Bois de Hobbitebourg
+  subtitle: ''
+  text: '**Forêt.****Compagnie :** Affaiblissez un Hobbit pour jouer votre site 2 (en remplaçant le site d’un adversaire si nécessaire).'
+  lore: ''
+it:
+  title: Boschi di Hobbiville
+  subtitle: ''
+  text: '**Foresta.****Compagnia:** Sforza un Hobbit per giocare il tuo sito 2 (rimpiazzando il sito dell’avversario, se necessario).'
+  lore: ''
+es:
+  title: Bosques de Hobbiton
+  subtitle: ''
+  text: '**Bosque.** **Comunidad:** Esfuerza un Hobbit para jugar tu sitio 2 (reemplazando el de tu oponente si es necesario).'
+  lore: ''

@@ -1,0 +1,36 @@
+set: '4'
+rarity: R
+number: '157'
+unique: true
+culture: Isengard
+type: Condition
+cost: 0
+str: '-1'
+en:
+  title: Leechcraft
+  subtitle: ''
+  text: |-
+    **Spell. ** To play, exert Saruman or an :isengard: Man.   
+    Plays on a Free Peoples Man.   
+    Special abilities in bearer’s game text may not be used. 
+  lore: ‘Your leechcraft ere long would have had me walking on all fours like a beast.’
+de:
+  title: Heilkunst
+  subtitle: ''
+  text: '**Zauberspruch.** Strenge Saruman oder einen :isengard: Menschen an, um diese Karte auf einen Menschen der Freien Völker zu spielen. Besondere Fähigkeiten im Spieltext des Trägers dürfen nicht benutzt werden.'
+  lore: Eure Heilkunst hätte mich binnen kurzem dazu gebracht, wie ein Tier auf allen vieren zu gehen.
+fr:
+  title: Science Médicale
+  subtitle: ''
+  text: '**Sort.** Pour jouer, affaiblissez Saroumane ou un Homme :isengard:. Jouable sur un Homme des Peuples Libres. Les capacités spéciales dans le descriptif du détenteur ne peuvent pas être utilisées.'
+  lore: 'Votre science médicale m''aurait bientôt réduit à marcher à quatre pattes comme les bêtes.” '
+it:
+  title: Stregoneria
+  subtitle: ''
+  text: '**Magia.** Per giocarla, sforza Saruman o un Uomo :isengard:. Giocala su un Uomo dei Popoli Liberi. Le abilità speciali del testo di gioco del possessore non possono essere usate.'
+  lore: ‘Fra non molto le tue stregonerie mi avrebbero costretto a camminare a quattro zampe come una bestia.’
+es:
+  title: Sanguijuela
+  subtitle: ''
+  text: '**Hechizo.** Para jugarla, esfuerza a Saruman o un Hombre :isengard:. Se juega en un Hombre de Gentes Libres. Las habilidades especiales en el texto de juego del portador no se pueden usar.'
+  lore: Tus sanguijuelas pronto me hubieran obligado a caminar en cuatro patas como las bestias.

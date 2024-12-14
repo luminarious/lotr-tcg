@@ -1,0 +1,15 @@
+set: '19'
+rarity: P
+number: '15'
+unique: true
+culture: Gondor
+type: Condition
+cost: 1
+str: '+1'
+en:
+  title: Strength in My Blood
+  subtitle: ''
+  text: |-
+    Bearer must be a fellowship companion.  
+    While bearer is a :gondor: companion, he or she is damage +1.
+  lore: I would have followed you my Brother… my Captain… my King!

@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '322'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Noble Intentions
+  subtitle: ''
+  text: '**Skirmish:** Exert a companion (except a Hobbit) to make a Hobbit strength +3.'
+  lore: ''
+de:
+  title: Noble Absichten
+  subtitle: ''
+  text: Strenge einen Gefährten (außer einen Hobbit) an, um einem Hobbit Stärke +3 zu geben.
+  lore: ''

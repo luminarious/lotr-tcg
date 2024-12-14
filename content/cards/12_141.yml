@@ -1,0 +1,18 @@
+set: '12'
+rarity: R
+number: '141'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Dark Alliance
+  subtitle: ''
+  text: '**Response:** If an ally or companion uses a special ability, discard this condition and exert an :urukhai: lurker to prevent that.'
+  lore: The power of Isengard is at your command, Sauron, Lord of the Earth.
+de:
+  title: Ein finsterer Bund
+  subtitle: ''
+  text: '**Reaktion:** Lege diesen Effekt ab und strenge einen :urukhai: Schleicher an, wenn ein Verbündeter oder Gefährte eine spezielle Fähigkeit einsetzt, um dies zu verhindern.'
+  lore: Die Macht Isengarts steht dir zur Verfügung, Sauron, Herr der Erde.

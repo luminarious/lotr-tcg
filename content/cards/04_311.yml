@@ -1,0 +1,16 @@
+set: '4'
+rarity: R
+number: '311'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+signet: Signet_Gandalf
+en:
+  title: Merry
+  subtitle: Unquenchable Hobbit
+  text: '**Skirmish:** If Merry is not assigned to a skirmish, discard him to remove a :sauron: Orc from a skirmish involving an unbound companion. '
+  lore: ‘All Wizards should have a hobbit or two in their care – to teach them the meaning of the word, and to correct them.’

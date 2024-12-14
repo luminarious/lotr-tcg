@@ -1,0 +1,37 @@
+set: '1'
+rarity: C
+number: '278'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Strength Born of Fear
+  subtitle: ''
+  text: |-
+
+    **Skirmish:** Remove :twilight3: to make a :sauron: Orc strength +1.
+  lore: Fear of death in Barad-dûr’s dungeons spurs Mordor’s servants to even greater savagery.
+de:
+  title: Angst verleiht Kraft
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Kampf** Verringere den Einfluss um :twilight3:, um einem :sauron: Ork Stärke +1 zu geben.'
+  lore: Die Furcht vor dem Tod in den Verliesen Barad-dûrs spornt Mordors Diener zu noch größerer Wildheit an.
+fr:
+  title: Force Née de la Peur
+  subtitle: ''
+  text: '**Combat :** Retirez :twilight3: pour donner à un Orque :sauron: +1 en force.'
+  lore: La peur de mourir dans les fosses de Barad-dûr pousse les serviteurs du Mordor à la plus grande sauvagerie.
+it:
+  title: Forza Nata dalla Paura
+  subtitle: ''
+  text: |-
+
+    **Schermaglia:** Rimuovi :twilight3: per aggiungere +1 alla forza di un Orco :sauron:.
+  lore: La paura della morte nei sotterranei di Barad-dûr sprona i servi di Mordor a crudeltà persino più grandi.
+es:
+  title: Fuerza Nacida del Miedo
+  subtitle: ''
+  text: '**Escaramuza:** Quita :twilight3: para dar fuerza +1 a un Orco :sauron:.'
+  lore: El miedo a la muerte en los calabozos de Barad-dûr incita a los servidores de mordor a mayor salvajismo.

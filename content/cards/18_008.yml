@@ -1,0 +1,18 @@
+set: '18'
+rarity: U
+number: '8'
+unique: true
+culture: Elven
+type: Possession
+class: Hand Weapon, Shield
+cost: 2
+str: '+2'
+vit: '+1'
+en:
+  title: Elven Armaments
+  subtitle: ''
+  text: |-
+    To play, bearer must not be bearing any possessions.  
+    Bearer must be an :elven: companion. Bearer cannot bear any other possessions.  
+    While a unique companion bears this possession, skip the archery phase.
+  lore: Tangado haid!

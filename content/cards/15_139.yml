@@ -1,0 +1,18 @@
+set: '15'
+rarity: U
+number: '139'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Rohirrim Warrior
+  subtitle: ''
+  text: |-
+    **Valiant.**  
+    At the start of the maneuver phase, you may spot a hunter minion (or exert 2 valiant Men) to make this companion **defender +1** until the regroup phase.
+  lore: ‘…a warrior should have more skills and knowledge than only the craft of weapons and slaying…’

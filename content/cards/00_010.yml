@@ -1,0 +1,27 @@
+set: '0'
+rarity: W
+number: '10'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 14
+str: '20'
+vit: '5'
+site: 3
+en:
+  title: The Nazgûl
+  subtitle: ''
+  text: |-
+    **Fierce.**   
+    To play, spot a Nazgûl.   
+    **Menace -** When you play this minion, you may add 2 burdens.
+  lore: So black were they that they seemed like black holes in the deep shade behind them.’
+de:
+  title: Der Nazgûl
+  subtitle: ''
+  text: |-
+    **Erbittert.**   
+    Entdecke einen anderen Nazgûl, um diesen Diener zu spielen.   
+    **Gefahr -** Wenn du diesen Diener spielst, darfst du 2 Lastmarken hinzufügen.
+  lore: So black were they that they seemed like black holes in the deep shade behind them.’

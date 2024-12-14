@@ -1,0 +1,19 @@
+set: '18'
+rarity: R
+number: '105'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '6'
+en:
+  title: Théoden
+  subtitle: Ednew
+  text: |-
+    While you can spot Gandalf, Théoden is resistance +2.  
+    While you can spot Éomer, Théoden is **damage +1**.  
+    While you can spot 3 mounted :rohan: companions, Théoden is strength +2. 
+  lore: Now for wrath! Now for ruin! And a red dawn!

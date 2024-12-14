@@ -1,0 +1,18 @@
+set: '5'
+rarity: C
+number: '93'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '2'
+signet: Signet_Gandalf
+en:
+  title: Théoden
+  subtitle: King of the Golden Hall
+  text: |-
+    **Valiant.**  
+    **Maneuver:** Play a :rohan: possession on Théoden to heal a :rohan: ally.
+  lore: ‘You thought I remained in Meduseld bent like an old tree under winter snow…. But a west wind has shaken the boughs.’

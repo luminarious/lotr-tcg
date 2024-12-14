@@ -1,0 +1,21 @@
+set: '12'
+rarity: S
+number: '55'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Brutal Easterling
+  subtitle: ''
+  text: Each time this minion is assigned to skirmish an exhausted companion, it is **fierce** until the regroup phase.
+  lore: ‘Out of some savage land in the wide East they come, we deem.’
+de:
+  title: Grausamer Ostling
+  subtitle: ''
+  text: Jedes Mal, wenn dieser Diener einem erschöpften Gefährten zugewiesen wird, wird er bis zur Sammelphase **erbittert.**
+  lore: Aus irgendeinem wilden Land im fernen Osten kommen sie, nehmen wir an.

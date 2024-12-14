@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '53'
+unique: true
+culture: Dwarven
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Quick As May Be
+  subtitle: ''
+  text: '**Maneuver:** Spot a Dwarf companion and an Elf companion to wound a minion. '
+  lore: ‘I think, nonetheless, that we no longer need any trail to tell us which way to go.’
+de:
+  title: So rasch als möglich
+  subtitle: ''
+  text: '**Manöver:** Entdecke einen Zwergengefährten und einen Elbengefährten, um einen Diener zu verwunden.'
+  lore: Dennoch glaube ich, dass wir nicht länger eine Spur brauchen, die uns sagt, welchen Weg wir gehen sollen.
+fr:
+  title: Aussi Vite Que Possible
+  subtitle: ''
+  text: '**Manœuvre :** Désignez un compagnon Nain et un compagnon Elfe pour blesser un séide.'
+  lore: 'Je pense en tout cas que nous n''avons plus besoin d''une piste pour nous dire de quel côté aller…” '
+it:
+  title: Il Più Veloce Possibile
+  subtitle: ''
+  text: '**Manovra:** Avvista un compagno Nano e un compagno Elfo per ferire un servitore.'
+  lore: ‘Credo comunque che non abbiamo più bisogno di orme che ci indichino la via.’
+es:
+  title: Tan Rápido Como Sea Posible
+  subtitle: ''
+  text: '**Maniobra:** Avista un compañero Enano y un compañero Elfo para herir un siervo.'
+  lore: Pienso, sin embargo, que ya no necesitamos de ninguna huella que nos diga qué camino hemos de tomar.

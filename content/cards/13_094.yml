@@ -1,0 +1,15 @@
+set: '13'
+rarity: U
+number: '94'
+unique: true
+culture: Man
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Howdah
+  subtitle: ''
+  text: |-
+    When you play this, add a :men: token here for each :men: archer you spot.  
+    At the start of the archery phase, you may discard this condition from play or remove 2 tokens from here to make the minion archery total +1.
+  lore: Wooden towers perched on the backs of the Mûmakil.

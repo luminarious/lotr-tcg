@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '241'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Left
+en:
+  title: Fortress of Orthanc
+  subtitle: ''
+  text: '**Battleground.** When the fellowship moves to the site, add :twilight2: for each companion over 5. '
+  lore: ''
+de:
+  title: Die Festung von Orthanc
+  subtitle: ''
+  text: '**Schlachtfeld.** Erhöhe den Einfluss um :twilight2: für jeden Gefährten über 5, wenn die Gemeinschaft diesen Ort erreicht.'
+  lore: ''

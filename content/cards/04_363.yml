@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '363'
+unique: true
+culture: ''
+type: Site
+cost: 9
+siteArrow: Left
+en:
+  title: Palantír Chamber
+  subtitle: ''
+  text: '**Shadow:** Remove 2 burdens to play a minion from your discard pile. '
+  lore: ''
+de:
+  title: Kammer des Palantír
+  subtitle: ''
+  text: '**Schatten:** Entferne 2 Lastmarken, um einen Diener aus deinem Ablagestapel zu spielen.'
+  lore: ''
+fr:
+  title: La Chambre du Palantír
+  subtitle: ''
+  text: '**Ombre :** Retirez 2 points-fardeau pour jouer un séide de votre pile de défausse.'
+  lore: ''
+it:
+  title: Stanza del Palantír
+  subtitle: ''
+  text: '**Ombra:** Rimuovi 2 segnalini fardello per giocare un servitore dalla tua pila degli scarti.'
+  lore: ''
+es:
+  title: Cámara Del Palantír
+  subtitle: ''
+  text: '**Sombra:** Quita 2 cargas para jugar un siervo de tu pila de descartes.'
+  lore: ''

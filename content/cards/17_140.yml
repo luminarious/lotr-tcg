@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '140'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '11'
+vit: '4'
+site: 3
+en:
+  title: Úlairë Enquëa
+  subtitle: Duplicitous Lieutenant
+  text: |-
+    **Fierce.** Each time the Free Peoples player heals a companion, you may add a burden.  
+    **Maneuver:** Exert Úlairë Enquëa twice to discard a condition (or two conditions if you can spot 5 Free Peoples player’s conditions).
+  lore: At all times they feel the presence of the ring.

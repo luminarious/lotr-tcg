@@ -1,0 +1,19 @@
+set: '13'
+rarity: U
+number: '71'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '1'
+en:
+  title: Isildur
+  subtitle: Heir of Elendil
+  text: |-
+    **Knight.**  
+    Isildur is resistance +1 for each card in your hand. At the end of any phase, if Isildur has resistance 0, place him in your dead pile.  
+    Each time you reconcile, you may draw a card.
+  lore: ‘…Elendil’s son cut the Ring from Sauron’s hand….’

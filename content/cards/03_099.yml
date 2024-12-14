@@ -1,0 +1,36 @@
+set: '3'
+rarity: R
+number: '99'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '7'
+vit: '3'
+site: 6
+en:
+  title: Orc Trooper
+  subtitle: ''
+  text: 'For each card in your hand, this minion is strength +1. '
+  lore: The Dark Lord’s power grows in unseen ways.
+de:
+  title: Ork Fußsoldat
+  subtitle: ''
+  text: Für jede Karte auf deiner Hand erhält dieser Diener Stärke +1.
+  lore: Die Macht des Dunklen Herrschers wächst auf viele verborgene Weisen.
+fr:
+  title: Fantassin Orque
+  subtitle: ''
+  text: Pour chaque carte dans votre main, ce séide a +1 en force.
+  lore: Les pouvoirs du Seigneur Ténébreux s'étendent par des voies invisibles.
+it:
+  title: Fante Orco
+  subtitle: ''
+  text: Per ogni carta che compone la tua mano, aggiungi +1 alla forza di questo servitore.
+  lore: La potenza dell'Oscuro Signore si accresce in modi sconosciuti.
+es:
+  title: Soldado Orco
+  subtitle: ''
+  text: Por cada carta en tu mano, este siervo es fuerza +1.
+  lore: El poder del Señor Oscuro crece en formas ocultas.

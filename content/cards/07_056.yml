@@ -1,0 +1,23 @@
+set: '7'
+rarity: R
+number: '56'
+unique: true
+culture: Gollum
+type: Condition
+cost: 3
+en:
+  title: The Dead City
+  subtitle: ''
+  text: |-
+    **Stealth.**   
+    Bearer must be Sméagol.   
+    If Sméagol is about to be killed in a skirmish, he is discarded instead.
+  lore: ''
+de:
+  title: Die tote Stadt
+  subtitle: ''
+  text: |-
+    **Heimlichkeit.**   
+    Muss auf Sméagol gespielt werden.   
+    Wenn Sméagol im Begriff ist in einem Kampf zu sterben, wird er statt dessen abgelegt.
+  lore: Nicht da lang!

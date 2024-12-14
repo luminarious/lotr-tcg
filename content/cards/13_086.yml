@@ -1,0 +1,23 @@
+set: '13'
+rarity: R
+number: '86'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 5
+str: '12'
+vit: '3'
+site: 4
+en:
+  title: Desert Wind
+  subtitle: ''
+  text: |-
+    To play, spot a :men: minion.  
+    While you can spot 5 or more culture tokens, the minion archery total is +2.
+  lore: Silent Haradrim assassins strike as if from nowhere.
+de:
+  title: Wind der Wüste
+  subtitle: ''
+  text: 'Entdecke einen :men: Diener, um diese Karte zu spielen. Solange du 5 oder mehr Kulturenmarken entdecken kannst, erhöht sich der Fernkampfwert der Diener um 2.'
+  lore: Haradrim Attentäter kommen über dich wie derheiße Wüstenwind.

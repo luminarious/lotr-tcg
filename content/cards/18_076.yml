@@ -1,0 +1,18 @@
+set: '18'
+rarity: C
+number: '76'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '9'
+vit: '2'
+site: 2
+en:
+  title: Squint-eyed Southerner
+  subtitle: ''
+  text: |-
+    While the fellowship is in region 1, this minion is strength +4.  
+    While the fellowship is in region 2, this minion is strength +2.
+  lore: A man of Dunland, this outlaw was a prized agent of Saruman and a spy for the Witch-king.

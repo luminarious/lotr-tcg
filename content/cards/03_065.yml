@@ -1,0 +1,36 @@
+set: '3'
+rarity: R
+number: '65'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 5
+str: '10'
+vit: '4'
+site: 4
+en:
+  title: Orc Overseer
+  subtitle: ''
+  text: '**Regroup:** Exert Orc Overseer twice to exhaust a companion (except the Ring-bearer). '
+  lore: ‘What orders from Mordor, my Lord? What does the Eye command?’
+de:
+  title: Ork Aufseher
+  subtitle: ''
+  text: '**Sammeln:** Strenge den Ork Aufseher zweimal an, um einen Gefährten (außer den Ringträger) zu erschöpfen.'
+  lore: Gibt es Anweisungen aus Mordor? Was befiehlt das Auge?
+fr:
+  title: Surveillant Orque
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez le Surveillant Orque deux fois pour épuiser un compagnon (excepté le Porteur de l’Anneau).'
+  lore: 'Quels sont les ordres du Mordor, Maître? Que commande l''*il? '
+it:
+  title: Sovrintendente degli Orchi
+  subtitle: ''
+  text: '**Raccolta:** Sforza due volte Capo Squadra degli Orchi per rendere esausto un compagno (tranne il Portatore dell’Anello).'
+  lore: ‘Quali ordini da Mordor, mio Signore? Cosa comanda l'Occhio?’
+es:
+  title: Supervisor Orco
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza el Supervisor Orco dos veces para dejar exhausto un compañero (excepto el Portador del Anillo).'
+  lore: ¿Hay órdenes de Mordor, mi señor? ¿Qué ordena el Ojo?

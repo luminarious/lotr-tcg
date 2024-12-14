@@ -1,0 +1,21 @@
+set: '13'
+rarity: U
+number: '167'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Signs of War
+  subtitle: ''
+  text: 'While you can spot 3 :urukhai: lurker minions, at the start of each skirmish involving an :urukhai: lurker minion, each companion skirmishing that minion must exert.'
+  lore: Horsemen were galloping on the grass of Rohan; wolves poured from Isengard.
+de:
+  title: Anzeichen des Krieges
+  subtitle: ''
+  text: |-
+    Solange du zu Beginn eines Kampfes,  
+    an dem ein :urukhai: Schleicher beteiligt ist,  
+    3 :urukhai: Schleicher entdecken kannst, muss sich jeder Gefährte, der gegen diesen Diener kämpft, anstrengen.
+  lore: Reiter gallopierten über das Gras von Rohan; Wölfe ergossen sich aus Isengart.

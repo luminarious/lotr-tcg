@@ -1,0 +1,16 @@
+set: '17'
+rarity: C
+number: '83'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Orkish Runner
+  subtitle: ''
+  text: '**Shadow:** Exert this minion and spot another :orc: minion to add :twilightX:, where X is the number of the current region.'
+  lore: Orcs were kept in check by the light of the Sun.

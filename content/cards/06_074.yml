@@ -1,0 +1,21 @@
+set: '6'
+rarity: R
+number: '74'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Sharku
+  subtitle: Vile Marauder
+  text: '**Warg-rider**. While Sharku is not exhausted, he is **fierce**. **Regroup:** Exert Sharku to add :twilight1:.'
+  lore: ‘Send out your warg-riders.’
+fr:
+  title: Sharkou
+  subtitle: Maraudeur Infect
+  text: Chevaucheur de ouargue. Tant que Sharkou n’est pas épuisé, il est acharné. **Ralliement :** Affaiblissez Sharkou pour ajouter :twilight1:.
+  lore: 'Envoyez vos chevaucheurs de ouargues.” '

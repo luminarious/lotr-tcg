@@ -1,0 +1,16 @@
+set: '17'
+rarity: C
+number: '63'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 2
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Vengeful Wild Man
+  subtitle: ''
+  text: 'At the start of the maneuver phase, spot another :men: Man and exert this minion to add a threat. Then add an additional threat for each companion you spot over 4.'
+  lore: The pawns of Saruman are relentless in their tasks.

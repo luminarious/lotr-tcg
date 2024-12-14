@@ -1,0 +1,25 @@
+set: '8'
+rarity: R
+number: '43'
+unique: true
+culture: Gondor
+type: Companion
+race: Wraith
+cost: 5
+str: '9'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Shadow Host
+  subtitle: ''
+  text: |-
+    **Enduring.** To play, spot 2 exhausted :gondor: Wraiths and add 2 threats.   
+    While Shadow Host is exhausted, it is defender +1.
+  lore: …fear went on before them, until they came to Calembel upon Ciril, and the sun went down like blood behind Pinnath Gelin….
+de:
+  title: Geisterarmee
+  subtitle: ''
+  text: |-
+    **Zäh.** Lasse 2 Bedrohungen entstehen und entdecke 2 erschöpfte :gondor: Gespenster, um die Geisterarmee zu spielen.   
+    Die Geisterarmee ist **Verteidiger +1**, solange sie erschöpft ist.
+  lore: … Schrecken ging ihnen voraus, bis sie nach Calembel am Ciril kamen, und wie Blut ging die Sonne hinter Pinnath Gelin fern im Westen hinter ihnen unter.

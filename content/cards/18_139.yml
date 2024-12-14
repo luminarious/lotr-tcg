@@ -1,0 +1,12 @@
+set: '18'
+rarity: U
+number: '139'
+unique: true
+culture: ''
+type: Site
+cost: 1
+en:
+  title: Steward's Tomb
+  subtitle: ''
+  text: Wounds cannot be prevented or healed. Burdens cannot be removed.
+  lore: ''

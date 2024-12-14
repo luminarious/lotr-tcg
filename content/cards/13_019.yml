@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '19'
+unique: true
+culture: Elven
+type: Event
+class: Archery
+cost: 4
+en:
+  title: Let Fly
+  subtitle: ''
+  text: Spot 3 Elves, spot a Shadow race, and choose a Shadow player to wound each of that player’s minions which is not of that race.
+  lore: ‘Yet I make my tale twenty at the least. But that is only a few leaves in a forest.’
+de:
+  title: Feuer frei
+  subtitle: ''
+  text: Entdecke 3 Elben, entdecke ein Schatten-volk und wähle einen Schattenspieler aus, der jeden seiner Diener, der diesem Volk nicht angehört, verwunden muss.
+  lore: Immerhin beträgt meine Zahl mindestens zwanzig. Doch sind das nur ein paar Blätter im Wald.

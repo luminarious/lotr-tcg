@@ -1,0 +1,25 @@
+set: '7'
+rarity: U
+number: '147'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Easterling Veteran
+  subtitle: ''
+  text: |-
+    **Easterling.**   
+    **Skirmish:** Remove 2 burdens to heal another **Easterling.**
+  lore: …enclosed in a ring of foes.
+de:
+  title: Erfahrener Ostling
+  subtitle: ''
+  text: |-
+    **Ostling.**   
+    **Kampf:** Entferne 2 Lastmarken, um einen anderen Ostling zu heilen.
+  lore: Und so war nun die Stadt belagert, eingeschlossen in einem Ring von Feinden.

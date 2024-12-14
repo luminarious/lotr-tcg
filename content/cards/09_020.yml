@@ -1,0 +1,16 @@
+set: '9'
+rarity: R
+number: '20'
+unique: true
+culture: Elven
+type: Artifact
+class: Ring
+cost: 0
+vit: '+1'
+en:
+  title: Nenya
+  subtitle: Ring of Adamant
+  text: |-
+    Bearer must be Galadriel.   
+    **Maneuver:** Heal 2 companions and place up to 2 cards from hand on top of your draw deck. Discard this artifact. 
+  lore: …Nenya, the ring wrought of mithril, that bore a single white stone flickering like a frosty star.

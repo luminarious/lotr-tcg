@@ -1,0 +1,41 @@
+set: '4'
+rarity: C
+number: '321'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Swiftly and Softly
+  subtitle: ''
+  text: |-
+    **Stealth.**   
+    **Skirmish:** At sites 1:tower: to 5:tower:, cancel a skirmish involving a Hobbit. At any other site, prevent a Hobbit from taking more than 1 wound. 
+  lore: In the deep of night under hard clear stars they set off.
+de:
+  title: Rasch und leise
+  subtitle: ''
+  text: |-
+    **Heimlichkeit.**  
+    **Kampf** Hebe einen Kampf auf, an dem ein Hobbit beteiligt ist, wenn sich deine Gemeinschaft an Ort 1:tower: bis 5:tower: befindet. Ansonsten verhindere, dass ein Hobbit mehr als 1 Wunde erleidet.
+  lore: In tiefer Nacht unter den harten, klaren Sternen brachen sie auf.
+fr:
+  title: Avec Rapidité et Douceur
+  subtitle: ''
+  text: |-
+    **Dissimulation.**  
+    **Combat :** Aux sites 1:tower: à 5:tower:, annulez un combat qui implique un Hobbit. À tout autre site, empêchez un Hobbit de prendre plus d’une blessure.
+  lore: 'Ils se mirent en route, en pleine nuit sous les étoiles dures et claires. '
+it:
+  title: Silenzioso e Veloce
+  subtitle: ''
+  text: |-
+    **Segretezza.**  
+    **Schermaglia:** Ai siti dall’1:tower: al 5:tower:, cancella una schermaglia che coinvolga un Hobbit. Presso ogni altro sito, impedisci che un Hobbit subisca più di 1 ferita.
+  lore: ‘A notte fonda, al lume di pallide stelle gelide si misero in marcia.’
+es:
+  title: Suave Y Rápidamente
+  subtitle: ''
+  text: '**Sigilo.** **Escaramuza:** En los sitios del 1:tower: al 5:tower:, cancela una escaramuza en la que participe un Hobbit. En cualquier otro sitio, prevén a un Hobbit de recibir más de 1 herida.'
+  lore: En plena noche y a la luz clara y fría de las estrellas, emprendieron la marcha.

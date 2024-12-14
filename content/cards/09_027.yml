@@ -1,0 +1,20 @@
+set: '9'
+rarity: R
+number: '27'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Sent Back
+  subtitle: ''
+  text: |-
+    **Skirmish:** Discard this condition to discard each minion skirmishing a Wizard. Place that Wizard in your dead pile.   
+    **Fellowship** or **Regroup:** Play a Wizard (even if another copy of that Wizard is in your dead pile). 
+  lore: ‘The Sun shines through you.’
+de:
+  title: Zurück geschickt
+  subtitle: ''
+  text: '**Kampf:** Lege diesen Effekt ab, um alle Diener, die gegen einen Zauberer kämpfen, abzulegen. Lege den Zauberer dann in deinen Friedhof. Gemeinschaft oder **Sammeln:** Spiele einen Zauberer (selbst wenn bereits ein Exemplar dieses Zauberers auf deinem Friedhof liegt).'
+  lore: Die Sonne scheint durch dich hindurch.

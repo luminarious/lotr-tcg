@@ -1,0 +1,16 @@
+set: '0'
+rarity: P
+number: '58'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: ''
+en:
+  title: Anárion
+  subtitle: Lord of Anórien
+  text: '**Skirmish:** Play a :gondor: skirmish event to make each minion skirmishing Anárion strength -X, where X is Anárion’s vitality. '
+  lore: ''

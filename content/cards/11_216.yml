@@ -1,0 +1,18 @@
+set: '11'
+rarity: R
+number: '216'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: A Shadow Rises
+  subtitle: ''
+  text: '**Maneuver:** Remove :twilight5: to make this condition a fierce :wraith: minion until the start of the regroup phase that has 10 strength and 3 vitality, and cannot bear other cards. This card is still a condition. At the start of the regroup phase, remove all tokens from here.'
+  lore: ''
+de:
+  title: Ein Schatten entsteht
+  subtitle: ''
+  text: '**Manöver:** Verringere den Einfluss um :twilight5:, um diesen Effekt bis zu Beginn der Sammelphase zu einem erbitterten :wraith: Diener zu machen, welcher Stärke 10 und Vitalität 3 erhält, und keine anderen Karten dürfen auf ihn gespielt werden. Diese Karte ist immer noch ein Effekt. Entferne zu Beginn der Sammelphase alle Marken von dieser Karte.'
+  lore: ''

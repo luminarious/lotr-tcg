@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '35'
+unique: true
+culture: Elven
+type: Event
+class: Fellowship
+cost: 2
+en:
+  title: The Council of Elrond
+  subtitle: ''
+  text: '**Fellowship:** Spot an Elf to play a tale from your draw deck.'
+  lore: ‘You will hear today all that you need in order to understand the purposes of the Enemy…. What shall we do with the Ring, the least of rings, the trifle that Sauron fancies? That is the doom that we must deem.’
+de:
+  title: Der Rat von Elrond
+  subtitle: ''
+  text: '**Gemeinschaft.** Entdecke einen Elben, um eine Erzählung direkt aus deinem Spieldeck heraus zu spielen.'
+  lore: Ihr werdet heute alles hören, dessen ihr bedürft, um die Absichten des Feindes zu begreifen….Was sollen wir mit dem Ring tun, dem unbedeutendsten von allen Ringen, mit der Kleinigkeit, die Sauron haben möchte? Das ist die Entscheidung, die wir fällen m
+fr:
+  title: Le Conseil d'Elrond
+  subtitle: ''
+  text: '**Compagnie :** Désignez un Elfe pour jouer un récit de votre pioche.'
+  lore: Vous entendrez aujourd'hui tout ce qu'il vous est nécessaire de savoir pour comprendre les desseins de l'Ennemi….. Que ferons-nous de l'Anneau, ce moindre des anneaux, cette bagatelle dont Sauron s'est entiché ? C'est le destin que nous devons considér
+it:
+  title: Il Consiglio di Elrond
+  subtitle: ''
+  text: '**Compagnia:** Avvista un Elfo per giocare un racconto dal tuo mazzo di gioco.'
+  lore: ‘Udrai oggi tutto ciò che è necessario per capire gli scopi del Nemico …. Che fare dell'anello, il minore degli anelli, il gingillo che piace a Sauron? Questa è la decisione che dobbiamo prendere.’
+es:
+  title: El Concilio de Elrond
+  subtitle: ''
+  text: '**Comunidad:** Avista un Elfo para jugar un cuento de tu mazo de robar.'
+  lore: Oirás hoy todo lo que necesitas saber para entender los propósitos del Enemigo… ¿Qué haremos con el Anillo, el más insignificante de los anillos, la fruslería que es un capricho de Sauron? Ese es el destino que hemos de considerar.

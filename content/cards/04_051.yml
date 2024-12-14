@@ -1,0 +1,18 @@
+set: '4'
+rarity: C
+number: '51'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Khazâd Ai-mênu
+  subtitle: ''
+  text: '**Skirmish:** Make a Dwarf strength +2 (or strength +3 and **damage +1 **if you spot Legolas). '
+  lore: ‘The Orcs are behind the wall. Ai-oi! Come, Legolas! There are enough for both of us.’
+fr:
+  title: Khazâd Ai-Mênou
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force à un Nain (ou +3 en force et des **dégâts +1** si vous désignez Legolas).'
+  lore: 'Les Orques sont derrière le mur. Ai-oi! Par ici, Legolas! Il y a assez à faire pour deux.” '

@@ -1,0 +1,22 @@
+set: '7'
+rarity: U
+number: '123'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Support of the City
+  subtitle: ''
+  text: |-
+    **Fellowship:** Play a :gondor: Man to place a :gondor: token here.   
+    **Fellowship:** Play a :gondor: companion. That companion’s twilight cost is –1 for each token here. Discard this condition.
+  lore: ''
+de:
+  title: Der Rückhalt der Stadt
+  subtitle: ''
+  text: |-
+    **Gemeinschaft:** Spiele einen :gondor: Menschen, um eine :gondor: Marke auf diese Karte zu legen.   
+    **Gemeinschaft:** Spiele einen :gondor: Gefährten. Die Kosten dieses Gefährten reduzieren sich um 1 für jede Marke hier. Lege diesen Effekt ab.
+  lore: …soll Gondor noch nicht untergehen.

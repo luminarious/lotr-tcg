@@ -1,0 +1,22 @@
+set: '12'
+rarity: C
+number: '67'
+unique: true
+culture: Man
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Goaded to War
+  subtitle: ''
+  text: |-
+    To play, spot a :men: minion.   
+    Each time the fellowship moves to a battleground or plains site, add :twilight1:.
+  lore: …the mûmakil were bellowing….
+de:
+  title: In die Schlacht getrieben
+  subtitle: ''
+  text: |-
+    Entdecke einen :men: Diener, um diesen Effekt zu spielen.  
+    Erhöhe jedes Mal, wenn die Gemein-schaft ein Schlachtfeld oder eine Ebene erreicht, den Einfluss um :twilight1:.
+  lore: … und die mûmakil brüllten….

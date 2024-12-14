@@ -1,0 +1,18 @@
+set: '0'
+rarity: P
+number: '53'
+unique: true
+culture: Gandalf
+type: Companion
+race: Wizard
+cost: 4
+str: '8'
+vit: '4'
+signet: Signet_Gandalf
+en:
+  title: Radagast
+  subtitle: The Brown
+  text: |-
+    The move limit is +1.   
+    Each time the fellowship moves during the regroup phase, each opponent may discard 2 cards from hand to draw 2 cards.
+  lore: ‘…a master of shapes and changes of hue; and he has much lore of herbs and beasts….’

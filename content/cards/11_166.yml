@@ -1,0 +1,19 @@
+set: '11'
+rarity: S
+number: '166'
+unique: true
+culture: Shire
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Hobbit Sword
+  subtitle: ''
+  text: Bearer must be a Hobbit.
+  lore: ‘Strap these on….’
+de:
+  title: Hobbit Schwert
+  subtitle: ''
+  text: Muss auf einen Hobbit gespielt werden.
+  lore: Legt Euch diese an…

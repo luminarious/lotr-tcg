@@ -1,0 +1,36 @@
+set: '6'
+rarity: P
+number: '122'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 8
+str: '14'
+vit: '4'
+site: 3
+en:
+  title: The Witch-king
+  subtitle: Deathless Lord
+  text: '**Fierce.** Each time a companion is killed in a skirmish involving a Nazgûl, wound an ally twice or exert a companion.'
+  lore: ‘Dead? No, you cannot kill them.’
+de:
+  title: Der Hexenkönig
+  subtitle: Unsterblicher Herrscher
+  text: '**Erbittert.** Jedes Mal, wenn ein Gefährte in einem Kampf, an dem ein Nazgûl beteiligt ist, getötet wird, verwunde einen Verbündeten zweimal oder strenge einen Gefährten an.'
+  lore: Tot? Nein, die kann man nicht töten.
+fr:
+  title: Le Roi-Sorcier
+  subtitle: Seigneur Immortel
+  text: '**Acharné.** Chaque fois qu’un compagnon est tué dans un combat qui implique un Nazgûl, blessez un allié deux fois ou affaiblissez un compagnon.'
+  lore: 'Morts ? Non, vous ne pouvez pas les tuer.” '
+it:
+  title: Il Re Stregone
+  subtitle: Sire Immortale
+  text: '**Feroce.** Ogni volta che un compagno è ucciso in una schermaglia che coinvolga un Nazgûl, ferisci due volte un alleato o sforza un compagno.'
+  lore: ‘Morti? No, non è possibile ucciderli.’
+es:
+  title: El Rey Brujo
+  subtitle: Señor No Muerto
+  text: '**Fiero.** Cada vez que muere un compañero en una escaramuza en la que participa un Nazgûl, hiere un aliado dos veces o esfuerza un compañero.'
+  lore: ¿Muertos? No, matarlos no puedes.

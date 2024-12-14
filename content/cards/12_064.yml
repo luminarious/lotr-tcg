@@ -1,0 +1,25 @@
+set: '12'
+rarity: C
+number: '64'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '12'
+vit: '2'
+site: 4
+en:
+  title: Enraged Southron
+  subtitle: ''
+  text: |-
+    **Ambush** :twilight3:.   
+    The move limit for this turn is +1.
+  lore: As with wild animals, fleeing prey seems only to incite the warriors of Harad.
+de:
+  title: Aufgebrachter Südländer
+  subtitle: ''
+  text: |-
+    **Hinterhalt** :twilight3:.  
+    Die Bewegungsweite erhöht sich für diesen Zug um 1.
+  lore: Wenn sich der Feind zur Flucht wendet, setzen die Krieger Harads wie wilde Tiere nach.

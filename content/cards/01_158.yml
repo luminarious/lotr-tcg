@@ -1,0 +1,42 @@
+set: '1'
+rarity: C
+number: '158'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '3'
+site: 5
+en:
+  title: Uruk-hai Raiding Party
+  subtitle: ''
+  text: |-
+    **Damage +1**.   
+    (When this minion wins a skirmish, add 1 extra wound to the defender.)
+  lore: ‘Imagine, Gandalf, an army – born from the earth of Isengard.’
+de:
+  title: Uruk-hai Stosstrupp
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    (Der Uruk-hai Stosstrupp fügt bei einem gewonnenen Kampf eine zusätzliche Wunde zu.)
+  lore: Stell dir vor, Gandalf, eine Armee – entstanden aus der Erde Isengarts.
+fr:
+  title: Pillards Ourouk-Haï
+  subtitle: ''
+  text: '**Dégâts +1.**(Quand ce séide remporte un combat, infligez 1 blessure supplémentaire au défenseur.)'
+  lore: ‘Imaginez, Gandalf, une armée – née de la terre d'Isengard.’
+it:
+  title: Predoni Uruk-hai
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    (Quando questo servitore vince una schermaglia, aggiungi 1 ferita addizionale al difensore.)
+  lore: ‘Immagina, Gandalf, un'armata – nata dalla terra di Isengard.’
+es:
+  title: Banda de Asalto Uruk-hai
+  subtitle: ''
+  text: '**Daño +1.** (Cuando este siervo gana una escaramuza, añade 1 herida adicional al defensor.)'
+  lore: Imagínate, Gandalf, un ejercito – nacido de la tierra de Isengard.

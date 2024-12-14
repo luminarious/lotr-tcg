@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '1'
+unique: true
+culture: ''
+type: Ring
+en:
+  title: The One Ring
+  subtitle: The Ruling Ring
+  text: |-
+    **Response:** If bearer is about to take a wound in a skirmish, he wears The One Ring until the regroup phase.   
+    While wearing The One Ring, each time the Ring-bearer is about to take a wound during a skirmish, add a burden instead.
+  lore: One Ring to rule them all….
+de:
+  title: Der Eine Ring
+  subtitle: Der Meisterring
+  text: '**Reaktion:** Wenn der **Ringträger** im Begriff ist, im Kampf eine Wunde zu erleiden, kann er den Ring bis zur Sammelphase benutzen. Solange er den Ring benutzt, erhält der Ringträger für jede Wunde, die ihm im Kampf zugefügt wird, statt dessen 1 Lastmarke.'
+  lore: Ein Ring sie zu knechten….

@@ -1,0 +1,25 @@
+set: '10'
+rarity: C
+number: '37'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 2
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Corsair Boatswain
+  subtitle: ''
+  text: |-
+    **Corsair.** To play, spot a :raider: Man.   
+    **Shadow:** Exert this minion to play a :raider: support area possession from your draw deck. 
+  lore: Promise of plunder and of the whip keep in line a lustful Corsair crew.
+de:
+  title: Corsaren Bootsman
+  subtitle: ''
+  text: |-
+    **Corsar.** Entdecke einen :raider: Menschen, um diesen Diener zu spielen.   
+    **Schatten:** Strenge diesen Diener an, um eine :raider: Ausrüstung für den Unterstützungsbereich aus deinem Spieldeck zu spielen.
+  lore: Versprechen auf reiche Beute und die Peitsche halten eine wilde Corsarenmannschaft in Schach.

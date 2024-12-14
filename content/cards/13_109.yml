@@ -1,0 +1,25 @@
+set: '13'
+rarity: S
+number: '109'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Howling Orc
+  subtitle: ''
+  text: |-
+    **Lurker.** *(Skirmishes involving lurker minions must be resolved before any others.)*  
+    Each time an :orc: minion is killed in a skirmish, you may make this minion strength +2 until the regroup phase.
+  lore: Losses served only to enrage the besiegers.
+de:
+  title: Heulender Ork
+  subtitle: ''
+  text: |-
+    **Schleicher.**  
+    Du darfst diesem Diener, jedes Mal, wenn ein :orc: Diener in einem Kampf getötet wird, bis zur Sammelphase Stärke +2 geben.
+  lore: Die Verluste stachtelten die Belagerer nur an.

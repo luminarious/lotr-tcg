@@ -1,0 +1,36 @@
+set: '1'
+rarity: R
+number: '33'
+unique: true
+culture: Elven
+type: Possession
+class: Ranged Weapon
+cost: 1
+str: '+1'
+en:
+  title: Bow of the Galadhrim
+  subtitle: ''
+  text: |-
+    Bearer must be Legolas.   
+    Each time Legolas wins a skirmish, you may wound a minion.
+  lore: To Legolas she gave a bow such as the Galadhrim used, longer and stouter than the bows of Mirkwood, and strung with a string of elf-hair.
+de:
+  title: Der Bogen der Galadrim
+  subtitle: ''
+  text: Muss auf Legolas gespielt werden. Jedesmal, wenn Legolas einen Kampf gewinnt, darfst du einen Diener verwunden.
+  lore: Legolas schenkte sie einen Bogen, wie ihn die Galadrim benutzen, länger und handfester als die Bögen von Düsterwald und bespannt mit einer Sehne aus Elbenhaar.
+fr:
+  title: Arc des Galadhrim
+  subtitle: ''
+  text: Le détenteur doit être Legolas. Chaque fois que Legolas remporte un combat, vous pouvez blesser un séide.
+  lore: À Legolas elle donna un arc de la sorte qui était en usage chez les Galadhrim, plus long et plus fort que ceux de la Forêt Noire, et monté d'une corde de cheveux d'Elfe.
+it:
+  title: Arco dei Galadhrim
+  subtitle: ''
+  text: Il possessore deve essere Legolas. Ogni volta che Legolas vince una schermaglia, tu puoi ferire un servitore.
+  lore: A Legolas offrì un arco come quello dei Galadhrim, più lungo e robusto degli archi di Bosco Atro, la cui corda era fatta di capelli elfici.
+es:
+  title: Arco de Los Galadrim
+  subtitle: ''
+  text: El portador debe ser Legolas. Cada vez que Legolas gana una escaramuza, puedes herir un siervo.
+  lore: A Legolas le dio un arco como los que usaban los Galadrim, mas largo y mas fuerte que los arcos del Bosque Negro, y la cuerda era de cabellos élficos.

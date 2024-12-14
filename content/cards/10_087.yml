@@ -1,0 +1,25 @@
+set: '10'
+rarity: C
+number: '87'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 5
+str: '12'
+vit: '3'
+site: 5
+en:
+  title: Gorgoroth Swarm
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    When you play this minion, you may spot another besieger and 6 companions to play a besieger from your discard pile and control a site.
+  lore: File after file passed….
+de:
+  title: Gorgorothhorden
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    Wenn du einen anderen Belagerer entdecken kannst, wenn du diesen Diener, darfst du 6 Gefährten entdecken, um einen Belagerer aus deinem Ablagestapel zu spielen und einen Ort zu kontrollieren.
+  lore: Reihe um Reihe zog vorüber….

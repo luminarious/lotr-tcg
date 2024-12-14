@@ -1,0 +1,39 @@
+set: '2'
+rarity: U
+number: '4'
+unique: true
+culture: Dwarven
+type: Condition
+cost: 1
+vit: '+1'
+en:
+  title: Endurance of Dwarves
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf.  
+    **Skirmish:** Discard this condition to make bearer strength +1. 
+  lore: ‘Dwarves too can go swiftly, and they do not tire sooner than Orcs.’
+de:
+  title: Die Ausdauer eines Zwerges
+  subtitle: ''
+  text: Muss auf einen Zwerg gespielt werden. **Kampf** Lege diesen Effekt ab, um dem Träger Stärke +1 zu geben.
+  lore: Auch Zwerge vermögen schnell zu gehen und werden nicht eher müde als Orks.
+fr:
+  title: Endurance des Nains
+  subtitle: ''
+  text: Le détenteur doit être un Nain. **Combat :** Défaussez cette situation pour donner +1 en force au détenteur.
+  lore: 'Leur rapidité n''est pas moins grande… et ils ne se fatiguent point.” '
+it:
+  title: Resistenza dei Nani
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Nano.   
+    **Schermaglia:** Scarta questa condizione per aggiungere +1 alla forza del possessore.
+  lore: ‘Anche i Nani sanno essere veloci, e non si stancano prima degli Orchi.’
+es:
+  title: Resistencia de los Enanos
+  subtitle: ''
+  text: |-
+    El portador debe ser un Enano.   
+    **Escaramuza:** Descarta esta condición para dar al portador fuerza +1.
+  lore: Los Enanos también pueden moverse sigilosamente, y no se cansan antes que los Orcos.

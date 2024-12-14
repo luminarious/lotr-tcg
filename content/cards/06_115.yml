@@ -1,0 +1,32 @@
+set: '6'
+rarity: U
+number: '115'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Rocks of Emyn Muil
+  subtitle: ''
+  text: '**Fellowship:** Play a companion with the Frodo signet to remove a burden.'
+  lore: ''
+de:
+  title: Felsen des Emyn Muil
+  subtitle: ''
+  text: 'Gemeinschaft: Spiele einen Gefährten mit dem Frodosiegel, um eine Lastmarke vom Ringträger zu entfernen.'
+  lore: ''
+fr:
+  title: Les Rochers d'Emyn Muil
+  subtitle: ''
+  text: '**Compagnie :** Jouez un compagnon possédant le signet Frodon pour retirer un point-fardeau.'
+  lore: ''
+it:
+  title: Rocce dell'Emyn Muil
+  subtitle: ''
+  text: '**Compagnia:** Gioca un compagno con il sigillo di Frodo per rimuovere un segnalino fardello.'
+  lore: ''
+es:
+  title: Rocas de Emyn Muil
+  subtitle: ''
+  text: '**Comunidad:** Juega un compañero con el sello de Frodo para quitar una carga.'
+  lore: ''

@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '128'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: While We Yet Live
+  subtitle: ''
+  text: 'Make a roaming minion skirmishing a :gondor: Man strength –3.'
+  lore: ‘…not if the Nameless One himself should come, not even he could enter….’
+de:
+  title: Solange wir noch leben
+  subtitle: ''
+  text: 'Gib einem wandernden Diener, der gegen einen :gondor: Menschen kämpft, Stärke -3.'
+  lore: …nicht einmal, wenn der Namenlose selbst käme, könnte er hier eindringen…

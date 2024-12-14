@@ -1,0 +1,13 @@
+set: '18'
+rarity: C
+number: '65'
+unique: true
+culture: Man
+type: Event
+class: Response
+cost: 0
+en:
+  title: Declined Business
+  subtitle: ''
+  text: 'If the Free Peoples player plays a companion, discard a :men: card from hand to return that companion to its owner’s hand. '
+  lore: During the War of the Ring, the streets of Bree were filled mainly with Southern ruffians and thieves, and Bree-folk were afraid to leave their homes.

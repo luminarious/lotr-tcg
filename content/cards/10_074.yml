@@ -1,0 +1,18 @@
+set: '10'
+rarity: U
+number: '74'
+unique: true
+culture: Rohan
+type: Event
+class: Response
+cost: 1
+en:
+  title: Unyielding
+  subtitle: ''
+  text: 'If your :rohan: Man wins a skirmish, discard a :rohan: possession to wound a minion or to liberate a site. '
+  lore: …they gathered and rallied and fought until the day wore away.
+de:
+  title: Unnachgiebig
+  subtitle: ''
+  text: 'Lege eine :rohan: Ausrüstung ab, wenn einer deiner :rohan: Menschen einen Kampf gewinnt, um einen Diener zu verwunden oder einen Ort zu befreien.'
+  lore: … so sammelten sie sich… und sie scharten sich zusammen und kämpften, bis der Tag sich neigte.

@@ -1,0 +1,17 @@
+set: '17'
+rarity: R
+number: '13'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 5
+en:
+  title: The World Ahead
+  subtitle: ''
+  text: |-
+    To play, spot an Elf.  
+    Each time the fellowship moves to a region 1 site, add a threat.  
+    Each time the fellowship moves to a region 2 site, heal an Elf.  
+    Each time the fellowship moves to a region 3 site, draw a card.
+  lore: ''

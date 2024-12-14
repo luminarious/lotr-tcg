@@ -1,0 +1,18 @@
+set: '10'
+rarity: U
+number: '44'
+unique: true
+culture: Raider
+type: Event
+class: Shadow
+cost: 1
+en:
+  title: High Vantage
+  subtitle: ''
+  text: 'Until the end of the assignment phase, each time a Southron is about to take a wound, prevent that. '
+  lore: Southrons rain arrows down upon their enemies from their defended perch atop their great beasts of war.
+de:
+  title: Höhenvorteil
+  subtitle: ''
+  text: Verhindere bis zum Ende der Zuweisungsphase jede Wunde, die einem Südländer zugefügt wird.
+  lore: Die Südländer ließen von ihren befestigten Plattformen Pfeile auf ihre Feinde niederregnen.

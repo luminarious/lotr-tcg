@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '148'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Fates Entwined
+  subtitle: ''
+  text: Each time a Hobbit wins a skirmish, you may heal another Hobbit once (or heal another Hobbit twice if the Hobbit that won the skirmish was Frodo or Bilbo).
+  lore: ‘Yes, I am coming… The Ring-bearers should go together.’
+de:
+  title: Verbundene Schicksale
+  subtitle: ''
+  text: Jedes Mal, wenn ein Hobbit einen Kampf gewinnt, darfst du einen anderen Hobbit einmal heilen (oder zweimal, wenn der Sieger des Kampfes Frodo oder Bilbo war).
+  lore: Ja, ich komme mit…. Die Ringträger sollten zusammen gehen.

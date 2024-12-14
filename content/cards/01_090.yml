@@ -1,0 +1,40 @@
+set: '1'
+rarity: R
+number: '90'
+unique: true
+culture: Gondor
+type: Possession
+class: Ranged Weapon
+cost: 1
+en:
+  title: Aragorn’s Bow
+  subtitle: ''
+  text: |-
+    Bearer must be Aragorn.   
+    He is an **archer.**   
+    **Archery:** Exert Aragorn to wound a minion; Aragorn does not add to the fellowship archery total.
+  lore: Rangers learn the bow as well as the blade.
+de:
+  title: Aragorns Bogen
+  subtitle: ''
+  text: Muss auf Aragorn gespielt werden. Er ist nun **Bogenschütze.****FernKampf** Strenge Aragorn an, um einen Diener zu verwunden; Aragorn wird dann nicht zum Fernkampfwert gezählt.
+  lore: Waldläufer können mit dem Bogen genauso gut umgehen, wie mit dem Schwert.
+fr:
+  title: Arc d'Aragorn
+  subtitle: ''
+  text: |-
+    Le détenteur doit être Aragorn. Il est un **archer.**  
+    **Archerie :** Affaiblissez Aragorn pour blesser un séide ; Aragorn ne s’ajoute pas au total d’archerie de la compagnie.
+  lore: Les Rôdeurs apprennent l'arc aussi bien que l'épée.
+it:
+  title: Arco di Aragorn
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Aragorn. Egli è un **arciere.**  
+    **Arcieri:** Sforza Aragorn per ferire un servitore; Aragorn non si aggiunge al totale degli arcieri nella Compagnia.
+  lore: I Raminghi conoscono bene l'arco quanto la spada.
+es:
+  title: El Arco de Aragorn
+  subtitle: ''
+  text: El portador debe ser Aragorn. Él es **arquero.** **Arquería:** Esfuerza a Aragorn para herir un siervo. Aragorn no suma al total de arquería de la comunidad.
+  lore: Los Montaraces aprenden a usar el arco así como la espada.

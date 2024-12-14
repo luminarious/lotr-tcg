@@ -1,0 +1,36 @@
+set: '6'
+rarity: U
+number: '104'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '11'
+vit: '3'
+site: 6
+en:
+  title: Orc Insurgent
+  subtitle: ''
+  text: '**Shadow:** Exert this minion to draw X cards and add :twilightX:, where X is the number of Free Peoples cultures you spot over 2.'
+  lore: ‘You've spoken more than enough, Uglúk,’ sneered the evil voice. ‘I wonder how they would like it in Lugbúrz.’
+de:
+  title: Ork Aufrührer
+  subtitle: ''
+  text: '**Schatten:** Strenge diesen Diener an, um X Karten zu ziehen und den Einfluss um :twilightX: zu erhöhen, wobei X der Anzahl an Freien Völker Kulturen über 2 entspricht, die du entdeckst.'
+  lore: Du hast mehr als genug gesprochen, Uglúk”, höhnte die Stimme. “Ich möchte mal wissen, wie das denen in Lugbúrz gefallen würde.
+fr:
+  title: Insurgé Orque
+  subtitle: ''
+  text: '**Ombre :** Affaiblissez ce séide pour piocher X cartes et ajoutez :twilightX:, X étant le nombre de cultures des Peuples Libres que vous pouvez désigner au delà de 2.'
+  lore: 'Tu en as dit plus qu''assez, Ouglouk, fit la voix mauvaise d''un ton méprisant. Je me demande ce qu''ils penseraient à Lugburz.” '
+it:
+  title: Orco Ribelle
+  subtitle: ''
+  text: '**Ombra:** Sforza questo servitore per pescare X carte e aggiungere :twilightX:, dove X è pari al numero di culture dei Popoli Liberi che avvisti oltre 2.'
+  lore: ‘Hai parlato più del necessario, Uglúk', sogghignò la voce malvagia. ‘Vorrei sapere che cosa ne penserebbero a Lugbúrz.’
+es:
+  title: Orco insurrecto
+  subtitle: ''
+  text: '**Sombra:** Esfuerza este siervo para robar X cartas y añadir :twilightX:, donde X es el número de culturas de Gentes Libres que puedas avistar por encima de 2.'
+  lore: ‘Has hablado mas que suficiente, Uglúk', roncó la voz malvada. ‘Me pregunto si les gustará eso en Lugburgo.

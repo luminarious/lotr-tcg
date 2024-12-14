@@ -1,0 +1,13 @@
+set: '15'
+rarity: R
+number: '53'
+unique: true
+culture: Gollum
+type: Event
+class: Regroup
+cost: 2
+en:
+  title: Unseen Foe
+  subtitle: ''
+  text: 'Discard a :gollum: minion from play to wound each companion with strength 8 or more.'
+  lore: …all the while he hissed, but spoke no words.

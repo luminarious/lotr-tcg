@@ -1,0 +1,24 @@
+set: '12'
+rarity: R
+number: '108'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 4
+en:
+  title: Cast Out
+  subtitle: ''
+  text: |-
+    **Toil 2.** *(For each *:rohan: *character you exert when playing this, its twilight cost is –2.)*   
+    **Maneuver:** Spot a :rohan: Man and discard this condition to exert a minion.   
+    **Maneuver:** Spot a mounted :rohan: Man and discard this condition to return an exhausted minion to its owner’s hand.
+  lore: ''
+de:
+  title: Vertrieben
+  subtitle: ''
+  text: |-
+    **Mühe 2.**  
+    **Manöver:** Entdecke einen :rohan: Menschen und lege diesen Effekt ab, um einen Diener anzustrengen.  
+    **Manöver:** Entdecke einen berittenen :rohan: Menschen und lege diesen Effekt ab, um einen erschöpften Diener auf die Hand des Besitzers zurück zu schicken.
+  lore: ''

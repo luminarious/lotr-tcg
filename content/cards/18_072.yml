@@ -1,0 +1,18 @@
+set: '18'
+rarity: C
+number: '72'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '1'
+site: 2
+en:
+  title: Ruffian
+  subtitle: ''
+  text: |-
+    While the fellowship is in region 1, this minion is strength +4.  
+    While the fellowship is in region 2, this minion is strength +2.
+  lore: It works for him!

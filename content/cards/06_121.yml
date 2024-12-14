@@ -1,0 +1,16 @@
+set: '6'
+rarity: P
+number: '121'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Gandalf
+en:
+  title: Faramir
+  subtitle: Ithilien Ranger
+  text: '**Ring-bound.** **Ranger.** If Faramir is in your starting fellowship, his twilight cost is –1. **Fellowship:** Play a ranger to heal a Ring-bound companion.'
+  lore: ‘Not while Faramir is Captain… his life is charmed, or fate spares him for some other end.’

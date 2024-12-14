@@ -1,0 +1,18 @@
+set: '13'
+rarity: R
+number: '18'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Legolas
+  subtitle: Of the Grey Company
+  text: |-
+    **Archer.**  
+    At the start of each archery phase, you may reveal the top card of your draw deck. If it is an :elven: card, wound a minion.
+  lore: ‘My heart bids me go on… but we must hold together. I will follow your counsel.’

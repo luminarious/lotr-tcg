@@ -1,0 +1,13 @@
+set: '15'
+rarity: C
+number: '23'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Point Blank Range
+  subtitle: ''
+  text: Make an Elf strength +2 (or +4 if you can spot 3 archers).
+  lore: How many there were the company could not count.

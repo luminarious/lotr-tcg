@@ -1,0 +1,18 @@
+set: '10'
+rarity: R
+number: '17'
+unique: true
+culture: Gandalf
+type: Event
+class: Response
+cost: 3
+en:
+  title: Out of the High Airs
+  subtitle: ''
+  text: 'If the fellowship moves during the regroup phase, exert your Wizard to discard each minion. '
+  lore: …the Nazgûl turned and fled, and vanished into Mordor’s shadows….
+de:
+  title: Aus großer Höhe herab
+  subtitle: ''
+  text: Strenge einen deiner Zauberer an, wenn sich die Gemeinschaft in der Sammelphase weiterbewegt, um alle Diener abzulegen.
+  lore: … die Nazgûl wandten sich ab und flohen und verschwanden in Mordors Schatten….

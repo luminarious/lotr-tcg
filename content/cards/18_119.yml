@@ -1,0 +1,18 @@
+set: '18'
+rarity: R
+number: '119'
+unique: true
+culture: Uruk-hai
+type: Possession
+class: Ranged Weapon
+cost: 1
+str: '+1'
+vit: '+1'
+en:
+  title: Lurtz's Bow
+  subtitle: Black-fletch Bow
+  text: |-
+    Bearer must be an Uruk-hai.  
+    When you play this possession on Lurtz, you may draw a card.  
+    **Archery:** If bearer is Lurtz, discard 2 :urukhai: cards from hand to exert an unbound companion.
+  lore: The bow of the Uruk captain dealt a powerful blow.

@@ -1,0 +1,18 @@
+set: '14'
+rarity: R
+number: '6'
+unique: true
+culture: Gandalf
+type: Companion
+race: Man
+cost: 3
+str: '4'
+vit: '5'
+res: '6'
+en:
+  title: Grimbeorn
+  subtitle: Beorning Chieftain
+  text: |-
+    At the start of each turn, heal Grimbeorn.  
+    At the start of the maneuver phase, you may exert Grimbeorn twice and discard a minion from hand to make Grimbeorn strength +X until the regroup phase, where X is that minion’s strength.
+  lore: He was perhaps a shape-shifter like his father.

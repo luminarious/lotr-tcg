@@ -1,0 +1,41 @@
+set: '4'
+rarity: R
+number: '300'
+unique: true
+culture: Shire
+type: Condition
+cost: 0
+vit: '+1'
+en:
+  title: Escape
+  subtitle: ''
+  text: |-
+    **Stealth.** Bearer must be an unbound Hobbit. Limit 1 per character.   
+    **Skirmish: **Exert bearer twice to cancel a skirmish involving him.   
+    Any Shadow player may remove :twilight1: to prevent this. 
+  lore: Suddenly Merry and Pippin realized that without moving they were now outside the circle….
+de:
+  title: Flucht
+  subtitle: ''
+  text: '**Heimlichkeit.** Muss auf einen nicht-verbundenen Hobbit gespielt werden. Maximal 1 pro Charakter. **Kampf** Strenge den Träger zweimal an, um einen Kampf, an dem er beteiligt ist, aufzuheben. Ein beliebiger Schattenspieler darf den Einfluss um :twilight1: verringern, um dies zu verhindern.'
+  lore: ''
+fr:
+  title: Évasion
+  subtitle: ''
+  text: |-
+    **Dissimulation.** Le détenteur doit être un Hobbit dissocié. Limite de 1 par personnage.  
+    **Combat :** Affaiblissez le détenteur deux fois pour annuler un combat l’impliquant. N’importe quel joueur de l’Ombre peut retirer :twilight1: pour empêcher ceci.
+  lore: 'Merry et Pippin s''aperçurent tout à coup que, sans avoir bougé, ils se trouvaient à présent en dehors du cercle. '
+it:
+  title: Fuga
+  subtitle: ''
+  text: |-
+    **Segretezza.**  
+    Il possessore deve essere un Hobbit Non Legato. Limite 1 per personaggio.   
+    **Schermaglia:** Sforza il possessore due volte per cancellare una schermaglia che lo coinvolga. Ogni giocatore Ombra può rimuovere :twilight1: per prevenire questo effetto.
+  lore: Improvvisamente Merry e Pipino si resero conto di trovarsi ora all'esterno del cerchio…
+es:
+  title: Huida
+  subtitle: ''
+  text: '**Sigilo.**El portador debe ser un Hobbit no-vinculado. Límite 1 por personaje. **Escaramuza:** Esfuerza dos veces este Hobbit para cancelar una escaramuza en la que esté participando. Cualquier jugador de Sombra puede quitar :twilight1: para prevenir esto.'
+  lore: De pronto Merry y Pippin cayeron en la cuenta de que sin haberse movido se encontraban ahora fuera del círculo…

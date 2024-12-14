@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '333'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Left
+en:
+  title: Plains of Rohan Camp
+  subtitle: ''
+  text: '**Plains.** At the start of each fellowship phase, heal up to 3 wounds from companions. '
+  lore: ''
+de:
+  title: Lager in den Ebenen von Rohan
+  subtitle: ''
+  text: '**Ebene.** Heile bis zu 3 Wunden von Gefährten zu Beginn jeder Gemeinschaftsphase.'
+  lore: ''
+fr:
+  title: Campement des Plaines de Rohan
+  subtitle: ''
+  text: '**Plaine.** Au début de la phase de compagnie, vous pouvez guérir jusqu’à 3 blessures sur des compagnons.'
+  lore: ''
+it:
+  title: Pianure del Campo di Rohan
+  subtitle: ''
+  text: '**Pianura.** All’inizio di ogni fase compagnia, cura fino a 3 ferite ai compagni.'
+  lore: ''
+es:
+  title: Llanuras Del Campamento Rohan
+  subtitle: ''
+  text: '**Llanura.** Al principio de cada fase de comunidad, cura hasta 3 heridas de los compañeros.'
+  lore: ''

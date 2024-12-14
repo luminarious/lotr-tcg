@@ -1,0 +1,18 @@
+set: '18'
+rarity: U
+number: '81'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 5
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Orkish Archer Troop
+  subtitle: ''
+  text: |-
+    To play, spot an :orc: card.  
+    The minion archery total is +1 for each hunter companion you can spot. 
+  lore: …the enemy is moving. Sauron’s forces are massing in the east…

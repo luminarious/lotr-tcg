@@ -1,0 +1,18 @@
+set: '0'
+rarity: P
+number: '46'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Theoden
+en:
+  title: Gimli
+  subtitle: Skilled Defender
+  text: |-
+    **Damage +1.**  
+    Each time Gimli wins a skirmish, you may wound a minion assigned to skirmish an unbound companion.
+  lore: '''And a Dwarf is no horseman. It is orc-necks I would hew, not shave the scalps of Men….’'

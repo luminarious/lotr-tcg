@@ -1,0 +1,41 @@
+set: '1'
+rarity: R
+number: '216'
+unique: true
+culture: Wraith
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+1'
+en:
+  title: Morgul Blade
+  subtitle: ''
+  text: |-
+    Bearer must be a Nazgûl.   
+    This weapon may be borne in addition to 1 other hand weapon.   
+    **Skirmish:** Discard this possession to transfer Blade Tip from your support area or discard pile to a companion bearer is skirmishing.
+  lore: ''
+de:
+  title: Morgul Messer
+  subtitle: ''
+  text: Muss auf einen Nazgûl gespielt werden. Diese Waffe darf zusätzlich zu einer weiteren Handwaffe benutzt werden. **Kampf:** Lege diese Ausrüstung ab, um eine Klingenspitze aus deinem Unterstützungsbereich oder Ablagestapel auf den Gefährten, gegen den der Träger kämpft, zu verschieben.
+  lore: ''
+fr:
+  title: Lame de Morgul
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un Nazgûl. Cette arme peut être portée en plus d’une autre arme de mêlée.  
+    **Combat :** Défaussez cette possession pour transférer Éclat de Lame de votre aire de soutien ou de votre pile de défausse à un compagnon que le détenteur combat.
+  lore: ''
+it:
+  title: Lama di Morgul
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Nazgûl. Quest’arma può essere portata in aggiunta a un’altra arma da mischia.  
+    **Schermaglia:** Scarta questo bene per spostare Punta di Coltello dalla tua area di supporto o dalla pila degli scarti a un compagno con cui il possessore stia schermagliando.
+  lore: ''
+es:
+  title: Hoja de Morgul
+  subtitle: ''
+  text: El portador debe ser un Nazgûl. Esta arma puede ser llevada además de 1 arma de mano diferente. **Escaramuza:** Descarta esta posesión para transferir Punta de Hoja de tu área de apoyo o pila de descartes a un compañero que esté en una escaramuza con el portador.
+  lore: ''

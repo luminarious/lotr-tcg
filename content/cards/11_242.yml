@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '242'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Green Dragon Inn
+  subtitle: ''
+  text: '**Dwelling.** At the start of your fellowship phase, you may exert 2 Hobbits to play a Hobbit from your draw deck. '
+  lore: ''
+de:
+  title: Der Grüne Drache
+  subtitle: ''
+  text: '**Heimstatt.** Zu Beginn deiner Gemeinschaftsphase darfst du 2 Hob-bits anstrengen, um einen Hobbit aus deinem Spieldeck zu spielen.'
+  lore: ''

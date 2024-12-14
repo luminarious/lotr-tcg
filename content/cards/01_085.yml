@@ -1,0 +1,39 @@
+set: '1'
+rarity: C
+number: '85'
+unique: true
+culture: Gandalf
+type: Event
+class: Response
+cost: 1
+en:
+  title: Strength of Spirit
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Response:** If a companion is about to exert, spot Gandalf to place no token for that exertion.
+  lore: ‘There are many powers in the world, for good or for evil. Some are greater than I am. Against some I have not yet been measured. But my time is coming.’
+de:
+  title: Kraft des Geistes
+  subtitle: ''
+  text: '**Zauberspruch.** **Reaktion:** Wenn sich ein Gefährte anstrengt, entdecke Gandalf, um für diese Anstrengung keine Wundmarke auf den Gefährten legen zu müssen.'
+  lore: Es gibt viele Mächte in der Welt, gute und böse. Manche sind größer als ich. Und mit manchen habe ich mich noch nicht gemessen. Aber meine Zeit naht.
+fr:
+  title: Force de l'Esprit
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Réponse :** Si un compagnon est sur le point d’être affaibli, désignez Gandalf pour ne placer aucun jeton pour cet affaiblissement.
+  lore: ‘Il y a bien des pouvoirs dans le monde, pour le bien comme pour le mal. Certains sont plus grands que je ne le suis. Contre d'autres je ne me suis encore jamais mesuré. Mais mon heure approche.’
+it:
+  title: Forza dello Spirito
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Risposta:** Se un compagno sta per essere sforzato, avvista Gandalf per non porre segnalini per questo sforzo.
+  lore: ‘Vi sono molte potenze al mondo, buone e malvagie; alcune sono più forti di me. Altre non le ho ancora incontrate; ma l'ora sta per giungere.’
+es:
+  title: Fuerza del Espíritu
+  subtitle: ''
+  text: '**Hechizo.** **Respuesta:** Si un compañero va a esforzarse, avista a Gandalf para no poner contador por ese esfuerzo.'
+  lore: Hay muchos poderes en el mundo, para el bien y para el mal. Muchos de ellos son más grandes que yo. Contra algunos todavía no me he medido. Pero mi tiempo se acerca.

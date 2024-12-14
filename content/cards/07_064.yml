@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '64'
+unique: true
+culture: Gollum
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Nasty
+  subtitle: ''
+  text: 'Make Sméagol strength +1 for each :gollum: card you spot.'
+  lore: ‘He’s a fat, horrid Hobbit, who hates Sméagol, who makes up nasty lies.’
+de:
+  title: Garstig
+  subtitle: ''
+  text: 'Gib Sméagol Stärke +1 für jede :gollum: Karte, die du entdeckst.'
+  lore: Er ist ein fetter, gemeiner Hobbit, der Sméagol nicht mag und garstige Lügen über ihn erfindet.

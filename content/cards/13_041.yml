@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '41'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Strange Meeting
+  subtitle: ''
+  text: 'Each companion bearing a follower gains **muster** (and is strength +1 if that companion is a :gandalf: companion).'
+  lore: ‘Gandalf obviously expected to find Treebeard here; and Treebeard might almost have been loitering about near the gates on purpose to meet him.’
+de:
+  title: Eine seltsame Begegnung
+  subtitle: ''
+  text: 'Jeder Gefährte, der einen Gefolgsmann hat, erhält **Appell** (und Stärke +1, wenn er ein :gandalf: Gefährte ist).'
+  lore: Gandalf hatte offensichtlich erwartet, Baumbart hier zu finden; und Baumbart hätte sich fast absichtlich an den Toren aufgehalten haben können, um ihn zu finden.

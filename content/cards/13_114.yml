@@ -1,0 +1,21 @@
+set: '13'
+rarity: S
+number: '114'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Orc Plains Runner
+  subtitle: ''
+  text: '**Regroup:** Discard this minion from play (or exert this minion if the fellowship’s next site is an underground site) and spot another :orc: minion to return that minion to your hand.'
+  lore: Saruman unleashed the remaining minions to ravage the countryside of Rohan.
+de:
+  title: Ork Steppenläufer
+  subtitle: ''
+  text: '**Sammeln:** Lege diesen Diener ab (oder strenge ihn an, wenn der nächste Ort der Gemeinschaft unterirdisch ist) und entdecke einen anderen :orc: Diener, um diesen auf die Hand zu nehmen.'
+  lore: Saruman schickte seine verbliebenen Untertanen los, die Ländereien Rohans zu verwüsten.

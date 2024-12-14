@@ -1,0 +1,49 @@
+set: '17'
+rarity: R
+number: '44'
+unique: true
+culture: Man
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+1'
+en:
+  title: ' Gríma''s Dagger'
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: Man.  
+    If bearer is Gríma, he is strength +1 for each Free Peoples culture you can spot over 2.  
+    **Response:** If a skirmish event is played, discard this possession to cancel that event.
+  lore: The blade of a pathetic creature.
+de:
+  title: Gríma's Dagger
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: Man.  
+    If bearer is Gríma, he is strength +1 for each Free Peoples culture you can spot over 2.  
+    **Response:** If a skirmish event is played, discard this possession to cancel that event.
+  lore: The blade of a pathetic creature.
+fr:
+  title: Gríma's Dagger
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: Man.  
+    If bearer is Gríma, he is strength +1 for each Free Peoples culture you can spot over 2.  
+    **Response:** If a skirmish event is played, discard this possession to cancel that event.
+  lore: The blade of a pathetic creature.
+it:
+  title: Gríma's Dagger
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: Man.  
+    If bearer is Gríma, he is strength +1 for each Free Peoples culture you can spot over 2.  
+    **Response:** If a skirmish event is played, discard this possession to cancel that event.
+  lore: The blade of a pathetic creature.
+es:
+  title: Gríma's Dagger
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: Man.  
+    If bearer is Gríma, he is strength +1 for each Free Peoples culture you can spot over 2.  
+    **Response:** If a skirmish event is played, discard this possession to cancel that event.
+  lore: The blade of a pathetic creature.

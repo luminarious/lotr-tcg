@@ -1,0 +1,17 @@
+set: '10'
+rarity: R
+number: '11'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 3
+str: '3'
+vit: '3'
+en:
+  title: Galadriel
+  subtitle: Lady Redeemed
+  text: |-
+    When Galadriel is in your starting fellowship, her twilight cost is –3.   
+    **Fellowship** or **Regroup:** Discard an :elven: event from hand to discard a Shadow condition or Shadow possession. 
+  lore: ‘I pass the test,’ she said. ‘I will diminish, and go into the West, and remain Galadriel.’

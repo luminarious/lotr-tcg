@@ -1,0 +1,18 @@
+set: '15'
+rarity: R
+number: '112'
+unique: true
+culture: Orc
+type: Minion
+race: Troll
+cost: 10
+str: '22'
+vit: '6'
+site: 5
+en:
+  title: Mountain-troll
+  subtitle: ''
+  text: |-
+    When you play this minion, you may discard 5 :orc: minions from play to make it twilight cost –10 and **fierce.  
+    Shadow:** Remove :twilight3: to play an :orc: Orc from your discard pile. Its twilight cost is –2.
+  lore: Thrice the great ram boomed. And suddenly on the last stroke the Gate of Gondor broke.

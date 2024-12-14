@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '335'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Left
+en:
+  title: Uruk Camp
+  subtitle: ''
+  text: '**Plains.** **Battleground.** Each time an Uruk-hai is played, that minion must exert. '
+  lore: ''
+de:
+  title: Uruklager
+  subtitle: ''
+  text: '**Ebene.** **Schlachtfeld.**Jedes Mal, wenn ein Uruk-hai gespielt wird, muss dieser Diener angestrengt werden.'
+  lore: ''
+fr:
+  title: Campement Ourouk
+  subtitle: ''
+  text: '**Plaine.** **Champ de bataille.** Chaque fois qu’un Ourouk-Haï est joué, il doit être affaibli.'
+  lore: ''
+it:
+  title: Campo Uruk
+  subtitle: ''
+  text: '**Pianura.** **Campo di Battaglia.** Ogni volta che viene giocato un Uruk-hai, quel servitore deve sforzarsi.'
+  lore: ''
+es:
+  title: Campamento Uruk
+  subtitle: ''
+  text: '**Llanura.** **Campo de batalla.** Cada vez que se juega un Uruk-hai, ese siervo debe esforzarse.'
+  lore: ''

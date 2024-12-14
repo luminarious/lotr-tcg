@@ -1,0 +1,22 @@
+set: '12'
+rarity: U
+number: '21'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Refuge
+  subtitle: ''
+  text: |-
+    To play, spot an Elf.   
+    **Fellowship:** Discard a companion from hand to heal a companion. 
+  lore: ‘Now you shall rest, and we will not speak of your further road for a while.’
+de:
+  title: Unterschlupf
+  subtitle: ''
+  text: |-
+    Entdecke einen Elben, um diesen Effekt zu spielen.  
+    **Gemeinschaft:** Lege einen Gefährten aus deiner Hand ab, um einen Gefährten zu heilen.
+  lore: Nun sollt ihr ruhen, und wir wollen eine Weile nicht von eurem weiteren Weg sprechen.

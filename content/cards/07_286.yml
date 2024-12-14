@@ -1,0 +1,21 @@
+set: '7'
+rarity: R
+number: '286'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '2'
+site: 6
+en:
+  title: Mordor Fighter
+  subtitle: ''
+  text: 'While you can spot a threat and another :sauron: Orc, the Shadow has initiative, regardless of the Free Peoples player’s hand.'
+  lore: The men of the West were trapped….
+de:
+  title: Kämpfer Mordors
+  subtitle: ''
+  text: 'Solange du eine Bedrohung und einen anderen :sauron: Ork entdecken kannst, besitzt die Schattenseite die Initiative, unabhängig von der Handkartenzahl des Freien Völker Spielers.'
+  lore: Die Menschen des Westens saßen in der Falle…

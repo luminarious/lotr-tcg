@@ -1,0 +1,16 @@
+set: '15'
+rarity: S
+number: '96'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '11'
+vit: '2'
+site: 4
+en:
+  title: Battlefield Veteran
+  subtitle: ''
+  text: '**Skirmish:** Discard this minion to make a minion strength +1.'
+  lore: Though he had seen it many times before, Grond’s destructive power never ceased to amaze.

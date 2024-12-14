@@ -1,0 +1,13 @@
+set: '17'
+rarity: U
+number: '19'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Guidance of the Istari
+  subtitle: ''
+  text: 'Make a :gandalf: companion strength +1 for each :gandalf: Man you can spot.'
+  lore: Hold them back. Do not give in to fear! Stand your posts! Fight!

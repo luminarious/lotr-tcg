@@ -1,0 +1,18 @@
+set: '12'
+rarity: R
+number: '81'
+unique: true
+culture: Orc
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Abiding Evil
+  subtitle: ''
+  text: 'Spot X burdens to make a character skirmishing an :orc: Orc strength –X.'
+  lore: ‘The Dark Tower was broken, but its foundations were not removed; for they were made with the power of the Ring, and while it remains they will endure.’
+de:
+  title: Beständiges Übel
+  subtitle: ''
+  text: 'Entdecke X Lastmarken, um einem Charakter, der gegen einen :orc: Ork skämpft, Stärke -X zu geben.'
+  lore: Der Schwarze Turm war geschleift, doch seine Grundmauern standen noch; denn sie waren mit der Macht des Ringes gebaut worden, und solange er da ist, bleiben sie erhalten.

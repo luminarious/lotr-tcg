@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '189'
+unique: true
+culture: Moria
+type: Event
+class: Response
+cost: 0
+en:
+  title: Lost to the Goblins
+  subtitle: ''
+  text: '**Response:** If the Ring-bearer exerts or takes a wound, discard a card from the top of your draw deck for each :moria: minion you spot. For each Shadow card discarded in this way, add a burden (limit 3 burdens).'
+  lore: Dwarven graves stood open in plundered disarray.
+de:
+  title: Verloren an die Goblins
+  subtitle: ''
+  text: '**Reaktion:** Wenn sich der Ringträger anstrengt oder verwundet wird, lege für jeden :moria: Ork, den du entdeckst, die oberste Karte von deinem Spieldeck ab. Lege für jede so abgelegte Schattenkarte eine Lastmarke auf den Ringträger (maximal 3).'
+  lore: Die Plünderung durch die Goblins liess die Zwergengräber in Unordnung zurück.
+fr:
+  title: Abandonné aux Gobelins
+  subtitle: ''
+  text: '**Réponse :** Si le Porteur de l’Anneau est affaibli ou prend une blessure, défaussez une carte du dessus de votre pioche pour chaque séide :moria: que vous désignez. Pour chaque carte de l’Ombre défaussée de cette manière, ajoutez un point-fardeau (limite de 3 poi'
+  lore: Des tombes Naines étaient ouvertes, pillées.
+it:
+  title: In Mano ai Goblin
+  subtitle: ''
+  text: '**Risposta:** Se il Portatore dell’Anello si sforza o subisce una ferita, scarta una carta dalla cima del tuo mazzo di gioco per ogni servitore :moria: che avvisti. Per ogni carta Ombra così scartata, aggiungi un segnalino fardello (ma non più di 3).'
+  lore: Le tombe dei Nani erano rimaste aperte nel disordine del saccheggio.
+es:
+  title: Perdido a Los Goblins
+  subtitle: ''
+  text: '**Respuesta:** Si el Portador del Anillo se esfuerza o recibe una herida, descarta la carta superior de tu mazo de robar por cada siervo :moria: que puedas avistar. Por cada carta de Sombra descartada de este modo, añade una carga (limite 3 cargas).'
+  lore: Tumbas Enanas se alzaban abiertas en un desordenado saqueo.

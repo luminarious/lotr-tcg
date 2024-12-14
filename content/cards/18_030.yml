@@ -1,0 +1,13 @@
+set: '18'
+rarity: U
+number: '30'
+unique: true
+culture: Gollum
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Enemy in Your Midst
+  subtitle: ''
+  text: 'Heal a Ring-bound companion to reinforce a :gollum: token. '
+  lore: Earning pity and trust was the first step of Gollum’s plan to reclaim his precious.

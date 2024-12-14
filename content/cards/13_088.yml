@@ -1,0 +1,23 @@
+set: '13'
+rarity: U
+number: '88'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 6
+str: '13'
+vit: '3'
+site: 4
+en:
+  title: Dunlending Patriarch
+  subtitle: ''
+  text: |-
+    When you play this, you may spot another :men: minion to make this minion twilight cost –1 for each wound on the Ring-bearer.  
+    While each companion is wounded, this minion is **fierce**.
+  lore: The wisdom of Dunland is passed from elder to youth.
+de:
+  title: Oberhaupt der Dunländer
+  subtitle: ''
+  text: 'Du darfst beim Ausspielen einen anderen :men: Diener entdecken, um die Zwielichtkosten dieser Karte um 1 für jede Wunde auf dem Ringträger zu reduzieren. Dieser Diener ist **erbittert**, solange jeder Gefährte verwundet ist.In Dunland wird das Wissen vom Vater zum Sohn weitergegeben.'
+  lore: ''

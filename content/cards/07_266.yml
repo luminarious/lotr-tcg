@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '266'
+unique: true
+culture: Sauron
+type: Event
+class: Regroup
+cost: 1
+en:
+  title: Breached
+  subtitle: ''
+  text: 'Remove 4 threats and spot 2 :sauron: Orcs to make the Free Peoples player spot a companion and place that companion in the dead pile.'
+  lore: ‘Yet now under the Lord of Barad-dûr the most fell of all his captains is already master of your outer walls….’
+de:
+  title: Durchgebrochen
+  subtitle: ''
+  text: 'Entferne 4 Bedrohungen und entdecke 2 :sauron: Orks, um den Freie Völker Spieler zu zwingen, einen Gefährten zu entdecken und diesen auf den Friedhof zu legen.'
+  lore: Doch jetzt ist der grausamste aller Heerführer des Herrn von Barad-dûr schon Gebieter über Eure äußeren Wälle…

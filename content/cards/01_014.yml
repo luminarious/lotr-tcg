@@ -1,0 +1,46 @@
+set: '1'
+rarity: R
+number: '14'
+unique: true
+culture: Dwarven
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+2'
+en:
+  title: Gimli's Battle Axe
+  subtitle: ''
+  text: |-
+    Bearer must be Gimli.   
+    He is **damage +1**.   
+    Each time Gimli wins a skirmish, you may wound an Orc.
+  lore: Beside them Gimli stood with his stout legs apart, wielding his dwarf-axe.
+de:
+  title: Gimlis Streitaxt
+  subtitle: ''
+  text: |-
+    Muss auf Gimli gespielt werden. Gimli erhält **Schaden +1.**  
+    Jedesmal, wenn Gimli einen Kampf gewinnt, darfst du einen Ork verwunden.
+  lore: Neben ihnen stand Gimli breitbeinig da und schwang seine Zwergenaxt.
+fr:
+  title: Hache de Bataille de Gimli
+  subtitle: ''
+  text: |-
+    Le détenteur doit être Gimli.  
+    Il inflige des **dégâts +1.**  
+    Chaque fois que Gimli remporte un combat, vous pouvez blesser un Orque.
+  lore: À leur côté, Gimli, ses fortes jambes écartées, maniait sa hache de Nain.
+it:
+  title: Ascia da Battaglia di Gimli
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Gimli. **Danno +1.**  
+    Ogni volta che Gimli vince una schermaglia, puoi ferire un Orco.
+  lore: Lì vicino Gimli roteava la sua ascia di Nano, ben piantato sulle robuste gambe divaricate.
+es:
+  title: Hacha de Batalla de Gimli
+  subtitle: ''
+  text: |-
+    El portador debe ser Gimli. Él es **Daño +1.**  
+    Cada vez que Gimli gana una escaramuza, puedes herir un Orco.
+  lore: Gimli estaba de pie junto a ellos, las piernas separadas, esgrimiendo su hacha de enano.

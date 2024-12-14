@@ -1,0 +1,51 @@
+set: '0'
+rarity: W
+number: '8'
+unique: true
+culture: Moria
+type: Minion
+race: Troll
+cost: 10
+str: '15'
+vit: '3'
+site: 4
+en:
+  title: Cave Troll of Moria
+  subtitle: Menace of the Underdeeps
+  text: |-
+    **Damage +1.** **Fierce.**  
+    To play, spot a :moria: Orc.   
+    **Menace -** When you play this minion you may draw 3 cards.
+  lore: Originally bred by Morgoth, Trolls were thought to be imitations of Ents.
+de:
+  title: Höhlentroll aus Moria
+  subtitle: Bedrohung aus der Tiefe
+  text: |-
+    **Schaden +1.** **Erbittert.**  
+    Entdecke einen :moria: Ork, um den Höhlentroll zu spielen.   
+    **Gefahr -** Wenn du diesen Diener spielst, darfst du 3 Karten ziehen.
+  lore: Originally bred by Morgoth, Trolls were thought to be imitations of Ents.
+fr:
+  title: Army of Moria
+  subtitle: Menace of the Underdeeps
+  text: |-
+    **Damage +1.** **Fierce.**  
+    To play, spot a :moria: Orc.   
+    **Menace -** When you play this minion you may draw 3 cards.
+  lore: Originally bred by Morgoth, Trolls were thought to be imitations of Ents.
+it:
+  title: Army of Moria
+  subtitle: Menace of the Underdeeps
+  text: |-
+    **Damage +1.** **Fierce.**  
+    To play, spot a :moria: Orc.   
+    **Menace -** When you play this minion you may draw 3 cards.
+  lore: Originally bred by Morgoth, Trolls were thought to be imitations of Ents.
+es:
+  title: Army of Moria
+  subtitle: Menace of the Underdeeps
+  text: |-
+    **Damage +1.** **Fierce.**  
+    To play, spot a :moria: Orc.   
+    **Menace -** When you play this minion you may draw 3 cards.
+  lore: Originally bred by Morgoth, Trolls were thought to be imitations of Ents.

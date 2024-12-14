@@ -1,0 +1,15 @@
+set: '8'
+rarity: C
+number: '61'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Haradwaith
+  subtitle: ''
+  text: |-
+    While you can spot a :raider: minion at site 4:king:, you have initiative, regardless of the Free Peoples player’s hand.   
+    **Response:** If a companion is played, discard this condition and a :raider: card from hand to add :twilight5:.
+  lore: ''

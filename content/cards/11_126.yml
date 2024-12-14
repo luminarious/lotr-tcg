@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '126'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '10'
+vit: '2'
+site: 4
+en:
+  title: Marauding Orcs
+  subtitle: ''
+  text: 'When you cannot spot another :orc: minion, discard this minion from play.'
+  lore: Orcs that would only seek out violence at random on their own were brought together to serve Sauron’s purpose.
+de:
+  title: Plündernde Orks
+  subtitle: ''
+  text: 'Lege diesen Diener ab, wenn du keinen anderen :orc: Diener entdecken kannst.'
+  lore: Sauron gab der sinnlosen Gewalt der Orks ein gemeinsames Ziel.

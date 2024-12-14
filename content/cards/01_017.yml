@@ -1,0 +1,16 @@
+set: '1'
+rarity: U
+number: '17'
+unique: true
+culture: Dwarven
+type: Ally
+race: Dwarf
+cost: 1
+str: '3'
+vit: '3'
+site: '3'
+en:
+  title: Grimir
+  subtitle: Dwarven Elder
+  text: '**Fellowship:** Exert Grimir to shuffle a :dwarven: event from your discard pile into your draw deck.'
+  lore: Old and grey after many years spent in exile before the Lonely Mountain was reclaimed, Grimir can still wield his axe with strength.

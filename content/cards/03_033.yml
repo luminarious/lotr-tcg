@@ -1,0 +1,33 @@
+set: '3'
+rarity: C
+number: '33'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: His First Serious Check
+  subtitle: ''
+  text: '**Maneuver:** Spot Gandalf to reveal a card at random from an opponent’s hand. You may add :twilightX: to discard that card, where X is the twilight cost of the card revealed. '
+  lore: …a false turn now might be disastrous.
+de:
+  title: Das erste ernstliche Hindernis
+  subtitle: ''
+  text: '**Manöver:** Entdecke Gandalf, um eine zufällig bestimmte Karte aus der Hand eines Gegenspielers aufzudecken. Du darfst den Einfluss um :twilightX: erhöhen, um diese Karte abzulegen, wobei X den Zwielichtkosten der aufgedeckten Karte entspricht.'
+  lore: … eine falsche Richtung könnte jetzt verhängnisvoll sein.
+fr:
+  title: Sa Première Difficulté Sérieuse
+  subtitle: ''
+  text: '**Manœuvre :** Désignez Gandalf pour révéler une carte au hasard de la main de votre adversaire. Vous pouvez ajouter :twilightX: pour défausser cette carte, où X est le coût crépusculaire de la carte révélée.'
+  lore: … un détour erroné pourrait être à présent désastreux.
+it:
+  title: La Sua Prima Prova Seria
+  subtitle: ''
+  text: '**Manovra:** Avvista Gandalf per mostrare una carta a caso dalla mano dell’avversario. Puoi aggiungere :twilightX: per scartare quella carta, dove X è il costo crepuscolo della carta mostrata.'
+  lore: …una semplice svolta sbagliata poteva ora avere conseguenze disastrose.
+es:
+  title: Su Primera Prueba Seria
+  subtitle: ''
+  text: '**Maniobra:** Avista a Gandalf para revelar una carta al azar de la mano de un oponente. Puedes añadir :twilightX: para descartar esa carta, donde X es el coste de penumbra de la carta revelada.'
+  lore: …un giro en falso ahora sería desastroso.

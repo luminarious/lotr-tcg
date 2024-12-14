@@ -1,0 +1,20 @@
+set: '9'
+rarity: R+
+number: '29'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Slippery as Fishes
+  subtitle: ''
+  text: |-
+    While Gollum is at a mountain, river, or underground site, he is strength +2.   
+    **Regroup:** Spot Gollum to reveal your hand. Place all Shadow cards revealed beneath your draw deck. Discard this condition. 
+  lore: ‘I hoped the river-voyage would beat him, but he is too clever a waterman.’
+de:
+  title: Glitschig wie ein Fisch
+  subtitle: ''
+  text: Solange sich Gollum in einem Gebirge, an einem Fluss oder einem unterirdischen Ort aufhält, erhält er Stärke +2. **Sammeln:** Entdecke Gollum, um deine Handkarten aufzudecken. Lege alle aufgedeckten Schattenkarten unter dein Spieldeck. Lege diesen Effekt ab.
+  lore: Ich hatte gehofft, bei der Flussfahrt könnten wir ihn abhängen, aber er ist ein zu geschickter Wassermann.

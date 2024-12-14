@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '220'
+unique: true
+culture: Wraith
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: War Long Planned
+  subtitle: ''
+  text: 'Make a :wraith: Orc strength +2 (or +4 if you spot 2 wounds on the Ring-bearer).'
+  lore: ‘Through many ages Sauron has hated the West….’
+de:
+  title: Lang vorbereiteter Krieg
+  subtitle: ''
+  text: 'Gib einem :wraith: Ork Stärke +2 (oder Stärke +4, wenn du 2 Wunden auf dem Ringträger entdeckst).'
+  lore: Der Westen ist Sauron bereits seit vielen Zeitaltern verhasst….

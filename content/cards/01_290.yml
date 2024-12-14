@@ -1,0 +1,24 @@
+set: '1'
+rarity: C
+number: '290'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 0
+str: '3'
+vit: '4'
+res: '10'
+signet: Signet_Frodo
+en:
+  title: Frodo
+  subtitle: Son of Drogo
+  text: |-
+    **Ring-bearer (resistance 10).**   
+    **Fellowship:** Exert another companion who has the Frodo signet to heal Frodo.
+  lore: ‘I think you'll find there’s more to this Hobbit than meets the eye.’
+fr:
+  title: Frodon
+  subtitle: Fils de Drogon
+  text: '**Porteur de l’Anneau (résistance 10).** **Compagnie :** Affaiblissez un autre compagnon qui a le sceau Frodon pour guérir Frodon.'
+  lore: ‘Je pense que vous trouverez qu'il y a davantage en ce Hobbit qu'il n'y paraît à première vue.’

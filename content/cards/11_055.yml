@@ -1,0 +1,20 @@
+set: '11'
+rarity: U
+number: '55'
+unique: true
+culture: Gondor
+type: Possession
+class: Armor
+cost: 2
+en:
+  title: Armor of the Citadel
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.   
+    Each minion skirmishing bearer loses all damage bonuses. While bearer is at a battleground site and unwounded, he or she is **defender +1.**
+  lore: Upon the black surcoats were embroidered in white a tree blossoming like snow….
+de:
+  title: Rüstung der Veste
+  subtitle: ''
+  text: 'Muss auf einen :gondor: Menschen gespielt werden. Jeder Diener, der gegen den Träger kämpft, verliert alle Schadensboni. Auf einem Schlachtfeld ist der Träger **Verteidiger +1**, solange er nicht verwundet ist. '
+  lore: Auf den schwarzen Überwürfen war ein blühender Baum weiß wie Schnee eingestickt.

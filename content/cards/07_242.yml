@@ -1,0 +1,23 @@
+set: '7'
+rarity: R
+number: '242'
+unique: true
+culture: Rohan
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Merry's Sword
+  subtitle: ''
+  text: |-
+    Bearer must be Merry.   
+    **Maneuver:** Exert Merry twice to exert a minion once for each :rohan: companion you spot.
+  lore: ''
+de:
+  title: Merrys Schwert
+  subtitle: ''
+  text: |-
+    Muss auf Merry gespielt werden.   
+    **Manöver:** Strenge Merry zweimal an, um einen Diener einmal für jeden :rohan: Gefährten, den du entdeckst, anzustrengen.
+  lore: Merrys Schwert hatte ihn von hinten angegriffen, den schwarzen Mantel zerschnitten…

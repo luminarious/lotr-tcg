@@ -1,0 +1,25 @@
+set: '7'
+rarity: R
+number: '279'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 6
+str: '14'
+vit: '4'
+site: 5
+en:
+  title: Gorgoroth Troop
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    **Skirmish:** Stack a besieger on a site you control to make Gorgoroth Troop strength +2.
+  lore: ''
+de:
+  title: Gorgoroth Trupp
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    **Kampf:** Lagere einen deiner Belagerer auf einem Ort, den du kontrollierst, um dem Gorgoroth Trupp Stärke +2 zu geben.
+  lore: 'Es sind starke Kräfte: Scharen von Orks des Auges…'

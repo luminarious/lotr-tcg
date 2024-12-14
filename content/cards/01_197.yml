@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '197'
+unique: true
+culture: Moria
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Threat of the Unknown
+  subtitle: ''
+  text: '**Shadow:** Exert your :moria: Orc to draw 2 cards.'
+  lore: The danger of what lay hidden in the dark was more terrifying than the known perils of Moria.
+de:
+  title: Die unbekannte Bedrohung
+  subtitle: ''
+  text: '**Schatten:** Strenge einen deiner :moria: Orks an, um 2 Karten zu ziehen.'
+  lore: Die Gefahr durch das, was im Dunkeln verborgen lag, war schrecklicher, als die bekannten Gefahren Morias.
+fr:
+  title: Menace de l'Inconnu
+  subtitle: ''
+  text: 'Ombre : Affaiblissez votre Orque :moria: pour piocher 2 cartes.'
+  lore: Le danger de ce qui reposait caché dans le noir était plus terrifiant que les périls connus de la Moria.
+it:
+  title: La Minaccia dello Sconosciuto
+  subtitle: ''
+  text: '**Ombra:** Sforza un tuo Orco :moria: per pescare 2 carte.'
+  lore: Il pericolo di ciò che attendeva nascosto nell'oscurità era molto più terrificante dei pericoli conosciuti di Moria.
+es:
+  title: La Amenaza de Lo Desconocido
+  subtitle: ''
+  text: '**Sombra:** Esfuerza tu Orco :moria: para robar 2 cartas.'
+  lore: El peligro de lo que estaba oculto en la oscuridad era más terrorífico que los peligros conocidos de Moria.

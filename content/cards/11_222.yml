@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '222'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 5
+str: '10'
+vit: '3'
+site: 2
+en:
+  title: Úlairë Nelya
+  subtitle: Third of the Nine Riders
+  text: |-
+    **Fierce.**   
+    **Shadow:** Exert Úlairë Nelya to replace the fellowship’s current site with a site from your adventure deck.
+  lore: ‘There’s been a strange customer asking for Mr. Baggins of Bag End, and he’s only just gone.’

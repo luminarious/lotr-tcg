@@ -1,0 +1,33 @@
+set: '3'
+rarity: C
+number: '117'
+unique: true
+culture: ''
+type: Site
+cost: 8
+siteArrow: Right
+en:
+  title: Gates of Argonath
+  subtitle: ''
+  text: '**River.** Maneuver events may not be played. '
+  lore: ''
+de:
+  title: Argonath
+  subtitle: ''
+  text: '**Fluss.**Manöverereignisse dürfen hier nicht gespielt werden.'
+  lore: ''
+fr:
+  title: Les Portes d'Argonath
+  subtitle: ''
+  text: '**Rivière.**Les événements de manœuvre ne peuvent pas être joués.'
+  lore: ''
+it:
+  title: Cancelli degli Argonath
+  subtitle: ''
+  text: '**Fiume.**Gli eventi Manovra non possono essere giocati.'
+  lore: ''
+es:
+  title: Puertas de las Argonath
+  subtitle: ''
+  text: '**Río.**No se pueden jugar eventos de maniobra.'
+  lore: ''

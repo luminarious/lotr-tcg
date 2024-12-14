@@ -1,0 +1,18 @@
+set: '2'
+rarity: U
+number: '83'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '11'
+vit: '4'
+site: 3
+en:
+  title: Úlairë Enquëa
+  subtitle: Ringwraith in Twilight
+  text: |-
+    **Twilight.**   
+    Each time Úlairë Enquëa wins a skirmish, you may exert him to wound the Ring-bearer once (or twice if you spot 5 burdens). 
+  lore: In their white faces burned keen and merciless eyes….

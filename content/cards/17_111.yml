@@ -1,0 +1,15 @@
+set: '17'
+rarity: U
+number: '111'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Southlinch Leaf
+  subtitle: ''
+  text: |-
+    **Pipeweed.** To play, spot a Hobbit.  
+    **Skirmish:** Discard a pipeweed from play to prevent an unbound Hobbit from being overwhelmed unless that Hobbit’s strength is tripled.
+  lore: '''How it came here, I can''t imagine. For Saruman’s private use, I fancy.’'

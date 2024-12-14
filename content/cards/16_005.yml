@@ -1,0 +1,19 @@
+set: '16'
+rarity: R
+number: '5'
+unique: true
+culture: Wraith
+type: Minion
+race: Wraith
+cost: 7
+str: '14'
+vit: '3'
+site: 2
+en:
+  title: Spirit of Dread
+  subtitle: ''
+  text: |-
+    **Enduring.**  
+    While you can spot another :wraith: Wraith, wounds cannot be healed and burdens can not be removed (except by Wraiths).  
+    **Skrimish:** Exert Spirit of Dread to make another :wraith: Wraith strength +1.
+  lore: …across their three necks lay one long naked sword.

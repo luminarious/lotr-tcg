@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '105'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Peril
+  subtitle: ''
+  text: '**Regroup:** Exert a :sauron: Orc to play a Nazgûl or :sauron: minion. Its twilight cost is –4 and it comes into play exhausted.'
+  lore: ‘A winged Nazgûl awaits us northward on the east-bank.’
+de:
+  title: Gefahr
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Sammeln:** Strenge einen :sauron: Ork an, um einen Nazgûl oder :sauron: Diener zu spielen. Die Kosten für diesen Diener reduzieren sich um 4 und er kommt erschöpft ins Spiel.'
+  lore: Ein geflügelter Nazgûl erwartet uns nördlich am Ostufer.
+fr:
+  title: Péril
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez un Orque :sauron: pour jouer un Nazgûl ou un séide :sauron:. Son coût crépusculaire est de –4 et il entre en jeu épuisé.'
+  lore: 'Un Nazgûl ailé nous attend vers le nord sur la rive orientale.” '
+it:
+  title: Pericolo
+  subtitle: ''
+  text: '**Raccolta:** Sforza un Orco :sauron: per giocare un Nazgûl o un servitore :sauron:. Sottrai –4 al suo costo crepuscolo ed entra in gioco esausto.'
+  lore: ‘Un Nazgûl alato ci aspetta un po’ più a nord, sulla sponda orientale.’
+es:
+  title: Peligro
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza un Orco :sauron: para jugar un Nazgûl o un siervo :sauron:. Su coste de penumbra es –4 y entra en juego exhausto.'
+  lore: Un Nazgûl alado nos espera al norte en la orilla este.

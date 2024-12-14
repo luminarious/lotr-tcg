@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '179'
+unique: true
+culture: Wraith
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: From Hideous Eyrie
+  subtitle: ''
+  text: 'You may remove from the game 4 :wraith: cards in your discard pile instead of paying the twilight cost for this card. Make your Nazgûl in a fierce skirmish strength +2.'
+  lore: Down, down it came, and then, folding its fingered webs, it gave a croaking cry….
+de:
+  title: Aus einemabscheulichen Horst
+  subtitle: ''
+  text: 'Du darfst 4 :wraith: Karten aus deinem Ablagestapel ganz aus dem Spiel entfernen, anstatt die Zwielichtkosten für diese Karte zu zahlen. Gib einem deiner Nazgûl in einem erbitterten Kampf Stärke +2.'
+  lore: Herab kam es, herab, und dann faltete es seine gefiederten Flughäute, stieß einen krächzenden Schrei aus….

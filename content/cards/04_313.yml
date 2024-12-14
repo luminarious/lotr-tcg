@@ -1,0 +1,21 @@
+set: '4'
+rarity: R
+number: '313'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+signet: Signet_Gandalf
+en:
+  title: Pippin
+  subtitle: Just a Nuisance
+  text: '**Skirmish:** If Pippin is not assigned to a skirmish, discard him to remove an Uruk-hai from a skirmish involving an unbound companion. '
+  lore: ‘What good have I been?… a passenger, a piece of luggage.’
+it:
+  title: Pipino
+  subtitle: Un Peso Inutile
+  text: '**Schermaglia:** Se Pipino non è assegnato a una schermaglia, scartalo per rimuovere un Uruk-hai da una schermaglia che coinvolga un compagno Non Legato.'
+  lore: '‘A che cosa sono servito? Sono stato semplicemente un peso inutile: un passeggero, un carico.’'

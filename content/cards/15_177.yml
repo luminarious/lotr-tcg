@@ -1,0 +1,19 @@
+set: '15'
+rarity: U
+number: '177'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '6'
+vit: '1'
+site: 5
+en:
+  title: Uruk Village Rager
+  subtitle: ''
+  text: |-
+    **Damage +1**.  
+    Each time this minion wins a skirmish, take control of a site.  
+    While you control a site, this minion cannot take wounds (except during the skirmish phase).
+  lore: They come to destroy its people.

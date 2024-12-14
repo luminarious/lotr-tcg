@@ -1,0 +1,16 @@
+set: '15'
+rarity: R
+number: '40'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Connected By Fate
+  subtitle: ''
+  text: |-
+    To play, spot Sméagol.  
+    While you can spot 2 Ring-bound Hobbits, each Shadow event is twilight cost +1.  
+    **Skirmish:** Discard this condition to make each Ring-bound companion strength +1 until the regroup phase.
+  lore: Thief, thief! Baggins! We hates it for ever!

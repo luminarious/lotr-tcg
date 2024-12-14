@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '247'
+unique: true
+culture: Sauron
+type: Event
+class: Response
+cost: 0
+en:
+  title: Enheartened Foe
+  subtitle: ''
+  text: '**Response:** If a :sauron: Orc wins a skirmish, make that Orc **fierce** until the regroup phase.'
+  lore: Orcs feed on their own success. The greater their exploits in battle, the greater their confidence grows.
+de:
+  title: Beherzter Feind
+  subtitle: ''
+  text: '**Reaktion:** Mache einen :sauron: Ork bis zur Sammelphase **erbittert**, wenn dieser einen Kampf gewinnt.'
+  lore: Das Selbstbewusstsein der Orks wächst mit ihren Erfolgen. Je mehr Erfolg, desto größer die Taten.
+fr:
+  title: Ennemi sans Pitié
+  subtitle: ''
+  text: '**Réponse :** Si un Orque :sauron: remporte un combat, rendez cet Orque **acharné** jusqu’à la phase de ralliement.'
+  lore: Les Orques se nourrissent de leurs propres succès. Plus ils réussissent dans la bataille, plus leur confiance croît.
+it:
+  title: Nemico Rincuorato
+  subtitle: ''
+  text: '**Risposta:** Se un Orco :sauron: vince una schermaglia, rendi quell’Orco **Feroce** fino alla fase di raccolta.'
+  lore: Gli Orchi sono nutriti dai loro stessi successi. Più sono grandi le loro imprese in battaglia, più cresce la loro baldanza.
+es:
+  title: Enemigo Embravecido
+  subtitle: ''
+  text: '**Respuesta:** Si un Orco :sauron: gana una escaramuza, da a ese Orco **fiero** hasta la fase de reagrupación.'
+  lore: Los Orcos se alimentan en su propio triunfo. Cuanto más grandes sus proezas en la batalla, más grande crece su confianza.

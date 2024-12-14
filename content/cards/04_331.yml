@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '331'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Left
+en:
+  title: Eastfold
+  subtitle: ''
+  text: '**Plains.** **Shadow:** Spot 3 :isengard: trackers to prevent the fellowship from moving again this turn. '
+  lore: ''
+de:
+  title: Ostfold
+  subtitle: ''
+  text: '**Ebene.** **Schatten:** Entdecke 3 :isengard: Spurenleser, um die Gemeinschaft für diesen Spielzug am Weiterreisen zu hindern.'
+  lore: ''
+fr:
+  title: Estfolde
+  subtitle: ''
+  text: '**Plaine.** Ombre : Désignez 3 traqueurs :isengard: pour empêcher la compagnie de bouger à nouveau durant ce tour.'
+  lore: ''
+it:
+  title: Estfalda
+  subtitle: ''
+  text: '**Pianura.** **Ombra:** Avvista 3 inseguitori :isengard: per impedire che la compagnia si muova di nuovo in questo turno.'
+  lore: ''
+es:
+  title: Folde Este
+  subtitle: ''
+  text: '**Llanura.** **Sombra:** Avista 3 rastreadores :isengard: para prevenir que la comunidad se mueva otra vez este turno.'
+  lore: ''

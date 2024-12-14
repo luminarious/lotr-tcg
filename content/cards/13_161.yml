@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '161'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Endless Assault
+  subtitle: ''
+  text: '**Skirmish:** Discard this condition to make an :urukhai: minion strength +1 for each of the following that is true: it is at a battleground site; it is skirmishing a companion who has resistance 4 or less; it is bearing a possession; you can spot an :urukhai: minion not assigned to a skirmish.'
+  lore: ''
+de:
+  title: Endloser Ansturm
+  subtitle: ''
+  text: '**Kampf:** Lege diesen Effekt ab, um einem :urukhai: Diener für jede folgende Bedingung, die gültig ist, Stärke +1 zu geben: er befindet sich auf einem Schlachtfeld; er kämpft gegen einen Gefährten mit Re-sistenz 4 oder weniger; er ist ausgerüstet; du kannst einen :urukhai: Diener entdecken, der keinem Kampf zugewiesen ist.'
+  lore: ''

@@ -1,0 +1,25 @@
+set: '12'
+rarity: R
+number: '129'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '2'
+vit: '3'
+res: '8'
+en:
+  title: Rosie Cotton
+  subtitle: Barmaid
+  text: |-
+    Sam cannot be overwhelmed unless his strength is tripled.   
+    Each time the Free Peoples player assigns Rosie Cotton to a skirmish, add 2 burdens.
+  lore: ‘It seems she didn't like my going abroad at all….’
+de:
+  title: Rosie Hüttinger
+  subtitle: Schankmaid
+  text: |-
+    Sam kann nur mit dreifacher Stärke überwältigt werden.  
+    Lege, jedes Mal, wenn der Freie Völker Spieler Rosie Hüttinger einem Kampf zuweist, 2 Lastmarken auf den Ringträger.
+  lore: Es scheint ihr gar nicht gefallen zu haben, dass ich überhaupt wegging….

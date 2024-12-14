@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '86'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Invading Haradrim
+  subtitle: ''
+  text: 'Each time the Free Peoples player assigns this minion to a skirmish, add :twilight1: for each Free Peoples character who has resistance 5 or less. '
+  lore: The cruel Men of Harad slaughter the weak and infirm during their raids on Gondor.
+de:
+  title: Einfallende Haradrim
+  subtitle: ''
+  text: 'Jedes Mal, wenn der Freie Völker diesen Diener einem Kampf zuweist, erhöhe den Einfluss um :twilight1: für jeden Charakter der Freien Völker, der Resistenz 5 oder weniger hat.'
+  lore: Die grausamen Menschen aus Harad schlachten die Schwachen und Gebrechlichen während ihrer Raubzüge durch Gondor.

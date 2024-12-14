@@ -1,0 +1,47 @@
+set: '1'
+rarity: U
+number: '270'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '2'
+site: 6
+en:
+  title: Orc Scouting Band
+  subtitle: ''
+  text: |-
+    **Tracker.**  
+    The roaming penalty for each :sauron: minion you play is -1.   
+    **Skirmish:** Exert this minion to wound a character it is skirmishing.
+  lore: The cunning Ambushes of the Orc armies rely upon scouts first finding the enemy.
+de:
+  title: Ork Spähtrupp
+  subtitle: ''
+  text: |-
+    **Spurenleser.**  
+    Die Strafkosten für wandernde :sauron: Diener, die du spielst, werden um 1 reduziert. **Kampf** Strenge diesen Diener an, um einen Charakter, den er bekämpft, zu verwunden.
+  lore: Die geschickt gelegten Hinterhalte der Orks basieren darauf, dass Späher zuerst den Feind entdecken.
+fr:
+  title: Éclaireurs Orques
+  subtitle: ''
+  text: |-
+    **Traqueur.**  
+    La pénalité d’errance pour chaque séide :sauron: que vous jouez est de -1. **Combat :** Affaiblissez ce séide pour blesser un personnage qu’il combat.
+  lore: Les embuscades sournoises des armées Orques dépendent principalement d'éclaireurs capables de repérer l'ennemi.
+it:
+  title: Pattuglia di Orchi
+  subtitle: ''
+  text: |-
+    **Inseguitore.**  
+    Sottrai -1 alla penalità per vagare di ogni servitore :sauron: che giochi.
+  lore: ''
+es:
+  title: Partida de Orcos
+  subtitle: ''
+  text: |-
+    **Rastreador.** La penalización por vagar de cada siervo :sauron: que tu juegues es -1.   
+    **Escaramuza:** Esfuerza este siervo para herir un personaje que este en una escaramuza contra él.
+  lore: Las astutas emboscadas de los ejércitos Orcos dependen en los exploradores que encuentran al enemigo.

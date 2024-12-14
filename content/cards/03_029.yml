@@ -1,0 +1,43 @@
+set: '3'
+rarity: R
+number: '29'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Betrayal of Isengard
+  subtitle: ''
+  text: |-
+
+    Each time an opponent draws a card (or takes a card into hand) during the Shadow phase, you may remove :twilight1:.   
+    **Maneuver:** Exert Gandalf to wound Saruman twice. 
+  lore: ‘There is only one Lord of the Ring.’
+de:
+  title: Der Verrat Isengarts
+  subtitle: ''
+  text: |-
+    Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn ein Gegenspieler in der Schattenphase eine Karte zieht (oder eine Karte auf die Hand nimmt), darfst du den Einfluss um :twilight1: verringern.  
+    **Manöver:** Strenge Gandalf an, um Saruman zweimal zu verwunden.
+  lore: Es gibt nur einen Herrn des Ringes.
+fr:
+  title: La Trahison de l'Isengard
+  subtitle: ''
+  text: Chaque fois qu’un adversaire pioche une carte (ou prend une carte dans sa main) pendant la phase de l’Ombre, vous pouvez retirer :twilight1:. **Manœuvre :** Affaiblissez Gandalf pour blesser Saroumane deux fois.
+  lore: 'Il n''y a qu''un seul Seigneur des Anneaux.” '
+it:
+  title: Il Tradimento di Isengard
+  subtitle: ''
+  text: |-
+    Ogni volta che un avversario pesca una carta (o aggiunge una carta alla sua mano) durante la fase Ombra, puoi rimuovere :twilight1:.   
+    **Manovra:** Sforza Gandalf per ferire due volte Saruman.
+  lore: ‘Esiste un solo Signore dell'Anello.’
+es:
+  title: Traición de Isengard
+  subtitle: ''
+  text: |-
+    Se juega en tu área de apoyo   
+    Cada vez que un oponente roba una carta (o toma una carta en su mano) durante la fase de sombra, puedes quitar :twilight1:.   
+    **Maniobra:** Esfuerza a Gandalf para herir a Saruman dos veces.
+  lore: Sólo hay un Señor del Anillo.

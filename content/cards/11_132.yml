@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '132'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '1'
+site: 4
+en:
+  title: Orkish Smith
+  subtitle: ''
+  text: 'When you play this minion, you may take an :orc: condition from your discard pile into hand.'
+  lore: ‘There is always a smoke rising from Isengard these days.’
+de:
+  title: Orkischer Schmied
+  subtitle: ''
+  text: 'Wenn du diesen Diener spielst, darfst du einen :orc: Effekt aus deinem Ablagestapel auf deine Hand nehmen.'
+  lore: In diesen Tagen steigt immer Rauch auf von Isengart.

@@ -1,0 +1,13 @@
+set: '18'
+rarity: U
+number: '27'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Ship of Smoke
+  subtitle: ''
+  text: '**Pipeweed.** Each time you play a pipeweed card, you may spot Gandalf to reveal the top 3 cards of your draw deck. Take all Free Peoples cards revealed into hand and discard the remaining cards.'
+  lore: Old Toby. The finest weed in the Southfarthing.

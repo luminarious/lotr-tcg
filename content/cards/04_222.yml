@@ -1,0 +1,44 @@
+set: '4'
+rarity: C
+number: '222'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 2
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Desert Warrior
+  subtitle: ''
+  text: |-
+    **Southron.**   
+    At the start of each skirmish involving this minion, you may remove :twilight3: to wound a companion or ally he is skirmishing. 
+  lore: The Haradrim wear cloaks and head wraps to survive the deserts of their homeland.
+de:
+  title: Wüstenkrieger
+  subtitle: ''
+  text: |-
+    **Südländer.**  
+    Zu Beginn eines Kampfes, an dem dieser Diener beteiligt ist, darfst du den Einfluss um :twilight3: verringern, um einen Gefährten oder Verbündeten, gegen den er kämpft, zu verwunden.
+  lore: Die Haradrim trugen Umhänge und Kopftücher, um in den Wüsten ihrer Heimat überleben zu können.
+fr:
+  title: Guerrier du Désert
+  subtitle: ''
+  text: |-
+    **Suderon.**  
+    Au début de chaque combat impliquant ce séide, vous pouvez retirer :twilight3: pour blesser un compagnon ou un allié qui combat ce séide.
+  lore: Les Haradrim portent des capes et des tissus autour de leur têtes pour survivre dans les déserts de leur terre natale.
+it:
+  title: Guerriero del Deserto
+  subtitle: ''
+  text: |-
+    **Sudrone.**  
+    All’inizio di ogni schermaglia che coinvolga questo servitore, puoi rimuovere :twilight3: per ferire un compagno o un alleato con cui stia schermagliando.
+  lore: Gli Haradrim indossano mantelli e turbanti per sopravvivere nei deserti della loro terra natia.
+es:
+  title: Guerrero Del Desierto
+  subtitle: ''
+  text: '**Sureño.** Al principio de cada escaramuza en la que se encuentre este siervo, puedes quitar :twilight3: para herir a un compañero o aliado que esté en una escaramuza contra él.'
+  lore: Los Haradrim llevan capas y turbantes para sobrevivir en los desiertos de su tierra natal.

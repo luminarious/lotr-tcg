@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '110'
+unique: true
+culture: Gondor
+type: Event
+class: Fellowship, Regroup
+cost: 0
+en:
+  title: Pathfinder
+  subtitle: ''
+  text: '**Fellowship:**or **Regroup:** Spot a ranger to play the fellowship’s next site (replacing opponent’s site if necessary).'
+  lore: ‘Strider can take you by paths that are seldom trodden. Will you have him?’
+de:
+  title: Pfadfinder
+  subtitle: ''
+  text: Gemeinschaft oder **Sammeln:** Entdecke einen Waldläufer, um den nächsten Ort deiner Gemeinschaft auszuspielen (nötigenfalls darfst du einen Ort, der von einem Gegenspieler gespielt wurde, ersetzen).
+  lore: Streicher kann euch auf Pfaden führen, die selten begangen werden. Wollt ihr ihn haben?
+fr:
+  title: Éclaireur
+  subtitle: ''
+  text: Compagnie ou **Ralliement :** Désignez un rôdeur pour jouer le site suivant de la compagnie (en remplaçant le site de l’adversaire si nécessaire).
+  lore: ‘Grands-Pas peut vous mener par des sentiers rarement parcourus. Le voulez-vous ?’
+it:
+  title: Esploratore
+  subtitle: ''
+  text: |-
+    Compagnia o   
+    **Raccolta:** Avvista un Ramingo per giocare il successivo sito della Compagnia (sostituendo il sito dell’avversario se necessario).
+  lore: ‘Grampasso può indicarvi sentieri poco frequentati. Può venire con voi?’
+es:
+  title: Explorador
+  subtitle: ''
+  text: '**Comunidad** o **Reagrupación:** Avista un montaraz para jugar el próximo sitio de la comunidad (remplazando el sitio del oponente sí es necesario).'
+  lore: Trancos podría guiarlo por senderos poco transitados. ¿Lo llevara con usted?

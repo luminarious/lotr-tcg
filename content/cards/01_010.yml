@@ -1,0 +1,36 @@
+set: '1'
+rarity: C
+number: '10'
+unique: true
+culture: Dwarven
+type: Condition
+cost: 0
+en:
+  title: Dwarven Heart
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf.   
+    When you play this condition, heal bearer up to two times. At the start of each of your turns, exert bearer.
+  lore: ‘…a Dwarf goes on, be the burden twice his own weight….’
+de:
+  title: Das Herz eines Zwergs
+  subtitle: ''
+  text: Muss auf einen Zwerg gespielt werden. Wenn du diesen Effekt spielst, darfst du den Träger bis zu zweimal heilen. Zu Beginn jedes deiner Spielzüge, strenge diesen Zwerg an.
+  lore: …während ein Zwerg weitergeht, und sei die Last auch das Doppelte seines Eigengewichts…
+fr:
+  title: Courage Nain
+  subtitle: ''
+  text: Le détenteur doit être un Nain. Quand vous jouez cette situation, guérissez le détenteur jusqu’à 2 fois. Au début de chacun de vos tours, affaiblissez le détenteur.
+  lore: ‘…un Nain va toujours, le fardeau fut-il deux fois plus lourd que lui….’
+it:
+  title: Cuore dei Nani
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Nano. Quando giochi questa condizione, cura il possessore fino a 2 volte.  
+    All’inizio di ogni tuo turno, sforza il possessore.
+  lore: ‘…mentre quelle dei Nani avanzano senza indugio, anche con un fardello due volte più pesante di loro….’
+es:
+  title: Corazón Enano
+  subtitle: ''
+  text: El portador debe ser un enano. Cuando juegas esta condición, cura hasta dos veces al portador. Al principio de cada uno de tus turnos, esfuerza al portador.
+  lore: …pero un Enano nunca cae, aunque lleve una carga dos veces mas pesada que el mismo…

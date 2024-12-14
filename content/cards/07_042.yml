@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '42'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: King's Advisor
+  subtitle: ''
+  text: 'Exert Gandalf twice to make an opponent exert a minion for each :rohan: companion you spot.'
+  lore: ‘Will they answer the summons, think you?’
+de:
+  title: Berater des Königs
+  subtitle: ''
+  text: 'Strenge Gandalf zweimal an, um einen Gegenspieler zu zwingen, einen Diener für jeden :rohan: Gefährten, den du entdeckst, anzustrengen.'
+  lore: Glaubt Ihr, sie werden unserem Ruf Folge leisten?

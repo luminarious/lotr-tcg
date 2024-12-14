@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '223'
+unique: true
+culture: Rohan
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Death They Cried
+  subtitle: ''
+  text: 'Spot a mounted :rohan: Man to exert a minion. That minion’s owner may exert a companion and if he or she does so, you may exert a minion; repeat this until a player does not exert a character.'
+  lore: But the Rohirrim sang no more. Death they cried with one voice….
+de:
+  title: Tod schrieen sie
+  subtitle: ''
+  text: 'Entdecke einen berittenen :rohan: Menschen, um einen Diener anzustrengen. Der Besitzer dieses Dieners darf daraufhin einen Gefährten anstrengen. Wenn er dies tut, darfst du wiederum einen Diener anstrengen und so weiter. Dies wiederholt sich so lange, bis ein Spieler keinen Charakter mehr anstrengt.'
+  lore: Aber die Rohirrim sangen nicht mehr. Tod schrieen sie….

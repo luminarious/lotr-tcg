@@ -1,0 +1,15 @@
+set: '15'
+rarity: U
+number: '115'
+unique: true
+culture: Orc
+type: Condition
+class: Site
+cost: 0
+en:
+  title: Pummeling Blow
+  subtitle: ''
+  text: |-
+    To play, exert an :orc: minion. Plays on the fellowship’s current site.  
+    This site cannot be replaced. While the fellowship is at this site, each Troll is strength +1.
+  lore: Where battering rams failed, Trolls did not.

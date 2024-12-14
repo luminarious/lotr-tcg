@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '255'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Gandalf
+en:
+  title: Théoden
+  subtitle: Rekindled King
+  text: |-
+    While you can spot a :rohan: Man, Théoden’s twilight cost is –1.   
+    **Fellowship:** If the twilight pool has fewer than 2 twilight tokens, play a :rohan: possession on Théoden and add :twilight2: to heal another :rohan: companion.
+  lore: ''

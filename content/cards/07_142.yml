@@ -1,0 +1,25 @@
+set: '7'
+rarity: C
+number: '142'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Easterling Blademaster
+  subtitle: ''
+  text: |-
+    **Easterling.**   
+    **Skirmish:** Exert this minion to make him **damage +1**.
+  lore: ''
+de:
+  title: Schwertmeister der Ostlinge
+  subtitle: ''
+  text: |-
+    **Ostling.**   
+    **Kampf:** Strenge diesen Diener an, um ihm **Schaden +1** zu geben.
+  lore: …strömten starke Kräfte von Osten heran.

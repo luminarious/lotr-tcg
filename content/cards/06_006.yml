@@ -1,0 +1,36 @@
+set: '6'
+rarity: R
+number: '6'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 8
+str: '17'
+vit: '2'
+site: 3
+en:
+  title: Hill Clan
+  subtitle: ''
+  text: 'Each time this minion wins a skirmish, you may play a :dunland: Man from hand. That Man is fierce and damage +2 until the regroup phase.'
+  lore: ‘We will take their king.’
+de:
+  title: Bergclan
+  subtitle: ''
+  text: 'Jedes Mal, wenn dieser Diener einen Kampf gewinnt, darfst du einen :dunland: Menschen aus deiner Hand spielen. Dieser ist bis zur Sammelphase erbittert und erhält Schaden +2.'
+  lore: Wir wollen ihren König gefangennehmen.
+fr:
+  title: Clan des Collines
+  subtitle: ''
+  text: 'Chaque fois que ce séide gagne un combat, vous pouvez jouer un Homme :dunland: de votre main. Cet Homme est acharné et inflige des dégâts +2 jusqu’à la phase de ralliement.'
+  lore: 'Nous prendrons leur roi.” '
+it:
+  title: Clan della Collina
+  subtitle: ''
+  text: Ogni volta che questo servitore vince una schermaglia, puoi giocare dalla mano un Uomo :dunland:. Quell’uomo è feroce e Danno +2 fino alla fase di raccolta.
+  lore: ‘Prenderemo il loro Re.’
+es:
+  title: Clan de las Colinas
+  subtitle: ''
+  text: 'Cada vez que este siervo gana una escaramuza, puedes jugar un Hombre :dunland: de tu mano. Ese Hombre es fiero y daño +2 hasta la fase de reagrupación.'
+  lore: Acabaremos con su Rey.

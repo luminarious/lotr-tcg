@@ -1,0 +1,40 @@
+set: '5'
+rarity: C
+number: '74'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 4
+str: '6'
+vit: '1'
+site: 4
+en:
+  title: Southron Marcher
+  subtitle: ''
+  text: '**Southron.****Ambush** :twilight2:. While you can spot a Southron, this minion’s twilight cost is -2.'
+  lore: Hardy desert warriors needed little rest.
+de:
+  title: Marschierende Südländer
+  subtitle: ''
+  text: |-
+    **Südländer.** **Hinterhalt** :twilight2:.  
+    Solange du einen Südländer entdecken kannst, reduzieren sich die Zwielichtkosten dieses Dieners um 2.
+  lore: Die harten Wüstenkrieger benötigten nur wenig Rast.
+fr:
+  title: Marcheur Suderon
+  subtitle: ''
+  text: |-
+    **Suderon** **Embuscade** :twilight2:**.**   
+    Tant que vous pouvez désigner un Suderon, le coût crépusculaire de ce séide est de -2.
+  lore: Les guerriers du désert, endurcis, ne requéraient que peu de repos.
+it:
+  title: Marciatore Sudrone
+  subtitle: ''
+  text: '**Sudrone.** Imboscata :twilight2:. Mentre puoi avvistare un Sudrone, sottrai -2 al costo crepuscolo di questo servitore.'
+  lore: I duri figli del deserto avevano bisogno di pochissimo riposo.
+es:
+  title: Marchista Sureño
+  subtitle: ''
+  text: '**Sureño.** Emboscar :twilight2:. Mientras puedas avistar un Sureño, el coste de penumbra de este siervo es -2.'
+  lore: Los duros guerreros del desierto necesitaban poco descanso.

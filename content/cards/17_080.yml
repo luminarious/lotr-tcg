@@ -1,0 +1,16 @@
+set: '17'
+rarity: C
+number: '80'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 1
+str: '4'
+vit: '2'
+site: 4
+en:
+  title: Orkish Lackey
+  subtitle: ''
+  text: '**Maneuver:** Spot 2 :orc: conditions and discard this minion from play to wound an unbound companion.'
+  lore: They came from dark and evil places.

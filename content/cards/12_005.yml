@@ -1,0 +1,23 @@
+set: '12'
+rarity: U
+number: '5'
+unique: true
+culture: Dwarven
+type: Possession
+class: Bracers
+cost: 1
+str: '+1'
+en:
+  title: Dwarven Bracers
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf.   
+    **Response:** If bearer is about to take a wound, discard this possession to prevent that wound.
+  lore: Dwarven-smiths forge bracers for fit and agility.
+de:
+  title: Zwergenarmschienen
+  subtitle: ''
+  text: |-
+    Muss auf einen Zwerg gespielt werden.  
+    **Reaktion:** Wenn der Träger verwundet wird, kannst du diese Ausrüstung ablegen, um die Wunde zu verhindern.
+  lore: Zwergenschmiede fertigen Armschienen, die leicht und doch stark sind.

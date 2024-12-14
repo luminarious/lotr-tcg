@@ -1,0 +1,18 @@
+set: '12'
+rarity: R
+number: '128'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: A Promise
+  subtitle: ''
+  text: While you can spot Frodo and Sam and neither is exhausted, each is strength +1.
+  lore: ‘But I'm glad, Sam. I cannot tell you how glad. Come along! It is plain that we were meant to go together.’
+de:
+  title: Ein Versprechen
+  subtitle: ''
+  text: Solange du Frodo und Sam entdecken kannst und keiner von beiden erschöpft ist, erhalten beide Stärke +1.
+  lore: Aber ich bin froh, Sam. Ich kann dir nicht sagen, wie froh. Komm mit! Es ist klar, dass wir dazu ausersehen sind, zusammen zu gehen.

@@ -1,0 +1,18 @@
+set: '11'
+rarity: R
+number: '217'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Shapes Slowly Advancing
+  subtitle: ''
+  text: '**Regroup:** Discard your Nazgûl from play to add a :wraith: token here. The Free Peoples player may return a companion to hand to prevent the placement of that token. When you can spot 4 :wraith: tokens on this condition, the Ring-bearer is corrupted.'
+  lore: ''
+de:
+  title: Langsam näherkommende Gestalten
+  subtitle: ''
+  text: '**Sammeln:** Lege deinen Nazgûl aus dem Spiel ab, um eine :wraith: Marke auf diese Karte zu legen. Der Freie Völker Spieler darf einen Gefährten auf die Hand zurücknehmen, um zu verhindern, dass die Marke platziert wird. Wenn du 4 :wraith: Marken auf diesem Effekt entdecken kannst, erliegt der Ringträger der Versuchung des Rings.'
+  lore: ''

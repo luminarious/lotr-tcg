@@ -1,0 +1,27 @@
+set: '5'
+rarity: R
+number: '58'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Sharku
+  subtitle: Warg-captain
+  text: |-
+    **Warg-rider.**  
+    While Sharku is not exhausted, he is **fierce.**  
+    Each time you play an :isengard: mount, you may make the Free Peoples player exert a companion (except a Hobbit).
+  lore: Only Sharku commanded enough respect to control Saruman’s warg-riders.
+fr:
+  title: Sharkou
+  subtitle: Capitaine des Ouargues
+  text: |-
+    **Chevaucheur de ouargue.**   
+    Tant que Sharkou n’est pas épuisé, il est **acharné**.   
+    Chaque fois que vous jouez une monture :isengard:, vous pouvez forcer le joueur des Peuples Libres à affaiblir un compagnon (sauf un Hobbit).
+  lore: Seul Sharkou inspirait suffisamment de respect pour diriger les chevaucheurs de ouargues de Saroumane.

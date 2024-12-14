@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '66'
+unique: true
+culture: Gollum
+type: Event
+class: Regroup
+cost: 2
+en:
+  title: No Safe Places
+  subtitle: ''
+  text: Exert Sméagol to reveal an opponent’s hand. That opponent must discard a card from hand for each culture revealed.
+  lore: ‘…they are watching… eyes will see us.’
+de:
+  title: Keine sicheren Orte
+  subtitle: ''
+  text: Strenge Sméagol an, um die Handkarten eines Gegenspielers aufzudecken. Dieser muss eine Karte für jede aufgedeckte Kultur ablegen.
+  lore: Augen können uns sehen.

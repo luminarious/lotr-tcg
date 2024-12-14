@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '288'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '2'
+site: 6
+en:
+  title: Mordor Regular
+  subtitle: ''
+  text: '**Skirmish:** Exert this minion and spot another :sauron: minion to add a threat.'
+  lore: …but the sun now climbing towards the South was veilded in the reeks of Mordor….
+de:
+  title: Gewöhnlicher Ork
+  subtitle: ''
+  text: '**Kampf:** Strenge diesen Diener an und entdecke einen anderen :sauron: Diener, um eine Bedrohung entstehen zu lassen.'
+  lore: …aber die Sonne, die jetzt den Süden erklomm, war verschleiert in dem Qualm von Mordor…

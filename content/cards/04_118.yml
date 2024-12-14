@@ -1,0 +1,42 @@
+set: '4'
+rarity: R
+number: '118'
+unique: true
+culture: Gondor
+type: Possession
+class: Ranged Weapon
+cost: 1
+en:
+  title: Faramir's Bow
+  subtitle: ''
+  text: |-
+    Bearer must be Faramir.   
+    He is an **archer.**   
+    **Skirmish:** If Faramir is skirmishing a Man or a roaming minion, exert Faramir to wound that minion. 
+  lore: ‘Were I as hasty as you, I might have slain you long ago.’
+de:
+  title: Faramirs Bogen
+  subtitle: ''
+  text: |-
+    Muss auf Faramir gespielt werden. Er ist nun **Bogenschütze.**  
+    **Kampf:** Strenge Faramir an, wenn er gegen einen Menschen oder einen wandernden Diener kämpft, um diesen zu verwunden.
+  lore: Wäre ich so hastig wie du, hätte ich dich vielleicht schon längst erschlagen.
+fr:
+  title: L'Arc de Faramir
+  subtitle: ''
+  text: |-
+    Le détenteur doit être Faramir. Il est un **archer.**  
+    **Combat :** Si Faramir combat un Homme ou un séide errant, affaiblissez Faramir pour blesser ce séide.
+  lore: 'Si j''étais aussi irréfléchi que vous, j''aurais pu vous tuer depuis longtemps.” '
+it:
+  title: Arco di Faramir
+  subtitle: ''
+  text: |-
+    Il Possessore deve essere Faramir. Egli è un **arciere.**  
+    **Schermaglia:** Se Faramir sta schermagliando con un Uomo o un servitore vagante, sforza Faramir per ferire quel servitore.
+  lore: ‘Fossi stato frettoloso come te, vi avrei già uccisi da parecchio tempo.’
+es:
+  title: El Arco De Faramir
+  subtitle: ''
+  text: El portador debe ser Faramir. Él es **arquero.** **Escaramuza:** Si Faramir está en una escaramuza contra un Hombre o un siervo que esté vagando, esfuerza a Faramir para herir ese siervo.
+  lore: Si fuera tan irreflexivo como tú, ya os hubiera matado.

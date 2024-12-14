@@ -1,0 +1,15 @@
+set: '18'
+rarity: R
+number: '32'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Not Easily Avoided
+  subtitle: ''
+  text: |-
+    **Shadow:** Remove :twilight3: to take a :gollum: card into hand from your draw deck, then randomly discard a card from your hand.  
+    **Skirmish:** Discard a :gollum: card from hand to make a :gollum: minion strength +2.
+  lore: '''But I still feel that they are looking at me, or thinking about me: making some other plan, perhaps.’'

@@ -1,0 +1,22 @@
+set: '12'
+rarity: U
+number: '58'
+unique: true
+culture: Man
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Countless Companies
+  subtitle: ''
+  text: |-
+    **Response:** If a :men: possession is discarded from play, stack it here.   
+    **Shadow:** Remove :twilight1: to play a possession stacked here as if from hand.
+  lore: ‘Not tall, but broad and grim… wielding great axes.’
+de:
+  title: Unzählige Einheiten
+  subtitle: ''
+  text: |-
+    **Reaktion:** Lagere eine :men: Ausrüstung hier, wenn diese aus dem Spiel abgelegt wird.  
+    **Schatten:** Verringere den Einfluss um :twilight1: um eine hier gelagerte Ausrüstung zu spielen, als wäre sie auf deiner Hand.
+  lore: Nicht groß, aber stämmig und zäh… und große Äxte schwingend.

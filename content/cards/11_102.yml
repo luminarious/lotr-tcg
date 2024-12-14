@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '102'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Throng of Harad
+  subtitle: ''
+  text: 'Each time this minion is assigned to skirmish a character who has resistance 5 or less, it is fierce until the regroup phase. '
+  lore: Only the strongest fighters can withstand a Southron attack.
+de:
+  title: Unzählige Haradrim
+  subtitle: ''
+  text: Jedes Mal, wenn dieser Diener einem Charakter mit Resistenz 5 oder weniger zugewiesen wird, wird er bis zur Sammelphase erbittert.
+  lore: Nur die Stärksten können dem Ansturm der Südländer widerstehen.

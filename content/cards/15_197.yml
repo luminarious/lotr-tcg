@@ -1,0 +1,18 @@
+set: '15'
+rarity: O
+number: '197'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 4
+str: '8'
+vit: '3'
+res: '6'
+en:
+  title: Quickbeam
+  subtitle: Hastiest of All Ents
+  text: |-
+    Quickbeam is twilight cost -1 for each Ent you can spot.  
+    **Maneuver:** Discard this companion to place another :gandalf: companion from your discard pile on the bottom of your draw deck and reinforce a :gandalf: token.
+  lore: ‘A punch from an Ent-fist crumples up iron…’

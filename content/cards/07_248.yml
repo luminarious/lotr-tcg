@@ -1,0 +1,23 @@
+set: '7'
+rarity: C
+number: '248'
+unique: true
+culture: Rohan
+type: Possession
+class: Ranged Weapon
+cost: 1
+str: '+1'
+en:
+  title: Rohirrim Javelin
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.   
+    **Archery:** Discard this possession to make the fellowship archery total +1.
+  lore: ''
+de:
+  title: Rohirrischer Wurfspeer
+  subtitle: ''
+  text: |-
+    Muss auf einen :rohan: Menschen gespielt werden.   
+    **Fernkampf:** Lege diese Ausrüstung ab, um den Fernkampfwert der Gemeinschaft um 1 zu erhöhen.
+  lore: …die Rohirrim gingen hierhin und dorthin, wie es ihnen beliebte.

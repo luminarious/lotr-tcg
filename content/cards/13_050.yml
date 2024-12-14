@@ -1,0 +1,17 @@
+set: '13'
+rarity: U
+number: '50'
+unique: true
+culture: Gollum
+type: Minion
+cost: 2
+str: '5'
+vit: '4'
+site: 3
+en:
+  title: Gollum
+  subtitle: Her Sneak
+  text: |-
+    While a card titled Déagol is removed from the game, Gollum is strength +2 and **fierce**.  
+    **Shadow:** Remove a card titled Déagol in your discard pile from the game to play this minion from your discard pile.
+  lore: Of that deadly gleam and of the dark eyeholes Frodo and Sam were always conscious.

@@ -1,0 +1,25 @@
+set: '7'
+rarity: U
+number: '168'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Southron Thief
+  subtitle: ''
+  text: |-
+    **Southron.**   
+    **Archery:** Spot another :raider: Man, spot 6 companions, and remove a threat to exert a companion.
+  lore: ''
+de:
+  title: Südländischer Strauchdieb
+  subtitle: ''
+  text: |-
+    **Südländer.**   
+    **Fernkampf:** Entdecke einen anderen :raider: Menschen, entdecke 6 Gefährten und entferne eine Bedrohung, um einen Gefährten anzustrengen.
+  lore: …hatte ihn vor den roten Südlandschwertern gerettet, die ihn zerstückelt hätten, als er dort lag.

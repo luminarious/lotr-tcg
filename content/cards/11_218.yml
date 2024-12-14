@@ -1,0 +1,20 @@
+set: '11'
+rarity: U
+number: '218'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Surrounded by Wraiths
+  subtitle: ''
+  text: |-
+    To play, spot a Nazgûl.   
+    Each time the Free Peoples player plays a companion, that companion is exhausted unless the Free Peoples player pays its twilight cost again. 
+  lore: Encircled, with nowhere to retreat, Aragorn could only hope to drive back the Nazgûl.
+de:
+  title: Von Geistern umzingelt
+  subtitle: ''
+  text: Entdecke einen Nazgûl, um diese Karte zu spielen. Jedes Mal, wenn der Freie Völker Spieler einen Gefährten spielt, ist dieser erschöpft, außer der Freie Völker Spieler zahlt die Zwielichtkosten noch einmal.
+  lore: Ohne Möglichkeit zum Rückzug von den Nazgûl umzingelt, war Aragorns einzige Hoffnung, sie zu vertreiben.

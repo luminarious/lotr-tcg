@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '118'
+unique: true
+culture: Orc
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Dread and Despair
+  subtitle: ''
+  text: 'Spot 2 :orc: minions to discard a condition from play. The Free Peoples player may discard the top 6 cards of his or her draw deck to prevent this.'
+  lore: …yet another weapon, swifter than hunger, the Lord of the Dark Tower had….
+de:
+  title: Furcht und Verzweiflung
+  subtitle: ''
+  text: 'Entdecke 2 :orc: Diener, um einen Effekt abzulegen. Der Freie Völker Spieler darf die obersten 6 Karten von seinem Spieldeck ablegen, um dies zu verhindern. '
+  lore: … noch eine andere Waffe, die schneller wirkte als Hunger, hatte der Herr des Dunklen Turms….

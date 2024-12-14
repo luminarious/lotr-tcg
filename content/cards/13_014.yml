@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '14'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Final Shot
+  subtitle: ''
+  text: 'Make an :elven: companion strength +2 (or +5 if the fellowship has moved more than once this turn).'
+  lore: Redoubling their efforts, the Company at last felled the Cave Troll.
+de:
+  title: Todesstoß
+  subtitle: ''
+  text: 'Gib einem :elven: Gefährten Stärke +2 (oder +5, wenn sich die Gemeinschaft in diesem Zug mehr als einmal bewegt hat).'
+  lore: Mit vereinten Kräften gelang es der Gemeinschaft schließlich, den Höhlentroll niederzustrecken.

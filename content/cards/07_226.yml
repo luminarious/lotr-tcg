@@ -1,0 +1,20 @@
+set: '7'
+rarity: C
+number: '226'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Enraged Horseman
+  subtitle: ''
+  text: 'While you can spot another :rohan: Man and this companion is skirmishing a wounded minion, this companion is strength +2 and **Damage +1.**'
+  lore: 'Doom drove them on. Darkness took them, / horse and horseman; hoofbeats afar / sank into silence: so the songs tell us.'
+de:
+  title: Aufgebrachter Reiter
+  subtitle: ''
+  text: 'Solange du einen anderen :rohan: Menschen entdecken kannst und dieser Gefährte gegen einen verwundeten Diener kämpft, erhält er Stärke +2 und **Schaden +1**.'
+  lore: Schicksal trieb sie. Im Dunkel entschwanden sie, / Fanden sie feind- und feuerumzingelt / Ross und Reiter; ferner Hufschlag / Verscholl in der Nacht; so künden’s die Lieder.

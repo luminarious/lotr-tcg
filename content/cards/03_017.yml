@@ -1,0 +1,18 @@
+set: '3'
+rarity: R
+number: '17'
+unique: true
+culture: Elven
+type: Ally
+race: Elf
+cost: 3
+str: '3'
+vit: '3'
+site: '6'
+en:
+  title: Galadriel
+  subtitle: Lady of the Golden Wood
+  text: |-
+    At the start of each of your turns, you may heal an Elf.   
+    **Fellowship:** Exert Galadriel to play the fellowship’s next site if it is a forest (replacing opponent’s site if necessary). 
+  lore: ‘There is in her and in this land no evil, unless a man bring it hither himself. Then let him beware!’

@@ -1,0 +1,26 @@
+set: '7'
+rarity: R
+number: '221'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 8
+str: '14'
+vit: '4'
+site: 3
+en:
+  title: The Witch-king
+  subtitle: Morgul King
+  text: |-
+    **Fierce.**   
+    When you play The Witch-king, you may remove a threat to take a :wraith: card into hand from your discard pile.   
+    The Ring-bearer cannot take threat wounds.
+  lore: ''
+de:
+  title: Der Hexenkönig
+  subtitle: König von Minas Morgul
+  text: |-
+    **Erbittert.**   
+    Du darfst eine Bedrohung entfernen, wenn du den Hexenkönig spielst, um eine :wraith: Karte aus deinem Ablagestapel wieder auf deine Hand zu nehmen. Der Ringträger kann keine Wunden durch Bedrohungen erleiden.
+  lore: ''

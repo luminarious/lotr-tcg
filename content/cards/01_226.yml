@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '226'
+unique: true
+culture: Wraith
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Their Power Is in Terror
+  subtitle: ''
+  text: '**Maneuver:** Exert a Nazgûl to wound every ally.'
+  lore: ‘In dark and loneliness they are strongest… and already some in Bree are in their clutch.’
+de:
+  title: Ihre Stärke ist die Furcht
+  subtitle: ''
+  text: '**Manöver:** Strenge einen Nazgûl an, um jeden Verbündeten zu verwunden.'
+  lore: In Dunkelheit und Einsamkeit sind sie am stärksten…und einige in Bree sind schon in ihren Klauen.
+fr:
+  title: Leur Pouvoir est dans la Terreur
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Nazgûl pour blesser tous les alliés.'
+  lore: ‘C'est dans les ténèbres et la solitude qu'ils sont les plus forts … et déjà certains à Bree sont sous leur emprise.’
+it:
+  title: Il Loro Potere È nel Terrore
+  subtitle: ''
+  text: '**Manovra:** Sforza un Nazgûl per ferire ogni alleato.'
+  lore: ‘Sono più forti nell'oscurità e nella solitudine… e già parecchia gente qui a Brea è caduta nelle loro grinfie.’
+es:
+  title: Su Poder Esta en El Terror
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un Nazgûl para herir cada aliado.'
+  lore: …pues son mucho más fuertes en las tinieblas y la soledad… y ya dominan a muchos en Bree.

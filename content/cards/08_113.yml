@@ -1,0 +1,23 @@
+set: '8'
+rarity: R
+number: '113'
+unique: true
+culture: Shire
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Sting
+  subtitle: Bane of the Eight Legs
+  text: |-
+    Bearer must be Frodo or Sam.   
+    **Response:** If a fierce skirmish involving bearer is about to end, add a threat to discard a minion involved in that skirmish.
+  lore: ''
+de:
+  title: Stich
+  subtitle: Schrecken der acht Beine
+  text: |-
+    Muss auf Frodo oder Sam gespielt werden.   
+    **Reaktion:** Lasse eine Bedrohung entstehen, wenn ein **erbittert**er Kampf, an dem der Träger beteiligt ist, endet, um einen Diener, der an diesem Kampf beteiligt war, abzulegen.
+  lore: Niemals… hatte Kankra einen solchen Schmerz erfahren oder sich träumen lassen, dass sie ihn erfahren würde.

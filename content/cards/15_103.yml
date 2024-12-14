@@ -1,0 +1,18 @@
+set: '15'
+rarity: C
+number: '103'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '9'
+vit: '3'
+site: 4
+en:
+  title: Black Land Runner
+  subtitle: ''
+  text: |-
+    To play, spot an :orc: Orc.  
+    While you can spot more sites on the adventure path than minions, this minion is strength +5.
+  lore: When commanded to, Orcs could travel great distances with great speed.

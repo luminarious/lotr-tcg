@@ -1,0 +1,15 @@
+set: '18'
+rarity: R
+number: '66'
+unique: true
+culture: Man
+type: Possession
+class: Support Area
+cost: 3
+en:
+  title: Fleet of Corsair Ships
+  subtitle: ''
+  text: |-
+    When you play this possession, you may add a :men: token here.  
+    **Regroup:** Remove 4 :men: tokens from here to place a :men: card from your discard pile on the top of your draw deck.
+  lore: They'll be in the city in two days. You're outnumbered, Aragorn.

@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '348'
+unique: true
+culture: ''
+type: Site
+cost: 7
+siteArrow: Left
+en:
+  title: Deeping Wall
+  subtitle: ''
+  text: '**Battleground.** **Shadow:** Play Saruman from your draw deck. '
+  lore: ''
+de:
+  title: Der Klammwall
+  subtitle: ''
+  text: '**Schlachtfeld.** **Schatten:** Spiele Saruman direkt aus deinem Spieldeck.'
+  lore: ''
+fr:
+  title: Mur du Gouffre
+  subtitle: ''
+  text: '**Champ de bataille.** Ombre : Jouez Saroumane de votre pioche.'
+  lore: '5'
+it:
+  title: Mura Fossato
+  subtitle: ''
+  text: '**Campo di Battaglia.** **Ombra:** Gioca Saruman dal tuo mazzo di gioco.'
+  lore: ''
+es:
+  title: Muro Del Bajo
+  subtitle: ''
+  text: '**Campo de batalla.** **Sombra:** Juega a Saruman de tu mazo de robar.'
+  lore: ''

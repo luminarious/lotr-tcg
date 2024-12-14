@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '160'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: War Now Calls Us
+  subtitle: ''
+  text: 'Exert a :rohan: companion to make him or her strength +3 (and damage +1 if he or she has resistance 5 or more). '
+  lore: ‘Mourn not overmuch! Mighty was the fallen, / meet was his ending. When his mound is raised, / women then shall weep.’
+de:
+  title: Uns aber ruft der Krieg
+  subtitle: ''
+  text: 'Strenge einen :rohan: Gefährten an, um ihm Stärke +3 zu geben (und **Schaden +1**, wenn seine Resistenz 5 oder mehr beträgt).'
+  lore: Nicht der Klage zu viel! Groß war der Gefallene, / seiner würdig sein Tod. Wird ihm der Hügel geschichtet, / mögen die Frauen weinen.

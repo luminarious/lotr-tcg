@@ -1,0 +1,22 @@
+set: '7'
+rarity: U
+number: '49'
+unique: true
+culture: Gandalf
+type: Condition
+cost: 2
+en:
+  title: Steadfast Champion
+  subtitle: ''
+  text: |-
+    Bearer must be Gandalf.   
+    Each minion gains this ability: “**Assignment:** Assign this minion to Gandalf.” **Regroup:** Discard this condition to discard a minion and heal a companion 3 times.
+  lore: ''
+de:
+  title: Standhafter Held
+  subtitle: ''
+  text: |-
+    Muss auf Gandalf gespielt werden.   
+    Alle Diener erhalten: "**Zuweisung:** Weise diesen Diener Gandalf zu.".   
+    **Sammeln:** Lege diesen Effekt ab, um einen Diener abzulegen und einen Gefährten dreimal zu heilen.
+  lore: ''

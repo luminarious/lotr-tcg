@@ -1,0 +1,15 @@
+set: '15'
+rarity: C
+number: '65'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: No Quicker Path
+  subtitle: ''
+  text: |-
+    Each time Aragorn wins a skirmish, you may make a hunter :dwarven: companion or hunter :elven: companion strength +1 until the regroup phase.  
+    **Skirmish:** Discard this condition to make a :gondor: Man strength +2.
+  lore: ‘…we no longer need any trail to tell us which way…’

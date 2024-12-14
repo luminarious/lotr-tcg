@@ -1,0 +1,18 @@
+set: '8'
+rarity: R
+number: '93'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Called Away
+  subtitle: ''
+  text: '**Regroup:** Discard a :sauron: minion, spot a companion (except the Ring-bearer), and remove X burdens, where X is that companion’s vitality, to return that companion to its owner’s hand.'
+  lore: ‘…spear shall be shaken, shield shall be splintered….’
+de:
+  title: Fort gerufen
+  subtitle: ''
+  text: '**Sammeln:** Lege einen :sauron: Diener ab, entdecke einen Gefährten (außer den Ringträger) und entferne X Lastmarken, wobei X den Lebenspunkten dieses Gefährten entspricht, um diesen Gefährten zurück auf die Hand seines Besitzers zu schicken.'
+  lore: So ist Saurons Wille in Minas Tirith eingedrungen; und so bin ich hier aufgehalten worden.

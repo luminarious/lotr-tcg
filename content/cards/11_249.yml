@@ -1,0 +1,33 @@
+set: '11'
+rarity: S
+number: '249'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Left
+en:
+  title: Neekerbreekers’ Bog
+  subtitle: ''
+  text: '**Marsh.** When the fellowship moves to here, heal each character who has resistance 5 or more and exert each other character. '
+  lore: ''
+de:
+  title: Zirperkirper-Moor
+  subtitle: ''
+  text: '**Sumpf.** Wenn die Gemeinschaft diesen Ort erreicht, heile jeden Charak-ter mit Resistenz 5 oder mehr und strenge jeden anderen Charakter an.'
+  lore: ''
+fr:
+  title: Neekerbreekers' Bog
+  subtitle: ''
+  text: '**Marsh.** When the fellowship moves to here, heal each character who has resistance 5 or more and exert each other character. '
+  lore: ''
+it:
+  title: Neekerbreekers' Bog
+  subtitle: ''
+  text: '**Marsh.** When the fellowship moves to here, heal each character who has resistance 5 or more and exert each other character. '
+  lore: ''
+es:
+  title: Neekerbreekers' Bog
+  subtitle: ''
+  text: '**Marsh.** When the fellowship moves to here, heal each character who has resistance 5 or more and exert each other character. '
+  lore: ''

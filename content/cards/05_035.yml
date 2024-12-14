@@ -1,0 +1,35 @@
+set: '5'
+rarity: C
+number: '35'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Gondorian Knight
+  subtitle: ''
+  text: '**Knight.**'
+  lore: Soldiers of Gondor share a long heritage of defending their borders against Sauron’s attackers.
+de:
+  title: Gondorritter
+  subtitle: ''
+  text: '**Ritter.**'
+  lore: Die Soldaten Gondors haben ihre Grenzen seit langer Zeit gegen Saurons Angriffe verteidigt.
+fr:
+  title: Chevalier Gondorien
+  subtitle: ''
+  text: '**Chevalier.**'
+  lore: 'Les soldats du Gondor partagent un ancien héritage: la défense de leurs frontières contre les attaquants de Sauron.'
+it:
+  title: Cavaliere Gondoriano
+  subtitle: ''
+  text: '**Cavaliere.**'
+  lore: I soldati di Gondor condividono una lunga tradizione di protezione dei propri confini contro gli attaccanti di Sauron.
+es:
+  title: Caballero Gondoriano
+  subtitle: ''
+  text: '**Caballero.**'
+  lore: Los soldados de Gondor comparten una larga herencia de defender sus fronteras contra los atacantes de Sauron.

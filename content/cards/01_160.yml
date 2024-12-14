@@ -1,0 +1,36 @@
+set: '1'
+rarity: C
+number: '160'
+unique: true
+culture: Isengard
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Uruk-hai Sword
+  subtitle: ''
+  text: |-
+    Bearer must be an Uruk-hai.   
+    Each time bearer wins a skirmish, the Free Peoples player must discard the top card of his or her draw deck.
+  lore: Their malevolent strength worsens the wounds from the gruesome weapons of the Uruks.
+de:
+  title: Uruk-hai Schwert
+  subtitle: ''
+  text: Muss auf einen Uruk-hai gespielt werden. Jedesmal, wenn der Träger einen Kampf gewinnt, muss der Freie Völker Spieler die oberste Karte seines Spieldeck ablegen.
+  lore: Ihre große Kraft macht die Wunden, die die Uruk-hai mit ihren Schwertern schlagen, noch schrecklicher.
+fr:
+  title: Épée Ourouk-Haï
+  subtitle: ''
+  text: Le détenteur doit être un Ourouk-Haï. Chaque fois que le détenteur remporte un combat, le joueur des Peuples Libres doit défausser la carte du dessus de sa pioche.
+  lore: Leur force malveillante aggrave les blessures infligées par les armes terribles des Ourouks.
+it:
+  title: Spada Uruk-hai
+  subtitle: ''
+  text: Il possessore deve essere un Uruk-hai. Ogni volta che il possessore vince una schermaglia, il giocatore dei Popoli Liberi deve scartare la prima carta del suo mazzo di gioco.
+  lore: La loro forza malevola rende peggiori le ferite causate dalle macabre armi degli Uruk.
+es:
+  title: Espada Uruk-hai
+  subtitle: ''
+  text: El portador debe ser un Uruk-hai. Cada vez que el un portador gana una escaramuza, el jugador de Gentes Libres debe descartar la carta superior de su mazo de robar.
+  lore: Su maléfica fuerza empeora las heridas de las enormes armas de los Uruks.

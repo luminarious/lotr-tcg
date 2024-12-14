@@ -1,0 +1,23 @@
+set: '12'
+rarity: C
+number: '96'
+unique: true
+culture: Orc
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Orc Spear
+  subtitle: ''
+  text: |-
+    Bearer must be an :orc: minion.   
+    When you play this possession on a minion that has a twilight cost of 4 or more, add :twilight2:.
+  lore: The flared backs of Orkish spearheads are crafted to inflict more damage as they are pulled out of a victim.
+de:
+  title: Orkspeer
+  subtitle: ''
+  text: |-
+    Muss auf einen :orc: Diener gespielt werden.  
+    Erhöhe den Einfluss um :twilight2: wenn du diese Waffe auf einen Diener spielst, der 4 oder mehr kostet.
+  lore: Die gezackten Spitzen der Orkspeere waren darauf ausgerichtet, beim Herausziehen weiteren Schaden anzurichten.

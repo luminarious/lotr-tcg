@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '1'
+unique: true
+culture: Dwarven
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Argument Ready to Hand
+  subtitle: ''
+  text: Spot a Dwarf to choose a Shadow player who must spot a Shadow race. Discard from play all minions of all other races.
+  lore: ‘And you, Master Dwarf, pray take your hand from your axe-haft, till I am up! You will not need such arguments.’
+de:
+  title: Etwas Schlagkräftiges bei der Hand haben
+  subtitle: ''
+  text: Entdecke einen Zwerg, um einen Schattenspieler auszuwählen, der ein Volk entdecken muss. Lege alle Diener aller anderen Völker aus dem Spiel ab.
+  lore: Und du, Herr Zwerg, nimm bitte die Hand vom Axtgriff, bis ich oben bin. Du wirst keine solchen schlagkräftigen Mittel brauchen.

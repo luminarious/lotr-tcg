@@ -1,0 +1,17 @@
+set: '7'
+rarity: U
+number: '330'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Edoras Hall
+  subtitle: ''
+  text: 'The twilight cost of each :rohan: possession is –1.'
+  lore: ''
+de:
+  title: Hallen in Edoras
+  subtitle: ''
+  text: 'Die Zwielichtkosten für alle :rohan: Ausrüstungen reduzieren sich um 1.'
+  lore: ''

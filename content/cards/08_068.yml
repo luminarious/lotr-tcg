@@ -1,0 +1,18 @@
+set: '8'
+rarity: R
+number: '68'
+unique: true
+culture: Wraith
+type: Event
+class: Skirmish
+cost: 3
+en:
+  title: Beyond All Darkness
+  subtitle: ''
+  text: Exert a Nazgûl to make him strength +2 and **damage +1**. If the character he is skirmishing is killed, the Free Peoples player must place his or her hand beneath his or her draw deck.
+  lore: ‘…where thy flesh shall be devoured….’
+de:
+  title: Jenseits aller Dunkelheit
+  subtitle: ''
+  text: Strenge einen Nazgûl an, um ihm Stärke +2 und **Schaden +1** zu geben. Wenn er den Charakter tötet, gegen den er kämpft, muss der Freie Völker Spieler alle seine Handkarten unter sein Spieldeck legen.
+  lore: … wo dein Fleisch verzehrt….

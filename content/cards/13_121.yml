@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '121'
+unique: true
+culture: Orc
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Whatever Means
+  subtitle: ''
+  text: 'Make an :orc: Orc strength +2 (or +6 if you remove 2 burdens).'
+  lore: The besiegers believed not that the flames would burn the city walls, but the souls of those behind them.
+de:
+  title: Mit allen Mitteln
+  subtitle: ''
+  text: 'Gib einem :orc: Ork Stärke +2 (oder +6, wenn du 2 Lastmarken vom Ringträger entfernst).'
+  lore: Die Belagerer glaubten nicht, dass die Feuer die Stadtmauern einstürzen lassen würden, sondern vielmehr die verzweifelten Seelen der Eingeschlossenen.

@@ -1,0 +1,16 @@
+set: '1'
+rarity: R
+number: '1'
+
+type: The One Ring
+unique: True
+str: '+1'
+vit: '+1'
+
+en:
+  title: The One Ring
+  subtitle: Isildur's Bane
+  text:
+    - 'Response: If bearer is about to take a wound, he wears The One Ring until the regroup phase.'
+    - 'While wearing The One Ring, each time the Ring-bearer is about to take a wound, add 2 burdens instead.'
+  lore: "…the Ring slipped from his finger as he swam…."

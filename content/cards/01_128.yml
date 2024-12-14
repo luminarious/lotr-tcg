@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '128'
+unique: true
+culture: Isengard
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Lurtz's Battle Cry
+  subtitle: ''
+  text: '**Skirmish:** Make an Uruk-hai strength -1 and **damage +1.**'
+  lore: ‘Find the Halflings!’
+de:
+  title: Lurtz‘ Kampfschrei
+  subtitle: ''
+  text: '**Kampf** Gib einem Uruk-hai Stärke -1 und **Schaden +1.**'
+  lore: Findet die Halblinge!
+fr:
+  title: Cri de Guerre de Lurtz
+  subtitle: ''
+  text: '**Combat :** Donnez à un Ourouk-Haï -1 en force et des **dégâts +1.**'
+  lore: ‘Trouvez les Semi-Hommes !’
+it:
+  title: Grido di Battaglia di Lurtz
+  subtitle: ''
+  text: '**Schermaglia:** Dai a un Uruk-hai forza -1 e **Danno +1.**'
+  lore: ‘Trovate i Mezzuomini!’
+es:
+  title: Grito de Combate de Lurtz
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Uruk-hai fuerza -1 y **daño +1.**'
+  lore: Encontrad a los Medianos!

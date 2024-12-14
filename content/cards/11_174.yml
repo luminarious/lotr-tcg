@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '174'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Sworn Companion
+  subtitle: ''
+  text: Make a Hobbit strength +1 for each companion who has resistance 7 or more.
+  lore: ‘It’s just something Gandalf said. … “Don't you lose him, Samwise Gamgee.” And I don't mean to.’
+de:
+  title: Eingeschworener Gefährte
+  subtitle: ''
+  text: Gib einem Hobbit Stärke +1 für jeden Gefährten mit Resistenz 7 oder mehr.
+  lore: Es geht darum, was Gandalf gesagt hat. … Dass er dir nicht verloren geht, Samweis Gamdschie.“ Und das hab ich auch nicht vor.

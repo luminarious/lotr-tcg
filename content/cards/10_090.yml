@@ -1,0 +1,21 @@
+set: '10'
+rarity: C
+number: '90'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Mordor Brute
+  subtitle: ''
+  text: 'Each :sauron: Orc bearing a possession cannot take wounds (except during skirmish phases).'
+  lore: There came a long rolling of great drums like thunder in the mountains….
+de:
+  title: Mordor Schläger
+  subtitle: ''
+  text: 'Kein :sauron: Ork mit einer Ausrüstung kann Wunden erleiden (außer während der Kampfphasen).'
+  lore: Langanhaltend dröhnten Trommeln wie Donner im Gebirge….

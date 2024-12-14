@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '240'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Left
+en:
+  title: Flats of Rohan
+  subtitle: ''
+  text: '**Plains.** Each unbound companion skirmishing more than 1 minion is strength +3.'
+  lore: ''
+de:
+  title: Grasflächen von Rohan
+  subtitle: ''
+  text: '**Ebene.** Jeder nicht-verbundene Gefährte, der gegen mehr als einen Diener kämpft, erhält Stärke +3.'
+  lore: ''

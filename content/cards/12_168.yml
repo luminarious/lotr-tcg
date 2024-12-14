@@ -1,0 +1,23 @@
+set: '12'
+rarity: C
+number: '168'
+unique: true
+culture: Wraith
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+1'
+en:
+  title: Nazgûl Blade
+  subtitle: ''
+  text: |-
+    Bearer must be a Nazgûl.   
+    While bearer is at a battleground or forest site, he is strength +1.
+  lore: Fear and terror may be the greatest weapons the Nazgûl wield, but their steel is just as perilous.
+de:
+  title: Nazgûlklinge
+  subtitle: ''
+  text: |-
+    Muss auf einen Nazgûl gespielt werden.  
+    Der Träger erhält Stärke +1, wenn er sich auf einem Schlachtfeld oder in einem Wald befindet.
+  lore: Angst und Schrecken mögen die Waffen der Nazgûl sein, aber ihr Stahl ist genauso gefährlich.

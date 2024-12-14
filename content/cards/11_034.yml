@@ -1,0 +1,21 @@
+set: '11'
+rarity: R
+number: '34'
+unique: true
+culture: Gandalf
+type: Artifact
+class: Staff
+cost: 2
+vit: '+1'
+en:
+  title: Gandalf's Staff
+  subtitle: Ash Staff
+  text: |-
+    Bearer must be a Wizard.   
+    If bearer is Gandalf, he gains **muster.** (At the start of the regroup phase, you may discard a card from hand to draw a card.) Each time bearer wins a skirmish, choose a Shadow player who must wound a minion.
+  lore: ''
+de:
+  title: Gandalfs Stab
+  subtitle: Eschenstab
+  text: Muss auf einen Zauberer gespielt werden. Wenn Gandalf der Träger ist, erhält er **Appell**. Jedes Mal, wenn der Träger einen Kampf gewinnt, wählst du einen Schattenspieler, der einen Diener verwunden muss.
+  lore: ''

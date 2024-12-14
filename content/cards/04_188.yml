@@ -1,0 +1,49 @@
+set: '4'
+rarity: U
+number: '188'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 6
+str: '12'
+vit: '3'
+site: 5
+en:
+  title: Uruk Hunter
+  subtitle: ''
+  text: |-
+    **Tracker.** **Fierce.**  
+    Unbound Hobbits may not be discarded.  
+    **Response:** If an unbound Hobbit is killed, exert this minion twice to exhaust a companion. 
+  lore: ‘We came out of Isengard, and led you here, and we shall lead you back the way we choose.’
+de:
+  title: Uruk Jäger
+  subtitle: ''
+  text: |-
+    **Spurenleser.** **Erbittert.**  
+    Nicht-verbundene Hobbits dürfen nicht abgelegt werden. **Reaktion:** Strenge diesen Diener zweimal an, wenn ein nicht-verbundener Hobbit getötet wird, um einen Gefährten zu erschöpfen.
+  lore: Wir sind aus Isengart gekommen und haben euch hierher geführt, und wir werden euch auch auf dem Weg, den wir wählen, zurückführen.
+fr:
+  title: Chasseur Ourouk
+  subtitle: ''
+  text: |-
+    **Traqueur.** **Acharné.**  
+    Les Hobbits dissociés ne peuvent pas être défaussés. **Réponse :** Si un Hobbit dissocié est tué, affaiblissez ce séide deux fois pour épuiser un compagnon.
+  lore: 'Nous sommes partis de l''Isengard, nous vous avons conduits jusqu''ici, et nous vous ramènerons par le chemin que nous choisirons.” '
+it:
+  title: Cacciatore Uruk
+  subtitle: ''
+  text: |-
+    **Inseguitore.**  
+    **Feroce.**  
+    Hobbit Non Legati non possono essere scartati.  
+    **Risposta:** Se un Hobbit Non Legato è ucciso, sforza questo servitore due volte per rendere esausto un compagno.
+  lore: ‘Siamo venuti da Isengard e vi abbiamo guidati sin qui, e saremo noi a scegliere la via del ritorno che più ci piace.’
+es:
+  title: Cazador Uruk
+  subtitle: ''
+  text: |-
+    **Rastreador.** **Fiero.** Los Hobbits no-vinculados no pueden ser descartados.   
+    **Respuesta:** Si un Hobbit no-vinculado muere, esfuerza este siervo dos veces para exhaustar un compañero.
+  lore: Salimos de Isengard y trajimos la tropa aquí y volveremos por el camino que nosotros decidamos.

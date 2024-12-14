@@ -1,0 +1,38 @@
+set: '4'
+rarity: R
+number: '231'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Eastern Emyn Muil
+  subtitle: ''
+  text: |-
+
+    Each Ring-bound companion moving from site 2:tower: must exert twice.   
+    **Maneuver:** Discard this condition and exert a :raider: Man to exert a Ring-bound companion. 
+  lore: The Emyn Muil was a strange, twisted knot of hills.
+de:
+  title: Östlicher Emyn Muil
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jeder Ring-verbundene Gefährte, der sich von Ort 2:tower: fortbewegt, muss zweimal angestrengt werden. **Manöver:** Lege diesen Effekt ab und strenge einen :raider: Menschen an, um einen Ring-verbundenen Gefährten anzustrengen.'
+  lore: Der Emyn Muil war ein… verflochtenes Knäuel von Bergen.
+fr:
+  title: Emyn Muil Oriental
+  subtitle: ''
+  text: 'Chaque compagnon associé à l’Anneau et qui quitte le site 2:tower: doit s’affaiblir deux fois. **Manœuvre :** Défaussez cette situation et affaiblissez un Homme :raider: pour affaiblir un compagnon **Associé à l’Anneau.**'
+  lore: L'Emyn Muil était un étrange n*ud de collines tordues.
+it:
+  title: Emyn Muil Orientale
+  subtitle: ''
+  text: 'Ogni compagno Legato all’Anello che si stia muovendo dal sito 2:tower: deve sforzarsi due volte. **Manovra:** Scarta questa condizione e sforza un Uomo :raider: per far sforzare un compagno **Legato all’Anello.**'
+  lore: L'Emyn Muil era uno strano groviglio di colline.
+es:
+  title: Emyn Muil Oriental
+  subtitle: ''
+  text: |-
+    Cada compañero Vinculado al Anillo moviéndose desde el sitio 2:tower: debe esforzarse dos veces.   
+    **Maniobra:** Descarta esta condición y esfuerza un Hombre :raider: para esforzar un compañero **Vinculado al Anillo.**
+  lore: Emyn Muil era una extraña, retorcida maraña de colinas.

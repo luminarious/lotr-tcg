@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '265'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Left
+en:
+  title: Window on the West
+  subtitle: ''
+  text: '**Underground.** Each unwounded :gondor: Man is **defender +1. **'
+  lore: ''
+de:
+  title: Fenster nach Westen
+  subtitle: ''
+  text: '**Unterirdisch.** Jeder nicht verwundete :gondor: Mensch ist **Verteidiger +1**.'
+  lore: ''

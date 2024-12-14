@@ -1,0 +1,16 @@
+set: '15'
+rarity: R
+number: '148'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Little Golden Flower
+  subtitle: ''
+  text: |-
+    Each Hobbit bearing a hand weapon is vitality +1.  
+    Each Hobbit bearing a follower is resistance +1.  
+    Each unwounded Hobbit is strength +1.
+  lore: ‘…she is very beautiful, and is going to be beautifuller still.’

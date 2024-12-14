@@ -1,0 +1,18 @@
+set: '12'
+rarity: S
+number: '125'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Measure of Comfort
+  subtitle: ''
+  text: While you can spot a Hobbit, each unbound companion is resistance +1.
+  lore: Though fate had it that the fellowship would not accompany Frodo to his final goal, some reassurance came in knowing he did not have to make the journey alone.
+de:
+  title: Ein Rückhalt
+  subtitle: ''
+  text: Solange du einen Hobbit entdecken kannst, erhalten alle nicht-verbundenen Gefährten Resistenz +1.
+  lore: Obwohl das Schicksal nicht wollte, dass die Gemeinschaft Frodo auf seinem ganzen Weg begleitete, gab ihm die Tatsache, dass er doch nicht alleine war, Rückhalt.

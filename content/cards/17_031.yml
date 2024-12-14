@@ -1,0 +1,17 @@
+set: '17'
+rarity: R
+number: '31'
+unique: true
+culture: Gondor
+type: Artifact
+class: Hand Weapon
+cost: 3
+str: '+3'
+en:
+  title: Narsil
+  subtitle: Forged by Telchar
+  text: |-
+    Bearer must be Elendil or Isildur.  
+    Bearer is **damage +1**.  
+    Each time bearer wins a skirmish, you may exert him to discard a Shadow possession.
+  lore: …and the sword of Elendil filled Orcs and Men with fear….

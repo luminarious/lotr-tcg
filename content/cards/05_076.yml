@@ -1,0 +1,44 @@
+set: '5'
+rarity: C
+number: '76'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '1'
+site: 4
+en:
+  title: Southron Traveler
+  subtitle: ''
+  text: |-
+    **Southron.** **Ambush** :twilight2:**.**  
+    **Response:** If a Southron is about to take a wound, remove :twilight3: to prevent that wound.
+  lore: Men of Harad were used to long journeys.
+de:
+  title: Umherziehender Südländer
+  subtitle: ''
+  text: '**Südländer.** **Hinterhalt** :twilight2:. **Reaktion:** Verringere den Einfluss um :twilight3:, wenn ein Südländer verwundet wird, um diese Wunde zu verhindern.'
+  lore: Die Menschen aus Harad waren lange Märsche gewohnt.
+fr:
+  title: Voyageur Suderon
+  subtitle: ''
+  text: |-
+    **Suderon** **Embuscade** :twilight2:**.**   
+    **Réponse :** Si un Suderon est sur le point d’être blessé, retirez :twilight3: pour empêcher cette blessure.
+  lore: Les hommes de Harad avaient l'habitude des longs voyages.
+it:
+  title: Viaggiatore Sudrone
+  subtitle: ''
+  text: |-
+    **Sudrone.** Imboscata :twilight2:.  
+    **Risposta:** Se un Sudrone sta per subire una ferita, rimuovi :twilight3: per prevenire quella ferita.
+  lore: Gli uomini dell'Harad erano abituati ai lunghi viaggi.
+es:
+  title: Viajero Sureño
+  subtitle: ''
+  text: |-
+    **Sureño.** Emboscar :twilight2:.   
+    **Respuesta:** Si un Sureño va a recibir una herida, quita :twilight3: para prevenir esa herida.
+  lore: Los Hombres de Harad estaban acostumbrados a los largos viajes.

@@ -1,0 +1,38 @@
+set: '1'
+rarity: R
+number: '318'
+unique: true
+culture: Shire
+type: Possession
+cost: 0
+en:
+  title: Thrór's Map
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    **Fellowship:** or **Regroup:** Exert 2 Hobbits and discard Thror’s Map to play the fellowship’s next site (replacing opponent’s site if necessary).
+  lore: Bilbo still keeps a map of Erebor, the Lonely Mountain, as a memento of his journey with the Dwarves many years ago.
+de:
+  title: Thrórs Karte
+  subtitle: ''
+  text: |-
+    Spiele diese Karte in deinen Unterstützungsbereich.  
+    **Gemeinschaft** oder **Sammeln:** Strenge 2 Hobbits an und lege Thrór’s Karte ab, um die nächste Ortskarte deiner Gemeinschaft zu spielen (und nötigenfalls die Ortskarte eines Gegenspielers zu ersetzen).
+  lore: Bilbo besitzt immer noch eine Karte von Erebor, dem Einsamen Berg, als Erinnerung an seine Reise mit den Zwergen vor vielen Jahren.
+fr:
+  title: Carte de Thrôr
+  subtitle: ''
+  text: |-
+    Jouable dans votre aire de soutien.  
+    **Compagnie** ou **Ralliement :** Affaiblissez 2 Hobbits et défaussez Carte de Thrôr pour jouer le prochain site de la compagnie (remplacer le site de l’adversaire si nécessaire).
+  lore: Bilbon garde encore une carte d'Erebor, le Mont Solitaire, comme un souvenir de son voyage avec les Nains il y a de nombreuses années.
+it:
+  title: Mappa di Thrór
+  subtitle: ''
+  text: '**Comunidad** o **Reagrupación:** Sforza 2 Hobbit e scarta la Mappa di Thrór per giocare il prossimo sito della compagnia (sostityendo il sito dell''avversario se necessario.)'
+  lore: Bilbo possiede ancora una mappa di Erebor, la Montagna Solitaria, come ricordo del suo viaggio con i Nani di qualche anno fa.
+es:
+  title: El Mapa de Thrór
+  subtitle: ''
+  text: '**Comunidad** o **Reagrupación:** Esfuerza un Hobbit para jugar el sitio siguiente de la comunidad (remplazando el del oponente si es necesario).'
+  lore: Bilbo todavía tiene un mapa de Erebor, La Montaña Solitaria, como un recuerdo de su viaje con los Enanos muchos años atrás.

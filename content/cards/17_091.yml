@@ -1,0 +1,18 @@
+set: '17'
+rarity: U
+number: '91'
+unique: true
+culture: Orc
+type: Possession
+class: Mount
+cost: 2
+str: '+2'
+vit: '+1'
+en:
+  title: Threatening Warg
+  subtitle: ''
+  text: |-
+    Bearer must be a :orc: Orc with strength 10 or less.  
+    Bearer is **fierce**.  
+    When you play this, you may spot 2:orc:Orcs that are not bearing mounts to play an:orc:mount from your draw deck.
+  lore: '''The wolf that one hears is worse than the orc that one fears.’'

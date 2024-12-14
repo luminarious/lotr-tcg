@@ -1,0 +1,43 @@
+set: '5'
+rarity: U
+number: '104'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Orc Cutthroat
+  subtitle: ''
+  text: |-
+    **Tracker.**  
+    The site number of each :sauron: Orc is -3.   
+    **Skirmish:** Discard another :sauron: Orc and exert Orc Cutthroat to wound a companion he is skirmishing.
+  lore: A few Orc casualties were of no concern to him.
+de:
+  title: Ork Halsabschneider
+  subtitle: ''
+  text: '**Spurenleser.** Die Ortskennzahl jedes :sauron: Orks reduziert sich um 3. **Kampf** Lege einen anderen :sauron: Ork ab und strenge den Ork Halsabschneider an, um einen Gefährten, gegen den er kämpft, zu verwunden.'
+  lore: Ein paar Orks waren als Verluste akzeptabel.
+fr:
+  title: Égorgeur Orque
+  subtitle: ''
+  text: |-
+    Traqueur. Le numéro de site de chaque Orque :sauron: est de -3.   
+    **Combat :** Défaussez un autre Orque :sauron: et affaiblissez Égorgeur Orque pour blesser un compagnon qu’il combat.
+  lore: Il ne se souciait guère de quelques pertes orques.
+it:
+  title: Tagliagole Orco
+  subtitle: ''
+  text: |-
+    **Inseguitore.** Sottrai -3 al numero di sito di ogni Orco :sauron:.   
+    **Schermaglia:** Scarta un altro Orco :sauron: e sforza Tagliagole Orco per ferire un compagno con cui sta schermagliando.
+  lore: Poche perdite tra gli Orchi non lo preoccupavano.
+es:
+  title: Orco Feroz
+  subtitle: ''
+  text: '**Rastreador.** El número de sitio de cada Orco :sauron: es -3. **Escaramuza:** Descarta otro Orco :sauron: y esfuerza el Orco Feroz para herir un compañero que esté en una escaramuza contra él.'
+  lore: Unas cuantas bajas de Orcos no le eran mucha preocupación.

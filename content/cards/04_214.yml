@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '214'
+unique: true
+culture: Isengard
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Where Has Gríma Stowed It?
+  subtitle: ''
+  text: '**Maneuver:** Spot Gríma to discard a possession borne by an ally or unbound companion. '
+  lore: ‘Loth was he to render up the keys. Many other things are there which men have missed.’
+de:
+  title: Wo hat Gríma es verwahrt?
+  subtitle: ''
+  text: '**Manöver:** Entdecke Gríma, um eine Ausrüstung von einem Verbündeten oder einem nicht-verbundenen Gefährten abzulegen.'
+  lore: Nur widerwillig gab er die Schlüssel heraus. Viele andere Dinge sind dort, die Mannen vermisst haben.
+fr:
+  title: Où Grima l'a-t-il Rangée?
+  subtitle: ''
+  text: '**Manœuvre :** Désignez Grima pour défausser une possession détenue par un allié ou un compagnon dissocié.'
+  lore: 'Il n''en a remis les clefs qu''à contrecoeur. Il se trouve là maintes autres choses dont les hommes avaient constaté la disparition.” '
+it:
+  title: Dove l'ha messa Gríma?
+  subtitle: ''
+  text: '**Manovra:** Avvista Gríma per scartare un bene portato da un alleato o da un compagno Non Legato.'
+  lore: ‘Si dimostrò restio a darci le chiavi. Ivi giacciono molte cose che gli Uomini credevano d'aver perso.’
+es:
+  title: ¿Dónde La Habrá Dejado Gríma?
+  subtitle: ''
+  text: '**Maniobra:** Avista a Gríma para descartar una posesión llevada por un aliado o un compañero no-vinculado.'
+  lore: Por nada del mundo quería entregarnos las llaves. Hay allí muchas otras cosas que se creían perdidas.

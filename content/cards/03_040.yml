@@ -1,0 +1,35 @@
+set: '3'
+rarity: R
+number: '40'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Citadel of Minas Tirith
+  subtitle: ''
+  text: |-
+
+    You may heal a :gondor: companion at the end of each turn during which no companion or ally lost a skirmish. 
+  lore: ‘One day our paths will lead us there, and the Tower guards shall take up the call – The Lords of Gondor have returned.’
+de:
+  title: Die Feste Minas Tirith
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Du darfst einen :gondor: Gefährten am Ende jedes Spielzugs heilen, in dem kein Gefährte oder Verbündeter einen Kampf verloren hat.'
+  lore: 'Eines Tages wird uns unser Weg dorthin geleiten und von den Turmwachen wird der Ruf erschallen: Die Herren Gondors sind zurückgekehrt.'
+fr:
+  title: La Citadelle de Minas Tirith
+  subtitle: ''
+  text: 'Vous pouvez guérir un compagnon :gondor: à la fin de chaque tour durant lequel aucun compagnon ou allié n’a perdu de combat.'
+  lore: 'Un jour notre voie nous mènera ici, et les gardes de la Tour reprendront le cri – les Seigneurs du Gondor sont revenus.” '
+it:
+  title: Cittadella di Minas Tirith
+  subtitle: ''
+  text: 'Puoi curare un compagno :gondor: alla fine di ogni turno durante il quale nessun compagno o alleato abbia perso una schermaglia.'
+  lore: ‘Un giorno le nostre strade ci porteranno là, e le guardie della Torre diffonderanno la voce - i Signori di Gondor sono tornati.’
+es:
+  title: Ciudadela de Minas Tirith
+  subtitle: ''
+  text: 'Puedes curar un compañero :gondor: al final de cada turno en el que ningún compañero o aliado haya perdido una escaramuza.'
+  lore: Un día nuestros caminos nos llevaran allí, y los guardias de la Torre llamarán – Los Señores de Gondor han regresado.

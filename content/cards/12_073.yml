@@ -1,0 +1,21 @@
+set: '12'
+rarity: S
+number: '73'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '3'
+site: 5
+en:
+  title: The Mouth of Sauron
+  subtitle: Messenger of Mordor
+  text: '**Maneuver:** Exert The Mouth of Sauron to play a :men: condition or :men: possession from your draw deck.'
+  lore: …he learned great sorcery, and knew much of the mind of Sauron; and he was more cruel than any orc.
+de:
+  title: Saurons Mund
+  subtitle: Herold von Mordor
+  text: '**Manöver:** Strenge Saurons Mund an, um einen :men: Effekt oder eine :men: Ausrüstung aus deinem Spieldeck zu spielen.'
+  lore: … und er lernte die große Hexerei und wusste viel von Saurons Gedanken; und er war grausamer als jeder Ork.

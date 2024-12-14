@@ -1,0 +1,15 @@
+set: '15'
+rarity: R
+number: '180'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: With All Possible Speed
+  subtitle: ''
+  text: |-
+    Each unwounded hunter :urukhai: minion is strength +1.  
+    **Response:** If your hunter minion is about to take a wound during a skirmish, discard that minion to exert a non-hunter companion.
+  lore: They seemed to have left winter clinging to the hills behind.

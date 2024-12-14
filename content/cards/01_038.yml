@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '38'
+unique: true
+culture: Elven
+type: Event
+class: Archery
+cost: 0
+en:
+  title: Double Shot
+  subtitle: ''
+  text: '**Archery:** Spot an Elf archer companion to make the fellowship archery total +1.'
+  lore: The affray was sharp, but the orcs were dismayed by the fierceness of the defence. Legolas shot two through the throat.
+de:
+  title: Zweifachschuss
+  subtitle: ''
+  text: '**FernKampf** Entdecke unter deinen Gefährten einen elbischen Bogenschützen, um den Fernkampfwert deiner Gemeinschaft um 1 zu erhöhen.'
+  lore: Der Ansturm war heftig, aber die erbitterte Verteidigung entmutigte die Orks. Legolas schoss zweien durch die Kehle.
+fr:
+  title: Doublet
+  subtitle: ''
+  text: '**Archerie :** Désignez un compagnon archer Elfe pour augmenter le total d’archerie de la compagnie de +1.'
+  lore: La bataille fut vive, mais la fureur de la défense épouvanta les Orques. Legolas en tira deux en pleine gorge.
+it:
+  title: Doppio Tiro
+  subtitle: ''
+  text: '**Arcieri:** Avvista un compagno arciere Elfo per aggiungere +1 al totale degli arcieri della Compagnia.'
+  lore: La rissa era tumultuosa, ma gli Orchi furono sbigottiti dalla violenza della difesa. Legolas ne trafisse due alla gola.
+es:
+  title: Disparo Doble
+  subtitle: ''
+  text: '**Arquería:** Avista un compañero arquero Elfo para dar un +1 al total de arquería de la comunidad.'
+  lore: …los Orcos atacaron decididamente, pero el furor de la defensa los desanimo muy pronto. Legolas les atravesó la garganta a dos de ellos.

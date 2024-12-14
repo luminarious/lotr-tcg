@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '103'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Hearts Raised
+  subtitle: ''
+  text: 'At the start of your regroup phase, you may spot a :gondor: Man and discard a card from hand to remove a threat.'
+  lore: …lifted for a while by the return of Faramir….
+de:
+  title: Neuer Mut
+  subtitle: ''
+  text: 'Zu Beginn deiner Sammelphase darfst du einen :gondor: Menschen entdecken und eine Karte aus deiner Hand abwerfen, um eine Bedrohung zu entfernen.'
+  lore: …und die Leute, denen Faramirs Rückkehr neuen Mut gemacht hatte…

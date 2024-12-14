@@ -1,0 +1,19 @@
+set: '7'
+rarity: R
+number: '228'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Theoden
+en:
+  title: Éowyn
+  subtitle: Dernhelm
+  text: |-
+    **Valiant.**   
+    While skirmishing a mounted minion, Éowyn is strength +2.   
+    While skirmishing a fierce minion, Éowyn is strength +2.
+  lore: ''

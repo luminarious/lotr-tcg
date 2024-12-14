@@ -1,0 +1,36 @@
+set: '1'
+rarity: C
+number: '271'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '2'
+site: 6
+en:
+  title: Orc Soldier
+  subtitle: ''
+  text: '**Skirmish:** Exert this minion to wound a character he is skirmishing.'
+  lore: Bearing cruel weapons, Orcs go forth from Mordor to serve the Eye.
+de:
+  title: Ork Soldat
+  subtitle: ''
+  text: '**Kampf** Strenge diesen Diener an, um einen Charakter, den er bekämpft, zu verwunden.'
+  lore: Mit grausamen Schwertern bewaffnete Orks strömen aus Mordor heraus, um dem Auge zu dienen.
+fr:
+  title: Soldat Orque
+  subtitle: ''
+  text: '**Combat :** Affaiblissez ce séide pour blesser un personnage qu’il combat.'
+  lore: Porteurs d'armes cruelles, les Orques sortent du Mordor pour servir l'*il.
+it:
+  title: Soldato Orco
+  subtitle: ''
+  text: '**Schermaglia:** Sforza questo servitore per ferire un personaggio contro cui stia schermagliando.'
+  lore: Impugnando armi spietate, gli Orchi uscirono da Mordor per servire l'Occhio.
+es:
+  title: Soldado Orco
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza este siervo para herir un personaje que este en una escaramuza contra él.'
+  lore: Llevando armas crueles, los Orcos cargan por Mordor para servir al Ojo.

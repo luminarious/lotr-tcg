@@ -1,0 +1,24 @@
+set: '12'
+rarity: R
+number: '111'
+unique: true
+culture: Rohan
+type: Possession
+class: Armor
+cost: 0
+vit: '+1'
+en:
+  title: Coif
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.   
+    Each time a Shadow card adds any number of twilight tokens, you may exert bearer to prevent that.   
+    Each time the fellowship moves from a forest site, exert a companion.
+  lore: …the Hornburg still held fast, like an island in a sea.
+de:
+  title: Kettenhaube
+  subtitle: ''
+  text: |-
+    Muss auf einen :rohan: Menschen gespielt werden.   
+    Jedes Mal, wenn eine Schattenkarte den Einfluss erhöht, darfst du den Träger anstrengen, um dies zu verhindern. Strenge, jedes Mal, wenn sich die Gemeinschaft aus einem Wald fortbewegt, einen Gefährten an.
+  lore: ''

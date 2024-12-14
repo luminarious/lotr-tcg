@@ -1,0 +1,35 @@
+set: '2'
+rarity: R
+number: '112'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: A Promise
+  subtitle: ''
+  text: |-
+
+    While you can spot Frodo and Sam and neither is exhausted, each is strength +1. 
+  lore: ‘But I'm glad Sam. I cannot tell you how glad. Come along! It is plain that we were meant to go together.’
+de:
+  title: Ein Versprechen
+  subtitle: ''
+  text: Solange du Frodo und Sam entdecken kannst und keiner von beiden erschöpft ist, erhalten beide Stärke +1.
+  lore: Aber ich bin froh, Sam. Ich kann dir gar nicht sagen, wie froh. Komm mit! Es ist klar, dass wir dazu ausersehen sind, zusammen zu gehen.
+fr:
+  title: Une Promesse
+  subtitle: ''
+  text: Tant que vous pouvez désigner Frodon et Sam et qu’aucun d’eux n’est épuisé, chacun d’eux a +1 en force.
+  lore: 'Mais je suis heureux, Sam. Je ne peux pas te dire à quel point. Viens! Il est clair que nous étions censés partir ensemble.” '
+it:
+  title: Una Promessa
+  subtitle: ''
+  text: Mentre puoi avvistare Frodo e Sam e nessuno dei due è esausto, aggiungi +1 alla forza di ognuno.
+  lore: ‘Ma ne sono felice, Sam. Non sai quanto. Andiamo! E’ chiaro che il destino vuole che viaggiamo insieme!’
+es:
+  title: Una promesa
+  subtitle: ''
+  text: Mientras puedas avistar a Frodo y a Sam y ninguno de los dos esté exhausto, cada uno es fuerza +1.
+  lore: Pero estoy contento, Sam. No te puedo decir cuanto de contento. ¡Vamos! Es llano allá donde vamos los dos juntos.

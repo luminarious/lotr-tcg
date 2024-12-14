@@ -1,0 +1,22 @@
+set: '13'
+rarity: U
+number: '177'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Weapons of Control
+  subtitle: ''
+  text: |-
+    When you play this, add an :urukhai: token here for each wounded companion.  
+    **Skirmish:** Discard this from play or remove 2 tokens from here to make a companion skirmishing an :urukhai: minion strength –1.
+  lore: ''
+de:
+  title: Sperrfeuerwaffen
+  subtitle: ''
+  text: |-
+    Lege eine :urukhai: Marke für jeden verwundeten Gefährten auf diese Karte, wenn du sie spielst.  
+    **Kampf:** Lege diesen Effekt ab oder entferne hier 2 Marken, um einem Gefährten, der gegen einen :urukhai: Diener kämpft, Stärke -1 zu geben.
+  lore: ''

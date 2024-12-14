@@ -1,0 +1,19 @@
+set: '19'
+rarity: P
+number: '6'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Arwen
+  subtitle: Royal Maiden
+  text: |-
+    **Ranger.**  
+    While you can spot 2 :elven: followers, each minion skirmishing Arwen is strength –2.  
+    **Maneuver**: Add 3 threats to reconcile your hand.
+  lore: I would rather share one lifetime with you than face all the ages of this world alone.

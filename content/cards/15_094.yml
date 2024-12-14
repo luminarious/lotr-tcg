@@ -1,0 +1,19 @@
+set: '15'
+rarity: U
+number: '94'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '3'
+site: 4
+en:
+  title: Wandering Hillman
+  subtitle: ''
+  text: |-
+    To play, spot a :men: Man.  
+    While you can spot a companion of strength 10 or more, this minion is strength +3.  
+    **Maneuver:** Remove 2 burdens or 2 threats to control a site.
+  lore: The Hillmen are always searching for lands to conquer.

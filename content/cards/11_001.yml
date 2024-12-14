@@ -1,0 +1,17 @@
+set: '11'
+rarity: R
+number: '1'
+unique: true
+culture: ''
+type: Ring
+res: '+2'
+en:
+  title: The One Ring
+  subtitle: The Ring of Rings
+  text: '**Response:** If the Ring-bearer is about to take a wound, he or she wears The One Ring until the regroup phase. While the Ring-bearer is wearing The One Ring, each time he or she is about to take a wound, add a burden instead. '
+  lore: ‘…ash nazg thrakatulûk agh burzum-ishi krimpatul.’
+de:
+  title: Der Eine Ring
+  subtitle: Der Ring der Ringe
+  text: '**Reaktion:** Wenn der Ringträger im Begriff ist, eine Wunde zu erleiden, kann er den Einen Ring bis zur Sammelphase benutzen. Solange er den Einen Ring benutzt, erhält er für jede Wunde, die ihm zugefügt wird, statt dessen eine Lastmarke.'
+  lore: ‘…ash nazg thrakatulûk agh burzum-ishi krimpatul.’

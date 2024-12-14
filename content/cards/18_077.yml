@@ -1,0 +1,16 @@
+set: '18'
+rarity: C
+number: '77'
+unique: true
+culture: Orc
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Orkish Ax
+  subtitle: ''
+  text: |-
+    Bearer must be an :orc: Orc.  
+    Each time bearer wins a skirmish, you may add a threat.
+  lore: Crude blood rusted steel axes were dragged by Orcs from battle to battle.

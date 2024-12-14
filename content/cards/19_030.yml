@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '30'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+res: '8'
+en:
+  title: Pippin
+  subtitle: Steadfast Friend
+  text: |-
+    **Fellowship.**  
+    Pippin is strength +1 for each tale you can spot.
+  lore: ‘You must go - and therefore we must, too. Merry and I are coming with you.’

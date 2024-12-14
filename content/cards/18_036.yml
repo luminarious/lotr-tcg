@@ -1,0 +1,13 @@
+set: '18'
+rarity: C
+number: '36'
+unique: true
+culture: Gollum
+type: Event
+class: Response
+cost: 0
+en:
+  title: Time for Food
+  subtitle: ''
+  text: If a skirmish event is played, spot Sméagol to cancel that event.
+  lore: Oh yes we could! Spoil nice fish. Give it to usss rrraw… and wrrriggling! You keep nasty chips.

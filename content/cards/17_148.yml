@@ -1,0 +1,12 @@
+set: '17'
+rarity: U
+number: '148'
+unique: true
+culture: ''
+type: Site
+cost: 1
+en:
+  title: Nurn
+  subtitle: ''
+  text: '**Plains.** While you control this site, each of your hunter minions is strength +1.'
+  lore: ''

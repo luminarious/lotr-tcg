@@ -1,0 +1,18 @@
+set: '18'
+rarity: C
+number: '87'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '9'
+vit: '3'
+site: 4
+en:
+  title: Orkish Breeder
+  subtitle: ''
+  text: |-
+    **Hunter 1.** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    **Shadow:** Exert this minion to play an :urukhai: hunter at twilight cost -2.
+  lore: Deep in the Isengard pits, Orcs tended the mud from which the Uruk-hai were pulled from.

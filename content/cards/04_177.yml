@@ -1,0 +1,36 @@
+set: '4'
+rarity: R
+number: '177'
+unique: true
+culture: Isengard
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+3'
+en:
+  title: Uglúk's Sword
+  subtitle: ''
+  text: |-
+    Bearer must be an Uruk-hai.  
+    **Shadow:** If bearer is Uglúk, exert it and discard a minion from hand to play a minion. Its twilight cost is -3. 
+  lore: ‘I am Uglúk. I command.’
+de:
+  title: Uglúks Schwert
+  subtitle: ''
+  text: Muss auf einen Uruk-hai gespielt werden. **Schatten:** Wenn der Träger Uglúk ist, strenge ihn an und lege einen Diener aus deiner Hand ab, um einen Diener mit um 3 reduzierten Zwielichtkosten zu spielen.
+  lore: Ich bin Uglúk. Ich befehle.
+fr:
+  title: L'Épée d'Ouglouk
+  subtitle: ''
+  text: 'Le détenteur doit être un Ourouk-Haï. Ombre : Si le détenteur est Ouglouk, affaiblissez-le et défaussez un séide de votre main pour jouer un séide; son coût crépusculaire est de -3.'
+  lore: 'Je suis Ouglouk. C''est moi qui commande.” '
+it:
+  title: Spada di Uglúk
+  subtitle: ''
+  text: Il possessore deve essere un Uruk-hai. **Ombra:** Se il possessore è Uglúk, sforzalo e scarta un servitore dalla mano per giocare un servitore. Sottrai -3 al suo costo **Crepuscolo.**
+  lore: ‘Io sono Uglúk. Io comando.’
+es:
+  title: La Espada De Uglúk
+  subtitle: ''
+  text: El portador debe ser un Uruk-hai. **Sombra:** Si el portador es Uglúk, esfuérzalo y descarta un siervo de tu mano para jugar un siervo. Su coste de penumbra es -3.
+  lore: Yo soy Uglúk. Yo soy quien manda.

@@ -1,0 +1,18 @@
+set: '11'
+rarity: R
+number: '43'
+unique: true
+culture: Gollum
+type: Event
+class: Shadow
+cost: 2
+en:
+  title: Horribly Strong
+  subtitle: ''
+  text: Discard Gollum from play to wound an unbound companion who has resistance 6 or less.
+  lore: Gollum hissed and spat, but he did not let go.
+de:
+  title: Entsetzlich stark
+  subtitle: ''
+  text: Lege Gollum aus dem Spiel ab, um einen nicht-verbundenen Gefährten mit Resistenz 6 oder weniger zu verwunden.
+  lore: Gollum zischte und spuckte, ließ aber nicht los

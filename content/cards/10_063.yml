@@ -1,0 +1,21 @@
+set: '10'
+rarity: R
+number: '63'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 6
+str: '12'
+vit: '3'
+site: 4
+en:
+  title: Morgul Vanguard
+  subtitle: ''
+  text: '**Assignment:** Assign this minion to an unbound companion bearing a hand weapon. '
+  lore: ‘…soon the host of Morgul will enter in at many points.’
+de:
+  title: Morgul Vorhut
+  subtitle: ''
+  text: '**Zuweisung:** Weise diesen Diener einem nicht-verbundenen Gefährten zu, der eine Handwaffe trägt.'
+  lore: … bald wird das Heer von Morgul an vielen Stellen hereindringen.

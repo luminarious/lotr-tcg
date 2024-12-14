@@ -1,0 +1,22 @@
+set: '8'
+rarity: U
+number: '112'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Song of the Shire
+  subtitle: ''
+  text: |-
+    **Fellowship:** Exert a :shire: companion and either a :rohan: companion or a :gandalf: companion to add a :shire: token here.   
+    **Skirmish:** Remove a :shire: token here to prevent an unbound companion from being overwhelmed unless his or her strength is tripled.
+  lore: …the hosts of Mordor were enheartened, and filled with a new lust and fury they came yelling….
+de:
+  title: Lied aus dem Auenland
+  subtitle: ''
+  text: |-
+    **Gemeinschaft:** Strenge einen :shire: Gefährten und entweder einen :rohan: oder :gandalf: Gefährten an, um eine :shire: Marke auf diese Karte zu legen.   
+    **Kampf:** Entferne eine :shire: Marke von dieser Karte, damit ein nicht-verbundener Gefährte nur mit dreifacher Stärke überwältigt werden kann.
+  lore: ''

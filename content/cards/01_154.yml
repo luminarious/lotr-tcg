@@ -1,0 +1,44 @@
+set: '1'
+rarity: C
+number: '154'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '7'
+vit: '1'
+site: 5
+en:
+  title: Uruk Soldier
+  subtitle: ''
+  text: |-
+    **Damage +1**.   
+    When you play this minion, you may make the Free Peoples player discard the top card of his or her draw deck.
+  lore: Saruman’s Uruk-hai band together as an extremely effective fighting unit.
+de:
+  title: Uruk Soldat
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Wenn du den Uruk Soldaten spielst, darfst du den Freie Völker Spieler zwingen, die oberste Karte seines Spieldecks abzulegen.
+  lore: Sarumans Uruk-hai schliessen sich zu einer effektiven Kampfformation zusammen.
+fr:
+  title: Soldat Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    Quand vous jouez ce séide, vous pouvez obliger le joueur des Peuples Libres à défausser la carte du dessus de sa pioche.
+  lore: Les Ourouk-Haï de Saroumane se rassemblent comme une unité combattante extrêmement efficace.
+it:
+  title: Soldato Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    Quando giochi questo servitore, puoi far scartare al giocatore dei Popoli Liberi la prima carta del suo mazzo di gioco.
+  lore: Gli Uruk-hai di Saruman si uniscono insieme come un'unità di combattimento estremamente efficiente.
+es:
+  title: Soldado Uruk
+  subtitle: ''
+  text: '**Daño +1.** Cuando juegas este siervo, puedes hacer que el jugador de Gentes Libres descarte la carta superior de su mazo de robar.'
+  lore: Los Uruk-hai de Saruman se unen en una extremadamente efectiva unidad de combate.

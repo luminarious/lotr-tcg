@@ -1,0 +1,22 @@
+set: '13'
+rarity: U
+number: '146'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Everything but My Bones
+  subtitle: ''
+  text: |-
+    You may remove from the game 4 other :shire: cards in your discard pile to play this event from your discard pile. Then remove this event from the game.  
+    Make your Hobbit at a dwelling or forest site strength +3.
+  lore: ‘…I'll carry Mr. Frodo up myself….’
+de:
+  title: Alles außer meinen Knochen
+  subtitle: ''
+  text: |-
+    Du darfst 4 andere :shire: Karten aus deinem Ablagestapel ganz aus dem Spiel entfernen, um dieses Ereignis aus deinem Ablagestapel zu spielen. Entferne dann dieses Ereignis ganz aus dem Spiel.  
+    Gib einem deiner Hobbits, der sich in einer Heimstatt oder einem Wald befindet, Stärke +3.
+  lore: ''

@@ -1,0 +1,13 @@
+set: '1'
+rarity: U
+number: '363'
+unique: true
+culture: ''
+type: Site
+cost: 9
+siteArrow: Left
+en:
+  title: Tol Brandir
+  subtitle: ''
+  text: '**River.** **Shadow:** Play up to 3 trackers from your discard pile; end your Shadow phase.'
+  lore: ''

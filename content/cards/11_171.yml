@@ -1,0 +1,23 @@
+set: '11'
+rarity: R
+number: '171'
+unique: true
+culture: Shire
+type: Possession
+class: Box
+cost: 1
+res: '+2'
+en:
+  title: Salt from the Shire
+  subtitle: ''
+  text: |-
+    Bearer must be a Hobbit.   
+    **Fellowship:** Discard this possession to remove a burden. **Skirmish:** If bearer is an unbound Hobbit, discard this possession to prevent him or her from being overwhelmed unless his or her strength is tripled. 
+  lore: ''
+de:
+  title: Salz aus dem Auenland
+  subtitle: ''
+  text: |-
+    Muss auf einen Hobbit gespielt werden. **Gemeinschaft:** Lege diese Ausrüstung ab, um eine Lastmarke zu entfernen.  
+    **Kampf:** Wenn ein nicht-verbundener Hobbit der Träger ist, lege diese Ausrüstung ab, damit er nur noch mit dreifacher Stärke überwältigt werden kann.
+  lore: ''

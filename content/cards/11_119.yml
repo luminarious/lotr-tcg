@@ -1,0 +1,21 @@
+set: '11'
+rarity: R
+number: '119'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '11'
+vit: '2'
+site: 4
+en:
+  title: Emboldened Orc
+  subtitle: ''
+  text: '**Lurker.** (Skirmishes involving lurker minions must be resolved after any others.) This minion is strength +1 for each companion who is not assigned to a skirmish.'
+  lore: Orcs are seldom intimidated, and often goaded, by superior forces.
+de:
+  title: Ermutigter Ork
+  subtitle: ''
+  text: '**Schleicher.** Dieser Diener erhält Stärke +1 für jeden Gefährten, der keinem Kampf zugewiesen ist.'
+  lore: Orks werden von überlegenen Gegnern selten eingeschüchtert sondern eher angestachelt.

@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '28'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 0
+str: '3'
+vit: '4'
+res: '10'
+en:
+  title: Frodo
+  subtitle: Little Master
+  text: |-
+    **Fellowship. Ring-bearer. Ring-bound.**  
+    While you cannot spot 4 threats, Shadow cards cannot discard cards from your hand or from the top of your draw deck.
+  lore: We're friends of Gandalf the Grey.

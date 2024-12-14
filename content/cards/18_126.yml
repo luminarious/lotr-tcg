@@ -1,0 +1,18 @@
+set: '18'
+rarity: R
+number: '126'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: White Hand Marchers
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    This minion is strength +1 for each other :urukhai: minion you can spot.
+  lore: The enormous Uruk-hai armies marched with great speed.

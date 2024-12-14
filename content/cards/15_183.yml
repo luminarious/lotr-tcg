@@ -1,0 +1,13 @@
+set: '15'
+rarity: U
+number: '183'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: They Feel The Precious
+  subtitle: ''
+  text: '**Response:** If a Nazgûl is about to take a wound, remove a threat to prevent that wound.'
+  lore: ‘Three times is a threat. They feel us here…’

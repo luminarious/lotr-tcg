@@ -1,0 +1,18 @@
+set: '8'
+rarity: C
+number: '109'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Closer and Closer He Bent
+  subtitle: ''
+  text: '**Regroup:** Exert an unbound Hobbit and add a burden to reveal your hand. Place each Free Peoples card revealed this way beneath your draw deck.'
+  lore: …yet still driven as if by a madness….
+de:
+  title: Tiefer und immer tiefer beugte er sich
+  subtitle: ''
+  text: '**Sammeln:** Strenge einen nicht-verbundenen Hobbit an und lege eine Lastmarke auf den Ringträger, um deine Handkarten aufzudecken. Lege alle auf diese Weise aufgedeckten Karten der Freien Völker unter dein Spieldeck.'
+  lore: Pippin hatte die Knie angezogen und hielt den Ball zwischen ihnen. Er beugte sich tief darüber und sah aus wie ein… Kind, das sich… über eine Schüssel mit Essen hermacht.

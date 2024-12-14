@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '153'
+unique: true
+culture: Rohan
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Rider's Spear
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.   
+    If bearer is mounted, bearer is **Damage +1.** 
+  lore: Shafts of the sun flared above the eastern hills and glimmered on their spears.
+de:
+  title: Reiterspeer
+  subtitle: ''
+  text: 'Muss auf einen :rohan: Menschen gespielt werden. Wenn der Träger beritten ist, erhält er **Schaden +1**. '
+  lore: Sonnenstrahlen flammten über den östlichen Bergen auf und glitzerten auf ihren Speeren.

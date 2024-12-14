@@ -1,0 +1,22 @@
+set: '10'
+rarity: C
+number: '112'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Nine-fingered Frodo and the Ring of Doom
+  subtitle: ''
+  text: |-
+    **Tale.**   
+    Exert a :shire: character to remove a burden or 2 threats. 
+  lore: ‘What a tale we have been in, Mr. Frodo, haven't we?’
+de:
+  title: Der neunfingrige Frodo und der Ring des Schicksals
+  subtitle: ''
+  text: |-
+    **Erzählung.**   
+    Strenge einen :shire: Charakter an, um eine Lastmarke oder 2 Bedrohungen zu entfernen.
+  lore: In was für einer Geschichte sind wir gewesen, Herr Frodo, nicht wahr?

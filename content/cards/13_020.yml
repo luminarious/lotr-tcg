@@ -1,0 +1,21 @@
+set: '13'
+rarity: S
+number: '20'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Lórien Protector
+  subtitle: ''
+  text: While another companion is assigned to a skirmish, during each skirmish, prevent all wounds to this companion after the first wound.
+  lore: There was a sound of soft laughter over their heads, and then another clear voice spoke in an elven-tongue.
+de:
+  title: Beschützer Lóriens
+  subtitle: ''
+  text: Verhindere alle Wunden nach der ersten, die diesem Gefährten in jedem Kampf zugefügt wird, solange ein anderer Gefährte einem Kampf zugewiesen ist.
+  lore: Sie hörten leises Lachen über ihren Köpfen, und dann sprach eine andere klare Stimme in der Elbensprache.

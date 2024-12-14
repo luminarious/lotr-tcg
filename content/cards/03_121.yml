@@ -1,0 +1,18 @@
+set: '3'
+rarity: P
+number: '121'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Legolas
+  subtitle: Son of Thranduil
+  text: |-
+    **Archer.**   
+    While Legolas is at a river or forest, add 1 to the fellowship archery total. 
+  lore: ‘Praised be the bow of Galadriel, and the hand and eye of Legolas!… That was a mighty shot in the dark, my friend!’

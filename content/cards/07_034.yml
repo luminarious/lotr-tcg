@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '34'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Echoes of Valinor
+  subtitle: ''
+  text: Each time Gandalf wins a skirmish, you may exert him to draw 2 cards.
+  lore: ‘Here in the Court of the Kings, Isildur grew a white tree, from a seed brought over the waters….’
+de:
+  title: Echos von Valinor
+  subtitle: ''
+  text: Jedes Mal, wenn Gandalf einen Kampf gewinnt, darfst du ihn anstrengen, um 2 Karten zu ziehen.
+  lore: Hier, im Hof der Könige, pflanzte Isildur einen weißen Baum aus einem Samen jenseits des Meeres.

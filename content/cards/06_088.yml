@@ -1,0 +1,21 @@
+set: '6'
+rarity: R
+number: '88'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '12'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Toldëa
+  subtitle: Winged Sentry
+  text: '**Fierce.** Each time Úlairë Toldëa wins a skirmish, the Free Peoples player must exert a companion or add a burden.'
+  lore: ‘They are calling for it. Calling for the precious.’
+fr:
+  title: Ùlairë Toldëa
+  subtitle: Sentinelle Ailée
+  text: '**Acharné.** Chaque fois qu’Ùlairë Toldëa gagne un combat, le joueur des Peuples Libres doit affaiblir un compagnon ou ajouter un point-fardeau.'
+  lore: 'Ils l''appellent. Ils appellent le trésor.” '

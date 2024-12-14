@@ -1,0 +1,16 @@
+set: '12'
+rarity: R
+number: '27'
+unique: true
+culture: Gandalf
+type: Companion
+race: Wizard
+cost: 4
+str: '7'
+vit: '4'
+res: '7'
+en:
+  title: Gandalf
+  subtitle: The White Rider
+  text: '**Skirmish:** If Gandalf is not assigned to a skirmish, exert him and another unbound companion skirmishing a minion to make Gandalf strength +3 and have him replace that companion in that skirmish.'
+  lore: ‘Look to my coming at first light on the fifth day.’

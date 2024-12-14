@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '9'
+unique: true
+culture: Dwarven
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Lend Us Your Aid
+  subtitle: ''
+  text: '**Maneuver:** Exert Gimli twice to make him and each Elf companion strength +3 until the regroup phase.'
+  lore: He hewed a two-handed stroke and laid the last Orc before his feet. ‘Now my count passes Master Legolas again.’
+de:
+  title: Leistet uns Hilfe
+  subtitle: ''
+  text: '**Manöver:** Strenge Gimli zweimal an, um ihm und jedem Elbengefährten bis zur Sammelphase Stärke +3 zu geben.'
+  lore: Er holte zu einem zweihändigen Streich aus und streckte den letzten Ork zu Boden. “Jetzt übertrifft meine Endzahl die von Herrn Legolas wieder.
+fr:
+  title: Prêtez-Nous Assistance
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez Gimli deux fois pour lui donner, ainsi qu’à un compagnon Elfe, +3 en force jusqu’à la phase de ralliement.'
+  lore: 'Il asséna un coup des deux mains et étendit le dernier Orque à ses pieds. “À présent, mon compte dépasse à nouveau celui de Maître Legolas.” '
+it:
+  title: Dacci Il Tuo Aiuto
+  subtitle: ''
+  text: '**Manovra:** Sforza due volte Gimli per aggiungere +3 alla sua forza e a quella di ogni compagno Elfo fino alla fase di raccolta.'
+  lore: Gimli vibrò un altro colpo a due mani, atterrando l'ultimo Orco. Ora il suo conto superava di nuovo quello di Legolas.
+es:
+  title: Prestadnos vuestra ayuda
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza a Gimli dos veces para darle a él y a cada compañero Elfo fuerza +3 hasta la fase de reagrupación.'
+  lore: Gimli taló un golpe a dos manos y derribó al último Orco a sus pies. Eso elevó su cuenta sobre la de Legolas.

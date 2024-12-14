@@ -1,0 +1,22 @@
+set: '12'
+rarity: C
+number: '145'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Shingle in a Storm
+  subtitle: ''
+  text: |-
+    While you can spot 6 companions, each :urukhai: minion is **damage +1.**   
+    **Assignment:** Discard this condition to assign an :urukhai: minion to a companion who has resistance 2 or less.
+  lore: Against the Deeping Wall the hosts of Isengard roared like a sea.
+de:
+  title: Wie ein Blatt im Wind
+  subtitle: ''
+  text: |-
+    Jeder :urukhai: Diener erhält **Schaden +1**, solange du 6 Gefährten entdecken kannst.  
+    **Zuweisung:** Lege diesen Effekt ab, um einem Gefährten mit Resistenz 2 oder weniger einen :urukhai: Diener zuzuweisen.
+  lore: Wie ein Meer brausten die Heere von Isengart gegen den Klammwall.

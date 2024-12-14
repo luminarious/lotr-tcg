@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '93'
+unique: true
+culture: Rohan
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: Ever the Hope of Men
+  subtitle: ''
+  text: '**Regroup:** Exert 2 mounted :rohan: Men to discard up to 2 wounded minions.'
+  lore: ‘Would that day was here and we might ride down upon them like a storm out of the mountains!’
+de:
+  title: Immer die Hoffnung der Menschen
+  subtitle: ''
+  text: '**Sammeln:** Strenge 2 berittene :rohan: Menschen an, um bis zu 2 verwundete Diener abzulegen.'
+  lore: Ich wollte, es wäre Tag und wir könnten ihnen entgegenreiten wie ein Sturm aus dem Gebirge!
+fr:
+  title: Toujours un Espoir Pour les Hommes
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez 2 Hommes :rohan: détenant des montures pour défausser jusqu’à 2 séides blessés.'
+  lore: 'Si seulement il faisait jour et que nous puissions leur tomber dessus comme un orage des montagnes !” '
+it:
+  title: Sempre la Speranza degli Uomini
+  subtitle: ''
+  text: '**Raccolta:** Sforza 2 Uomini :rohan: a cavallo per scartare fino a 2 servitori feriti.'
+  lore: ‘Se almeno fosse giorno, potremmo galoppare all'assalto e travolgerli come una tempesta discesa dalle montagne!’
+es:
+  title: Siempre una esperanza para el Hombre
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza 2 Hombres :rohan: con montura para descartar hasta 2 siervos heridos.'
+  lore: ¡Que fuera este el dia y que cabalgáramos sobre ellos como una tempestad venida de las montañas!

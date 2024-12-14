@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '12'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Preparations
+  subtitle: ''
+  text: |-
+    **Regroup:** Exert a Dwarf companion to stack a card from your discard pile here.   
+    **Skirmish:** Wound a minion skirmishing a Dwarf once for each :dwarven: card stacked here. Discard this condition.
+  lore: ''
+de:
+  title: Vorbereitungen
+  subtitle: ''
+  text: |-
+    **Sammeln:** Strenge einen Zwergengefährten an, um eine Karte aus deinem Ablagestapel hier zu lagern.   
+    **Kampf:** Verwunde einen Diener, der gegen einen Zwerg kämpft, einmal für jede :dwarven: Karte, die hier gelagert ist. Lege diesen Effekt ab.
+  lore: ''

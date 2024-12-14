@@ -1,0 +1,38 @@
+set: '1'
+rarity: R
+number: '131'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '10'
+vit: '3'
+site: 5
+en:
+  title: Orthanc Assassin
+  subtitle: ''
+  text: '**Archer.** **Damage +1**.'
+  lore: Black-feathered arrows from Uruk-hai bows reign over the corpses of Saruman’s enemies.
+de:
+  title: Orthanc Attentäter
+  subtitle: ''
+  text: '**Bogenschütze.** **Schaden +1.**'
+  lore: Schwarzgefiederte Pfeile der Uruk-hai stecken in den Leichen von Sarumans Feinden.
+fr:
+  title: Assassin d'Orthanc
+  subtitle: ''
+  text: '**Archer.** **Dégâts +1.**'
+  lore: Les flèches empennées de noir des arcs Ourouk-Haï règnent sur les corps des ennemis de Saroumane.
+it:
+  title: Assassino di Orthanc
+  subtitle: ''
+  text: |-
+    **Arciere.** **Danno +1.**  
+    Le frecce ornate di piume nere provenienti dagli archi Uruk-hai dominano i corpi dei nemici di Saruman.
+  lore: ''
+es:
+  title: Asesino de Orthanc
+  subtitle: ''
+  text: '**Arquero.** **Daño +1.**'
+  lore: Las flechas de penachos negros de los arcos Uruk-hai reinan sobre los cadáveres de los enemigos de Saruman.

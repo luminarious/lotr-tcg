@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '151'
+unique: true
+culture: Isengard
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Ferocity
+  subtitle: ''
+  text: '**Skirmish:** Make an Uruk-hai strength +2 (or +3 if at a battleground). '
+  lore: Uruk savagery remained despite their battle training.
+de:
+  title: Wildheit
+  subtitle: ''
+  text: '**Kampf** Gib einem Uruk-hai Stärke +2 (oder Stärke +3, wenn er sich auf einem Schlachtfeld befindet).'
+  lore: Die Uruks waren trotz ihres Kampftrainings immer noch wilde Bestien.
+fr:
+  title: Férocité
+  subtitle: ''
+  text: '**Combat :** Donner +2 en force à un Ourouk-Haï (ou +3 s’il se trouve à un champ de bataille).'
+  lore: La sauvagerie des Ourouks demeure malgré leur entraînement.
+it:
+  title: Ferocia
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Uruk-hai (o +3 se è presso un campo di battaglia).'
+  lore: La selvaggia furia degli Uruk perdurava nonostante il loro addestramento.
+es:
+  title: Ferocidad
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Uruk-hai fuerza +2 (o +3 si está en un campo de batalla).'
+  lore: La brutalidad de los Uruks siguió a pesar de su entrenamiento para la batalla.

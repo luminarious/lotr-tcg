@@ -1,0 +1,20 @@
+set: '7'
+rarity: R
+number: '177'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Feel His Blade
+  subtitle: ''
+  text: |-
+    **Skirmish:** Transfer this condition from your support area to a character skirmishing a Nazgûl.   
+    During the turn this card is transferred, the Shadow has initiative, regardless of the Free Peoples player’s hand.
+  lore: ''
+de:
+  title: Seine Klinge wieder spüren
+  subtitle: ''
+  text: '**Kampf:** Verschiebe diesen Effekt aus deinem Unterstützungsbereich auf einen Charakter, der gegen einen Nazgûl kämpft. In dem Zug, in dem diese Karte verschoben wurde, besitzt die Schattenseite die Initiative, unabhängig von der Handkartenzahl des Freien Völker Spielers.'
+  lore: ''

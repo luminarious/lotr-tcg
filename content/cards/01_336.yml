@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '336'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Weathertop
+  subtitle: ''
+  text: Each Nazgûl at Weathertop is **fierce.**
+  lore: ''
+de:
+  title: Wetterspitze
+  subtitle: ''
+  text: 'Nazgûl auf der Wetterspitze sind **erbittert.** '
+  lore: ''
+fr:
+  title: Mont Venteux
+  subtitle: ''
+  text: 'Chaque Nazgûl au Mont Venteux est **acharné.** '
+  lore: ''
+it:
+  title: Colle Vento
+  subtitle: ''
+  text: 'Ogni Nazgûl a Colle Vento è **Feroce.** '
+  lore: ''
+es:
+  title: Cima de Los Vientos
+  subtitle: ''
+  text: 'Cada Nazgûl en la cima de los vientos es **fiero.** '
+  lore: ''

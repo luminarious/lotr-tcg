@@ -1,0 +1,33 @@
+set: '6'
+rarity: R
+number: '44'
+unique: true
+culture: Gollum
+type: Event
+class: Regroup
+cost: 5
+en:
+  title: Safe Paths
+  subtitle: ''
+  text: '**Regroup:** Exert Sméagol 3 times and discard him to wound each minion. The move limit for this turn is +1. If the fellowship moves, each Shadow player may take up to 3 Shadow cards into hand from his or her discard pile.'
+  lore: ‘Soft and quick as shadows we must be!’
+de:
+  title: Sichere Pfade
+  subtitle: ''
+  text: '**Sammeln:** Strenge Sméagol dreimal an und lege ihn ab, um jeden Diener zu verwunden. Die Bewegungsweite erhöht sich für diesen Spielzug um 1. Wenn sich die Gemeinschaft bewegt, darf jeder Schattenspieler bis zu 3 Schattenkarten aus seinem Ablagestapel wiede'
+  lore: Leise und schnell wie Schatten müssen wir sein.
+fr:
+  title: Sentiers Sans Danger
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez Sméagol 3 fois et défaussez-le pour blesser chaque séide. La limite de déplacement est de +1 pour ce tour. Si la compagnie se déplace, chaque joueur de l’Ombre peut prendre en main jusqu’à 3 cartes de l’Ombre de sa pile de défaus'
+  lore: 'Alors, nous partirons vivement comme des ombres, aux pas rapides et feutrés !” '
+it:
+  title: Sentieri Sicuri
+  subtitle: ''
+  text: '**Raccolta:** Sforza Sméagol 3 volte e scartalo per ferire ogni servitore. Aggiungi +1 al limite dei movimenti per questo turno. Se la compagnia si muove, ogni giocatore Ombra può aggiungere alla sua mano fino a 3 carte Ombra dalla sua pila degli scarti.'
+  lore: ‘Agili e veloci come ombre, dobbiamo essere!’
+es:
+  title: Caminos seguros
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza a Sméagol 3 veces y descártalo para herir cada siervo. El límite de movimiento de este turno es +1. Si la comunidad se mueve, cada jugador de Sombra puede tomar hasta 3 cartas de Sombra de su pila de descartes en su mano.'
+  lore: ¡Tenemos que ser sigilosos y rápidos como sombras!

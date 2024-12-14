@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '157'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Uruk-hai Armory
+  subtitle: ''
+  text: |-
+
+    While you can spot an Uruk-hai, the fellowship archery total is -1.
+  lore: The ranks of Saruman’s army include forgers of weapons and armour.
+de:
+  title: Uruk-hai Rüstkammer
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. Solange du einen Uruk-hai entdecken kannst, reduziert sich der Fernkampfwert der Gemeinschaft um 1.
+  lore: In den Reihen von Sarumans Uruk-hai befinden sich auch Rüst – und Waffenschmiede.
+fr:
+  title: Armurerie Ourouk-Haï
+  subtitle: ''
+  text: Tant que vous pouvez désigner un Ourouk-Haï, le total d’archerie de la compagnie est de -1.
+  lore: Les rangs de l'armée de Saroumane comprennent des forgerons d'armes et d'armures.
+it:
+  title: Armeria Uruk-hai
+  subtitle: ''
+  text: Finché puoi avvistare un Uruk-hai, sottrai -1 al totale degli arcieri della Compagnia.
+  lore: Le schiere dell'esercito di Saruman includono forgiatori di armi e armature.
+es:
+  title: Armería Uruk-hai
+  subtitle: ''
+  text: Mientras puedas avistar un Uruk-hai, el total de arquería de una comunidad es -1.
+  lore: Las filas del ejercito de Saruman incluyen forjadores de armas y armaduras…

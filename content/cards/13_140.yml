@@ -1,0 +1,18 @@
+set: '13'
+rarity: R
+number: '140'
+unique: true
+culture: Sauron
+type: Minion
+race: Maia
+cost: 16
+str: '24'
+vit: '5'
+site: 6
+en:
+  title: Sauron
+  subtitle: Dark Lord of Mordor
+  text: |-
+    **Damage +1. Fierce**.  
+    When you play Sauron, you may exert any number of minions. For each minion you exert, Sauron is twilight cost –X, where X is the current region number. 
+  lore: ‘…the Shadow grows once more….’

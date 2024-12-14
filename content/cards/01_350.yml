@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '350'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Dimrill Dale
+  subtitle: ''
+  text: '**Sanctuary.** The twilight cost of the first :moria: Orc played each Shadow phase is -2.'
+  lore: ''
+de:
+  title: Schattenbachtal
+  subtitle: ''
+  text: '**Zuflucht.** Die Zwielichtkosten des ersten :moria: Orks, der in jeder Schattenphase gespielt wird, reduzieren sich um 2.'
+  lore: ''
+fr:
+  title: Vallée des Rigoles Sombres
+  subtitle: ''
+  text: '**Sanctuaire.** Le coût crépusculaire du premier Orque :moria: joué à chaque phase de l’Ombre est de -2.'
+  lore: ''
+it:
+  title: Valle di Dimrill
+  subtitle: ''
+  text: '**Rifugio.** Sottrai -2 al costo crepuscolo del primo Orco :moria: giocato in ogni fase **Ombra.** '
+  lore: ''
+es:
+  title: Valle del Dimrill
+  subtitle: ''
+  text: 'Refugio. El coste de penumbra del primer Orco :moria: jugado en cada fase de Sombra es -2.'
+  lore: ''

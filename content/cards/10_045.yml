@@ -1,0 +1,25 @@
+set: '10'
+rarity: R
+number: '45'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Mûmak Chieftan
+  subtitle: ''
+  text: |-
+    **Southron.**   
+    When you play this minion, you may play a mount on him from your discard pile. Its twilight cost is –2. 
+  lore: The commander of a mûmak never imagines he is in complete control of the beast.
+de:
+  title: Häuptling der Mûmakführer
+  subtitle: ''
+  text: |-
+    **Südländer.**   
+    Du darfst ein Reittier aus deinem Ablagestapel mit um 2 reduzierten Kosten auf diesen Diener spielen, wenn du ihn ausspielst.
+  lore: Ein Mûmakführer gibt sich nie der Illusion hin, dass er die Bestie vollständig unter Kontrolle hat.

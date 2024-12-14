@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '50'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 3
+en:
+  title: Terrible and Evil
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    Exert Gandalf X times to wound a minion X times. If that minion is a Nazgûl, wound it again.
+  lore: ''
+de:
+  title: Schrecklich und böse
+  subtitle: ''
+  text: |-
+    **Zauberspruch.**   
+    Strenge Gandalf X mal an, um einen Diener X mal zu verwunden. Wenn dieser Diener ein Nazgûl ist, verwunde ihn noch einmal.
+  lore: In Minas Morgul leben sie.

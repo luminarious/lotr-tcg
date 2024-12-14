@@ -1,0 +1,36 @@
+set: '3'
+rarity: U
+number: '96'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '3'
+site: 6
+en:
+  title: Orc Pillager
+  subtitle: ''
+  text: 'For each Free Peoples card borne by a character this minion is skirmishing, that character is strength -1. '
+  lore: Weapons of the West are often powerless against the threat of Sauron.
+de:
+  title: Ork Plünderer
+  subtitle: ''
+  text: Ein Charakter, der gegen diesen Diener kämpft, erhält Stärke -1 für jede Karte der Freien Völker, die auf dem Charakter liegt.
+  lore: Die Waffen des Westens sind oft machtlos gegen die Bedrohung Saurons.
+fr:
+  title: Saccageur Orque
+  subtitle: ''
+  text: Pour chaque carte des Peuples Libres portée par un personnage que ce séide combat, ce personnage a -1 en force.
+  lore: Les armes de l'Ouest sont souvent impuissantes contre les menaces de Sauron.
+it:
+  title: Orco Razziatore
+  subtitle: ''
+  text: Per ogni carta dei Popoli Liberi portata da un personaggio con cui stia schermagliando questo servitore, sottrai -1 alla forza di quel personaggio.
+  lore: Le armi dell'Occidente sono spesso impotenti contro la minaccia di Sauron.
+es:
+  title: Saqueador Orco
+  subtitle: ''
+  text: Por cada carta de Gentes Libres llevada por un personaje que esté en una escaramuza contra este siervo, ese personaje es fuerza -1.
+  lore: Las armas del Oeste a veces son inútiles contra la amenaza de Sauron.

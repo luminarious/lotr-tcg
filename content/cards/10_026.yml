@@ -1,0 +1,24 @@
+set: '10'
+rarity: U
+number: '26'
+unique: true
+culture: Gondor
+type: Companion
+race: Wraith
+cost: 3
+str: '7'
+vit: '3'
+en:
+  title: Cursed of Erech
+  subtitle: ''
+  text: |-
+    **Enduring.** To play, add a threat.   
+    When you play Cursed of Erech, exert him twice. At the start of the maneuver phase, you may exert another :gondor: Wraith to make Cursed of Erech **defender +1** until the regroup phase. 
+  lore: …a black dread fell on them….
+de:
+  title: Verfluchter vom Erech
+  subtitle: ''
+  text: |-
+    **Zäh.** Lasse eine Bedrohung entstehen, um diesen Gefährten zu spielen.   
+    Strenge ihn zweimal an, wenn du ihn ausspielst. Zu Beginn der Manöverphase darfst du ein anderes :gondor: Gespenst anstrengen, um den Verfluchten vom Erech bis zur Sammelphase **Verteidiger +1** zu machen.
+  lore: … und ein schwarzes Entsetzen befiel sie….

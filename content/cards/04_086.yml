@@ -1,0 +1,17 @@
+set: '4'
+rarity: U
+number: '86'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Thónnas
+  subtitle: Naith Captain
+  text: |-
+    To play, spot an Elf.   
+    While Thónnas bears a ranged weapon, each minion skirmishing him is strength -2 and Thónnas does not add to the fellowship archery total. 
+  lore: Elves of Lórien hone their knife-work fighting Goblin raiders.

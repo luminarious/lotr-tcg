@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '87'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: A Wizard Is Never Late
+  subtitle: ''
+  text: '**Fellowship:** Play a :gandalf: character from your draw deck.'
+  lore: ‘A wizard is never late, Frodo Baggins, nor is he early. He arrives precisely when he means to.’
+de:
+  title: Ein Zauberer kommt nie zu spät
+  subtitle: ''
+  text: '**Gemeinschaft.** Spiele einen :gandalf: Charakter direkt aus deinem Spieldeck.'
+  lore: Ein Zauberer kommt nie zu spät, Frodo Beutlin, ebensowenig zu früh. Er trifft genau dann ein, wann er es beabsichtigt.
+fr:
+  title: Un Magicien n'est Jamais en Retard
+  subtitle: ''
+  text: '**Compagnie :** Jouez un personnage :gandalf: de votre pioche.'
+  lore: ‘Un magicien n'est jamais en retard, Frodon Sacquet, ni en avance. Il arrive précisément quand il en a l'intention.’
+it:
+  title: Uno Stregone Non è Mai in Ritardo
+  subtitle: ''
+  text: '**Compagnia:** Gioca un personaggio :gandalf: dal tuo mazzo di gioco.'
+  lore: ‘Uno stregone non è mai in ritardo, Frodo Baggins, né in anticipo. Arriva precisamente quando intende farlo.’
+es:
+  title: Un Mago Nunca Llega Tarde
+  subtitle: ''
+  text: '**Comunidad:** Juega un personaje :gandalf: de tu mazo de robar.'
+  lore: Un mago nunca llega tarde, Frodo Bolsón, ni pronto. Llega precisamente cuando tiene que llegar.

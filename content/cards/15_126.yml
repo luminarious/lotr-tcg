@@ -1,0 +1,18 @@
+set: '15'
+rarity: S
+number: '126'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Gamling
+  subtitle: The Old
+  text: |-
+    **Valiant. Hunter 1.** *(While skirmishing a non-hunter character, this character is strength +1.)* To play, spot a :rohan: Man.  
+    While you can spot 3 hunters, Gamling is strength +3.
+  lore: ‘Dawn is not far off…. But dawn will not help us, I fear.’

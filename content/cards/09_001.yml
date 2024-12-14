@@ -1,0 +1,21 @@
+set: '9'
+rarity: R+
+number: '1'
+unique: true
+culture: ''
+type: Ring
+str: '+1'
+vit: '+1'
+en:
+  title: The One Ring
+  subtitle: The Binding Ring
+  text: |-
+    **Fellowship:** Add 2 burdens to play a ring from your draw deck.   
+    **Maneuver:** Exert bearer to wear The One Ring until the regroup phase.   
+    While wearing The One Ring, each time the Ring-bearer is about to take a wound, add a burden instead. 
+  lore: One Ring to bring them all….
+de:
+  title: Der Eine Ring
+  subtitle: ... und ewig zu binden
+  text: '**Gemeinschaft:** Lege 2 Lastmarken auf den Ringträger, um einen Ring direkt aus deinem Spieldeck zu spielen. **Manöver:** Strenge den Träger an, um den Einen Ring bis zur Sammelphase zu benutzen. Solange er den Ring benutzt, erhält der Ringträger für jede Wunde, die ihm zugefügt wird, statt dessen 1 Lastmarke.'
+  lore: Ins Dunkel zu treiben….

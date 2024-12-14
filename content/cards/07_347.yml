@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '347'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Minas Tirith First Circle
+  subtitle: ''
+  text: '**Sanctuary.** If the fellowship moves from this site during the regroup phase, wound each companion.'
+  lore: ''
+de:
+  title: Erster Ring von Minas Tirith
+  subtitle: ''
+  text: '**Zuflucht.** Verwunde jeden Gefährten, wenn sich die Gemeinschaft in der Sammelphase von diesem Ort fortbewegt.'
+  lore: ''

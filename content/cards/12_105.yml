@@ -1,0 +1,46 @@
+set: '12'
+rarity: R
+number: '105'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '3'
+site: 4
+en:
+  title: Troll’s Keyward
+  subtitle: Keeper of the Beast
+  text: |-
+    **Lurker.** *(Skirmishes involving lurker minions must be resolved after any others.)*   
+    **Shadow:** Exert Troll’s Keyward and reveal your hand to add :twilight1: for each :orc: Troll revealed.
+  lore: Tending the Cave Troll is a task neither envied or respected within the tribes of Moria.
+de:
+  title: Troll Schlüsselmeister
+  subtitle: Hüter der Bestie
+  text: |-
+    **Schleicher.** *(Kämpfe mit Schleichern dürfen erst nach allen anderen abgehandelt werden.)*  
+    **Schatten:** Strenge den Troll Schlüssel-meister an und decke deine Hand auf, um den Einfluss für jeden so aufgedeckten :orc: Troll um :twilight1: zu erhöhen.
+  lore: Höhlentrolle zu hüten ist keine Aufgabe, um die man in Moria beneidet oder für die man respektiert wird.
+fr:
+  title: Troll's Keyward
+  subtitle: Keeper of the Beast
+  text: |-
+    <b>Lurker.</b> *(Skirmishes involving lurker minions must be resolved after any others.)*   
+    <b>Shadow:</b> Exert Troll’s Keyward and reveal your hand to add :twilight1: for each :orc: Troll revealed.
+  lore: Tending the Cave Troll is a task neither envied or respected within the tribes of Moria.
+it:
+  title: Troll's Keyward
+  subtitle: Keeper of the Beast
+  text: |-
+    <b>Lurker.</b> *(Skirmishes involving lurker minions must be resolved after any others.)*   
+    <b>Shadow:</b> Exert Troll’s Keyward and reveal your hand to add :twilight1: for each :orc: Troll revealed.
+  lore: Tending the Cave Troll is a task neither envied or respected within the tribes of Moria.
+es:
+  title: Troll's Keyward
+  subtitle: Keeper of the Beast
+  text: |-
+    <b>Lurker.</b> *(Skirmishes involving lurker minions must be resolved after any others.)*   
+    <b>Shadow:</b> Exert Troll’s Keyward and reveal your hand to add :twilight1: for each :orc: Troll revealed.
+  lore: Tending the Cave Troll is a task neither envied or respected within the tribes of Moria.

@@ -1,0 +1,22 @@
+set: '13'
+rarity: U
+number: '105'
+unique: true
+culture: Orc
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Defiled
+  subtitle: ''
+  text: |-
+    You may remove from the game 4 :orc: cards in your discard pile instead of paying the twilight cost for this card.  
+    Make your :orc: lurker minion strength +2.
+  lore: …transmogrified to trophies by the advancing hordes.
+de:
+  title: Geschändet
+  subtitle: ''
+  text: |-
+    Du darfst 4 :orc: Karten aus deinem Ablagestapel ganz aus dem Spiel entfernen, anstatt die Zwielichtkosten für diese Karte zu zahlen.  
+    Gib einem deiner :orc: Schleicher Stärke +2.
+  lore: … verwandelten sie sie in Trophäen für die vorrückenden Horden.

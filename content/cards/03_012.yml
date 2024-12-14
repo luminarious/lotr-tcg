@@ -1,0 +1,18 @@
+set: '3'
+rarity: U
+number: '12'
+unique: true
+culture: Elven
+type: Ally
+race: Elf
+cost: 2
+str: '3'
+vit: '3'
+site: '6'
+en:
+  title: Dínendal
+  subtitle: Silent Scout
+  text: |-
+    **Archer.**   
+    **Regroup:** Exert Dínendal to remove :twilight2:. 
+  lore: He was almost certain that he could hear stealthy movements…. Not Elves; for the woodland folk were altogether noiseless in their movements.

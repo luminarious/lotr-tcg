@@ -1,0 +1,44 @@
+set: '4'
+rarity: C
+number: '197'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Uruk Stalker
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    While an ally is in the dead pile, this minion is strength +3 and **fierce.** 
+  lore: A moment they hesitated, and then on they came.
+de:
+  title: Uruk Pirscher
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Solange ein Verbündeter im Friedhof ist, erhält dieser Diener Stärke +3 und ist **Erbittert.**
+  lore: Einen Augenblick zögerten sie, und dann gingen sie vor.
+fr:
+  title: Pisteur Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    Tant qu’un allié est dans le cimetière, ce séide a +3 en force et est **acharné.**
+  lore: 'Après un moment d''hésitation, ils se portèrent en avant. '
+it:
+  title: Uruk in Agguato
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    Mentre un alleato è nella pila dei morti, aggiungi +3 alla forza e rendi **Feroce** questo servitore.
+  lore: …esitarono un attimo e poi proseguirono l'assalto.
+es:
+  title: Acechador Uruk
+  subtitle: ''
+  text: '**Daño +1.** Mientras haya un aliado en la pila de muertos, este siervo es fuerza +3 y **fiero.**'
+  lore: Vacilaron un instante y luego reanudaron el ataque.

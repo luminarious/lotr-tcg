@@ -1,0 +1,21 @@
+set: '13'
+rarity: C
+number: '73'
+unique: true
+culture: Gondor
+type: Possession
+cost: 1
+en:
+  title: Kingsfoil
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.  
+    **Fellowship:** Discard this possession from play to heal a companion and, if that companion is a :shire: companion, you may discard a condition he or she bears.
+  lore: ‘Life to the dying / In the king’s hand lying!’
+de:
+  title: Königskraut
+  subtitle: ''
+  text: |-
+    Muss auf einen :gondor: Menschen gespielt werden.  
+    **Gemeinschaft:** Lege diesen Effekt ab, um einen Gefährten zu heilen. Wenn es sich dabei um einen :shire: Gefährten handelt, darfst du einen Effekt von diesem ablegen.
+  lore: Durch Königshand zu geben / Sterbenden das Leben!

@@ -1,0 +1,24 @@
+set: '7'
+rarity: C
+number: '298'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '2'
+site: 6
+en:
+  title: Orc Chaser
+  subtitle: ''
+  text: |-
+    **Tracker.**   
+    The site number of each :sauron: Orc is –1.   
+    While you have initiative, this minion is strength +6.
+  lore: ''
+de:
+  title: Jagender Ork
+  subtitle: ''
+  text: '**Spurenleser.** Die Ortskennzahl jedes :sauron: Orks reduziert sich um 1. Solange du die Initiative besitzt, erhält dieser Diener Stärke +6.'
+  lore: Aber immer noch gab der Feind kein Zeichen.

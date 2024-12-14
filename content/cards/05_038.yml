@@ -1,0 +1,41 @@
+set: '5'
+rarity: U
+number: '38'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Rally Point
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    **Regroup:** Exert a knight to transfer a :gondor: fortification borne by a minion to your support area.
+  lore: A strategic fallback helps Gondorian knights to plan their counterattack.
+de:
+  title: Sammelpunkt
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Sammeln:** Strenge einen Ritter an, um eine :gondor: Befestigung von einem Diener in deinen Unterstützungsbereich zu verschieben.'
+  lore: Ein strategischer Rückzug erlaubte es den Rittern Gondors, ihren Gegenangriff vorzubereiten.
+fr:
+  title: Lieu de Ralliement
+  subtitle: ''
+  text: |-
+
+    **Ralliement :** Affaiblissez un chevalier pour transférer une fortification :gondor: détenue par un séide à votre aire de soutien.
+  lore: Une retraite stratégie aida les chevaliers gondoriens à planifier leur contre-attaque.
+it:
+  title: Punto di Raduno
+  subtitle: ''
+  text: |-
+
+    **Raccolta:** Sforza un Cavaliere per trasferire nella tua area di supporto una fortificazione :gondor: portata da un servitore.
+  lore: Una ritirata strategica aiuta i cavalieri di Gondor a pianificare il loro contrattacco.
+es:
+  title: Punto de reunión
+  subtitle: ''
+  text: |-
+
+    **Reagrupación:** Esfuerza un caballero para transferir una fortificación :gondor: que lleve un siervo a tu área de apoyo.
+  lore: Una retirada estratégica permite a los caballeros Gondorianos planear un contraataque.

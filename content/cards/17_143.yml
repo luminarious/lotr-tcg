@@ -1,0 +1,17 @@
+set: '17'
+rarity: R
+number: '143'
+unique: true
+culture: Wraith
+type: Artifact
+class: Ring
+cost: 0
+en:
+  title: Ring of Terror
+  subtitle: ''
+  text: |-
+    Bearer must be a Nazgûl.  
+    Bearer is **damage +1**.  
+    When you play this artifact, you may remove 2 threats to take a :wraith: card into hand from your discard pile.  
+    **Response:** If a player reconciles, return bearer to his owner’s hand.
+  lore: ''

@@ -1,0 +1,20 @@
+set: '11'
+rarity: C
+number: '5'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Dwarven Embassy
+  subtitle: ''
+  text: |-
+    To play, spot a Dwarf.   
+    Each companion is **Damage +1.** Discard this condition at the end of your turn. 
+  lore: Glóin and his countrymen stood as reassurance that the Dwarves would also stand against the will of the Dark Lord.
+de:
+  title: Zwergengesandschaft
+  subtitle: ''
+  text: Entdecke einen Zwerg um diese Karte zu spielen. Jeder Gefährte erhält **Schaden +1**. Lege diesen Effekt am Ende des Zuges ab.
+  lore: Glóin und sein Gefolge waren der Beleg, dass die Zwerge sich dem Dunklen Herrscher widersetzen würden.

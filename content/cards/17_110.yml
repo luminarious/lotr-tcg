@@ -1,0 +1,16 @@
+set: '17'
+rarity: U
+number: '110'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Southfarthing Leaf
+  subtitle: ''
+  text: |-
+    **Pipeweed.** To play, spot an unbound Hobbit.  
+    **Skirmish:** Discard a pipeweed from play to make an unbound Hobbit strength +2.  
+    **Regroup:** Discard this pipeweed from play to play a pipeweed from your draw deck. Reshuffle your draw deck.
+  lore: ''

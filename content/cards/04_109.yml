@@ -1,0 +1,16 @@
+set: '4'
+rarity: C
+number: '109'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 4
+str: '8'
+vit: '4'
+signet: Signet_Gandalf
+en:
+  title: Aragorn
+  subtitle: Heir of Elendil
+  text: '**Defender +1.** '
+  lore: ‘Sauron fears you, Aragorn, he fears what you may become.’

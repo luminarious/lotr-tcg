@@ -1,0 +1,18 @@
+set: '8'
+rarity: U
+number: '73'
+unique: true
+culture: Wraith
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Mastered By Madness
+  subtitle: ''
+  text: Make a Nazgûl strength +2. If that Nazgûl wins this skirmish, you may discard a Free Peoples mount.
+  lore: …then Windfola had thrown them in his terror, and now ran wild upon the plain.
+de:
+  title: Vom Wahnsinn beherrscht
+  subtitle: ''
+  text: Gib einem Nazgûl Stärke +2. Wenn dieser Nazgûl diesen Kampf gewinnt, darfst du ein Reittier der Freien Völker ablegen.
+  lore: … dann hatte Windfola sie beide in seinem Schrecken abgeworfen und rannte jetzt wildgeworden über die Ebene.

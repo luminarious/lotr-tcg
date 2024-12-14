@@ -1,0 +1,22 @@
+set: '9'
+rarity: R
+number: '42'
+unique: true
+culture: Wraith
+type: Artifact
+class: Ring
+cost: 0
+str: '+1'
+en:
+  title: Ring of Asperity
+  subtitle: ''
+  text: |-
+    Bearer must be a Nazgûl.   
+    When you play this artifact, you may wound an unwounded companion.   
+    **Response:** If a player reconciles, return bearer to his owner’s hand. 
+  lore: ‘The Nine, the Seven, and the Three… had each their proper gem.’
+de:
+  title: Der Ring der Strenge
+  subtitle: ''
+  text: Muss auf einen Nazgûl gespielt werden. Verwunde einen nicht verwundeten Gefährten, wenn du dieses Artefakt ausspielst. **Reaktion:** Nimm den Träger wieder auf die Hand, wenn ein Spieler seine Handkarten wieder auffüllt.
+  lore: Die Neun, die Sieben und die Drei… hatten alle einen eigenen Edelstein.

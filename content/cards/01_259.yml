@@ -1,0 +1,36 @@
+set: '1'
+rarity: R
+number: '259'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Morgul Warden
+  subtitle: ''
+  text: 'For each other :sauron: Orc you can spot, Morgul Warden is strength +1.'
+  lore: With blind devotion, the Orcs of Mordor follow orders issued from the Dark Tower.
+de:
+  title: Morgul Wächter
+  subtitle: ''
+  text: 'Für jeden weiteren :sauron: Ork, den du entdecken kannst, erhält der Morgul Wächter Stärke +1.'
+  lore: Mit blinder Hingabe folgen die Orks aus Mordor den Befehlen aus dem Dunklen Turm.
+fr:
+  title: Gardien de Morgul
+  subtitle: ''
+  text: 'Pour chaque autre Orque :sauron: que vous pouvez désigner, le Gardien de Morgul a +1 en force.'
+  lore: Avec une dévotion aveugle, les Orques du Mordor suivent les ordres venus de la Tour Sombre.
+it:
+  title: Guardiano di Morgul
+  subtitle: ''
+  text: 'Per ogni altro Orco :sauron: che puoi avvistare, Guardiano di Morgul aggiunge +1 alla forza.'
+  lore: Con devozione cieca, gli Orchi di Mordor seguono gli ordini emanati dalla Torre Oscura.
+es:
+  title: Vigilante de Morgul
+  subtitle: ''
+  text: 'Por cada otro Orco :sauron: que puedas avistar, el Vigilante de Morgul es fuerza +1.'
+  lore: Con ciega devoción, los Orcos de Mordor siguen las ordenes de la Torre Oscura.

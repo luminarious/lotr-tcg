@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '243'
+unique: true
+culture: Sauron
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Despair
+  subtitle: ''
+  text: '**Maneuver:** If the total number of burdens and companions in the dead pile is at least 12, spot a :sauron: Orc to corrupt the Ring-bearer.'
+  lore: ‘The Nameless Enemy has arisen again. Smoke rises once more from Orodruin that we call Mount Doom.’
+de:
+  title: Verzweiflung
+  subtitle: ''
+  text: '**Manöver:** Wenn die Summe aus Lastmarken und der Zahl der toten Gefährten mindestens 12 beträgt, entdecke einen :sauron: Ork, damit der Ringträger der Versuchung des Einen Rings erliegt.'
+  lore: Der Namenlose Feind ist wieder auferstanden. Rauch steigt wieder über dem Orodruin, den wir Schicksalsberg nennen, auf.
+fr:
+  title: Désespoir
+  subtitle: ''
+  text: '**Manœuvre :** Si le nombre total de points-fardeau et de compagnons dans le cimetière est de 12 ou plus, désignez un Orque :sauron: pour corrompre le Porteur de l’Anneau.'
+  lore: ‘L'Ennemi sans Nom s'est de nouveau mis en branle. La fumée s'élève une fois de plus d'Orodruin, que nous appelons la Montagne du Destin.’
+it:
+  title: Disperazione
+  subtitle: ''
+  text: '**Manovra:** Se il numero totale dei segnalini fardello e dei compagni presenti nella pila dei morti è almeno 12, avvista un Orco :sauron: per corrompere il Portatore dell’Anello.'
+  lore: ‘Il nemico Innominato è risorto. Il fumo s'innalza nuovamente dall'Orodruin, che noi chiamiamo Monte Fato.’
+es:
+  title: Desesperación
+  subtitle: ''
+  text: '**Maniobra:** Si el numero total de cargas y compañeros en la pila de muertos es de al menos 12, avista un Orco :sauron: para corromper al Portador del Anillo.'
+  lore: El Enemigo sin nombre se ha alzado de nuevo. El humo asciende otra vez desde el Orodruin que nosotros llamamos Monte del Destino.

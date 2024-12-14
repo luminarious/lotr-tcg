@@ -1,0 +1,19 @@
+set: '15'
+rarity: R
+number: '186'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 5
+str: '10'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Nelya
+  subtitle: Fell Rider
+  text: |-
+    **Fierce.**  
+    While you can spot 6 companions, :wraith: minions cannot take wounds (except during skirmish phases).  
+    **Skirmish:** If this minion is mounted, exert him twice to wound a companion bearing a :wraith: condition.
+  lore: ''

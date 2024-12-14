@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '52'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 6
+str: '13'
+vit: '3'
+site: 4
+en:
+  title: Stampeding Ransacker
+  subtitle: ''
+  text: |-
+    To play, spot 2 :men: Men.  
+    Each time this minion wins a skirmish and you can spot a site you control, exhaust an unbound companion.
+  lore: '''"Death to the Forgoil!"’'

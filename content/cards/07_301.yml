@@ -1,0 +1,21 @@
+set: '7'
+rarity: U
+number: '301'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '11'
+vit: '3'
+site: 6
+en:
+  title: Orc Marauder
+  subtitle: ''
+  text: 'While you can spot 3 other :sauron: Orcs, this minion is strength +5.'
+  lore: …their bodies were cast aside… and others took their place.
+de:
+  title: Marodierende Orks
+  subtitle: ''
+  text: 'Solange du 3 andere :sauron: Orks entdecken kannst, erhält dieser Diener Stärke +5.'
+  lore: …wurden ihre Leichen aus dem Weg geräumt, und andere nahmen ihren Platz ein.

@@ -1,0 +1,33 @@
+set: '3'
+rarity: C
+number: '49'
+unique: true
+culture: Isengard
+type: Event
+class: Shadow
+cost: 1
+en:
+  title: Abandoning Reason for Madness
+  subtitle: ''
+  text: '**Shadow:** Spot an :isengard: minion to discard up to 3 cards from hand and draw an equal number of cards. '
+  lore: ‘And why not, Gandalf?… Why not? The Ruling Ring? If we could command that, then the power would pass to us.’
+de:
+  title: Wahnsinn Vorzug vor Vernunft geben
+  subtitle: ''
+  text: '**Schatten:** Entdecke einen :isengard: Diener, um bis zu 3 Karten aus deiner Hand abzulegen und eine gleiche Anzahl von Karten zu ziehen.'
+  lore: Und warum nicht, Gandalf?… Warum nicht? Der Beherrschende Ring? Wenn wir über ihn verfügen, würde die Macht auf uns übergehen.
+fr:
+  title: Abandonnant la Raison pour la Folie
+  subtitle: ''
+  text: 'Ombre : Désignez un séide :isengard: pour défausser jusqu’à 3 cartes de votre main et piocher un nombre égal de cartes.'
+  lore: 'Et pourquoi pas, Gandalf?… Pourquoi pas? L''Anneau Souverain? Si nous pouvions en disposer, le Pouvoir nous passerait, à nous.” '
+it:
+  title: Abbandonare la Ragione per la Follia
+  subtitle: ''
+  text: '**Ombra:** Avvista un servitore :isengard: per scartare fino a 3 carte dalla mano e pescare un pari numero di carte.'
+  lore: ‘E perché no, Gandalf?… Perché no? L'Anello Dominante? Se potessimo comandarlo, la Potenza, passerebbe nelle nostre mani.’
+es:
+  title: Abandonando la Razón por la Locura
+  subtitle: ''
+  text: '**Sombra:** Avista un siervo :isengard: para descartar hasta 3 cartas de tu mano y robar un número igual de cartas.'
+  lore: ¿Y por qué no Gandalf?… ¿Por qué no? ¿El Anillo Soberano? Si pudiéramos tenerlo, el poder pasaría a nosotros.

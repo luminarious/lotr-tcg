@@ -1,0 +1,43 @@
+set: '3'
+rarity: U
+number: '45'
+unique: true
+culture: Gondor
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Some Who Resisted
+  subtitle: ''
+  text: |-
+    **Tale.**   
+    **Maneuver:** Spot a :gondor: companion to make the twilight cost of each maneuver event +2. 
+  lore: ‘In the south the realm of Gondor long endured; and for a while its splendour grew….’
+de:
+  title: Einige leisteten Widerstand
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    **Manöver:** Entdecke einen :gondor: Gefährten, um die Zwielichtkosten für alle Manöverereignisse um 2 zu erhöhen.
+  lore: Im Süden hielt sich das Reich Gondor lange; und eine Zeitlang nahm sein Glanz zu….
+fr:
+  title: Ceux Qui Résistèrent
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    **Combat :** Désignez un compagnon :gondor: pour ajouter 2 au coût crépusculaire de chaque événement de manœuvre.
+  lore: 'Dans le sud, le royaume de Gondor dura longtemps; et sa splendeur s''accrut pendant une période…” '
+it:
+  title: Alcuni che Hanno Resistito
+  subtitle: ''
+  text: |-
+    **Racconto.**   
+    **Manovra:** Avvista un compagno :gondor: per aggiungere +2 al costo crepuscolo di ogni evento manovra.
+  lore: ‘A sud il reame di Gondor durò a lungo; per un certo tempo il suo splendore crebbe…’
+es:
+  title: Algunos Que Resistieron
+  subtitle: ''
+  text: |-
+    **Cuento.**   
+    **Maniobra:** Avista un compañero :gondor: para hacer que el coste de penumbra de cada evento de maniobra sea +2.
+  lore: En el sur el reino de Gondor duró mucho tiempo, y acrecentó su esplendor durante una cierta época, recordando en algún modo el poderío de Númenor, antes de la caída.

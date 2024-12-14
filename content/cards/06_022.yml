@@ -1,0 +1,35 @@
+set: '6'
+rarity: U
+number: '22'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 3
+str: '8'
+vit: '3'
+en:
+  title: Naith Troop
+  subtitle: ''
+  text: 'To play, spot 3 Elf companions. **Skirmish:** Exert Naith Troop to discard the top card of your draw deck. If it is an :elven: card, make a minion skirmishing Naith Troop strength –2.'
+  lore: Now only the bow and the sword can forestall the coming of the Shadow.
+de:
+  title: Abteilung aus Naith
+  subtitle: ''
+  text: 'Entdecke 3 Elbengefährten, um diesen Gefährten zu spielen. **Kampf** Strenge die Abteilung aus Naith an, um die oberste Karte deines Spieldecks abzulegen. Sollte es sich um eine :elven: Karte handeln, gib einem Diener, der gegen die Abteilung kämpft, Stärke –2.'
+  lore: Nur noch Bogen und Schwert halten den Schatten auf.
+fr:
+  title: Troupe Naith
+  subtitle: ''
+  text: Pour jouer, désignez 3 compagnons Elfes. **Combat :** Affaiblissez la Troupe Naith pour défaussez la première carte de votre pioche. S’il s’agit d’une carte :elven:, donnez –2 en force à un séide qui combat la Troupe Naith.
+  lore: Maintenant, seuls l'arc et l'épée peuvent devancer la venue de l'Ombre.
+it:
+  title: Truppa del Naith
+  subtitle: ''
+  text: Per giocarlo, avvista 3 compagni Elfi. **Schermaglia:** Sforza Truppa del Naith per scartare la prima carta del tuo mazzo di gioco. Se è una carta :elven:, sottrai –2 alla forza di un servitore che sta schermagliando con Truppa del Naith.
+  lore: Ora solo l'arco e la spada possono prevenire la venuta dell'Ombra.
+es:
+  title: Tropa de Naith
+  subtitle: ''
+  text: Para jugarla, avista 3 compañeros Elfos. **Escaramuza:** Esfuerza la Tropa de Naith para descartar la carta superior de tu mazo de robar. Si es una carta :elven:, da a un siervo en una escaramuza contra la Tropa de Naith fuerza –2.
+  lore: Ahora sólo el arco y la espada pueden prevenir la llegada de la Sombra.

@@ -1,0 +1,43 @@
+set: '4'
+rarity: R
+number: '58'
+unique: true
+culture: Elven
+type: Event
+class: Fellowship
+cost: 3
+en:
+  title: Alliance Reforged
+  subtitle: ''
+  text: |-
+    **Tale.**  
+    **Fellowship:** Draw a card for each Elf companion you spot. 
+  lore: ‘If we do not trust the strength of Men, then we trust to the victory of Sauron.’
+de:
+  title: Das Bündnis neu geschmiedet
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    **Gemeinschaft.** Ziehe eine Karte für jeden Elbengefährten, den du entdecken kannst.
+  lore: Wenn wir uns nicht auf die Kraft der Menschen verlassen, dann hat Sauron bereits gewonnen.
+fr:
+  title: Alliance Reforgée
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    **Compagnie :** Piochez une carte pour chaque compagnon Elfe que vous désignez.
+  lore: 'Si nous n''avons pas confiance en la force des Hommes, nous avons confiance en la victoire de Sauron.” '
+it:
+  title: Alleanza Riformata
+  subtitle: ''
+  text: |-
+    **Racconto.**   
+    **Compagnia:** Pesca una carta per ogni compagno Elfo che avvisti.
+  lore: ‘Se non possiamo confidare nella forza degli Uomini, allora Sauron vincerà.’
+es:
+  title: Alianza Reforjada
+  subtitle: ''
+  text: |-
+    **Cuento.**   
+    **Comunidad:** Roba una carta por cada compañero Elfo que puedas avistar.
+  lore: Si no confiamos en la fuerza de los Hombres, entonces confiamos en la victoria de Sauron.

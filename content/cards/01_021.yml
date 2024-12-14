@@ -1,0 +1,36 @@
+set: '1'
+rarity: C
+number: '21'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Lord of Moria
+  subtitle: ''
+  text: |-
+
+    Each Dwarf is **damage +1.**
+  lore: Gimli rushed ahead into the vast, empty chamber to see a huge slab of white stone. Knowing instinctively the significance of this tomb, he fell to his knees, overcome with grief.
+de:
+  title: Herr von Moria
+  subtitle: ''
+  text: |
+    Spiele diese Karte in deinen Unterstützungs-bereich. Jeder Zwerg erhält **Schaden +1.**  
+  lore: Gimli stürzte voran in die weite, leere Kammer und sah dort eine große, weisse Steinplatte. Er fühlte die Bedeutung dieser Grabstätte und fiel, von Trauer übermannt, auf die Knie.
+fr:
+  title: Seigneur de la Moria
+  subtitle: ''
+  text: Chaque Nain inflige des **dégâts +1.**
+  lore: Gimli s'engouffra dans la vaste chambre vide et vit une énorme dalle de pierre blanche. Reconnaissant instinctivement cette tombe, il tomba à genoux, submergé par le chagrin.
+it:
+  title: Signore di Moria
+  subtitle: ''
+  text: Ogni Nano aggiunge **Danno +1.**
+  lore: Gimli si precipitò in avanti nella vasta, vuota sala per vedere un'enorme lastra di pietra bianca. Intuendo istintivamente l'importanza di questa tomba, cadde sulle sue ginocchia, avanzò con dolore.
+es:
+  title: Señor de Moria
+  subtitle: ''
+  text: Cada Enano es **daño +1.**
+  lore: Gimli se apresuro en la gran cámara vacía para ver una enorme losa de piedra blanca. Conociendo instintivamente el significado de esta tumba, se arrodillo, superado por la pena.

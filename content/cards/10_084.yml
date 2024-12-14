@@ -1,0 +1,21 @@
+set: '10'
+rarity: C
+number: '84'
+unique: true
+culture: Sauron
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '8'
+vit: '2'
+site: 6
+en:
+  title: Cirith Ungol Sentry
+  subtitle: ''
+  text: '**Damage +1.**'
+  lore: …treachery had yielded up the Tower to the Lord of the Ringwraiths, and now for long years it had been held by evil things.
+de:
+  title: Cirith Ungol Wachposten
+  subtitle: ''
+  text: '**Schaden +1**.'
+  lore: … durch Verrat war der Turm dem Herrn der Ringgeister ausgeliefert worden, und nun war er schon seit langen Jahren von bösen Wesen besetzt.

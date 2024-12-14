@@ -1,0 +1,22 @@
+set: '12'
+rarity: U
+number: '170'
+unique: true
+culture: Wraith
+type: Condition
+cost: 2
+en:
+  title: Sense of Obligation
+  subtitle: ''
+  text: |-
+    To play, spot a :wraith: minion.   
+    Bearer must be an unbound companion. Limit 1 per bearer.   
+    At the end of each assignment phase, if bearer is not assigned to a skirmish and a companion who does not bear a :wraith: condition is, add a burden.
+  lore: ''
+de:
+  title: Pflichtgefühl
+  subtitle: ''
+  text: |-
+    Entdecke einen :wraith: Diener, um diesen Effekt auf einen nicht-verbundenen Gefährten zu spielen. Maximal 1 pro Gefährte.  
+    Lege eine Lastmarke auf den Ringträger, wenn der Träger am Ende der Zuweisungs-phase keinem Kampf zugewiesen ist und ein anderer Gefährte, auf dem kein :wraith: Effekt liegt, ist zugewiesen.
+  lore: ''

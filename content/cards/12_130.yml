@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '130'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Simple Living
+  subtitle: ''
+  text: '**Response:** If you play a :shire: event, discard this condition to heal each Hobbit. '
+  lore: They do not and did not understand or like machines more complicated than a forge-bellows, a water-mill, or a hand-loom….
+de:
+  title: Das einfache Leben
+  subtitle: ''
+  text: '**Reaktion:** Lege diesen Effekt ab, wenn du ein :shire: Ereignis spielst, um jeden Hobbit zu heilen. '
+  lore: Kompliziertere Maschinen als einen Schmiede-Blasebalg, eine Wassermühle oder einen Handweb-stuhl verstehen und verstanden oder mochten sie auch nicht….

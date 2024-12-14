@@ -1,0 +1,23 @@
+set: '7'
+rarity: U
+number: '270'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Gorgoroth Attacker
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    When you play this minion from a site you control, add a burden for each site you control.
+  lore: ''
+de:
+  title: Gorgoroth Angreifer
+  subtitle: ''
+  text: '**Belagerer.** Lege eine Lastmarke auf den Ringträger für jeden Ort, den du kontrollierst, wenn du diesen Diener von einem Ort spielst, den du kontrollierst.'
+  lore: …der schwächste Punkt in dieser ganzen hohen und undurchdringlichen Mauer.

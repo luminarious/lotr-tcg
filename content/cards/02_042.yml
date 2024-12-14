@@ -1,0 +1,42 @@
+set: '2'
+rarity: C
+number: '42'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '2'
+site: 2
+en:
+  title: Goblin Man
+  subtitle: ''
+  text: |-
+    Discard this minion if underground.   
+    **Shadow:** Exert this minion to look at the Free Peoples player’s hand. 
+  lore: ‘He looks more than half like a goblin.’
+de:
+  title: Bilwißmensch
+  subtitle: ''
+  text: Lege diesen Diener ab, wenn er sich an einem unterirdischen Ort befindet. **Schatten:** Strenge diesen Diener an, um dir die Handkarten des Freie Völker Spielers anzuschauen.
+  lore: Er sieht wirklich wie ein halber Unhold aus.
+fr:
+  title: Gobelin Bâtard
+  subtitle: ''
+  text: |-
+    Défaussez ce séide s’il est à un site **Souterrain.**  
+    Ombre : Affaiblissez ce séide pour regarder la main du joueur des Peuples Libres.
+  lore: 'Il ressemble assez à un gobelin.” '
+it:
+  title: Uomo-Goblin
+  subtitle: ''
+  text: |-
+    Scarta questo servitore se in un **Sotterraneo.**  
+    **Ombra:** Sforza questo servitore per guardare la mano del giocatore dei Popoli Liberi.
+  lore: ‘Pare proprio uno spirito maligno.’
+es:
+  title: Hombre goblin
+  subtitle: ''
+  text: Descarta este siervo si está en un sitio **Subterráneo.** **Sombra:** Esfuerza este siervo para mirar la mano del jugador de Gentes Libres.
+  lore: Se parece más a un medio Goblin.

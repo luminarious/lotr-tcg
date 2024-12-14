@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '45'
+unique: true
+culture: Gollum
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Led Astray
+  subtitle: ''
+  text: 'Spot Gollum to add :twilight3: and exchange one of your sites on the adventure path with another site from your adventure deck. '
+  lore: So far Gollum’s plot had succeeded.
+de:
+  title: In die Irre geführt
+  subtitle: ''
+  text: 'Entdecke Gollum, um den Einfluss um :twilight3: zu erhöhen und einen deiner Orte gegen einen anderen aus deinem Abenteuerdeck auszutauschen.'
+  lore: Insoweit war Gollums Anschlag gelungen.

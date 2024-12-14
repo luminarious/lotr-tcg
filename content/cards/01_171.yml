@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '171'
+unique: true
+culture: Moria
+type: Event
+class: Assignment
+cost: 2
+en:
+  title: Frenzy
+  subtitle: ''
+  text: '**Assignment:** Assign an exhausted companion (except the Ring-bearer) to skirmish a :moria: Orc.'
+  lore: The Goblins of the Misty Mountains, like all of their race, use their teeming numbers to slaughter their foes.
+de:
+  title: Raserei
+  subtitle: ''
+  text: '**Zuweisung:** Weise einem :moria: Ork einen erschöpften Gefährten (ausser den Ringträger) zu.'
+  lore: Wie bei ihrer Rasse üblich, benutzen auch die Goblins des Nebelgebirges ihre schier unendliche Anzahl, um ihre Feinde zu überwältigen.
+fr:
+  title: Frénésie
+  subtitle: ''
+  text: '**Affectation :** Affectez un compagnon épuisé (excepté le Porteur de l’Anneau) au combat d’un Orque :moria:.'
+  lore: Les Gobelins des Monts Brumeux, comme tous ceux de leur race, utilisent leur multitude grouillante pour massacrer leurs ennemis.
+it:
+  title: Frenesia
+  subtitle: ''
+  text: '**Assegnazione:** Assegna un compagno Esausto (eccetto il Portatore dell’Anello) alla schermaglia con un Orco :moria:.'
+  lore: I Goblin delle Montagne Nebbiose, come tutti quelli della loro razza, usano il loro numero brulicante per dilaniare i loro nemici.
+es:
+  title: Frenesí
+  subtitle: ''
+  text: '**Asignación:** Asigna un compañero exhausto (excepto el Portador del Anillo) en una escaramuza contra un Orco :moria:.'
+  lore: Los Goblins de las Montañas Nubladas, al igual que los otros de su raza, usan su ingente numero para exterminar a sus adversarios.

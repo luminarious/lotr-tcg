@@ -1,0 +1,38 @@
+set: '2'
+rarity: R
+number: '113'
+unique: true
+culture: Shire
+type: Possession
+cost: 2
+en:
+  title: Red Book of Westmarch
+  subtitle: ''
+  text: |-
+    **Tale.**   
+    Each time you play a tale, you may spot Bilbo to draw a card. 
+  lore: ‘Don't adventures ever have an end? I suppose not. Someone else always has to carry on the story.’
+de:
+  title: Das Rote Buch der Westmark
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    Jedesmal, wenn du eine Erzählung spielst, darfst du Bilbo entdecken, um eine Karte zu ziehen.
+  lore: Nehmen Abenteuer denn nie ein Ende? Wahrscheinlich nicht. Irgend jemand anderes muß die Geschichte fortsetzen.
+fr:
+  title: Le Livre Rouge de la Marche de l'Ouest
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Chaque fois que vous jouez un récit, vous pouvez désigner Bilbon pour piocher une carte.
+  lore: 'Les aventures n''ont-elles donc jamais de fin? Je suppose que non. Quelqu''un d''autre doit poursuivre l''histoire.” '
+it:
+  title: Libro Rosso dei Confini Occidentali
+  subtitle: ''
+  text: '**Racconto.** Giocalo nella tua area di supporto. Ogni volta che giochi un racconto, puoi avvistare Bilbo per pescare una carta.'
+  lore: ‘Possibile che le avventure non abbiano una fine? Ma forse no. C'è sempre qualcun altro che prosegue la storia.’
+es:
+  title: Libro rojo de la frontera del oeste
+  subtitle: ''
+  text: '**Cuento.** Cada vez que juegues un cuento, puedes avistar a Bilbo para robar una carta.'
+  lore: ¿Acaso no tienen las aventuras un final? Supongo que no. Siempre hay alguien que deba continuar con la historia.

@@ -1,0 +1,49 @@
+set: '4'
+rarity: R
+number: '218'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 6
+str: '13'
+vit: '3'
+site: 4
+en:
+  title: Desert Legion
+  subtitle: ''
+  text: |-
+    **Southron.** **Ambush.** :twilight1:  
+    While you can spot 4 burdens, this minion is strength +5.   
+    While you can spot 5 burdens, this minion is **fierce.**   
+    While you can spot 6 burdens, this minion is **damage +1.**
+  lore: ''
+de:
+  title: Wüstenlegion
+  subtitle: ''
+  text: |-
+    **Südländer.** **Hinterhalt** :twilight1:**.**  
+    Solange du 4 lastmarken entdecken kannst, erhält dieser diener stärke +5.  
+    Solange du 5 lastmarken entdecken kannst, ist dieser diener **erbittert.**  
+    Solange du 6 lastmarken entdecken kannst, erhält dieser diener **schaden +1.**
+  lore: ''
+fr:
+  title: Légion du Désert
+  subtitle: ''
+  text: |-
+    **Suderon.** **Embuscade** :twilight1:**.** Tant que vous pouvez désigner 4 points-fardeau, ce séide a +5 en force. Tant que vous pouvez désigner 5 points-fardeau, ce séide est **acharné.**  
+    Tant que vous pouvez désigner 6 points-fardeau, ce séide inflige des **dégâts +1.**
+  lore: ''
+it:
+  title: Legione del Deserto
+  subtitle: ''
+  text: |-
+    **Sudrone.**  
+    **Imboscata** :twilight1:**.** Mentre puoi avvistare 4 segnalini fardello, aggiungi +5 alla forza di questo servitore. Mentre puoi avvistare 5 segnalini fardello, questo servitore è **Feroce.**  
+    Mentre puoi avvistare 6 segnalini fardello, questo servitore ha Danno +
+  lore: ''
+es:
+  title: Legión Del Desierto
+  subtitle: ''
+  text: '**Sureño.** **Emboscar** :twilight1:. Mientras puedas avistar 4 cargas, este siervo es fuerza +5. Mientras puedas avistar 5 cargas, este siervo es **Fiero.** Mientras puedas avistar 6 cargas, este siervo es **daño +1.**'
+  lore: ''

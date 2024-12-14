@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '26'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Uncertain Future
+  subtitle: ''
+  text: 'When you play this condition, spot an Elf to add 3 :elven: tokens here. **Maneuver:** Discard this condition or remove an :elven: token from here to reveal the top card of your draw deck. You may place that card beneath your draw deck. '
+  lore: ‘What did you see?’
+de:
+  title: Unsichere Zukunft
+  subtitle: ''
+  text: 'Wenn du diesen Effekt spielst, entdecke einen Elben, um 3 :elven: Marken auf diese Karte zu legen. **Manöver:** Lege diese Karte ab oder entferne eine :elven: Marke von dieser Karte, um die oberste Karte deines Spieldecks aufzudecken. Du darfst diese Karte unter dein Spie ldeck legen.'
+  lore: Was hast du gesehen?

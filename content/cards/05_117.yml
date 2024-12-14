@@ -1,0 +1,33 @@
+set: '5'
+rarity: C
+number: '117'
+unique: true
+culture: Shire
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: You Must Help Us
+  subtitle: ''
+  text: '**Fellowship:** Play Sméagol from your discard pile to heal each Ring-bound Hobbit twice.'
+  lore: ‘You will have to come with us, that’s all, while we keep an eye on you.’
+de:
+  title: Du musst uns helfen
+  subtitle: ''
+  text: Gemeinschaft. Spiele Sméagol aus deinem Ablagestapel, um jeden Ring-verbundenen Hobbit zweimal zu heilen.
+  lore: Du wirst mit uns kommen müssen, das ist alles, damit wir ein Auge auf dich haben.
+fr:
+  title: Il Faudra Nous Aider
+  subtitle: ''
+  text: '**Compagnie :** Jouez Sméagol de votre pile de défausse pour guérir deux fois chaque Hobbit associé à l’Anneau.'
+  lore: 'Vous devrez venir avec nous, c''est tout, tandis que nous vous tiendrons à l''*il.” '
+it:
+  title: Devi Aiutarci
+  subtitle: ''
+  text: '**Compagnia:** Gioca Sméagol dalla tua pila degli scarti per curare due volte ogni Hobbit **Legato all’Anello.**'
+  lore: ‘Sarai costretto a venire con noi affinché ti possiamo sorvegliare, tutto qui.’
+es:
+  title: Debes ayudarnos
+  subtitle: ''
+  text: '**Comunidad:** Juega a Sméagol de tu pila de descartes para curar dos veces cada Hobbit **Vinculado al Anillo.**'
+  lore: Tendrás que venir con nosotros, sólo eso, para que podamos vigilarte.

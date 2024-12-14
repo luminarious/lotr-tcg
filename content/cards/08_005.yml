@@ -1,0 +1,18 @@
+set: '8'
+rarity: C
+number: '5'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Gandalf
+en:
+  title: Gimli
+  subtitle: Counter of Foes
+  text: |-
+    **Damage +1**.   
+    For each wound on Gimli, he is strength +1 and **damage +1**.
+  lore: Twenty, twenty-one, twenty-two….

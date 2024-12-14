@@ -1,0 +1,39 @@
+set: '5'
+rarity: C
+number: '30'
+unique: true
+culture: Gollum
+type: Event
+class: Shadow, Skirmish
+cost: 0
+en:
+  title: We Must Have It
+  subtitle: ''
+  text: |-
+    **Shadow:** Play Gollum from your draw deck or discard pile.   
+    **Skirmish:** Discard a card at random from hand to make Gollum strength +3.
+  lore: '‘No, sweet one. See, my precious: if we has it, then we can escape, even from Him, eh?’'
+de:
+  title: Wir müssen ihn haben!
+  subtitle: ''
+  text: '**Schatten:** Spiele Gollum aus deinem Spieldeck oder aus deinem Ablagestapel. **Kampf** Lege eine zufällig bestimmte Karte aus deiner Hand ab, um Gollum Stärke +3 zu geben.'
+  lore: 'Nein, Süßer. Schau, mein Schatz: wenn wir ihn haben, dann können wir entfliehen, selbst vor Ihm, nicht wahr?'
+fr:
+  title: On Doit l'Avoir
+  subtitle: ''
+  text: |-
+    **Ombre :** Jouez Gollum de votre pioche ou de votre pile de défausse.   
+    **Combat :** Défaussez une carte de votre main au hasard pour donner +3 en force à Gollum.
+  lore: 'Non doux ami. Non, mon trésor: si on l''a, on pourra s''échapper, même de Lui, hé?” '
+it:
+  title: Dobbiamo Averlo
+  subtitle: ''
+  text: |-
+    **Ombra:** Gioca Gollum dal tuo mazzo di gioco o dalla tua pila degli scarti.   
+    **Schermaglia:** Scarta una carta a caso dalla mano per aggiungere +3 alla forza di Gollum.
+  lore: '‘No, dolce tesoro. Vedi tesoro mio: se ce l''abbiamo noi, allora possiamo fuggire, anche da Lui, eh?’'
+es:
+  title: Tiene que ser nuestro
+  subtitle: ''
+  text: '****Sombra:**** Juega a Gollum de tu mazo de robar o de tu pila de descartes. **Escaramuza:** Descarta una carta al azar de tu mano para darle a Gollum fuerza +3.'
+  lore: 'No, dulce tesoro. Escucha, mi tesoro: si es nuestro, podremos escapar, hasta de Él, ¿eh?'

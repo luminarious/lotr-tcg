@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '78'
+unique: true
+culture: Gollum
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Where Shall We Go
+  subtitle: ''
+  text: If you have initiative, discard 2 cards from hand to wound a minion Sméagol is skirmishing twice.
+  lore: ‘If you scare him off, we are lost.’
+de:
+  title: Wohin sollen wir gehen
+  subtitle: ''
+  text: Lege 2 Karten aus deiner Hand ab, wenn du die Initiative besitzt, um einen Diener, der gegen Sméagol kämpft, zweimal zu verwunden.
+  lore: Wenn du ihn verjagst, sind wir verloren.

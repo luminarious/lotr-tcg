@@ -1,0 +1,15 @@
+set: '18'
+rarity: U
+number: '111'
+unique: true
+culture: Shire
+type: Follower
+cost: 2
+str: '+1'
+en:
+  title: Robin Smallburrow
+  subtitle: Shirriff Cock-Robin
+  text: |-
+    **Aid** - :twilight2:. *(At the start of the maneuver phase, you may add *:twilight2:* to transfer this to a companion.)*  
+    Each time you attach this follower to a :shire: companion, you may discard X cards from hand to draw X cards.
+  lore: ''

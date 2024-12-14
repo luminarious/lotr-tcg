@@ -1,0 +1,38 @@
+set: '1'
+rarity: C
+number: '68'
+unique: true
+culture: Elven
+type: Condition
+cost: 1
+en:
+  title: The White Arrows of Lórien
+  subtitle: ''
+  text: |-
+    **Tale.** Bearer must be an Elf companion.   
+    **Archery:** If bearer is an archer, exert bearer to make an opponent discard 2 cards at random from hand.
+  lore: Straight and true, the arrows of the Golden Wood are known to leave a deadly mark.
+de:
+  title: Die weissen Pfeile von Lórien
+  subtitle: ''
+  text: '**Erzählung.**Muss auf einen Elbengefährten gespielt werden. **Fernkampf:** Wenn der Träger Bogenschütze ist, kannst du ihn anstrengen, um einen Gegenspieler 2 zufällig bestimmte Karten von seiner Hand ablegen zu lassen.'
+  lore: Gradlinig und zielsicher, sind die Pfeile des goldenen Waldes bekannt für ihre Tödlichkeit.
+fr:
+  title: Les Flèches Blanches de Lórien
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Le détenteur doit être un compagnon Elfe. **Archerie :** Si le détenteur est un archer, affaiblissez le détenteur pour obliger un adversaire à défausser au hasard 2 cartes de sa main.
+  lore: Droites et solides, les flèches de la Forêt Dorée sont connues pour laisser une marque mortelle.
+it:
+  title: Le Bianche Frecce di Lórien
+  subtitle: ''
+  text: |-
+    **Racconto.** Il possessore deve essere un compagno Elfo.   
+    **Arcieri:** Se il possessore è un arciere, sforza il possessore per far scartare a un avversario 2 carte a caso dalla mano.
+  lore: Dritte e precise, le frecce del Bosco d'oro è risaputo che lascino un segno mortale.
+es:
+  title: Las Flechas Blancas de Lórien
+  subtitle: ''
+  text: '**Cuento.**El portador ha de ser un compañero Elfo. **Arquería:** Si el portador es arquero, esfuerza al portador para que un oponente descarte 2 cartas al azar de su mano.'
+  lore: Rectas y certeras, las flechas del Bosque Dorado son conocidas por dejar una señal mortífera.

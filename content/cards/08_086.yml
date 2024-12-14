@@ -1,0 +1,22 @@
+set: '8'
+rarity: U
+number: '86'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Doom Drove Them
+  subtitle: ''
+  text: |-
+    **Fellowship:** Exert a :rohan: companion and either a :gondor: Man or a :shire: companion to add a :rohan: token here.   
+    **Skirmish:** Remove a :rohan: token here to exert a minion skirmishing a companion.
+  lore: He bent over her like a cloud, and his eyes glittered….
+de:
+  title: Schicksal trieb sie
+  subtitle: ''
+  text: |-
+    **Gemeinschaft:** Strenge einen :rohan: Gefährten und entweder einen :gondor: Menschen oder einen :shire: Gefährten an, um eine :rohan: Marke auf diese Karte zu legen.   
+    **Kampf:** Entferne eine :rohan: Marke von diesem Effekt, um einen Diener anzustrengen, der gegen einen Gefährten kämpft.
+  lore: ''

@@ -1,0 +1,33 @@
+set: '2'
+rarity: U
+number: '111'
+unique: true
+culture: Shire
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Practically Everyone Was Invited
+  subtitle: ''
+  text: '**Fellowship:** Exert Bilbo to play a Hobbit from your draw deck. '
+  lore: Thank you, I shall certainly come.
+de:
+  title: Praktisch jeder war eingeladen
+  subtitle: ''
+  text: '**Gemeinschaft.** Strenge Bilbo an, um einen Hobbit direkt aus deinem Spieldeck zu spielen.'
+  lore: Vielen Dank, ich komme gern.
+fr:
+  title: Presque Tout le Monde Était Invité
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez Bilbon pour jouer un Hobbit de votre pioche.'
+  lore: 'Merci, je viendrai certainement. '
+it:
+  title: Erano Praticamente Tutti Invitati
+  subtitle: ''
+  text: '**Compagnia:** Sforza Bilbo per giocare un Hobbit dal tuo mazzo di gioco.'
+  lore: Grazie infinite; saremo lieti di prender parte alla festa.
+es:
+  title: Prácticamente todo el mundo fue invitado
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza a Bilbo para jugar un Hobbit de tu mazo de Robar.'
+  lore: Gracias, iré con mucho gusto.

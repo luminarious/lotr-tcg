@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '210'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Hatred Stirred
+  subtitle: ''
+  text: 'Each time a companion loses a fierce skirmish involving a :wraith: minion, you may shuffle a :wraith: card from your discard pile into your draw deck.'
+  lore: Suddenly the foremost Rider spurred his horse forward.
+de:
+  title: Hass regte sich
+  subtitle: ''
+  text: 'Jedes Mal, wenn ein Gefährte einen erbitterten Kampf verliert, an dem ein :wraith: Diener beteiligt ist, darfst du eine :wraith: Karte aus deinem Ablagestapel in dein Spieldeck mischen.'
+  lore: Plötzlich gab der vorderste Reiter seinem Pferd die Sporen.

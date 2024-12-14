@@ -1,0 +1,16 @@
+set: '15'
+rarity: C
+number: '116'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Scouting Orc
+  subtitle: ''
+  text: '**Skirmish:** Exert this minion to wound a companion it is skirmishing.'
+  lore: '…it was of a small breed…with wide and snuffling nostrils: evidently a tracker of some kind.'

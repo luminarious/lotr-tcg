@@ -1,0 +1,21 @@
+set: '11'
+rarity: U
+number: '16'
+unique: true
+culture: Elven
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+1'
+en:
+  title: Blade of Lindon
+  subtitle: ''
+  text: |-
+    Bearer must be an Elf.   
+    While bearer is at a forest or river site, each minion he or she is skirmishing is strength –1. 
+  lore: To this day, many Elven weapons are forged in the fashion of those wielded by Gil-galad’s forces.
+de:
+  title: Klinge von Lindon
+  subtitle: ''
+  text: Muss auf einen Elben gespielt werden. Solange sich der Träger an einem Wald oder Fluss befindet, erhält jeder Diener, der gegen ihn kämpft, Stärke -1.
+  lore: Bis zum heutigen Tag werden viele Elbenwaffen gefertigt wie die, die Gil-galads Streitmacht führten.

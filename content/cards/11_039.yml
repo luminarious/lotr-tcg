@@ -1,0 +1,18 @@
+set: '11'
+rarity: C
+number: '39'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 3
+en:
+  title: Prolonged Struggle
+  subtitle: ''
+  text: 'Exert a :gandalf: Wizard and spot 2 companions who each have resistance 7 or more to wound a minion that Wizard is skirmishing twice.'
+  lore: ‘We fought far under the living earth, where time is not counted.’
+de:
+  title: Andauernder Kampf
+  subtitle: ''
+  text: 'Strenge einen :gandalf: Zauberer an und entdecke 2 Gefährten, die jeweils Resistenz 7 oder mehr haben, um einen Diener, den er bekämpft, zweimal zu verwunden.'
+  lore: Wir kämpften miteinander tief unter der lebendigen Erde, wo Zeit nicht gezählt wird.

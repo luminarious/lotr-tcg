@@ -1,0 +1,33 @@
+set: '3'
+rarity: C
+number: '76'
+unique: true
+culture: Moria
+type: Event
+class: Shadow
+cost: 2
+en:
+  title: Dangerous Gamble
+  subtitle: ''
+  text: '**Shadow:** Spot a :moria: minion to reveal a card at random from the Free Peoples player’s hand. Add :twilightX:, where X is the twilight cost of the card revealed. '
+  lore: Almost they began to hope that they would escape.
+de:
+  title: Gefährliches Spiel
+  subtitle: ''
+  text: '**Schatten:** Entdecke einen :moria: Diener, um eine zufällig bestimmte Karte aus der Hand des Freie Völker Spielers aufzudecken. Erhöhe den Einfluss um :twilightX:, wobei X den Zwielichtkosten der aufgedeckten Karte entspricht.'
+  lore: Fast begannen sie zu hoffen, dass sie entkommen könnten.
+fr:
+  title: Un Dangeureux Pari
+  subtitle: ''
+  text: 'Ombre : Désignez un séide :moria: pour révéler une carte au hasard de la main du joueur des Peuples Libres. Ajoutez :twilightX:, où X est le coût crépusculaire de la carte révélée.'
+  lore: 'Ils commençaient presque à espérer s''échapper. '
+it:
+  title: Azzardo Pericoloso
+  subtitle: ''
+  text: '**Ombra:** Avvista un servitore :moria: per mostrare una carta a caso dalla mano del giocatore dei Popoli Liberi. Aggiungi :twilightX:, dove X è il costo crepuscolo della carta mostrata.'
+  lore: …incominciarono quasi a sperare di fuggire.
+es:
+  title: Jugada Peligrosa
+  subtitle: ''
+  text: '**Sombra:** Avista un siervo :moria: para revelar una carta al azar de la mano del jugador de Gentes Libres. Añade :twilightX:, donde X es el coste de penumbra de la carta revelada.'
+  lore: Casi empezaron a creer que lograrían escapar.

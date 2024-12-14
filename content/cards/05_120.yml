@@ -1,0 +1,33 @@
+set: '5'
+rarity: U
+number: '120'
+unique: true
+culture: ''
+type: Site
+cost: 9
+siteArrow: Left
+en:
+  title: Caverns of Isengard
+  subtitle: ''
+  text: '**Underground.** The Free Peoples player wins the game only if the Ring-bearer survives until Shadow players reconcile.'
+  lore: ''
+de:
+  title: Die Höhlen unter Isengart
+  subtitle: ''
+  text: '**Unterirdisch.** Der Freie Völker Spieler gewinnt erst, wenn der Ring-träger überlebt, bis die Schattenspieler ihre Handkarten aufziehen.'
+  lore: ''
+fr:
+  title: Les Cavernes de l'Isengard
+  subtitle: ''
+  text: '**Souterrain.** Le joueur des Peuples Libres ne peut gagner que si le Porteur survit jusqu’à la reconstitution des mains de l’Ombre.'
+  lore: ''
+it:
+  title: Caverne di Isengard
+  subtitle: ''
+  text: '**Sotterraneo.** Il giocatore dei Popoli Liberi vince la partita solo se il Portatore dell’ Anello sopravvive fino a quando i giocatori Ombra ricompongono la propria mano.'
+  lore: ''
+es:
+  title: Cavernas de Isengard
+  subtitle: ''
+  text: '**Subterráneo.** El jugador de Gentes Libres no gana la partida a menos que el Portador del Anillo sobreviva hasta que los jugadores de Sombra reconcilien.'
+  lore: ''

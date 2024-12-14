@@ -1,0 +1,21 @@
+set: '12'
+rarity: C
+number: '59'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Covetous Easterling
+  subtitle: ''
+  text: While this minion is skirmishing a Man, it is **damage +2.**
+  lore: Long have the Men of Rhûn thirsted for the wealth of Gondor, and many times have they sought to claim it.
+de:
+  title: Gieriger Ostling
+  subtitle: ''
+  text: Dieser Diener erhält er **Schaden +2**, solange er gegen einen Menschen kämpft.
+  lore: Schon lange dürstet es die Menschen aus Rhûn nach den Reichtümern Gondors, und sie haben bereits viele Male versucht, sie zu erlangen.

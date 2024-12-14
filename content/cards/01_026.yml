@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '26'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Their Halls of Stone
+  subtitle: ''
+  text: '**Skirmish:** Make a Dwarf strength +2 (or +4 if at an underground site).'
+  lore: ‘These are not holes,’ said Gimli. ‘This is the great realm and city of the Dwarrowdelf. And of old it was not darksome, but full of light and splendour, as is still remembered in our songs.’
+de:
+  title: Ihre Hallen aus Stein
+  subtitle: ''
+  text: '**Kampf** Gib einem Zwerg Stärke +2 (oder Stärke +4, wenn er sich an einem unterirdischen Ort befindet).'
+  lore: Das sind keine Höhlen“, antwortete Gimli. "Dies ist das große Reich und die Stadt Zwergenbinge. Und einstmals war es hier nicht dunkel, sondern voller Licht und Glanz, wie es noch in unseren Liedern überliefert wird.
+fr:
+  title: Leurs Demeures de Pierre
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force (ou +4 s’il est à un site souterrain) à un Nain.'
+  lore: ‘Ce ne sont pas des trous', dit Gimli. ‘C'est le grand royaume et domaine du Cavenain. Et jadis il n'était pas sombre, mais plein de lumière et de splendeur, comme nous nous le rappelons dans nos chansons.’
+it:
+  title: I Loro Saloni di Pietra
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Nano (o +4 se in un sito sotterraneo).'
+  lore: Questi non sono buchi”, disse Gimli. “Qui è il grande reame e la città del Nanosterro. In antico non era tenebroso, bensì inondato di luce e splendore, come ancora ricordano le nostre canzoni
+es:
+  title: Sus Salas de Piedra
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Enano fuerza +2 (+4 si está en un sitio subterráneo).'
+  lore: No son agujeros – dijo Gimli –. Esto es el gran reino y la ciudad de la Mina del Enano. Y antiguamente no era oscura sino luminosa y espléndida, como lo recuerdan aún nuestras canciones.

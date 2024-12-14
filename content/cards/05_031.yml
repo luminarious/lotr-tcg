@@ -1,0 +1,17 @@
+set: '5'
+rarity: R
+number: '31'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+en:
+  title: Alcarin
+  subtitle: Warrior of Lamedon
+  text: |-
+    **Knight.** The twilight cost of each other knight in your starting fellowship is -1.   
+    **Assignment:** Assign Alcarin to a minion bearing a :gondor: fortification to heal Alcarin.
+  lore: Named for a mighty king, Alcarin is determined to prove himself in battle.

@@ -1,0 +1,33 @@
+set: '2'
+rarity: C
+number: '2'
+unique: true
+culture: Dwarven
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Disquiet of Our People
+  subtitle: ''
+  text: '**Maneuver:** Exert a Dwarf to make that Dwarf **defender +1** (or **defender +2** if you spot an Orc) until the **regroup** phase. '
+  lore: ‘Ah, alas!…When will the day come of our revenge?’
+de:
+  title: Die Rastlosigkeit unseres Volkes
+  subtitle: ''
+  text: '**Manöver:** Strenge einen Zwerg an, um diesen bis zur Sammelphase **Verteidiger +1** zu machen (oder Verteidiger +2, wenn du einen Ork entdeckst).'
+  lore: O wehe, wehe! … Wann wird der Tag unserer Rache kommen?
+fr:
+  title: Un Tumulte en Notre Peuple
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Nain pour rendre ce Nain **défenseur +1** (ou **défenseur +2** si vous désignez un Orque) jusqu’à la phase de ralliement.'
+  lore: 'Ah, hélas! Quand viendra le jour de notre vengeance?” '
+it:
+  title: La Sofferenza della Nostra Gente
+  subtitle: ''
+  text: '**Manovra:** Sforza un Nano per renderlo **Difensore +1** (o **Difensore +2** se avvisti un Orco) fino alla fase di raccolta.'
+  lore: ‘Ahimè!… Quando verrà infine il giorno della nostra vendetta?’
+es:
+  title: Inquietud de nuestra gente
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un Enano para darle a ese Enano **defensor +1** (o **defensor +2** si avistas un Orco) hasta la fase de reagrupación.'
+  lore: ¡Ay, Ay!… ¿Cuándo será el día de nuestra venganza?

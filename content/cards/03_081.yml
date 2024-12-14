@@ -1,0 +1,35 @@
+set: '3'
+rarity: R
+number: '81'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Gates of the Dead City
+  subtitle: ''
+  text: |-
+    To play, spot a Nazgûl.   
+    Each time a :wraith: card adds a burden, the Free Peoples player must exert a companion. 
+  lore: ‘…and they took Minas Ithil and abode in it, and they made it into a place of dread….’
+de:
+  title: Die Tore der Toten Stadt
+  subtitle: ''
+  text: 'Entdecke einen Nazgûl, um diese Karte in deinen Unterstützungsbereich zu spielen. Jedes Mal, wenn eine :wraith: Karte eine Lastmarke auf den Ringträger legt, muss der Freie Völker Spieler einen Gefährten anstrengen.'
+  lore: … und nahmen Minas Ithil und wohnten dort, und sie machten eine Stätte des Entsetzens daraus…
+fr:
+  title: Les Portes de la Cité Morte
+  subtitle: ''
+  text: 'Pour jouer, désignez un Nazgûl. Chaque fois qu’une carte :wraith: ajoute un point-fardeau, le joueur des Peuples Libres doit affaiblir un compagnon.'
+  lore: '…elles prirent Minas Ithil, où elles s''établirent, la transformant en lieu de terreur…” '
+it:
+  title: I Cancelli della Città Morta
+  subtitle: ''
+  text: 'Per giocarla, avvista un Nazgûl. Ogni volta che una carta :wraith: aggiunge un segnalino fardello, il giocatore dei Popoli Liberi deve sforzare un compagno.'
+  lore: ‘…il male avanzò, e s'impadronì di Minas Ithil, facendone la sua dimora, un luogo di terrore…’
+es:
+  title: Puertas de la Ciudad Muerta
+  subtitle: ''
+  text: 'Para jugarla, avista un Nazgûl. Cada vez que una carta :wraith: añade una carga, el jugador de Gentes Libres debe esforzar un compañero.'
+  lore: …y tomaron Minas Ithil, y allí se establecieron y lo transformaron en un sitio de terror…

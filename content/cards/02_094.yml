@@ -1,0 +1,38 @@
+set: '2'
+rarity: R
+number: '94'
+unique: true
+culture: Sauron
+type: Condition
+cost: 0
+en:
+  title: Verily I Come
+  subtitle: ''
+  text: |-
+    To play, exert a :sauron: Orc. Plays on the Ring-bearer.   
+    Each time the Free Peoples player draws a card (or takes a card into hand) during the fellowship phase, add a burden. 
+  lore: There was an eye in the Dark Tower that did not sleep. He knew that it had become aware of his gaze.
+de:
+  title: Wahrlich, ich komme
+  subtitle: ''
+  text: 'Strenge einen :sauron: Ork an, um diese Karte auf den Ringträger zu spielen. Jedesmal, wenn der Freie Völker Spieler während der Gemeinschaftsphase eine Karte zieht (oder auf die Hand nimmt), lege eine Lastmarke auf den Ringträger.'
+  lore: Da war ein Auge im Dunklen Turm, das nicht ruhte. Er wußte, dass es seinen Blick bemerkt hatte.
+fr:
+  title: Vraiment Je Viens
+  subtitle: ''
+  text: |-
+    Pour jouer, affaiblissez un Orque :sauron:. Jouable sur le Porteur de l’Anneau.  
+    Chaque fois que le joueur des Peuples Libres pioche une carte (ou prend une carte en main) pendant la phase de compagnie, ajoutez un point-fardeau.
+  lore: 'Il y avait dans la Tour Ténébreuse un *il qui ne dormait pas. Il sut que cet *il avait pris conscience de son observation. '
+it:
+  title: Invero Io Arrivo
+  subtitle: ''
+  text: |-
+    Per giocarla, sforza un Orco :sauron:. Giocala sul Portatore dell’Anello.  
+    Ogni volta che il giocatore dei Popoli Liberi pesca una carta (o aggiunge una carta alla sua mano) durante la fase della Compagnia, aggiungi un segnalino fardello.
+  lore: Vi era nella Torre Oscura un occhio che non dormiva, che si era accorto dello sguardo di Frodo.
+es:
+  title: Vengo de verdad
+  subtitle: ''
+  text: Para jugarla, esfuerza un Orco :sauron:. Se juega en el Portador del Anillo. Cada vez que el jugador de Gentes Libres roba una carta (o toma una carta en su mano) durante la fase de comunidad, añade una carga.
+  lore: Había un ojo en la Torre Oscura que no dormía. Supo que se había dado cuenta de su mirada.

@@ -1,0 +1,42 @@
+set: '3'
+rarity: U
+number: '5'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Song of Durin
+  subtitle: ''
+  text: |-
+    **Tale.** To play, exert a Dwarf.   
+    The twilight cost of each :moria: weapon is +2.   
+    **Fellowship:** Discard this condition to discard up to 2 :moria: conditions. 
+  lore: 'No harp is wrung, no hammer falls: / The darkness dwells in Durin’s halls….'
+de:
+  title: Durins Lied
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    Strenge einen Zwerg an, um diese Karte in deinen Unterstützungsbereich zu spielen. Die Zwielichtkosten aller :moria: Waffen erhöhen sich um 2. **Gemeinschaft.** Lege diesen Effekt ab, um bis zu 2 :moria: Effekte abzulegen.
+  lore: Kein Harfner sang, kein Hammer fällt / Das Dunkle herrscht in Durins Welt…
+fr:
+  title: Chanson de Durin
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Pour jouer, affaiblissez un Nain. Le coût crépusculaire de chaque arme :moria: est de +2. **Compagnie :** Défaussez cette situation pour défausser jusqu’à 2 situations :moria:.
+  lore: Nulle harpe n'est pincée, nul marteau ne frappe / Les ténèbres règnent dans les salles de Durin…
+it:
+  title: La Canzone di Durin
+  subtitle: ''
+  text: |-
+    **Racconto.** Per giocarla, sforza un Nano. Il costo crepuscolo di ogni arma :moria: aumenta di +2.   
+    **Compagnia:** Scarta questa condizione per scartare fino a 2 condizioni :moria:.
+  lore: 'Nessun''arpa vibrante, nessun ritmo di martelli: / Regna l''oscurità su miniere e castelli…'
+es:
+  title: Canción de Dúrin
+  subtitle: ''
+  text: '**Cuento.** Para jugarla, esfuerza un Enano. El coste de penumbra de cada arma :moria: es +2. **Comunidad:** Descarta esta condición para descartar hasta 2 condiciones :moria:.'
+  lore: El arpa ya no suena, el martillo no cae; / la sombra habita en las salas de Durin…

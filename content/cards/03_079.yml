@@ -1,0 +1,33 @@
+set: '3'
+rarity: U
+number: '79'
+unique: true
+culture: Moria
+type: Event
+class: Archery
+cost: 0
+en:
+  title: Malice
+  subtitle: ''
+  text: '**Archery:** Spot a :moria: Orc and a :sauron: Orc to wound an archer.'
+  lore: Fueled by Sauron’s hatred of living things, Orcs searched for the Ring of Power.
+de:
+  title: Arglist
+  subtitle: ''
+  text: '**FernKampf** Entdecke einen :moria: Ork und einen :sauron: Ork, um einen Bogenschützen zu verwunden.'
+  lore: Von Saurons Hass auf alles Leben erfüllt, suchten die Orks nach dem Ring der Macht.
+fr:
+  title: Malveillance
+  subtitle: ''
+  text: '**Archerie :** Désignez un Orque :moria: et un Orque :sauron: pour blesser un archer.'
+  lore: Nourris par la haine de Sauron pour toute chose vivante, les Orques cherchèrent l'Anneau de Pouvoir.
+it:
+  title: Malvagità
+  subtitle: ''
+  text: '**Arcieri:** Avvista un Orco :moria: e un Orco :sauron: per ferire un **arciere.**'
+  lore: Spronati dall'odio di Sauron per tutto ciò che vive, gli Orchi cercavano incessantemente l'Anello del Potere.
+es:
+  title: Malicia
+  subtitle: ''
+  text: '**Arquería:** Avista un Orco :moria: y un Orco :sauron: para herir un **arquero.**'
+  lore: Empujados por el odio de Sauron por las cosas vivas, los Orcos buscaron el Anillo de Poder.

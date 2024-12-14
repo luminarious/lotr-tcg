@@ -1,0 +1,33 @@
+set: '2'
+rarity: C
+number: '69'
+unique: true
+culture: Moria
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Old Differences
+  subtitle: ''
+  text: '**Skirmish:** Make an Elf or Dwarf skirmishing a :moria: Orc strength -1 (or -3 if you spot an Elf and a Dwarf). '
+  lore: ‘I'll be dead before I see the Ring in the hands of an Elf!’
+de:
+  title: Alte Zwistigkeiten
+  subtitle: ''
+  text: '**Kampf** Gib einem Elben oder einem Zwerg, der gegen einen :moria: Ork kämpft, Stärke -1 (oder Stärke -3, wenn du einen Elben und einen Zwerg entdeckst).'
+  lore: Eher will ich sterben, als dass ich den Ring in den Händen eines Elben sehe!
+fr:
+  title: Querelles Anciennes
+  subtitle: ''
+  text: '**Combat :** Donnez -1 en force à un Elfe ou un Nain qui combat un Orque :moria: (ou -3 si vous désignez un Elfe et un Nain).'
+  lore: 'Je serai mort avant de voir l''Anneau dans la main d''un Elfe!” '
+it:
+  title: Antiche Divergenze
+  subtitle: ''
+  text: '**Schermaglia:** Sottrai -1 alla forza di un Elfo o di un Nano che stiano schermagliando con un Orco :moria: (o -3 se avvisti un Elfo e un Nano).'
+  lore: ‘Sarò morto prima di vedere l'Anello nelle mani di un Elfo!’
+es:
+  title: Viejas diferencias
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Elfo o a un Enano implicado en una escaramuza contra un Orco :moria: fuerza -1 (o -3 si avistas un Elfo y un Enano).'
+  lore: ¡Antes muerto que ver el Anillo en manos de un Elfo!

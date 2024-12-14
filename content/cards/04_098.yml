@@ -1,0 +1,20 @@
+set: '4'
+rarity: C
+number: '98'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 3
+en:
+  title: Mithrandir, Mithrandir!
+  subtitle: ''
+  text: |-
+    **Spell.**  
+    **Maneuver:** Exert Gandalf to wound each minion who has strength of 6 or less. 
+  lore: The wild men fell on their faces before him.
+es:
+  title: ¡Mithrandir, Mithrandir!
+  subtitle: ''
+  text: '**Hechizo.** **Maniobra:** Esfuerza a Gandalf para herir cada siervo que tenga fuerza 6 o menos.'
+  lore: Los salvajes montañeses caían de bruces.

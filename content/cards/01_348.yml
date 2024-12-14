@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '348'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Right
+en:
+  title: Pass of Caradhras
+  subtitle: ''
+  text: '**Mountain.** **Shadow:** Spot a :isengard: minion to play a weather card from your draw deck (limit 1 per turn).'
+  lore: ''
+de:
+  title: Rothornpass
+  subtitle: ''
+  text: '**Gebirge.** **Schatten:** Entdecke einen :isengard: Diener, um eine Wetterkarte direkt aus deinem Spieldeck zu spielen (maximal 1 pro Spielzug).'
+  lore: ''
+fr:
+  title: Col de Caradhras
+  subtitle: ''
+  text: '**Montagne.** Ombre : Désignez un séide :isengard: pour jouer une carte de climat de votre pioche (limité à une par tour).'
+  lore: ''
+it:
+  title: Passo di Caradhras
+  subtitle: ''
+  text: '**Montagna.** **Ombra:** Sforza un servitore :isengard: per giocare una carta Atmosferica dal tuo mazzo di gioco (limite una per turno).'
+  lore: ''
+es:
+  title: Paso del Caradhras
+  subtitle: ''
+  text: '**Montaña.** **Sombra:** Avista un siervo :isengard: para jugar una carta de clima de tu mazo de robar (límite una vez por turno).'
+  lore: ''

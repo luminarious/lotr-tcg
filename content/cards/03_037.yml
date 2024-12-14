@@ -1,0 +1,37 @@
+set: '3'
+rarity: C
+number: '37'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Answering the Cries
+  subtitle: ''
+  text: |-
+
+    **Skirmish:** Discard a :gondor: tale from hand to make a :gondor: companion strength +2. 
+  lore: Drawing his bright sword and crying Elendil! Elendil! he crashed through the trees.
+de:
+  title: Den Rufen folgen
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Kampf** Lege eine :gondor: Erzählung aus deiner Hand ab, um einem :gondor: Gefährten Stärke +2 zu geben.'
+  lore: Er zog sein blankes Schwert und brach mit dem Ruf Elendil! Elendil! zwischen den Bäumen hindurch.
+fr:
+  title: Répondant aux Appels
+  subtitle: ''
+  text: '**Combat :** Défaussez un récit :gondor: de votre main pour donner +2 en force à un compagnon.'
+  lore: 'Tirant sa brillante épée, il s''enfonça parmi les arbres au cri d''Elendil! Elendil!” '
+it:
+  title: Rispondere alle Grida
+  subtitle: ''
+  text: |-
+
+    **Schermaglia:** Scarta un racconto :gondor: dalla mano per aggiungere +2 alla forza di un compagno :gondor:.
+  lore: 'Sguainando la spada splendente, si precipitò tra gli alberi gridando: Elendil! Elendil!'
+es:
+  title: Respondiendo a los gritos
+  subtitle: ''
+  text: '**Escaramuza:** Descarta un cuento :gondor: de la mano para darle a un compañero :gondor: fuerza +2.'
+  lore: Desenvainando su brillante espada y gritando ¡Elendil! ¡Elendil! se precipitó a través de los árboles.

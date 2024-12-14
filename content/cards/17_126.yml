@@ -1,0 +1,18 @@
+set: '17'
+rarity: C
+number: '126'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '3'
+site: 5
+en:
+  title: White Hand Guard
+  subtitle: ''
+  text: |-
+    **Fierce. Hunter 1.** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    **Skirmish:** Exert this minion to make an :urukhai: hunter minion strength +2.
+  lore: Under the banner of the white hand, they came in great numbers.

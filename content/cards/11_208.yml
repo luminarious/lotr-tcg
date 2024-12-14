@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '208'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Dark Wings
+  subtitle: ''
+  text: 'Each time your :wraith: minion wins a skirmish, you may discard this condition to discard a Free Peoples condition from play.'
+  lore: The wicked, flying beasts of the Ringwraiths snatched warriors from the battlefield and flung them like leaves in the wind.
+de:
+  title: Dunkle Flügel
+  subtitle: ''
+  text: 'Jedes Mal, wenn dein :wraith: Diener einen Kampf gewinnt, darfst du diesen Effekt ablegen, um einen Freie Völker Effekt abzulegen.'
+  lore: Die grausamen, fliegenden Bestien der Ringgeister schnappten sich Krieger vom Schlachtfeld und verstreuten sie wie Blätter im Wind.

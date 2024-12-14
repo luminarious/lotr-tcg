@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '115'
+unique: true
+culture: Gondor
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Defend It and Hope
+  subtitle: ''
+  text: '**Maneuver:** Exert a :gondor: Man to wound a minion once (or twice if that minion is an Uruk-hai). '
+  lore: ‘Is it not said that no foe has ever taken the Hornburg, if men defended it?’
+de:
+  title: Haltet aus und hofft
+  subtitle: ''
+  text: '**Manöver:** Strenge einen :gondor: Menschen an, um einen Diener einmal zu verwunden (oder zweimal, wenn der Diener ein Uruk-hai ist).'
+  lore: Heißt es nicht, dass die Hornburg noch nie eingenommen wurde, wenn Menschen sie verteidigten?
+fr:
+  title: Défendons-le, et Espérons
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Homme :gondor: pour blesser un séide une fois (ou deux fois si ce séide est un Ourouk-Haï).'
+  lore: 'Ne dit-on pas qu''aucun ennemi n''a jamais pris le Fort le Cor si des hommes le défendaient?” '
+it:
+  title: Difendiamolo e Speriamo
+  subtitle: ''
+  text: '**Manovra:** Sforza un Uomo :gondor: per ferire un servitore una volta (o due volte se quel servitore è un Uruk-hai).'
+  lore: ‘Non si dice forse che mai nemico prese il Trombatorrione, difeso dagli Uomini?’
+es:
+  title: Defendámosla y Confiemos
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un Hombre :gondor: para herir un siervo (o herir un siervo dos veces si ese siervo es un Uruk-hai).'
+  lore: ¿No se dice acaso que ningún enemigo tomó jamás Cuernavilla, cuando la defendieron los hombres?

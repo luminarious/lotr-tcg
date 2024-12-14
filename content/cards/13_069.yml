@@ -1,0 +1,22 @@
+set: '13'
+rarity: C
+number: '69'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Heirs of Gondor
+  subtitle: ''
+  text: |-
+    When you play this, add a :gondor: token here.  
+    **Skirmish:** Discard this from play or remove a token from here to make a :gondor: companion bearing a hand weapon strength +2.
+  lore: ‘And Eldarion our son is a man full-ripe for kingship.’
+de:
+  title: Die Erben Gondors
+  subtitle: ''
+  text: |-
+    Lege eine :gondor: Marke auf diese Karte, wenn du sie spielst.  
+    **Kampf:** Lege diesen Effekt ab oder entferne hier eine Marke, um einem :gondor: Gefährten, der mit einer Handwaffe ausgerüstet ist, Stärke +2 zu geben.
+  lore: Und Eldarion, unser Sohn, ist ein Mann, der durchaus reif ist für die Königswürde.

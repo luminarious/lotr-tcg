@@ -1,0 +1,18 @@
+set: '10'
+rarity: C
+number: '30'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: End of the Game
+  subtitle: ''
+  text: 'Make an exhausted :gondor: companion strength +2. If that companion wins this skirmish, heal that companion or make him or her **damage +1.** '
+  lore: …he drew Andúril and held it up glittering in the sun. ‘You shall not be sheathed again until the last battle is fought,’ he said.
+de:
+  title: Der letzte Kampf
+  subtitle: ''
+  text: 'Gib einem erschöpften :gondor: Gefährten Stärke +2. Wenn dieser Gefährte diesen Kampf gewinnt, heile ihn oder gib ihm **Schaden +1**.'
+  lore: … zog er Andúril und hob es hoch, und es glitzerte in der Sonne. "Du sollst nicht wieder in die Scheide gesteckt werden, bis die letzte Schlacht ausgefochten ist", sagte er.

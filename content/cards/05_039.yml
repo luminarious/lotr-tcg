@@ -1,0 +1,40 @@
+set: '5'
+rarity: R
+number: '39'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+vit: '-2'
+en:
+  title: Stone Tower
+  subtitle: ''
+  text: |-
+    **Fortification.**Plays to your support area.  
+    **Skirmish:** Exert 2 :gondor: Men to transfer this condition from your support area to a minion skirmishing a :gondor: Man.
+  lore: The battlements of Osgiliath provided some defense against Sauron’s attackers.
+de:
+  title: Steinerner Turm
+  subtitle: ''
+  text: '**Befestigung.** **Kampf:** Strenge 2 :gondor: Menschen an, um diesen Effekt aus deinem Unterstützungsbereich auf einen Diener zu verschieben, der gegen einen :gondor: Menschen kämpft.'
+  lore: Die Festungsmauern von Osgiliath boten ein wenig Schutz gegen Saurons Angreifer.
+fr:
+  title: Tour de Pierre
+  subtitle: ''
+  text: |-
+    **Fortification.**   
+    **Combat :** Affaiblissez 2 Hommes :gondor: pour transférer cette situation de votre aire de soutien à un séide qui combat un Homme :gondor:.
+  lore: Les remparts d'Osgiliath offraient quelque défense contre les attaquants de Sauron.
+it:
+  title: Torre di Pietra
+  subtitle: ''
+  text: |-
+    **Fortificazione.**   
+    **Schermaglia:** Sforza 2 Uomini :gondor: per trasferire questa condizione dalla tua area di supporto a un servitore che sta schermagliando con un Uomo :gondor:.
+  lore: Le fortificazioni di Osgiliath fornirono una certa difesa contro gli attaccanti di Sauron.
+es:
+  title: Torre de piedra
+  subtitle: ''
+  text: '**Fortificación.** **Escaramuza:** Esfuerza 2 Hombres :gondor: para tansferir esta condición de tu área de apoyo a un siervo que esté en una escaramuza contra un Hombre :gondor:.'
+  lore: Las almenas de Osgiliath proporcionaron algo de defensa contra los atacantes de Sauron.

@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '161'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Concerning Hobbits
+  subtitle: ''
+  text: 'For each dwelling and forest site on the adventure path, make a Hobbit strength +1. '
+  lore: …they love peace and quiet and good tilled earth; a well-ordered and well-farmed countryside was their favorite haunt.
+de:
+  title: Über Hobbits
+  subtitle: ''
+  text: Gib einem Hobbit Stärke +1 für jede Heimstatt und jeden Wald auf dem Abenteuerpfad.
+  lore: '… sie lieben Frieden und Stille und einen gut bestellten Boden: eine wohlgeordnete und wohlbewirtschaftete ländliche Gegend war ihr bevorzugter Aufenthaltsort.'

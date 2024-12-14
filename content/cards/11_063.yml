@@ -1,0 +1,18 @@
+set: '11'
+rarity: C
+number: '63'
+unique: true
+culture: Gondor
+type: Event
+class: Fellowship
+cost: 3
+en:
+  title: Much-needed Rest
+  subtitle: ''
+  text: 'Heal each :gondor: companion who has resistance 5 or more.'
+  lore: '‘A guest-house shall be made ready: there you shall sleep, when you have eaten.’'
+de:
+  title: Dringend benötigte Ruhepause
+  subtitle: ''
+  text: 'Heile jeden :gondor: Gefährten, dessen Resistenz 5 oder mehr beträgt.'
+  lore: 'Ein Gästehaus soll bereitgemacht werden: dort sollt ihr schlafen, wenn ihr gegessen habt.'

@@ -1,0 +1,35 @@
+set: '1'
+rarity: R
+number: '1'
+unique: true
+culture: ''
+type: Ring
+en:
+  title: The One Ring
+  subtitle: Isildur's Bane
+  text: |-
+    **Response:** If bearer is about to take a wound, he wears The One Ring until the regroup phase.   
+    While wearing The One Ring, each time the Ring-bearer is about to take a wound, add two burdens instead.
+  lore: ‘…the Ring slipped from his finger as he swam….’
+de:
+  title: Der Eine Ring
+  subtitle: Isildurs Fluch
+  text: '**Reaktion:** Wenn der Ringträger im Begriff ist, eine Wunde zu erleiden, kann er den Ring bis zur Sammelphase benutzen. Solange er den Ring benutzt, erhält der Ringträger für jede Wunde, die ihm zugefügt wird, statt dessen 2 Lastmarken.'
+  lore: …doch der Ring glitt von seinem Finger, als er schwamm…
+fr:
+  title: L'Anneau Unique
+  subtitle: Fléau d'Isildur
+  text: '**Réponse :** Si le détenteur est sur le point de se faire blesser, il met l’Anneau Unique jusqu’à la phase de ralliement. Tant qu’il a l’Anneau Unique au doigt, chaque fois que le Porteur de l’Anneau est sur le point de se faire blesser, ajoutez plutôt 2 points-fardeau.'
+  lore: ‘…l'Anneau glissa de son doigt tandis qu'il nageait….’
+it:
+  title: L'Unico Anello
+  subtitle: Flagello di Isildur
+  text: |-
+    **Risposta:** Se il possessore sta per essere ferito, indossa L’Unico Anello fino alla fase di raccolta.  
+    Finché indossa L’Unico Anello, ogni volta che il Portatore dell’Anello subirebbe una ferita, aggiungi invece 2 segnalini fardello.
+  lore: ‘…mentre nuotava l'Anello gli scivolò dal dito….’
+es:
+  title: El Anillo Único
+  subtitle: El Daño de Isildur
+  text: '**Respuesta:** Si el portador va a recibir una herida, se pone El Anillo Único hasta la fase de reagrupación. Mientras lleve El Anillo Único puesto, cada vez que el Portador del Anillo vaya a recibir una herida, en vez de eso añade dos Cargas.'
+  lore: …el Anillo se le salió del dedo mientras nadaba…

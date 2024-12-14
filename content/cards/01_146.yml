@@ -1,0 +1,44 @@
+set: '1'
+rarity: C
+number: '146'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Uruk Fighter
+  subtitle: ''
+  text: |-
+    **Damage +1**.   
+    **Maneuver:** Spot 5 companions to make this minion **fierce** until the regroup phase.
+  lore: Not stealth or cunning, but strength and ferocity are the weapons of Saruman’s army of abominations.
+de:
+  title: Uruk Kämpfer
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    **Manöver:** Entdecke 5 Gefährten, um den Uruk Kämpfer bis zur Sammelphase **Erbittert** zu machen.
+  lore: Nicht Heimlichkeit oder Gerissenheit, sondern vielmehr Kraft und Wildheit sind die Waffen, derer sich Sarumans abscheuliche Armee bedient.
+fr:
+  title: Combattant Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    **Manœuvre :** Désignez 5 compagnons pour rendre ce séide **acharné** jusqu’à la phase de ralliement.
+  lore: Ni rusées ni ingénieuses, mais fortes et féroces sont les armes de l'armée d'abominations de Saroumane.
+it:
+  title: Combattente Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    **Manovra:** Avvista 5 compagni per rendere questo servitore **Feroce** fino alla fase di raccolta.
+  lore: Non azioni furtive o astuzia, ma forza e ferocia sono le armi dell'esercito di abomini di Saruman.
+es:
+  title: Luchador Uruk
+  subtitle: ''
+  text: '**Daño +1.** **Maniobra:** Avista 5 compañeros para dar a este siervo**fiero** hasta la fase de reagrupación.'
+  lore: Ni el sigilo ni la astucia, sino la fuerza y la ferocidad son las armas del ejercito de abominaciones de Saruman.

@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '11'
+unique: true
+culture: Dwarven
+type: Event
+class: Response
+cost: 0
+en:
+  title: Nobody Tosses a Dwarf
+  subtitle: ''
+  text: If a Dwarf wins a skirmish, make an opponent discard 3 cards from the top of his or her draw deck.
+  lore: ‘My folk have never had dealings with any of the servants of the Enemy.’
+de:
+  title: Niemand schubst einen Zwerg herum!
+  subtitle: ''
+  text: Wenn ein Zwerg einen Kampf gewinnt, muss ein Gegenspieler die obersten 3 Karten von seinem Spieldeck ablegen.
+  lore: Mein Volk hat niemals mit irgendeinem der Diener des Feindes etwas zu tun gehabt.

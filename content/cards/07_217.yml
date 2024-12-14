@@ -1,0 +1,21 @@
+set: '7'
+rarity: U
+number: '217'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Nertëa
+  subtitle: Black-Mantled Wraith
+  text: '**Regroup:** If you have initiative, discard Úlairë Nertëa to add a burden.'
+  lore: ‘I fear that Minas Tirith shall fall. Night comes. The very warmth of my blood seems stolen away.’
+de:
+  title: •Úlairë Nertëa
+  subtitle: Schwarz gewandetes Gespenst
+  text: '**Sammeln:** Wenn du die Initiative besitzt, lege Úlairë Nertëa ab, um eine Lastmarke auf den Ringträger zu legen.'
+  lore: Ich fürchte, Minas Tirith wird fallen. Die Nacht kommt. Sogar die Wärme meines Blutes scheint sich davongestohlen zu haben.

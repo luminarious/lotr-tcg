@@ -1,0 +1,18 @@
+set: '1'
+rarity: R
+number: '80'
+unique: true
+culture: Gandalf
+type: Ally
+race: Man
+cost: 1
+str: '2'
+vit: '2'
+site: '3'
+en:
+  title: Ottar
+  subtitle: Man of Laketown
+  text: |-
+    To play, spot Gandalf.   
+    **Fellowship:** Exert Ottar to discard up to 3 cards from hand and draw an equal number of cards.
+  lore: The Men of Laketown come from the North, where they trade with the Dwarves of the Lonely Mountain.

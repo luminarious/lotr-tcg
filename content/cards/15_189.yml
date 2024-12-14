@@ -1,0 +1,13 @@
+set: '15'
+rarity: S
+number: '189'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Right
+en:
+  title: City Gates
+  subtitle: ''
+  text: When the Fellowship moves to this site, add a threat (or 2 if you can spot a hunter minion) for each companion over 4.
+  lore: ''

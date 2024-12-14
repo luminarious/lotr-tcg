@@ -1,0 +1,44 @@
+set: '1'
+rarity: C
+number: '152'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Uruk Shaman
+  subtitle: ''
+  text: |-
+    **Damage +1**.   
+    **Maneuver:** Remove :twilight2: to heal an Uruk-hai.
+  lore: Uruk shamans know the arts of healing as well as those of battle.
+de:
+  title: Uruk Schamane
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    **Manöver:** Verringere den Einfluss um :twilight2:, um einen Uruk-hai zu heilen.
+  lore: Uruk Schamanen kennen die Kunst des Heilens genauso wie die des Kämpfens.
+fr:
+  title: Chaman Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    **Manœuvre :** Retirez :twilight2: pour guérir un Ourouk-Haï.
+  lore: Les chamans Ourouks connaissent les arts de la guérison aussi bien que ceux de la bataille.
+it:
+  title: Uruk Sciamano
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    **Manovra:** Rimuovi :twilight2: per curare un Uruk-hai.
+  lore: Gli sciamani Uruk conoscono bene l'arte di curare quanto quella della battaglia.
+es:
+  title: Chamán Uruk
+  subtitle: ''
+  text: '**Daño +1.** **Maniobra:** Quita :twilight2: para curar un Uruk-hai.'
+  lore: Los curanderos Uruk conocen las artes de la curación así como las de la batalla.

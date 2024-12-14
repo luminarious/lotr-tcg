@@ -1,0 +1,39 @@
+set: '2'
+rarity: R
+number: '22'
+unique: true
+culture: Gandalf
+type: Artifact
+class: Staff
+cost: 2
+vit: '+1'
+en:
+  title: Gandalf's Staff
+  subtitle: ''
+  text: |-
+    Bearer must be Gandalf.   
+    The twilight cost of each :gandalf: spell is -1.   
+    **Skirmish:** Exert Gandalf twice to cancel a skirmish involving him. 
+  lore: As the wizard passed on ahead up the great steps, he held his staff aloft, and from its tip there came a faint radiance.
+de:
+  title: Gandalfs Stab
+  subtitle: ''
+  text: 'Muss auf Gandalf gespielt werden. Die Zwielichtkosten für jeden :gandalf: Zauberspruch reduzieren sich um 1. **Kampf** Strenge Gandalf zweimal an, um einen Kampf, an dem er beteiligt ist, aufzuheben.'
+  lore: Als der Zauberer voranging auf den großen Stufen, hielt er seinen Stab hoch, und aus seiner Spitze drang ein schwaches Licht.
+fr:
+  title: Le Bâton de Gandalf
+  subtitle: ''
+  text: 'Le détenteur doit être Gandalf. Le coût crépusculaire de chaque sort :gandalf: est de -1. **Combat :** Affaiblissez Gandalf deux fois pour annuler un combat auquel il participe.'
+  lore: 'Tandis que le magicien passait en avant sur les grandes marches, il brandissait son bâton, et de l''extrémité vint une faible radiation. '
+it:
+  title: Bastone di Gandalf
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Gandalf. Sottrai -1 al costo crepuscolo di ogni magia :gandalf:.   
+    **Schermaglia:** Sforza Gandalf due volte per cancellare una schermaglia che lo coinvolga.
+  lore: Lo stregone salì i grandi scalini, giungendo in capo alla fila; la punta del suo bastone alzato irradiava un pallido bagliore.
+es:
+  title: La vara de Gandalf
+  subtitle: ''
+  text: 'El portador debe ser Gandalf. El coste de penumbra de cada conjuro :gandalf: es -1. **Escaramuza:** Esfuerza dos veces a Gandalf para cancelar una escaramuza en la que él esté implicado.'
+  lore: Mientras el mago se adelantaba subiendo los grandes escalones, alzó la vara, y de la punta brotó un débil resplandor.

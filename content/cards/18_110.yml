@@ -1,0 +1,15 @@
+set: '18'
+rarity: U
+number: '110'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Prized Lagan
+  subtitle: ''
+  text: |-
+    At the start of each turn, you may add :twilight2: to heal a :shire: companion.  
+    **Maneuver:** Add a threat to spot a minion. That minion loses **fierce** and cannot gain fierce until the regroup phase.
+  lore: We are sitting on the field of victory, enjoying a few well-earned comforts.

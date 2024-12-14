@@ -1,0 +1,25 @@
+set: '13'
+rarity: R
+number: '158'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '3'
+site: 5
+en:
+  title: Assault Commander
+  subtitle: ''
+  text: |-
+    **Damage +1.  
+    Shadow:** Exert this minion and spot a Free Peoples condition to make an unbound companion resistance –1 for each card that has the same card title as that condition.
+  lore: Fear is a potent weapon in the hands of an Uruk-hai.
+de:
+  title: Kommandant des Sturmangriffs
+  subtitle: ''
+  text: |-
+    **Schaden +1.  
+    Schatten:** Strenge diesen Diener an und entdecke einen Effekt der Freien Völker, um einem nicht-verbundenen Gefährten Resistenz -1 für jede Karte mit dem gleichen Namen wie dieser Effekt, zu geben.
+  lore: Furcht ist eine mächtige Waffe der Uruk-hai .

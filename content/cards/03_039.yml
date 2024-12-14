@@ -1,0 +1,41 @@
+set: '3'
+rarity: R
+number: '39'
+unique: true
+culture: Gondor
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Banner of the White Tree
+  subtitle: ''
+  text: |-
+    **Tale.**   
+    **Maneuver:** Exert a :gondor: companion to make that companion strength +3 and **defender +1** until the regroup phase.
+  lore: ‘Many Elves and many mighty Men, and many of their friends, had perished in the war.’
+de:
+  title: Das Banner des weißen Baumes
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    **Manöver:** Strenge einen :gondor: Gefährten an, um diesem Stärke +3 zu geben und ihn **Verteidiger +1** zu machen.
+  lore: Viele Elben und viele mächtige Menschen und viele ihrer Freunde gingen im Krieg zugrunde.
+fr:
+  title: La Bannière de l'Arbre Blanc
+  subtitle: ''
+  text: 'Récit **Manœuvre :** Affaiblissez un compagnon :gondor: pour donner à ce compagnon +3 en force et le rendre **défenseur +1** jusqu’à la phase de ralliement.'
+  lore: 'Un grand nombre d''Elfes, ainsi que beaucoup d''hommes puissants et de leurs amis avait péri à la guerre.” '
+it:
+  title: Stendardo dell'Albero Bianco
+  subtitle: ''
+  text: |-
+    **Racconto.**   
+    **Manovra:** Sforza un compagno :gondor: per aggiungere a quel compagno +3 alla forza e **Difensore +1** fino alla fase di raccolta.
+  lore: ‘Molti Elfi e molti Uomini valorosi e molti amici di entrambi perirono nella guerra.’
+es:
+  title: Estandarte del Árbol Blanco
+  subtitle: ''
+  text: |-
+    **Cuento.**   
+    **Maniobra:** Esfuerza un compañero :gondor: para darle a ese compañero, hasta la fase de reagrupación, fuerza +3 y **defensor +1.**
+  lore: Muchos Elfos y muchos poderosos Hombres, y muchos de sus amigos, han perecido en la guerra.

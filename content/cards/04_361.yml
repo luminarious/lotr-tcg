@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '361'
+unique: true
+culture: ''
+type: Site
+cost: 8
+siteArrow: Left
+en:
+  title: Orthanc Balcony
+  subtitle: ''
+  text: '**Battleground.** **Shadow:** Play Saruman from your discard pile; his twilight cost is -2. '
+  lore: ''
+de:
+  title: Der Balkon des Orthanc
+  subtitle: ''
+  text: '**Schlachtfeld.** **Schatten:** Spiele Saruman aus deinem Ablagestapel; seine Zwielichtkosten sind um 2 reduziert.'
+  lore: ''
+fr:
+  title: Le Balcon d'Orthanc
+  subtitle: ''
+  text: '**Champ de bataille.** Ombre : Jouez Saroumane de votre pile de défausse; son coût crépusculaire est de -2.'
+  lore: '9'
+it:
+  title: Balcone di Orthanc
+  subtitle: ''
+  text: '**Campo di Battaglia.** **Ombra:** Gioca Saruman dalla tua pila degli scarti; sottrai -2 al suo costo **Crepuscolo.**'
+  lore: ''
+es:
+  title: Balconada De Orthanc
+  subtitle: ''
+  text: '**Campo de batalla.** **Sombra:** Juega a Saruman de tu pila de descartes; su coste de penumbra es -2.'
+  lore: ''

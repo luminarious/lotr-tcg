@@ -1,0 +1,33 @@
+set: '6'
+rarity: C
+number: '10'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Suspended Palaces
+  subtitle: ''
+  text: 'When you play this condition, you may spot a Dwarf to place 2 :dwarven: tokens here. **Fellowship:** Discard this condition or remove a :dwarven: token from here to stack the top card of your draw deck on a :dwarven: condition that has a card stacked on it.'
+  lore: ''
+de:
+  title: Hängende Paläste
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Du darfst einen Zwerg entdecken, um 2 :dwarven: Marken hierhin zu legen, wenn du sie spielst. **Gemeinschaft:** Entferne eine :dwarven: Marke von dieser Karte oder lege diesen Effekt ab, um die oberste Karte von deinem Spi'
+  lore: ''
+fr:
+  title: Palais Suspendus
+  subtitle: ''
+  text: 'Quand vous jouez cette situation, vous pouvez désigner un Nain pour déposer 2 jetons :dwarven: ici. **Compagnie :** Défaussez cette situation ou retirez un jeton :dwarven: de cette carte pour empiler la première carte de votre pioche sur'
+  lore: ''
+it:
+  title: Palazzi Sospesi
+  subtitle: ''
+  text: 'Quando giochi questa condizione, puoi avvistare un Nano per piazzare qui 2 segnalini :dwarven:. **Compagnia:** Scarta questa condizione o rimuovi da qui un segnalino :dwarven: per impilare la prima carta del tuo mazzo di gioco su una cond'
+  lore: ''
+es:
+  title: Palacios colgantes
+  subtitle: ''
+  text: 'Cuando juegas esta condición, puedes avistar un Enano para colocar 2 contadores :dwarven: aquí. **Comunidad:** Descarta esta condición o quita un contador :dwarven: de aquí para apilar la carta superior de tu mazo de robar en una condición :dwarven: que'
+  lore: ''

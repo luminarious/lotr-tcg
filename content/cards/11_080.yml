@@ -1,0 +1,23 @@
+set: '11'
+rarity: U
+number: '80'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 6
+str: '12'
+vit: '3'
+site: 4
+en:
+  title: Ferocious Haradrim
+  subtitle: ''
+  text: '**Archer.** Each time a Free Peoples character is killed, each of your :men: minions is strength +3 until the regroup phase. '
+  lore: The killing frenzy of the Southrons is in stark contrast to the cool efficiency of Easterling columns.
+de:
+  title: Grausame Haradrim
+  subtitle: ''
+  text: |-
+    **Bogenschütze**.  
+    Jedes Mal, wenn ein Charakter der Freien Völker getötet wird, erhält jeder deiner :men: Diener bis zur Sammelphase Stärke +3.
+  lore: Der wilde Blutrausch der Südländer steht im krassen Gegensatz zur kalten Effizienz der Ostlingkolonnen.

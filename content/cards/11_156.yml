@@ -1,0 +1,20 @@
+set: '11'
+rarity: U
+number: '156'
+unique: true
+culture: Rohan
+type: Possession
+class: Mount
+cost: 2
+en:
+  title: Rohirrim Mount
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.   
+    At the start of each skirmish involving bearer, each minion skirmishing bearer must exert. While bearer is at a plains site, he or she is **defender +1.**
+  lore: The Eorlingas raise horses both peerless and cherished.
+de:
+  title: Reittier der Rohirrim
+  subtitle: ''
+  text: 'Muss auf einen :rohan: Menschen gespielt werden. Zu Beginn jedes Kampfes, an dem der Reiter beteiligt ist, muss sich jeder Diener anstrengen, der gegen den Reiter kämpft. Solange sich der Reiter auf einer Ebene befindet, ist er **Verteidiger +1**.'
+  lore: Die Eorlingas züchten einzigartige und hochgeschätzte Pferde.

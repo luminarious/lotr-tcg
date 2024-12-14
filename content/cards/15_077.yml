@@ -1,0 +1,16 @@
+set: '15'
+rarity: C
+number: '77'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Easterling Scout
+  subtitle: ''
+  text: '**Skirmish:** If this minion is skirmishing, discard this minion to play a :men: minion from your discard pile. That minion is **fierce** until the regroup phase.'
+  lore: In battle, Easterlings surprise their foes with a great number of different techniques.

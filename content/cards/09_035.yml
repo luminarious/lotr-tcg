@@ -1,0 +1,22 @@
+set: '9'
+rarity: R
+number: '35'
+unique: true
+culture: Gondor
+type: Artifact
+class: Support Area
+cost: 1
+en:
+  title: Sapling of the White Tree
+  subtitle: ''
+  text: |-
+    To play, spot an unbound :gondor: Man.   
+    **Response:** If a :gondor: Man is about to take a wound, discard this :gondor: artifact to prevent that. 
+  lore: ‘Verily this is a sapling of the line of Nimloth the fair; and that was a seedling of Galathilion, and that a fruit of Telperion of many names, Eldest of Trees.’
+de:
+  title: Schössling des weißen Baumes
+  subtitle: ''
+  text: |-
+    Entdecke einen nicht-verbundenen :gondor: Menschen, um diese Karte zu spielen.   
+    **Reaktion:** Lege dieses :gondor: Artefakt ab, wenn ein :gondor: Mensche eine Wunde erleidet, um diese Wunde zu verhindern.
+  lore: Fürwahr, das ist ein Schössling aus dem Stamm von Nimloth dem Schönen; und der war ein Sämling von Galathilion, und dieser wiederum die Frucht von Telperion, dem Vielnamigen, dem Ältesten der Bäume.

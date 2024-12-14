@@ -1,0 +1,44 @@
+set: '4'
+rarity: R
+number: '229'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 1
+str: '5'
+vit: '1'
+site: 4
+en:
+  title: Easterling Skirmisher
+  subtitle: ''
+  text: |-
+    **Easterling.**   
+    When you play this minion, you may spot another Easterling to add :twilight1: for each burden (limit :twilight4:). 
+  lore: Enemy formations are threatened by the spears of Easterling light troops.
+de:
+  title: Ostling Plänkler
+  subtitle: ''
+  text: |-
+    **Ostling.**  
+    Wenn du diesen Diener spielst, darfst du einen anderen Ostling entdecken, um den Einfluss um :twilight1: für jede Lastmarke zu erhöhen (maximal um :twilight4:).
+  lore: Feindliche Formationen werden von den Speeren der leichten Truppen der Ostlinge bedroht.
+fr:
+  title: Batailleur Oriental
+  subtitle: ''
+  text: |-
+    **Oriental.**  
+    Lorsque vous jouez ce séide, vous pouvez désigner un autre Oriental pour ajouter :twilight1: pour chaque point-fardeau (limite :twilight4:).
+  lore: Les formations ennemies sont menacées par les lances des troupes orientales légères.
+it:
+  title: Schermagliatore Esterling
+  subtitle: ''
+  text: |-
+    **Esterling.**  
+    Quando giochi questo servitore, puoi avvistare un altro Esterling per aggiungere :twilight1: per ogni segnalino fardello (limite :twilight4:).
+  lore: Le formazioni nemiche vengono minacciate dalle lance delle truppe leggere Esterling.
+es:
+  title: Hostigador Oriental
+  subtitle: ''
+  text: '**Oriental.** Cuando juegas este siervo, puedes avistar otro Oriental para añadir :twilight1: por cada carga (límite :twilight4:).'
+  lore: Las formaciones enemigas se ven amenazadas por las lanzas de las tropas ligeras de los Orientales.

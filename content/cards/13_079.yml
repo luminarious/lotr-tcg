@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '79'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Pallando Deceived
+  subtitle: ''
+  text: At the start of the maneuver phase, you may exert a Wizard to make this condition a **fierce** Wizard minion until the start of the regroup phase that has 10 strength and 1 vitality, and cannot take wounds or bear other cards. This card is still a condition.
+  lore: ‘We may join with that Power.’
+de:
+  title: Pallando getäuscht
+  subtitle: ''
+  text: Zu Beginn der Manöverphase darfst du einen Zauberer anstrengen, um diesen Effekt bis zum Beginn der Sammelphase zu einem **erbitterten** Zaubererdiener zu machen, der eine Stärke von 10 und 1 Lebenspunkt hat. Er kann keine Wunden erleiden oder mit anderen Karten versehen werden. Diese Karte bleibt ein Effekt.
+  lore: ''

@@ -1,0 +1,35 @@
+set: '3'
+rarity: R
+number: '104'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Tower of Barad-dûr
+  subtitle: ''
+  text: |-
+    To play, exert a :sauron: minion.   
+    Each time the fellowship moves, the Free Peoples player must discard a card from hand. 
+  lore: The Dark Tower had been rebuilt, it was said. From there the power was spreading….
+de:
+  title: Der Turm von Barad-dûr
+  subtitle: ''
+  text: 'Strenge einen :sauron: Diener an, um diese Karte in deinen Unterstützungsbereich zu spielen. Jedes Mal, wenn sich die Gemeinschaft bewegt, muss der Freie Völker Spieler eine Karte aus seiner Hand ablegen.'
+  lore: Der Dunkle Turm sei wieder aufgebaut worden, hieß es. Von dort breitete sich die Macht weitum aus….
+fr:
+  title: La Tour de Barad-dûr
+  subtitle: ''
+  text: Pour jouer, affaiblissez un séide :sauron:. Chaque fois que la compagnie se déplace, le joueur des Peuples Libres doit défausser une carte de sa main.
+  lore: 'La Tour Noire avait été reconstruite, à ce qu''on disait. De là, la puissance s''étendait… '
+it:
+  title: Torre di Barad-dûr
+  subtitle: ''
+  text: Per giocarla, sforza un servitore :sauron:. Ogni volta che la compagnia si muove, il giocatore dei Popoli Liberi deve scartare una carta dalla sua mano.
+  lore: 'La Torre Oscura pareva fosse stata ricostruita: da lì le forze si diramavano in tutte le direzioni…'
+es:
+  title: Torre de Barad-dûr
+  subtitle: ''
+  text: Para jugarla, avista un siervo :sauron:. Cada vez que la comunidad se mueve, el jugador de Gentes Libres debe descartar una carta de su mano.
+  lore: La Torre Oscura ha sido erguida de nuevo, se dijo. Desde ahí el poder iba expandiéndose…

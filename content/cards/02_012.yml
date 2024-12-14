@@ -1,0 +1,37 @@
+set: '2'
+rarity: R
+number: '12'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Realm of Dwarrowdelf
+  subtitle: ''
+  text: |-
+
+    **Skirmish:** Discard the top 3 cards from your draw deck to make a Dwarf strength +1 (limit +3) and, if underground, **damage +1** (limit +3). 
+  lore: ‘There must have been a mighty crowd of dwarves here… and every one of them busier than badgers….’
+de:
+  title: Das Reich Zwergenbinge
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. **Kampf** Lege die obersten 3 Karten von deinem Spieldeck ab, um einem Zwerg Stärke +1 zu geben (maximal +3) und an einem unterirdischen Ort **Schaden +1** (maximal +3).
+  lore: Da muß aber einstmals eine gewaltige Schar von Zwergen hier gewesen sein… Und jeder von ihnen muß fünfhundert Jahre lang eifriger geschafft haben als Dachse.
+fr:
+  title: Royaume du Cavenain
+  subtitle: ''
+  text: '**Combat :** Défaussez les 3 premières cartes de votre pioche pour donner +1 en force à un Nain (limite de +3) et, si à un site souterrain, **dégâts +1** (limite de +3).'
+  lore: 'Il devait y avoir une grande foule de Nains ici à une certaine époque… et tous plus actifs que des blaireaux…” '
+it:
+  title: Regno di Nanosterro
+  subtitle: ''
+  text: |-
+
+    **Schermaglia:** Scarta le prime 3 carte dal tuo mazzo di gioco per aggiungere +1 alla forza di un Nano (al massimo +3) e, se in un sotterraneo, **Danno +1** (al massimo +3).
+  lore: ‘Ci dev'essere stata una gran folla di Nani qui, un tempo… ed ognuno più laborioso di un tasso…’
+es:
+  title: Reino de la mina del Enano
+  subtitle: ''
+  text: '**Escaramuza:** Descarta las 3 cartas superiores de tu mazo de robar para dar a un Enano fuerza +1 (límite +3) y, si está en un sitio subterráneo, **daño +1** (límite +3).'
+  lore: Debía haber una gran multitud de enanos aquí… y cada uno de ellos más atareado que un tejón…

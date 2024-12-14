@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '30'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Uncertain Paths
+  subtitle: ''
+  text: Make an Elf strength +2 and you may shuffle your draw deck.
+  lore: ‘But defenders and foes alike gave up the battle….’
+de:
+  title: Ungewisse Zukunft
+  subtitle: ''
+  text: Gib einem Elben Stärke +2. Du darfst dein Spieldeck mischen.
+  lore: Aber Verteidiger und Feinde gleichermaßen gaben die Schlacht auf….

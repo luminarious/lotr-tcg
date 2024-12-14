@@ -1,0 +1,40 @@
+set: '5'
+rarity: R
+number: '69'
+unique: true
+culture: Isengard
+type: Condition
+cost: 2
+en:
+  title: Wolves of Isengard
+  subtitle: ''
+  text: |-
+    Plays on a plains site you control.   
+    **Regroup:** Exert an :isengard: Orc to make the Free Peoples player wound a companion.
+  lore: Saruman’s warg-riders traveled the plains faster than even the Riders of Rohan.
+de:
+  title: Wölfe aus Isengart
+  subtitle: ''
+  text: 'Spiel diese Karte auf eine Ebene, die du kontrollierst. **Sammeln:** Strenge einen :isengard: Ork an, um den Freie Völker Spieler zu zwingen, einen Gefährten zu verwunden.'
+  lore: Sarumans Wargreiter ritten noch schneller über die Ebenen als die Reiter von Rohan.
+fr:
+  title: Loups de l'Isengard
+  subtitle: ''
+  text: |-
+    Jouable sur un site de plaines que vous contrôlez.   
+    **Ralliement :** Affaiblissez un Orque :isengard: pour forcer le joueur des Peuples Libres à blesser un compagnon.
+  lore: Les chevaucheurs de ouargues de Saroumane traversèrent les plaines encore plus rapidement que les cavaliers de Rohan.
+it:
+  title: Lupi di Isengard
+  subtitle: ''
+  text: |-
+    Giocala su un sito pianura che controlli.   
+    **Raccolta:** Sforza un Orco :isengard: per far ferire un compagno al giocatore dei Popoli Liberi.
+  lore: I cavalcalupi di Saruman attraversavano le pianure più veloci perfino dei Cavalieri di Rohan.
+es:
+  title: Lobos de Isengard
+  subtitle: ''
+  text: |-
+    Se juega en un sitio llanura que tu controles.   
+    **Reagrupación:** Esfuerza un Orco :isengard: para hacer que el jugador de Gentes Libres hiera un compañero.
+  lore: Los jinetes de huargo de Saruman viajaron por las llanuras incluso más rápidos que los Jinetes de Rohan.

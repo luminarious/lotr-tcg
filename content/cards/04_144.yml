@@ -1,0 +1,35 @@
+set: '4'
+rarity: R
+number: '144'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Burning of Westfold
+  subtitle: ''
+  text: |-
+
+    **Shadow:** If you control a site, play an Uruk-hai to discard a Free Peoples condition. 
+  lore: ‘We have found many of our folk lying slain as they fled….’
+de:
+  title: Westfold in Flammen
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. **Schatten:** Spiele einen Uruk-hai, um einen Effekt der Freien Völker abzulegen, wenn du einen Ort kontrollierst.
+  lore: Wir haben viele von unseren Leuten hier gefunden, die erschlagen worden sind, als sie hierher flohen.
+fr:
+  title: L'Incendie de l'Ouestfolde
+  subtitle: ''
+  text: 'Ombre : Si vous contrôlez un site, jouez un Ourouk-Haï pour défausser une situation des Peuples Libres.'
+  lore: 'Nous avons trouvé plusieurs des nôtres, massacrés alors qu''ils tentaient de s''échapper…” '
+it:
+  title: L'Incendio dell'Ovestfalda
+  subtitle: ''
+  text: '**Ombra:** Se controlli un sito, gioca un Uruk-hai per scartare una condizione dei Popoli Liberi.'
+  lore: ‘Questa era una ricca vallata piena di fattorie.’
+es:
+  title: Quema Del Folde Oeste
+  subtitle: ''
+  text: '**Sombra:** Si controlas un sitio, juega un Uruk-hai para descartar una condición de Gentes Libres.'
+  lore: Hemos encontrado muertos a muchos de nuestros hombres que trataron de huir…

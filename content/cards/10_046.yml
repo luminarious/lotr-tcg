@@ -1,0 +1,18 @@
+set: '10'
+rarity: R
+number: '46'
+unique: true
+culture: Raider
+type: Event
+class: Archery
+cost: 1
+en:
+  title: Quelled
+  subtitle: ''
+  text: 'Exert a :raider: Man to discard a Free Peoples condition. If you spot a :rohan: Man, discard an additional Free Peoples condition.'
+  lore: Against the great mounts of the Southron army, Rohirrim steeds could not easily prevail.
+de:
+  title: Bezwungen
+  subtitle: ''
+  text: 'Strenge einen :raider: Menschen an, um einen Effekt der Freien Völker abzulegen. Wenn du einen :rohan: Gefährten entdeckst, lege einen weiteren Effekt der Freien Völker ab.'
+  lore: Die Pferde der Rohirrim konnten gegen die gewaltige Reittiere der südländischen Armee nur schwer bestehen.

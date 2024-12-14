@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '320'
+unique: true
+culture: Shire
+type: Event
+class: Regroup
+cost: 1
+en:
+  title: Store-room
+  subtitle: ''
+  text: '**Regroup:** Heal an unbound Hobbit once (or twice if you spot Gandalf). '
+  lore: ‘Saruman kept enough wisdom not to trust his Orcs. He had Men to guard his gates…. Anyway, they were favoured and got good provisions.’
+de:
+  title: Vorratsraum
+  subtitle: ''
+  text: '**Sammeln:** Heile einen nicht-verbundenen Hobbit einmal (oder zweimal, wenn du Gandalf entdeckst).'
+  lore: Saruman hat genug Verstand bewahrt, um seinen Orks nicht zu trauen. Er hatte Menschen, die seine Tore bewachten…. Jedenfalls wurden sie bevorzugt und bekamen gute Verpflegung.
+fr:
+  title: Magasin
+  subtitle: ''
+  text: '**Ralliement :** Guérissez une fois un Hobbit dissocié (ou deux fois si vous désignez Gandalf).'
+  lore: 'Saroumane avait conservé suffisamment de sagesse pour ne pas faire confiance à ses Orques. Il avait des hommes pour garder ses portes… En tout cas, ils étaient favorisés et ils recevaient de bons vivres.” '
+it:
+  title: Magazzino
+  subtitle: ''
+  text: '**Raccolta:** Cura una volta un Hobbit Non Legato (o due volte se avvisti Gandalf).'
+  lore: ‘Saruman, nonostante tutto, era ancora abbastanza saggio per non fidarsi dei suoi Orchi. Teneva degli Uomini a guardia del cancello… Comunque erano privilegiati e forniti di ottime provviste.’
+es:
+  title: Almacén
+  subtitle: ''
+  text: '**Reagrupación:** Cura un Hobbit no-vinculado (o cura un Hobbit no-vinculado dos veces si avistas a Gandalf).'
+  lore: Saruman, a pesar de todo, tuvo la prudencia de no fiarse de los Orcos. Eran Hombres los que custodiaban las puertas… Como quiera que sea, ellos fueron los favorecidos y obtuvieron buenas provisiones.

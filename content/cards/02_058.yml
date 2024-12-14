@@ -1,0 +1,45 @@
+set: '2'
+rarity: C
+number: '58'
+unique: true
+culture: Moria
+type: Minion
+race: Creature
+cost: 2
+str: '4'
+vit: '1'
+site: 4
+en:
+  title: Foul Tentacle
+  subtitle: ''
+  text: |-
+    **Tentacle.**   
+    When you play this minion, you may play a tentacle from your draw deck.   
+    This minion may not bear possessions and is discarded if not at a marsh. 
+  lore: Its fingered end had hold of Frodo’s foot, and was dragging him into the water.
+de:
+  title: Widerliches Tentakel
+  subtitle: ''
+  text: |-
+    **Tentakel.**  
+    Wenn du diesen Diener ausspielst, darfst du ein Tentakel direkt aus deinem Spieldeck spielen. Dieser Diener darf keine Ausrüstung erhalten und wird abgelegt, wenn er sich nicht an einem Sumpf befindet.
+  lore: Sein gefingertes Ende hatte Frodos Fuß gepackt und zog ihn ins Wasser.
+fr:
+  title: Tentacule Infecte
+  subtitle: ''
+  text: |
+    **Tentacule.**  
+    Lorsque vous jouez ce séide, vous pouvez jouer un tentacule de votre pioche. Ce séide ne peut détenir de possession et est défaussé s’il n’est pas à un **Marais.**  
+  lore: 'L''extrémité munie de doigts avait saisi le pied de Frodon et l''entraînait dans l''eau. '
+it:
+  title: Tentacolo Ripugnante
+  subtitle: ''
+  text: |-
+    **Tentacolo.**  
+    Quando giochi questo servitore, puoi giocare un tentacolo dal tuo mazzo di gioco. Questo servitore non può portare beni ed è scartato se non si trova in una **Palude.**
+  lore: La sua punta ramificata teneva stretto il piede di Frodo, e lo trascinava nell'acqua.
+es:
+  title: Tentáculo infecto
+  subtitle: ''
+  text: '**Tentáculo.** Cuando juegas este siervo puedes jugar un tentáculo de tu mazo de robar. Este siervo no puede llevar posesiones y es descartado si no está en un Pantano.'
+  lore: Su extremo con dedos tenía a Frodo atrapado por los pies, y lo arrastraba hacia el agua.

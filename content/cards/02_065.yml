@@ -1,0 +1,36 @@
+set: '2'
+rarity: C
+number: '65'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '1'
+site: 4
+en:
+  title: Goblin Spearman
+  subtitle: ''
+  text: 'While bearing a Goblin Spear, this minion is **damage +2.** '
+  lore: …with the speed of a striking snake, he charged into the Company and thrust with his spear….
+de:
+  title: Goblin Speerträger
+  subtitle: ''
+  text: Wenn dieser Diener mit einem Goblinspeer ausgerüstet ist, erhält er **Schaden +2**.
+  lore: …tauchte er mit der Schnelligkeit einer angreifenden Schlange hindurch, stürmte mitten in die Gemeinschaft hinein und stieß seinen Speer genau auf Frodo.
+fr:
+  title: Lancier Gobelin
+  subtitle: ''
+  text: Lorsqu’il détient une Lance Gobeline, ce séide inflige des **dégâts +2**.
+  lore: '… avec la rapidité d''un serpent à l''attaque, il chargea la Compagnie et pointa sa lance… '
+it:
+  title: Lanciere Goblin
+  subtitle: ''
+  text: Aggiungi +2 al Danno di questo servitore mentre impugna una Lancia Goblin.
+  lore: …con la rapidità di un serpente che morde, investì la Compagnia, puntando dritto su Frodo la sua lancia…
+es:
+  title: Lancero Goblin
+  subtitle: ''
+  text: Mientras lleve una Lanza Goblin, este siervo es **daño +2.**
+  lore: …con la velocidad de una serpiente, cargó entre la Compañía y empujó con su lanza…

@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '99'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Great Gate
+  subtitle: ''
+  text: 'Make a :gondor: companion strength +2 and, if you can spot 2 :gondor: fortifications, exert a minion that companion is skirmishing.'
+  lore: …and its iron doors rolled back before them.
+de:
+  title: Das große Tor
+  subtitle: ''
+  text: 'Gib einem :gondor: Gefährten Stärke +2. Strenge einen Diener, der gegen diesen Gefährten kämpft, an, wenn du 2 :gondor: Befestigungen entdecken kannst.'
+  lore: … und die eisernen Torflügel taten sich vor ihnen auf.

@@ -1,0 +1,36 @@
+set: '3'
+rarity: C
+number: '98'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Orc Swordsman
+  subtitle: ''
+  text: 'While this minion bears a weapon, he is strength +2. '
+  lore: ‘Many evil things there are that your strong walls and bright swords do not stay.’
+de:
+  title: Ork Schwertkämpfer
+  subtitle: ''
+  text: Solange dieser Diener eine Waffe besitzt, erhält er Stärke +2.
+  lore: Viele böse Dinge gibt es, denen Eure starken Mauern und blitzenden Schwerter nicht Einhalt gebieten.
+fr:
+  title: Épéiste Orque
+  subtitle: ''
+  text: Tant que ce séide détient une arme, il a +2 en force.
+  lore: 'Il y a bien des choses mauvaises que n''arrêtent pas vos murs puissants et vos brillantes épées.” '
+it:
+  title: Spadaccino Orco
+  subtitle: ''
+  text: Mentre questo servitore porta un’arma, aggiungi +2 alla sua forza.
+  lore: ‘Vi sono molte cose malvagie che le vostre forti mura e spade splendenti non arrestano.’
+es:
+  title: Espadachín Orco
+  subtitle: ''
+  text: Mientras este siervo lleve un arma, él es fuerza +2.
+  lore: Hay muchas cosas malvadas a las que vuestros fuertes muros y brillantes espadas no se pueden resistir.

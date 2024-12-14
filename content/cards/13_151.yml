@@ -1,0 +1,22 @@
+set: '13'
+rarity: U
+number: '151'
+unique: true
+culture: Shire
+type: Follower
+cost: 1
+str: '+1'
+en:
+  title: The Gaffer
+  subtitle: Master Gardener
+  text: |-
+    **Aid –** Add a burden. *(At the start of the maneuver phase, you may add a burden to transfer this to a companion.)*  
+    When you transfer The Gaffer to a :shire: companion, heal bearer (or heal bearer twice if he or she is at a dwelling site.)
+  lore: …the Gaffer was recognized as the leading authority….
+de:
+  title: Der Ohm
+  subtitle: Gärtnermeister
+  text: |-
+    **Hilfe –** Lege 1 Lastmarke auf den Ringträger.   
+    Heile den Beigestandenen einmal, wenn du diese Karte auf einen :shire: Gefährten verschiebst (oder zweimal, wenn er sich an einer Heimstatt befindet).
+  lore: …wurde der Ohm weit und breit von allen (einschließlich ihm selbst) als höchste Autorität anerkannt.

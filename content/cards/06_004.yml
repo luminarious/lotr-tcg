@@ -1,0 +1,36 @@
+set: '6'
+rarity: C
+number: '4'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '1'
+site: 3
+en:
+  title: Dunlending Headman
+  subtitle: ''
+  text: 'When you play this minion, you may spot 2 other :dunland: Men to take control of a site. The Free Peoples player may discard 2 cards from hand to prevent this.'
+  lore: The diminished Rohirrim offered little resistance to the advancing Dunland horde.
+de:
+  title: Oberhaupt der Dunländer
+  subtitle: ''
+  text: 'Wenn du diesen Diener spielst, darfst du 2 andere :dunland: Menschen entdecken, um einen Ort zu kontrollieren. Der Freie Völker Spieler darf 2 Karten aus seiner Hand ablegen, um dies zu verhindern.'
+  lore: Die immer kleiner werdende Zahl der Rohirrim konnte dem Vormarsch der dunländischen Horde nur wenig Widerstand leisten.
+fr:
+  title: Chef Dun
+  subtitle: ''
+  text: 'Quand vous jouez ce séide, vous pouvez désigner 2 autres Hommes :dunland: pour prendre le contrôle d’un site. Le joueur des Peuples Libres peut défausser 2 cartes de sa main pour empêcher ceci.'
+  lore: Les Rohirrim affaiblis offrèrent peu de résistance face à la horde Dun.
+it:
+  title: Capo Dunlandiano
+  subtitle: ''
+  text: 'Quando giochi questo servitore, puoi avvistare altri 2 Uomini :dunland: per prendere il controllo di un sito. Il giocatore dei Popoli Liberi può scartare 2 carte dalla mano per prevenire questo effetto.'
+  lore: I provati Rohirrim offrirono una scarsa resistenza all'orda incombente di Dunlandiani.
+es:
+  title: Cabecilla Dunlendino
+  subtitle: ''
+  text: 'Cuando juegas este siervo, puedes avistar otros 2 Hombres :dunland: para tomar el control de un sitio. El jugador de Gentes Libres puede descartar 2 cartas de su mano para prevenir esto.'
+  lore: Los reducidos Rohirrim ofrecieron poca resistencia a la horda de Dunland.

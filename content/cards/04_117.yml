@@ -1,0 +1,18 @@
+set: '4'
+rarity: C
+number: '117'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Frodo
+en:
+  title: Faramir
+  subtitle: Son of Denethor
+  text: |-
+    **Ring-bound. Ranger.**  
+    An opponent may not play skirmish events or use skirmish special abilities during skirmishes involving Faramir. 
+  lore: He could see Faramir’s face, which was now unmasked; it was stern and commanding, and a keen wit lay behind his searching glance.

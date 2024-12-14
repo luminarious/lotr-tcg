@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '355'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Right
+en:
+  title: Silverlode Banks
+  subtitle: ''
+  text: '**River.** When the fellowship moves to Silverlode Banks without a ranger, every companion must exert.'
+  lore: ''
+de:
+  title: Die Ufer des Silberlauf
+  subtitle: ''
+  text: '**Fluss.** Wenn die Gemeinschaft die Ufer des Silberlauf ohne Waldläufer erreicht, muss jeder Gefährte angestrengt werden.'
+  lore: ''
+fr:
+  title: Berges du Cours d'Argent
+  subtitle: ''
+  text: '**Rivière.** Quand la compagnie se déplace jusqu’aux Berges du Cours d’Argent sans un rôdeur, chaque compagnon doit être affaibli.'
+  lore: ''
+it:
+  title: Argini dell'Argentaroggia
+  subtitle: ''
+  text: '**Fiume.** Quando la Compagnia si muove agli Argini dell’Argenta-roggia senza un Ramingo, ogni compagno deve sforzarsi.'
+  lore: ''
+es:
+  title: Orillas del Cauce de Plata
+  subtitle: ''
+  text: '**Río.** Cuando la comunidad se mueve a las Orillas del Cauce de Plata sin un montaraz, cada compañero debe esforzarse.'
+  lore: ''

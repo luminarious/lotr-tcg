@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '49'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 8
+str: '17'
+vit: '4'
+site: 4
+en:
+  title: Stampeding Chief
+  subtitle: ''
+  text: |-
+    **Damage +1. Fierce.**  
+    If you play Stampeding Chief from your hand, remove :twilight3: and spot another :men: minion or discard Stampeding Chief.
+  lore: But no more would Rohan stand against his kind.

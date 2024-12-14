@@ -1,0 +1,35 @@
+set: '3'
+rarity: C
+number: '6'
+unique: true
+culture: Dwarven
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Storm of Argument
+  subtitle: ''
+  text: |-
+    **Fellowship:** Reveal a card at random from an opponent’s hand.   
+    Shuffle up to X :dwarven: cards from your discard pile into your draw deck, where X is the twilight cost of the card revealed. 
+  lore: ‘I will be dead before I see the Ring in the hands of an Elf!’
+de:
+  title: Tumult im Rat
+  subtitle: ''
+  text: '**Gemeinschaft.** Decke eine zufällig bestimmte Karte aus der Hand eines Gegenspielers auf. Mische bis zu X :dwarven: Karten aus deinem Ablagestapel in dein Spieldeck, wobei X den Zwielichtkosten der aufgedeckten Karte entspricht.'
+  lore: Eher will ich sterben, als dass ich den Ring in den Händen eines Elben sehe!
+fr:
+  title: Querelle Orageuse
+  subtitle: ''
+  text: '**Compagnie :** Révélez une carte au hasard de la main de votre adversaire. Mélangez jusqu’à X cartes :dwarven: de votre pile de défausse dans votre pioche, où X est le coût crépusculaire de la carte révélée.'
+  lore: 'Je serai mort avant de voir l''Anneau entre les mains d''un Elfe!” '
+it:
+  title: Discussione Tempestosa
+  subtitle: ''
+  text: '**Compagnia:** Mostra una carta a caso della mano dell’avversario. Mescola fino a X carte :dwarven: dalla tua pila degli scarti nel tuo mazzo di gioco, dove X è il costo crepuscolo della carta mostrata.'
+  lore: ‘Sarò morto prima di vedere l'Anello nelle mani di un Elfo!’
+es:
+  title: Tormenta de Discusiones
+  subtitle: ''
+  text: '**Comunidad:** Revela una carta al azar de la mano de un oponente. Mezcla hasta X cartas :dwarven: de tu pila de descartes en tu mazo de robar, donde X es el coste de penumbra de la carta revelada.'
+  lore: ¡Antes muerto que ver el Anillo en manos de un Elfo!

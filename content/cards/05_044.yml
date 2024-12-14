@@ -1,0 +1,41 @@
+set: '5'
+rarity: U
+number: '44'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Battering Ram
+  subtitle: ''
+  text: |-
+    **Machine.**   
+    **Shadow:** Exert an Uruk-hai to place an :isengard: token on this card.   
+    **Skirmish:** Spot 5 companions and an :isengard: token here to make an Uruk-hai **damage +1.** Discard this condition.
+  lore: The trees… smote the timbers with a rending boom.
+de:
+  title: Sturmramme
+  subtitle: ''
+  text: '**Kriegsmaschine.** **Schatten:** Strenge einen Uruk-hai an, um eine :isengard: Marke auf diese Karte zu legen. **Kampf** Entdecke 5 Gefährten und eine :isengard: Marke hier, um einem Uruk-hai **Schaden +1** zu geben. Lege diesen Effekt ab.'
+  lore: Stämme prallten mit durchdringendem Dröhnen auf das Holz.
+fr:
+  title: Bélier
+  subtitle: ''
+  text: |-
+    **Machine.**   
+    **Ombre :** Affaiblissez un Ourouk-Haï pour déposer un jeton :isengard: sur cette carte.   
+    **Combat :** Désignez 5 compagnons et un jeton :isengard: sur cette carte pour donner des **dégâts +1** à un Ourouk-Haï. Défaussez cette situation.
+  lore: 'Les arbres… frappèrent les battants avec un grondement fracassant. '
+it:
+  title: Ariete
+  subtitle: ''
+  text: |-
+    **Macchina da Guerra.** **Ombra:** Sforza un Uruk-hai per piazzare un segnalino :isengard: su questa carta.   
+    **Schermaglia:** Avvista un segnalino :isengard: qui e 5 compagni per aggiungere **Danno +1** a un Uruk-hai. Scarta questa condizione.
+  lore: I tronchi… colpirono i cardini con un frastuono lacerante.
+es:
+  title: Ariete
+  subtitle: ''
+  text: '**Máquina.** ****Sombra:**** Esfuerza un Uruk-hai para poner un contador :isengard: en esta carta. **Escaramuza:** Avista 5 compañeros y un contador :isengard: aquí para dar a un Uruk-hai **daño +1.** Descarta esta condición.'
+  lore: …cediendo a los embates de los árboles…

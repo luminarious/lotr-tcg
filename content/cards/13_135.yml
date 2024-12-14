@@ -1,0 +1,41 @@
+set: '13'
+rarity: U
+number: '135'
+unique: true
+culture: Rohan
+type: Possession
+class: Ranged Weapon
+cost: 1
+en:
+  title: Rider’s Bow
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    If bearer is mounted, he or she is strength +1. Each time bearer wins a skirmish, you may choose a Shadow player who must wound one of his or her minions.
+  lore: Riders of the Mark carried short bows easily fired from horseback.
+de:
+  title: Reiterbogen
+  subtitle: ''
+  text: 'Muss auf einen :rohan: Menschen gespielt werden. Der Träger erhält Stärke +1, wenn er beritten ist. Jedes Mal, wenn der Träger einen Kampf gewinnt, darfst du einen Schattenspieler auswählen, der einen seiner Diener verwunden muss.'
+  lore: Die Reiter der Mark waren mit Kurzbögen ausgerüstet….
+fr:
+  title: Rider's Bow
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    If bearer is mounted, he or she is strength +1. Each time bearer wins a skirmish, you may choose a Shadow player who must wound one of his or her minions.
+  lore: Riders of the Mark carried short bows easily fired from horseback.
+it:
+  title: Rider's Bow
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    If bearer is mounted, he or she is strength +1. Each time bearer wins a skirmish, you may choose a Shadow player who must wound one of his or her minions.
+  lore: Riders of the Mark carried short bows easily fired from horseback.
+es:
+  title: Rider's Bow
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    If bearer is mounted, he or she is strength +1. Each time bearer wins a skirmish, you may choose a Shadow player who must wound one of his or her minions.
+  lore: Riders of the Mark carried short bows easily fired from horseback.

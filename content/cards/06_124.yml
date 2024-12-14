@@ -1,0 +1,35 @@
+set: '6'
+rarity: R
+number: '124'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 7
+str: '8'
+vit: '4'
+en:
+  title: Skinbark
+  subtitle: Fladrif
+  text: Skinbark’s twilight cost is –1 for each Ent or unbound Hobbit you can spot. **Response:** If an unbound Hobbit is about to take a wound, exert Skinbark to prevent that wound.
+  lore: ‘He has gone up into the high places, among the birches that he loves best….’
+de:
+  title: Borkenhaut
+  subtitle: Fladrif
+  text: Borkenhauts Kosten reduzieren sich um 1 für jeden Ent und nicht-verbundenen Hobbit, den du entdecken kannst. **Reaktion:** Strenge Borkenhaut an, wenn ein nicht-verbundener Hobbit eine Wunde erleidet, um diese zu verhindern.
+  lore: Er ist hinaufgegangen in die hohen Lagen, zu den Birken, die er am liebsten hat….
+fr:
+  title: Peaurude
+  subtitle: Fladrid
+  text: Le coût crépusculaire de Peaurude est de –1 pour chaque Ent et Hobbit dissocié que vous pouvez désigner. **Réponse :** Si un Hobbit dissocié est sur le point d’être blessé, affaiblissez Peaurude pour prevenir cette blessure.
+  lore: 'Il y eut un faible sifflement, une odeur fétide s''éleva, les lumières clignotèrent, dansèrent, tournoyèrent. '
+it:
+  title: Scorzapelle
+  subtitle: Fladrif
+  text: Sottrai –1 al costo crepuscolo di Scorzapelle per ogni Ent e Hobbit Non Legato che puoi avvistare. **Risposta:** Se un Hobbit Non Legato sta per subire una ferita, sforza Scorzapelle per prevenire quella ferita.
+  lore: ‘Lui è salito nelle zone più alte, fra le betulle, che sono le sue piante preferite…’
+es:
+  title: Corteza
+  subtitle: Fladrif
+  text: El coste de penumbra de Corteza es –1 por cada Ent o Hobbit no-vinculado que puedas avistar. **Respuesta:** Si un Hobbit no-vinculado va a recibir una herida, esfuerza a Corteza para prevenir dicha herida.
+  lore: Ha subido a los lugares altos, entre los abedules que él prefiere…

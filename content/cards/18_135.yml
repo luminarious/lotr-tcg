@@ -1,0 +1,12 @@
+set: '18'
+rarity: U
+number: '135'
+unique: true
+culture: ''
+type: Site
+cost: 2
+en:
+  title: Foot of Mount Doom
+  subtitle: ''
+  text: '**Mountain.** Each card that is about to be placed into the discard pile is removed from the game instead.'
+  lore: ''

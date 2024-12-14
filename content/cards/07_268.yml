@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '268'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Encirclement
+  subtitle: ''
+  text: |-
+    For each 2 sites you control, the twilight cost of each of your :sauron: cards is –1.   
+    **Regroup:** Spot a :sauron: minion to draw a card (or draw 2 cards instead if that minion is a besieger). Discard this condition.
+  lore: ''
+de:
+  title: Umzingelung
+  subtitle: ''
+  text: |-
+    Die Zwielichtkosten für alle deine :sauron: Karten verringern sich um 1 für je 2 Orte, die du kontrollierst.   
+    **Sammeln:** Entdecke einen :sauron: Diener, um eine Karte zu ziehen (oder 2 Karten, wenn dieser Diener Belagerer ist). Lege diesen Effekt ab.
+  lore: ''

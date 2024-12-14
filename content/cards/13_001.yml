@@ -1,0 +1,17 @@
+set: '13'
+rarity: R
+number: '1'
+unique: true
+culture: Dwarven
+type: Possession
+class: Mount
+cost: 1
+res: '+1'
+en:
+  title: Arod
+  subtitle: Rohirrim Steed
+  text: |-
+    Bearer must be a Dwarf.   
+    When you play Arod, you may reinforce a :dwarven: token.   
+    **Response:** If bearer is about to take a wound during a skirmish, remove 2 :dwarven: tokens to prevent that.
+  lore: A smaller and lighter horse, but restive and fiery….

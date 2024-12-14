@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '35'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '12'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Attëa
+  subtitle: Dark Predator
+  text: |-
+    **Fierce.**  
+    While you can spot 5 twilight tokens in the twilight pool and another :wraith: card, Úlairë Attëa is strength +3.
+  lore: Those that knew the most power as kings were placed in particular ways for the will of Sauron.

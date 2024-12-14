@@ -1,0 +1,41 @@
+set: '2'
+rarity: R
+number: '100'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Fearing the Worst
+  subtitle: ''
+  text: |-
+    **Stealth.** To play, exert 2 Hobbits.   
+    The twilight cost of each search card and each tracker is +2. 
+  lore: ‘Even if we are allowed to leave Bree unhindered, we can hardly hope now to leave it unnoticed.’
+de:
+  title: Das Schlimmste befürchten
+  subtitle: ''
+  text: |-
+    **Heimlichkeit.** Strenge 2 Hobbits an, um diese Karte in deinen Unterstützungsbereich zu spielen.  
+    Die Zwielichtkosten für alle Suche-Karten und Spurenleser erhöhen sich um 2.
+  lore: Selbst wenn man uns ungehindert aus Bree hinauslässt, können wir kaum hoffen, es unbemerkt zu verlassen.
+fr:
+  title: Redouter le Pire
+  subtitle: ''
+  text: |-
+    **Dissimulation.**Pour jouer cette carte, affaiblissez 2 Hobbits. Jouable dans votre aire de soutien.  
+    Le coût crépusculaire pour chaque carte de recherche et chaque traqueur est de +2.
+  lore: 'Même s''il nous est permis de quitter librement Bree, nous ne pouvons plus guère espérer partir inaperçus.” '
+it:
+  title: Temendo il Peggio
+  subtitle: ''
+  text: |-
+    **Segretezza.**  
+    Per giocarla, sforza 2 Hobbit. Aggiungi +2 al costo crepuscolo di ogni carta Ricerca e di ogni **Inseguitore.**
+  lore: ‘Anche se riusciamo a lasciare Brea senza troppe difficoltà, non possiamo certo sperare di partire inosservati.’
+es:
+  title: Temiendo lo peor
+  subtitle: ''
+  text: '**Sigilo.**Para jugarla, esfuerza a 2 Hobbits. El coste de penumbra de cada carta de búsqueda y de cada rastreador es +2.'
+  lore: Aunque consigamos dejar Bree sin estorbos, no podemos esperar que lo hagamos sin ser vistos.

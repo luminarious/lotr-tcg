@@ -1,0 +1,22 @@
+set: '7'
+rarity: C
+number: '118'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Second Level
+  subtitle: ''
+  text: |-
+    **Fortification.**   
+    **Maneuver:** Exert a :gondor: Man or spot a ranger to transfer this condition from your support area to a minion.
+  lore: ''
+de:
+  title: Zweiter Ring
+  subtitle: ''
+  text: |-
+    **Befestigung.**   
+    **Manöver:** Strenge einen :gondor: Menschen an oder entdecke einen Waldläufer, um diesen Effekt aus deinem Unterstützungsbereich auf einen Diener zu verschieben.
+  lore: …doch das nächste blickte halb nach Süden…

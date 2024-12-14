@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '282'
+unique: true
+culture: Sauron
+type: Condition
+cost: 0
+str: '-1'
+en:
+  title: The Weight of a Legacy
+  subtitle: ''
+  text: 'To play, exert a :sauron: Orc. Plays on Aragorn.'
+  lore: ‘It is because of Men, the Ring survives…. I was there the day the strength of Men failed.’
+de:
+  title: Die Last des Vermächtnisses
+  subtitle: ''
+  text: 'Strenge einen :sauron: Ork an, um diese Karte auf Aragorn zu spielen.'
+  lore: Sie sind dafür verantwortlich, dass der Ring die Zeit überdauert…Ich war dort, als die Stärke der Menschen versagte.
+fr:
+  title: Le Poids d'un Héritage
+  subtitle: ''
+  text: Pour jouer, affaiblissez un Orque :sauron:. Jouable sur Aragorn.
+  lore: ‘C'est la faute des Hommes si l'Anneau existe encore…. J'étais là le jour où la force des Hommes faillit.’
+it:
+  title: Il Peso Di Un'Eredità
+  subtitle: ''
+  text: Per giocarla, sforza un Orco :sauron:. Giocala su Aragorn.
+  lore: ‘E’ a causa degli Uomini che l'Anello sopravvive …. Io c'ero il giorno in cui la forza degli Uomini fallì.’
+es:
+  title: El Peso de un Legado
+  subtitle: ''
+  text: Para jugarla, esfuerza un Orco :sauron:. Se juega en Aragorn.
+  lore: Es por los Hombres, que el Anillo sobrevive… Yo estaba allí el día que la fuerza de los Hombres fallo.

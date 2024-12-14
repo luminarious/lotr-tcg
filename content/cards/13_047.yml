@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '47'
+unique: true
+culture: Gollum
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Duality
+  subtitle: ''
+  text: Spot Sméagol to choose a Shadow player who must discard a Shadow card from hand or remove :twilight2:.
+  lore: 'Gollum had two loyalties: The Ring and The Ring.'
+de:
+  title: Zwiespältig
+  subtitle: ''
+  text: 'Entdecke Sméagol, um einen Schattenspieler auszuwählen, der entweder eine Schattenkarte aus seiner Hand ablegen oder den Einfluss um :twilight2: verringern muss.'
+  lore: 'Gollum kannte nur zwei Herren: Den Ring und Den Ring.'

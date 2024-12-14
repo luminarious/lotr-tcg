@@ -1,0 +1,13 @@
+set: '19'
+rarity: P
+number: '1'
+unique: true
+culture: ''
+type: Ring
+en:
+  title: The One Ring
+  subtitle: The Great Ring
+  text: |-
+    While wearing The One Ring, each time bearer is about to take a wound, add a burden instead.  
+    **Maneuver:** Wear The One Ring until the regroup phase. **Skirmish:** Add a burden to make the Ring-bearer strength +3.
+  lore: ''

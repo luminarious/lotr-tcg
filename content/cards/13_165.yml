@@ -1,0 +1,26 @@
+set: '13'
+rarity: U
+number: '165'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '7'
+vit: '1'
+site: 5
+en:
+  title: Isengard Infiltrator
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    While the fellowship is at a forest site, the fellowship archery total is –1.  
+    Each :elven: companion skirmishing this minion is strength –2.
+  lore: The Uruk-hai trained to engage the enemy in its own territory.
+de:
+  title: Isengart Eindringling
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Solange sich die Gemeinschaft in einem Wald befindet, reduziert sich deren Fernkampfwert um 1. Jeder :elven: Gefährte, der gegen diesen Diener kämpft, erhält Stärke -2.
+  lore: Die Uruk-hai bereiteten sich darauf vor, den Feind auf seinem eigenen Gebiet entgegen zu treten.

@@ -1,0 +1,20 @@
+set: '13'
+rarity: R
+number: '26'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 6
+en:
+  title: Take Up the Bow
+  subtitle: ''
+  text: '**Toil 2.** *(For each* :elven: *character you exert when playing this, its twilight cost is –2.)* **Archery:** Discard this from play and spot 3 Elf archers to discard a minion from play. Each of those archers loses **archer** and cannot gain archer.'
+  lore: Stringing the bow and fitting an arrow….
+de:
+  title: Den Bogen erheben
+  subtitle: ''
+  text: |-
+    **Mühe 2.  
+    Fernkampf:** Lege diesen Effekt ab und entdecke 3 Elbenbogenschützen, um einen Diener aus dem Spiel abzulegen. Jeder dieser **Bogenschützen** verliert Bogenschütze und kann diese Fähigkeit auch nicht wieder erlangen.
+  lore: Er spannte den Bogen, legte einen Pfeil ein….

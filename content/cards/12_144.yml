@@ -1,0 +1,19 @@
+set: '12'
+rarity: S
+number: '144'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Wizard
+cost: 4
+str: '8'
+vit: '4'
+site: 4
+en:
+  title: Saruman
+  subtitle: Agent of the Dark Lord
+  text: |-
+    **Lurker.** *(Skirmishes involving lurker minions must be resolved after any others.)*   
+    **Skirmish:** Exert Saruman to make an :urukhai: minion strength +2.   
+    Each time a companion is killed, you may heal Saruman.
+  lore: ‘There will be no dawn for Men.’

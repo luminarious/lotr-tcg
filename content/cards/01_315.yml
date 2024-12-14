@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '315'
+unique: true
+culture: Shire
+type: Event
+class: Maneuver, Skirmish
+cost: 1
+en:
+  title: Stout and Sturdy
+  subtitle: ''
+  text: '**Maneuver** or **Skirmish:** Heal a Hobbit.'
+  lore: ‘You have a stout heart, little hobbit, but your courage alone will not save you.’
+de:
+  title: Beherzt und robust
+  subtitle: ''
+  text: '**Manöver** oder **Kampf** Heile einen Hobbit.'
+  lore: Du hast ein wackeres Herz, kleiner Hobbit. Aber das wird dich nicht retten.
+fr:
+  title: Solide et Robuste
+  subtitle: ''
+  text: Manœuvre ou **Combat :** Guérissez un Hobbit.
+  lore: ‘Vous avez le c*ur solide, petit Hobbit, mais votre courage seul ne vous sauvera pas.’
+it:
+  title: Coraggioso e Forte
+  subtitle: ''
+  text: |-
+    **Manovra** o   
+    **Schermaglia:** Cura un Hobbit.
+  lore: ‘Hai un cuore coraggioso, piccolo hobbit, ma il tuo coraggio da solo non ti salverà.’
+es:
+  title: Fornido y Recio
+  subtitle: ''
+  text: '**Maniobra** o **Escaramuza:** Cura un Hobbit.'
+  lore: Tienes un corazón firme, pequeño hobbit, pero solo tu valor no te salvara.

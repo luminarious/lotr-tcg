@@ -1,0 +1,16 @@
+set: '18'
+rarity: C
+number: '57'
+unique: true
+culture: Gondor
+type: Possession
+class: Shield
+cost: 1
+en:
+  title: Shield of the White Tree
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.  
+    The minion archery total is -1.  
+    **Regroup:** Discard this possession from play to make each opponent shuffle his or her hand into his or her draw deck and draw 8 cards.
+  lore: Tipped with silver, and adorned with the White Tree.

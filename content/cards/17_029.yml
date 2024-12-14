@@ -1,0 +1,17 @@
+set: '17'
+rarity: R
+number: '29'
+unique: true
+culture: Gondor
+type: Possession
+class: Ranged Weapon
+cost: 1
+en:
+  title: Faramir's Bow
+  subtitle: Ithilien Longbow
+  text: |-
+    Bearer must be a :gondor: ranger.  
+    If bearer is Faramir, he is an **archer**.  
+    The site number of each minion skirmishing a :gondor: ranger is +1.  
+    **Skirmish:** Exert bearer twice to exhaust a minion Faramir is skirmishing. 
+  lore: …great bows. Almost their own height…

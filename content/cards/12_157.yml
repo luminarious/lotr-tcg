@@ -1,0 +1,25 @@
+set: '12'
+rarity: R
+number: '157'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '9'
+vit: '4'
+site: 5
+en:
+  title: Uruk-hai Troop
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    Each character skirmishing this minion loses all strength bonuses from weapons.
+  lore: Attacking in swarming hordes, the Uruk-hai close with the enemy rapidly to make weapons useless.
+de:
+  title: Uruk-hai Trupp
+  subtitle: ''
+  text: |-
+    **Schaden +1**.  
+    Charaktere, die gegen diesen Diener kämpfen, erhalten keinen Stärkebonus durch Waffen.
+  lore: Uruk-hai greifen in Horden an und gehen schnell in ein Handgemenge über, um Waffen nutzlos werden zu lassen.

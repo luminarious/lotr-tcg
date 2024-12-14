@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '337'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Right
+en:
+  title: Barrows of Edoras
+  subtitle: ''
+  text: '**Sanctuary.** **Fellowship:** Place your hand beneath your draw deck and draw 4 cards. '
+  lore: ''
+de:
+  title: Die Grabhügel von Edoras
+  subtitle: ''
+  text: '**Zuflucht.** **Gemeinschaft.** Lege deine Handkarten unter dein Spieldeck und ziehe 4 Karten.'
+  lore: ''
+fr:
+  title: Le Château d'Or
+  subtitle: ''
+  text: '**Sanctuaire.** Lorsque la compagnie se déplace vers le Château d’Or, défaussez toutes les armes des Peuples Libres.'
+  lore: ''
+it:
+  title: Tumuli di Edoras
+  subtitle: ''
+  text: '**Rifugio.** **Compagnia:** Piazza la tua mano sotto il tuo mazzo di gioco e pesca 4 carte.'
+  lore: ''
+es:
+  title: Túmulos De Edoras
+  subtitle: ''
+  text: '**Santuario.** **Comunidad:** Pon tu mano bajo tu mazo de robar y roba 4 cartas.'
+  lore: ''

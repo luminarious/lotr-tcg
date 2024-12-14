@@ -1,0 +1,15 @@
+set: '17'
+rarity: R
+number: '39'
+unique: true
+culture: Isengard
+type: Artifact
+class: Support Area
+cost: 2
+en:
+  title: Throne of Isengard
+  subtitle: ''
+  text: |-
+    Each time you play Saruman, spot a minion. That minion is **fierce** until the start of the regroup phase.  
+    Each Wizard is strength +3 and damage +1. 
+  lore: From the heights of Orthanc, Saruman spied on Middle-earth and plotted his rise to power.

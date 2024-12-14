@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '32'
+unique: true
+culture: Gandalf
+type: Event
+class: Response
+cost: 0
+en:
+  title: The Board Is Set
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    If an event is played, exert Gandalf to make that opponent remove :twilight2: or cancel that event.
+  lore: ''
+de:
+  title: Das Schachbrett ist aufgestellt
+  subtitle: ''
+  text: |-
+    **Zauberspruch.**   
+    Strenge Gandalf an, wenn ein Ereignis gespielt wird, um diesen Gegenspieler zu zwingen entweder den Einfluss um :twilight2: zu verringern oder das Ereignis zu verhindern.
+  lore: Nun ist es soweit, der größte Kampf unserer Zeit liegt vor uns.

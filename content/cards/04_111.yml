@@ -1,0 +1,37 @@
+set: '4'
+rarity: R
+number: '111'
+unique: true
+culture: Gondor
+type: Condition
+cost: 0
+vit: '+1'
+en:
+  title: Boromir, My Brother
+  subtitle: ''
+  text: |-
+    Bearer must be Faramir.  
+    **Skirmish:** Discard a :gondor: card from hand to make a Ring-bound Man strength +1. 
+  lore: ‘Where is thy horn? Whither goest thou? O Boromir! But he was gone.’
+de:
+  title: Boromir, Mein Bruder
+  subtitle: ''
+  text: 'Muss auf Faramir gespielt werden. **Kampf:** Lege eine :gondor: Karte aus deiner Hand ab, um einem Ring-verbundenen Menschen Stärke +1 zu geben.'
+  lore: Wo ist dein Horn? Wohin gehst du? O Boromir! Doch er war fort.
+fr:
+  title: Boromir, Mon Frère
+  subtitle: ''
+  text: 'Le détenteur doit être Faramir. **Combat :** Défaussez une carte :gondor: de votre main pour donner +1 en force à un Homme **Associé à l’Anneau.** '
+  lore: 'Où est ton cor? Où vas-tu? Ô Boromir! Mais il était parti.” '
+it:
+  title: Boromir, Mio Fratello
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Faramir.   
+    **Schermaglia:** Scarta dalla mano una carta :gondor: per aggiungere +1 alla forza di un Uomo **Legato all’Anello.**
+  lore: ‘Dov'è il tuo corno? Dove stai andando? Oh Boromir! Ma egli scomparve.’
+es:
+  title: Boromir, Hermano Mío
+  subtitle: ''
+  text: 'El portador debe ser Faramir. **Escaramuza:** Descarta una carta :gondor: de tu mano para darle a un Hombre Vinculado al Anillo fuerza +1.'
+  lore: ¿Dónde está tu cuerno? ¿A dónde vas? ¡Oh Boromir! Pero ya no estaba.

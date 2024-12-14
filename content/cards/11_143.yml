@@ -1,0 +1,21 @@
+set: '11'
+rarity: R
+number: '143'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '8'
+vit: '3'
+site: 4
+en:
+  title: Watchful Orc
+  subtitle: ''
+  text: 'When you play this minion, you may spot another :orc: minion to replace the fellowship’s current site with an underground site from your adventure deck. '
+  lore: Some Orcs have learned basic tracking skills.
+de:
+  title: Wachsamer Ork
+  subtitle: ''
+  text: 'Wenn du diesen Diener spielst, darfst du einen anderen :orc: Diener entdecken, um die gegenwärtige Ortskarte der Gemeinschaft durch einen unterirdischen Ort aus deinem Abenteuerdeck zu ersetzen.'
+  lore: Manche Orks können ein bisschen Spurenlesen.

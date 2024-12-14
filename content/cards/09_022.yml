@@ -1,0 +1,20 @@
+set: '9'
+rarity: R
+number: '22'
+unique: true
+culture: Elven
+type: Possession
+class: Support Area
+cost: 1
+en:
+  title: Strands of Elven Hair
+  subtitle: ''
+  text: |-
+    To play, spot a Dwarf. When you play this possession, add 2 :elven: tokens here.   
+    **Fellowship:** Discard this possession or remove an :elven: token from here to reveal the top card of your draw deck. If it is a :dwarven: or :elven: card, you may take it into hand.
+  lore: ''
+de:
+  title: Locken aus Elbenhaar
+  subtitle: ''
+  text: 'Entdecke einen Zwerg, um diese Ausrüstung zu spielen. Lege 2 :elven: Marken auf diese Karte, wenn du sie spielst. **Gemeinschaft:** Lege diese Ausrüstung ab oder entferne eine :elven: Marke von dieser Karte, um die oberste Karte deines Spieldecks aufzudecken. Wenn es sich dabei um eine :dwarven: oder :elven: Karte handelt, darfst du sie spielen.'
+  lore: ''

@@ -1,0 +1,24 @@
+set: '7'
+rarity: R
+number: '325'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Pressing On
+  subtitle: ''
+  text: |-
+    To play, spot 2 Hobbits.   
+    Each time the fellowship moves, add a threat or discard this condition.   
+    **Regroup:** Discard this condition and exert a Hobbit companion to play the fellowship’s next site (replacing opponent’s site if necessary).
+  lore: ''
+de:
+  title: Immer weiter
+  subtitle: ''
+  text: |-
+    Entdecke 2 Hobbits, um diesen Effekt zu spielen.   
+    Lasse jedes Mal, wenn sich die Gemeinschaft bewegt, eine Bedrohung entstehen, oder lege diesen Effekt ab.   
+    **Sammeln:** Lege diesen Effekt ab und strenge einen Hobbitgefährten an, um den nächsten Ort deiner Gemeinschaft zu spielen (und ersetze nötigenfalls die Ortkarte eines Gegenspielers).
+  lore: ''

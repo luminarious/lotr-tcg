@@ -1,0 +1,34 @@
+set: '3'
+rarity: R
+number: '67'
+unique: true
+culture: Isengard
+type: Artifact
+cost: 0
+en:
+  title: The Palantír of Orthanc
+  subtitle: ''
+  text: |-
+    To play, spot an :isengard: minion.   
+    **Shadow:** Spot an :isengard: minion and remove :twilight1: to reveal a card at random from the Free Peoples player’s hand. Place that card on top of that player’s draw deck. 
+  lore: ‘Seven stars and seven stones….’
+de:
+  title: Der Palantír von Orthanc
+  subtitle: ''
+  text: 'Entdecke einen :isengard: Diener, um diese Karte in deinen Unterstützungsbereich zu spielen. **Schatten:** Entdecke einen :isengard: Diener und verringere den Einfluss um :twilight1:, um eine zufällig ausgewählte Karte von der Hand des Freie Völker Spielers aufzudecken. Lege diese Karte oben auf das Spieldeck des Spielers.'
+  lore: … Sieben Sterne und sieben Steine…
+fr:
+  title: Le Palantír d'Orthanc
+  subtitle: ''
+  text: 'Pour jouer, désignez un séide :isengard:. Ombre : Désignez un séide :isengard: et retirez :twilight1: pour révéler une carte au hasard de la main du joueur des Peuples Libres. Placez cette carte sur le dessus de la pioche de ce joueur.'
+  lore: 'Sept étoiles et sept pierres…” '
+it:
+  title: Il Palantír di Orthanc
+  subtitle: ''
+  text: 'Per giocarlo, avvista un servitore :isengard:. Giocalo nella tua area di supporto. **Ombra:** Avvista un servitore :isengard: e rimuovi :twilight1: per mostrare una carta a caso dalla mano del giocatore dei Popoli Liberi. Piazza quella carta in cima al mazzo di gioco di quel giocatore.'
+  lore: ‘Sette stelle e sette pietre…’
+es:
+  title: El Palantír de Orthanc
+  subtitle: ''
+  text: 'Para jugarlo, avista un siervo :isengard:. **Sombra:** Avista un siervo :isengard: y quita :twilight1: para revelar una carta al azar de la mano del jugador de Gentes Libres. Pon esa carta sobre el mazo de robar de ese jugador.'
+  lore: Siete estrellas y siete piedras…

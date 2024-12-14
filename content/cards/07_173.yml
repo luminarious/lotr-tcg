@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '173'
+unique: true
+culture: Raider
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: War Towers
+  subtitle: ''
+  text: 'Spot a :raider: minion to add a threat. Add an additional threat for each companion over 4.'
+  lore: …behind them rose the huge backs of the mûmakil….
+de:
+  title: Kampftürme
+  subtitle: ''
+  text: 'Entdecke einen :raider: Menschen, um eine Bedrohung entstehen zu lassen. Lasse eine weitere Bedrohung für jeden Gefährten über 4 entstehen.'
+  lore: …hinter ihnen erhoben sich die riesigen Rücken der mûmakil…

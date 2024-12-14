@@ -1,0 +1,43 @@
+set: '2'
+rarity: U
+number: '28'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Wielder of the Flame
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Maneuver:** Spot Gandalf to make a companion **defender +1** until the **regroup** phase.   
+    Any Shadow player may remove :twilight3: to prevent this. 
+  lore: The Balrog made no answer. The fire in it seemed to die, but the darkness grew.
+de:
+  title: Gebieter über die Flamme
+  subtitle: ''
+  text: '**Zauberspruch.** **Manöver:** Entdecke Gandalf, um einen Gefährten bis zur Sammelphase **Verteidiger +1** zu machen. Ein beliebiger Schattenspieler darf den Einfluss um :twilight3: verringern, um dies zu verhindern.'
+  lore: Der Balrog gab keine Antwort. Das Feuer in ihm schien zu ersterben, aber die Finsternis nahm zu.
+fr:
+  title: Détenteur de la Flamme
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Manœuvre :** Désignez Gandalf pour rendre un compagnon **défenseur +1** jusqu’à la phase de ralliement. N’importe quel joueur de l’Ombre peut retirer :twilight3: pour empêcher ceci.
+  lore: 'Le Balrog ne répondit rien. Le feu parut s''éteindre en lui, mais l''obscurité grandit. '
+it:
+  title: Il Detentore della Fiamma
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Manovra:** Avvista Gandalf per rendere un compagno **Difensore +1** fino alla fase di raccolta.  
+    Un qualunque giocatore Ombra può rimuovere :twilight3: per prevenirlo.
+  lore: Il Balrog non rispose. Il fuoco in lui parve estinguersi, ma il buio crebbe.
+es:
+  title: Portador de la llama
+  subtitle: ''
+  text: |-
+    Conjuro.   
+    **Maniobra:** Avista a Gandalf para dar a un compañero **defensor +1** hasta la fase de reagrupación. Cualquier jugador de sombra puede quitar :twilight3: para prevenir esto.
+  lore: El Balrog no respondió. Su fuego menguó, pero su oscuridad pareció crecer.

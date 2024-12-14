@@ -1,0 +1,20 @@
+set: '13'
+rarity: U
+number: '91'
+unique: true
+culture: Man
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Fires Brightly Burning
+  subtitle: ''
+  text: 'You may remove from the game 4 :men: cards in your discard pile instead of paying the twilight cost for this card. Make your :men: minion strength +2.'
+  lore: The torches of hate carried by the Dunlendings were kindled by the voice of Saruman.
+de:
+  title: Hell brennende Feuer
+  subtitle: ''
+  text: |-
+    Du darfst 4 :men: Karten aus deinem Ablagestapel ganz aus dem Spiel entfernen, anstatt die Zwielichtkosten für diese Karte zu zahlen.  
+    Gib einem deiner :men: Diener Stärke +2.
+  lore: Der brennende Hass der Dunländer wurde von Sarumans Worten angestachelt.

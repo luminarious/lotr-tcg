@@ -1,0 +1,18 @@
+set: '8'
+rarity: C
+number: '28'
+unique: true
+culture: Gollum
+type: Possession
+class: Support Area
+cost: 1
+en:
+  title: Spider Poison
+  subtitle: ''
+  text: '**Skirmish:** Remove a threat or a burden to transfer this possession to a companion skirmishing Shelob. Each time bearer is assigned to a skirmish, bearer must exert.'
+  lore: He lay now pale, and heard no voice, and did not move.
+de:
+  title: Spinnengift
+  subtitle: ''
+  text: '**Kampf:** Entferne eine Bedrohung oder eine Lastmarke, um diese Ausrüstung auf einen Gefährten zu verschieben, der gegen Kankra kämpft. Der Träger muss jedes Mal, wenn er einem Kampf zugewiesen wird, angestrengt werden.'
+  lore: Bleich lag er dort, hörte nichts und bewegte sich nicht.

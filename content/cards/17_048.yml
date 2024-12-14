@@ -1,0 +1,18 @@
+set: '17'
+rarity: S
+number: '48'
+unique: true
+culture: Man
+type: Minion
+race: Wizard
+cost: 4
+str: '8'
+vit: '4'
+site: 4
+en:
+  title: Saruman
+  subtitle: Coldly Still
+  text: |-
+    Each :men: minion bearing a possession is strength +2.  
+    **Skirmish:** Exert Saruman to play a :men: possession from your discard pile.
+  lore: Take back what they stole from you!

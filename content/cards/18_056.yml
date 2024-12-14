@@ -1,0 +1,16 @@
+set: '18'
+rarity: C
+number: '56'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+res: '6'
+en:
+  title: Ranger of the South
+  subtitle: ''
+  text: '**Ranger.** While you can spot a:gondor:token, this companion is strength +2.'
+  lore: All had swords at their sides, and were clad in green and brown of varied hues, as if the better to walk unseen in the glades of Ithilien.

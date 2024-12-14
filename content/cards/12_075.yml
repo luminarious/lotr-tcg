@@ -1,0 +1,22 @@
+set: '12'
+rarity: R
+number: '75'
+unique: true
+culture: Man
+type: Event
+class: Maneuver or Regroup
+cost: 4
+en:
+  title: Poisonous Words
+  subtitle: ''
+  text: |-
+    **Toil 2.** *(For each* :men:* character you exert when playing this, its twilight cost is –2.)*   
+    Add :twilight1: for each :men: card you can spot.
+  lore: ‘So fair. So cold. Like a morning of pale spring still clinging to winter’s chill.’
+de:
+  title: Worte wie Gift
+  subtitle: ''
+  text: |-
+    **Mühe 2.** *(Für jeden *:men: *Charakter, den du beim Ausspielen dieser Karte anstrengst, reduzieren sich deren Kosten um 2.)*  
+    Erhöhe den Einfluss um :twilight1: für jede :men: Karte, die du entdecken kannst.
+  lore: So schön. So kühl. Wie ein blasser Morgen im Frühling noch durchhaucht von Winterkälte.

@@ -1,0 +1,24 @@
+set: '8'
+rarity: U
+number: '23'
+unique: true
+culture: Gollum
+type: Possession
+class: Support Area
+cost: 1
+en:
+  title: Larder
+  subtitle: ''
+  text: |-
+    To play, spot a :gollum: minion.   
+    **Regroup:** Discard an Orc from hand to add a :gollum: token here.   
+    **Skirmish:** Remove a :gollum: token here to make Shelob strength +3 (limit +6).
+  lore: ‘When she binds with cords, she’s after meat.’
+de:
+  title: Vorratskammer
+  subtitle: ''
+  text: |-
+    Entdecke einen :gollum: Diener, um diese Ausrüstung zu spielen.   
+    **Sammeln:** Lege einen Ork aus deiner Hand ab, um eine :gollum: Marke auf diese Karte zu legen.   
+    **Kampf:** Entferne eine :gollum: Marke von dieser Karte, um Kankra Stärke +3 zu geben (maximal +6).
+  lore: Wenn sie mit Stricken fesselt, dann ist sie auf Fleisch aus.

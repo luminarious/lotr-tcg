@@ -1,0 +1,38 @@
+set: '1'
+rarity: R
+number: '62'
+unique: true
+culture: Elven
+type: Condition
+cost: 1
+en:
+  title: The Splendor of Their Banners
+  subtitle: ''
+  text: |-
+    **Tale.** Bearer must be an Elf companion.   
+    **Archery:** If bearer is an archer, exert bearer to make the fellowship archery total +1.
+  lore: ‘It recalled to me the glory of the Elder Days and the hosts of Beleriand, so many great princes and captains were assembled.’
+de:
+  title: Die Pracht ihrer Banner
+  subtitle: ''
+  text: '**Erzählung.** Muss auf einen Elbengefährten gespielt werden. **Fernkampf:** Wenn der Träger Bogenschütze ist, kannst du ihn anstrengen, um den Fernkampfwert der Gemeinschaft um 1 zu erhöhen.'
+  lore: Es erinnerte mich an den Glanz der Altvorderenzeit und an die Heere Beleriands, denn so viele große Fürsten und Hauptleute waren versammelt.
+fr:
+  title: La Splendeur de leurs Bannières
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Le détenteur doit être un compagnon Elfe. **Archerie :** Si le détenteur est un archer, affaiblissez le détenteur pour augmenter le total d’archerie de la compagnie de +1.
+  lore: Elle me rappelait la gloire des Jours Anciens et les armées de Beleriand, où tant de grands princes et capitaines étaient assemblés.
+it:
+  title: Lo Splendore delle Loro Bandiere
+  subtitle: ''
+  text: |-
+    **Racconto.** Il possessore deve essere un compagno Elfo.   
+    **Arcieri:** Se il possessore è un arciere, sforzalo per aggiungere +1 al totale degli arcieri della Compagnia.
+  lore: ‘Ricordo perfettamente lo splendore delle loro bandiere, mi rammento la gloria dei Tempi remoti e degli eserciti del Beleriand dove tanti grandi principi e capitani si erano riuniti.’
+es:
+  title: El Esplendor de Los Estandartes
+  subtitle: ''
+  text: '**Cuento.** El portador ha de ser un compañero Elfo. **Arquería:** Si el portador es arquero, esfuerza al portador para que el total de arquería de la comunidad sea +1.'
+  lore: Me recordaron la gloria de los Días Antiguos y las huestes de Beleriand, tantos grandes príncipes y capitanes estaban allí presentes.

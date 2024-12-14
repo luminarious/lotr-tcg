@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '184'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Nertëa
+  subtitle: Servant of the Shadow
+  text: |-
+    **Fierce.**  
+    While you can spot a companion who has resistance 3 or less, Úlairë Nertëa is twilight cost –2.
+  lore: From inside the hood came a noise as of someone sniffling to catch an elusive scent….

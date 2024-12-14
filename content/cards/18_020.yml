@@ -1,0 +1,13 @@
+set: '18'
+rarity: C
+number: '20'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 3
+en:
+  title: Ents Marching
+  subtitle: ''
+  text: 'If the fellowship is in region 1 or region 2, exert 2 Ents to make an Ent defender +1. If the fellowship is in region 3, spot a :gandalf: companion to draw a card.'
+  lore: The old that is strong does not wither; Deep roots are not reached by the frost.

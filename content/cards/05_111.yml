@@ -1,0 +1,26 @@
+set: '5'
+rarity: U
+number: '111'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 0
+str: '3'
+vit: '4'
+res: '10'
+signet: Signet_Aragorn
+en:
+  title: Frodo
+  subtitle: Master of the Precious
+  text: |-
+    **Ring-bearer (resistance 10).**   
+    **Fellowship:** Add a burden to play Sméagol from your discard pile.
+  lore: ‘We promises, yes I promise!… Good master, good Sméagol, gollum, gollum!’
+fr:
+  title: Frodon
+  subtitle: Le Maître du Trésor
+  text: |-
+    **Porteur de l’Anneau.** (**résistance** 10).   
+    **Compagnie :** Ajoutez un point-fardeau pour jouer Sméagol de votre pile de défausse.
+  lore: 'On promet, oui, je promets! … Bon maître, bon Sméagol, gollum, gollum!” '

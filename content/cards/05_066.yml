@@ -1,0 +1,41 @@
+set: '5'
+rarity: C
+number: '66'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Warg-master
+  subtitle: ''
+  text: |
+    **Warg-rider.**  
+    When you play this minion, you may play an :isengard: mount from your discard pile.   
+    While this minion is not exhausted, he is **fierce.**  
+  lore: ‘…yet I feared that wolf-riders and plunderers might ride nonetheless to Meduseld, while it was undefended.’
+de:
+  title: Wargbändiger
+  subtitle: ''
+  text: '**Wargreiter.** Wenn du diesen Diener spielst, darfst du ein :isengard: Reittier aus deinem Ablagestapel spielen. Solange dieser Diener nicht erschöpft ist, ist er **Erbittert.**'
+  lore: … indes fürchtete ich, dass Wolfsreiter und Plünderer dennoch nach Meduseld reiten könnten, während es unverteidigt war.
+fr:
+  title: Maître des Ouargues
+  subtitle: ''
+  text: |-
+    **Chevaucheur de ouargue.** Quand vous jouez ce séide, vous pouvez jouer une monture :isengard: de votre pile de défausse.   
+    Tant que ce séide n’est pas épuisé, il est **acharné**.
+  lore: '… je craignais toutefois que des chevaucheurs de loups et des pillards ne pussent aller à Meduseld alors que la ville n''était pas défendue.” '
+it:
+  title: Signore dei Mannari
+  subtitle: ''
+  text: '**Cavalcalupi.** Quando giochi questo servitore, puoi giocare una cavalcatura :isengard: dalla tua pila degli scarti. Mentre questo servitore non è esausto, è **Feroce.**'
+  lore: ‘…tuttavia io temevo che cavalcatori di lupi e predoni si recassero a Meduseld mentre era indifesa.’
+es:
+  title: Señor de los huargos
+  subtitle: ''
+  text: '**Jinete de huargo.** Cuando juegas este siervo, puedes jugar una montura :isengard: de tu pila de descartes. Mientras este siervo no esta exhausto, él es **fiero.**'
+  lore: …temía, sin embargo, que quienes cabalgaban a lomo de lobo y los saqueadores pudieran llegar a Meduseld, y que la encontrasen indefensa.

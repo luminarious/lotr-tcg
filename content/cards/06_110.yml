@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '110'
+unique: true
+culture: Shire
+type: Event
+class: Regroup
+cost: 1
+en:
+  title: It Burns Us
+  subtitle: ''
+  text: '**Regroup:** Spot Sam and Sméagol (or Gollum) to choose an opponent who must reveal his or her hand. Wound a minion X times, where X is the number of different cultures revealed.'
+  lore: ‘No more than you deserve.’
+de:
+  title: Es brennt uns
+  subtitle: ''
+  text: '**Sammeln:** Entdecke Sam und Sméagol (oder Gollum), um einen Gegenspieler zu bestimmen, der seine Handkarten aufdecken muss. Verwunde einen Diener X mal, wobei X der Zahl der verschiedenen Kulturen unter den aufgedeckten Karten entspricht.'
+  lore: Nichts anderes hast du verdient.
+fr:
+  title: Il Nous Brûle
+  subtitle: ''
+  text: '**Ralliement :** Désignez Sam et Sméagol (ou Gollum) pour choisir un adversaire qui doit révéler sa main. Blessez un séide X fois, X étant le nombre de cultures différentes ainsi révélées.'
+  lore: 'Pas plus que tu ne le mérites.” '
+it:
+  title: Ci Brucia
+  subtitle: ''
+  text: '**Raccolta:** Avvista Sam e Sméagol (o Gollum) per scegliere un avversario che deve mostrare la sua mano. Ferisci X volte un servitore, dove X è pari al numero delle diverse culture mostrate.'
+  lore: ‘Non più di quanto meriteresti.’
+es:
+  title: Nos quema
+  subtitle: ''
+  text: '**Reagrupación:** Avista a Sam y a Sméagol (o a Gollum) y elige un oponente que ha de revelar su mano. Hiere un siervo X veces, donde X es el numero de culturas diferentes reveladas.'
+  lore: No es más de lo que te mereces.

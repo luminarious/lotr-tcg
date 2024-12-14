@@ -1,0 +1,36 @@
+set: '4'
+rarity: U
+number: '148'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Down to the Last Child
+  subtitle: ''
+  text: |-
+
+    Each time a companion or ally loses a skirmish involving an Uruk-hai, place an :isengard: token on this card.   
+    **Shadow:** Remove 2 :isengard: tokens from this card to take control of a site. 
+  lore: The Uruks brought death to the villages of Rohan.
+de:
+  title: Bis zum letzten Mann
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn ein Gefährte oder Verbündeter einen Kampf verliert, an dem ein Uruk-hai beteiligt war, lege eine :isengard: Marke auf diese Karte. **Schatten:** Entferne 2 :isengard: Marken von diesem Effekt, um einen Ort zu kontrollieren.'
+  lore: Die Uruks brachten den Tod in die Dörfer Rohans.
+fr:
+  title: Jusqu'au Dernier Enfant
+  subtitle: ''
+  text: 'Chaque fois qu’un compagnon ou un allié perd un combat impliquant un Ourouk-Haï, déposez un jeton :isengard: sur cette carte. Ombre : Retirez 2 jetons :isengard: de cette carte pour prendre le contrôle d’un site.'
+  lore: Les Ourouks amenaient la mort dans les villages Rohan.
+it:
+  title: Fino all'Ultimo Bambino
+  subtitle: ''
+  text: 'Ogni volta che un compagno o un alleato perde una schermaglia che coinvolga un Uruk-hai, piazza un segnalino :isengard: su questa carta. **Ombra:** Rimuovi 2 segnalini :isengard: da questa carta per prendere il controllo di un sito.'
+  lore: Gli Uruk portarono la morte nei villaggi di Rohan.
+es:
+  title: Hasta El Último Niño
+  subtitle: ''
+  text: 'Cada vez que un compañero o aliado pierde una escaramuza en la que participe un Uruk-hai, pon un contador :isengard: en esta carta. **Sombra:** Quita 2 contadores :isengard: de esta carta para tomar el control de un sitio.'
+  lore: Los Uruks trajeron la muerte a las villas de Rohan.

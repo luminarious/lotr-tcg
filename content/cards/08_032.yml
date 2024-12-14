@@ -1,0 +1,22 @@
+set: '8'
+rarity: R
+number: '32'
+unique: true
+culture: Gondor
+type: Possession
+class: Support Area
+cost: 1
+en:
+  title: Catapult
+  subtitle: ''
+  text: |-
+    To play, spot 2 :gondor: knights.   
+    **Maneuver:** Discard 2 cards from hand to reveal the top card of an opponent’s draw deck. Choose an opponent who must discard a Shadow card that has a twilight cost that is the same as the twilight cost of the revealed card.
+  lore: ''
+de:
+  title: Tribok
+  subtitle: ''
+  text: |-
+    Entdecke 2 :gondor: Ritter, um diese Ausrüstung zu spielen.   
+    **Manöver:** Lege 2 Karten aus deiner Hand ab, um die oberste Karte des Spieldecks eines Gegenspielers aufzudecken. Suche einen Gegenspieler aus, der nun eine Schattenkarte mit den gleichen Kosten wie die aufgedeckte Karte ablegen muss.
+  lore: ''

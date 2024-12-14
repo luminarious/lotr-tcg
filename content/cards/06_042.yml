@@ -1,0 +1,33 @@
+set: '6'
+rarity: C
+number: '42'
+unique: true
+culture: Gollum
+type: Event
+class: Response
+cost: 0
+en:
+  title: Nasty, Foul Hobbitses
+  subtitle: ''
+  text: '**Response:** If Gollum wins a skirmish, add a burden.'
+  lore: ‘We ought to wring their filthy little necks!’
+de:
+  title: Dreckige, kleine Hobbitse
+  subtitle: ''
+  text: '**Reaktion:** Lege eine Lastmarke auf den Ringträger, wenn Gollum einen Kampf gewinnt.'
+  lore: Wir werden ihm seinen dreckigen, kleinen Hals umdrehen.
+fr:
+  title: Immondes et Ssales Hobbits
+  subtitle: ''
+  text: '**Réponse :** Si Gollum gagne un combat, ajoutez un point-fardeau.'
+  lore: 'On devrait tordre leur sale petit cou !” '
+it:
+  title: Cattivi, Bugiardi Hobbit
+  subtitle: ''
+  text: '**Risposta:** Se Gollum vince una schermaglia, aggiungi un segnalino fardello.'
+  lore: ‘Dovremmo torcere i loro piccoli e schifosi colli!’
+es:
+  title: Repugnantes, asquerosos Hobbits
+  subtitle: ''
+  text: '**Respuesta:** Si Gollum gana una escaramuza, añade una carga.'
+  lore: ¡Debemos retorcerles sus asquerosos pescuezos!

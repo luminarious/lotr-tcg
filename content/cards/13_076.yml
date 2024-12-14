@@ -1,0 +1,20 @@
+set: '13'
+rarity: R
+number: '76'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Storied Homestead
+  subtitle: ''
+  text: |-
+    When you play this, add a :gondor: token here for each :gondor: companion who has resistance 7 or more.  
+    **Response:** If a minion’s special ability is used, discard this condition or remove 2 :gondor: tokens from here to cancel its effect.
+  lore: …a silent company of tall images graven in cold stone.
+de:
+  title: Geschichtsträchtige Heimstätte
+  subtitle: ''
+  text: 'Lege eine :gondor: Marke für jeden :gondor: Gefährten, der eine Resistenz von 7 oder mehr hat, auf diese Karte, wenn du sie spielst.**Reaktion:** Lege diesen Effekt ab oder entferne hier 2 :gondor: Marken, wenn ein Diener seine Spezialfähigkeit einsetzt, um deren Auswirkungen zu verhindern.'
+  lore: Eine Gruppe großer Standbilder aus kaltem Stein.

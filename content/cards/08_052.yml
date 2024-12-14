@@ -1,0 +1,23 @@
+set: '8'
+rarity: C
+number: '52'
+unique: true
+culture: Raider
+type: Possession
+class: Ranged Weapon
+cost: 0
+str: '+2'
+en:
+  title: Corsair Ballista
+  subtitle: ''
+  text: |-
+    Bearer must be a corsair.   
+    While you have initiative, bearer is an archer and fierce.
+  lore: Ranged weapons bristled from the warships and aided the Cosairs’ plunder of coastal cities.
+de:
+  title: Corsarenballista
+  subtitle: ''
+  text: |-
+    Muss auf einen Corsaren gespielt werden.   
+    Solange du die Initiative besitzt, ist der Träger Bogenschütze und **erbittert**.
+  lore: Die vor Waffen strotzenden Kriegsschiffe unterstützten die Corsaren bei der Plünderung der Küstenstädte.

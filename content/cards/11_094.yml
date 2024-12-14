@@ -1,0 +1,16 @@
+set: '11'
+rarity: C
+number: '94'
+unique: true
+culture: Man
+type: Possession
+class: Shield
+cost: 3
+vit: '+2'
+en:
+  title: Pavise
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: minion.   
+    The twilight cost of this possession is –1 for each Free Peoples possession you spot. Bearer cannot take wounds except during a skirmish. 
+  lore: An Easterling shield covers almost the entire body.

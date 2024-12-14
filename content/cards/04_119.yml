@@ -1,0 +1,35 @@
+set: '4'
+rarity: R
+number: '119'
+unique: true
+culture: Gondor
+type: Possession
+class: Cloak
+cost: 0
+en:
+  title: Faramir's Cloak
+  subtitle: ''
+  text: |-
+    Bearer must be Faramir.   
+    Each roaming minion skirmishing a Ring-bound Man is strength -1. 
+  lore: Captain Faramir and his rangers were clad in green and brown of varied hues, better to walk unseen in the glades of Ithilien.
+de:
+  title: Faramirs Mantel
+  subtitle: ''
+  text: Muss auf Faramir gespielt werden. Alle wandernden Diener, die gegen einen Ring-verbundenen Menschen kämpfen, erhalten Stärke -1.
+  lore: Heermeister Faramir und seine Waldläufer waren in Grün und Braun von verschiedener Tönung gekleidet, als ob das günstiger sei, um ungesehen in den Lichtungen von Ithilien zu wandern.
+fr:
+  title: La Cape de Faramir
+  subtitle: ''
+  text: Le détenteur doit être Faramir. Chaque séide errant qui combat un Homme associé à l’Anneau a -1 en force.
+  lore: 'Le Capitaine Faramir et ses rôdeurs étaient drapés de tons variés de vert et de brun, afin de traverser discrètement les clairières de L''Ithilien. '
+it:
+  title: Mantello di Faramir
+  subtitle: ''
+  text: Il Possessore deve essere Faramir. Sottrai -1 alla forza di ogni servitore vagante che stia schermagliando con un Uomo **Legato all’Anello.**
+  lore: Il Capitano Faramir e i suoi raminghi erano vestiti in varie tonalità di verde e di marrone come per meglio celarsi nelle radure dell'Ithilien.
+es:
+  title: La Capa De Faramir
+  subtitle: ''
+  text: El portador debe ser Faramir. Cada siervo que esté vagando y que esté en una escaramuza contra un Hombre Vinculado al Anillo es fuerza -1.
+  lore: El Capitán Faramir y sus montaraces estaban vestidos de verde y marrón de varios tonos, para moverse sin ser vistos por los bosques de Ithilien.

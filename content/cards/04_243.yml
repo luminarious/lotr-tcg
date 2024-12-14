@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '243'
+unique: true
+culture: Raider
+type: Event
+class: Archery
+cost: 6
+en:
+  title: Rapid Fire
+  subtitle: ''
+  text: '**Archery: **Exert a :raider: archer to make the minion archery total +1 for each burden (limit +5). '
+  lore: Wars between the southern kingdoms taught speed and precision to the archers of the Haradrim.
+de:
+  title: Schnellfeuer
+  subtitle: ''
+  text: '**FernKampf** Strenge einen :raider: Bogenschützen an, um den Fernkampfwert der Diener um 1 für jede Lastmarke zu erhöhen (maximal +5).'
+  lore: Die Kriege zwischen den Königreichen des Südens lehrten die Bogenschützen der Haradrim schnell und genau zu schießen.
+fr:
+  title: Tir en Rafale
+  subtitle: ''
+  text: '**Archerie :** Affaiblissez un archer :raider: pour augmenter le total d’archerie des séides de +1 pour chaque point-fardeau (limite de +5).'
+  lore: Les guerres entre les royaumes du Sud enseignèrent la vitesse et la précision aux archers Haradrim.
+it:
+  title: In Rapida Successione
+  subtitle: ''
+  text: '**Arcieri:** Sforza un arciere :raider: per aggiungere +1 al totale degli arcieri tra i servitori per ogni segnalino fardello (limite +5).'
+  lore: Le Guerre tra i regni del sud insegnarono velocità e precisione agli arcieri degli Haradrim.
+es:
+  title: Disparo Rápido
+  subtitle: ''
+  text: '**Arquería:** Esfuerza un arquero :raider: para que el total de arquería de los siervos sea +1 por cada carga (límite +5).'
+  lore: Las guerras entre los reinos del Sur enseñaron velocidad y precisión a los arqueros de los Haradrim.

@@ -1,0 +1,13 @@
+set: '15'
+rarity: R
+number: '84'
+unique: true
+culture: Man
+type: Event
+class: Archery
+cost: 3
+en:
+  title: Last Gasp
+  subtitle: ''
+  text: 'Wound 3 :men: archers to exhaust a companion.'
+  lore: Southron archers know that they must press through their exhaustion to win the battle.

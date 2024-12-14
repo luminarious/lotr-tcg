@@ -1,0 +1,22 @@
+set: '10'
+rarity: C
+number: '113'
+unique: true
+culture: Shire
+type: Possession
+class: Armor
+cost: 1
+en:
+  title: Orc Armor
+  subtitle: ''
+  text: |-
+    Bearer must be a Hobbit.   
+    Each Orc and each Uruk-hai skirmishing bearer is strength –1.
+  lore: ‘Well, there you are, Mr. Frodo. A perfect little orc, if I may make so bold….’
+de:
+  title: Orkrüstung
+  subtitle: ''
+  text: |-
+    Muss auf einen Hobbit gespielt werden.   
+    Jeder Ork und jeder Uruk-hai, der gegen den Träger kämpft, erhält Stärke -1.
+  lore: So, da bist du nun, Herr Frodo. Ein vollendeter kleiner Ork, wenn ich mir das erlauben darf….

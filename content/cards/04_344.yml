@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '344'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: Westemnet Hills
+  subtitle: ''
+  text: '**Plains.** When the fellowship moves to Westemnet Hills, heal each mounted companion and mounted ally. '
+  lore: ''
+de:
+  title: Die Hügel Westemnets
+  subtitle: ''
+  text: '**Ebene.** Wenn sich die Gemeinschaft in die Hügel Westemnets bewegt, heile jeden berittenen Gefährten und berittenen Verbündeten.'
+  lore: ''
+fr:
+  title: Les Collines de l'Ouestemnet
+  subtitle: ''
+  text: '**Plaine.** Quand la compagnie se déplace vers les Collines de l’Ouest-emnet, guérissez chaque compagnon et allié détenant une monture.'
+  lore: ''
+it:
+  title: Colline dell'Ovestemnet
+  subtitle: ''
+  text: '**Pianura.** Quando la compagnia si muove verso Colline dell’Ovestemnet, cura ogni compagno a cavallo e alleato a cavallo.'
+  lore: ''
+es:
+  title: Colinas De Oestemnet
+  subtitle: ''
+  text: '**Llanura.** Cuando la comunidad se mueve a las Colinas De Oestemnet, cura cada compañero con montura y cada aliado con montura.'
+  lore: ''

@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '20'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Let Them Come!
+  subtitle: ''
+  text: |-
+
+    Each time a Dwarf wins a skirmish against an Orc, discard that Orc. Discard this condition if a Dwarf loses a skirmish.
+  lore: ‘There is one Dwarf yet in Moria who still draws breath!’
+de:
+  title: Lasst sie nur kommen!
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. Jedesmal, wenn ein Zwerg einen Kampf gegen einen Ork gewinnt, lege den Ork ab. Lege diesen Effekt ab, wenn ein Zwerg einen Kampf verliert.
+  lore: Noch gibt es einen Zwerg in Moria, der atmet!
+fr:
+  title: Laissez-les Venir !
+  subtitle: ''
+  text: Chaque fois qu’un Nain remporte un combat contre un Orque, défaussez cet Orque. Défaussez cette situation si un Nain perd un combat.
+  lore: ‘Il y a encore un Nain dans la Moria à qui il reste du souffle !’
+it:
+  title: Lasciateli Venire!
+  subtitle: ''
+  text: Ogni volta che un Nano vince una schermaglia contro un Orco, scarta quell’Orco. Scarta questa condizione se un Nano perde una schermaglia.
+  lore: ‘C'è ancora un Nano a Moria che respira!’
+es:
+  title: ¡Dejad Que Vengan!
+  subtitle: ''
+  text: Cada vez que un Enano gana una escaramuza contra un Orco, descarta ese Orco. Descarta esta condición si un Enano pierde una escaramuza.
+  lore: Hay un Enano en Moria que todavía respira!

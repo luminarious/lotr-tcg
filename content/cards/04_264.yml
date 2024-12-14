@@ -1,0 +1,15 @@
+set: '4'
+rarity: U
+number: '264'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Ceorl
+  subtitle: Weary Horseman
+  text: '**Response:** If your opponent is about to take control of a site, exert Ceorl and a villager to prevent this. '
+  lore: ‘We were driven back yesterday over the Isen with great loss; many perished at the crossing.’

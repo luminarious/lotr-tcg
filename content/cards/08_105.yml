@@ -1,0 +1,27 @@
+set: '8'
+rarity: R
+number: '105'
+unique: true
+culture: Sauron
+type: Minion
+race: Troll
+cost: 10
+str: '18'
+vit: '4'
+site: 5
+en:
+  title: Olog-hai of Mordor
+  subtitle: ''
+  text: |-
+    **Besieger.** **Fierce.**   
+    The twilight cost of this minion is –2 for each :sauron: minion stacked on a site.   
+    Each time this minion wins a skirmish, you may play a besieger stacked on a site you control. That besieger is fierce and **damage +1** until the regroup phase.
+  lore: ''
+de:
+  title: Olog-hai aus Mordor
+  subtitle: ''
+  text: |-
+    **Belagerer.** **Erbittert.**   
+    Die Kosten für diesen Diener reduzieren sich um 2 für jeden :sauron: Diener, der auf einem Ort gelagert ist.   
+    Jedes Mal, wenn dieser Diener einen Kampf gewinnt, darfst du einen Belagerer spielen, der auf einem Ort lagert, den du kontrollierst. Dieser Belagerer ist bis zu Sammelphase **erbittert** und erhält **Schaden +1**.
+  lore: ''

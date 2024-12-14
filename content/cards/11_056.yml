@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '56'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Battle Cry
+  subtitle: ''
+  text: Make a ranger strength +2 (or +3 if he or she is skirmishing a minion who has a damage bonus).
+  lore: …men were yelling and screaming, and one clear loud voice was calling ‘Gondor! Gondor!’
+de:
+  title: Schlachtruf
+  subtitle: ''
+  text: Gib einem Waldläufer Stärke +2 (oder +3, wenn er gegen einen Diener kämpft, der einen Schadensbonus besitzt.
+  lore: … Menschen schrieen und kreischten, und eine helle, laute Stimme rief Gondor! Gondor!

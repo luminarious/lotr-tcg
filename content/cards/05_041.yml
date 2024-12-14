@@ -1,0 +1,33 @@
+set: '5'
+rarity: R
+number: '41'
+unique: true
+culture: Gondor
+type: Event
+class: Fellowship
+cost: 3
+en:
+  title: These Are My People
+  subtitle: ''
+  text: '**Fellowship:** Exert Aragorn twice to play any number of possessions from your discard pile onto companions with the Aragorn signet.'
+  lore: ‘…I will die as one of them.’
+de:
+  title: Dies ist mein Volk
+  subtitle: ''
+  text: Gemeinschaft. Strenge Aragorn zweimal an, um eine beliebige Anzahl an Ausrüstungen aus deinem Ablagestapel auf Gefährten mit dem Aragornsiegel zu spielen.
+  lore: Dann werde ich als einer von ihnen sterben.
+fr:
+  title: Ceci Est Mon Peuple
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez Aragorn deux fois pour jouer n’importe quel nombre de possessions de votre pile de défausse sur des compagnons qui possèdent le sceau Aragorn.'
+  lore: '… je mourrai comme l''un d''eux.” '
+it:
+  title: Questo è il Mio Popolo
+  subtitle: ''
+  text: '**Compagnia:** Sforza due volte Aragorn per giocare un qualsiasi numero di beni dalla pila degli scarti su compagni che abbiano il sigillo di Aragorn.'
+  lore: ‘…morirò come uno di loro.’
+es:
+  title: Esta es mi gente
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza a Aragorn dos veces para jugar cualquier número de posesiones de tu pila de descartes sobre compañeros con el sello de Aragorn.'
+  lore: ‘…moriré como uno de ellos.’

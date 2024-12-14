@@ -1,0 +1,39 @@
+set: '5'
+rarity: R
+number: '127'
+unique: true
+culture: Rohan
+type: Possession
+class: Helm
+cost: 1
+en:
+  title: Rohirrim Helm
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    **Skirmish:** Discard this possession to cancel a skirmish involving bearer. A minion in this skirmish may exert to prevent this.
+  lore: A helm split by an Uruk blade often still saves the rider who wears it.
+de:
+  title: Helm der Rohirrim
+  subtitle: ''
+  text: 'Muss auf einen :rohan: Menschen gespielt werden. **Kampf** Lege diese Ausrüstung ab, um einen Kampf, an dem der Träger beteiligt ist, aufzuheben. Ein Diener, der an diesem Kampf beteiligt ist, darf sich anstrengen, um dies zu verhindern.'
+  lore: Die Helme der Reiter retteten oftmals deren Leben, auch wenn sie von Urukklingen gespalten wurden.
+fr:
+  title: Heaume Rohirrim
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un Homme :rohan:.   
+    **Combat :** Défaussez cette possession pour annuler un combat impliquant le détenteur. Un séide dans ce combat peut s’affaiblir pour empêcher ceci.
+  lore: Un heaume tranché en deux par une lame Ourouk sauve encore souvent la vie du cavalier qui le porte.
+it:
+  title: Elmo Rohirrim
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Uomo [.   
+    **Schermaglia:** Scarta questo bene per cancellare una schermaglia che coinvolga il possessore. Un servitore in questa schermaglia può sforzarsi per prevenire questo effetto.
+  lore: Un elmo spaccato da una lama Uruk spesso salva ancora il cavaliere che lo indossa.
+es:
+  title: Yelmo de los Rohirrim
+  subtitle: ''
+  text: El portador debe ser un Hombre [. **Escaramuza:** Descarta esta posesión para cancelar una escaramuza en la que participe el portador. Un siervo en esta escaramuza se puede esforzar para prevenir esto.
+  lore: Un yelmo partido por una hoja Uruk todavia salva a veces al jinete que lo lleva.

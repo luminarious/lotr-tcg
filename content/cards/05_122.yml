@@ -1,0 +1,18 @@
+set: '5'
+rarity: P
+number: '122'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Gandalf
+en:
+  title: Éowyn
+  subtitle: Daughter of Éomund
+  text: |-
+    **Valiant.**  
+    **Maneuver:** Play a :rohan: possession on Éowyn to heal her.
+  lore: ‘Let the heralds announce to the folk that the Lady Éowyn will lead them!’

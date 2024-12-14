@@ -1,0 +1,19 @@
+set: '10'
+rarity: R
+number: '68'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '11'
+vit: '4'
+site: 3
+en:
+  title: Úlairë Enquëa
+  subtitle: Thrall of The One
+  text: |-
+    **Enduring.**   
+    Shadow cards cannot exert Úlairë Enquëa during a skirmish phase.   
+    **Skirmish:** If Úlairë Enquëa is skirmishing, heal him to add a burden. 
+  lore: Ever they circled above the City, like vultures that expect their fill of doomed men’s flesh.

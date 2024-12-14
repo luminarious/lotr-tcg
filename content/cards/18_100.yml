@@ -1,0 +1,14 @@
+set: '18'
+rarity: R
+number: '100'
+unique: true
+culture: Rohan
+type: Possession
+cost: 0
+en:
+  title: Gamling's Horn
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man or Merry.  
+    **Skirmish:** Discard a follower from play to make bearer strength +4. If bearer is Gamling, you may also spot another companion to make him or her strength +4 until the regroup phase.
+  lore: Sound the charge! Take them head-on!

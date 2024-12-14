@@ -1,0 +1,22 @@
+set: '7'
+rarity: U
+number: '185'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Morgul Answers
+  subtitle: ''
+  text: |-
+    To play, spot a Nazgûl.   
+    **Skirmish:** Remove :twilight3: and spot 3 Nazgûl to discard a possession or condition borne by a companion a Nazgûl is skirmishing.
+  lore: ''
+de:
+  title: Und Minas Morgul antwortete
+  subtitle: ''
+  text: |-
+    Entdecke einen Nazgûl, um diesen Effekt zu spielen.   
+    **Kampf:** Verringere den Einfluss um :twilight3: und entdecke 3 Nazgûl, um eine Ausrüstung oder einen Effekt von einem Gefährten abzulegen, der gegen einen Nazgûl kämpft.
+  lore: Fahle Blitze flammten auf…

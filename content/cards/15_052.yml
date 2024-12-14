@@ -1,0 +1,13 @@
+set: '15'
+rarity: U
+number: '52'
+unique: true
+culture: Gollum
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Swear by the Precious
+  subtitle: ''
+  text: Spot Frodo and Sméagol to discard a minion. That minion’s owner may make each minion strength –2 until the end of the turn to prevent that.
+  lore: '''I will serve the master of the Precious.’'

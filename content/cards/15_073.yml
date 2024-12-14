@@ -1,0 +1,16 @@
+set: '15'
+rarity: C
+number: '73'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 2
+str: '8'
+vit: '1'
+site: 4
+en:
+  title: Bold Easterling
+  subtitle: ''
+  text: '**Skirmish:** If this minion is skirmishing, discard this minion to play a :men: minion from your discard pile. That minion is **fierce** until the regroup phase.'
+  lore: ‘They hold the northward road; and many have passed on into Anórien.’

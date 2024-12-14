@@ -1,0 +1,35 @@
+set: '1'
+rarity: R
+number: '120'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Alive and Unspoiled
+  subtitle: ''
+  text: |-
+    To play, exert an Uruk-hai.   
+    **Shadow:** Remove :twilight3: and spot X burdens to make the Free Peoples player reveal X cards at random from hand. You may discard 1 revealed card.
+  lore: ‘Bring them to me…. Kill the others….’
+de:
+  title: Lebendig und unversehrt
+  subtitle: ''
+  text: 'Strenge einen Uruk-hai an, um diese Karte in deinen Unterstützungsbereich zu spielen. **Schatten:** Verringere den Einfluss um :twilight3: und entdecke X Lastmarken, um den Freie Völker Spieler zu zwingen, X zufällig bestimmte Karten aus seiner Hand aufzudecken. Du darfst ihn eine dieser Karten ablegen lassen.'
+  lore: Bringt sie mir lebendig… Tötet die anderen…
+fr:
+  title: Vivant et Indemne
+  subtitle: ''
+  text: 'Pour jouer, affaiblissez un Ourouk-Haï. Ombre : Retirez :twilight3: et désignez X points-fardeau pour obliger le joueur des Peuples Libres à révéler X cartes de sa main au hasard. Vous pouvez défausser 1 carte révélée.'
+  lore: ‘Apportez-les-moi….. Tuez les autres….’
+it:
+  title: Vivi e Intatti
+  subtitle: ''
+  text: 'Per giocarla, sforza un Uruk-hai. **Ombra:** Rimuovi :twilight3: e avvista X segnalini fardello per far mostrare X carte a caso dalla mano del giocatore dei Popoli Liberi. Puoi scartare 1 carta mostrata.'
+  lore: ‘Portateli a me… Uccidete gli altri….’
+es:
+  title: Vivos y Sin Estropear
+  subtitle: ''
+  text: 'Para jugarla, esfuerza un Uruk-hai. **Sombra:** Quita :twilight3: y avista X cargas para que el jugador de Gentes Libres revele X cartas de su mano. Puedes descartar 1 carta revelada.'
+  lore: Traédmelos… Matad a los otros…

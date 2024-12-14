@@ -1,0 +1,37 @@
+set: '4'
+rarity: R
+number: '213'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: What Did You Discover?
+  subtitle: ''
+  text: |-
+    **Search.**   
+    Each time the fellowship moves during the regroup phase, you may discard 2 cards from hand to take an :isengard: tracker from your discard pile into hand. 
+  lore: ‘The scouts have come back at last.’
+de:
+  title: Was habt ihr entdeckt?
+  subtitle: ''
+  text: '**Suche.** Jedes Mal, wenn sich die Gemeinschaft in der Sammelphase bewegt, darfst du 2 Karten aus deiner Hand ablegen, um einen :isengard: Spurenleser aus deinem Ablagestapel auf deine Hand zu nehmen.'
+  lore: Die Späher sind endlich zurückgekommen.
+fr:
+  title: Qu'Avez-Vous Découvert?
+  subtitle: ''
+  text: |-
+    **Recherche.**  
+    Chaque fois que la compagnie se déplace durant la phase de ralliement, vous pouvez défausser 2 cartes de votre main pour prendre en main un traqueur :isengard: de votre pile de défausse.
+  lore: 'Les éclaireurs sont enfin revenus.” '
+it:
+  title: Che Cosa Avete Scoperto?
+  subtitle: ''
+  text: '**Ricerca.** Ogni volta che la compagnia si muove durante la fase di raccolta, puoi scartare 2 carte dalla mano per aggiungere alla tua mano un inseguitore :isengard: dalla tua pila degli scarti.'
+  lore: ‘Le vedette finalmente sono tornate.’
+es:
+  title: ¿Qué Has Descubierto?
+  subtitle: ''
+  text: '**Búsqueda.** Cada vez que la comunidad se mueve durante la fase de reagrupación, puedes descartar 2 cartas de tu mano para tomar un rastreador :isengard: de tu pila de descartes en tu mano.'
+  lore: Los exploradores han vuelto al fin.

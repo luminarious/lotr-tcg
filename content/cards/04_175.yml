@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '175'
+unique: true
+culture: Isengard
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Still They Came
+  subtitle: ''
+  text: '**Skirmish:** Exert an Uruk-hai who is not assigned to a skirmish to make another Uruk-hai strength +3. '
+  lore: Before the wall’s foot the dead and broken were piled like shingle in a storm; ever higher rose the hideous mounds….
+de:
+  title: Immer noch griffen sie an
+  subtitle: ''
+  text: '**Kampf** Strenge einen Uruk-hai, der keinem Kampf zugewiesen ist, an, um einem anderen Uruk-hai Stärke +3 zu geben.'
+  lore: Vor dem Wall häuften sich Tote und Verwundete wie Schindeln in einem Sturm; immer höher türmten sich die scheußlichen Haufen….
+fr:
+  title: Mais Ils ne Faisaient Pas Relâche
+  subtitle: ''
+  text: '**Combat :** Affaiblissez un Ourouk-Haï non affecté à un combat pour donner +3 en force à un autre Ourouk-Haï.'
+  lore: 'Au pied du mur, les cadavres et les corps rompus s''empilaient comme galets dans la tempête; les effroyables monticules s''élevaient toujours plus haut… '
+it:
+  title: Ancora Arrivano
+  subtitle: ''
+  text: '**Schermaglia:** Sforza un Uruk-hai che non sia assegnato a una schermaglia per aggiungere +3 alla forza di un altro Uruk-hai.'
+  lore: Ai piedi della muraglia morti e rottami erano ammucchiati come ghiaia e pietrisco in una tempesta; gli orrendi mucchi crescevano sempre…
+es:
+  title: Aún Así Vienen
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza un Uruk-hai que no esté asignado a una escaramuza para dar a otro Uruk-hai fuerza +3.'
+  lore: A los pies del muro, los cadáveres y los despojos se apilaban como pedruscos en una tormenta; el lúgubre montículo crecía y crecía…

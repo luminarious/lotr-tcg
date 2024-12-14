@@ -1,0 +1,42 @@
+set: '3'
+rarity: U
+number: '61'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 3
+str: '7'
+vit: '3'
+site: 4
+en:
+  title: Isengard Warrior
+  subtitle: ''
+  text: |-
+    While you can spot another :isengard: Orc, no player may use archery special abilities.   
+    **Regroup:** Exert this minion and spot 3 wounds on the Ring-bearer to exert every companion.
+  lore: ‘There is evil afoot in Isengard, and the West is no longer safe.’
+de:
+  title: Isengart Krieger
+  subtitle: ''
+  text: 'Solange du einen anderen :isengard: Ork entdecken kannst, darf kein Spieler spezielle Fernkampffähigkeiten einsetzen. **Sammeln:** Entdecke 3 Wunden auf dem Ringträger und strenge diesen Diener an, um jeden Gefährten einmal anzustrengen.'
+  lore: Da ist Böses im Gange in Isengart, und der Westen ist nicht länger sicher.
+fr:
+  title: Guerrier de l'Isengard
+  subtitle: ''
+  text: Tant que vous pouvez désignez un autre Orque :isengard:, aucun joueur ne peut utiliser de capacités spéciales d’archerie. **Ralliement :** Affaiblissez ce séide et désignez 3 blessures sur le Porteur de l’Anneau pour affaiblir tous les compagnons.
+  lore: 'Il se trame du mal en Isengard, et l''Ouest n''est plus en sécurité.” '
+it:
+  title: Guerriero di Isengard
+  subtitle: ''
+  text: |-
+    Mentre puoi avvistare un altro Orco :isengard:, nessun giocatore può usare le abilità speciali degli Arcieri.   
+    **Raccolta:** Sforza questo servitore e avvista 3 ferite sul Portatore dell’Anello per sforzare ogni compagno.
+  lore: ‘Le forze del male si sono destate a Isengard, e l'Occidente ormai non è più sicuro.’
+es:
+  title: Guerrero de Isengard
+  subtitle: ''
+  text: |-
+    Mientras puedas avistar otro Orco :isengard:, ningún jugador puede usar habilidades especiales de arquería.   
+    **Reagrupación:** Esfuerza este siervo y avista 3 heridas en el Portador del Anillo para esforzar cada compañero.
+  lore: El mal está en marcha en Isengard, y el Oeste ya no está a salvo.

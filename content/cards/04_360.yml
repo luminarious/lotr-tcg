@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '360'
+unique: true
+culture: ''
+type: Site
+cost: 9
+siteArrow: Left
+en:
+  title: Fortress of Orthanc
+  subtitle: ''
+  text: '**Battleground.** The Shadow number of Fortress of Orthanc is +2 for each companion over 4. '
+  lore: ''
+de:
+  title: Die Festung Orthanc
+  subtitle: ''
+  text: '**Schlachtfeld.** Die Schattenzahl der Festung Orthanc erhöht sich um 2 für jeden Gefährten über 4.'
+  lore: ''
+fr:
+  title: La Forteresse d'Orthanc
+  subtitle: ''
+  text: '**Champ de bataille.** La Puissance de l’Ombre de la Forteresse d’Orthanc est de +2 pour chaque compagnon au delà de 4.'
+  lore: '9'
+it:
+  title: Fortezza di Orthanc
+  subtitle: ''
+  text: '**Campo di Battaglia.** Aggiungi +2 al numero Ombra della Fortezza di Orthanc per ogni compagno oltre 4.'
+  lore: ''
+es:
+  title: Fortaleza De Orthanc
+  subtitle: ''
+  text: '**Campo de batalla.** El número de Sombra de la Fortaleza de Orthanc es +2 por cada compañero por encima de 4.'
+  lore: ''

@@ -1,0 +1,18 @@
+set: '9'
+rarity: R+
+number: '30'
+unique: true
+culture: Gollum
+type: Companion
+cost: 0
+str: '3'
+vit: '4'
+res: ''
+en:
+  title: Sméagol
+  subtitle: Bearer of Great Secrets
+  text: |-
+    **Ring-bound.** To play, add a burden.   
+    Each time the fellowship moves, place an unbound companion in the dead pile.   
+    **Regroup:** If Sméagol is the Ring-bearer, add 2 burdens to discard each minion. 
+  lore: ‘…he used it to find out secrets, and he put his knowledge to crooked and malicious uses.’

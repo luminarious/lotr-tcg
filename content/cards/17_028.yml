@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '28'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '6'
+en:
+  title: Faramir
+  subtitle: Bearer of Quality
+  text: |-
+    While Faramir is the Ring-bearer, at the start of each skirmish involving him, add 2 burdens or 2 threats.  
+    **Skirmish:** While Faramir is the Ring-bearer, you may wound Faramir to make a minion skirmishing a :gondor: Man roaming until the end of the turn. 
+  lore: ''

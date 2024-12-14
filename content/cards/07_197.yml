@@ -1,0 +1,25 @@
+set: '7'
+rarity: R
+number: '197'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 7
+str: '15'
+vit: '4'
+site: 4
+en:
+  title: Morgul Regiment
+  subtitle: ''
+  text: |-
+    For each Nazgûl you can spot, the Free Peoples player must exert a companion to assign this minion to a skirmish.   
+    **Skirmish:** Exert this minion to make a Nazgûl or :wraith: Orc strength +1.
+  lore: …a host had issued from Minas Morgul….
+de:
+  title: Regiment der Morgularmee
+  subtitle: ''
+  text: |-
+    Um diesen Diener einem Kampf zuzuweisen, muss der Freie Völker Spieler einen Gefährten für jeden Nazgûl, den du entdecken kannst, anstrengen.   
+    **Kampf:** Strenge diesen Diener an, um einem Nazgûl oder :wraith: Ork Stärke +1 zu geben.
+  lore: …ein Heer sei von Minas Morgul gekommen…

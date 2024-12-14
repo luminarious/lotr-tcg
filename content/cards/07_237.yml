@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '237'
+unique: true
+culture: Rohan
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: His Golden Shield
+  subtitle: ''
+  text: 'Spot 3 :rohan: Men to make an opponent remove :twilight1: or place a random card from hand beneath his or her draw deck. Do this once for each card in that player’s hand when you play this event.'
+  lore: …even as Oromë the Great in the battle of the Valar when the world was young.
+de:
+  title: Sein goldenes Schild
+  subtitle: ''
+  text: 'Entdecke 3 :rohan: Menschen, um einen Gegner zu zwingen, entweder den Einfluss um :twilight1: zu verringern oder eine zufällig bestimmte Karte aus seiner Hand unter sein Spieldeck zu legen. Mache dies einmal für jede Handkarte, die dein Gegner hatte, als das Ereignis gespielt wurde.'
+  lore: …wie Oromë der Große in der Schlacht der Valar, als die Welt jung war.

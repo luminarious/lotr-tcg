@@ -1,0 +1,16 @@
+set: '17'
+rarity: U
+number: '21'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Long-stemmed Pipe
+  subtitle: ''
+  text: |-
+    **Pipeweed.**  
+    When you play this, you may search your deck for a :gandalf: card and place it in your discard pile.  
+    **Regroup:** Discard another pipeweed from play to discard a condition. Discard this condition.
+  lore: The smoke from his pipe drifted up, obscuring his face.

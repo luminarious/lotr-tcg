@@ -1,0 +1,25 @@
+set: '7'
+rarity: R
+number: '166'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Southron Leader
+  subtitle: ''
+  text: |-
+    **Southron.**   
+    **Archery:** Spot 4 Free Peoples cultures and either exert this minion or remove a threat to wound a companion (except the Ring-bearer).
+  lore: ''
+de:
+  title: Anführer der Südländer
+  subtitle: ''
+  text: |-
+    **Südländer.**   
+    **Fernkampf:** Entdecke 4 Kulturen der Freien Völker und strenge entweder diesen Diener an oder entferne eine Bedrohung, um einen Gefährten (außer den Ringträger) zu verwunden.
+  lore: …Haradrim, grausam und kühn.

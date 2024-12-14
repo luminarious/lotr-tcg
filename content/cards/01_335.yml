@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '335'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Weatherhills
+  subtitle: ''
+  text: Each Nazgûl’s twilight cost is -1.
+  lore: ''
+de:
+  title: Wetterberge
+  subtitle: ''
+  text: Die Zwielichtkosten für alle Nazgûl reduzieren sich um 1.
+  lore: ''
+fr:
+  title: Collines Venteuses
+  subtitle: ''
+  text: Le coût crépusculaire de chaque Nazgûl est de -1.
+  lore: ''
+it:
+  title: Colline Vento
+  subtitle: ''
+  text: Sottrai -1 al costo crepuscolo di ogni Nazgûl.
+  lore: ''
+es:
+  title: Colinas del Tiempo
+  subtitle: ''
+  text: El coste de penumbra de cada Nazgûl es -1.
+  lore: ''

@@ -1,0 +1,24 @@
+set: '4'
+rarity: R
+number: '301'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 0
+str: '3'
+vit: '4'
+res: '10'
+signet: Signet_Frodo
+en:
+  title: Frodo
+  subtitle: Courteous Halfling
+  text: |-
+    **Ring-bearer (resistance 10).**  
+    While you can spot 3 unbound companions, Shadow cards may not discard cards from your hand or from the top of your draw deck. 
+  lore: ‘But as for us, we are Hobbits of the Shire, far to the North and West, beyond many rivers.’
+fr:
+  title: Frodon
+  subtitle: Semi-Homme Courtois
+  text: '**Porteur de l’Anneau (résistance 10).** Tant que vous pouvez désigner 3 compagnons dissociés, les cartes de l’Ombre ne peuvent pas défausser de cartes de votre main ou du dessus de votre pioche.'
+  lore: 'Quant à nous, nous sommes des Hobbits de la Comté, loin dans le Nord et dans l''Ouest, au-delà de maintes rivières.” '

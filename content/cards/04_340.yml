@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '340'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Right
+en:
+  title: Streets of Edoras
+  subtitle: ''
+  text: '**Sanctuary.** Each:rohan: ally may not participate in archery fire or skirmishes at Streets of Edoras. '
+  lore: ''
+de:
+  title: Die Straßen von Edoras
+  subtitle: ''
+  text: '**Zuflucht.** Alle :rohan: Verbündeten dürfen in den Straßen von Edoras nicht am Fernkampf und Kampf teilnehmen.'
+  lore: ''
+fr:
+  title: Les Rues d'Edoras
+  subtitle: ''
+  text: '**Sanctuaire.** Aucun allié :rohan: ne peut participer à la phase d’archerie ou au combat dans les Rues d’Edoras.'
+  lore: ''
+it:
+  title: Strade di Edoras
+  subtitle: ''
+  text: '**Rifugio.** Ogni alleato :rohan: non può partecipare al fuoco degli arcieri o alle schermaglie presso Strade di Edoras.'
+  lore: ''
+es:
+  title: Calles De Edoras
+  subtitle: ''
+  text: '**Santuario.** Cada aliado :rohan: no puede participar en disparos de arquería o en escaramuzas en las Calles De Edoras.'
+  lore: ''

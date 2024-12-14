@@ -1,0 +1,17 @@
+set: '18'
+rarity: R
+number: '18'
+unique: true
+culture: Gandalf
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+2'
+vit: '+1'
+en:
+  title: Beorning Axe
+  subtitle: ''
+  text: |-
+    Bearer must be a :gandalf: Man.  
+    While Grimbeorn is bearing this possession, each time he wins a skirmish, you may take a :gandalf: card from your discard pile into hand.
+  lore: No Orc or wolf dared enter the land of the Beornings.

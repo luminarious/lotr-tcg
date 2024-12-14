@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '117'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Swordsman of the Northern Kingdom
+  subtitle: ''
+  text: '**Skirmish:** Make a ranger strength +2 (or +4 when skirmishing a roaming minion).'
+  lore: ‘This is no mere Ranger. He is Aragorn, son of Arathorn… and you owe him your allegiance.’
+de:
+  title: Schwertkämpfer des nördlichen Königreiches
+  subtitle: ''
+  text: '**Kampf** Gib einem Waldläufer Stärke +2 (oder Stärke +4, wenn er gegen einen wandernden Diener kämpft).'
+  lore: Er ist nicht nur ein Waldläufer. Es ist Aragorn, Arathorns Sohn… und ihm gilt euer Treueschwur.
+fr:
+  title: Fine Lame du Royaume du Nord
+  subtitle: ''
+  text: '**Combat :** Donnez à un rôdeur +2 en force (ou +4 quand il combat un séide errant).'
+  lore: ‘Ce n'est pas un Rôdeur ordinaire. Il est Aragorn, fils d'Arathorn … et vous lui devez allégeance.’
+it:
+  title: Spadaccino del Regno del Nord
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Ramingo (o +4 quando sta schermagliando con un servitore vagante).'
+  lore: ‘Questo è non più un Ramingo. Egli è Aragorn, figlio di Arathorn … e tu gli devi la tua alleanza.’
+es:
+  title: Espadachín del Reino del Norte
+  subtitle: ''
+  text: '**Escaramuza:** Da a un montaraz Fuerza +2 (o +4 en una escaramuza contra un siervo que este vagando).'
+  lore: Este no es un simple Montaraz. Él es Aragorn, hijo de Arathorn… y le debes lealtad.

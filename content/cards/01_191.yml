@@ -1,0 +1,36 @@
+set: '1'
+rarity: C
+number: '191'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Moria Scout
+  subtitle: ''
+  text: When you play this minion, spot an Elf to add :twilight2:.
+  lore: Like their kindred in the North, the Orcs of Moria have keen noses, often following their prey by scent.
+de:
+  title: Moria Späher
+  subtitle: ''
+  text: 'Wenn du diesen Diener spielst, entdecke einen Elben, um den Einfluss um :twilight2: zu erhöhen.'
+  lore: Wie ihre Verwandten im Norden, besitzen die Orks von Moria gute Nasen, und sie folgen oft dem Geruch ihrer Beute.
+fr:
+  title: Éclaireur de la Moria
+  subtitle: ''
+  text: Quand vous jouez ce séide, désignez un Elfe pour ajouter :twilight2:.
+  lore: Comme leurs cousins du Nord, les Orques de la Moria ont des nez fins, pistant souvent leur proie à l'odeur.
+it:
+  title: Guida di Moria
+  subtitle: ''
+  text: Quando giochi questo servitore, avvista un Elfo per aggiungere :twilight2:.
+  lore: Come i loro consanguinei del Nord, gli Orchi di Moria hanno un olfatto acuto, spesso seguono le loro prede dall'odore.
+es:
+  title: Explorador de Moria
+  subtitle: ''
+  text: Cuando juegas este siervo, avista un Elfo para añadir :twilight2:.
+  lore: Igual que sus parientes en el Norte, los Orcos de Moria tienen el olfato agudo, a menudo persiguiendo su presa por el olor.

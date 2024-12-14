@@ -1,0 +1,19 @@
+set: '19'
+rarity: P
+number: '11'
+unique: true
+culture: Gollum
+type: Companion
+cost: 0
+str: '3'
+vit: '4'
+res: '5'
+en:
+  title: Sméagol
+  subtitle: Pitiable Guide
+  text: |-
+    **Ring-bound.**  
+    To play, add a burden.  
+    Each time Sméagol wins a skirmish, you may shuffle up to 2 :gollum: cards from your discard pile into your draw deck.  
+    **Skirmish**: Exert a Ring-bound companion to make Sméagol strength +2.
+  lore: …now that I see him, I do pity him.

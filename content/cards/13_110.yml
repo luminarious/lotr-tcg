@@ -1,0 +1,21 @@
+set: '13'
+rarity: U
+number: '110'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Isengard Informant
+  subtitle: ''
+  text: '**Regroup:** Exert this minion to play an :orc: Troll from your discard pile.'
+  lore: Some remained in Isengard to propel the war machine.
+de:
+  title: Isengart Informant
+  subtitle: ''
+  text: '**Sammeln:** Strenge diesen Diener an, um einen :orc: Troll aus deinem Ablagestapel zu spielen.'
+  lore: Einige blieben in Isengart zurück, um weitere Kriegsmaschinen zu bauen.

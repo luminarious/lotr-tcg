@@ -1,0 +1,21 @@
+set: '12'
+rarity: S
+number: '65'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '12'
+vit: '2'
+site: 4
+en:
+  title: Frenzied Dunlending
+  subtitle: ''
+  text: While this minion is bearing a possession, it is **fierce.**
+  lore: While Dunlendings lack the skills of the trained soldiers they attack, they carry in them a well-honed hatred.
+de:
+  title: Irrer Dunländer
+  subtitle: ''
+  text: Dieser Diener ist **erbittert**, solange er ausgerüstet ist.
+  lore: Auch wenn viele Dunländer nicht die Fähigkeiten besitzen, wie die ausgebildeten Soldaten, gegen sie kämpfen, so tragen sie zumindest einen wohlgenährten Hass in sich.

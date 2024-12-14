@@ -1,0 +1,15 @@
+set: '4'
+rarity: U
+number: '263'
+unique: true
+culture: Rohan
+type: Possession
+class: Mount
+cost: 1
+en:
+  title: Brego
+  subtitle: ''
+  text: |-
+    To play, spot a :rohan: Man. Bearer must be a Man, Elf, or Wizard. When you play Brego, you may heal bearer.   
+    At the start of each skirmish involving bearer, each minion skirmishing bearer must exert. 
+  lore: Brego was named for the second King of Rohan.

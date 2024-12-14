@@ -1,0 +1,18 @@
+set: '18'
+rarity: R
+number: '34'
+unique: true
+culture: Gollum
+type: Minion
+race: Spider
+cost: 6
+str: '8'
+vit: '8'
+site: 8
+en:
+  title: Shelob
+  subtitle: Menace
+  text: |-
+    **Fierce.** Each time Shelob wins a skirmish, you may add threats up to the number of burdens you can spot.  
+    Each time Shelob wins a skirmish, you may play Gollum from your discard pile; he is strength +3 and **fierce** until the end of turn.
+  lore: ''

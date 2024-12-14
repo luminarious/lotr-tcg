@@ -1,0 +1,22 @@
+set: '8'
+rarity: C
+number: '30'
+unique: true
+culture: Gollum
+type: Possession
+class: Support Area
+cost: 1
+en:
+  title: Web
+  subtitle: ''
+  text: |-
+    **Regroup:** If there are fewer than 3 cards stacked here, spot your Orc or :gollum: minion to stack that minion here.   
+    **Shadow:** Play a :gollum: minion stacked here as if played from hand.
+  lore: ‘Caught in a web. Soon he'll be eaten!’
+de:
+  title: Spinnweben
+  subtitle: ''
+  text: |-
+    **Sammeln:** Entdecke einen deiner Orks oder einen :gollum: Diener, um diesen Diener auf dieser Karte zu lagern, wenn weniger als 3 Karten hier gelagert sind.   
+    **Schatten:** Spiele einen hier gelagerten :gollum: Diener, als wäre er auf deiner Hand.
+  lore: Dein Leben liegt in Scherben, bald wirst du… gefressen.

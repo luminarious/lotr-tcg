@@ -1,0 +1,33 @@
+set: '3'
+rarity: C
+number: '16'
+unique: true
+culture: Elven
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Friends of Old
+  subtitle: ''
+  text: '**Fellowship:** Reveal a card at random from an opponent’s hand. Heal X :elven: allies, where X is the twilight cost of the card revealed. '
+  lore: ‘You have been summoned here to answer the threat of Mordor.’
+de:
+  title: Freunde aus alten Tagen
+  subtitle: ''
+  text: '**Gemeinschaft.** Decke eine zufällig bestimmte Karte aus der Hand eines Gegenspielers auf. Heile X :elven: Verbündete, wobei X den Zwielichtkosten der aufgedeckten Karte entspricht.'
+  lore: Ihr seid hierher gerufen worden, um euch der Bedrohung aus Mordor zu stellen.
+fr:
+  title: Amis de Toujours
+  subtitle: ''
+  text: '**Compagnie :** Révélez une carte au hasard de la main de votre adversaire. Guérissez X alliés :œ:, où X est le coût crépusculaire de la carte révélée.'
+  lore: 'Vous avez été convoqués ici pour répondre à la menace de Mordor.” '
+it:
+  title: Amici di Antica Data
+  subtitle: ''
+  text: '**Compagnia:** Mostra una carta a caso dalla mano dell’avversario. Cura X alleati :elven:, dove X è il costo crepuscolo della carta mostrata.'
+  lore: ‘Siete stati convocati qui per rispondere alla minaccia di Mordor.’
+es:
+  title: Amigos de Antaño
+  subtitle: ''
+  text: '**Comunidad:** Revela una carta al azar de la mano de un oponente. Cura X aliados :elven:, donde X es el coste de penumbra de la carta revelada.'
+  lore: Habéis sido llamados para responder a la amenaza de Mordor.

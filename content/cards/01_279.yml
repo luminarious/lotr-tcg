@@ -1,0 +1,38 @@
+set: '1'
+rarity: R
+number: '279'
+unique: true
+culture: Sauron
+type: Condition
+cost: 0
+en:
+  title: Thin and Stretched
+  subtitle: ''
+  text: |-
+    To play, exert a :sauron: Orc. Plays on the Ring-bearer.   
+    Add a burden at the end of each turn during which bearer was not assigned to a skirmish (and another companion was).
+  lore: ‘I am old, Gandalf. I don't look it….’
+de:
+  title: Dünn und ausgemergelt
+  subtitle: ''
+  text: 'Strenge einen :sauron: Ork an, um diese Karte auf den Ringträger zu spielen. Lege eine Lastmarke am Ende jedes Spielzuges auf den Ringträger, wenn ein anderer Gefährte einem Kampf zugewiesen wurde und er nicht.'
+  lore: Ich bin alt, Gandalf. Man sieht es mir nicht an…
+fr:
+  title: Maigre et Détiré
+  subtitle: ''
+  text: |-
+    Pour jouer, affaiblissez un Orque :sauron:. Jouable sur le Porteur de l’Anneau.  
+    Ajoutez un point-fardeau à la fin de chaque tour au cours duquel le détenteur n’a pas été affecté à un combat (alors qu’un autre compagnon l’a été).
+  lore: ‘Je suis vieux, Gandalf. Je ne le semble pas….’
+it:
+  title: Magro e Teso
+  subtitle: ''
+  text: |-
+    Per giocarla, sforza un Orco :sauron:. Giocala sul Portatore dell’Anello.  
+    Aggiungi un segnalino fardello alla fine di ogni turno in cui il possessore non è stato assegnato a una schermaglia (e lo è stato un altro compagno).
+  lore: ‘Sono vecchio, Gandalf. Non dimostro i miei anni….’
+es:
+  title: Flaco y Estirado
+  subtitle: ''
+  text: Para jugarla, esfuerza un Orco :sauron:. Se juega sobre el Portador del Anillo. Añade una carga al final de cada turno en el que Portador del Anillo no fue asignado a una escaramuza (y otro compañero lo fue).
+  lore: Estoy viejo, Gandalf; no lo parezco…

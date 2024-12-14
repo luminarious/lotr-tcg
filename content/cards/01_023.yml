@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '23'
+unique: true
+culture: Dwarven
+type: Event
+class: Response
+cost: 0
+en:
+  title: Nobody Tosses a Dwarf
+  subtitle: ''
+  text: '**Response:** If a Dwarf wins a skirmish, make an opponent discard 3 cards from the top of his or her draw deck.'
+  lore: ‘My folk have never had dealings with any of the servants of the Enemy.’
+de:
+  title: Niemand schubst einen Zwerg herum!
+  subtitle: ''
+  text: '**Reaktion:** Wenn ein Zwerg einen Kampf gewinnt, muss dein Gegenspieler die obersten 3 Karten von seinem Spieldeck ablegen.'
+  lore: Mein Volk hat niemals mit irgendeinem der Diener des Feindes etwas zu tun gehabt.
+fr:
+  title: Personne ne Lance un Nain
+  subtitle: ''
+  text: '**Réponse :** Si un Nain remporte un combat, obligez un adversaire à défausser 3 cartes du dessus de sa pioche.'
+  lore: ‘Les miens n'ont jamais eu de rapports avec aucun serviteur de l'Ennemi.’
+it:
+  title: Nessuno Calunni un Nano
+  subtitle: ''
+  text: '**Risposta:** Se un Nano vince una schermaglia, fai scartare a un avversario le prime 3 carte del suo mazzo di gioco.'
+  lore: ‘Il mio popolo non ha mai avuto rapporti con alcuno dei servitori del Nemico.’
+es:
+  title: Nadie Deja de Lado a un Enano
+  subtitle: ''
+  text: '**Respuesta:** Si un enano gana una Escaramuza, haz que el oponente descarte las tres cartas superiores de su mazo de robar.'
+  lore: Mi gente nunca ha tenido tratos con los sirvientes del Enemigo.

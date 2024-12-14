@@ -1,0 +1,24 @@
+set: '7'
+rarity: C
+number: '96'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Gondorian Captain
+  subtitle: ''
+  text: |-
+    **Knight.**   
+    **Fellowship:** Discard a fortification to remove a threat.
+  lore: ''
+de:
+  title: Gondorischer Hauptmann
+  subtitle: ''
+  text: |-
+    **Ritter.**   
+    **Gemeinschaft:** Lege eine Befestigung ab, um eine Bedrohung zu entfernen.
+  lore: Die Heerführer aus den Außenlehen werden vor Sonnenuntergang auf der Südstraße erwartet.

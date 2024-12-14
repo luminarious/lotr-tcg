@@ -1,0 +1,33 @@
+set: '2'
+rarity: C
+number: '5'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Flurry of Blows
+  subtitle: ''
+  text: '**Skirmish:** Make a Dwarf strength +2 (or +4 and **damage +1** if bearing 2 hand weapons). '
+  lore: With a second axe, a warrior of Erebor can parry on either flank and counter quickly.
+de:
+  title: Prasselnde Hiebe
+  subtitle: ''
+  text: '**Kampf** Gib einem Zwerg Stärke +2 (oder Stärke +4 und **Schaden +1**, wenn er 2 Handwaffen trägt).'
+  lore: Mit zwei Äxten kann ein Krieger vom Erebor Angriffe von beiden Seiten parieren und blitzschnelle Gegenangriffe ausführen.
+fr:
+  title: Avalanche de Coups
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force à un Nain (ou +4 en force et **dégâts +1** s’il est détenteur de deux armes de mêlée).'
+  lore: Avec une seconde hache, un guerrier d'Erebor peut parer sur un flanc ou l'autre et contrer rapidement
+it:
+  title: Raffica di Colpi
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Nano (o +4 e **Danno +1** se possiede 2 armi da mischia).'
+  lore: Con una seconda ascia, un guerriero di Erebor può parare su entrambi i lati e contrattaccare rapidamente.
+es:
+  title: Torbellino de golpes
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Enano fuerza +2 (o +4 y **daño +1** si lleva 2 armas de mano).'
+  lore: Con una segunda hacha, un guerrero de Erebor puede parar a cada lado y contraatacar rápidamente.

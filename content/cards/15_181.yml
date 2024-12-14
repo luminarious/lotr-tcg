@@ -1,0 +1,13 @@
+set: '15'
+rarity: U
+number: '181'
+unique: true
+culture: Wraith
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Later Than You Think
+  subtitle: ''
+  text: Remove 2 threats to play a Nazgûl. That Nazgûl is twilight cost –2 and gains **hunter 2** until the start of the regroup phase.
+  lore: The Nine have left Minas Morgul.

@@ -1,0 +1,18 @@
+set: '8'
+rarity: R
+number: '81'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Otsëa
+  subtitle: Thrall of The One
+  text: |-
+    **Enduring.** **Fierce.**   
+    **Regroup:** Discard Úlairë Otsëa to add :twilightX:, where X is the current site number.
+  lore: ‘No living man may hinder me!’

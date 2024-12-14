@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '16'
+unique: true
+culture: Elven
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Inside a Song
+  subtitle: ''
+  text: 'Exert an Elf to take an :elven: skirmish event into hand from your discard pile and you may reinforce an :elven: token.'
+  lore: ‘I thought that Elves were all for moon and stars; but this is more elvish than anything I ever heard tell of.’
+de:
+  title: Innerhalb eines Liedes
+  subtitle: ''
+  text: 'Strenge einen Elben an, um ein :elven: Kampfereignis aus deinem Ablagestapel auf die Hand zu nehmen und du darfst eine :elven: Marke ergänzen.'
+  lore: Ich dachte, dass Elben nur Mond und Sterne im Sinn hätten; aber das hier ist elbischer als alles, wovon ich je gehört habe.

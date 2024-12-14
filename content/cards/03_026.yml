@@ -1,0 +1,32 @@
+set: '3'
+rarity: U
+number: '26'
+unique: true
+culture: Elven
+type: Event
+cost: 0
+en:
+  title: Something Draws Near
+  subtitle: ''
+  text: '**Fellowship:** or **Maneuver:** Exert an Elf to discard an :isengard: possession or :isengard: artifact. '
+  lore: ‘We have hunted and slain many Orcs in the woods….’
+de:
+  title: Irgendetwas zieht herauf
+  subtitle: ''
+  text: 'Gemeinschaft oder **Manöver:** Strenge einen Elben an, um eine :isengard: Ausrüstung oder ein :isengard: Artefakt abzulegen.'
+  lore: Wir haben im Wald viele Orks gejagt und erschlagen….
+fr:
+  title: Quelque Chose Approche
+  subtitle: ''
+  text: 'Compagnie ou **Manœuvre :** Affaiblissez un Elfe pour défausser une possession :isengard: ou un artefact :isengard:.'
+  lore: '…nous avons rattrapé les Orques à la nuit tombante… nous les avons cernés et nous leur avons livré bataille hier à l''aube…” '
+it:
+  title: Qualcosa si Avvicina
+  subtitle: ''
+  text: 'Compagnia o **Manovra:** Sforza un Elfo per scartare un bene :isengard: o un artefatto :isengard:.'
+  lore: ‘Abbiamo inseguito e ucciso molti Orchi nel bosco…’
+es:
+  title: Algo Se Acerca
+  subtitle: ''
+  text: '**Comunidad** o **Maniobra:** Esfuerza un Elfo para descartar una posesión :isengard: o un artefacto :isengard:.'
+  lore: Hemos cazado y exterminado a muchos Orcos en los bosques…

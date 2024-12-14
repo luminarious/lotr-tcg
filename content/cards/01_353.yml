@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '353'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Right
+en:
+  title: Anduin Confluence
+  subtitle: ''
+  text: '**River.** When the fellowship moves to Anduin Confluence, discard every ally.'
+  lore: ''
+de:
+  title: Der Zusammenfluss des Anduin
+  subtitle: ''
+  text: '**Fluss.** Wenn sich die Gemeinschaft zum Zusammenfluss des Anduin bewegt, lege alle Verbündeten ab.'
+  lore: ''
+fr:
+  title: Confluent de l'Anduin
+  subtitle: ''
+  text: '**Rivière.** Quand la compagnie se déplace jusqu’au Confluent de l’Anduin, défaussez tous les alliés.'
+  lore: ''
+it:
+  title: Confluenza dell'Anduin
+  subtitle: ''
+  text: '**Fiume.** Quando la Compagnia si muove alla Confluenza dell’Anduin, scarta tutti gli alleati.'
+  lore: ''
+es:
+  title: Confluencia del Anduin
+  subtitle: ''
+  text: '**Río.** Cuando la comunidad se mueve a la Confluencia del Anduin, descarta cada aliado.'
+  lore: ''

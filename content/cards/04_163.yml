@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '163'
+unique: true
+culture: Isengard
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: No Dawn for Men
+  subtitle: ''
+  text: '**Maneuver:** Exert an Uruk-hai to exert X unbound companions, where X is the number of sites you control. '
+  lore: ‘This night, the land will be stained with the blood of Rohan….’
+de:
+  title: Keinen Morgen für die Menschen
+  subtitle: ''
+  text: '**Manöver:** Strenge einen Uruk-hai an, um X nicht-verbundene Gefährten anzustrengen, wobei X der Anzahl an Orten entspricht, die du kontrollierst.'
+  lore: Heute nacht wird das Land mit dem Blut Rohans getränkt….
+fr:
+  title: L'Aube ne Viendra Pas Pour les Hommes
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Ourouk-Haï pour affaiblir X compagnons dissociés, où X est le nombre de sites que vous contrôlez.'
+  lore: 'Cette nuit, le sol portera la tache du sang de Rohan…” '
+it:
+  title: Nessuna Alba per gli Uomini
+  subtitle: ''
+  text: '**Manovra:** Sforza un Uruk-hai per sforzare X compagni Non Legati, dove X è il numero dei siti che controlli.'
+  lore: ‘Stanotte, la terra si macchierà del sangue di Rohan…’
+es:
+  title: No Hay Alba Para Los Hombres
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un Uruk-hai para esforzar X compañeros no-vinculados, donde X es el número de sitios que controlas.'
+  lore: Esta noche, la tierra se teñirá de la sangre de Rohan…

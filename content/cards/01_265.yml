@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '265'
+unique: true
+culture: Sauron
+type: Event
+class: Response
+cost: 0
+en:
+  title: Orc Butchery
+  subtitle: ''
+  text: '**Response:** If a companion is killed by a :sauron: Orc, the Free Peoples player must discard 3 cards from the top of his or her draw deck for each card in the dead pile.'
+  lore: For sport, Orcs hew cruelly at the bodies of those they slay.
+de:
+  title: Ork Schlachtfest
+  subtitle: ''
+  text: '**Reaktion:** Wenn ein Gefährte durch einen :sauron: Ork getötet wird, muss der Freie Völker Spieler für jede Karte in seinem Friedhof die 3 obersten Karten seines Spieldecks ablegen.'
+  lore: Aus Spaß zerhacken die Orks die Körper derer, die sie erschlagen haben.
+fr:
+  title: Massacre Orque
+  subtitle: ''
+  text: '**Réponse :** Si un compagnon est tué par un Orque :sauron:, le joueur des Peuples Libres doit défausser 3 cartes du dessus de sa pioche pour chaque carte dans le cimetière.'
+  lore: Par jeu, les Orques tailladent cruellement les corps de ceux qu'ils tuent.
+it:
+  title: Strage degli Orchi
+  subtitle: ''
+  text: '**Risposta:** Se un compagno è ucciso da un Orco :sauron:, il giocatore dei Popoli Liberi deve scartare 3 carte dalla cima del suo mazzo di gioco per ogni carta nella pila dei morti.'
+  lore: Per divertimento, gli Orchi infieriscono crudelmente sui corpi di chi hanno ucciso.
+es:
+  title: Matanza Orca
+  subtitle: ''
+  text: '**Respuesta:** Si un Orco :sauron: mata a un compañero, el jugador de Gentes Libres debe descartar las 3 cartas superiores de su mazo de robar por cada carta en la pila de muertos.'
+  lore: Por deporte, los Orcos se recrean en los cuerpos de los sus victimas.

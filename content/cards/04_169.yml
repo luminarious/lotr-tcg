@@ -1,0 +1,49 @@
+set: '4'
+rarity: R
+number: '169'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Ranged Commander
+  subtitle: ''
+  text: |-
+    **Archer.**   
+    The twilight cost of each :isengard: archer is -1.   
+    **Archery:** Exert Ranged Commander to make the Free Peoples player wound an unbound companion; this minion does not add to the minion archery total. 
+  lore: Hand-picked Uruks led Saruman’s crossbowmen.
+de:
+  title: Anführer der Fernkämpfer
+  subtitle: ''
+  text: |-
+    **Bogenschütze.**  
+    Die Zwielichtkosten für :isengard: Bogenschützen reduzieren sich um 1.  
+    **Fernkampf:** Strenge diesen Diener an, um den Freie Völker Spieler zu zwingen, einen nicht-verbundenen Gefährten zu verwunden; dieser Diener zählt dann nicht zum Fernkampfwert der Diener.
+  lore: Handverlesene Uruks führten Sarumans Armbrustschützen an.
+fr:
+  title: Commandant à Distance
+  subtitle: ''
+  text: |-
+    **Archer.**  
+    Le coût crépusculaire de chaque archer :isengard: est de -1. **Archerie :** Affaiblissez le Commandant à Distance pour obliger le joueur des Peuples Libres à blesser un compagnon dissocié; ce séide ne s’ajoute pas au total d’archerie des séides.
+  lore: Des Ourouks choisis personnellement mènent les arbalétriers de Saroumane.
+it:
+  title: Comandante dei Tiratori
+  subtitle: ''
+  text: |-
+    **Arciere.**  
+    Sottrai -1 al costo crepuscolo di ogni arciere :isengard:.   
+    **Arcieri:** Sforza Comandante dei Tiratori per far ferire al giocatore dei Popoli Liberi un compagno Non Legato; questo servitore non si aggiunge al totale degli arcieri tra i servitori.
+  lore: Uruk scelti uno a uno comandano i balestrieri di Saruman.
+es:
+  title: Comandante De Arqueros
+  subtitle: ''
+  text: |-
+    **Arquero.** El coste de penumbra de cada arquero :isengard: es -1.   
+    **Arquería:** Esfuerza el Comandante De Arqueros para hacer que el jugador de Gentes Libres hiera un compañero no-vinculado; este siervo no añade al total de arquería de los siervos.
+  lore: Uruks elegidos cuidadosamente lideraron a los ballesteros de Saruman.

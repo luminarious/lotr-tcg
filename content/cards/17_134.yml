@@ -1,0 +1,18 @@
+set: '17'
+rarity: C
+number: '134'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '8'
+vit: '3'
+site: 5
+en:
+  title: White Hand Vanquisher
+  subtitle: ''
+  text: |-
+    **Fierce.**  
+    This minion is damage +1 for each :urukhai: hunter assigned to a skirmish.
+  lore: '''They have a blasting fire, and with it they took the wall.’'

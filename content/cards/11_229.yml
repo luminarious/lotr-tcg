@@ -1,0 +1,13 @@
+set: '11'
+rarity: S
+number: '229'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Right
+en:
+  title: Barazinbar
+  subtitle: ''
+  text: '**Mountain.** At the start of your fellowship phase, you may exert a Dwarf to play a :dwarven: possession from your draw deck.'
+  lore: ''

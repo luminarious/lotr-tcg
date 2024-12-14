@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '144'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Border Patrol
+  subtitle: ''
+  text: 'When you play this condition, spot a mounted :rohan: Man to add 3 :rohan: tokens here. **Response:** If a minion is played at a plains site, discard this condition or remove a :rohan: token from here to exert that minion. '
+  lore: ‘Who are you, and what are you doing in this land?’
+de:
+  title: Grenzpatrouille
+  subtitle: ''
+  text: 'Wenn du diesen Effekt spielst, entdecke einen berittenen :rohan: Menschen, um 3 :rohan: Marken auf diese Karte zu legen. **Reaktion:** Wenn ein Diener an einer Ebene gespielt wird, lege diesen Effekt ab oder entferne eine :rohan: Marke von dieser Karte, um diesen Diener anzustrengen.'
+  lore: Wer seid ihr und was tut ihr in diesem Land?

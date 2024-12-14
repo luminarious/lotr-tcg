@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '212'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Lost in the Woods
+  subtitle: ''
+  text: '**Skirmish:** Transfer this condition from your support area to a companion your Nazgûl is skirmishing. Limit 1 per companion. Each :wraith: minion skirmishing bearer is strength +1 for each forest site you can spot.'
+  lore: ''
+de:
+  title: Im Wald verirrt
+  subtitle: ''
+  text: '**Kampf:** Verschiebe diesen Effekt aus deinem Unterstützungsbereich auf einen Gefährten, der gegen deinen Nazgûl kämpft. Maximal 1 pro Gefährte. Jeder :wraith: Diener, der gegen den Träger kämpft, erhält für jeden Wald, den du entdecken kannst, Stärke +1.'
+  lore: ''

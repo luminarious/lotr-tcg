@@ -1,0 +1,45 @@
+set: '4'
+rarity: C
+number: '193'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Uruk Runner
+  subtitle: ''
+  text: |-
+    **Tracker.** **Fierce.**   
+    During a **fierce** skirmish involving this minion, it is strength +2. 
+  lore: ‘Run, curse you! Run while night lasts!’
+de:
+  title: Uruk Läufer
+  subtitle: ''
+  text: |-
+    **Spurenleser.** **Erbittert.**  
+    Dieser Diener erhält während eines **Erbittert**en Kampfes Stärke +2.
+  lore: Rennt, verflucht noch mal! Rennt, solange es Nacht ist!
+fr:
+  title: Coureur Ourouk
+  subtitle: ''
+  text: |-
+    **Traqueur.** **Acharné.**  
+    Pendant un combat **acharné** qui l’implique, ce séide a +2 en force.
+  lore: 'Courez, malédiction! Courez, tant que la nuit dure!” '
+it:
+  title: Corridore Uruk
+  subtitle: ''
+  text: |-
+    **Inseguitore.**  
+    **Feroce.**  
+    Durante una schermaglia **Feroce** che coinvolga questo servitore, aggiungi +2 alla sua forza.
+  lore: ‘Correte, maledetti! Correte finché fa notte!’
+es:
+  title: Corredor Uruk
+  subtitle: ''
+  text: '**Rastreador.** **Fiero.** Durante una escaramuza fiera en la que esté participando, él es fuerza +2.'
+  lore: ¡Corred, maldición! ¡Corred mientras dure la noche!

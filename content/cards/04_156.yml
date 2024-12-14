@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '156'
+unique: true
+culture: Isengard
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Kill Them Now
+  subtitle: ''
+  text: '**Skirmish:** Make an :isengard: tracker strength +2 (or +4 if skirmishing a character bearing a search card). '
+  lore: ‘They're a cursed nuisance, and we're in a hurry.’
+de:
+  title: Tötet sie jetzt
+  subtitle: ''
+  text: '**Kampf** Gib einem :isengard: Spurenleser Stärke +2 (oder Stärke +4, wenn auf dem Charakter, gegen den er kämpft, eine Suche-Karte liegt).'
+  lore: Sie sind eine verdammte Last, und wir haben es eilig.
+fr:
+  title: Tuons-Les Tout de Suite
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force à un traqueur :isengard: (ou +4 s’il combat un personnage qui détient une porte carte de recherche).'
+  lore: 'Ils nous encombrent fichtrement, et nous sommes pressés.” '
+it:
+  title: Uccideteli Ora
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un inseguitore :isengard: (o +4 se sta schermagliando con un personaggio che porti una carta Ricerca).'
+  lore: ‘Sono una maledetta seccatura, e noi abbiamo molta fretta.’
+es:
+  title: Matadlos Ahora
+  subtitle: ''
+  text: '**Escaramuza:** Da a un rastreador :isengard: fuerza +2 (o +4 si está en una escaramuza contra un personaje que lleve una carta de búsqueda).'
+  lore: Son una maldita molestia y tenemos prisa.

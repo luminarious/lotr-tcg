@@ -1,0 +1,23 @@
+set: '13'
+rarity: R
+number: '93'
+unique: true
+culture: Man
+type: Condition
+class: Support Area
+cost: 2
+res: '-1'
+en:
+  title: Harmless
+  subtitle: ''
+  text: |-
+    **Response:** If a companion loses a skirmish involving a :men: minion, transfer this condition from your support area to that companion. Limit 1 per companion.  
+    Minions cannot take wounds during skirmishes involving bearer.
+  lore: The Dunlendings prey on weak village folk.
+de:
+  title: Harmlos
+  subtitle: ''
+  text: |-
+    **Reaktion:**Verschiebe diesen Effekt aus deinem Unterstützungsbereich auf einen Gefährten, wenn dieser einen Kampf verliert, an dem ein :men: Diener beteiligt ist. Maximal 1 pro Gefährte.  
+    Diener können in Kämpfen gegen den Träger nicht verwundet werden.
+  lore: ''

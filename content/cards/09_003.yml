@@ -1,0 +1,23 @@
+set: '9'
+rarity: R+
+number: '3'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 4
+str: '7'
+vit: '4'
+en:
+  title: Durin III
+  subtitle: Dwarven Lord
+  text: |-
+    **Damage +1.**   
+    While you can spot 2 Dwarves, Durin III is twilight cost –2.   
+    Durin III is strength +1 for each artifact and each possession he bears. 
+  lore: Durin is the name that the Dwarves used for the eldest of the Seven Fathers of their race….
+de:
+  title: Durin III.
+  subtitle: Zwergenkönig
+  text: '**Schaden +1**. Solange du 2 Zwerge entdecken kannst, reduzieren sich die Kosten für Durin III. um 2. Durin III. erhält Stärke +1 für jedes Artefakt und jede Ausrüstung, mit denen er ausgerüstet ist.'
+  lore: Durin ist der Name, den die Zwerge für den ältesten der Sieben Väter ihrer Rasse… gebrauchten.

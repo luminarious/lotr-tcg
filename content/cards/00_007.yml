@@ -1,0 +1,27 @@
+set: '0'
+rarity: W
+number: '7'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 9
+str: '16'
+vit: '4'
+site: 5
+en:
+  title: Army of Isengard
+  subtitle: ''
+  text: |-
+    **Damage +1**   
+    To play, spot an Uruk–Hai.   
+    **Menace -** When you play this minion, it becomes fierce.
+  lore: Against the Deeping Wall the hosts of Isengard roared like a sea.
+de:
+  title: Armee aus Isengart
+  subtitle: ''
+  text: |-
+    **Schaden +1**   
+    Entdecke einen Uruk-Hai ,um die Armee aus Isengart zu spielen.   
+    **Gefahr -** Wenn du diesen Diener spielst, wird er erbittert.
+  lore: Against the Deeping Wall the hosts of Isengard roared like a sea.

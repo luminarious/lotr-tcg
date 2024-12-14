@@ -1,0 +1,18 @@
+set: '1'
+rarity: U
+number: '57'
+unique: true
+culture: Elven
+type: Ally
+race: Elf
+cost: 2
+str: '3'
+vit: '3'
+site: '6'
+en:
+  title: Rúmil
+  subtitle: Elven Protector
+  text: |-
+    **Archer.**   
+    **Archery:** Exert Rúmil to wound an Orc.
+  lore: Brother to Haldir, Rúmil guards the northern marches of the Golden Wood.

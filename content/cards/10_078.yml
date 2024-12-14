@@ -1,0 +1,21 @@
+set: '10'
+rarity: U
+number: '78'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '2'
+site: 6
+en:
+  title: Advance Scout
+  subtitle: ''
+  text: '**Shadow:** Exert or discard this minion to make each :sauron: minion you spot roaming until the regroup phase. '
+  lore: The lines of fire became flowing torrents, file upon file of Orcs bearing flames….
+de:
+  title: Stoßtrupp Späher
+  subtitle: ''
+  text: '**Schatten:** Strenge diesen Diener an oder lege ihn ab, um alle :sauron: Diener, die du entdeckst, bis zur Sammelphase wandernd zu machen.'
+  lore: Die Feuerlinien wurden zu reißenden Sturzbächen, eine Reihe flammentragender Orks nach der anderen….

@@ -1,0 +1,17 @@
+set: '17'
+rarity: C
+number: '92'
+unique: true
+culture: Orc
+type: Possession
+class: Mount
+cost: 3
+str: '+4'
+vit: '+2'
+en:
+  title: Vicious Warg
+  subtitle: ''
+  text: |-
+    Bearer must be an :orc: Orc with strength 9 or less.  
+    Bearer is fierce.
+  lore: '''…where the warg howls, there also the orc prowls.’'

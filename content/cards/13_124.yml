@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '124'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Éowyn
+  subtitle: Restless Warrior
+  text: |-
+    Each possession you play on Éowyn during the fellowship phase is twilight cost –1.  
+    Each time the fellowship moves during the regroup phase, you may reinforce a :rohan: token (or reinforce 2:rohan: tokens if you can spot Éomer or Théoden).
+  lore: ‘Let her be as lord to the Eorlingas, while we are gone.’

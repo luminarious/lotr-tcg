@@ -1,0 +1,18 @@
+set: '10'
+rarity: U
+number: '105'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Brave and Loyal
+  subtitle: ''
+  text: 'If a Hobbit companion is not assigned to a skirmish, exert that Hobbit to have him or her replace a companion (except the Ring-bearer) in a skirmish. '
+  lore: ‘Now come, you filth!’ he cried. ‘You've hurt my master, you brute, and you'll pay for it.’
+de:
+  title: Tapfer und loyal
+  subtitle: ''
+  text: Wenn ein Hobbitgefährte keinem Kampf zugewiesen ist, strenge diesen an, damit er einen Gefährten (außer den Ringträger) in einem Kampf ersetzt.
+  lore: Nun komm, du Scheusal!" rief er. "Du hast meinen Herrn verletzt, du Untier, und dafür wirst du bezahlen.

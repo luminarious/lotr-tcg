@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '187'
+unique: true
+culture: Moria
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Host of Thousands
+  subtitle: ''
+  text: '**Shadow:** Play a :moria: Orc from your discard pile.'
+  lore: Killing one is no victory, since a dozen from the warrens below will take his place.
+de:
+  title: Eine schier unerschöpfliche Flut
+  subtitle: ''
+  text: '**Schatten:** Spiele einen :moria: Ork aus deinem Ablagestapel.'
+  lore: Einen zu töten ist kein Sieg, solange aus den Barracken dort unten ein Dutzend seine Stelle einnehmen.
+fr:
+  title: Cohorte de Milliers
+  subtitle: ''
+  text: 'Ombre : Jouez un Orque :moria: de votre pile de défausse.'
+  lore: En tuer un n'est pas une victoire, puisqu'une douzaine sortiront du nid pour prendre sa place.
+it:
+  title: Schiera di Migliaia
+  subtitle: ''
+  text: '**Ombra:** Gioca un Orco :moria: dalla tua pila degli scarti.'
+  lore: Ucciderne uno non è una vittoria, dato che una dozzina, provenienti dai labirinti laggiù, prenderanno il suo posto.
+es:
+  title: Hueste de Miles
+  subtitle: ''
+  text: '**Sombra:** Juega un Orco :moria: de tu pila de descartes.'
+  lore: Matar a uno no es una victoria, ya que una docena tomaran su lugar desde los refugios.

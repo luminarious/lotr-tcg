@@ -1,0 +1,24 @@
+set: '0'
+rarity: P
+number: '57'
+unique: true
+culture: Gandalf
+type: Artifact
+class: Staff
+cost: 1
+str: '1'
+vit: '1'
+en:
+  title: Radagast's Staff
+  subtitle: ''
+  text: |-
+    Bearer must be Radagast.  
+    Each time the fellowship moves during the regroup phase, you may draw 2 cards. 
+  lore: ''
+de:
+  title: Stab von Radagast
+  subtitle: ''
+  text: |-
+    Muss auf Radagast gespielt werden.   
+    Jedesmal, wenn sich die Gemeinschaft während der Sammelphase bewegt, darfst du zwei Karten ziehen. 
+  lore: ''

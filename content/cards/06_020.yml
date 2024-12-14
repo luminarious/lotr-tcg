@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '20'
+unique: true
+culture: Elven
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Must Be a Dream
+  subtitle: ''
+  text: '**Fellowship:** Spot an Elf to reveal the top card of your draw deck. Heal up to 2 companions whose culture matches the revealed card. You may discard the revealed card.'
+  lore: ‘May the Grace of the Valar protect you.’
+de:
+  title: Dies muss ein Traum sein
+  subtitle: ''
+  text: '**Gemeinschaft:** Entdecke einen Elben, um die oberste Karte deines Spieldecks aufzudecken. Heile 2 Gefährten, die der selben Kultur wie die aufgedeckte Karte angehören. Du darfst die aufgedeckte Karte ablegen.'
+  lore: Möge die Gunst der Valar dich beschützen.
+fr:
+  title: Ce Doit Être un Rêve
+  subtitle: ''
+  text: '**Compagnie :** Désignez un Elfe pour révéler la première carte de votre pioche. Guérissez jusqu’à 2 compagnons dont la culture est identique à celle de la carte révélée. Vous pouvez défausser la carte révélée.'
+  lore: 'Que la grâce du Valar vous protège.” '
+it:
+  title: Deve Essere Un Sogno
+  subtitle: ''
+  text: '**Compagnia:** Avvista un Elfo per mostrare la prima carta del tuo mazzo di gioco. Cura fino a 2 compagni la cui cultura combaci con la carta mostrata. Puoi scartare la carta mostrata.'
+  lore: ‘Possa la Grazia dei Valar proteggerti.’
+es:
+  title: Debe ser un sueño
+  subtitle: ''
+  text: '**Comunidad:** Avista un Elfo para revelar la carta superior de tu mazo de robar. Cura hasta dos compañeros cuya cultura sea la misma que la de la carta revelada. Puedes descartar la carta revelada.'
+  lore: Que la gracia de los Valar te proteja.

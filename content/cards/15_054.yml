@@ -1,0 +1,18 @@
+set: '15'
+rarity: S
+number: '54'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 4
+str: '8'
+vit: '4'
+res: '8'
+en:
+  title: Aragorn
+  subtitle: Swift Hunter
+  text: |-
+    **Ranger. Hunter 1.** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    **Skirmish:** Exert Aragorn to make a hunter companion strength +1.
+  lore: Ride out with me. Ride out and meet them.

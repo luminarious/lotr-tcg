@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '70'
+unique: true
+culture: Gondor
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Hope Renewed
+  subtitle: ''
+  text: 'Discard a :gondor: possession from play to discard a possession from play and you may reinforce a :gondor: token. '
+  lore: '…Frodo saw the old king’s head: it was lying rolled away by the roadside… ‘Look! The king has got a crown again!’'
+de:
+  title: Neue Hoffnung
+  subtitle: ''
+  text: 'Lege eine :gondor: Ausrüstung ab, um eine Ausrüstung abzulegen und du darfst eine :gondor: Marke ergänzen.'
+  lore: 'Plötzlich sah Frodo… den Kopf des alten Königs: er war beiseite gerollt und lag am Straßenrand…. "Schau! Der König hat wieder eine Krone!'

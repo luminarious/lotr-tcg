@@ -1,0 +1,33 @@
+set: '6'
+rarity: C
+number: '47'
+unique: true
+culture: Gollum
+type: Event
+class: Response
+cost: 0
+en:
+  title: You’re a Liar and a Thief
+  subtitle: ''
+  text: '**Response:** If Gollum wins a skirmish, wound a companion (except the Ring-bearer).'
+  lore: '‘No, sweet one. See, my precious: if we has it, then we can escape, even from Him, eh?’'
+de:
+  title: Du bist ein Lügner und ein Dieb
+  subtitle: ''
+  text: '**Reaktion:** Verwunde einen Gefährten (außer den Ringträger), wenn Gollum einen Kampf gewinnt.'
+  lore: 'Nein, Süßer. Schau, mein Schatz: wenn wir ihn haben, dann können wir entfliehen, selbst vor Ihm, nicht wahr?'
+fr:
+  title: Tu Es un Menteur et un Voleur
+  subtitle: ''
+  text: '**Réponse :** Si Gollum gagne un combat, blessez un compagnon (sauf le Porteur de l’Anneau).'
+  lore: 'Non, doux ami. Non, mon trésor : si on l''a, on pourra s''échapper, même de Lui, hé ?” '
+it:
+  title: Sei un Bugiardo e un Ladro
+  subtitle: ''
+  text: '**Risposta:** Se Gollum vince una schermaglia, ferisci un compagno (tranne il Portatore dell’Anello).'
+  lore: '‘No, dolce tesoro. Vedi, tesoro mio: se ce l''abbiamo noi, allora possiamo fuggire, anche da Lui, eh?’'
+es:
+  title: Eres un ladrón y un mentiroso
+  subtitle: ''
+  text: '**Respuesta:** Si Gollum gana una escaramuza, hiere un compañero (excepto el Portador del Anillo).'
+  lore: 'No, dulce Tesoro. Escucha, mi Tesoro: si es nuestro, podremos escapar, hasta de Él, ¿eh?'

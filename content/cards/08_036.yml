@@ -1,0 +1,25 @@
+set: '8'
+rarity: R
+number: '36'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '8'
+vit: '3'
+en:
+  title: Garrison of Gondor
+  subtitle: ''
+  text: |-
+    **Archer.** **Knight.**   
+    To play, spot 3 :gondor: companions.   
+    While you can spot a fortification, Garrison of Gondor is defender +1.
+  lore: 'But about the Gate resistance still was stout…. '
+de:
+  title: Garnison von Gondor
+  subtitle: ''
+  text: |-
+    **Bogenschütze.** **Ritter.**  
+    Entdecke 3 :gondor: Gefährten, um die Garnison von Gondor zu spielen. Solange du eine Befestigung entdecken kannst, ist die Garnison von Gondor **Verteidiger +1**.
+  lore: Doch am Tor war der Widerstand noch tapfer….

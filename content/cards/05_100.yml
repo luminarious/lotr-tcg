@@ -1,0 +1,26 @@
+set: '5'
+rarity: R
+number: '100'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '11'
+vit: '3'
+site: 6
+en:
+  title: Grishnákh
+  subtitle: Orc Captain
+  text: |-
+    **Tracker.**  
+    The site number of each :sauron: Orc is -3.   
+    **Shadow:** Exert Grishnákh twice and spot another :sauron: Orc to draw 3 cards. The Free Peoples player may add 2 burdens to prevent this.
+  lore: ‘They might agree with me, with Grishnákh….’
+fr:
+  title: Grishnakh
+  subtitle: Capitaine Orque
+  text: |-
+    Traqueur. Le numéro de site de chaque Orque :sauron: est de -3.   
+    **Ombre :** Affaiblissez Grishnakh deux fois et désignez un autre Orque :sauron: pour piocher 3 cartes. Le joueur des Peuples Libres peut ajouter 2 points-fardeau pour empêcher ceci.
+  lore: 'Ils pourraient être d''accord avec moi, Grishnakh…” '

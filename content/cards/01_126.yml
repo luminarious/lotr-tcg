@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '126'
+unique: true
+culture: Isengard
+type: Event
+class: Maneuver
+cost: 3
+en:
+  title: Hunt Them Down!
+  subtitle: ''
+  text: '**Maneuver:** Make an Uruk-hai **fierce** until the regroup phase.'
+  lore: ‘Do not stop until they are found!’
+de:
+  title: Bringt sie zur Strecke!
+  subtitle: ''
+  text: '**Manöver:** Ein Uruk-hai wird bis zur Sammelphase **Erbittert.**'
+  lore: Jagt sie! Bis ihr sie gefunden habt!
+fr:
+  title: Chassez-les !
+  subtitle: ''
+  text: '**Manœuvre :** Rendez un Ourouk-Haï **acharné** jusqu’à la phase de ralliement.'
+  lore: ‘N'arrêtez pas jusqu'à ce qu'ils soient trouvés !
+it:
+  title: Date Loro la Caccia!
+  subtitle: ''
+  text: '**Manovra:** Rendi un Uruk-hai **Feroce** fino alla fase di raccolta.'
+  lore: ‘Non vi fermate finché non li avrete trovati!
+es:
+  title: ¡Buscad Hasta Dar Con Ellos!
+  subtitle: ''
+  text: '**Maniobra:** Da**fiero** a un Uruk-hai hasta la fase de reagrupación.'
+  lore: ¡No paréis hasta encontrarlos!

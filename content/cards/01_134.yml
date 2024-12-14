@@ -1,0 +1,40 @@
+set: '1'
+rarity: C
+number: '134'
+unique: true
+culture: Isengard
+type: Condition
+cost: 1
+en:
+  title: Saruman's Chill
+  subtitle: ''
+  text: |-
+    **Spell.** **Weather.** To play, exert a :isengard: minion. Plays on a site. Limit 1 per site.   
+    Each Hobbit who moves from this site must exert. Discard this condition at the end of the turn.
+  lore: Saruman’s hand can control the chill of winter.
+de:
+  title: Sarumans Kälte
+  subtitle: ''
+  text: |-
+    **Zauberspruch.** **Wetter.**  
+    Strenge einen :isengard: Diener an, um diese Karte an einen Ort zu spielen. Maximal 1 pro Ort. Jeder Hobbit, der sich von diesem Ort fortbewegt, muss sich anstrengen. Dieser Effekt wird am Ende des Spielzuges abgelegt.
+  lore: Sarumans Zauber kann die Kälte des Winters beeinflussen.
+fr:
+  title: La Froideur de Saroumane
+  subtitle: ''
+  text: |-
+    **Sort.** **Climat.**  
+    Pour jouer, affaiblissez un séide :isengard:. Jouable sur un site. Limité à 1 par site. Chaque Hobbit qui se déplace de ce site doit être affaibli. Défaussez cette situation à la fin du tour.
+  lore: La main de Saroumane peut contrôler la froideur de l'hiver.
+it:
+  title: Gelo di Saruman
+  subtitle: ''
+  text: |-
+    **Magia.** **Atmosferica.**  
+    Per giocare, sforza un servitore :isengard:. Giocala su un sito. Limite 1 per sito. Ogni Hobbit che si muova da questo sito deve sforzarsi. Scarta questa condizione alla fine del turno.
+  lore: Le mani di Saruman possono controllare il gelo dell'inverno.
+es:
+  title: El Frío de Saruman
+  subtitle: ''
+  text: '**Hechizo.** **Clima.** Para jugarlo, esfuerza un siervo :isengard: Se juega en un sitio. Límite 1 por sitio. Cada Hobbit que se mueva de este sitio debe esforzarse. Descarta esta condición al final del turno.'
+  lore: La mano de Saruman puede controlar el frío del invierno.

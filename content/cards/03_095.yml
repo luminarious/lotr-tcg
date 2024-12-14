@@ -1,0 +1,36 @@
+set: '3'
+rarity: C
+number: '95'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 1
+str: '5'
+vit: '2'
+site: 6
+en:
+  title: Orc Guard
+  subtitle: ''
+  text: '**Maneuver:** Exert this minion and discard your :sauron: condition to discard a Free Peoples condition. '
+  lore: The malice of the Dark Tower thins the hopes of Men.
+de:
+  title: Ork Wache
+  subtitle: ''
+  text: '**Manöver:** Strenge diesen Diener an und lege einen deiner :sauron: Effekte ab, um einen Effekt der Freien Völker abzulegen.'
+  lore: Die Bosheiten des Dunklen Turms lassen die Hoffnung der Menschen schwinden.
+fr:
+  title: Garde Orque
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez ce séide et défaussez votre situation :sauron: pour défausser une situation des Peuples Libres.'
+  lore: La malveillance de la Tour Sombre éteint les espoirs de l'Homme.
+it:
+  title: Guardia degli Orchi
+  subtitle: ''
+  text: '**Manovra:** Sforza questo servitore e scarta una tua condizione :sauron: per scartare una condizione dei Popoli Liberi.'
+  lore: La malvagità della Torre Oscura indebolisce le speranze degli Uomini.
+es:
+  title: Guardián Orco
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza este siervo y descarta tu condición :sauron: para descartar una condición de Gentes Libres.'
+  lore: La malicia de la Torre Oscura empequeñece las esperanzas de los Hombres.

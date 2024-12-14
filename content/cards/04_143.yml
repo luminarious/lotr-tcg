@@ -1,0 +1,41 @@
+set: '4'
+rarity: U
+number: '143'
+unique: true
+culture: Isengard
+type: Event
+class: Assignment
+cost: 0
+en:
+  title: Brought Back Alive
+  subtitle: ''
+  text: |-
+    **Search.**   
+    **Assignment:** Exert an :isengard: tracker to assign it to an unbound companion. That companion may exert to prevent this (unless that companion is a Hobbit). 
+  lore: ‘What are they wanted for?… Why alive? Do they give good sport?’
+de:
+  title: Lebendig zurückgebracht
+  subtitle: ''
+  text: |-
+    **Suche.**  
+    **Zuweisung:** Strenge einen :isengard: Spurenleser an, um ihn einem nicht-verbundenen Gefährten zuzuweisen. Dieser Gefährte kann sich anstrengen, um dies zu verhindern (es sei denn, er ist ein Hobbit).
+  lore: Wofür will man sie? Warum lebendig? Bereiten sie viel Spaß?
+fr:
+  title: Les Ramener Vivants
+  subtitle: ''
+  text: |-
+    **Recherche.**  
+    **Affectation :** Affaiblissez un traqueur :isengard: pour l’affecter à un compagnon dissocié. Ce compagnon peut s’affaiblir pour empêcher ceci (sauf si ce compagnon est un Hobbit).
+  lore: 'Pourquoi les veut-on?… Pourquoi vivants? Offrent-il un bon divertissement?” '
+it:
+  title: Riportarli Vivi
+  subtitle: ''
+  text: |-
+    **Ricerca.**  
+    **Assegnazione:** Sforza un inseguitore :isengard: per assegnarlo a un compagno Non Legato. Quel compagno può sforzarsi per prevenire questo effetto (a meno che quel compagno sia un Hobbit).
+  lore: ‘A che cosa servono?… Perché li vogliono vivi? Forse sono divertenti?’
+es:
+  title: Devuelto Con Vida
+  subtitle: ''
+  text: '**Búsqueda.** **Asignación:** Esfuerza un rastreador :isengard: para asignarlo a un compañero no-vinculado. Ese compañero puede esforzarse para prevenir esto (excepto si ese compañero es un Hobbit).'
+  lore: ¿Para qué los quiere? ¿Por qué vivos? ¿Son una buena diversión?

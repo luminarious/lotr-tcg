@@ -1,0 +1,19 @@
+set: '15'
+rarity: U
+number: '17'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '5'
+vit: '3'
+res: '6'
+en:
+  title: Haldir
+  subtitle: Sentry of the Golden Wood
+  text: |-
+    To play, spot an Elf.  
+    While the fellowship is at a battleground site, Haldir is strength +2.  
+    While the fellowship is at a forest site, Haldir is an **archer**.
+  lore: ‘…since you come with an Elf of our kindred, we are willing to befirend you, as Elrond asked…’

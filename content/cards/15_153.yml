@@ -1,0 +1,19 @@
+set: '15'
+rarity: U
+number: '153'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 2
+str: '3'
+vit: '4'
+res: '9'
+en:
+  title: Sam
+  subtitle: Innocent Traveler
+  text: |-
+    **Ring-bound.** While Sam bears the One Ring, he is resistance –4.  
+    **Maneuver:** If Sam is bearing a follower, exert him to heal another Hobbit.  
+    **Response:** If Frodo is killed, make Sam the Ring-bearer.
+  lore: ''

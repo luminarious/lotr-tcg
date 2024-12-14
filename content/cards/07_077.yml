@@ -1,0 +1,22 @@
+set: '7'
+rarity: U
+number: '77'
+unique: true
+culture: Gollum
+type: Condition
+cost: 2
+en:
+  title: We Hates Them
+  subtitle: ''
+  text: |-
+    Bearer must be Sméagol.   
+    Each minion gains this ability: “**Assignment:** Assign this minion to Sméagol.” **Regroup:** Discard this condition to discard a minion and play a companion from your discard pile.
+  lore: ''
+de:
+  title: Wir hassen sie
+  subtitle: ''
+  text: |-
+    Muss auf Sméagol gespielt werden.   
+    Alle Diener erhalten: "**Zuweisung:** Weise diesen Diener Sméagol zu.".   
+    **Sammeln:** Lege diesen Effekt ab, um einen Diener abzulegen und einen Gefährten aus deinem Ablagestapel zu spielen.
+  lore: ''

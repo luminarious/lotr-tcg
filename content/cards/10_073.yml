@@ -1,0 +1,22 @@
+set: '10'
+rarity: U
+number: '73'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Fell Deeds Awake
+  subtitle: ''
+  text: |-
+    To play, spot a :rohan: Man.   
+    Each time you lose initiative, you may liberate a site. 
+  lore: …he seized a great horn from Guthláf his banner-bearer, and he blew such a blast upon it that it burst asunder.
+de:
+  title: Zu grimmen Taten
+  subtitle: ''
+  text: |-
+    Entdecke einen :rohan: Menschen, um diesen Effekt zu spielen.   
+    Jedes Mal, wenn du die Initiative verlierst, darfst du einen Ort befreien.
+  lore: … nahm er ein großes Horn von Guthláf, seinem Bannerträger, und er blies so schmetternd, daß es zerbarst.

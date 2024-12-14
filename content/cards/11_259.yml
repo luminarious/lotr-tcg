@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '259'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Right
+en:
+  title: Stables
+  subtitle: ''
+  text: 'At the start of your fellowship phase, you may exert a :rohan: Man to play a :rohan: mount from your draw deck.'
+  lore: ''
+de:
+  title: Ställe
+  subtitle: ''
+  text: 'Zu Beginn deiner Gemeinschaftsphase darfst du einen :rohan: Menschen anstrengen, um ein :rohan: Reittier aus deinem Spieldeck zu spielen'
+  lore: ''

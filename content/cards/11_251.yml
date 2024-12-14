@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '251'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: Old Forest Road
+  subtitle: ''
+  text: '**Forest.** At the start of your fellowship phase, you may heal 2 Elves. '
+  lore: ''
+de:
+  title: Alte Waldstraße
+  subtitle: ''
+  text: '**Wald.** Zu Beginn deiner Gemeinschaftsphase darfst du 2 Elben heilen. '
+  lore: ''

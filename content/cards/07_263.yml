@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '263'
+unique: true
+culture: Sauron
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Anguish
+  subtitle: ''
+  text: 'Remove 3 threats to make a character skirmishing a :sauron: Orc strength –3.'
+  lore: ‘…the Rammas is breached far and wide…’
+de:
+  title: Pein
+  subtitle: ''
+  text: 'Entferne 3 Bedrohungen, um einem Charakter, der gegen einen :sauron: Ork kämpft, Stärke -3 zu geben.'
+  lore: …denn der Rammas ist weit und breit durchbrochen…

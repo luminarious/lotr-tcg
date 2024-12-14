@@ -1,0 +1,18 @@
+set: '4'
+rarity: R
+number: '73'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Legolas
+  subtitle: Dauntless Hunter
+  text: |-
+    **Archer.**   
+    The twilight cost of each Shadow event and Shadow condition is +1 for each unbound Hobbit you can spot. 
+  lore: ‘They are far, far away…. I know in my heart that they have not rested this night.’

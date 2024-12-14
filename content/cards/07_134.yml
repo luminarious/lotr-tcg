@@ -1,0 +1,25 @@
+set: '7'
+rarity: U
+number: '134'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Desert Scout
+  subtitle: ''
+  text: |-
+    **Southron.** **Ambush** :twilight1:.   
+    When the Free Peoples player assigns this minion to a character and you have initiative, you may wound that character.
+  lore: ''
+de:
+  title: Wüstenspäher
+  subtitle: ''
+  text: |-
+    **Südländer.** **Hinterhalt :twilight1:.**   
+    Wenn du die Initiative besitzt, verwunde einen Charakter, den der Freie Völker Spieler diesem Diener zuweist.
+  lore: …und die Haradrim scharten sich um sie.

@@ -1,0 +1,36 @@
+set: '1'
+rarity: C
+number: '180'
+unique: true
+culture: Moria
+type: Possession
+class: Hand Weapon
+cost: 0
+str: '+2'
+en:
+  title: Goblin Scimitar
+  subtitle: ''
+  text: |-
+    Bearer must be a :moria: Orc.   
+    When you play this possession, you may draw a card.
+  lore: 'Some of the swords were crooked: orc-scimitars with blackened blades.'
+de:
+  title: Goblin Krummsäbel
+  subtitle: ''
+  text: 'Muss auf einen :moria: Ork gespielt werden. Wenn du diese Ausrüstung spielst, darfst du eine Karte ziehen.'
+  lore: 'Einige der Schwerter waren gebogen: Ork-Krummsäbel mit geschwärzten Klingen.'
+fr:
+  title: Cimeterre Gobelin
+  subtitle: ''
+  text: Le détenteur doit être un Orque :moria:. Quand vous jouez cette possession, vous pouvez piocher une carte.
+  lore: 'Certaines des épées étaient courbes: des cimeterres d''Orques aux lames noires.'
+it:
+  title: Scimitarra Goblin
+  subtitle: ''
+  text: Il possessore deve essere un Orco :moria:. Quando giochi questo bene, puoi pescare una carta.
+  lore: 'Alcune delle spade erano curve e ritorte: le scimitarre degli Orchi dalle lame annerite.'
+es:
+  title: Cimitarra Goblin
+  subtitle: ''
+  text: El portador debe ser un Orco :moria:. Cuando juegas esta posesión, puedes robar una carta.
+  lore: 'Algunas de las espadas eran curvas: cimitarras de orcos con hojas negras.'

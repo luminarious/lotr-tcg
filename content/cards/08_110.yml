@@ -1,0 +1,22 @@
+set: '8'
+rarity: U
+number: '110'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Morgai Foothills
+  subtitle: ''
+  text: |-
+    When the fellowship moves from site 4:king:, remove :twilight1: for each Ring-bound companion you spot.   
+    **Regroup:** Discard a card from hand for each Ring-bound companion you can spot. Discard this condition.
+  lore: ‘The Ring is enough. This extra weight is killing me. It must go.’
+de:
+  title: Die Morgai-Vorberge
+  subtitle: ''
+  text: |-
+    Wenn sich die Gemeinschaft von Ort 4iii fortbewegt, verringere den Einfluss um (1) für jeden Ring-verbundenen Gefährten, den du entdeckst.   
+    **Sammeln:** Lege für jeden Ring-verbundenen Gefährten, den du entdeckst, eine Karte aus deiner Hand ab. Lege diesen Effekt ab.
+  lore: ''

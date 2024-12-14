@@ -1,0 +1,18 @@
+set: '15'
+rarity: S
+number: '138'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Rohirrim Soldier
+  subtitle: ''
+  text: |-
+    **Valiant.** While you can spot a :rohan: Man, this companion’s twilight cost is -1.  
+    This companion is strength +1 for each hunter minion you can spot.
+  lore: ‘Let us ride on!’

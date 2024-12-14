@@ -1,0 +1,16 @@
+set: '4'
+rarity: C
+number: '90'
+unique: true
+culture: Gandalf
+type: Companion
+race: Wizard
+cost: 4
+str: '7'
+vit: '4'
+signet: Signet_Gandalf
+en:
+  title: Gandalf
+  subtitle: The White Wizard
+  text: 'While you can spot 3 twilight tokens, Gandalf is strength +3. '
+  lore: ‘Behold, I am not Gandalf the Grey, whom you betrayed. I am Gandalf the White, who has returned from death.’

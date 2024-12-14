@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '109'
+unique: true
+culture: Gondor
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: One Whom Men Would Follow
+  subtitle: ''
+  text: '**Maneuver:** Exert Aragorn to spot an ally. Until the regroup phase, that ally is strength +2 and participates in archery fire and skirmishes.'
+  lore: ‘The skill of the elves can reforge the Sword of Elendil – but only you have the power to wield it.’
+de:
+  title: Einer, dem man folgen würde
+  subtitle: ''
+  text: '**Manöver:** Strenge Aragorn an und entdecke einen Verbündeten. Bis zur Sammelphase erhält dieser Verbündete Stärke +2 und kann an Fernkampf und Kampf teilnehmen.'
+  lore: Die Kunstfertigkeit der Elben kann das Schwert Elendils wiederherstellen – aber nur du kannst es führen.
+fr:
+  title: Quelqu'un que les Hommes Suivraient
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez Aragorn et désignez un allié. Jusqu’à la phase de ralliement, cet allié a +2 en force et participe au tir des archers et aux combats.'
+  lore: ‘Le talent des Elfes peut reforger l'Épée d'Elendil – mais vous seul avez le pouvoir de la manier.’
+it:
+  title: Colui che gli Uomini Seguirebbero
+  subtitle: ''
+  text: '**Manovra:** Sforza Aragorn e avvista un alleato. Fino alla fase di raccolta, quell’alleato aggiunge +2 alla forza e partecipa al tiro degli arcieri e alle schermaglie.'
+  lore: ‘La destrezza degli Elfi può riforgiare la Spada di Elendil – ma solo tu hai il permesso di maneggiarla.’
+es:
+  title: Uno a Quien Los Hombres Seguirían
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza a Aragorn y avista un aliado. Hasta la fase de reagrupación, ese aliado es fuerza +2 y participa en disparos de arquería y escaramuzas.'
+  lore: La habilidad de los Elfos puede reforjar la Espada de Elendi – pero solo si tienes el poder para empuñarla.

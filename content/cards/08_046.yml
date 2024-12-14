@@ -1,0 +1,23 @@
+set: '8'
+rarity: U
+number: '46'
+unique: true
+culture: Gondor
+type: Possession
+class: Hand Weapon
+cost: 0
+str: '+1'
+en:
+  title: Spectral Sword
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Wraith.   
+    **Skirmish:** Discard 3 cards from hand to heal bearer.
+  lore: ‘…pale banners like shreds of cloud, and spears like winter-thickets on a misty night.’
+de:
+  title: Geisterschwert
+  subtitle: ''
+  text: |-
+    Muss auf ein :gondor: Gespenst gespielt werden.   
+    **Kampf:** Lege 3 Karten aus deiner Hand ab, um den Träger zu heilen.
+  lore: … bleiche Bannerwie Wolkenfetzen und Speere wie Winterdickichte in einer nebligen Nacht.

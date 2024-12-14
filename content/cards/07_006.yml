@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '6'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Theoden
+en:
+  title: Gimli
+  subtitle: Faithful Companion
+  text: |-
+    **Damage +1.**   
+    While you have initiative, Gimli is strength +2.
+  lore: ''

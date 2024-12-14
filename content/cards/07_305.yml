@@ -1,0 +1,21 @@
+set: '7'
+rarity: U
+number: '305'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Orc Savage
+  subtitle: ''
+  text: 'While you can spot 6 companions and another :sauron: Orc, this minion is strength +9 and fierce.'
+  lore: North amid the noisome pits lay the first of the great heaps and hills of slag….
+de:
+  title: Wilder Ork
+  subtitle: ''
+  text: 'Solange du 6 Gefährten und einen anderen :sauron: Ork entdecken kannst, ist dieser Diener **erbittert** und erhält Stärke +9.'
+  lore: Nördlich lagen inmitten der stinkenden Gräben die ersten großen Haufen und Berge aus Schlacke…

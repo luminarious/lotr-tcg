@@ -1,0 +1,15 @@
+set: '18'
+rarity: U
+number: '21'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Last Stand
+  subtitle: ''
+  text: |-
+    **Fellowship:** Exert a :gandalf: Man to add 2 :gandalf: tokens here.  
+    **Skirmish:** Remove 3 :gandalf: tokens from here to make a companion strength +3.
+  lore: To give his people time to escape, Brand stood against the Mordor army until he was slain. His friend, the dwarf Dain Ironfoot, stood over him until he too was slain.

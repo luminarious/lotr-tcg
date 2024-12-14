@@ -1,0 +1,18 @@
+set: '12'
+rarity: R
+number: '119'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 2
+str: '3'
+vit: '4'
+res: '8'
+en:
+  title: Bilbo
+  subtitle: Melancholy Hobbit
+  text: |-
+    **Ring-bound.**   
+    At the start of each skirmish involving Bilbo, you may exert him to take a :shire: skirmish event into hand from your discard pile.
+  lore: ‘I want to see the wild country again before I die, and the Mountains….’

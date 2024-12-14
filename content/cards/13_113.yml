@@ -1,0 +1,21 @@
+set: '13'
+rarity: C
+number: '113'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 5
+str: '14'
+vit: '3'
+site: 4
+en:
+  title: Orc Line-breaker
+  subtitle: ''
+  text: At the end of each skirmish involving this minion, if you can spot a Free Peoples culture token, this minion is **fierce** until the regroup phase.
+  lore: Fell captains moved Sauron’s forces from the Gorgoroth plains.
+de:
+  title: Ork Linienbrecher
+  subtitle: ''
+  text: Wenn du am Ende eines Kampfes, an dem dieser Diener beteiligt ist, eine Kulturmarke der Freien Völker entdecken kannst, wird dieser Diener bis zur Sammelphase **erbittert**.
+  lore: Besonders böse Anführer trieben Saurons Streitmacht über die Gorgoroth-Ebenen voran.

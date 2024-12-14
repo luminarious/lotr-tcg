@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '98'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 2
+str: '6'
+vit: '1'
+site: 4
+en:
+  title: Rampaging Easterling
+  subtitle: ''
+  text: '**Lurker.** (Skirmishes involving lurker minions must be resolved after any others.) Each time another :men: minion wins a skirmish, make this minion strength +3 until the regroup phase.'
+  lore: The fury of the Eastern warriors grows in battle.
+de:
+  title: Randalierender Ostling
+  subtitle: ''
+  text: '**Schleicher.** Jedes Mal, wenn ein anderer :men: Diener einen Kampf gewinnt, erhält der Randalierende Ostling bis zum Ende des Zuges Stärke +3.'
+  lore: Die Wildheit der Ostlinge wächst im Kampf.

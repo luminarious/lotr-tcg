@@ -1,0 +1,16 @@
+set: '1'
+rarity: P
+number: '365'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 4
+str: '8'
+vit: '4'
+signet: Signet_Aragorn
+en:
+  title: Aragorn
+  subtitle: King in Exile
+  text: '**Ranger.** At the start of each of your turns, you may heal another companion who has the Aragorn signet.'
+  lore: ‘He turned from that path a long time ago. He has chosen exile….’

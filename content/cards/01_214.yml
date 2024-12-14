@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '214'
+unique: true
+culture: Wraith
+type: Event
+class: Response
+cost: 0
+en:
+  title: In the Ringwraith's Wake
+  subtitle: ''
+  text: '**Response:** If a Nazgûl wins a skirmish, the Free Peoples player chooses to either exert the Ring-bearer or add a burden.'
+  lore: ‘He is fading…. We must get him to my father.’
+de:
+  title: Im Bann des Ringgeists
+  subtitle: ''
+  text: '**Reaktion:** Wenn ein Nazgûl einen Kampf gewinnt, muss der Freie Völker Spieler entweder den Ringträger anstrengen oder 1 Lastmarke auf ihn legen.'
+  lore: Oh, er schwindet…Wir müssen ihn zu meinem Vater bringen.
+fr:
+  title: Dans le Sillage des Spectres de l'Anneau
+  subtitle: ''
+  text: '**Réponse :** Si un Nazgûl remporte un combat, le joueur des Peuples Libres décide soit d’affaiblir le Porteur de l’Anneau, soit d’ajouter un point-fardeau.'
+  lore: ‘Il décline….. Nous devons l'amener à mon père.’
+it:
+  title: Nella Morsa dello Spettro dell'Anello
+  subtitle: ''
+  text: '**Risposta:** Se un Nazgûl vince una schermaglia, il giocatore dei Popoli Liberi sceglie o di sforzare il Portatore dell’Anello o di aggiungere un segnalino fardello.'
+  lore: ‘Sta scomparendo…. Dobbiamo portarlo da mio padre.’
+es:
+  title: En El Despertar de Los Espectros del Anillo
+  subtitle: ''
+  text: '**Respuesta:** Si un Nazgûl gana una escaramuza, el jugador de Gentes Libres elige o bien esforzar al Portador del Anillo o añadir una carga.'
+  lore: Se esta desvaneciendo… Debemos llevarlo a mi padre.

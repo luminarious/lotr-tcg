@@ -1,0 +1,39 @@
+set: '1'
+rarity: U
+number: '98'
+unique: true
+culture: Gondor
+type: Possession
+class: Cloak
+cost: 0
+en:
+  title: Boromir's Cloak
+  subtitle: ''
+  text: |-
+    Bearer must be Boromir.   
+    **Maneuver:** Exert Boromir to discard a weather condition.
+  lore: He was cloaked and booted as if for a journey on horseback; and indeed though his garments were rich, and his cloak was lined with fur, they were stained with long travel.
+de:
+  title: Boromirs Mantel
+  subtitle: ''
+  text: Muss auf Boromir gespielt werden. **Manöver:** Strenge Boromir an, um einen Wettereffekt abzulegen.
+  lore: Er trug Mantel und Stiefel wie für eine Reise zu Pferde; und obwohl seine Kleidung reich war und sein Mantel mit Pelz besetzt, wiesen sie Spuren einer langen Wanderschaft auf.
+fr:
+  title: Cape de Boromir
+  subtitle: ''
+  text: Le détenteur doit être Boromir. **Manœuvre :** Affaiblissez Boromir pour défausser une situation de **Climat.**
+  lore: Il portait un manteau et des bottes comme pour un long trajet à cheval ; et, en vérité, bien que ses vêtements fussent riches et que son manteau fût bordé de fourrure, ils étaient défraichis par un long voyage.
+it:
+  title: Mantello di Boromir
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Boromir.   
+    **Manovra:** Sforza Boromir per scartare una condizione atmosferica.
+  lore: Portava mantello e stivali, come se fosse reduce da un lungo viaggio a cavallo; infatti, benché gli abiti fossero sontuosi e la cappa foderata di pelliccia, le tracce della sua cavalcatura erano piuttosto evidenti.
+es:
+  title: La Capa de Boromir
+  subtitle: ''
+  text: |-
+    El portador debe ser Boromir.   
+    **Maniobra:** Esfuerza a Boromir para descartar una condición de **Clima.**
+  lore: Estaba vestido con manto y botas, como para un viaje a caballo, y en verdad aunque las ropas eran ricas, y el manto tenia borde de piel, parecía venir de un largo viaje.

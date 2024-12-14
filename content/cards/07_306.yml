@@ -1,0 +1,26 @@
+set: '7'
+rarity: R
+number: '306'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '11'
+vit: '3'
+site: 6
+en:
+  title: Orc Seeker
+  subtitle: ''
+  text: |-
+    **Tracker.**   
+    The site number of each :sauron: Orc is –1.   
+    If you have initiative when you play this minion, you may spot another :sauron: Orc to draw 2 cards.
+  lore: ''
+de:
+  title: Ork Sucher
+  subtitle: ''
+  text: |-
+    **Spurenleser.**   
+    Die Ortskennzahl jedes :sauron: Orks reduziert sich um 1. Wenn du beim Ausspielen dieses Dieners die Initiative besitzt, darfst du einen anderen :sauron: Ork entdecken, um 2 Karten zu ziehen.
+  lore: …und ehe sie noch zum Tor kamen, ließ Sauron seine Falle zuschnappen.

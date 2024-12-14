@@ -1,0 +1,21 @@
+set: '11'
+rarity: U
+number: '69'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Axeman of Harad
+  subtitle: ''
+  text: While you can spot a companion who has resistance 3 or less, this minion’s twilight cost is –2.
+  lore: Tribes of Harad gather when their enemies appear weak.
+de:
+  title: Axtkämpfer aus Harad
+  subtitle: ''
+  text: Solange du einen Gefährten, dessen Resistenz 3 oder weniger beträgt, entdecken kannst, reduzieren sich die Zwielichtkosten dieses Dieners um 2.
+  lore: Die Stämme der Haradrim greifen dort an, wo der Feind am schwächsten ist.

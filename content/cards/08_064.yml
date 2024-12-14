@@ -1,0 +1,17 @@
+set: '8'
+rarity: U
+number: '64'
+unique: true
+culture: Raider
+type: Possession
+class: Mount
+cost: 3
+str: '+3'
+en:
+  title: Mûmakil
+  subtitle: ''
+  text: |-
+    Bearer must be a **Southron.**   
+    Bearer is fierce.   
+    While you have initiative or can spot 4 threats, bearer is **damage +1**.
+  lore: But wherever the mûmakil came there the horses would not go, but blenched and swerved away….

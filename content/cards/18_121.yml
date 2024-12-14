@@ -1,0 +1,15 @@
+set: '18'
+rarity: U
+number: '121'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Pikes Upon Pikes
+  subtitle: ''
+  text: |-
+    Each :urukhai: minion bearing a hand weapon cannot take wounds during the archery phase.  
+    **Skirmish:** Discard this condition from play to make an :urukhai: minion bearing a possession strength +2.
+  lore: Many a crude weapon was forged for his forces.

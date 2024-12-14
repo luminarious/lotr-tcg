@@ -1,0 +1,16 @@
+set: '6'
+rarity: R
+number: '18'
+unique: true
+culture: Elven
+type: Ally
+race: Elf
+cost: 3
+str: '3'
+vit: '3'
+site: '6'
+en:
+  title: Galadriel
+  subtitle: Keeper of Nenya
+  text: At the start of each turn, heal Galadriel. **Skirmish:** Exert Galadriel to discard the top card of your draw deck. If it is a Shadow card, make a minion skirmishing an Elf strength –3.
+  lore: ‘In Dwimordene, in Lórien / More fair than thoughts of Mortal Men.’

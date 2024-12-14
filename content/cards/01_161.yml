@@ -1,0 +1,39 @@
+set: '1'
+rarity: U
+number: '161'
+unique: true
+culture: Isengard
+type: Event
+class: Response
+cost: 0
+en:
+  title: Wariness
+  subtitle: ''
+  text: |-
+    **Search.**   
+    **Response:** If a stealth event is played, exert or discard your Uruk-hai to cancel that event.
+  lore: Even Hobbits have trouble evading the Uruk-hai.
+de:
+  title: Vorsicht
+  subtitle: ''
+  text: '**Suche.** **Reaktion:** Wenn ein Heimlichkeitsereignis gespielt wird, strenge einen deiner Uruk-hai an oder lege ihn ab, um dieses Ereignis zu verhindern.'
+  lore: Sogar Hobbits haben Mühe, die Uruk-hai zu meiden.
+fr:
+  title: Prudence
+  subtitle: ''
+  text: |-
+    **Recherche.**  
+    **Réponse :** Si un événement de dissimulation est joué, affaiblissez ou défaussez votre Ourouk-Haï pour annuler cet événement.
+  lore: Même les Hobbits ont peine à échapper aux Ourouk-Haï.
+it:
+  title: Cautela
+  subtitle: ''
+  text: |-
+    **Ricerca.**  
+    **Risposta:** Se viene giocato un evento Segretezza, sforza o scarta un tuo Uruk-hai per cancellare quell’evento.
+  lore: Anche gli Hobbit hanno problemi nell'evitare gli Uruk-hai.
+es:
+  title: Vigilancia
+  subtitle: ''
+  text: '**Búsqueda.** **Respuesta:** Si se juega un evento de sigilo, esfuerza o descarta tu Uruk-hai para cancelar ese evento.'
+  lore: Incluso los Hobbits tienen problemas para evadir a los Uruk-hai.

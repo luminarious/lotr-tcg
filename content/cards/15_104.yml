@@ -1,0 +1,18 @@
+set: '15'
+rarity: R
+number: '104'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 8
+str: '20'
+vit: '4'
+site: 4
+en:
+  title: Black Land Shrieker
+  subtitle: ''
+  text: |-
+    To play, spot an :orc: condition.  
+    Black Land Shrieker is twilight cost -1 for each threat you spot. 
+  lore: No sound from an Orc was more frightening.

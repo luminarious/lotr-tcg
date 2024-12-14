@@ -1,0 +1,16 @@
+set: '15'
+rarity: U
+number: '114'
+unique: true
+culture: Orc
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+1'
+en:
+  title: Orkish Hunting Spear
+  subtitle: ''
+  text: |-
+    Bearer must be an :orc: Orc.  
+    Bearer gains **hunter X** *(While skirmishing a non-hunter character, this character is strength +X.)*, where X is the number of Free Peoples cultures you can spot.
+  lore: Orcs hunt for Men, ponies, and their own kind.

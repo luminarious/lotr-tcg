@@ -1,0 +1,37 @@
+set: '4'
+rarity: U
+number: '126'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Ithilien Trap
+  subtitle: ''
+  text: 'Each time a :gondor: Man wins a skirmish, you may place a :gondor: token here. **Maneuver:** Exert a minion for each :gondor: token here (limit 3). Discard this condition. '
+  lore: He was glad he could not see the dead face.
+de:
+  title: Hinterhalt in Ithilien
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn ein :gondor: Mensch einen Kampf gewinnt, darfst du eine :gondor: Marke auf diese Karte legen. **Manöver:** Strenge für jede :gondor: Marke auf dieser Karte einen Diener an (maximal 3). Lege diesen Effekt ab.'
+  lore: Er war froh, dass er das Gesicht des Toten nicht sehen konnte.
+fr:
+  title: Piège de L'Ithilien
+  subtitle: ''
+  text: 'Chaque fois qu’un Homme :gondor: gagne un combat, vous pouvez déposer un jeton :gondor: sur cette carte. **Manœuvre :** Affaiblissez un séide pour chaque jeton :gondor: qui se trouve ici (limite de 3). Défaussez cette situation.'
+  lore: 'Il fut heureux de ne pas voir le visage mort. '
+it:
+  title: Trappola dell'Ithilien
+  subtitle: ''
+  text: |-
+    Ogni volta che un Uomo :gondor: vince una schermaglia, puoi piazzare qui un segnalino :gondor:.   
+    **Manovra:** Sforza un servitore per ogni segnalino :gondor: qui presente (limite 3). Scarta questa condizione.
+  lore: Era contento di non poter vedere il viso del morto.
+es:
+  title: Trampa De Ithilien
+  subtitle: ''
+  text: |-
+    Cada vez que un Hombre :gondor: gana una escaramuza, pon un contador :gondor: en esta carta.   
+    **Maniobra:** Esfuerza un siervo por cada contador :gondor: puesto aquí (límite 3). Descarta esta condición.
+  lore: Se alegró de no verle la cara al muerto.

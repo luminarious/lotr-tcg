@@ -1,0 +1,38 @@
+set: '4'
+rarity: R
+number: '317'
+unique: true
+culture: Shire
+type: Possession
+cost: 0
+en:
+  title: Sam's Pack
+  subtitle: ''
+  text: |-
+    Bearer must be a Ring-bound Hobbit.   
+    At the start of each turn, you may add :twilight2: to heal a Ring-bound companion. 
+  lore: He still hopefully carried some of his gear in his pack….
+de:
+  title: Sams Rucksack
+  subtitle: ''
+  text: 'Muss auf einen Ring-verbundenen Hobbit gespielt werden. Zu Beginn jedes Spielzugs darfst du den Einfluss um :twilight2: erhöhen, um einen Ring-verbundenen Gefährten zu heilen.'
+  lore: Hoffnungsvoll schleppte er immer noch etwas von seiner Ausrüstung mit….
+fr:
+  title: Le Paquet de Sam
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un Hobbit **Associé à l’Anneau.**  
+    Au début de chaque tour, vous pouvez ajouter :twilight2: pour guérir un compagnon **Associé à l’Anneau.**
+  lore: 'Il portait toujours avec espoir une partie de son matériel dans son paquet… '
+it:
+  title: Zaino di Sam
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Hobbit Legato all'Anello.  
+    All’inizio di ogni turno, puoi aggiungere :twilight2: per curare un compagno **Legato all’Anello.**
+  lore: Si trascinava ancora dietro, speranzoso, parte dell'attrezzatura nello zaino…
+es:
+  title: La Mochila De Sam
+  subtitle: ''
+  text: 'El portador debe ser un Hobbit **Vinculado al Anillo.** Al principio de cada turno, puedes añadir :twilight2: para curar un compañero **Vinculado al Anillo.**'
+  lore: No había perdido aún las esperanzas de utilizar los enseres que llevaba en el equipaje…

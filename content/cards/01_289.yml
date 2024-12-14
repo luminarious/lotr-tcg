@@ -1,0 +1,24 @@
+set: '1'
+rarity: R
+number: '289'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 0
+str: '3'
+vit: '4'
+res: '10'
+signet: Signet_Gandalf
+en:
+  title: Frodo
+  subtitle: Old Bilbo's Heir
+  text: |-
+    **Ring-bearer (resistance 10).**   
+    At the start of each of your turns, you may heal a Hobbit ally.
+  lore: ‘But be that as it may, Mr. Frodo is as nice a young hobbit as you could wish to meet.’
+fr:
+  title: Frodon
+  subtitle: Héritier du Vieux Bilbon
+  text: '**Porteur de l’Anneau (résistance 10).** Au début de chacun de vos tours, vous pouvez guérir un allié Hobbit.'
+  lore: ‘Mais quoi qu'il en soit, M. Frodon est un jeune Hobbit aussi gentil qu'on pourrait le souhaiter.’

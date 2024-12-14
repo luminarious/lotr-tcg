@@ -1,0 +1,20 @@
+set: '12'
+rarity: U
+number: '148'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Tempest of War
+  subtitle: ''
+  text: |-
+    While you can spot an :urukhai: minion, each unbound companion is resistance –1 for each condition he or she bears.   
+    **Skirmish:** Spot an :urukhai: minion and a companion who has resistance 2 or less to discard from play all conditions in all players’ support areas.
+  lore: ''
+de:
+  title: Sturm des Krieges
+  subtitle: ''
+  text: 'Solange du einen :urukhai: Diener entdecken kannst, erhält jeder nicht-verbundene Gefährte Resistenz -1 für jeden Effekt, der auf ihm liegt. **Kampf:** Entdecke einen :urukhai: Diener und einen Gefährten mit Resistenz 2 oder weniger, um alle Effekte aus allen Unterstützungsbereichen aller Spieler abzulegen.'
+  lore: ''

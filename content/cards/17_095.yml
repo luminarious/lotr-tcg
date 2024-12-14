@@ -1,0 +1,19 @@
+set: '17'
+rarity: R
+number: '95'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '7'
+en:
+  title: Éomer
+  subtitle: Northman
+  text: |-
+    **Damage +1.**  
+    While the Ring-bearer is assigned to a skirmish, Éomer is strength +3.  
+    **Maneuver:** If Éomer is mounted, exert him to make him **defender +1** until the end of turn.
+  lore: We cannot achieve victory through strength of arms.

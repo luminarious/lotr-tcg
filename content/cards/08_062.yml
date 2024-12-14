@@ -1,0 +1,25 @@
+set: '8'
+rarity: R
+number: '62'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Heavy Axeman
+  subtitle: ''
+  text: |-
+    **Easterling.**   
+    While you can spot 4 burdens, Heavy Axeman is strength +4 and fierce.
+  lore: …the Easterlings were strong and war-hardened and asked for no quarter.
+de:
+  title: Schwerer Axtkämpfer
+  subtitle: ''
+  text: |-
+    **Ostling.**   
+    Solange du 4 Lastmarken entdecken kannst, erhält dieser Diener Stärke +4 und ist **erbittert**.
+  lore: … und die Ostlinge waren stark und harte Krieger und baten nicht um Schonung.

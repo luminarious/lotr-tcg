@@ -1,0 +1,36 @@
+set: '6'
+rarity: C
+number: '108'
+unique: true
+culture: Sauron
+type: Minion
+race: Wraith
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Wisp of Pale Sheen
+  subtitle: ''
+  text: '**Twilight.** **Regroup:** Spot another :sauron: or twilight minion and discard this minion to add a burden.'
+  lore: ‘They do not see what lies ahead / When Sun has failed and Moon is dead.’
+de:
+  title: Schimmerndes Irrlicht
+  subtitle: ''
+  text: '**Zwielicht.** **Sammeln:** Entdecke einen anderen :sauron: Diener oder Zwielichtdiener und lege diesen Diener ab, um eine Lastmarke auf den Ringträger zu legen.'
+  lore: Nimmer steh’ vom Bette auf / Eh’ nicht endet der Sonn’ und des Mondes Lauf
+fr:
+  title: Traînée Pâle
+  subtitle: ''
+  text: '**Crépusculaire.** **Ralliement :** Désignez un autre séide :sauron: ou crépusculaire, et défaussez ce séide-ci pour ajouter un point-fardeau.'
+  lore: 'Ils ne voient pas ce qui leur fait face / Quand le soleil est mort et la lune de glace.” '
+it:
+  title: Barlume Pallido
+  subtitle: ''
+  text: '**Crepuscolo.** **Raccolta:** Avvista un altro servitore :sauron: o un altro servitore crepuscolo e scarta questo servitore per aggiungere un segnalino fardello.'
+  lore: ‘Non sanno ciò che li attende / quando muore il Sole e la Luna tetra.’
+es:
+  title: Fuego Fatuo
+  subtitle: ''
+  text: '**Penumbra.** **Reagrupación:** Avista otro siervo :sauron: o penumbra y descarta este siervo para añadir una carga.'
+  lore: No ven lo que hay delante / Cuando el Sol ha caído y la Luna está muerta.

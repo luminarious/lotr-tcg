@@ -1,0 +1,44 @@
+set: '4'
+rarity: C
+number: '227'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Easterling Infantry
+  subtitle: ''
+  text: |-
+    **Easterling.**  
+    While you can spot 3 burdens, this minion is **fierce** and **damage +1.** 
+  lore: Sometimes called the Men of Rhûn, the Easterlings hated Gondor for her riches.
+de:
+  title: Infanterie der Ostlinge
+  subtitle: ''
+  text: |-
+    **Ostling.**  
+    Solange du 3 Lastmarken entdecken kannst, ist dieser Diener **Erbittert** und erhält **Schaden +1.**
+  lore: Manchmal auch Menschen von Rhûn genannt, hassten die Ostlinge Gondor für seine Reichtümer.
+fr:
+  title: Infantrie Orientale
+  subtitle: ''
+  text: |-
+    **Oriental.**  
+    Tant que vous pouvez désigner trois points-fardeau, ce séide est **acharné** et inflige des **.**
+  lore: Quelquefois appelés Hommes du Rhûn, les Orientaux haïssaient le Gondor à cause de ses richesses.
+it:
+  title: Fanteria Esterling
+  subtitle: ''
+  text: |-
+    **Esterling.**  
+    Mentre puoi avvistare 3 segnalini fardello, questo servitore è **Feroce** e ha **Danno +1.**
+  lore: Chiamati talvolta Uomini di Rhûn, gli Esterling hanno sempre odiato Gondor a causa delle sue ricchezze.
+es:
+  title: Infantería Oriental
+  subtitle: ''
+  text: '**Oriental.** Mientras puedas avistar 3 cargas, este siervo es **fiero** y **daño +1.**'
+  lore: Llamados a veces los Hombres de Rhûn, los Orientales odian a Gondor por sus riquezas.

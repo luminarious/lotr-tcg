@@ -1,0 +1,18 @@
+set: '18'
+rarity: R
+number: '59'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+res: '8'
+en:
+  title: Watcher at Sarn Ford
+  subtitle: Ranger of the North
+  text: |-
+    **Ranger.**  
+    **Skirmish:** Exert a :gondor: Man with a resistance 6 or more to make that Man strength +3.
+  lore: '''Little do they know of our long labour for the safekeeping of their borders, and yet I grudge it not.’'

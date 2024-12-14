@@ -1,0 +1,35 @@
+set: '5'
+rarity: U
+number: '63'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '7'
+vit: '3'
+site: 5
+en:
+  title: Uruk-hai Berserker
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    This minion is strength +1 for each wound on a character in its skirmish.
+  lore: Goatskins full of blood poured upon berserkers before battle instill their bloodlust.
+fr:
+  title: Fou Furieux Ourouk-Haï
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**   
+    Ce séide a +1 en force pour chaque blessure sur un personnage impliqué dans son combat.
+  lore: Avant le combat, des gourdes de sang sont versées sur les fous furieux pour éveiller leurs instincts sanguinaires.
+it:
+  title: Berserker Uruk-hai
+  subtitle: ''
+  text: '**Danno +1.** Aggiungi +1 alla forza di questo servitore per ogni ferita su un personaggio nella sua schermaglia.'
+  lore: Pelli di capra ripiene di sangue versate sui berserker prima della battaglia alimentano la loro sete di sangue.
+es:
+  title: Berserker Uruk-hai
+  subtitle: ''
+  text: '**Daño +1.** Este siervo es fuerza +1 por cada herida en cada personaje en su escaramuza.'
+  lore: Pellejos llenos de sangre se derramaban encima de los Berserkers antes de la batalla, incitando así su sed de sangre.

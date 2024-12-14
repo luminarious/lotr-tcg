@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '281'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Under the Watching Eye
+  subtitle: ''
+  text: |-
+    **Search.** To play, exert a :sauron: tracker.   
+    Each time the fellowship moves, the Free Peoples player must exert a companion.
+  lore: What the Lidless Eye of Sauron does not see, his countless minions observe and report.
+de:
+  title: Unter wachsamenen Blicken
+  subtitle: ''
+  text: '**Suche.** Strenge einen :sauron: Spurenleser an, um diese Karte in deinen Unterstützungsbereich zu spielen. Jedesmal, wenn sich die Gemeinschaft bewegt, muss der Freie Völker Spieler einen Gefährten anstrengen.'
+  lore: Was den Blicken des Lidlosen Auges entgeht, wird von seinen zahllosen Dienern beobachtet und berichtet.
+fr:
+  title: Sous le Regard Vigilant
+  subtitle: ''
+  text: '**Recherche.** Pour jouer, affaiblissez un traqueur :sauron:. Chaque fois que la compagnie se déplace, le joueur des Peuples Libres doit affaiblir un compagnon.'
+  lore: Ce que l'*il sans Paupière de Sauron ne voit pas, ses séides innombrables l'observent et le rapportent.
+it:
+  title: Sotto lo Sguardo dell'Occhio
+  subtitle: ''
+  text: '**Ricerca.** Per giocarla, sforza un inseguitore :sauron:. Ogni volta che la Compagnia si muove, il giocatore dei Popoli Liberi deve sforzare un compagno.'
+  lore: Quello che l'Occhio Senza Palpebre di Sauron non vede, i suoi innumerevoli servi osservano e riferiscono.
+es:
+  title: Bajo El Ojo Vigilante
+  subtitle: ''
+  text: '**Búsqueda.** Para jugarla, esfuerza un rastreador :sauron:. Cada vez que la comunidad se mueve, el jugador de Gentes Libres debe esforzar un compañero.'
+  lore: Lo que el Ojo sin Párpado de Sauron no ve, lo observan e informan de ello sus incontables siervos.

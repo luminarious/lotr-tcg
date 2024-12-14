@@ -1,0 +1,25 @@
+set: '12'
+rarity: U
+number: '135'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Barbaric Uruk
+  subtitle: ''
+  text: |-
+    **Damage +1.   
+    Assignment:** Make the Free Peoples player assign this minion to an unwounded companion.
+  lore: Their lust for Man-flesh allowed Saruman to bend the Uruk-hai to his will.
+de:
+  title: Urukbarbar
+  subtitle: ''
+  text: |-
+    **Schaden +1**.  
+    **Zuweisung:** Zwinge den Freie VölkerSpieler diesem Diener einen unver-wundeten Gefährten zuzuweisen.
+  lore: Ihr Hunger nach Menschenfleisch erlaubte es Saruman, die Uruk-hai seinem Willen zu unterwerfen.

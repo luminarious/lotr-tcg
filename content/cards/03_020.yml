@@ -1,0 +1,18 @@
+set: '3'
+rarity: U
+number: '20'
+unique: true
+culture: Elven
+type: Ally
+race: Elf
+cost: 2
+str: '4'
+vit: '3'
+site: '3'
+en:
+  title: Golradir
+  subtitle: Councilor of Imladris
+  text: |-
+    To play, spot an Elf.   
+    **Skirmish:** Exert Golradir to make an Orc strength -1. 
+  lore: Their stay at Rivendell provided the Fellowship with counsel from many sources.

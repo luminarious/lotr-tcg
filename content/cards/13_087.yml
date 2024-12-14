@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '87'
+unique: true
+culture: Man
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Driven From the Plains
+  subtitle: ''
+  text: '**Skirmish:** Discard this condition from play to make a :men: minion **damage +1** for each of the following that is true: it is at a plains site; it is bearing a possession; it is skirmishing a companion who has resistance 4 or less.'
+  lore: The Hillmen sent the villagers before them like lambs to the slaughter.
+de:
+  title: Aus den Ebenen vertrieben
+  subtitle: ''
+  text: '**Kampf:** Lege diesen Effekt ab, um einem :men: Diener für jede folgende Bedingung, die gültig ist, **Schaden +1** zu geben: er befindet sich auf einer Ebene; er ist ausgerüstet; er kämpft gegen einen Gefährten mit Resistenz 4 oder weniger.'
+  lore: Die Bergbewohner trieben die Flüchtlinge wie Vieh vor sich her.

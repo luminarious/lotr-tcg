@@ -1,0 +1,33 @@
+set: '2'
+rarity: U
+number: '87'
+unique: true
+culture: Sauron
+type: Event
+class: Shadow
+cost: 1
+en:
+  title: The Eye of Sauron
+  subtitle: ''
+  text: '**Shadow:** Exert a :sauron: Orc and spot X burdens to draw X cards (limit 5). '
+  lore: ‘…he has indeed arisen again and left his hold in Mirkwood and returned to his ancient fastness in the Dark Tower of Mordor.’
+de:
+  title: Das Auge Saurons
+  subtitle: ''
+  text: '**Schatten:** Strenge einen :sauron: Ork an und entdecke X Lastmarken, um X Karten zu ziehen (maximal 5).'
+  lore: …er hat sich wirklich erhoben und sein Versteck im Düsterwald verlassen und ist zurückgekehrt zu seiner alten Festung im Dunklen Turm von Mordor.
+fr:
+  title: L'*il de Sauron
+  subtitle: ''
+  text: 'Ombre : Affaiblissez un Orque :sauron: et désignez X points-fardeau pour piocher X cartes (limite de 5).'
+  lore: '… il s''est en effet levé de nouveau; il a quitté son repaire de la Forêt Noire pour retourner à son ancienne place forte de la Tour Sombre de Mordor”. '
+it:
+  title: L'Occhio di Sauron
+  subtitle: ''
+  text: '**Ombra:** Sforza un Orco :sauron: e avvista X segnalini fardello per pescare X carte (al massimo 5).'
+  lore: ‘…egli s'è messo di nuovo in movimento, abbandonando il suo forte nel Bosco Atro per ritornare ad abitare la vecchia fortezza nella Torre Oscura.’
+es:
+  title: El ojo de sauron
+  subtitle: ''
+  text: '**Sombra:** Esfuerza un Orco :sauron: y avista X cargas para robar X cartas (límite 5).'
+  lore: …se ha alzado de nuevo y ha dejado su fortaleza del Bosque Negro y ha regresado a su vieja reclusión en la Torre Oscura de Mordor.

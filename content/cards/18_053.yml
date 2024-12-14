@@ -1,0 +1,15 @@
+set: '18'
+rarity: R
+number: '53'
+unique: true
+culture: Gondor
+type: Possession
+cost: 0
+res: '+1'
+en:
+  title: Horn of Boromir
+  subtitle: The Great Horn
+  text: |-
+    Bearer must be a :gondor: Man.  
+    **Maneuver:** Exert bearer and discard a follower from play to make bearer strength +4 until the regroup phase (if bearer is Boromir, he is also **defender +1** and cannot be overwhelmed unless his strength is tripled).
+  lore: ''

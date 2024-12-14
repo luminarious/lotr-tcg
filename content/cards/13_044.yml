@@ -1,0 +1,33 @@
+set: '13'
+rarity: R
+number: '44'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Chasm’s Edge
+  subtitle: ''
+  text: Gollum is strength +1 for each Ring-bound companion you can spot.
+  lore: …Gollum, dancing like a mad thing, held aloft the ring… It shown now as if verily it was wrought of living fire.
+de:
+  title: Am Rand des Abgrunds
+  subtitle: ''
+  text: Gollum erhält Stärke +1 für jeden Ring-verbundenen Gefährten, den du entdecken kannst.
+  lore: …Gollum tanzte umher wie ein Wahnsinniger und hielt den Ring hoch…. Der Ring schimmerte jetzt, als sei er tatsächlich aus lebendigem Feuer gearbeitet.
+fr:
+  title: Chasm's Edge
+  subtitle: ''
+  text: Gollum is strength +1 for each Ring-bound companion you can spot.
+  lore: …Gollum, dancing like a mad thing, held aloft the ring… It shown now as if verily it was wrought of living fire.
+it:
+  title: Chasm's Edge
+  subtitle: ''
+  text: Gollum is strength +1 for each Ring-bound companion you can spot.
+  lore: …Gollum, dancing like a mad thing, held aloft the ring… It shown now as if verily it was wrought of living fire.
+es:
+  title: Chasm's Edge
+  subtitle: ''
+  text: Gollum is strength +1 for each Ring-bound companion you can spot.
+  lore: …Gollum, dancing like a mad thing, held aloft the ring… It shown now as if verily it was wrought of living fire.

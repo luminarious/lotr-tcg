@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '244'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: Heights of Isengard
+  subtitle: ''
+  text: '**Battleground.** Each time a :gandalf: companion wins a skirmish, the Free Peoples player may discard a condition from play. '
+  lore: ''
+de:
+  title: Anhöhen von Isengart
+  subtitle: ''
+  text: '**Schlachtfeld.** Jedes Mal, wenn ein :gandalf: Gefährte einen Kampf gewinnt, darf der Freie Völker Spieler einen Effekt aus dem Spiel ablegen.'
+  lore: ''

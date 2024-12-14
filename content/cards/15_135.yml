@@ -1,0 +1,15 @@
+set: '15'
+rarity: R
+number: '135'
+unique: true
+culture: Rohan
+type: Follower
+cost: 1
+en:
+  title: Rohan Worker
+  subtitle: ''
+  text: |-
+    **Aid –** :twilight1:.  
+    Each time you transfer this to a companion, except a :rohan: companion, exert bearer twice.  
+    Each time bearer wins a skirmish, you may liberate a site.
+  lore: In preparation for the Battle of Helm’s Deep, everyone helped fortify the doors and walls.

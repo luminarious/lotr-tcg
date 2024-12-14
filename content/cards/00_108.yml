@@ -1,0 +1,23 @@
+set: '0'
+rarity: P
+number: '108'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 8
+str: '14'
+vit: '4'
+site: 3
+en:
+  title: The Witch-king
+  subtitle: Captain of the Nine Riders
+  text: '**Fierce.** **Toil 2.** (For each :wraith: character you exert when playing this, its twilight cost is –2.) **Muster.** (At the start of the regroup phase, you may discard a card from hand to draw a card.)'
+  lore: Nine Riders Collection
+de:
+  title: Der Hexenkönig
+  subtitle: Heermeister der Neun Reiter
+  text: |-
+    **Erbittert. Mühe 2.   
+    Appell**. *(Zu Beginn der Sammelphase darfst du eine Karte aus deiner Hand ablegen, um eine Karte zu ziehen.)*
+  lore: Nine Riders Collection

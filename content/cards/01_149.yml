@@ -1,0 +1,44 @@
+set: '1'
+rarity: C
+number: '149'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '6'
+vit: '1'
+site: 5
+en:
+  title: Uruk Messenger
+  subtitle: ''
+  text: |-
+    **Damage +1**.   
+    While you can spot a weather condition, this minion is strength +3.
+  lore: Saruman uses his Uruks abroad to gain information on the movements – and weaknesses – of his many enemies.
+de:
+  title: Uruk Bote
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Solange du einen Wettereffekt entdecken kannst, erhält der Uruk Bote Stärke +3.
+  lore: Saruman schickt seine Uruks los, um die Bewegungen – und die Schwächen – seiner zahlreichen Feinde zu erfahren.
+fr:
+  title: Messager Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    Tant que vous pouvez désigner une situation de climat, ce séide a +3 en force.
+  lore: Saroumane utilise ces Ourouks à l'extérieur pour récupérer des informations sur les mouvements – et faiblesses – de ses nombreux ennemis.
+it:
+  title: Messaggero Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    Finché puoi avvistare una condizione atmosferica, questo servitore aggiunge +3 alla forza.
+  lore: Saruman usa i suoi Uruk in giro per ottenere informazioni sui movimenti – e le debolezze – di ogni suo nemico.
+es:
+  title: Mensajero Uruk
+  subtitle: ''
+  text: '**Daño +1.** Mientras puedas avistar una condición de clima, este siervo es fuerza +3.'
+  lore: Saruman usa sus Uruks en todas partes para ganar información sobre los movimientos – y las debilidades – de sus muchos enemigos.

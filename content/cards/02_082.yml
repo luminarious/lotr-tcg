@@ -1,0 +1,18 @@
+set: '2'
+rarity: U
+number: '82'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '12'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Attëa
+  subtitle: The Easterling
+  text: |-
+    **Twilight.**   
+    When you play Úlairë Attëa, you may wound an ally. 
+  lore: ‘They had words with Harry at Westgate on Monday…. He was white and shaking when they left him.’

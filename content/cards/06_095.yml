@@ -1,0 +1,15 @@
+set: '6'
+rarity: C
+number: '95'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Hrethel
+  subtitle: Rider of Rohan
+  text: 'To play, spot a :rohan: Man. **Skirmish:** Heal a minion skirmishing Hrethel to make Hrethel strength +3 (limit +3).'
+  lore: …gaining on the Orcs, gaining on them like a tide over the flats on folk straying in a quicksand.

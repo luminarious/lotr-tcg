@@ -1,0 +1,35 @@
+set: '1'
+rarity: R
+number: '264'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Orc Bowmen
+  subtitle: ''
+  text: |-
+
+    While you can spot a :sauron: Orc, add 1 to the minion archery total.
+  lore: Where volleys of Orcish arrows fly, the defenders of the West fall.
+de:
+  title: Ork Bogenschützen
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Solange du einen :sauron: Ork entdecken kannst, erhöht sich der Fernkampfwert der Diener um 1.'
+  lore: Wo Salven von Orkpfeilen fliegen, dort fallen die Verteidiger des Westens.
+fr:
+  title: Archers Orques
+  subtitle: ''
+  text: Tant que vous pouvez désigner un Orque :sauron:, ajoutez 1 au total d’archerie des séides.
+  lore: Là où les volés de flèches orques tombent, les défenseurs de l'ouest tombent.
+it:
+  title: Arcieri Orchi
+  subtitle: ''
+  text: Finché puoi avvistare un Orco :sauron:, aggiungi +1 al totale degli arcieri tra i servitori.
+  lore: Dove le raffiche delle frecce degli Orchi volano, i difensori dell'Ovest cadono.
+es:
+  title: Arquero Orco
+  subtitle: ''
+  text: Mientras puedas avistar un Orco :sauron:, añade 1 al total de arquería de los siervos.
+  lore: Donde caen las andanadas de flechas Orcas, caen los defensores del Oeste.

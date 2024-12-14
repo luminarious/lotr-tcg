@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '213'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Moving This Way
+  subtitle: ''
+  text: '**Shadow:** Spot a Nazgûl and reveal a Nazgûl from hand to place the revealed card beneath your draw deck and draw a card.'
+  lore: ‘I thought there were two or three black shapes.’
+de:
+  title: Bewegung in diese Richtung
+  subtitle: ''
+  text: '**Schatten:** Entdecke einen Nazgûl und lege einen von der Hand aufgedeckten Nazgûl unter dein Spieldeck, um eine Karte zu ziehen.'
+  lore: …da glaubte ich, seien zwei oder drei Gestalten.

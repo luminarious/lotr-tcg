@@ -1,0 +1,40 @@
+set: '5'
+rarity: C
+number: '33'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+str: '-3'
+en:
+  title: City Wall
+  subtitle: ''
+  text: |-
+    **Fortification.**  
+    **Skirmish:** Exert a :gondor: Man or spot 3 knights to transfer this condition from your support area to a minion skirmishing a :gondor: Man.
+  lore: The war-weary defenses of Osgiliath still protected the Men of Gondor.
+de:
+  title: Stadtmauer
+  subtitle: ''
+  text: '**Befestigung.** **Kampf** Strenge einen :gondor: Menschen an oder entdecke 3 Ritter, um diesen Effekt aus deinem Unterstützungsbereich auf einen Diener zu verschieben, der gegen einen :gondor: Menschen kämpft.'
+  lore: Die abgenutzten Verteidigungsanlagen von Osgiliath beschützten immer noch die Menschen Gondors.
+fr:
+  title: Mur de la Ville
+  subtitle: ''
+  text: |-
+    **Fortification.**   
+    **Combat :** Affaiblissez un Homme :gondor: ou désignez 3 chevaliers pour transférer cette situation de votre aire de soutien à un séide qui combat un Homme :gondor:.
+  lore: Les défenses affaiblies d'Osgiliath protégeaient tout de même les hommes du Gondor.
+it:
+  title: Mura della Città
+  subtitle: ''
+  text: |-
+    **Fortificazione.**   
+    **Schermaglia:** Sforza un Uomo :gondor: o avvista 3 Cavalieri per trasferire questa condizione dalla tua area di supporto a un servitore che sta schermagliando con un Uomo :gondor:.
+  lore: Le difese di Osgiliath, pur provate dalla guerra, ancora proteggevano gli Uomini di Gondor.
+es:
+  title: Muro de la ciudad
+  subtitle: ''
+  text: '**Fortificación.** **Escaramuza:** Esfuerza un Hombre :gondor: o avista 3 caballeros para transferir esta condición de tu área de apoyo a un siervo que esté en una escaramuza contra un Hombre :gondor:.'
+  lore: Las defensas de Osgiliath, agotadas de tantas guerras, todavía protegieron a los Hombres de Gondor.

@@ -1,0 +1,16 @@
+set: '15'
+rarity: U
+number: '134'
+unique: true
+culture: Rohan
+type: Follower
+cost: 2
+str: '+1'
+en:
+  title: Rohan Stable Master
+  subtitle: ''
+  text: |-
+    **Aid –** :twilight1:. *(At the start of the maneuver phase, you may add* :twilight1: *to transfer this to a companion.)*  
+    To play, spot a :rohan: Man.  
+    Bearer is considered to be mounted.
+  lore: Rohirrim warriors were seldom seen without their mount.

@@ -1,0 +1,13 @@
+set: '15'
+rarity: U
+number: '66'
+unique: true
+culture: Gondor
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: No Travellers In This Land
+  subtitle: ''
+  text: 'Exert a :gondor: Man to wound a minion (or wound that minion twice if it is a hunter). '
+  lore: ‘…only the servants of the Dark Tower, or of the White.’

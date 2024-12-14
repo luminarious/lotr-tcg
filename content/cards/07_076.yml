@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '76'
+unique: true
+culture: Gollum
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: Very Nice Friends
+  subtitle: ''
+  text: Play Sméagol from your discard pile to play the fellowship’s next site (replacing an opponent’s site if necessary). If you do not move again this turn, discard your hand.
+  lore: ‘He hurts us…. hurts poor Sméagol!’
+de:
+  title: Sehr nette Freunde
+  subtitle: ''
+  text: Spiele Sméagol aus deinem Ablagestapel, um den nächsten Ort deiner Gemeinschaft auszuspielen (und nötigenfalls die Ortkarte eines Gegenspielers zu ersetzen). Lege alle deine Handkarten ab, wenn du dich in diesem Zug nicht weiter bewegst.
+  lore: Er tut uns weh… tut armem Sméagol weh!

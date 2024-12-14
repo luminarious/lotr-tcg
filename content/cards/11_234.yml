@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '234'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Left
+en:
+  title: Crags of Emyn Muil
+  subtitle: ''
+  text: '**Mountain.** If this site is in region 2 when the fellowship moves from it during the regroup phase, wound each companion. '
+  lore: ''
+de:
+  title: Schluchten des Emyn Muil
+  subtitle: ''
+  text: '**Gebirge.** Verwunde jeden Gefährten, wenn dieser Ort in Region 2 liegt, wenn sich die Gemeinschaft in der Sammelphase von hier fortbewegt.'
+  lore: ''

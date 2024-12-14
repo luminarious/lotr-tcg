@@ -1,0 +1,16 @@
+set: '0'
+rarity: P
+number: '56'
+unique: true
+culture: Gandalf
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: ''
+en:
+  title: Ghan-bûri-Ghan
+  subtitle: Chieftan of the Woses
+  text: 'While you can spot 2 other Men, Ghan-bûri-Ghan cannot be overwhelmed unless his strength is tripled. While at a forest site, Ghan-bûri-Ghan is defender +1. '
+  lore: ''

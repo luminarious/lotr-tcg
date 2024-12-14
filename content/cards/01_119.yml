@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '119'
+unique: true
+culture: Gondor
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: What Are They?
+  subtitle: ''
+  text: '**Maneuver:** Spot a ranger to discard a roaming minion.'
+  lore: ‘They were men… once.’
+de:
+  title: Was sind sie?
+  subtitle: ''
+  text: '**Manöver:** Entdecke einen Waldläufer, um einen wandernden Diener abzulegen.'
+  lore: Sie waren Menschen… früher einmal.
+fr:
+  title: Que Sont-Ils ?
+  subtitle: ''
+  text: '**Manœuvre :** Désignez un rôdeur pour défausser un séide errant.'
+  lore: ‘Ils étaient des hommes … autrefois.’
+it:
+  title: Che Cosa Sono?
+  subtitle: ''
+  text: '**Manovra:** Avvista un Ramingo per scartare un servitore vagante.'
+  lore: ‘Erano uomini… una volta.’
+es:
+  title: ¿Que Son?
+  subtitle: ''
+  text: '**Maniobra:** Avista un montaraz para descartar un siervo que este vagando.'
+  lore: Fueron Hombres… Una vez.

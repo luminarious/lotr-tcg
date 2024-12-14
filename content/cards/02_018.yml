@@ -1,0 +1,42 @@
+set: '2'
+rarity: U
+number: '18'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Hosts of the Last Alliance
+  subtitle: ''
+  text: |-
+    **Tale.**   
+    While you can spot an Elf companion, the minion archery total is -1.   
+    **Response:** If an Elf is about to take a wound, discard this condition to prevent that wound. 
+  lore: ‘…many great princes and captains were assembled.’
+de:
+  title: Die Heere des letzten Bündnisses
+  subtitle: ''
+  text: '**Erzählung.**Solange du einen Elbengefährten entdecken kannst, reduziert sich der Fernkampfwert der Diener um 1. **Reaktion:** Wenn einem Elben eine Wunde zugefügt wird, kannst du diesen Effekt ablegen, um die Wunde ze verhindern.'
+  lore: …viele große Fürsten und Hauptleute waren versammelt.
+fr:
+  title: Armées de la Dernière Alliance
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Tant que vous pouvez désigner un compagnon Elfe, le total d’archerie des séides est de -1. **Réponse :** Si un Elfe est sur le point d’être blessé, défaussez cette situation pour prévenir la blessure.
+  lore: '…tant de grands princes et capitaines étaient assemblés.“ '
+it:
+  title: Le Armate dell'Ultima Alleanza
+  subtitle: ''
+  text: |-
+    **Racconto.** Giocalo nella tua Area di Supporto. Mentre avvisti un compagno Elfo, sottrai -1 dal totale degli arcieri tra i servitori.  
+    **Risposta:** Se un Elfo sta per subire una ferita, scarta questa condizione per prevenire quella ferita.
+  lore: …tanti grandi principi e capitani si erano riuniti.
+es:
+  title: Huestes de la última alianza
+  subtitle: ''
+  text: |-
+    **Cuento.** Mientras puedas avistar un compañero Elfo, el total de arquería de los siervos es -1.   
+    **Respuesta:** Si un Elfo va a recibir una herida, descarta esta condición para prevenir esa herida.
+  lore: …muchos grandes príncipes y capitanes estaban reunidos.

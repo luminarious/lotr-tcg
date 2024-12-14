@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '56'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '2'
+site: 4
+en:
+  title: Sunland Scout
+  subtitle: ''
+  text: |-
+    This minion is strength +1 for each :men: possession with a :men: minion stacked on it.  
+    **Maneuver:** Spot a :men: possession and discard this minion from play to discard a condition.
+  lore: The Southrons did not march into war blindly.

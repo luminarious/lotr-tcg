@@ -1,0 +1,18 @@
+set: '15'
+rarity: R
+number: '11'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Arwen
+  subtitle: She-Elf
+  text: |-
+    While you can spot Aragorn, Arwen is strength +1 and resistance +2.  
+    **Skirmish:** Remove an :elven: token to make a minion skirmishing Arwen strength -2.
+  lore: I do not fear them.

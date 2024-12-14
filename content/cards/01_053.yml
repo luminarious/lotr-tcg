@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '53'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 1
+str: '4'
+vit: '2'
+en:
+  title: Lórien Elf
+  subtitle: ''
+  text: To play, spot an Elf.
+  lore: ‘…we dwell now in the heart of the forest, and do not willingly have dealings with any other folk.’
+de:
+  title: Elb aus Lórien
+  subtitle: ''
+  text: Entdecke einen Elben, um den Elb aus Lórien zu spielen.
+  lore: …denn wir leben jetzt im Herzen des Waldes und lassen uns nicht gern mit irgendwelchen anderen Leuten ein.
+fr:
+  title: Elfe de Lórien
+  subtitle: ''
+  text: Pour jouer, désignez un Elfe.
+  lore: …nous vivons à présent au c*ur de la forêt, et nous n'entretenons pas volontiers de rapports avec les autres gens.
+it:
+  title: Elfo di Lórien
+  subtitle: ''
+  text: Per giocarlo, avvista un Elfo.
+  lore: ‘…adesso viviamo nel cuore della foresta, e non trattiamo volentieri con altre genti.’
+es:
+  title: Elfo de Lórien
+  subtitle: ''
+  text: Para jugarlo, avista un Elfo.
+  lore: …pues ahora vivimos en el corazón del bosque, y no tenemos tratos voluntarios con otras gentes.

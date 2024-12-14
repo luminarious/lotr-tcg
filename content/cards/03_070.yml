@@ -1,0 +1,33 @@
+set: '3'
+rarity: C
+number: '70'
+unique: true
+culture: Isengard
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Servants to Saruman
+  subtitle: ''
+  text: '**Skirmish:** Make an :isengard: Orc strength +2 (or +3 if you have fewer than 3 cards in hand). '
+  lore: ‘This is grievous news concerning Saruman… for we trusted him and he is deep in all our counsels.’
+de:
+  title: Sarumans Diener
+  subtitle: ''
+  text: '**Kampf** Gib einem :isengard: Ork Stärke +2 (oder Stärke +3, wenn du weniger als 3 Karten auf deiner Hand hast).'
+  lore: Die Nachricht über Saruman ist betrüblich…. Denn wir vertrauten ihm, und er ist in all unsere Ratschlüsse eingeweiht.
+fr:
+  title: Serviteurs de Saroumane
+  subtitle: ''
+  text: '**Combat :** Donner à un Orque :isengard: +2 en force (ou +3 si vous avez moins de 3 cartes dans votre main).'
+  lore: 'Cette nouvelle au sujet de Saroumane est grave… car nous avions confiance en lui, et il est très au courant de tous nos conseils.” '
+it:
+  title: Asserviti a Saruman
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Orco :isengard: (o +3 se hai meno di 3 carte in mano).'
+  lore: ‘Penoso è ciò che apprendiamo sul conto di Saruman… noi avevamo fiducia in lui, ed egli conosce in profondità tutti i nostri segreti.’
+es:
+  title: Servidores de Saruman
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Orco :isengard: fuerza +2 (o +3 si tienes menos de 3 cartas en tu mano).'
+  lore: Las noticias que conciernen a Saruman son graves… Pues confiamos en él, y está muy enterado de lo que pasa en los concilios.

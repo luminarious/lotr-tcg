@@ -1,0 +1,36 @@
+set: '2'
+rarity: R
+number: '73'
+unique: true
+culture: Moria
+type: Minion
+race: Creature
+cost: 4
+str: '11'
+vit: '4'
+site: 4
+en:
+  title: Watcher in the Water
+  subtitle: Keeper of Westgate
+  text: '**Damage +1.** While you can spot Watcher in the Water, discard all other minions (except tentacles). Each tentacle is strength +2 and **damage +1.** This minion may not bear possessions and is discarded if not at a marsh. '
+  lore: The dark water boiled… there was a hideous stench.
+de:
+  title: Der Wächter im Wasser
+  subtitle: Hüter des Westtors
+  text: '**Schaden +1.**Solange du den Wächter im Wasser entdecken kannst, musst du alle anderen Diener (ausser Tentakel) ablegen. Jedes Tentakel erhält Stärke +2 und **Schaden +1.**Dieser Diener darf keine Ausrüstung erhalten und wird abgelegt, wenn er sich nicht an einem Sumpf bafindet.'
+  lore: Das dunkle Wasser brodelte, und es stank abscheulich.
+fr:
+  title: Le Guetteur de l'Eau
+  subtitle: Gardien de la Porte de l'Ouest
+  text: '**Dégâts +1.**Tant que vous pouvez désigner Le Guetteur de l’Eau, défaussez tous les autres séides (sauf les tentacules). Chaque tentacule a +2 en force et inflige des **dégâts +1.**Ce séide ne peut pas détenir de possession, et est défaussé s’il n’est pas à un marais.'
+  lore: 'L''eau noire bouillonna, et une horrible puanteur s''éleva. '
+it:
+  title: Osservatore nell'Acqua
+  subtitle: Guardiano del Cancello Occidentale
+  text: Danno+1. Mentre puoi avvistare Osservatore nell’Acqua, scarta tutti gli altri servitori (tranne i tentacoli). Aggiungi +2 alla forza di ogni tentacolo e **Danno +1.**Questo servitore non può portare beni ed è scartato se non si trova in una **Palude.**
+  lore: Le scure acque bollirono ed emanarono un fetido tanfo.
+es:
+  title: Vigilante en el agua
+  subtitle: guardián de la puerta del Oeste
+  text: '**Daño +1.** Mientras puedas avistar el Vigilante en el Agua, descarta todos los otros siervos (excepto tentáculos). Cada tentáculo es fuerza +2 y **daño +1.** Este siervo no puede llevar posesiones y es descartado si no está en un **Pantano.**'
+  lore: El agua oscura hirvió… había un hedor espantoso.

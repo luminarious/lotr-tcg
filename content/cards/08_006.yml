@@ -1,0 +1,18 @@
+set: '8'
+rarity: C
+number: '6'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Honed
+  subtitle: ''
+  text: Make a Dwarf who is damage +X strength +X.
+  lore: ‘What are we waiting for?’
+de:
+  title: Gedrillt
+  subtitle: ''
+  text: Entdecke einen Zwerg mit Schaden +X , um ihm Stärke +X zu geben.
+  lore: Worauf warten wir noch?

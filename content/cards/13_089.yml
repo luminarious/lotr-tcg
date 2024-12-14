@@ -1,0 +1,27 @@
+set: '13'
+rarity: U
+number: '89'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Dunlending Trapper
+  subtitle: ''
+  text: |-
+    **Lurker.** *(Skirmishes involving lurker minions must be resolved before any others.)*  
+    To play, spot a :men: minion.  
+    **Assignment**: Discard a :men: card from your hand to assign this minion to an unbound companion.
+  lore: His traps catch men as well as beasts.
+de:
+  title: Dunländischer Fallensteller
+  subtitle: ''
+  text: |-
+    **Schleicher.**  
+    Entdecke einen :men: Diener, um diese Karte zu spielen.  
+    **Zuweisung:** Lege eine :men: Karte aus deiner Hand ab, um diesen Diener einem nicht-verbundenen Gefährten zuzuweisen.
+  lore: In seinen Fallen verfangen sich sowohl wilde Tiere als auch Menschen.

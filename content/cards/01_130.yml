@@ -1,0 +1,35 @@
+set: '1'
+rarity: U
+number: '130'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: No Ordinary Storm
+  subtitle: ''
+  text: |-
+
+    Each time you play a weather condition, exert a :gandalf: companion or :gandalf: ally.
+  lore: ‘So Gandalf… you try to lead them over Caradhras. And if that fails – where then will you go?’
+de:
+  title: Kein gewöhnlicher Sturm
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedesmal, wenn du einen Wettereffekt spielst, strenge einen :gandalf: Gefährten oder einen :gandalf: Verbündeten an.'
+  lore: Nun Gandalf, du versuchst sie über den Caradhras zu führen. Und wenn das fehlschlägt, welchen Weg wählt ihr dann?
+fr:
+  title: Pas une Tempête Ordinaire
+  subtitle: ''
+  text: 'Chaque fois que vous jouez une situation de climat, affaiblissez un compagnon :gandalf: ou un allié :gandalf:.'
+  lore: ‘Alors Gandalf … vous essayez de les mener au-delà du Caradhras. Et si cela échoue – où irez-vous alors ?’
+it:
+  title: Una Tempesta Straordinaria
+  subtitle: ''
+  text: 'Ogni volta che giochi una condizione Atmosferica, sforza un compagno :gandalf: o alleato :gandalf:.'
+  lore: ‘Così Gandalf… tu provi a condurli oltre il Caradhras. E se dovessi fallire – poi dove andrai?’
+es:
+  title: No Era una Tormenta Ordinaria
+  subtitle: ''
+  text: 'Cada vez que juegas una condición de clima, esfuerza un compañero :gandalf: o un aliado :gandalf:.'
+  lore: Así pues Gandalf… Intentas guiarlos a través del Caradhras. Y sí eso falla – ¿a donde iras?

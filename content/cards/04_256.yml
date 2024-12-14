@@ -1,0 +1,47 @@
+set: '4'
+rarity: R
+number: '256'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 7
+str: '14'
+vit: '4'
+site: 4
+en:
+  title: Southron Troop
+  subtitle: ''
+  text: |-
+    **Southron.** **Archer.** **Ambush** :twilight1:**.** To play, spot a Southron.  
+    **Assignment:** Spot 7 companions to assign this minion to the Ring-bearer. The Free Peoples player may make you discard a companion (except the Ring-bearer) to prevent this.
+  lore: ''
+de:
+  title: Südländerschar
+  subtitle: ''
+  text: |-
+    **Südländer.** **Bogenschütze.** **Hinterhalt** :twilight1:**.** Entdecke einen Südländer, um diesen Diener zu spielen.  
+    **Zuweisung:** Entdecke 7 Gefährten, um diesen Diener dem Ringträger zuzuweisen. Der Freie Völker Spieler darf dich einen Gefährten (außer den Ringträger) ablegen lassen, um dies zu verhindern.
+  lore: ''
+fr:
+  title: Troupes Suderones
+  subtitle: ''
+  text: |-
+    **Suderon.** **Archer.** **Embuscade** :twilight1:**.** Pour jouer, désignez un Suderon.  
+    **Affectation :** Désignez 7 compagnons pour affecter ce séide au Porteur de l’Anneau. Le joueur des Peuples Libres peut vous obliger à défausser un compagnon (excepté le Porteur de l’Anneau) pour prévenir ceci.
+  lore: ''
+it:
+  title: Truppa di Sudroni
+  subtitle: ''
+  text: |-
+    **Sudrone.**  
+    **Arciere.**  
+    **Imboscata** :twilight1:**.** Per giocarla, avvista un **Sudrone.**  
+    **Assegnazione:** Avvista 7 compagni per assegnare questo servitore al Portatore dell’Anello.  
+    Il giocatore dei Popoli Liberi può farti scartare un compagno (tranne il Portatore dell’Anello) per prevenire questo efferto.
+  lore: ''
+es:
+  title: Tropa Sureña
+  subtitle: ''
+  text: '**Sureño.** **Arquero.** **Emboscar** :twilight1:. Para jugarlo, avista un **Sureño.** **Asignación:** Avista 7 compañeros para asignar este siervo al Portador del Anillo. El jugador de Gentes Libres puede hacer que descartes un compañero (excepto el Portador del Anillo) para prevenir esto.'
+  lore: ''

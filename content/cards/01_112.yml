@@ -1,0 +1,36 @@
+set: '1'
+rarity: U
+number: '112'
+unique: true
+culture: Gondor
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Ranger’s Sword
+  subtitle: ''
+  text: |-
+    Bearer must be Aragorn.   
+    He is **damage +1.**
+  lore: Aragorn is a trustworthy companion and a deadly foe. His years roaming the wild have honed his swordfighting skills.
+de:
+  title: Das Schwert des Waldläufers
+  subtitle: ''
+  text: Muss auf Aragorn gespielt werden. Er erhält **Schaden +1.**
+  lore: Aragorn ist ein treuer Gefährte und ein tödlicher Gegner. Seine Jahre der Wanderschaft in der Wildnis haben seine Schwertkampfkünste verfeinert.
+fr:
+  title: Épée du Rôdeur
+  subtitle: ''
+  text: Le détenteur doit être Aragorn. Il inflige des **dégâts +1.**
+  lore: Aragorn est un compagnon digne de confiance et un ennemi mortel. Ses années d'errance dans les terres sauvages aiguisèrent ses talents d'épéiste.
+it:
+  title: Spada di Ramingo
+  subtitle: ''
+  text: Il possessore deve essere Aragorn. **Danno +1.**
+  lore: Aragorn è un compagno fidato e un nemico letale. I suoi anni di vagabondo nelle terre selvagge hanno affilato le sue abilità di combattente con la spada.
+es:
+  title: La Espada del Montaraz
+  subtitle: ''
+  text: El portador debe ser Aragorn. Él es **daño +1.**
+  lore: Aragorn es un compañero de confianza y un mortífero enemigo. Sus años vagando en las zonas salvajes han afilado su habilidad con la espada.

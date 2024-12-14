@@ -1,0 +1,39 @@
+set: '4'
+rarity: C
+number: '131'
+unique: true
+culture: Gondor
+type: Possession
+class: Ranged Weapon
+cost: 1
+en:
+  title: Ranger's Bow
+  subtitle: ''
+  text: |-
+    Bearer must be a Ring-bound Man.  
+    **Skirmish:** If bearer is skirmishing a Man or a roaming minion, exert bearer to wound that minion. 
+  lore: Two had great bows, almost of their own height, and great quivers of long green-feathered arrows.
+de:
+  title: Bogen der Waldläufer
+  subtitle: ''
+  text: Muss auf einen Ring-verbundenen Menschen gespielt werden. **Kampf** Strenge den Träger an, wenn er gegen einen Menschen oder einen wandernden Diener kämpft, um diesen zu verwunden.
+  lore: Zwei hatten große Bögen, fast mannshoch, und große Köcher mit langen grüngefiederten Pfeilen.
+fr:
+  title: Arc de Rôdeur
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un Homme **Associé à l’Anneau.**  
+    **Combat :** Affaiblissez le détenteur pour blesser un Homme ou un séide errant que le détenteur combat.
+  lore: 'Deux avaient de grands arcs, presque hauts qu''eux, et de grands carquois de longues flèches empennées de vert.” '
+it:
+  title: Arco del Ramingo
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Uomo **Legato all’Anello.**  
+    **Schermaglia:** Se il possessore sta schermagliando con un Uomo, o con un servitore vagante, sforza il possessore per ferire quel servitore.
+  lore: Gli altri erano armati d'immensi archi alti quasi quanto loro, e di faretre piene di lunghe frecce dalle piume verdi.
+es:
+  title: Arco De Montaraz
+  subtitle: ''
+  text: El portador debe ser un Hombre **Vinculado al Anillo.** **Escaramuza:** Si el portador está en una escaramuza contra un Hombre o un siervo que esté vagando, esfuerza al portador para herir ese siervo.
+  lore: …dos llevaban arcos grandes, casi de la altura de ellos, y grandes carcaj repletos de flechas largas con penachos verdes.

@@ -1,0 +1,44 @@
+set: '4'
+rarity: C
+number: '184'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Uruk Defender
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    **Skirmish:** Exert this minion at a battleground to make another Uruk-hai strength +2. 
+  lore: Saruman’s Uruk army trained in formation tactics.
+de:
+  title: Uruk Verteidiger
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    **Kampf** Strenge diesen Diener auf einem Schlachtfeld an, um einem anderen Uruk-hai Stärke +2 zu geben.
+  lore: Sarumans Uruk-Armee war geübt in taktischen Formationen zu kämpfen.
+fr:
+  title: Défenseur Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    **Combat :** Affaiblissez ce séide à un champ de bataille pour donner +2 en force à un autre Ourouk-Haï.
+  lore: Les armées ourouks de Saroumane étaient entraînés pour combattre en formation.
+it:
+  title: Difensore Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    **Schermaglia:** Sforza questo servitore presso un campo di battaglia per aggiungere +2 alla forza di un altro Uruk-hai.
+  lore: L'esercito degli Uruk di Saruman si addestrava nelle tattiche in formazione.
+es:
+  title: Defensor Uruk
+  subtitle: ''
+  text: '**Daño +1.** **Escaramuza:** Esfuerza este siervo en un campo de batalla para dar a otro Uruk-hai fuerza +2.'
+  lore: El ejército Uruk de Saruman se entrenó en formaciones tácticas.

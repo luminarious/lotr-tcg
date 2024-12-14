@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '104'
+unique: true
+culture: Man
+type: Event
+class: Skirmish
+cost: 3
+en:
+  title: Whistling Death
+  subtitle: ''
+  text: 'Wound a character skirmishing a :men: minion. If the fellowship is at a battleground site, you may remove :twilight3: to wound that character again. '
+  lore: As deadly as the Southron arrows, their polearms cut a whirling swath through their enemies.
+de:
+  title: Pfeifender Tod
+  subtitle: ''
+  text: 'Verwunde einen Charakter, der gegen einen :men: Diener kämpft. Wenn sich die Gemeinschaft an einem Schlachtfeld befindet, darfst du den Einfluss um :twilight3: verringern, um diesen Charakter erneut zu verwunden.'
+  lore: Egal mit welcher Waffe, die Südländer hinterlassen einen Pfad der Verwüstung.

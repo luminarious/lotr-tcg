@@ -1,0 +1,53 @@
+set: '18'
+rarity: R
+number: '97'
+unique: true
+culture: Rohan
+type: Possession
+class: Shield
+cost: 0
+en:
+  title: Erkenbrand's Shield
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    The minion archery total is -1.  
+    **Skirmish:** Add :twilight2: to cancel a fierce skirmish involving bearer.  
+    **Response:** If a :rohan: Man is about to take a wound, spot Gandalf and exert bearer to prevent that wound.
+  lore: ''
+de:
+  title: '-Erkenbrand''s Shield'
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    The minion archery total is -1.  
+    **Skirmish:** Add :twilight2: to cancel a fierce skirmish involving bearer.  
+    **Response:** If a :rohan: Man is about to take a wound, spot Gandalf and exert bearer to prevent that wound.
+  lore: ''
+fr:
+  title: '-Erkenbrand''s Shield'
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    The minion archery total is -1.  
+    **Skirmish:** Add :twilight2: to cancel a fierce skirmish involving bearer.  
+    **Response:** If a :rohan: Man is about to take a wound, spot Gandalf and exert bearer to prevent that wound.
+  lore: ''
+it:
+  title: '-Erkenbrand''s Shield'
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    The minion archery total is -1.  
+    **Skirmish:** Add :twilight2: to cancel a fierce skirmish involving bearer.  
+    **Response:** If a :rohan: Man is about to take a wound, spot Gandalf and exert bearer to prevent that wound.
+  lore: ''
+es:
+  title: '-Erkenbrand''s Shield'
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    The minion archery total is -1.  
+    **Skirmish:** Add :twilight2: to cancel a fierce skirmish involving bearer.  
+    **Response:** If a :rohan: Man is about to take a wound, spot Gandalf and exert bearer to prevent that wound.
+  lore: ''

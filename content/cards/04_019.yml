@@ -1,0 +1,38 @@
+set: '4'
+rarity: R
+number: '19'
+unique: true
+culture: Dunland
+type: Possession
+cost: 1
+en:
+  title: Hides
+  subtitle: ''
+  text: |-
+    When you play this possession, you may draw a card.   
+    **Response: **If a :dunland: Man is about to take a wound, remove :twilight2: or discard this possession to prevent that wound. 
+  lore: Only heavy animal skins armored the Dunlendings.
+de:
+  title: Tierhäute
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Wenn du diese Ausrüstung spielst, darfst du eine Karte ziehen. **Reaktion:** Wenn ein :dunland: Mensch eine Wunde erleidet, verringere den Einfluss um :twilight2: oder lege diese Ausrüstung ab, um diese Wunde zu verhindern.'
+  lore: Einzig dicke Tierhäute schützten die Dunländer.
+fr:
+  title: Peaux
+  subtitle: ''
+  text: 'Lorsque vous jouez cette possession, vous pouvez piocher une carte. **Réponse :** Si un Homme :dunland: est sur le point d’être blessé, retirez :twilight2: ou défaussez cette possession pour empêcher cette blessure.'
+  lore: Ceux du Pays de Dun n'avaient que des peaux d'animaux sauvages en guise d'armure.
+it:
+  title: Pelli
+  subtitle: ''
+  text: |-
+    Quando giochi questo bene, puoi pescare una carta.  
+    **Risposta:** Se un Uomo :dunland: sta per subire una ferita, rimuovi :twilight2: o scarta questo bene per prevenire quella ferita.
+  lore: I Dunlandiani si corazzavano solamente con pesanti pelli di animali.
+es:
+  title: Pieles
+  subtitle: ''
+  text: |-
+    Cuando juegas esta posesión, puedes robar una carta.   
+    **Respuesta:** Si un Hombre :dunland: va a recibir una herida, quita :twilight2: o descarta esta posesión para prevenir esa herida.
+  lore: Sólo las gruesas pieles de los animales protegían a los Dunlendinos.

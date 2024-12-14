@@ -1,0 +1,18 @@
+set: '10'
+rarity: R
+number: '100'
+unique: true
+culture: Sauron
+type: Event
+class: Shadow
+cost: 1
+en:
+  title: Speak No More to Me
+  subtitle: ''
+  text: 'Exert a :sauron: minion to return a Free Peoples condition to its owner’s hand (or 2 if both are :shire: conditions).'
+  lore: ‘Go slow! Bring no fire to this place while Faramir lives! Do nothing until Gandalf comes!’
+de:
+  title: Sprecht nicht mehr mit mir
+  subtitle: ''
+  text: 'Strenge einen :sauron: Diener an, um einen Effekt der Freien Völker auf die Hand des Besitzers zurückzuschicken (oder 2, wenn beide Karten :shire: Effekte sind).'
+  lore: Macht langsam! Bringt kein Feuer hierher, solange Faramir lebt. Tut nichts, ehe Gandalf kommt!

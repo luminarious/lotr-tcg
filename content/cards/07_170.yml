@@ -1,0 +1,25 @@
+set: '7'
+rarity: R
+number: '170'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 6
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Suzerain of Harad
+  subtitle: ''
+  text: |-
+    **Southron.** **Archer.**   
+    While you have initiative, the Ring-bearer may not take wounds during the archery phase and this minion is ambush :twilight8:.
+  lore: ''
+de:
+  title: Kriegsherr der Haradrim
+  subtitle: ''
+  text: |-
+    **Südländer.** **Bogenschütze.**   
+    Wenn du die Initiative besitzt, kann der Ringträger in der Fernkampfphase keine Wunden erleiden und dieser Diener erhält Hinterhalt :twilight8:.
+  lore: …kam ein tödlicher Pfeil geflogen…

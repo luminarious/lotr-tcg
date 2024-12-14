@@ -1,0 +1,36 @@
+set: '1'
+rarity: R
+number: '163'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Ancient Chieftain
+  subtitle: ''
+  text: 'For each other :moria: Orc you can spot, Ancient Chieftain is strength +1.'
+  lore: …a huge orc-chieftain, almost man-high, clad in black mail from head to foot, leaped into the chamber; behind him his followers clustered in the doorway.
+de:
+  title: Erfahrener Häuptling
+  subtitle: ''
+  text: 'Für jeden weiteren :moria: Ork, den du entdecken kannst, erhält der erfahrene Häuptling Stärke +1.'
+  lore: …sprang ein riesiger Orkhäuptling, fast mannshoch, von Kopf bis Fuss in einen schwarzen Panzer gehüllt, in die Kammer; hinter ihm rotteten sich seine Gefolgsleute an der Tür zusammen.
+fr:
+  title: Ancien Chef de Clan
+  subtitle: ''
+  text: 'Pour chaque autre Orque :moria: que vous pouvez désigner, l’Ancien Chef de Clan a +1 en force.'
+  lore: …un énorme chef Orque presque de la taille d'un homme, vêtu de la tête aux pieds de mailles noires, bondit dans la chambre ; derrière lui, ses suivants se pressaient dans l'embrasure de la porte.
+it:
+  title: Capo Anziano
+  subtitle: ''
+  text: 'Per ogni altro Orco :moria: che puoi avvistare, Capo Anziano aggiunge +1 alla forza.'
+  lore: …un enorme capo-Orco, di dimensioni quasi umane, ricoperto dalla testa ai piedi di una armatura di maglia nera, saltò nella stanza; alle sue spalle, gli assalitori affollavano il vano della porta.
+es:
+  title: Caudillo Antiguo
+  subtitle: ''
+  text: 'Por cada otro Orco :moria: que puedas avistar, el Caudillo Antiguo es fuerza +1.'
+  lore: …Un enorme jefe Orco, casi de la altura de un Hombre, vestido con malla negra de la cabeza a los pies, entro de un salto en la cámara; lo seguían otros, que se apretaron en la puerta.

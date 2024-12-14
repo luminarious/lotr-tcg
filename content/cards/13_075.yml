@@ -1,0 +1,45 @@
+set: '13'
+rarity: U
+number: '75'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Stewards’ Legacy
+  subtitle: ''
+  text: |-
+    Each time Denethor exerts, he gains **muster** until the end of the regroup phase.  
+    Each time Boromir exerts, you may exert a minion.  
+    Each time Faramir exerts, you may spot a minion to prevent it from using special abilites until the regroup phase.
+  lore: ''
+de:
+  title: Das Vermächtnis der Truchsesse
+  subtitle: ''
+  text: Jedes Mal, wenn sich Denethor anstrengt, erhält er **Appell** bis zum Ende der Sammel-phase. Jedes Mal, wenn sich Boromir an-strengt, darfst du einen Diener anstrengen. Jedes Mal, wenn sich Faramir anstrengt, darfst du einen Diener entdecken, um zu verhindern, dass dieser bis zur Sammelphase Spezialfähigkeiten einsetzen kann.
+  lore: ''
+fr:
+  title: Stewards' Legacy
+  subtitle: ''
+  text: |-
+    Each time Denethor exerts, he gains **muster** until the end of the regroup phase.  
+    Each time Boromir exerts, you may exert a minion.  
+    Each time Faramir exerts, you may spot a minion to prevent it from using special abilites until the regroup phase.
+  lore: ''
+it:
+  title: Stewards' Legacy
+  subtitle: ''
+  text: |-
+    Each time Denethor exerts, he gains **muster** until the end of the regroup phase.  
+    Each time Boromir exerts, you may exert a minion.  
+    Each time Faramir exerts, you may spot a minion to prevent it from using special abilites until the regroup phase.
+  lore: ''
+es:
+  title: Stewards' Legacy
+  subtitle: ''
+  text: |-
+    Each time Denethor exerts, he gains **muster** until the end of the regroup phase.  
+    Each time Boromir exerts, you may exert a minion.  
+    Each time Faramir exerts, you may spot a minion to prevent it from using special abilites until the regroup phase.
+  lore: ''

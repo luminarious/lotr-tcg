@@ -1,0 +1,36 @@
+set: '4'
+rarity: C
+number: '4'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 5
+str: '11'
+vit: '2'
+site: 3
+en:
+  title: Band of Wild Men
+  subtitle: ''
+  text: 'Each time this minion wins a skirmish, you may make it **fierce** until the regroup phase. '
+  lore: ‘The Wild Men of Dunland have no love for Théoden of Rohan since he took their land.’
+de:
+  title: Horde wilder Menschen
+  subtitle: ''
+  text: Jedes Mal, wenn dieser Diener einen Kampf gewinnt, darfst du ihn bis zur Sammelphase **Erbittert** machen.
+  lore: Diese Wilden aus Dunland hassen Théoden dafür, dass er ihnen ihr Land genommen hat.
+fr:
+  title: Bande d'Hommes Sauvages
+  subtitle: ''
+  text: Chaque fois que ce séide remporte un combat, vous pouvez le rendre **acharné** jusqu’à la phase de ralliement.
+  lore: 'Les Hommes sauvages du Pays de Dun n''ont aucune dévotion pour Théoden de Rohan depuis qu''il leur a pris leurs terres.” '
+it:
+  title: Banda di Uomini Selvaggi
+  subtitle: ''
+  text: Ogni volta che questo servitore vince una schermaglia, puoi renderlo **Feroce** fino alla fase di raccolta.
+  lore: ‘Gli Uomini selvaggi del Dunland odiano Théoden di Rohan da quando egli ha preso le loro terre.’
+es:
+  title: Banda De Hombres Salvajes
+  subtitle: ''
+  text: Cada vez que este siervo gana una escaramuza, puedes darle **fiero** hasta la fase de reagrupación.
+  lore: Los hombres salvajes de las Tierras Pardas no le tienen aprecio a Théoden de Rohan desde que tomó sus tierras.

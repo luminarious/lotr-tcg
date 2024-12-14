@@ -1,0 +1,39 @@
+set: '2'
+rarity: R
+number: '75'
+unique: true
+culture: Wraith
+type: Minion
+race: Man
+cost: 2
+str: '4'
+vit: '1'
+site: 2
+en:
+  title: Bill Ferny
+  subtitle: Swarthy Sneering Fellow
+  text: |-
+    Nazgûl are not roaming.   
+    The Free Peoples player may not assign a character to skirmish Bill Ferny. Discard Bill Ferny if underground. 
+  lore: ‘…as for Ferny, he would sell anything to anybody; or make mischief for amusement.’
+de:
+  title: Lutz Farning
+  subtitle: Finsterer Geselle
+  text: Nazgûl sind nicht wandernd. Der Freie Völker Spieler darf Lutz Farning keinen Charakter zuweisen. Lutz Farning muss an unterirdischen Orten abgelegt werden.
+  lore: …und was Farning betrifft, so würde er jedem alles verraten; oder Unheil anrichten bloß zum Spaß.
+fr:
+  title: Bill Fougeron
+  subtitle: Noiraud Ricaneur
+  text: |
+    Les Nazgûl ne sont pas errants. Le joueur des Peuples Libres ne peut pas affecter un personnage au combat contre Bill Fougeron. Défaussez Bill Fougeron s’il se trouve à un site **Souterrain.**  
+  lore: '… quant à Fougeron, il vendrait n''importe quoi à n''importe qui, ou il ferait du mal par simple plaisir.” '
+it:
+  title: Billy Felci
+  subtitle: Tipo Oscuro e Sarcastico
+  text: I Nazgûl non sono considerati vaganti. Il giocatore dei Popoli Liberi non può assegnare un personaggio a una schermaglia con Billy Felci. Scarta Billy Felci se in un **Sotterraneo.**
+  lore: ‘…quanto a Felci, venderebbe l'anima e farebbe cattiverie per puro divertimento.’
+es:
+  title: Bill Helechal
+  subtitle: Tipo Sarcástico de Tez Morena
+  text: Los Nazgûl no están vagando. El jugador de Gentes Libres no puede asignar un personaje a una escaramuza contra Bill Helechal. Descarta a Bill Helechal si esta en un sitio **Subterráneo.**
+  lore: …y de Helechal, vendería lo que fuera a cualquiera, y causaría problemas por pura diversión.

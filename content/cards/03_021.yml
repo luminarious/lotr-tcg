@@ -1,0 +1,36 @@
+set: '3'
+rarity: R
+number: '21'
+unique: true
+culture: Elven
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+1'
+en:
+  title: Long-knives of Legolas
+  subtitle: ''
+  text: |-
+    Bearer must be Legolas.   
+    Each Orc or Uruk-hai skirmishing Legolas is strength -2. 
+  lore: Sharp, bone-handled knives defend the Elves of Mirkwood at close quarters.
+de:
+  title: Legolas' Langmesser
+  subtitle: ''
+  text: Muss auf Legolas gespielt werden. Alle Orks oder Uruk-hai, die gegen Legolas kämpfen, erhalten Stärke -2.
+  lore: Scharfe Messer, mit Knochengriffen versehen, schützen die Elben aus dem Düsterwald im Nahkampf.
+fr:
+  title: Les Longs Couteaux de Legolas
+  subtitle: ''
+  text: Le détenteur doit être Legolas. Chaque Orque ou Ourouk-Haï combattant Legolas a -2 en force.
+  lore: Au corps à corps, les Elfes de la Forêt Noire se servent de leur longs couteaux affutées pour se défendre.
+it:
+  title: I Lunghi Pugnali di Legolas
+  subtitle: ''
+  text: Il possessore deve essere Legolas. Sottrai -2 alla forza di ogni Orco o Uruk-hai che schermagli con Legolas.
+  lore: Gli affilati pugnali dal manico d'osso proteggono gli Elfi di Bosco Atro negli scontri ravvicinati.
+es:
+  title: Cuchillos Largos de Legolas
+  subtitle: ''
+  text: El portador debe ser Legolas. Cada Orco o Uruk-hai en una escaramuza contra Legolas es fuerza -2.
+  lore: Cuchillos afilados, con empuñaduras de hueso defienden a los Elfos del Bosque Negro en el cuerpo a cuerpo.

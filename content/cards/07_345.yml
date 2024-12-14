@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '345'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Left
+en:
+  title: Pelennor Flat
+  subtitle: ''
+  text: '**Plains.** At the start of the maneuver phase, the Free Peoples player must discard his or her hand or add 2 burdens.'
+  lore: ''
+de:
+  title: Die Tiefebene des Pelennor
+  subtitle: ''
+  text: '**Ebene.** Zu Beginn der Manöverphase muss der Freie Völker Spieler seine Hand ablegen oder 2 Lastmarken auf den Ringträger legen.'
+  lore: ''

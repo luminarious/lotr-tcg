@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '123'
+unique: true
+culture: Gondor
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Hard Choice
+  subtitle: ''
+  text: '**Fellowship:** Spot Aragorn to heal a companion who has the Aragorn signet twice. '
+  lore: ‘Shall we rest by night, or shall we go on while our will and strength hold?’
+de:
+  title: Schwierige Entscheidung
+  subtitle: ''
+  text: '**Manöver:** Entdecke Aragorn, um einen Gefährten mit dem Aragornsiegel zweimal zu heilen.'
+  lore: Sollen wir bei Nacht ruhen oder weitergehen, solange unser Wille und unsere Kraft reichen?
+fr:
+  title: Choix Difficile
+  subtitle: ''
+  text: '**Manœuvre :** Désignez Aragorn pour guérir deux fois un compagnon qui possède le sceau Aragorn.'
+  lore: 'Nous reposerons-nous la nuit, ou continuerons-nous tant que notre volonté et nos forces tiendront?” '
+it:
+  title: Scelta Difficile
+  subtitle: ''
+  text: '**Manovra:** Avvista Aragorn per curare due volte un compagno che abbia il sigillo di Aragorn.'
+  lore: ‘Riposare durante la notte, o proseguire finché forza e volontà reggono ancora?’
+es:
+  title: Difícil Elección
+  subtitle: ''
+  text: '**Maniobra:** Avista a Aragorn para curar dos veces un compañero que tenga el sello de Aragorn.'
+  lore: ¿Descansaremos de noche o seguiremos adelante mientras tengamos voluntad y fuerzas?

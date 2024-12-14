@@ -1,0 +1,23 @@
+set: '11'
+rarity: C
+number: '198'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '11'
+vit: '2'
+site: 5
+en:
+  title: Patrol of Uruk-hai
+  subtitle: ''
+  text: '**Damage +1.** While this minion is skirmishing a Free Peoples character who has resistance 5 or less, this minion cannot take wounds.'
+  lore: Their toughness comes from both armor and hide.
+de:
+  title: Uruk-hai Patroulle
+  subtitle: ''
+  text: |-
+    **Schaden +1**.  
+    Dieser Diener kann keine Wunden erleiden, solange er gegen einen Charakter mit Resistenz 5 oder weniger kämpft.
+  lore: Ihre Rüstung verstärkt nur ihre Zähigkeit.

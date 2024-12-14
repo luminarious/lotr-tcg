@@ -1,0 +1,25 @@
+set: '13'
+rarity: C
+number: '160'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '6'
+vit: '1'
+site: 5
+en:
+  title: Cavern Denizen
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    While you can spot a Free Peoples culture token, this minion cannot take wounds except during skirmishes.
+  lore: Saruman uses the enemy’s strength to his own advantage.
+de:
+  title: Höhlenbewohner
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Solange du eine Kulturmarke der Freien Völker entdecken kannst, kann dieser Diener, außer in Kämpfen, keine Wunden erleiden.
+  lore: Saruman nutzte die Stärken des Feindes zu seinem Vorteil.

@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '120'
+unique: true
+culture: ''
+type: Site
+cost: 9
+siteArrow: Left
+en:
+  title: Saruman’s Laboratory
+  subtitle: ''
+  text: '**Response:** If your minion is about to take a wound, discard 2 cards from hand to prevent that wound.'
+  lore: ''
+de:
+  title: Sarumans Laboratorium
+  subtitle: ''
+  text: 'Reaktion: Lege 2 Karten aus deiner Hand ab, um zu verhindern, dass dein Diener eine Wunde erleidet.'
+  lore: ''
+fr:
+  title: Le Laboratoire de Saroumane
+  subtitle: ''
+  text: '**Réponse :** Si votre séide est sur le point d’être blessé, défaussez 2 cartes de votre main pour prévenir la blessure.'
+  lore: ''
+it:
+  title: Laboratorio di Saruman
+  subtitle: ''
+  text: '**Risposta:** Se un tuo servitore sta per subire una ferita, scarta 2 carte dalla mano per prevenire quella ferita.'
+  lore: ''
+es:
+  title: El laboratorio de Saruman
+  subtitle: ''
+  text: '**Respuesta:** Si tu siervo va a recibir una herida, descarta 2 cartas de la mano para prevenir esa herida.'
+  lore: ''

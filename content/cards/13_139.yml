@@ -1,0 +1,21 @@
+set: '13'
+rarity: R
+number: '139'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Wind-swept Homestead
+  subtitle: ''
+  text: |-
+    To play, spot 2 :rohan: companions.  
+    When you play this, add a :rohan: token here for each plains site and each battleground site on the adventure path.  
+    At the start of each regroup phase, add a :rohan: token here for each of your companions that has muster.
+  lore: ''
+de:
+  title: Windige Heimstätte
+  subtitle: ''
+  text: 'Entdecke 2 :rohan: Gefährten, um diesen Effekt zu spielen. Lege eine :rohan: Marke für jede Ebene und jedes Schlachtfeld auf dem Abenteuerpfad auf diese Karte, wenn du sie spielst. Lege zu Beginn der Sammelphase eine :rohan: Marke, für jeden deiner Gefährten mit Appell auf diese Karte.'
+  lore: ''

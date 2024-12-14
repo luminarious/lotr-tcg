@@ -1,0 +1,36 @@
+set: '1'
+rarity: U
+number: '258'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '2'
+site: 6
+en:
+  title: Morgul Skulker
+  subtitle: ''
+  text: 'When you play this minion, you may shuffle up to 2 :wraith: cards from your discard pile into your draw deck.'
+  lore: Sly servants of the Ringwraiths of Morgul Vale, Morgul Orcs are alert to the desires of their masters.
+de:
+  title: Morgul Schleicher
+  subtitle: ''
+  text: 'Wenn du diesen Diener spielst, darfst du bis zu 2 :wraith: Karten aus deinem Ablagestapel in dein Spieldeck mischen.'
+  lore: Die Orks von Minas Morgul, durchtriebene Diener der Ringgeister, sind besonders aufmerksam, was die Wünsche ihrer Meister angeht.
+fr:
+  title: Maraudeur de Morgul
+  subtitle: ''
+  text: 'Quand vous jouez ce séide, vous pouvez mélanger juqu’à 2 cartes :wraith: de votre pile de défausse dans votre pioche.'
+  lore: Serviteurs sournois des Spectres de l'Anneau de la Vallée de Morgul, les Orques de Morgul sont soucieux des désirs de leurs maîtres.
+it:
+  title: Esploratore
+  subtitle: Orco di Morgul
+  text: 'Quando giochi questo servitore, puoi mescolare fino a 2 carte :wraith: dalla tua pila degli scarti nel tuo mazzo di gioco.'
+  lore: Scaltri servi dello Spettro dell'Anello della Valle di Morgul, gli Orchi di Morgul sono attenti ai desideri dei loro padroni.
+es:
+  title: Acechador de Morgul
+  subtitle: ''
+  text: 'Cuando juegas este siervo, puedes barajar hasta 2 cartas :wraith: de tu pila de descartes en tu mazo de robar.'
+  lore: Astutos servidores de los Espectros del Anillo del Valle de Morgul, los Orcos de Morgul están alerta a los deseos de sus amos.

@@ -1,0 +1,38 @@
+set: '2'
+rarity: U
+number: '54'
+unique: true
+culture: Moria
+type: Condition
+cost: 1
+str: '-2'
+en:
+  title: Dark Fire
+  subtitle: ''
+  text: |-
+    To play, spot The Balrog.   
+    Plays on Gandalf.   
+    Each time the fellowship moves, Gandalf must exert. 
+  lore: '…he seemed small, and altogether alone: grey and bent, like a wizened tree before the onset of a storm.'
+de:
+  title: Dunkles Feuer
+  subtitle: ''
+  text: Entdecke den Balrog, um diesen Effekt auf Gandalf zu spielen. Jedesmal, wenn sich die Gemeinschaft bewegt, muss Gandalf angestrengt werden.
+  lore: '…er sah klein aus und ganz allein: grau und gebeugt wie ein dürrer Baum, ehe ein Sturm losbricht.'
+fr:
+  title: Flamme Sombre
+  subtitle: ''
+  text: |-
+    Pour jouer, désignez Le Balrog. Jouable sur Gandalf.  
+    Chaque fois que la compagnie se déplace, affaiblissez Gandalf.
+  lore: '… il semblait petit et totalement seul: gris et courbé comme un arbre desséché, devant l''assaut d''un orage. '
+it:
+  title: Fuoco Oscuro
+  subtitle: ''
+  text: Per giocarla, avvista Il Balrog. Giocala su Gandalf. Ogni volta che la compagnia si muove, Gandalf si deve sforzare.
+  lore: '…pareva piccolo, e del tutto solo: grigio e curvo come un albero avvizzito prima dell''assalto di una tempesta.'
+es:
+  title: Fuego oscuro
+  subtitle: ''
+  text: Para jugarla, avista El Balrog. Se juega en Gandalf. Cada vez que la comunidad se mueve, Gandalf debe esforzarse.
+  lore: …parecía pequeño, y completamente solo; gris e inclinado, como un árbol seco poco antes de estallar la tormenta.

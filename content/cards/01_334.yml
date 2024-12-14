@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '334'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Left
+en:
+  title: Trollshaw Forest
+  subtitle: ''
+  text: '**Forest.** Each time you play a possession or artifact on your companion, draw a card.'
+  lore: ''
+de:
+  title: Trollhöhenwälder
+  subtitle: ''
+  text: '**Wald.** Jedesmal, wenn du eine Ausrüstungskarte oder ein Artefakt auf einen deiner Gefährten spielst, ziehe eine Karte.'
+  lore: ''
+fr:
+  title: Forêt du Bosquet des Trolls
+  subtitle: ''
+  text: '**Forêt.** Chaque fois que vous jouez une possession ou un artefact sur votre compagnon, piochez une carte.'
+  lore: ''
+it:
+  title: Foresta dei Troll
+  subtitle: ''
+  text: '**Foresta.** Ogni volta che giochi un bene o un artefatto su un tuo compagno, pesca una carta.'
+  lore: ''
+es:
+  title: Bosque de Los Trolls
+  subtitle: ''
+  text: '**Bosque.** Cada vez que juegas una posesión o un artefacto en tu compañero, roba una carta.'
+  lore: ''

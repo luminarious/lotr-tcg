@@ -1,0 +1,17 @@
+set: '4'
+rarity: U
+number: '114'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Damrod
+  subtitle: Ranger of Ithilien
+  text: |-
+    **Ring-bound.** **Ranger.** To play, spot a Ring-bound Man.   
+    **Skirmish:** Exert Damrod to exhaust a Man he is skirmishing. 
+  lore: ‘I doubt not that the days of Gondor are numbered, and the walls of Minas Tirith are doomed, so great is His strength and malice.’

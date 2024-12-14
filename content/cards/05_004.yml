@@ -1,0 +1,36 @@
+set: '5'
+rarity: R
+number: '4'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 6
+str: '18'
+vit: '2'
+site: 3
+en:
+  title: Wild Men of the Hills
+  subtitle: ''
+  text: The twilight cost of this minion is -2 during the skirmish phase. When you play this minion, the Free Peoples player may discard 4 cards from hand to discard it.
+  lore: The swarm of Dunlendings destroyed everything in its path.
+de:
+  title: Wilde Bergmenschen
+  subtitle: ''
+  text: In der Kampfphase reduzieren sich die Kosten dieses Dieners um 2. Wenn du diesen Diener spielst, darf der Freie Völker Spieler 4 Karten aus seiner Hand ablegen, um diesen Diener abzulegen.
+  lore: Die Horde der Dunländer zerstörte alles, was ihren Weg kreuzte.
+fr:
+  title: Hommes Sauvages des Collines
+  subtitle: ''
+  text: Le coût crépusculaire de ce séide est de -2 pendant la phase de combat. Quand vous jouez ce séide, le joueur des Peuples Libres peut défausser 4 cartes de se main pour le défausser.
+  lore: La nuée de Ceux du Pays de Dun détruisait tout sur son passage.
+it:
+  title: Selvaggi delle Colline
+  subtitle: ''
+  text: Sottrai -2 al costo crepuscolo di questo servitore durante la fase di schermaglia. Quando giochi questo servitore, il giocatore dei Popoli Liberi può scartare 4 carte dalla mano per scartarlo.
+  lore: L'orda dei Dunlandiani distrusse ogni cosa che si ritrovava innanzi.
+es:
+  title: Salvajes de las Colinas
+  subtitle: ''
+  text: El coste de penumbra de este siervo es -2 durante la fase de escaramuza. Cuando juegas este siervo, el jugador de Gentes Libres puede descartar 4 cartas de la mano para descartarlo.
+  lore: La horda de Dunlendinos lo destruyó todo en su camino.

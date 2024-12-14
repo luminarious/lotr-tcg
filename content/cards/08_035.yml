@@ -1,0 +1,23 @@
+set: '8'
+rarity: C
+number: '35'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 2
+str: '-1'
+en:
+  title: Fourth Level
+  subtitle: ''
+  text: |-
+    **Fortification.**   
+    **Skirmish:** Exert 2 :gondor: Men or spot 3 knights to transfer this condition from your support area to a minion skirmishing a :gondor: Man. Exhaust that minion.
+  lore: …about each was set a wall….
+de:
+  title: Vierter Ring
+  subtitle: ''
+  text: |-
+    **Befestigung.**   
+    **Kampf:** Strenge 2 :gondor: Menschen an oder entdecke 3 Ritter, um diesen Effekt aus deinem Unterstützungsbereich auf einen Diener zu verschieben, der gegen einen :gondor: Menschen kämpft. Erschöpfe diesen Diener.
+  lore: … jede von ihnen war… mit einer Mauer umgeben….

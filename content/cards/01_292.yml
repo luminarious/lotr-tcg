@@ -1,0 +1,39 @@
+set: '1'
+rarity: U
+number: '292'
+unique: true
+culture: Shire
+type: Possession
+class: Pipe
+cost: 1
+en:
+  title: The Gaffer's Pipe
+  subtitle: ''
+  text: |-
+    Bearer must be a Hobbit.   
+    **Fellowship:** Discard a pipeweed possession and spot X pipes to remove :twilightX:.
+  lore: ‘This… is the one art that we certainly claim to be our own invention. When Hobbits first began to smoke is not known….’
+de:
+  title: Die Pfeife des Ohm
+  subtitle: ''
+  text: 'Muss auf einen Hobbit gespielt werden. **Gemeinschaft.** Lege ein Pfeifenkraut ab und entdecke X Pfeifen, um den Einfluss um :twilightX: zu verringern.'
+  lore: Das… ist die einzige Kunst, von der wir behaupten können, dass wir sie erfunden haben. Wann die Hobbits zuerst mit Rauchen begannen, ist nicht bekannt…
+fr:
+  title: Pipe de l'Ancien
+  subtitle: ''
+  text: Le détenteur doit être un Hobbit. **Compagnie :** Défaussez une possession Herbe à Pipe et désignez X pipes pour retirer :twilightX:.
+  lore: ‘Ceci … est le seul art que nous réclamons à coup sûr comme étant de notre propre invention. Nous ignorons cependant à quel moment les Hobbits commencèrent à fumer….’
+it:
+  title: La Pipa del Gaffiere
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Hobbit.   
+    **Compagnia:** Scarta un bene erba pipa e avvista X pipe per rimuovere :twilightX:.
+  lore: ‘Questa … è un'arte che possiamo certo dire di aver inventata noi. Quando gli Hobbit incominciarono a fumare nessuno lo sa…’
+es:
+  title: La Pipa del Tío
+  subtitle: ''
+  text: |-
+    El portador debe ser un Hobbit.   
+    **Comunidad:** Descarta una posesión hierba para pipa y avista X pipas para quitar :twilightX:.
+  lore: Este arte…es el único que podemos reclamar como de invención nuestra. En que época empezaron a fumar los Hobbits es un enigma…

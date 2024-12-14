@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '75'
+unique: true
+culture: Gollum
+type: Event
+class: Response
+cost: 0
+en:
+  title: Sweeter Meats
+  subtitle: ''
+  text: If a minion is about to take a wound, spot Gollum to prevent that wound.
+  lore: ‘It may well be, oh yes, it may very well be, that when She throws away the bones and the empty clothes… we shall find It!’
+de:
+  title: Süßeres Fleisch
+  subtitle: ''
+  text: Entdecke Gollum, wenn ein Diener eine Wunde erleidet, um diese zu verhindern.
+  lore: Es mag sein, o ja, es mag wohl sein, wenn Sie die Knochen und die übriggebliebenen Kleider wegwirft, dass wir ihn finden!

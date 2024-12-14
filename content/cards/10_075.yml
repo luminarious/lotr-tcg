@@ -1,0 +1,21 @@
+set: '10'
+rarity: R
+number: '75'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '10'
+vit: '3'
+site: 6
+en:
+  title: Advance Captain
+  subtitle: ''
+  text: 'Each roaming :sauron: minion is **damage +1.**'
+  lore: The foe who gave him his scar soon after gave him the adornment for his helm.
+de:
+  title: Führer des Stoßtrupps
+  subtitle: ''
+  text: 'Jeder wandernde :sauron: Diener erhält **Schaden +1**.'
+  lore: Der Feind, der ihm seine Narbe beigebracht hatte, wurde dann zu seinem Helmschmuck.

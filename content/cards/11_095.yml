@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '95'
+unique: true
+culture: Man
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Poleaxe
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: minion.   
+    **Skirmish:** Remove :twilight2: to make a :men: minion fierce until the regroup phase. 
+  lore: Many of the Men of the East march into battle carrying heavy bladed polearms.
+de:
+  title: Stangenbeil
+  subtitle: ''
+  text: 'Muss auf einen :men: Diener gespielt werden. **Kampf:** Verringere den Einfluss um :twilight2: um einen :men: Diener bis zur Sammelphase erbittert zu machen.'
+  lore: Viele der Männer aus dem Osten marschieren mit schweren Stangenbeilen zum Kampf.

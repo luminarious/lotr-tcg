@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '312'
+unique: true
+culture: Sauron
+type: Event
+class: Response
+cost: 4
+en:
+  title: Siegecraft
+  subtitle: ''
+  text: 'If your :sauron: Orc wins a skirmish, make all your :sauron: Orcs fierce until the regroup phase.'
+  lore: ‘They are blasting breaches in it.’
+de:
+  title: Belagerungskunst
+  subtitle: ''
+  text: 'Wenn einer deiner :sauron: Orks einen Kampf gewinnt, mache alle deine :sauron: Orks bis zur Sammelphase **erbittert**.'
+  lore: Sie sprengen Breschen hinein.

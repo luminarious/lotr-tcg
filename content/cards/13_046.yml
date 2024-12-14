@@ -1,0 +1,16 @@
+set: '13'
+rarity: R
+number: '46'
+unique: true
+culture: Gollum
+type: Follower
+cost: 0
+res: '+1'
+en:
+  title: Déagol
+  subtitle: Fateful Finder
+  text: |-
+    To play, spot Sméagol.  
+    **Aid –** Add a burden.  
+    **Skirmish:** If bearer is not assigned to a skirmish, discard this from play to play an artifact or possession from your draw deck on bearer.
+  lore: ‘…there in his hand lay a beautiful golden ring.’

@@ -1,0 +1,22 @@
+set: '12'
+rarity: R
+number: '82'
+unique: true
+culture: Orc
+type: Event
+class: Skirmish
+cost: 5
+en:
+  title: Barrage
+  subtitle: ''
+  text: |-
+    **Toil 2.** *(For each *:orc: *character you exert when playing this, its twilight cost is –2.)*   
+    Make each of your :orc: minions strength +2 until the regroup phase.
+  lore: Fires now raged unchecked in the first circle of the City….
+de:
+  title: Sperrfeuer
+  subtitle: ''
+  text: |-
+    **Mühe 2.** *(Für jeden *:orc: *Charakter, den du beim Ausspielen dieser Karte anstrengst, reduzieren sich deren Kosten um 2.)*  
+    Gib jedem deiner :orc: Diener bis zur Sammelphase Stärke +2.
+  lore: Brände wüteten jetzt ungehindert im ersten Ring der Stadt….

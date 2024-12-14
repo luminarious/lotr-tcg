@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '155'
+unique: true
+culture: Isengard
+type: Event
+class: Response
+cost: 0
+en:
+  title: Haunting Her Steps
+  subtitle: ''
+  text: '**Response:** If a special ability of an ally or unbound companion is used, exert Gríma to cancel that action. '
+  lore: ‘What was the promised price? When all the men were dead, you were to pick your share of the treasure and take the woman you desire?’
+de:
+  title: Jeden ihrer Schritte verfolgend
+  subtitle: ''
+  text: '**Reaktion:** Strenge Gríma an, wenn eine spezielle Fähigkeit eines Verbündeten oder eines nicht-verbundenen Gefährten benutzt wird, um dies zu verhindern.'
+  lore: Was war der versprochene Preis? Wenn alle Männer tot wären, solltest du dir deinen Teil des Schatzes nehmen und die Frau, die du begehrtest?
+fr:
+  title: Hante Ses Pas
+  subtitle: ''
+  text: '**Réponse :** Si une capacité spéciale est utilisée par un allié ou un compagnon dissocié, affaiblissez Grima pour annuler cette action.'
+  lore: 'Quel a été le prix convenu? Quand tous mes hommes seront morts, tu ramasseras ta part du trésor et tu prendras la femme que tu désires?” '
+it:
+  title: Seguirla Passo a Passo
+  subtitle: ''
+  text: '**Risposta:** Se un’abilità speciale di un alleato o un compagno Non Legato è usata, sforza Gríma per cancellare quell’azione.'
+  lore: ‘Qual era la ricompensa promessa? Morti tutti gli uomini, avresti preso la tua parte del tesoro e la donna dei tuoi desideri?’
+es:
+  title: Siguiendo Sus Pasos
+  subtitle: ''
+  text: '**Respuesta:** Si se usa una habilidad especial de un aliado o de un compañero no-vinculado, esfuerza a Gríma para cancelar esa acción.'
+  lore: ¿Cuál fue el precio convenido? Cuando todos los hombres hayan muerto, ¿recogerás tu parte del tesoro y tomarás la mujer que codicias?

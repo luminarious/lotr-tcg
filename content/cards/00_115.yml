@@ -1,0 +1,16 @@
+set: '0'
+rarity: P
+number: '115'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '12'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Toldëa
+  subtitle: Eighth of the Nine Riders
+  text: '**Fierce.** Each time Úlairë Toldëa wins a skirmish, you may play the fellowship’s next site. '
+  lore: Nine Riders Collection

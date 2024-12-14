@@ -1,0 +1,35 @@
+set: '2'
+rarity: U
+number: '33'
+unique: true
+culture: Gondor
+type: Event
+class: Response
+cost: 0
+en:
+  title: Flee in Terror
+  subtitle: ''
+  text: |-
+    **Response:** If a :gondor: companion wins a skirmish, discard an exhausted Orc.   
+    That minion’s owner may remove :twilight3: to prevent this. 
+  lore: Aragorn smote to the ground the captain that stood in his path, and the rest fled in terror of his wrath.
+de:
+  title: Flucht voller Entsetzen
+  subtitle: ''
+  text: '**Reaktion:** Lege einen erschöpften Ork ab, wenn ein :gondor: Gefährte einen Kampf gewinnt. Der Besitzer dieses Dieners darf den Einfluss um :twilight3: verringern, um dies zu verhindern.'
+  lore: Aragorn schlug den Hauptmann zu Boden, der sich ihm in den Weg stellte, und die anderen flohen voll Entsetzen vor seinem Zorn.
+fr:
+  title: Fuite Effarée
+  subtitle: ''
+  text: '**Réponse :** Si un compagnon :gondor: gagne un combat, défaussez un Orque épuisé. Le propriétaire de ce séide peut retirer :twilight3: pour empêcher ceci.'
+  lore: 'Aragorn abattit le capitaine qui lui barrait la route, et les autres s''enfuirent devant son courroux. '
+it:
+  title: Scappare Terrorizzati
+  subtitle: ''
+  text: '**Risposta:** Se un compagno :gondor: vince una schermaglia, scarta un Orco esausto. Il proprietario di quel servitore può rimuovere :twilight3: per prevenirlo.'
+  lore: Aragorn atterrò d'un colpo il capitano che gli sbarrava la via, e gli altri fuggirono terrorizzati dalla sua collera.
+es:
+  title: Huir presa del pánico
+  subtitle: ''
+  text: '**Respuesta:** Si un compañero :gondor: gana una escaramuza, descarta un Orco exhausto. El propietario de ese siervo puede quitar :twilight3: para prevenir esto.'
+  lore: Aragorn tumbó al suelo al capitán que se encontraba en su camino, y el resto huyeron presas del pánico por su ira.

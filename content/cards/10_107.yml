@@ -1,0 +1,20 @@
+set: '10'
+rarity: C
+number: '107'
+unique: true
+culture: Shire
+type: Condition
+cost: 1
+vit: '-1'
+en:
+  title: Great Heart
+  subtitle: ''
+  text: |-
+    Play this condition only during a skirmish. Bearer must be a Hobbit.   
+    When this condition is played, wound a minion skirmishing bearer. 
+  lore: And there stood Meriadoc the hobbit in the midst of the slain, blinking like an owl in the daylight, for tears blinded him….
+de:
+  title: Großer Mut
+  subtitle: ''
+  text: Spiele diesen Effekt nur während eines Kampfes. Muss auf einen Hobbit gespielt werden. Verwunde einen Diener, der gegen den Träger kämpft, wenn du diesen Effekt ausspielst.
+  lore: Und da stand Meriadoc der Hobbit inmitten der Erschlagenen und blinzelte wie eine Eule im Tageslicht, denn er hatte die Augen voll Tränen….

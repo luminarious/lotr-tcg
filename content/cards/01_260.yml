@@ -1,0 +1,36 @@
+set: '1'
+rarity: U
+number: '260'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: The Number Must Be Few
+  subtitle: ''
+  text: '**Search.** While you can spot 7 companions, the move limit for this turn is -1 (to a minimum of 1).'
+  lore: ‘The number must be few, since your hope is in speed and secrecy.’
+de:
+  title: Ihre Zahl muss klein sein
+  subtitle: ''
+  text: '**Suche.** Solange du 7 Gefährten entdecken kannst, reduziert sich die Bewegungsweite um 1 (bis zu einem Minimum von 1).'
+  lore: Ihre Zahl muss klein sein, denn deine Hoffnung liegt in Schnelligkeit und Heimlichkeit.
+fr:
+  title: Il les Faut Peu Nombreux
+  subtitle: ''
+  text: |-
+    **Recherche.**  
+    Jouable dans votre aire de soutien.  
+    Tant que vous pouvez désigner 7 compagnons, la limite de déplacement pour ce tour est de -1 (jusqu’à un minimum de 1).
+  lore: ‘Il les faut peu nombreux, puisque notre espoir réside dans la rapidité et le secret.’
+it:
+  title: Piccolo Deve Essere il Numero
+  subtitle: ''
+  text: '**Ricerca.** Finché puoi avvistare 7 compagni, sottrai -1 al limite dei movimenti per questo turno (fino a un minimo di 1).'
+  lore: ‘Piccolo deve essere il numero, poiché la vostra speranza è nella rapidità e nella segretezza.’
+es:
+  title: Tienen Que Ser Pocos
+  subtitle: ''
+  text: '**Búsqueda.** Mientras puedas avistar 7 compañeros, el límite de movimiento para este turno es -1 (hasta un mínimo de 1).'
+  lore: Tienen que ser pocos, ya que tus mayores esperanzas dependen de la rapidez y el secreto.

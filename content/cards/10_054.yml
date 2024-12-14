@@ -1,0 +1,21 @@
+set: '10'
+rarity: U
+number: '54'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Cirith Ungol Scavenger
+  subtitle: ''
+  text: Each time this minion wins a skirmish, you may exert it to discard a possession borne by a character this minion is skirmishing.
+  lore: 'A noise of tramping feet and harsh shouts: Orcs were coming up to the Cleft from the far side….'
+de:
+  title: Plünderer aus Cirtih Ungol
+  subtitle: ''
+  text: Jedes Mal, wenn dieser Diener einen Kampf gewinnt, darfst du ihn anstrengen, um eine Ausrüstung von dem Charakter, gegen den er gekämpft hat, abzulegen.
+  lore: 'Ein Geräusch von stampfenden Füßen und mißtönenden Rufen: Orks kamen zur Schlucht herauf von der anderen Seite….'

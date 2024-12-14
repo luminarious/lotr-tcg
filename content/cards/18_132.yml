@@ -1,0 +1,15 @@
+set: '18'
+rarity: U
+number: '132'
+unique: true
+culture: Wraith
+type: Event
+class: Shadow
+cost: 2
+en:
+  title: All Life Flees
+  subtitle: ''
+  text: |-
+    To play, spot a Nazgûl.  
+    Remove :twilightX: to choose one: discard a follower from play that has a twilight cost of X; or play from deck a :wraith: minion that has a twilight cost of X.
+  lore: A sudden unreasoning fear of discovery laid hold of Frodo, and he thought of his Ring.

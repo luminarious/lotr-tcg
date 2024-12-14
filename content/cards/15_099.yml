@@ -1,0 +1,18 @@
+set: '15'
+rarity: R
+number: '99'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 5
+str: '12'
+vit: '3'
+site: 4
+en:
+  title: Black Land Chieftain
+  subtitle: ''
+  text: |-
+    To play, spot an :orc: minion.  
+    When you play Black Land Chieftain, you may add a threat for each Free Peoples possession and each Free Peoples artifact you can spot.
+  lore: Orcs frequently used the weapons of their fallen enemies as their own.

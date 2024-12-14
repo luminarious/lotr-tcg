@@ -1,0 +1,16 @@
+set: '17'
+rarity: C
+number: '50'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 2
+str: '7'
+vit: '1'
+site: 4
+en:
+  title: Stampeding Hillsman
+  subtitle: ''
+  text: '**Regroup:** Spot a :men: minion in your discard pile and discard this minion to place that minion on your :men: support area possession.'
+  lore: Argh!!

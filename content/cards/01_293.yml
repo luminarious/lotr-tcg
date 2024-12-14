@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '293'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Halfling Deftness
+  subtitle: ''
+  text: '**Skirmish:** Exert a Hobbit to make him strength +3.'
+  lore: …though they are inclined to be fat and do not hurry unnecessarily, they are nonetheless nimble and deft in their movements.
+de:
+  title: Halbling Geschick
+  subtitle: ''
+  text: '**Kampf** Strenge einen Hobbit an, um ihm Stärke +3 zu geben.'
+  lore: …und obwohl sie dazu neigen, Fett anzusetzen und sich nicht unnötigerweise zu beeilen, sind sie dennoch flink und behende in ihren Bewegungen.
+fr:
+  title: Habileté de Semi-Homme
+  subtitle: ''
+  text: '**Combat :** Affaiblissez un Hobbit pour lui donner +3 en force.'
+  lore: …et s'ils ont une tendance à l'embonpoint et ne se pressent pas sans nécessité, ils n'en sont pas moins lestes et adroits dans leurs mouvements.
+it:
+  title: Destrezza dei Mezzuomini
+  subtitle: ''
+  text: '**Schermaglia:** Sforza un Hobbit per aggiungere +3 alla forza.'
+  lore: …benché tendano a essere grassocci e piuttosto pigri, sono agili e svelti nei movimenti.
+es:
+  title: Destreza de Mediano
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza un Hobbit para darle fuerza +3.'
+  lore: Y aunque engordan fácilmente, y nunca se apresuran si no es necesario, se mueven con agilidad y destreza.

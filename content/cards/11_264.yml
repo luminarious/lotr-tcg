@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '264'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Left
+en:
+  title: Westemnet Village
+  subtitle: ''
+  text: '**Dwelling.** When the fellowship moves to this site, the Free Peoples player wounds a companion for each ally. '
+  lore: ''
+de:
+  title: Dorf in Westemnet
+  subtitle: ''
+  text: '**Heimstatt.** Wenn sich die Gemeinschaft an diesen Ort bewegt, muss der Freie Völker Spieler für jeden Verbündeten einen Gefährten verwunden.'
+  lore: ''

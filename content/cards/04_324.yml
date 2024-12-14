@@ -1,0 +1,32 @@
+set: '4'
+rarity: U
+number: '324'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Eastemnet Downs
+  subtitle: ''
+  text: 'Each time you play a companion here, you must discard 2 cards from hand. '
+  lore: ''
+de:
+  title: Die Täler Ostemnets
+  subtitle: ''
+  text: Jedes Mal, wenn du hier einen Gefährten ausspielt, musst du 2 Karten aus deiner Hand ablegen.
+  lore: ''
+fr:
+  title: Les Dunes de l'Estemnet
+  subtitle: ''
+  text: Chaque fois que vous jouez un compagnon ici, vous devez défausser 2 cartes de votre main.
+  lore: ''
+it:
+  title: Poggi dell'Estemnet
+  subtitle: ''
+  text: Ogni volta che giochi un compagno qui, devi scartare 2 carte dalla mano.
+  lore: ''
+es:
+  title: Lomas De Estemnet
+  subtitle: ''
+  text: Cada vez que juegas un compañero aquí, debes descartar 2 cartas de tu mano.
+  lore: ''

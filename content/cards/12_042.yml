@@ -1,0 +1,25 @@
+set: '12'
+rarity: R
+number: '42'
+unique: true
+culture: Gondor
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Blade of Gondor
+  subtitle: Sword of Boromir
+  text: |-
+    Bearer must be Boromir.   
+    He is **damage +1.**   
+    **Skirmish:** If Boromir is not assigned to a skirmish, discard a :gondor: card borne by him to have him replace an unbound Hobbit skirmishing a minion.
+  lore: Its strength pales next to that of the man wielding it.
+de:
+  title: Das Schwert von Gondor
+  subtitle: Boromirs Schwert
+  text: |-
+    Muss auf Boromir gespielt werden.  
+    Er erhält **Schaden +1**.  
+    **Kampf:** Lege eine :gondor: Karte von Boromir ab, um einen nicht-verbundenen Hobbit, der gegen einen Diener kämpft, in diesem Kampf durch Boromir zu ersetzen, wenn dieser keinem Kampf zugewiesen ist.
+  lore: ''

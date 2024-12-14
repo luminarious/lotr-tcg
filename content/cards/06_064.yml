@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '64'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Iron Fist of the Orc
+  subtitle: ''
+  text: 'Each time a regroup action discards an :isengard: Orc, you may stack that Orc on this card. **Regroup:** Discard 3 cards stacked here and remove :twilight1:to discard a Free Peoples possession.'
+  lore: ‘The old world will burn in the fires of industry.’
+de:
+  title: Die eiserne Faust der Orks
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn eine Sammelaktion einen :isengard: Ork ablegt, darfst du diesen hier lagern. **Sammeln:** Lege 3 Karten, die hier gelagert sind, ab und verringere den Einfluss um :twilight1:, um eine Freie Völker Ausrüstung'
+  lore: Die alte Welt wird brennen in den Feuern der Schmelzöfen.
+fr:
+  title: Le Poing de Fer de l'Orque
+  subtitle: ''
+  text: 'Chaque fois qu’une action de ralliement défausse un Orque :isengard:, vous pouvez empiler cet Orque ici. **Ralliement :** Défaussez 3 cartes empilées ici et retirez :twilight1: pour défausser une possession des Peuples Libres.'
+  lore: 'Le vieux monde brûlera dans les feux de l''industrie. '
+it:
+  title: Pugno d'Acciaio dell'Orco
+  subtitle: ''
+  text: Ogni volta che un’azione di raccolta fa scartare un Orco :isengard:, puoi impilare quell’Orco su questa carta. **Raccolta:** Scarta 3 carte impilate qui e rimuovi:twilight1:per scartare un bene dei Popoli Liberi.
+  lore: ‘Il vecchio mondo brucerà nel fuoco dell'industria.’
+es:
+  title: Puño de hierro de Orco
+  subtitle: ''
+  text: 'Cada vez que una acción de reagrupación descarta un Orco :isengard:, puedes apilar ese Orco en esta carta. **Reagrupación:** Descarta 3 cartas apiladas aquí y quita:twilight1: para descartar una posesión de Gentes Libres.'
+  lore: El viejo mundo arderá en los fuegos de la industria.

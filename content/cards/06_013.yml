@@ -1,0 +1,16 @@
+set: '6'
+rarity: U
+number: '13'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Arwen
+  subtitle: Evenstar of Her People
+  text: '**Skirmish:** Exert an Elf to make a minion skirmishing Arwen strength –1.'
+  lore: ‘If you trust nothing else, trust this… trust us.’

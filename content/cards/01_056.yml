@@ -1,0 +1,18 @@
+set: '1'
+rarity: U
+number: '56'
+unique: true
+culture: Elven
+type: Ally
+race: Elf
+cost: 2
+str: '3'
+vit: '3'
+site: '6'
+en:
+  title: Orophin
+  subtitle: Lórien Bowman
+  text: |-
+    **Archer.**   
+    **Archery:** Exert Orophin to wound an Uruk-hai.
+  lore: The swift bow of Orophin, Haldir’s kinsman, has slain many Orcs.

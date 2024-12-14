@@ -1,0 +1,33 @@
+set: '2'
+rarity: U
+number: '72'
+unique: true
+culture: Moria
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Troubled Mountains
+  subtitle: ''
+  text: '**Shadow:** Exert a :moria: minion and spot X burdens to add :twilightX: (limit :twilight5:). '
+  lore: ‘The Dimrill Dale is full of vapour and clouds of smoke….There are noises in the deeps of the earth.’
+de:
+  title: Aufgewühlte Berge
+  subtitle: ''
+  text: '**Schatten:** Strenge einen :moria: Diener an und entdecke X Lastmarken, um den Einfluss um :twilightX: zu erhöhen (maximal :twilight5:).'
+  lore: Das Schattenbachtal ist voll von Dampf und Rauchwolken… Es kommen Geräusche aus den Tiefen der Erde.
+fr:
+  title: Montagnes Troublées
+  subtitle: ''
+  text: 'Ombre : Affaiblissez un Orque :moria: et désignez X points-fardeau pour ajouter :twilightX: (limite de :twilight5:).'
+  lore: 'La Vallée des Rigoles Sombres est emplie de vapeur et de nuages de fumée… Il y a des bruits dans les profondeurs de la terre.” '
+it:
+  title: Montagne Pericolose
+  subtitle: ''
+  text: '**Ombra:** Sforza un servitore :moria: e avvista X segnalini fardello per aggiungere :twilightX: (al massimo :twilight5:).'
+  lore: ‘La Valle dei Rivi Tenebrosi è piena di vapori e di nubi di fumo… si odono rumori negli abissi della terra.’
+es:
+  title: Montañas inquietas
+  subtitle: ''
+  text: '**Sombra:** Esfuerza un siervo :moria: y avista X cargas para añadir :twilightX: (límite :twilight5:).'
+  lore: El Valle del Dimrill está lleno de vapor y nubes de humo… Hay ruidos en las profundidades de la tierra.

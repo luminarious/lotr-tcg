@@ -1,0 +1,17 @@
+set: '7'
+rarity: U
+number: '332'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Rohirrim Road
+  subtitle: ''
+  text: '**Fellowship:** Exert an Elf to make the twilight cost of each condition and possession +2 until the end of the turn.'
+  lore: ''
+de:
+  title: Eine Straße in Rohan
+  subtitle: ''
+  text: '**Gemeinschaft:** Strenge einen Elben an, um die Kosten für alle Effekte und Ausrüstungen bis zum Ende des Zuges um 2 zu erhöhen.'
+  lore: ''

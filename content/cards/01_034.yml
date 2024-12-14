@@ -1,0 +1,16 @@
+set: '1'
+rarity: R
+number: '34'
+unique: true
+culture: Elven
+type: Ally
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+site: '6'
+en:
+  title: Celeborn
+  subtitle: Lord of Lórien
+  text: '**Fellowship:** Exert Celeborn to heal an :elven: ally.'
+  lore: They were clad wholly in white… and the hair of the Lord Celeborn was of silver long and bright; but no sign of age was upon them, unless it were in the depths of their eyes; for these were keen as lances in the starlight, and yet profound….

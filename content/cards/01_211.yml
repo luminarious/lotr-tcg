@@ -1,0 +1,35 @@
+set: '1'
+rarity: U
+number: '211'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Drawn to Its Power
+  subtitle: ''
+  text: |-
+
+    Each time a companion is killed in a skirmish involving a Nazgûl, add a burden.
+  lore: ‘And also the Ring drew them.’
+de:
+  title: Angezogen von seiner Macht
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. Jedesmal, wenn ein Nazgûl einen Gefährten in einem Kampf tötet, lege eine Lastmarke auf den Ringträger.
+  lore: Und auch der Ring zog sie an.
+fr:
+  title: Attiré par son Pouvoir
+  subtitle: ''
+  text: Chaque fois qu’un Nazgûl tue un compagnon dans un combat, ajoutez un point-fardeau.
+  lore: ‘Et l'Anneau les attire aussi.’
+it:
+  title: Attirati dal Suo Potere
+  subtitle: ''
+  text: Ogni volta che un compagno muore in una schermaglia contro uno o più Nazgûl, aggiungi un segnalino fardello.
+  lore: ‘Inoltre, l'Anello li attirava.’
+es:
+  title: Atraído por Su Poder
+  subtitle: ''
+  text: Cada vez que un Nazgûl mata un compañero en una escaramuza, añade una carga.
+  lore: Y además el Anillo los llamaba de algún modo.

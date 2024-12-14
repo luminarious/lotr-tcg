@@ -1,0 +1,44 @@
+set: '2'
+rarity: U
+number: '67'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 6
+str: '8'
+vit: '3'
+site: 4
+en:
+  title: Moria Archer Troop
+  subtitle: ''
+  text: |-
+    **Archer.**   
+    While you can spot another :moria: archer, add 1 to the minion archery total. 
+  lore: Most of the Goblin arrows flew harmlessly into the chasm, but there were so many!
+de:
+  title: Bogenschützen aus Moria
+  subtitle: ''
+  text: |-
+    **Bogenschütze.**  
+    Solange du einen anderen :moria: Bogenschützen entdecken kannst, erhöht sich der Fernkampfwert der Diener um 1.
+  lore: Die meisten Pfeile der Goblins schwirrten harmlos in die Kluft, aber es waren so viele.
+fr:
+  title: Meutes d'Archers
+  subtitle: ''
+  text: |-
+    **Archer.**  
+    Lorsque vous pouvez désignez un autre archer :moria:, ajoutez 1 au total d’archerie des séides.
+  lore: La plupart des flèches lancées par les gobelins tombèrent sans heurt dans le gouffre, mais il y en avait tellement.
+it:
+  title: Schiera di Arcieri di Moria
+  subtitle: ''
+  text: |-
+    **Arciere.**  
+    Mentre avvisti un altro arciere :moria:, aggiungi +1 al totale degli arcieri tra i servitori.
+  lore: La maggior parte delle frecce dei Goblin volarono innocue nel crepaccio, ma erano talmente tante!
+es:
+  title: Tropa Arquera de moria
+  subtitle: ''
+  text: '**Arquero.** Mientras puedas avistar otro arquero :moria:, añade 1 al total de arquería de los siervos.'
+  lore: La mayoría de las flechas Goblin volaron sin causar daños hacia el abismo, ¡pero había tantas de ellas!

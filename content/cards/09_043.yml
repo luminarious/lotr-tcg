@@ -1,0 +1,22 @@
+set: '9'
+rarity: R+
+number: '43'
+unique: true
+culture: Wraith
+type: Artifact
+class: Ring
+cost: 0
+str: '+1'
+en:
+  title: Ring of Ire
+  subtitle: ''
+  text: |-
+    Bearer must be The Witch-king.   
+    **Skirmish:** Exert bearer twice to make a :wraith: minion **damage +1.**   
+    **Response:** If a player reconciles, return bearer to his owner’s hand. 
+  lore: ‘Nine he gave to Mortal Men, proud and great, and so ensnared them.’
+de:
+  title: Der Ring der Wut
+  subtitle: ''
+  text: 'Muss auf den Hexenkönig gespielt werden. **Kampf:** Strenge den Träger zweimal an, um einem :wraith: Diener **Schaden +1** zu geben. **Reaktion:** Nimm den Träger wieder auf die Hand, wenn ein Spieler seine Handkarten wieder auffüllt.'
+  lore: Neun gab er den sterblichen Menschen, stolzen und großen Menschen, und so verführte er sie.

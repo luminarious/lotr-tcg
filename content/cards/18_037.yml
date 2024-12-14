@@ -1,0 +1,13 @@
+set: '18'
+rarity: U
+number: '37'
+unique: true
+culture: Gollum
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Trusted Promise
+  subtitle: ''
+  text: 'Reinforce a :gollum: token. Each Shadow player may draw a card.'
+  lore: We swears to serve the master of the preciousss. We will swear on… on the precious.

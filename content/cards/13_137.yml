@@ -1,0 +1,19 @@
+set: '13'
+rarity: R
+number: '137'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '7'
+en:
+  title: Théoden
+  subtitle: The Renowned
+  text: |-
+    While you can spot Éowyn, Théoden is **defender +1**.  
+    While you can spot Éomer, Théoden is **damage +1**.  
+    While you can spot Théodred, the move limit is +1.
+  lore: ‘Let horse be bridled, horn be sounded!’

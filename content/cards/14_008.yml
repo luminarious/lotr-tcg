@@ -1,0 +1,18 @@
+set: '14'
+rarity: R
+number: '8'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '5'
+en:
+  title: Duinhir
+  subtitle: Tall Man of Blackroot Vale
+  text: |-
+    While you can spot a mount, Duinhir is **damage +1**.  
+    Each time Duinhir wins a skirmish, if you can spot more minions than companions, you may exert him to discard a minion that has strength 7 or less.
+  lore: The garrison at Osgiliath fought valiantly.

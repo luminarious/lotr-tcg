@@ -1,0 +1,33 @@
+set: '3'
+rarity: C
+number: '84'
+unique: true
+culture: Wraith
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: They Will Never Stop Hunting You
+  subtitle: ''
+  text: '**Maneuver:** Spot a Nazgûl to reveal a card at random from the Free Peoples player’s hand. Exert a companion bearing a ranged weapon X times, where X is the twilight cost of the card revealed. '
+  lore: ‘They're looking for Baggins, and if they mean well, then I'm a hobbit.’
+de:
+  title: Sie werden nie aufhören, dich zu jagen
+  subtitle: ''
+  text: '**Manöver:** Entdecke einen Nazgûl, um eine zufällig bestimmte Karte aus der Hand des Freien Völker Spielers aufzudecken. Strenge einen Gefährten, der mit einer Fernkampfwaffe ausgerüstet ist, X mal an, wobei X den Zwielicht-kosten der aufgedeckten Karte entspricht.'
+  lore: Sie suchen Beutlin, und wenn sie was Gutes im Schilde führen, dann bin ich ein Hobbit.
+fr:
+  title: Ils ne Cesseront Jamais de Vous Pourchasser
+  subtitle: ''
+  text: '**Manœuvre :** Désignez un Nazgûl pour révéler une carte au hasard de la main du joueur des Peuples Libres. Affaiblissez X fois un compagnon détenteur d’une arme de portée, où X est le coût crépusculaire de la carte révélée.'
+  lore: 'Ils sont à la recherche de Sacquet, et si leurs intentions sont bonnes, eh bien, moi je suis un Hobbit.” '
+it:
+  title: Non Smetteranno Mai di Darti la Caccia
+  subtitle: ''
+  text: '**Manovra:** Avvista un Nazgûl per mostrare una carta a caso dalla mano del giocatore dei Popoli Liberi. Sforza X volte un compagno che porta un’arma da tiro, dove X è il costo crepuscolo della carta mostrata.'
+  lore: ‘Stanno cercando Baggins, e se le loro intenzioni sono buone, allora io sono un Hobbit.’
+es:
+  title: Nunca Dejarán de Perseguirte
+  subtitle: ''
+  text: '**Maniobra:** Avista un Nazgûl para revelar una carta al azar de la mano del jugador de Gentes Libres. Esfuerza un compañero que lleve un arma de distancia X veces, donde X es el coste de penumbra de la carta revelada.'
+  lore: Están buscando a Bolsón, y si son gente de bien, entonces yo soy un Hobbit.

@@ -1,0 +1,22 @@
+set: '12'
+rarity: R
+number: '35'
+unique: true
+culture: Gandalf
+type: Condition
+cost: 2
+en:
+  title: Watch and Wait
+  subtitle: ''
+  text: |-
+    To play, spot a :gandalf: companion.   
+    Bearer must be a companion (except the Ring-bearer). Limit 1 per bearer.   
+    Each time bearer wins a skirmish, you may remove a burden.
+  lore: ‘I could not take it from him without doing greater harm; and I had no right to do so anyway.’
+de:
+  title: Aufpassen und abwarten
+  subtitle: ''
+  text: |-
+    Entdecke einen :gandalf: Gefährten, um diesen Effekt auf einen Gefährten (außer den Ringträger) zu spielen. Maximal 1 pro Gefährte.  
+    Jedes Mal, wenn der Träger einen Kampf gewinnt, darfst du eine Lastmarke entfernen.
+  lore: ''

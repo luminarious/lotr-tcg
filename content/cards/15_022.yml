@@ -1,0 +1,15 @@
+set: '15'
+rarity: R
+number: '22'
+unique: true
+culture: Elven
+type: Artifact
+class: Support Area
+cost: 2
+en:
+  title: The Mirror of Galadriel
+  subtitle: Dangerous Guide
+  text: |-
+    To play, spot 3 Elves.  
+    Each time you are about to draw a card, you may exert an Elf to look at the top three cards of your draw deck instead. Take a Free Peoples card into your hand and place the other cards on the bottom of your draw deck.
+  lore: ''

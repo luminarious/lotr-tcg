@@ -1,0 +1,36 @@
+set: '1'
+rarity: U
+number: '280'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '3'
+site: 6
+en:
+  title: Tower Lieutenant
+  subtitle: ''
+  text: Each time this minion wins a skirmish, the Free Peoples player discards 2 cards at random from hand.
+  lore: Sauron shows favour to those in his dungeons with the ambition to squeeze the information he needs from those caught spying out his borders.
+de:
+  title: Leutnant des Turms
+  subtitle: ''
+  text: Jedesmal, wenn dieser Diener einen Kampf gewinnt, muss der Freie Völker Spieler 2 zufällig bestimmte Karten aus seiner Hand ablegen.
+  lore: Saurons Wohlwollen gilt denen in seinen Verliesen, die den Ehrgeiz haben, den an den Grenzen seines Reichs gefangenen Spionen Informationen zu entlocken.
+fr:
+  title: Lieutenant de la Tour
+  subtitle: ''
+  text: Chaque fois que ce séide remporte un combat, le joueur des Peuples Libres défausse 2 cartes au hasard de sa main.
+  lore: Sauron se montre favorable envers ceux dans ses fosses dont l'ambition est d'extorquer les informations dont il a besoin à ceux pris à explorer ses frontières.
+it:
+  title: Luogotenente
+  subtitle: Orco della Torre
+  text: Ogni volta che questo servitore vince una schermaglia, il giocatore dei Popoli Liberi scarta 2 carte a caso dalla mano.
+  lore: Sauron mostra benevolenza verso quelli con l'ambizione di estorcere, nei suoi sotterranei, le informazioni di cui ha bisogno da chi è stato sorpreso a spiare fuori dai suoi confini.
+es:
+  title: Teniente de La Torre
+  subtitle: ''
+  text: Cada vez que este siervo gana una escaramuza, el jugador de Gentes Libres descarta 2 cartas al azar de su mano.
+  lore: Sauron demuestra su favor hacia aquellos en sus mazmorras con la ambición de exprimir la información que él necesita de esos espías atrapados en sus fronteras.

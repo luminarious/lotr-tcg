@@ -1,0 +1,35 @@
+set: '6'
+rarity: R
+number: '28'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 15
+str: '10'
+vit: '5'
+en:
+  title: Ent Horde
+  subtitle: ''
+  text: To play, spot 2 Ent companions. Ent Horde’s twilight cost is –2 for each Ent or unbound Hobbit you can spot. While you can spot more minions than companions, Ent Horde is defender +1.
+  lore: ‘With doom we come, with doom we come!’
+de:
+  title: Heer der Ents
+  subtitle: ''
+  text: Entdecke 2 Entgefährten, um diese Karte zu spielen. Die Kosten dieses Gefährten reduzieren sich um 2 für jeden Ent und nicht-verbundenen Hobbit, den du entdecken kannst. Solange du mehr Diener als Gefährten entdecken kannst, ist das Heer der Ents Verteidiger +1.
+  lore: Mit Fluch und Bann marschieren wir!
+fr:
+  title: Horde Ent
+  subtitle: ''
+  text: Pour jouer, désignez 2 compagnons Ents. Le coût crépusculaire de la Horde Ent est de –2 pour chaque Ent et Hobbit dissocié que vous pouvez désigner. Tant que vous pouvez désigner plus de séides que de compagnons, Horde Ent est défenseur +1.
+  lore: 'Avec le destin nous arrivons ! Avec le destin nous arrivons !” '
+it:
+  title: Orda di Ent
+  subtitle: ''
+  text: Per giocarlo, avvista 2 compagni Ent. Sottrai –2 al costo crepuscolo di Orda di Ent per ogni Ent o Hobbit Non Legato che puoi avvistare. Mentre puoi avvistare più servitori che compagni, l’Orda di Ent è Difensore +1.
+  lore: ‘Sterminio e distruzione, scompiglio e perdizione!’
+es:
+  title: Horda de Ents
+  subtitle: ''
+  text: Para jugarla, avista 2 compañeros Ents. El coste de penumbra de la Horda de Ents es –2 por cada Ent o Hobbit no-vinculado que puedas avistar. Mientras puedas avistar más siervos que compañeros, la Horda de Ents es defensor +1.
+  lore: ¡Marchamos con el destino, con el destino marchamos!

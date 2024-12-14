@@ -1,0 +1,17 @@
+set: '7'
+rarity: R
+number: '127'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Vorondil
+  subtitle: ''
+  text: |-
+    While no opponent controls a site, Vorondil is strength +2.   
+    **Regroup:** Exert 3 :gondor: Men or 2 knights to liberate a site.
+  lore: ''

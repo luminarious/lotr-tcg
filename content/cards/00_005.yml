@@ -1,0 +1,18 @@
+set: '0'
+rarity: D
+number: '5'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Théodred
+  subtitle: Second Marshal of the Mark
+  text: |-
+    While you can spot a :rohan: Man who has resistance of 7 or more, Théodred is twilight cost –1.  
+    At the start of each skirmish involving Théodred, you may exert each minion he is skirmishing.
+  lore: DGMA Online Premiere Series

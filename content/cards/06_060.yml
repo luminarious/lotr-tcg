@@ -1,0 +1,36 @@
+set: '6'
+rarity: R
+number: '60'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 6
+str: '12'
+vit: '3'
+site: 5
+en:
+  title: Berserk Butcher
+  subtitle: ''
+  text: '**Damage +1.** Berserk Butcher is strength +1 for each wound on each character in its skirmish. **Maneuver:** Remove an :isengard: token from a machine and exert Berserk Butcher twice to prevent all wounds to Uruk-hai until the assignment phase.'
+  lore: ''
+de:
+  title: Schlachtberserker
+  subtitle: ''
+  text: '**Schaden +1.** Der Schlachtberserker erhält Stärke +1 für jede Wunde auf jedem Charakter, der an seinem Kampf beteiligt ist. **Manöver:** Entferne eine :isengard: Marke von einer Kriegsmaschine und strenge diesen Diener zweimal an, um alle Wunden, die Uruk-hai bis zur Zu weisungsphase zugefügt werden zu verhindern.'
+  lore: ''
+fr:
+  title: Boucher Fou Furieux
+  subtitle: ''
+  text: '**Dégâts +1.**. Le Boucher Fou Furieux a +1 en force pour chaque blessure sur les personnages qu’il combat. Manoeuvre : Retirez un jeton :isengard: d’une machine et affaiblissez ce séide deux fois pour prévenir toutes les blessures sur des Ourouk-Haï jusqu’à la fin de'
+  lore: ''
+it:
+  title: Berserker Macellaio
+  subtitle: ''
+  text: '**Danno +1.** Aggiungi +1 alla forza di Berserker Macellaio per ogni ferita su ogni personaggio nella sua schermaglia. **Manovra:** Rimuovi un segnalino :isengard: da una macchina da guerra e sforza due volte Berserker Macellaio per prevenire tutte le ferite agli Uruk-h'
+  lore: ''
+es:
+  title: Carnicero Berserk
+  subtitle: ''
+  text: '**Daño +1.** El Carnicero Berserk es fuerza +1 por cada herida en cada personaje en su escaramuza. **Maniobra:** Quita un contador :isengard: de una máquina y esfuerza al Carnicero Berserk dos veces para prevenir todas las heridas a los Uruk-hai hasta la fase de asignaci'
+  lore: ''

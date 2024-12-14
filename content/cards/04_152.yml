@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '152'
+unique: true
+culture: Isengard
+type: Event
+class: Assignment
+cost: 0
+en:
+  title: Get Back
+  subtitle: ''
+  text: '**Assignment:** Prevent an :isengard: tracker from being assigned to a skirmish by any player. '
+  lore: ‘We do not answer to Mordor scum!’
+de:
+  title: Zurück!
+  subtitle: ''
+  text: '**Zuweisung:** Verhindere, dass ein :isengard: Spurenleser von irgendeinem Spieler einem Kampf zugewiesen wird.'
+  lore: Wir antworten Abschaum aus Mordor nicht!
+fr:
+  title: Partez
+  subtitle: ''
+  text: '**Affectation :** Empêchez un traqueur :isengard: d’être affecté au combat par quelque joueur que ce soit.'
+  lore: 'Nous ne répondons pas à la pourriture du Mordor!” '
+it:
+  title: Tornare Indietro
+  subtitle: ''
+  text: '**Assegnazione:** Previeni che un inseguitore :isengard: sia assegnato a una schermaglia da tutti i giocatori.'
+  lore: ‘Noi non rispondiamo alla feccia di Mordor!’
+es:
+  title: Dad La Vuelta
+  subtitle: ''
+  text: '**Asignación:** Prevén que un rastreador :isengard: sea asignado a una escaramuza por cualquier jugador.'
+  lore: ¡Nosotros no respondemos a la escoria de Mordor!

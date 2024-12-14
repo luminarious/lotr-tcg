@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '16'
+unique: true
+culture: Isengard
+type: Minion
+race: Man
+cost: 2
+str: '4'
+vit: '3'
+site: 3
+en:
+  title: Gríma
+  subtitle: Servant of Another Master
+  text: |-
+    When you play Gríma, you may remove :twilight4: to exert an unbound companion. That companion cannot use special abilities until the regroup phase.  
+    **Assignment**: Exert Gríma to assign him to an unbound companion. That companion may exert to prevent this.
+  lore: ''

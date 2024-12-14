@@ -1,0 +1,18 @@
+set: '8'
+rarity: U
+number: '82'
+unique: true
+culture: Wraith
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Unhindered
+  subtitle: ''
+  text: Make a Nazgûl strength +2. If that Nazgûl wins this skirmish, the Shadow has initiative until the end of the turn, regardless of the Free Peoples player’s hand.
+  lore: ''
+de:
+  title: Unaufhaltsam
+  subtitle: ''
+  text: Gib einem Nazgûl Stärke +2. Wenn dieser Nazgûl diesen Kampf gewinnt, besitzt die Schattenseite bis zum Ende des Zuges die Initiative, unabhängig von der Handkartenzahl des Freien Völker Spielers.
+  lore: Kein lebender Mann kann mich hindern!

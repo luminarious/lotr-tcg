@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '3'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Battle Tested
+  subtitle: ''
+  text: 'Make a Dwarf strength +2 (+4 if you spot a card stacked on a :dwarven: condition).'
+  lore: ‘We're going to follow you, lad – even on the dark Road….’
+de:
+  title: Kampferprobt
+  subtitle: ''
+  text: 'Gib einem Zwerg Stärke +2 (oder Stärke +4, wenn du eine Karte entdeckst, die auf einem :dwarven: Effekt lagert).'
+  lore: Wir werden dir folgen, Bursche - selbst diesen dunklen Pfad….

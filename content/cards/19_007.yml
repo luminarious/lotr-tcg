@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '7'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '7'
+en:
+  title: Legolas
+  subtitle: Skeptical Guide
+  text: |-
+    **Archer. Fellowship.**  
+    **Archery**: Add two threats to wound a minion; Legolas does not add to the fellowship archery total.
+  lore: Have you heard nothing Lord Elrond has said? The Ring must be destroyed!

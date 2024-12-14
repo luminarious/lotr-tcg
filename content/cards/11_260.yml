@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '260'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Trollshaw Forest
+  subtitle: ''
+  text: '**Forest.** Each time you play an artifact or possession on your companion, you may draw a card. '
+  lore: ''
+de:
+  title: Trollhöhenwälder
+  subtitle: ''
+  text: '**Wald.** Jedes Mal, wenn du ein Artefakt oder eine Aus-rüstung auf einen deiner Gefährten spielst, ziehe eine Karte.'
+  lore: ''

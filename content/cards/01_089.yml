@@ -1,0 +1,18 @@
+set: '1'
+rarity: R
+number: '89'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 4
+str: '8'
+vit: '4'
+signet: Signet_Gandalf
+en:
+  title: Aragorn
+  subtitle: Ranger of the North
+  text: |-
+    **Ranger.**   
+    **Maneuver:** Exert Aragorn to make him **defender +1** until the regroup phase.
+  lore: ‘Lonely men are we, Rangers of the wild, hunters – but hunters ever of the servants of the Enemy….’

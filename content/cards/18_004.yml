@@ -1,0 +1,16 @@
+set: '18'
+rarity: R
+number: '4'
+unique: true
+culture: Elven
+type: Possession
+class: Ranged Weapon
+cost: 2
+str: '+1'
+en:
+  title: Arwen's Bow
+  subtitle: ''
+  text: |-
+    Bearer must be an :elven: companion.  
+    **Archery:** If bearer is Arwen, discard 2 :elven: cards from hand to wound a minion.
+  lore: Arwen had skill with a bow matched only by her beauty.

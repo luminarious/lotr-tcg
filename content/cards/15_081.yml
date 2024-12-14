@@ -1,0 +1,16 @@
+set: '15'
+rarity: U
+number: '81'
+unique: true
+culture: Man
+type: Condition
+cost: 1
+str: '-1'
+en:
+  title: Grieving the Fallen
+  subtitle: ''
+  text: |-
+    To play, spot a :men: Man.  
+    Bearer must be a companion (except the Ring-bearer).  
+    Bearer cannot take wounds during the archery phase. At the start of the regroup phase, discard this condition.
+  lore: Mordor will pay for this!

@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '118'
+unique: true
+culture: Gondor
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Valiant Man of the West
+  subtitle: ''
+  text: '**Maneuver:** Make Aragorn **defender +1** and he takes no more than 1 wound during each skirmish phase until the regroup phase.'
+  lore: ‘…I swore to protect you.’
+de:
+  title: Tapferer Mann des Westens
+  subtitle: ''
+  text: '**Manöver:** Gib Aragorn **Verteidiger +1** und er erhält maximal 1 Wunde in jedem Kampf bis zur Sammelphase'
+  lore: Ich habe geschworen, dich zu beschützen…
+fr:
+  title: Homme Vaillant de l'Ouest
+  subtitle: ''
+  text: '**Manœuvre :** Rendez Aragorn **défenseur +1**; il ne prend pas plus d’une blessure pendant chaque phase de combat jusqu’à la phase de ralliement.'
+  lore: ‘…je jure de vous protéger.’
+it:
+  title: Intrepido Uomo dell'Ovest
+  subtitle: ''
+  text: '**Manovra:** Rendi Aragorn **Difensore +1** e subisce non più di 1 ferita durante ogni fase di schermaglia fino alla fase di raccolta.'
+  lore: ‘…Ho giurato di proteggerti.’
+es:
+  title: Hombre Valiente del Oeste
+  subtitle: ''
+  text: '**Maniobra:** Da a Aragorn **defensor +1** y el no recibe más de 1 herida durante cada fase de escaramuza hasta la fase de reagrupación.'
+  lore: …hago el juramento de protegerte.

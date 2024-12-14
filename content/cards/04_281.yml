@@ -1,0 +1,19 @@
+set: '4'
+rarity: C
+number: '281'
+unique: true
+culture: Rohan
+type: Ally
+race: Man
+cost: 1
+str: '4'
+vit: '2'
+site: 4T
+en:
+  title: Hlafwine
+  subtitle: Village Farmhand
+  text: |-
+    **Villager.**   
+    Discard Hlafwine if an opponent controls his home site.   
+    **Skirmish:** Exert Hlafwine to make a :rohan: Man strength +2.
+  lore: Too old to fight, Hlafwine prepared meals for the defenders.

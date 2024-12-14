@@ -1,0 +1,45 @@
+set: '4'
+rarity: C
+number: '189'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '7'
+vit: '1'
+site: 5
+en:
+  title: Uruk Plains Runner
+  subtitle: ''
+  text: |-
+    **Tracker.** **Fierce.**  
+    During a fierce skirmish involving this minion, it is strength +3 and **damage +1.**
+  lore: ‘Run! Or you'll never see your beloved holes again!’
+de:
+  title: Uruk Steppenläufer
+  subtitle: ''
+  text: |-
+    **Spurenleser.** **Erbittert.**  
+    Dieser Diener erhält während eines **Erbittert**en Kampfes Stärke +3 und **Schaden +1.**
+  lore: Rennt, oder ihr seht eure geliebten Höhlen nie wieder.
+fr:
+  title: Coureur des Plaines Ourouk
+  subtitle: ''
+  text: |-
+    **Traqueur.** **Acharné.**  
+    Pendant un combat **acharné** qui l’implique, ce séide a +3 en force et inflige des **dégâts +1.**
+  lore: 'Courez! ou vous ne reverrez jamais vos chers trous.” '
+it:
+  title: Corridore delle Pianure
+  subtitle: ''
+  text: |-
+    **Inseguitore.**  
+    **Feroce.**  
+    Durante una schermaglia **Feroce** che coinvolga questo servitore, aggiungi +3 alla sua forza e **Danno +1.**
+  lore: ‘Correrete! O altrimenti non vedrete mai più le vostre adorate caverne!’
+es:
+  title: Corredor De Llanura Uruk
+  subtitle: ''
+  text: '**Rastreador.** **Fiero.** Durante una escaramuza fiera en la que esté participando, él es fuerza +3 y **daño +1.**'
+  lore: ¡Corred, maldición! O nunca volveréis a ver vuestras queridas madrigueras.

@@ -1,0 +1,22 @@
+set: '12'
+rarity: U
+number: '138'
+unique: true
+culture: Uruk-hai
+type: Event
+class: Maneuver
+cost: 3
+en:
+  title: Broken Heirloom
+  subtitle: ''
+  text: |-
+    **Toil 2.** *(For each* :urukhai: *character you exert when playing this, its twilight cost is –2.)*   
+    Spot an :urukhai: minion to discard a possession borne by a companion who has resistance 4 or less.
+  lore: ‘…he blew the horn. But no help came. Only more orcs.’
+de:
+  title: Zerbrochenes Erbstück
+  subtitle: ''
+  text: |-
+    **Mühe 2.** *(Für jeden *:urukhai: *Charakter, den du beim Ausspielen dieser Karte anstrengst, reduzieren sich deren Kosten um 2.)*  
+    Entdecke einen :urukhai: Diener, um eine Ausrüstung von einem Gefährten mit Resistenz 4 oder weniger abzulegen.
+  lore: … als er das Horn blies. Aber keine Hilfe kam. Nur noch mehr Orks.

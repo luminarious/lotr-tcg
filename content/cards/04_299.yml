@@ -1,0 +1,38 @@
+set: '4'
+rarity: R
+number: '299'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Cliffs of Emyn Muil
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    When the fellowship moves from site 1:tower:, remove up to 2 burdens.  
+    **Skirmish:** Discard this condition to wound a minion a Hobbit companion is skirmishing. 
+  lore: ‘We've escaped from the Emyn Muil!’
+de:
+  title: Die Klippen des Emyn Muil
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Wenn sich die Gemeinschaft von Ort 1:tower: fortbewegt, entferne bis zu 2 Lastmarken. **Kampf** Lege diesen Effekt ab, um einen Diener zu verwunden, der gegen einen Hobbitgefährten kämpft.'
+  lore: Wir sind dem Emyn Muil entkommen.
+fr:
+  title: Les Falaises d'Emyn Muil
+  subtitle: ''
+  text: Lorsque la compagnie quitte le site 1:tower:, retirez jusqu’à 2 points-fardeau. **Combat :** Défaussez cette situation pour blesser un séide combattant un compagnon Hobbit.
+  lore: 'Nous nous sommes échappés de l''Emyn Muil.” '
+it:
+  title: Dirupi dell'Emyn Muil
+  subtitle: ''
+  text: |-
+    Quando la compagnia si muove dal sito 1:tower:, rimuovi fino a 2 segnalini fardello.   
+    **Schermaglia:** Scarta questa condizione per ferire un servitore che stia schermagliando con un compagno Hobbit.
+  lore: ‘Siamo fuggiti dall'Emyn Muil!’
+es:
+  title: Riscos De Emyn Muil
+  subtitle: ''
+  text: Cuando la comunidad se mueve del sitio 1:tower:, quita hasta 2 cargas. **Escaramuza:** Descarta esta condición para herir un siervo que esté en una escaramuza contra un compañero Hobbit.
+  lore: ¡Hemos escapado de Emyn Muil!

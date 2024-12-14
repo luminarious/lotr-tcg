@@ -1,0 +1,25 @@
+set: '7'
+rarity: R
+number: '210'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '12'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Attëa
+  subtitle: Wraith on Wings
+  text: |-
+    **Fierce.**   
+    **Shadow:** If you have initiative, exert Úlairë Attëa and spot another :wraith: minion to add a burden.
+  lore: ''
+de:
+  title: •Úlairë Attëa
+  subtitle: Geflügeltes Gespenst
+  text: |-
+    **Erbittert.**   
+    **Schatten:** Wenn du die Initiative besitzt, strenge Úlairë Attëa an und entdecke einen anderen :wraith: Diener, um eine Lastmarke auf den Ringträger zu legen.
+  lore: …schwach, doch herzerschütternd, grausam und kalt.

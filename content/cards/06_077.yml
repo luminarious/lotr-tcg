@@ -1,0 +1,33 @@
+set: '6'
+rarity: R
+number: '77'
+unique: true
+culture: Moria
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Durin’s Tower
+  subtitle: ''
+  text: 'At sites 2:tower: and 3:tower:, The Balrog’s twilight cost is –3. **Skirmish:** Discard this condition to make a unique :moria: minion strength +3.'
+  lore: ‘…carved in the living rock of Zirakzigil, the pinnacle of the Silvertine.’
+de:
+  title: Durins Turm
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. An Ort 2:tower: und 3:tower: reduzieren sich die Zwielichtkosten des Balrog um 3. **Kampf** Lege diesen Effekt ab, um einem einzigartigen :moria: Diener Stärke +3 zu geben.'
+  lore: … der in den lebenden Fels von Zirakzigil hineingemeißelt ist, der Spitze der Silberzinne.
+fr:
+  title: La Tour de Durin
+  subtitle: ''
+  text: 'Aux sites 2:tower: et 3:tower:, le coût crépusculaire du Balrog est de –3. **Combat :** Défaussez cette situation pour donner +3 en force à un séide :moria: unique.'
+  lore: '… taillée dans le roc vivant de Zirakzigil, couronnement de la Corne d''Argent.” '
+it:
+  title: Torre di Durin
+  subtitle: ''
+  text: 'Ai siti 2:tower: e 3:tower:, sottrai –3 al costo crepuscolo de Il Balrog. **Schermaglia:** Scarta questa condizione per aggiungere +3 alla forza di un servitore :moria: unico.'
+  lore: ‘…scavata nella viva roccia di Zirakzigil, la punta estrema di Denteargento.’
+es:
+  title: Torre de Durin
+  subtitle: ''
+  text: 'En los sitios 2:tower: y 3:tower:, el coste de penumbra de El Balrog es –3. **Escaramuza:** Descarta esta condición para dar a un siervo :moria: único fuerza +3.'
+  lore: …labrada en la roca viva de Zirakzigil, el pico del Cuerno de Plata.

@@ -1,0 +1,21 @@
+set: '12'
+rarity: U
+number: '94'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Orc Sapper
+  subtitle: ''
+  text: When you play this minion, you may spot a companion who has resistance 4 or less to prevent that companion from being assigned to this minion until the regroup phase.
+  lore: …their purpose was only to test the strength of the defence and to keep the men of Gondor busy in many places.
+de:
+  title: Orkpionier
+  subtitle: ''
+  text: Du darfst einen Gefährten mit Resistenz 4 oder weniger entdecken, wenn du diesen Diener spielst, um zu verhindern, dass ihm dieser Gefährte bis zur Sammelphase zugewiesen wird.
+  lore: … ihr Zweck war nur, die Stärke der Verteidigung aufdie Probe zu stellen und die Männer von Gondor anvielen Stellen in Kämpfe zu verwickeln.

@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '36'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '11'
+vit: '4'
+site: 3
+en:
+  title: Úlairë Enquëa
+  subtitle: Dark Threat
+  text: |-
+    **Fierce.**  
+    **Maneuver**: Spot 6 companions and discard a Nazgûl from hand to wound an unbound companion.
+  lore: The Nine Riders were embodiments of Sauron’s will, searching all of Middle-earth for his prize.

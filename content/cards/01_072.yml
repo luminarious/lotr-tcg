@@ -1,0 +1,16 @@
+set: '1'
+rarity: R
+number: '72'
+unique: true
+culture: Gandalf
+type: Companion
+race: Wizard
+cost: 4
+str: '6'
+vit: '4'
+signet: Signet_Frodo
+en:
+  title: Gandalf
+  subtitle: Friend of the Shirefolk
+  text: 'Gandalf is strength +1 for each of these races you can spot in the fellowship: Hobbit, Dwarf, Elf, and Man.'
+  lore: '‘Among the Wise I am the only one that goes in for hobbit-lore: an obscure branch of knowledge, but full of surprises.’'

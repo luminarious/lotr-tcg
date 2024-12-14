@@ -1,0 +1,35 @@
+set: '3'
+rarity: U
+number: '106'
+unique: true
+culture: Shire
+type: Possession
+cost: 0
+en:
+  title: Bill the Pony
+  subtitle: ''
+  text: |-
+    Bearer must be a Hobbit companion.   
+    The Shadow number of each site is -1.   
+    Discard Bill the Pony when at an underground site. 
+  lore: ‘That animal can nearly talk…. He gave me a look as plain as Mr. Pippin could speak….’
+de:
+  title: Lutz, das Pony
+  subtitle: ''
+  text: Muss auf einen Hobbitgefährten gespielt werden. Die Schattenzahl jedes Ortes reduziert sich um 1. Lege Lutz, das Pony an einem unterirdischen Ort ab.
+  lore: Das Tier kann fast sprechen… Es warf mir einen Blick zu, der ebenso deutlich das besagte, was Herr Pippin ausgesprochen hat…
+fr:
+  title: Bill le Poney
+  subtitle: ''
+  text: Le détenteur doit être un compagnon Hobbit. La puissance de l’Ombre à chaque site est de -1. Défaussez Bill le Poney s’il se trouve à un site souterrain pendant la phase de compagnie ou de ralliement.
+  lore: 'Cette bête peut presque parler… Elle m''a dit par le regard aussi clairement que M. Pippin aurait pu l''exprimer en paroles…” '
+it:
+  title: Bill il Pony
+  subtitle: ''
+  text: Il possessore deve essere un compagno Hobbit. Il numero Ombra di ogni sito diminuisce di -1. Scarta Bill il Pony quando sei in un sito **Sotterraneo.**
+  lore: ‘Quell'animale sa quasi parlare… mi ha lanciato uno sguardo esplicito quanto le parole del signor Pipino…’
+es:
+  title: Bill el Pony
+  subtitle: ''
+  text: El portador debe ser un compañero Hobbit. El número de Sombra de cada sitio es -1. Descarta a Bill el Pony cuando esté en un sitio **Subterráneo.**
+  lore: Ese animal casi habla… me echó una mirada tan elocuente como las palabras del Señor Pippin…

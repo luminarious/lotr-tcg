@@ -1,0 +1,36 @@
+set: '3'
+rarity: C
+number: '59'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 1
+str: '5'
+vit: '2'
+site: 4
+en:
+  title: Isengard Shaman
+  subtitle: ''
+  text: '**Response:** If an :isengard: Orc is about to take a wound, remove :twilight2: to prevent that wound. '
+  lore: ‘Over all his works a dark smoke hung and wrapped itself about the sides of Orthanc.’
+de:
+  title: Isengart Schamane
+  subtitle: ''
+  text: '**Reaktion:** Wenn ein :isengard: Ork verwundet wird, verringere den Einfluss um :twilight2:, um diese Wunde zu verhindern.'
+  lore: Über seinen ganzen Werkstätten lagerte ein dichter Rauch und hüllte sogar die Flanken des Orthanc ein.
+fr:
+  title: Chaman de l'Isengard
+  subtitle: ''
+  text: '**Réponse :** Si un Orque :isengard: est sur le point d’être blessé, retirez :twilight2: pour prévenir la blessure.'
+  lore: 'Sur tous ses ouvrages était suspendue une fumée sombre qui enveloppait les flancs de l''Orthanc.” '
+it:
+  title: Sciamano di Isengard
+  subtitle: ''
+  text: '**Risposta:** Se un Orco :isengard: sta per subire una ferita, rimuovi :twilight2: per prevenire quella ferita.'
+  lore: ‘Un fumo scuro stagnava in basso e si avvolgeva intorno ai fianchi di Orthanc.’
+es:
+  title: Chamán de Isengard
+  subtitle: ''
+  text: '**Respuesta:** Si un Orco :isengard: va a recibir una herida, quita :twilight2: para prevenir esa herida.'
+  lore: Sobre todas aquellas fraguas flotaba un humo oscuro que se apretaba contra los flancos de Orthanc.

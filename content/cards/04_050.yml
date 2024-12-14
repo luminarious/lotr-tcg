@@ -1,0 +1,41 @@
+set: '4'
+rarity: C
+number: '50'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Here Is Good Rock
+  subtitle: ''
+  text: |-
+    **Tale.** Plays to your support area.  
+    **Skirmish:** Stack a Free Peoples card from hand here to make a Dwarf **damage +1.** 
+  lore: ‘Give me a year and a hundred of my kin and I would make this a place that armies would break upon like water.’
+de:
+  title: Das ist guter Felsen hier
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    **Kampf** Lagere eine Karte der Freien Völker aus deiner Hand hier, um einem Zwerg **Schaden +1** zu geben.
+  lore: Gib mir ein Jahr Zeit und hundert Mann von meiner Sippe, und ich würde daraus eine Festung machen, an der sich Heere wie Wellen brechen würden.
+fr:
+  title: Ceci est du Bon Roc
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    **Combat :** Empilez ici une carte des Peuples Libres de votre main pour donner des **dégâts +1** à un Nain.
+  lore: 'Qu''on me donne un an et une centaine des miens, et je ferais de ceci un endroit sur lequel les armées se briseraient comme de l''eau.” '
+it:
+  title: Ecco della Buona Roccia
+  subtitle: ''
+  text: |-
+    **Racconto.**   
+    **Schermaglia:** Impila qui una carta dei Popoli Liberi dalla mano per aggiungere a un Nano **Danno +1.**
+  lore: ‘In cento e un anno della mia razza farei di questo posto una rocca contro la quale gli eserciti si infrangerebbero come flutti.’
+es:
+  title: Aquí Hay Buena Roca
+  subtitle: ''
+  text: '**Cuento.** **Escaramuza:** Apila una carta de Gentes Libres de tu mano aquí para darle a un Enano **daño +1.**'
+  lore: Dadme un año y un centenar de los de mi raza y haré de este lugar un baluarte donde los ejércitos se estrellarán como un oleaje.

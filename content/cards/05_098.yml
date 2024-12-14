@@ -1,0 +1,36 @@
+set: '5'
+rarity: C
+number: '98'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 1
+str: '5'
+vit: '2'
+site: 6
+en:
+  title: Gate Trooper
+  subtitle: ''
+  text: When you play this minion, you may exert him and spot 5 burdens to draw a card.
+  lore: Another dreadful day of fear and toil had come to Mordor; and the night-guards were summoned….
+de:
+  title: Torbesatzung
+  subtitle: ''
+  text: Wenn du diesen Diener spielst, darfst du ihn anstrengen und 5 Lastmarken entdecken, um eine Karte zu ziehen.
+  lore: Ein neuer schrecklicher Tag der Angst und des Kampfes war für Mordor angebrochen; die Nachtwachen wurden in ihre Verliese… geschickt.
+fr:
+  title: Fantassin de la Porte
+  subtitle: ''
+  text: Quand vous jouez ce séide, vous pouvez l’affaiblir et désigner 5 points-fardeau pour piocher une carte.
+  lore: 'Un nouveau jour redoutable de peur et de peine était venu pour le Mordor; les gardes de nuit étaient appelés… '
+it:
+  title: Miliziano del Cancello
+  subtitle: ''
+  text: Quando giochi questo servitore, puoi sforzarlo e avvistare 5 segnalini fardello per pescare una carta.
+  lore: Un altro spaventoso giorno di paura e di fatica incominciava a Mordor; le sentinelle notturne furono richiamate…
+es:
+  title: Tropa de la puerta
+  subtitle: ''
+  text: Cuando juegas este siervo, puedes esforzarlo y avistar 5 cargas para robar una carta.
+  lore: Un nuevo y tenebroso día de temor y penurias había amanecido para Mordor; los centinelas nocturnos eran llevados de vuelta…

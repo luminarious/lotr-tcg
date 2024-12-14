@@ -1,0 +1,31 @@
+set: '3'
+rarity: R
+number: '110'
+unique: true
+culture: Shire
+type: Ally
+race: Hobbit
+cost: 1
+str: '2'
+vit: '2'
+site: '1'
+en:
+  title: Melilot Brandybuck
+  subtitle: Merry Dancer
+  text: '**Response:** If a burden is about to be added by a Shadow card, exert Melilot Brandybuck to prevent that burden. '
+  lore: 'Master Everard Took and Miss Melilot Brandybuck got on a table and with bells in their hands began to dance the Springle-ring: a pretty dance, but rather vigorous.'
+de:
+  title: Melilot Brandibock
+  subtitle: Fröhliche Tänzerin
+  text: '**Reaktion:** Wenn eine Lastmarke durch eine Schattenkarte auf den Ringträger gelegt wird, strenge Melilot Brandibock an, um dies zu verhindern.'
+  lore: 'Der junge Herr Everard Tuk und Fräulein Melilot Brandibock stiegen auf einen Tisch, und mit Schellen in den Händen begannen sie den Springerreihen zu tanzen: einen hübschen, wenn auch ziemlich lebhaften Tanz.'
+fr:
+  title: Melilot Brandebouc
+  subtitle: Danseuse Enjouée
+  text: '**Réponse :** Si un point-fardeau est sur le point d’être ajouté par une carte de l’Ombre, affaiblissez Melilot Brandebouc pour empêcher ceci.'
+  lore: 'Le jeune M. Everard Touque et Mlle Melilot Brandebouc grimpèrent sur une table et, clochettes à la main, se mirent à danser la saltarelle: une jolie danse, mais assez vigoureuse. '
+es:
+  title: Melilot Brandigamo
+  subtitle: Bailarina Alegre
+  text: '**Respuesta:** Si se va a añadir una carga por una carta de Sombra, esfuerza a Melilot Brandigamo para prevenir esa carga.'
+  lore: El señor Everardo Tuk y la señorita Melilot Brandigamo se subieron a una mesa, y llevando unas campanitas en las manos empezaron a bailar el “Repique de campanas”, bonita danza aunque algo vigorosa.

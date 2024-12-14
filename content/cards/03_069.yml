@@ -1,0 +1,23 @@
+set: '3'
+rarity: C
+number: '69'
+unique: true
+culture: Isengard
+type: Minion
+race: Wizard
+cost: 4
+str: '8'
+vit: '4'
+site: 4
+en:
+  title: Saruman
+  subtitle: Servant of the Eye
+  text: |-
+    Saruman may not take wounds during the archery phase and may not be assigned to a skirmish.   
+    **Assignment:** Exert Saruman to assign an :isengard: minion to a companion (except the Ring-bearer). That companion may exert to prevent this. 
+  lore: ''
+fr:
+  title: Saroumane
+  subtitle: Serviteur de l'œil
+  text: 'Saroumane ne peut pas prendre de blessure pendant la phase d’archerie et ne peut pas être affecté à un combat. **Affectation :** Affaiblissez Saroumane pour affecter un séide :isengard: à un compagnon (excepté le Porteur de l’Anneau). Ce compagnon peut s’affaiblir pour empêrche l''affectation.'
+  lore: ''

@@ -1,0 +1,21 @@
+set: '2'
+rarity: C
+number: '110'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+signet: Signet_Aragorn
+en:
+  title: Pippin
+  subtitle: Mr. Took
+  text: '**Fellowship:** Play Gandalf or Aragorn; his twilight cost is -2. '
+  lore: Pippin was evidently much enjoying the attention he was getting, and had become quite forgetful of their danger.
+it:
+  title: Pipino
+  subtitle: Signor Tuc
+  text: '**Compagnia:** Gioca Gandalf o Aragorn; sottrai -2 al suo costo **Crepuscolo.**'
+  lore: Pipino era evidentemente molto lusingato dall'attenzione che riusciva a concentrare e pareva del tutto dimentico del pericolo che li minacciava.

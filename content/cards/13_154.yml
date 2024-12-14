@@ -1,0 +1,23 @@
+set: '13'
+rarity: U
+number: '154'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: New Chapter
+  subtitle: ''
+  text: |-
+    To play, spot 2 Hobbits.  
+    Each time you play a follower, you may heal a companion (or heal Sam twice).
+  lore: And so it was settled. Sam Gamgee married Rosie Cotton in the spring of 1420….
+de:
+  title: Ein neues Kapitel
+  subtitle: ''
+  text: |-
+    Entdecke 2 Hobbits, um diesen Effekt zu spielen.  
+    Heile jedes Mal, wenn du einen Gefolgsmann spielst, einen Gefährten (oder heile Sam zweimal).  
+    Damit war auch das geregelt. 
+  lore: Sam Gamdschie heiratete Rosie Hüttinger im Frühling des Jahres 1420….

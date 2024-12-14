@@ -1,0 +1,22 @@
+set: '10'
+rarity: C
+number: '52'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Under Foot
+  subtitle: ''
+  text: |-
+    **Shadow:** If you have initiative, spot a :raider: Man and discard this condition to reconcile your hand.   
+    **Skirmish:** Discard this condition to make a :raider: Man strength +2. 
+  lore: ‘I make the earth shake, / As I tramp through the grass; / Trees crack as I pass.’
+de:
+  title: Niedergetrampelt
+  subtitle: ''
+  text: |-
+    **Schatten:** Entdecke einen :raider: Menschen und lege diesen Effekt ab, wenn du die Initiative besitzt, um deine Handkarten wieder aufzufüllen.   
+    **Kampf:** Lege diesen Effekt ab, um einem :raider: Menschen Stärke +2 zu geben.
+  lore: Erde bebt bange, / zieh ich durch’s Gras, / Baum bricht wie Glas.

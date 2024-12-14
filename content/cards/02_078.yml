@@ -1,0 +1,33 @@
+set: '2'
+rarity: U
+number: '78'
+unique: true
+culture: Wraith
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: It Wants to be Found
+  subtitle: ''
+  text: '**Maneuver:** Spot a twilight Nazgûl to add a burden. '
+  lore: …perhaps it had tried to reveal itself in response to some wish or command that was felt in the room.
+de:
+  title: Er will gefunden werden
+  subtitle: ''
+  text: '**Manöver:** Entdecke einen Zwielicht Nazgûl, um eine Lastmarke auf den Ringträger zu legen.'
+  lore: …vielleicht hat er versucht, sich bemerkbar zu machen, um einem Wunsch oder Befehl zu entsprechen, den er im Raum spürte.
+fr:
+  title: Il Veut Être Trouvé
+  subtitle: ''
+  text: '**Manœuvre :** Désignez un Nazgûl crépusculaire pour ajouter un point-fardeau.'
+  lore: '… peut-être avait-il essayé de se révéler en réponse à quelque désir ou ordre senti dans la salle. '
+it:
+  title: Vuole Essere Trovato
+  subtitle: ''
+  text: '**Manovra:** Avvista un Nazgûl nel Crepuscolo per aggiungere un segnalino fardello.'
+  lore: …forse aveva cercato di rivelarsi in risposta a qualche ordine o desiderio che percepiva nella stanza.
+es:
+  title: Quiere ser encontrado
+  subtitle: ''
+  text: '**Maniobra:** Avista un Nazgûl de penumbra para añadir una carga.'
+  lore: …tal vez intentó revelarse a sí mismo en respuesta a algún deseo u orden que se percibió en la sala.

@@ -1,0 +1,18 @@
+set: '8'
+rarity: C
+number: '10'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Legolas
+  subtitle: Elven Stalwart
+  text: |-
+    **Archer.**   
+    While you can spot 3 wounded minions, each minion skirmishing Legolas is strength –3.
+  lore: …Legolas of the Elves, for whom the ghosts of Men have no terror.

@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '8'
+unique: true
+culture: Gandalf
+type: Companion
+race: Wizard
+cost: 4
+str: '8'
+vit: '4'
+res: '7'
+en:
+  title: Gandalf
+  subtitle: Wise Guide
+  text: |-
+    **Fellowship.**  
+    **Response**: If an event is played, exert Gandalf twice to cancel that event.
+  lore: The Ring yearns above all else to return to the hand of its master. They are one, the Ring and the Dark Lord. Frodo, he must never find it.

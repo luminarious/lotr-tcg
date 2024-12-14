@@ -1,0 +1,23 @@
+set: '7'
+rarity: R
+number: '114'
+unique: true
+culture: Gondor
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Pippin's Sword
+  subtitle: ''
+  text: |-
+    Bearer must be Pippin.   
+    **Skirmish:** Exert Pippin twice to make him strength +1 for each :gondor: companion you spot.
+  lore: ''
+de:
+  title: Pippins Schwert
+  subtitle: ''
+  text: |-
+    Muss auf Pippin gespielt werden.   
+    **Kampf:** Strenge Pippin zweimal an, um ihm für jeden :gondor: Gefährten, den du entdeckst, Stärke +1 zu geben.
+  lore: Der alte Mann legte das Schwert auf seinen Schoß, und Pippin berührte das Heft mit der Hand…

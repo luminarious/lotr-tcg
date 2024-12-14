@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '130'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Dark Tidings
+  subtitle: ''
+  text: '**Regroup:** Spot 2 :raider: Men and remove :twilight3: to add a threat (limit 1).'
+  lore: ‘…yet not all unguessed.’
+de:
+  title: Dunkle Zeiten
+  subtitle: ''
+  text: '**Sammeln:** Entdecke 2 :raider: Menschen und verringere den Einfluss um :twilight3:, um eine Bedrohung entstehen zu lassen (maximal 1).'
+  lore: …doch nicht völlig unvermutet.

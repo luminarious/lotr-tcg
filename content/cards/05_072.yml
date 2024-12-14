@@ -1,0 +1,46 @@
+set: '5'
+rarity: R
+number: '72'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '11'
+vit: '2'
+site: 4
+en:
+  title: Desert Stalker
+  subtitle: ''
+  text: |-
+    **Southron.** **Ambush** :twilight2:.   
+    **Maneuver:** Exert this minion and spot 4 Free Peoples cultures to exert every companion.
+  lore: They strike only when their prey is haggard and tired.
+de:
+  title: Wüstenpirscher
+  subtitle: ''
+  text: |-
+    **Südländer.** **Hinterhalt** :¤.:  
+    **Manöver:** Strenge diesen Diener an und entdecke 4 Kulturen der Freien Völker, um jeden Gefährten anzustrengen.
+  lore: Sie schlugen erst zu, als ihre Opfer ausgezehrt und müde waren.
+fr:
+  title: Pisteur du Désert
+  subtitle: ''
+  text: |-
+    **Suderon** **Embuscade** :twilight2:**.**   
+    **Manœuvre :** Affaiblissez ce séide et désignez 4 cultures des Peuples Libres pour affaiblir tous les compagnons.
+  lore: Ils ne frappent que lorsque leur proie est hagarde et fatiguée.
+it:
+  title: Inseguitore del Deserto
+  subtitle: ''
+  text: |-
+    **Sudrone.** Imboscata :twilight2:.   
+    **Manovra:** Sforza questo servitore e avvista 4 culture dei Popoli Liberi per sforzare ogni compagno.
+  lore: Colpiscono solamente quando la loro preda è esausta e demoralizzata.
+es:
+  title: Acechador del Desierto
+  subtitle: ''
+  text: |-
+    **Sureño.** Emboscar :twilight2:.   
+    **Maniobra:** Esfuerza este siervo y avista 4 culturas de Gentes Libres para esforzar cada compañero.
+  lore: Solo golpean cuando su presa está cansada y demacrada.

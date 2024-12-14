@@ -1,0 +1,22 @@
+set: '8'
+rarity: C
+number: '1'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Aggression
+  subtitle: ''
+  text: |-
+    While you have initiative, each Dwarf is **damage +1**.   
+    **Fellowship:** Spot a Dwarf who is damage +X to draw X cards. Discard this condition.
+  lore: ‘Certainty of death, small chance of success….’
+de:
+  title: Zum Angriff
+  subtitle: ''
+  text: |-
+    Solange du die Initiative besitzt, erhalten alle Zwerge **Schaden +1**.   
+    **Gemeinschaft:** Entdecke einen Zwerg mit Schaden +X, um X Karten zu ziehen. Lege diesen Effekt ab.
+  lore: Den sicheren Tod vor Augen, geringe Aussicht auf Erfolg….

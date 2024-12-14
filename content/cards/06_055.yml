@@ -1,0 +1,33 @@
+set: '6'
+rarity: R
+number: '55'
+unique: true
+culture: Gondor
+type: Artifact
+class: Ring
+cost: 0
+en:
+  title: Ring of Barahir
+  subtitle: ''
+  text: Bearer must be Aragorn. At the start of each of your turns, you may spot a culture token to heal a companion of that culture.
+  lore: ‘This is a thing of worth beyond your reckoning. For its ancientry alone. It has no power, save the esteem in which those hold it who love my house.’
+de:
+  title: Der Ring des Barahir
+  subtitle: ''
+  text: Muss auf Aragorn gespielt werden. Zu Beginn jedes deiner Spielzüge darfst du eine Kulturmarke entdecken, um einen Gefährten dieser Kultur zu heilen.
+  lore: Dies ist ein Ding von größerem Wert, als du dir vorstellen kannst. Allein um seines Alters willen. Der Ring hat keine Macht, abgesehen von der Wertschätzung, die ihm jene zollen, die mein Haus lieben.
+fr:
+  title: L'Anneau de Barahir
+  subtitle: ''
+  text: Le détenteur doit être Aragorn. Au début de chacun de vos tours, vous pouvez désigner un jeton d’une culture donnée pour guérir un compagnon de même culture.
+  lore: 'C''est une chose d''une valeur qui dépasse votre entendement. Uniquement en raison de son ancienneté. Il ne renferme aucun pouvoir autre que l''estime que lui portent ceux qui aiment ma maison.” '
+it:
+  title: Anello di Barahir
+  subtitle: ''
+  text: Il possessore deve essere Aragorn. All’inizio di ognuno dei tuoi turni, puoi avvistare un segnalino cultura per curare un compagno di quella cultura.
+  lore: ‘Questo è un oggetto il cui valore supera ogni tua immaginazione, anche solo per la sua antichità. Non ha potere; può procurarti soltanto la stima di coloro che amano la mia casa.’
+es:
+  title: Anillo de Barahir
+  subtitle: Artefacto • Anillo
+  text: Es algo mucho más valioso de lo que tu crees. Solamente por su antigüedad. No tiene poder, salvo la estima hacia el que lo tiene de los que aman mi hogar.
+  lore: ''

@@ -1,0 +1,18 @@
+set: '12'
+rarity: O
+number: '200'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '12'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Attëa
+  subtitle: Black Predator
+  text: |-
+    **Fierce.   
+    Skirmish:** Remove :twilight2: and discard a :wraith: card from hand to make Úlairë Attëa strength +3.
+  lore: Frodo thought that he heard a faint hiss as of venomous breath and felt a thin piercing chill.

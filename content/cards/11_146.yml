@@ -1,0 +1,16 @@
+set: '11'
+rarity: S
+number: '146'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '7'
+en:
+  title: Éowyn
+  subtitle: Shieldmaiden of Rohan
+  text: 'Each time Éowyn wins a skirmish, each other :rohan: Man is strength +1 until the regroup phase. '
+  lore: '‘The women of this country learned long ago: those without swords can still die upon them.’'

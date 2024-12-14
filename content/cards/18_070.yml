@@ -1,0 +1,13 @@
+set: '18'
+rarity: C
+number: '70'
+unique: true
+culture: Man
+type: Event
+class: Shadow
+cost: 2
+en:
+  title: Ill News is an Ill Guest
+  subtitle: ''
+  text: 'Exert a :men: minion to discard a follower from play (if you can spot Gríma, also draw a card).'
+  lore: Late is the hour in which this conjurer chooses to appear.

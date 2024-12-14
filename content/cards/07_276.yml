@@ -1,0 +1,25 @@
+set: '7'
+rarity: C
+number: '276'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '2'
+site: 5
+en:
+  title: Gorgoroth Ransacker
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    **Skirmish:** If this minion is stacked on a site you control, discard him to make a :sauron: Orc strength +5 (or +10 if you have initiative).
+  lore: ''
+de:
+  title: Gorgoroth Wegelagerer
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    **Kampf:** Lege diesen Diener ab, wenn er auf einem Ort lagert, den du kontrollierst, um einem :sauron: Ork Stärke +5 zu geben (oder Stärke +10, wenn du die Initiative besitzt).
+  lore: …stürmte eine Schar des Feindes nach der anderen gegen die Mauern an.

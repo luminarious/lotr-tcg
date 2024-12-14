@@ -1,0 +1,13 @@
+set: '15'
+rarity: C
+number: '179'
+unique: true
+culture: Uruk-hai
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Violent Hurl
+  subtitle: ''
+  text: 'Make an :urukhai: minion strength +2 (and **damage +1** if that minion is a hunter).'
+  lore: Uruk-hai weaponry was built to be used offensively and defensively, depending on the situation.

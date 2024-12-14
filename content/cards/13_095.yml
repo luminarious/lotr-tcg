@@ -1,0 +1,21 @@
+set: '13'
+rarity: U
+number: '95'
+unique: true
+culture: Man
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Lying in Wait
+  subtitle: ''
+  text: |-
+    **Skirmish:** Transfer this condition from your support area to your :men: minion. (Limit 1 per bearer.)  
+    Bearer is strength +1 for each other :men: minion you can spot.  
+    Each time a :men: minion wins a skirmish, make bearer strength +1 until the regroup phase.
+  lore: ''
+de:
+  title: Auf der Lauer
+  subtitle: ''
+  text: '**Kampf:** Verschiebe diesen Effekt aus deinem Unterstützungsbereich auf einen deiner :men: Diener. (Maximal 1 pro Diener.) Der Träger erhält Stärke +1 für jeden anderen :men: Diener, den du entdecken kannst. Jedes Mal, wenn ein :men: Diener einen Kampf gewinnt, erhält der Träger bis zur Sammelphase Stärke +1.'
+  lore: ''

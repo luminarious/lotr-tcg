@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '112'
+unique: true
+culture: Orc
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Conquered Halls
+  subtitle: ''
+  text: 'Make an :orc: minion strength +1 for each underground site you can spot.'
+  lore: They brandished spears and scimitars which shone red as blood in the firelight.
+de:
+  title: Eroberte Hallen
+  subtitle: ''
+  text: 'Gib einem :orc: Diener Stärke +1 für jeden unterirdischen Ort, den du entdecken kannst.'
+  lore: Sie schwenkten Speere und Krummsäbel, die im Schein des Feuers blutrot glänzten.

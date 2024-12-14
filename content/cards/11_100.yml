@@ -1,0 +1,21 @@
+set: '11'
+rarity: R
+number: '100'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '2'
+site: 4
+en:
+  title: Strange-looking Men
+  subtitle: ''
+  text: '**Maneuver:** Exert this minion to transfer a possession or condition borne by a character to another eligible bearer. '
+  lore: The strangers, especially those that had come up the Greenway, stared at them curiously.
+de:
+  title: Seltsame Männer
+  subtitle: ''
+  text: '**Manöver:** Strenge diesen Diener an, um eine Ausrüstung oder einen Effekt von einem Charakter auf einen anderen möglichen Träger zu verschieben.'
+  lore: Die Fremden, besonders jene, die den Grünweg heraufgekommen waren, starrten sie neugierig an.

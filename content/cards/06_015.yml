@@ -1,0 +1,16 @@
+set: '6'
+rarity: R
+number: '15'
+unique: true
+culture: Elven
+type: Ally
+race: Elf
+cost: 4
+str: '8'
+vit: '4'
+site: '3'
+en:
+  title: Elrond
+  subtitle: Keeper of Vilya
+  text: 'At the start of each turn, heal Elrond. **Fellowship:** Exert Elrond to discard the top card of your draw deck. If it is an :elven: card, you may take it into hand and heal an Elf companion.'
+  lore: ‘You have foreseen it. War is coming… many will die.’

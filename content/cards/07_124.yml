@@ -1,0 +1,17 @@
+set: '7'
+rarity: C
+number: '124'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Targon
+  subtitle: ''
+  text: |-
+    **Ranger.**   
+    **Skirmish:** If you have initiative, discard 2 cards from hand to wound a Man Targon is skirmishing.
+  lore: ''

@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '90'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 2
+str: '4'
+vit: '1'
+site: 4
+en:
+  title: Man of Bree
+  subtitle: ''
+  text: 'This minion is strength +1 for each card in the Free Peoples player’s hand. '
+  lore: One or two gave Frodo a blank look and departed muttering among themselves.
+de:
+  title: Mann aus Bree
+  subtitle: ''
+  text: Dieser Diener erhält Stärke +1 für jede Karte, die der Freie Völker Spieler auf der Hand hält.
+  lore: Ein oder zwei warfen Frodo einen finsteren Blick zu und murmelten etwas vor sich hin, als sie aufbrachen.

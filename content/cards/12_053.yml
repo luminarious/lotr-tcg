@@ -1,0 +1,21 @@
+set: '12'
+rarity: C
+number: '53'
+unique: true
+culture: Gondor
+type: Condition
+cost: 2
+en:
+  title: Valorous Leader
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: companion. Limit 1 per bearer.   
+    **Skirmish:** Discard this condition to discard a possession borne by a minion skirmishing bearer.
+  lore: Before he ever sat the throne, Aragorn had proven himself a great leader to the people of Gondor.
+de:
+  title: Tapferer Anführer
+  subtitle: ''
+  text: |-
+    Musst auf einen :gondor: Gefährten gespielt werden. Maximal 1 pro Gefährte.  
+    **Kampf:** Lege diesen Effekt ab, um eine Ausrüstung von einem Diener, der gegen den Träger kämpft, abzulegen.
+  lore: Noch bevor er den Thron bestieg, hatte Aragorn dem Volk von Gondor seinen Mut bewiesen.

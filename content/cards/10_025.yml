@@ -1,0 +1,16 @@
+set: '10'
+rarity: R
+number: '25'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 5
+str: '9'
+vit: '4'
+signet: Signet_Frodo
+en:
+  title: Aragorn
+  subtitle: Elessar Telcontar
+  text: 'When you play Aragorn, you may heal another companion. At the start of each fellowship phase, you may exert a companion of one culture to heal a companion of another culture. '
+  lore: ‘Now come the days of the King, and may they be blessed while the thrones of the Valar endure!’

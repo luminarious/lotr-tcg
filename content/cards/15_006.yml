@@ -1,0 +1,18 @@
+set: '15'
+rarity: R
+number: '6'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Glóin
+  subtitle: Son of Gróin
+  text: |-
+    Each time Glóin wins a skirmish, you may draw 3 cards, then place 3 cards from your hand beneath your draw deck in any order.  
+    **Skirmish:** Remove a :dwarven: token to make Glóin strength +2.
+  lore: ''

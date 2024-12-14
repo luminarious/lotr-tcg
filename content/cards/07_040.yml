@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '40'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 3
+en:
+  title: Have Patience
+  subtitle: ''
+  text: Spot Gandalf to heal an unbound companion twice.
+  lore: ''
+de:
+  title: Habt Geduld
+  subtitle: ''
+  text: Entdecke Gandalf, um einen nicht-verbundenen Gefährten zweimal zu heilen.
+  lore: ''

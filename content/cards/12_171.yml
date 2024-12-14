@@ -1,0 +1,25 @@
+set: '12'
+rarity: R
+number: '171'
+unique: true
+culture: Wraith
+type: Possession
+class: Mount
+cost: 2
+vit: '+1'
+en:
+  title: Shadowy Mount
+  subtitle: ''
+  text: |-
+    Bearer must be a Nazgûl.   
+    While bearer is at a battleground or forest site, he is **fierce.   
+    Assignment:** Make the Free Peoples player assign bearer to an unbound companion bearing a :wraith: condition.
+  lore: ‘…why do these black horses endure such riders?’
+de:
+  title: Schattenross
+  subtitle: ''
+  text: |-
+    Muss auf einen Nazgûl gespielt werden.  
+    Der Reiter ist erbittert, solange er sich auf einem Schlachtfeld oder in einem Wald befindet.  
+    **Zuweisung:** Zwinge den Freie Völker Spieler, den Reiter einem nicht-verbundenen Gefährten zuzuweisen, auf dem ein :wraith: Effekt liegt.
+  lore: ''

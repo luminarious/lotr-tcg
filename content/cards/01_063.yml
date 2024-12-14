@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '63'
+unique: true
+culture: Elven
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Stand Against Darkness
+  subtitle: ''
+  text: '**Maneuver:** Exert an Elf to discard a :sauron: minion, a :sauron: condition, or a :sauron: possession.'
+  lore: ‘What power still remains lies with us, here in Imladris, or with Círdan at the Havens, or in Lórien. But have they the strength, have we here the strength to withstand the Enemy…?’
+de:
+  title: Kampf gegen die Dunkelheit
+  subtitle: ''
+  text: '**Manöver:** Strenge einen Elben an, um einen :sauron: Diener, einen :sauron: Effekt oder eine :sauron: Ausrüstung abzulegen.'
+  lore: Was an Macht noch bleibt, beruht auf uns hier in Imladris oder auf Círdan an den Anfurten, oder auf Lórien. Aber haben sie die Kraft, haben wir hier die Kraft, dem Feind zu widerstehen…?
+fr:
+  title: Faire Face aux Ténèbres
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Elfe pour défausser un séide :sauron:, une situation :sauron:, ou une possession :sauron:.'
+  lore: Ce qu'il reste encore de pouvoir réside en nous, ici à Imladris, chez Círdan aux Havres ou en Lórien. Mais ont-ils la force, avons-nous ici la force de résister à l'ennemi…?
+it:
+  title: Resistere all'Oscurità
+  subtitle: ''
+  text: '**Manovra:** Sforza un Elfo per scartare un servitore :sauron:, una condizione :sauron:, o un bene :sauron:.'
+  lore: ‘Il potere che sopravvive ancora si trova qui da noi a Imladris, o da Cìrdan ai Rifugi Oscuri; oppure a Lòrien. Ma hanno essi la forza di lottare, abbiamo noi la forza di resistere al Nemico…?’
+es:
+  title: En Contra de La Oscuridad
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un Elfo para descartar un siervo :sauron:, una condición :sauron:, o una posesión :sauron:.'
+  lore: El poder que todavía queda esta aquí, en Imladris, o en Cirdan de los Puertos, o en Lórien. ¿Pero tienen ellos la fuerza, tendremos nosotros la fuerza de resistir al Enemigo…?

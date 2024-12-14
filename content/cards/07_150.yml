@@ -1,0 +1,23 @@
+set: '7'
+rarity: C
+number: '150'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Harsh Tongues
+  subtitle: ''
+  text: |-
+    To play, spot a :raider: Man.   
+    **Regroup:** Remove :twilight3: and spot a :raider: Man to place a :raider: token here.   
+    While there are 3 :raider: tokens here, the Shadow has initiative regardless of the Free Peoples player’s hand.
+  lore: ''
+de:
+  title: Raue Sprache
+  subtitle: ''
+  text: |-
+    Entdecke einen :raider: Menschen, um diesen Effekt zu spielen.   
+    **Sammeln:** Verringere den Einfluss um :twilight3: und entdecke einen :raider: Menschen, um eine :raider: Marke auf diese Karte zu legen. Die Schattenseite besitzt die Initiative, solange 3 :raider: Marken auf diesem Effekt liegen, unabhängig von der Handkartenzahl des Freien Völker Spielers.
+  lore: ''

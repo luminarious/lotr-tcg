@@ -1,0 +1,36 @@
+set: '4'
+rarity: C
+number: '21'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '1'
+site: 3
+en:
+  title: Hillman Band
+  subtitle: ''
+  text: 'Each time the fellowship moves, you may spot another :dunland: Man to take control of a site. '
+  lore: As in years past, the Dunlendings marched in force to the west.
+de:
+  title: Bergbewohnerschar
+  subtitle: ''
+  text: 'Jedes Mal, wenn die Gemeinschaft sich weiter bewegt, darfst du einen anderen :dunland: Diener entdecken, um einen Ort zu kontrollieren.'
+  lore: Wie in den Jahren zuvor, marschierten die Dunländer in großer Zahl nach Westen.
+fr:
+  title: Bande des Collines
+  subtitle: ''
+  text: 'Chaque fois que la compagnie se déplace, vous pouvez désigner un autre Homme :dunland: pour prendre le contrôle d’un site.'
+  lore: 'Comme par les années passées, Ceux du Pays de Dun marchèrent en force vers l''ouest. '
+it:
+  title: Banda delle Colline
+  subtitle: ''
+  text: 'Ogni volta che la compagnia si muove, puoi avvistare un altro Uomo :dunland: per prendere il controllo di un sito.'
+  lore: Come nel passato, i Dunlandiani marciarono in forza verso l'ovest.
+es:
+  title: Banda De Montañeses
+  subtitle: ''
+  text: 'Cada vez que la comunidad se mueve, puedes avistar otro Hombre :dunland: para tomar el control de un sitio.'
+  lore: Como antiguamente, los Dunlendinos lucharon contra el oeste.

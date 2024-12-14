@@ -1,0 +1,26 @@
+set: '10'
+rarity: R
+number: '40'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 6
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Easterling Berserker
+  subtitle: ''
+  text: |-
+    **Easterling.** To play, spot an Easterling.   
+    While this minion is unwounded, he is **damage +2**.   
+    **Skirmish:** Wound 2 other :raider: Men to heal this minion. 
+  lore: …from nearby there marched up an army of Easterlings that had waited for the signal….
+de:
+  title: Ostling Berserker
+  subtitle: ''
+  text: |-
+    **Ostling.** Entdecke einen Ostling, um diesen Diener zu spielen. Solange dieser Diener nicht verwundet ist, erhält er **Schaden +2**.   
+    **Kampf:** Verwunde 2 andere :raider: Menschen, um diesen Diener zu heilen.
+  lore: … als von nahebei ein Heer von Ostlingen heranmarschierte, das… auf das Zeichen gewartet hatte….

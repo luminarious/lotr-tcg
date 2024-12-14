@@ -1,0 +1,22 @@
+set: '10'
+rarity: C
+number: '109'
+unique: true
+culture: Shire
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Make Haste
+  subtitle: ''
+  text: |-
+    **Stealth.**   
+    Spot a :shire: companion and return him or her to your hand to make a Shadow player choose to remove :twilight2: or discard a minion.
+  lore: ‘There’s something still alive in that place, something with eyes, or a seeing mind, if you take me; and the longer we stay in one spot, the sooner it will get on to us.’
+de:
+  title: Eilt Euch
+  subtitle: ''
+  text: |-
+    **Heimlichkeit.**   
+    Entdecke einen :shire: Gefährten und nimm ihn auf deine Hand, um einen Schattenspieler zu zwingen, entweder den Einfluss um :twilight2: zu verringern oder einen Diener abzulegen.
+  lore: Da ist irgend etwas noch lebendig in dieser Gegend, etwas mit Augen… und je länger wir an einer Stelle bleiben, um so eher wird es uns ausfindig machen.

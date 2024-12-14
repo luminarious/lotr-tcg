@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '341'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: Anduin Banks
+  subtitle: ''
+  text: '**River.** **Skirmish:** Spot your minion and remove a burden to make that minion strength +2.'
+  lore: ''
+de:
+  title: Die Flussufer des Anduin
+  subtitle: ''
+  text: '**Fluss.** **Kampf:** Entdecke einen deiner Diener und entferne eine Lastmarke, um diesem Diener Stärke +2 zu geben.'
+  lore: ''

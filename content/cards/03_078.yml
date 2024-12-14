@@ -1,0 +1,39 @@
+set: '3'
+rarity: C
+number: '78'
+unique: true
+culture: Moria
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Hide and Seek
+  subtitle: ''
+  text: |-
+    **Search.**   
+    **Skirmish:** Spot 2 :shire: companions to make a :moria: minion **damage +1.** 
+  lore: ‘Which way shall we go?’
+de:
+  title: Verstecken und Suchen
+  subtitle: ''
+  text: '**Suche.** **Kampf** Entdecke 2 :shire: Gefährten, um einem :moria: Diener **Schaden +1** zu geben.'
+  lore: Welchen Weg wollen wir gehen?
+fr:
+  title: Au Chat et à la Souris
+  subtitle: ''
+  text: |
+    **Recherche.**  
+    **Combat :** Désignez deux compagnons :shire: pour donner à un séide :moria: des **dégâts +1.**  
+  lore: 'De quel côté irons-nous?” '
+it:
+  title: Nascondere e Cercare
+  subtitle: ''
+  text: |-
+    **Ricerca.**  
+    **Schermaglia:** Avvista 2 compagni :shire: per aggiungere **Danno +1** a un servitore :moria:.
+  lore: ‘Da che parte andiamo?’
+es:
+  title: Jugamos al Escondite
+  subtitle: ''
+  text: '**Búsqueda.** **Escaramuza:** Avista 2 compañeros :shire: para dar a un siervo :moria: **daño +1.**'
+  lore: ¿Por qué camino debemos ir?

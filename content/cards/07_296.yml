@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '296'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '2'
+site: 6
+en:
+  title: Orc Brood
+  subtitle: ''
+  text: '**Skirmish:** Discard 3 cards from hand to make this minion strength +3.'
+  lore: …the vomit of the maggot-folk of Mordor.
+de:
+  title: Orkbrut
+  subtitle: ''
+  text: '**Kampf:** Lege 3 Karten aus deiner Hand ab, um diesem Diener Stärke +3 zu geben.'
+  lore: …ausgespieen von dem Wühlervolk von Mordor.

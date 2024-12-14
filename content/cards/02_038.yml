@@ -1,0 +1,36 @@
+set: '2'
+rarity: R
+number: '38'
+unique: true
+culture: Gondor
+type: Possession
+class: Shield
+cost: 1
+en:
+  title: Shield of Boromir
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: companion.   
+    The minion archery total is -1.   
+    If bearer is Boromir, each minion skirmishing him does not gain strength bonuses from weapons. 
+  lore: Boromir bore the heirlooms of the Steward’s house with pride.
+de:
+  title: Boromirs Schild
+  subtitle: ''
+  text: 'Muss auf einen :gondor: Gefährten gespielt werden. Der Fernkampfwert der Diener wird um 1 reduziert. Wenn der Träger Boromir ist, erhalten Diener, die gegen ihn kämpfen, keine Stärkeboni durch Waffen.'
+  lore: Boromir trug die Erbstücke des Hauses der Truchsesse voller Stolz.
+fr:
+  title: Le Bouclier de Boromir
+  subtitle: ''
+  text: Le détenteur doit être un compagnon :gondor:. Le total d’archerie des séides est de -1. Si le détenteur est Boromir, chaque séide qui le combat ne bénéficie d’aucun bonus de force provenant d’armes.
+  lore: Boromir arborait fièrement les armureries de la maison de l'Intendant.
+it:
+  title: Scudo di Boromir
+  subtitle: ''
+  text: Il possessore deve essere un compagno :gondor:. Sottrai -1 al totale degli arcieri tra i servitori. Se il possessore è Boromir, ogni servitore che sta schermagliando con lui non guadagna bonus di forza dalle armi.
+  lore: Boromir indossava i cimeli della casa del Sovrintendente con orgoglio.
+es:
+  title: Escudo de Boromir
+  subtitle: ''
+  text: El portador debe ser un compañero :gondor:. El total de arquería de los siervos es -1. Si el portador es Boromir, cada siervo que esté en una escaramuza contra él no gana bonos de fuerza por armas.
+  lore: Boromir llevó las herencias de la casa de los Senescales con orgullo.

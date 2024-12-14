@@ -1,0 +1,26 @@
+set: '7'
+rarity: C
+number: '303'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 1
+str: '5'
+vit: '2'
+site: 6
+en:
+  title: Orc Pursuer
+  subtitle: ''
+  text: |-
+    **Tracker.**   
+    The site number of each :sauron: Orc is –1.   
+    While you have initiative, this minion is strength +5.
+  lore: ''
+de:
+  title: Verfolgender Ork
+  subtitle: ''
+  text: |-
+    **Spurenleser.**   
+    Die Ortskennzahl jedes :sauron: Orks reduziert sich um 1. Solange du die Initiative besitzt, erhält dieser Diener Stärke +5.
+  lore: …und sie wussten, dass sie beobachtet wurden.

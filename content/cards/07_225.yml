@@ -1,0 +1,24 @@
+set: '7'
+rarity: C
+number: '225'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '6'
+vit: '3'
+en:
+  title: Elite Rider
+  subtitle: ''
+  text: |-
+    When this companion is in your starting fellowship, his twilight cost is -1.   
+    While skirmishing a wounded minion, this companion is strength +2. 
+  lore: ''
+de:
+  title: Elitereiter
+  subtitle: ''
+  text: |-
+    Wenn dieser Gefährte Teil deiner Anfangsgemeinschaft ist, reduzieren sich seine Zwielichtkosten um 1.   
+    Solange dieser Gefährte gegen einen verwundeten Diener kämpft, erhält er Stärke +2.
+  lore: ''

@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '37'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Defiance
+  subtitle: ''
+  text: '**Skirmish:** Make an Elf strength +2 (or +4 if skirmishing a Nazgûl).'
+  lore: ‘If you want him, come and claim him!’
+de:
+  title: Trotz
+  subtitle: ''
+  text: '**Kampf** Gib einem Elben Stärke +2 (oder Stärke +4, wenn er gegen einen Nazgûl kämpft).'
+  lore: Wenn ihr ihn haben wollt, kommt und verlangt nach ihm.
+fr:
+  title: Défi
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force à un Elfe (+4 s’il combat un Nazgûl).'
+  lore: Si vous le voulez, venez le chercher !
+it:
+  title: Sfida
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Elfo (o +4 se sta schermagliando con un Nazgûl).'
+  lore: ‘Se lo vuoi, vieni a reclamarlo!’
+es:
+  title: Desafío
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Elfo fuerza +2 (o +4 en una escaramuza contra un Nazgûl).'
+  lore: ¡Si lo queréis, venid y reclamadlo!

@@ -1,0 +1,41 @@
+set: '5'
+rarity: U
+number: '114'
+unique: true
+culture: Shire
+type: Condition
+cost: 1
+vit: '+1'
+en:
+  title: Rare Good Ballast
+  subtitle: ''
+  text: |-
+    Plays on Sam.   
+    **Response:** If a regroup special ability is used, discard Sméagol or Gollum to cancel that action.
+  lore: ‘What a hobbit needs with coney… is some herbs and roots, especially taters – not to mention bread.’
+de:
+  title: Eine selten gute Unterlage
+  subtitle: ''
+  text: Muss auf Sam gespielt werden. **Reaktion:** Wenn eine spezielle Sammelfähigkeit benutzt wird, lege Sméagol oder Gollum ab, um dies zu verhindern.
+  lore: Was ein Hobbit zu Karnickeln braucht… sind Kräuter und Wurzeln, besonders Tüften – ganz zu schweigen von Brot.
+fr:
+  title: Rudement Bon Lest
+  subtitle: ''
+  text: |-
+    Jouable sur Sam.   
+    **Réponse :** Si une capacité spéciale de ralliement est utilisée, défaussez Sméagol ou Gollum pour annuler cette action.
+  lore: 'Ce qu''il faut à un Hobbit avec le lapin, ce sont des herbes et des racines, surtout des patates – sans parler du pain.” '
+it:
+  title: Una Meravigliosa Zavorra
+  subtitle: ''
+  text: |-
+    Giocala su Sam.  
+    **Risposta:** Se un’abilità speciale di raccolta è usata, scarta Sméagol o Gollum per cancellare quell’azione.
+  lore: ‘Ciò che ci vuole col coniglio, per un Hobbit… sono erbe aromatiche e radici, soprattutto tate…, per non parlare del pane.’
+es:
+  title: Lastre raro y excelente
+  subtitle: ''
+  text: |-
+    Se juega sobre Sam.   
+    **Respuesta:** Si se usa una habilidad especial de reagrupación, descarta a Sméagol o a Gollum para cancelar esa acción.
+  lore: Lo que un Hobbit necesita para aderezar el conejo… Son algunas hierbas y raíces, especialmente patatas… De pan ni hablemos.

@@ -1,0 +1,25 @@
+set: '8'
+rarity: U
+number: '98'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Gorgoroth Looter
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    When you play this minion, you may remove a burden to play a besieger stacked on a site.
+  lore: …new foes came swirling behind….
+de:
+  title: Gorgoroth Räuber
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    Wenn du diesen Diener ausspielst, darfst du eine Lastmarke entfernen, um einen Belagerer zu spielen, der auf einem Ort gelagert ist, den du kontrollierst.
+  lore: … die Heere von Mordor waren ermutigt, und voller neuer Kampfeslust und -wut kamen sie mit schrillen Schreien….

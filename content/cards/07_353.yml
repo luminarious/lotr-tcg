@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '353'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Right
+en:
+  title: Osgiliath Crossing
+  subtitle: ''
+  text: '**River.** **Shadow:** Exert 2 minions and spot 6 companions to draw 2 cards.'
+  lore: ''
+de:
+  title: Furt von Osgiliath
+  subtitle: ''
+  text: '**Fluss.** **Schatten:** Strenge 2 Diener an und entdecke 6 Gefährten, um 2 Karten zu ziehen.'
+  lore: ''

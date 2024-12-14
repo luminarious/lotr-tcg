@@ -1,0 +1,39 @@
+set: '4'
+rarity: R
+number: '146'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Come Down
+  subtitle: ''
+  text: |-
+
+    **Archery:** Spot 2 :isengard: archers to make allies take wounds from archery fire instead of companions. 
+  lore: ‘We are the fighting Uruk-hai…. Bring out your skulking king!’
+de:
+  title: Komm herunter
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **FernKampf** Entdecke 2 :isengard: Bogenschützen, damit Verbündete, anstelle von Gefährten, im Fernkampf Wunden erleiden.'
+  lore: Wir sind die kämpfenden Uruk-hai. …Bring deinen König heraus, den Drückeberger!
+fr:
+  title: Descendez!
+  subtitle: ''
+  text: '**Archerie :** Désignez 2 archers :isengard: pour infliger les blessures d’archerie aux alliés plutôt qu’aux compagnons.'
+  lore: 'Nous sommes les combattants ourouk-haï… Amenez votre roi qui se dérobe!” '
+it:
+  title: Scendete
+  subtitle: ''
+  text: |-
+
+    **Arcieri:** Avvista 2 arcieri :isengard: per far subire ferite agli alleati durante il tiro degli arcieri invece che ai compagni.
+  lore: ‘Siamo gli imbattibili Uruk-hai… Mostrateci il vostro re scontroso!’
+es:
+  title: Bajad
+  subtitle: ''
+  text: |-
+
+    **Arquería:** Avista 2 arqueros :isengard: para hacer que los aliados reciban las heridas de arquería en lugar de los compañeros.
+  lore: Somos los guerreros Uruk-hai… ¡Tráenos al cobardón de tu rey!

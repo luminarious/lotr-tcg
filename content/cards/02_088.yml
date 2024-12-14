@@ -1,0 +1,33 @@
+set: '2'
+rarity: C
+number: '88'
+unique: true
+culture: Sauron
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Memory of Many Things
+  subtitle: ''
+  text: '**Maneuver:** Exert a :sauron: Orc to discard an ally (or 2 :elven: allies). '
+  lore: ‘But my memory reaches back even to the Elder Days…. I have seen three ages in the West of the world, and many defeats, and many fruitless victories.’
+de:
+  title: Mannigfaltige Erinnerungen
+  subtitle: ''
+  text: '**Manöver:** Strenge einen :sauron: Ork an, um einen Verbündeten (oder 2 :elven: Verbündete) abzulegen.'
+  lore: Aber meine Erinnerung reicht zurück bis zur Altvorderenzeit. Ich habe drei Zeitalter im Westen erlebt, und viele Niederlagen und fruchtlose Siege.
+fr:
+  title: Souvenir de Multiples Choses
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Orque :sauron: pour défausser un allié (ou 2 alliés :œ:).'
+  lore: 'Mais ma mémoire porte jusqu''aux Jours Anciens. J''ai vu trois âges dans l''Ouest du monde, et maintes défaites, et maintes victoires sans lendemain.” '
+it:
+  title: Ricordo di Molte Cose
+  subtitle: ''
+  text: '**Manovra:** Sforza un Orco :sauron: per scartare un alleato (o 2 alleati :elven:).'
+  lore: ‘Ma la mia memoria risale fino ai Tempi Remoti… Ho visto tre ere a ovest del mondo, molte sconfitte e molte vittorie inutili.’
+es:
+  title: Recuerdo de muchas cosas
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un Orco :sauron: para descartar un aliado (o 2 aliados :elven:).'
+  lore: Pero mi memoria llega aún a los Días Antiguos… He asistido a tres épocas en el mundo del Oeste, y a muchas derrotas, y a muchas estériles victorias.

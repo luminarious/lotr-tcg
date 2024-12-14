@@ -1,0 +1,22 @@
+set: '12'
+rarity: C
+number: '164'
+unique: true
+culture: Wraith
+type: Event
+class: Shadow
+cost: 2
+en:
+  title: Echo of Hooves
+  subtitle: ''
+  text: |-
+    **Toil 2.** *(For each* :wraith: *character you exert when playing this, its twilight cost is –2.)*   
+    Spot your Nazgûl at a battleground or forest site to play a mount on him from your draw deck.
+  lore: …the black horses leaped down the hill in pursuit, and from the Riders came a terrible cry….
+de:
+  title: Hufgetrappel
+  subtitle: ''
+  text: |-
+    **Mühe 2.**   
+    Entdecke einen deiner Nazgûl auf einem Schlachtfeld oder in einem Wald, um ein Reittier aus deinem Spieldeck auf ihn zu spielen.
+  lore: … stürzten die schwarzen Pferde den Berg hinunter und nahmen die Verfolgung auf, und die Reiter stießen einen furchtbaren Schrei aus….

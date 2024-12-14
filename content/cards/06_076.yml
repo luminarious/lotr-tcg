@@ -1,0 +1,36 @@
+set: '6'
+rarity: R
+number: '76'
+unique: true
+culture: Moria
+type: Minion
+race: Balrog
+cost: 14
+str: '17'
+vit: '5'
+site: 4
+en:
+  title: The Balrog
+  subtitle: Terror of Flame and Shadow
+  text: '**Damage +2.** The twilight cost of The Balrog is –3 if you can spot a :moria: minion. The Balrog cannot be assigned to skirmish companions or allies of strength less than 6.'
+  lore: ‘…he burst into new flame.’
+de:
+  title: Der Balrog
+  subtitle: Schrecken aus Feuer und Schatten
+  text: '**Schaden +2.** Die Kosten des Balrog reduzieren sich um 3, wenn du einen anderen :moria: Diener entdecken kannst. Der Balrog kann keinem Gefährten oder Verbündeten mit geringerer Stärke als 6 zugewiesen werden.'
+  lore: … ging er von neuem in Flammen auf.
+fr:
+  title: Le Balrog
+  subtitle: Terreur de Flamme et d'Ombre
+  text: '**Dégâts +2.**. Le coût crépusculuaire du Balrog est de –3 si vous pouvez désigner un séide :moria:. Le Balrog ne peut pas être affecté au combat de compagnons ou d’alliés dont la force est inférieure à 6.'
+  lore: '… il fut saisi d''une nouvelle ardeur.” '
+it:
+  title: Il Balrog
+  subtitle: Terrore di Fiamme ed Ombra
+  text: '**Danno +2.** Sottrai –3 al costo crepuscolo de Il Balrog se puoi avvistare un servitore :moria:. Il Balrog non può essere assegnato a schermagliare con compagni o alleati che abbiano forza minore di 6.'
+  lore: ‘…avvampò in nuove fiamme.’
+es:
+  title: El Balrog
+  subtitle: Terror de llama y sombra
+  text: '**Daño +2.** El coste de penumbra de El Balrog es –3 si puedes avistar un siervo :moria:. El Balrog no puede ser asignado a compañeros o aliados de fuerza menor a 6.'
+  lore: …ardiendo con nuevos fuegos.

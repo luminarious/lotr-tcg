@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '7'
+unique: true
+culture: Dwarven
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Sorrow Shared
+  subtitle: ''
+  text: 'Remove a :dwarven: token to heal a Dwarf.'
+  lore: Gimli was saddened by Éowyn’s despair.
+de:
+  title: Geteiltes Leid
+  subtitle: ''
+  text: 'Entferne eine :dwarven: Marke, um einen Zwerg zu heilen.'
+  lore: Éowyns Verzweiflung machte Gimli ebenfalls traurig.

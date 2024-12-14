@@ -1,0 +1,33 @@
+set: '3'
+rarity: R
+number: '103'
+unique: true
+culture: Sauron
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Terrible as the Dawn
+  subtitle: ''
+  text: '**Maneuver:** Spot a :sauron: minion to wound Galadriel 3 times. The Free Peoples player may discard 2 Elves to prevent this. '
+  lore: ‘In the place of the Dark Lord, you would have a Queen… All shall love me and despair!’
+de:
+  title: Entsetzlich wie der Morgen
+  subtitle: ''
+  text: '**Manöver:** Entdecke einen :sauron: Diener, um Galadriel dreimal zu verwunden. Der Freie Völker Spieler darf 2 Elben ablegen, um dies zu verhindern.'
+  lore: Anstelle eines dunklen Herrschers hättest du eine Königin…. Alle werden mich lieben und verzweifeln!
+fr:
+  title: Terrible Comme le Matin
+  subtitle: ''
+  text: '**Manœuvre :** Désignez un séide :sauron: pour blesser Galadriel trois fois. Le joueur des Peuples Libres peut défausser deux Elfes pour empêcher ceci.'
+  lore: 'À la place du Seigneur Ténébreux, vous établirez une Reine! Tous m''aimeront et désespéreront!” '
+it:
+  title: Terribile come l'Alba
+  subtitle: ''
+  text: '**Manovra:** Avvista un servitore :sauron: per ferire 3 volte Galadriel. Il giocatore dei Popoli Liberi può scartare 2 Elfi per prevenirlo.'
+  lore: ‘Al posto dell'Oscuro Sire avresti una Regina… Tutti mi ameranno e si dispereranno!
+es:
+  title: Terrible Como el Amanecer
+  subtitle: ''
+  text: '**Maniobra:** Avista un siervo :sauron: para herir a Galadriel 3 veces. El jugador de Gentes Libres puede descartar 2 Elfos para prevenir esto.'
+  lore: En lugar del Señor Oscuro, tendríais a una Reina… ¡Todos me amaran y desesperaran!

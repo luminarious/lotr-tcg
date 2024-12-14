@@ -1,0 +1,44 @@
+set: '12'
+rarity: R
+number: '86'
+unique: true
+culture: Orc
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+3'
+en:
+  title: Cave Troll’s Hammer
+  subtitle: Unwieldy Cudgel
+  text: |-
+    Bearer must be an :orc: Troll.   
+    When you play this possession, the Free Peoples player must exert a companion for each lurker you spot.
+  lore: Its weight is greater than any foe it has felled.
+de:
+  title: Hammer des Höhlentrolls
+  subtitle: Sperrige Keule
+  text: |-
+    Muss auf einen :orc: Troll gespielt werden.  
+    Der Freie Völker Spieler muss einen Gefährten für jeden Schleicher, den du entdeckst, anstrengen, wenn du diese Ausrüstung spielst.
+  lore: Sein Gewicht war größer als das jedes Feindes, der ihm zum Opfer fiel.
+fr:
+  title: Cave Troll's Hammer
+  subtitle: Unwieldy Cudgel
+  text: |-
+    Bearer must be an :orc: Troll.   
+    When you play this possession, the Free Peoples player must exert a companion for each lurker you spot.
+  lore: Its weight is greater than any foe it has felled.
+it:
+  title: Cave Troll's Hammer
+  subtitle: Unwieldy Cudgel
+  text: |-
+    Bearer must be an :orc: Troll.   
+    When you play this possession, the Free Peoples player must exert a companion for each lurker you spot.
+  lore: Its weight is greater than any foe it has felled.
+es:
+  title: Cave Troll's Hammer
+  subtitle: Unwieldy Cudgel
+  text: |-
+    Bearer must be an :orc: Troll.   
+    When you play this possession, the Free Peoples player must exert a companion for each lurker you spot.
+  lore: Its weight is greater than any foe it has felled.

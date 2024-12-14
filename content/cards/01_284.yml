@@ -1,0 +1,21 @@
+set: '1'
+rarity: R
+number: '284'
+unique: true
+culture: Shire
+type: Ally
+race: Hobbit
+cost: 2
+str: '2'
+vit: '3'
+site: '3'
+en:
+  title: Bilbo
+  subtitle: Retired Adventurer
+  text: '**Fellowship:** Exert Bilbo to shuffle a :shire: card from your discard pile into your draw deck.'
+  lore: ‘…I don't suppose I have the strength or luck left to deal with the Ring. It has grown, and I have not.’
+fr:
+  title: Bilbon
+  subtitle: Aventurier Retraité
+  text: '**Compagnie :** Affaiblissez Bilbon pour mélanger une carte :shire: de votre pile de défausse dans votre pioche.'
+  lore: ‘…je suppose qu'il ne me reste plus assez de force ou de chance pour m'occuper de l'Anneau. Il a grandi, et moi pas.’

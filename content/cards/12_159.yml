@@ -1,0 +1,23 @@
+set: '12'
+rarity: C
+number: '159'
+unique: true
+culture: Uruk-hai
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Weapon of Opportunity
+  subtitle: ''
+  text: |-
+    Bearer must be an :urukhai: minion.   
+    When you play this possession on a minion that has a twilight cost of 4 or more, draw a card.
+  lore: The fighting Uruk-hai will use any resource available to carry out the will of Saruman.
+de:
+  title: Erbeutete Waffe
+  subtitle: ''
+  text: |-
+    Muss auf einen :urukhai: Diener gespielt werden.  
+    Ziehe eine Karte, wenn du diese Ausrüstung auf einen Diener mit Zwielichtkosten 4 oder mehr spielst.
+  lore: Die kämpfenden Uruk-hai nutzen jede Möglichkeit, die sich ihnen bietet, um Sarumans Willen auszuführen.

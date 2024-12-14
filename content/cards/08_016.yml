@@ -1,0 +1,18 @@
+set: '8'
+rarity: U
+number: '16'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 3
+en:
+  title: Let Us Not Tarry
+  subtitle: ''
+  text: Exert Gandalf to make a minion skirmishing an unbound companion strength –1 for each Gandalf signet you spot.
+  lore: ‘There is much to say and to do, and you are weary.’
+de:
+  title: Wir wollen uns hier nicht aufhalten
+  subtitle: ''
+  text: Strenge Gandalf an, um einem Diener, der gegen einen nicht-verbundenen Gefährten kämpft, Stärke -1 für jedes Gandalfsiegel, das du entdeckst, zu geben.
+  lore: Es gibt viel zu sagen und zu tun, und ihr seid müde.

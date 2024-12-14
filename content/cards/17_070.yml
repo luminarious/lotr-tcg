@@ -1,0 +1,13 @@
+set: '17'
+rarity: C
+number: '70'
+unique: true
+culture: Orc
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Feral Ride
+  subtitle: ''
+  text: 'Make an :orc: minion strength +2 (or +4 if it is mounted).'
+  lore: It was hard at times to tell who was truly the master, the warg or the Orc.

@@ -1,0 +1,36 @@
+set: '6'
+rarity: U
+number: '70'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 1
+str: '5'
+vit: '2'
+site: 4
+en:
+  title: Isengard Tender
+  subtitle: ''
+  text: '**Regroup:** If stacked on an :isengard: card, discard this card and remove :twilight2: to exhaust a companion.'
+  lore: Unfortunate Orcs assisted in Saruman’s foul wizardry.
+de:
+  title: Isengart Zuchtmeister
+  subtitle: ''
+  text: '**Sammeln:** Wenn dieser Diener auf einer :isengard: Karte lagert, lege ihn von dort ab und verringere den Einfluss um :twilight2:, um einen Gefährten zu erschöpfen.'
+  lore: Weniger glückliche Orks durften Saruman bei seinen üblen Zauberexperimenten helfen.
+fr:
+  title: Mainteneur de l'Isengard
+  subtitle: ''
+  text: '**Ralliement :** Si cette carte est empilée sur une carte :isengard:, défaussez-la et retirez :twilight2: pour épuiser un compagnon.'
+  lore: De pauvres Orques faisaient les frais de la sorcellerie de Saroumane.
+it:
+  title: Assistente di Isengard
+  subtitle: ''
+  text: '**Raccolta:** Se impilato su una carta :isengard:, scarta questa carta 0e rimuovi :twilight2: per rendere esausto un compagno.'
+  lore: Gli Orchi più sfortunati assistevano all'empia stregoneria di Saruman.
+es:
+  title: Cuidador de Isengard
+  subtitle: ''
+  text: '**Reagrupación:** Si está apilada en una carta :isengard:, descarta esta carta y quita € para exhaustar un compañero.'
+  lore: Orcos desafortunados ayudaron en las atroces hechicerías de Saruman.

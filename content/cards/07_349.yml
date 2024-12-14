@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '349'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Minas Tirith Second Circle
+  subtitle: ''
+  text: '**Sanctuary.** If the fellowship moves from this site during the regroup phase, heal each :dwarven: companion.'
+  lore: ''
+de:
+  title: Zweiter Ring von Minas Tirith
+  subtitle: ''
+  text: '**Zuflucht.** Heile jeden :dwarven: Gefährten, wenn sich die Gemeinschaft in der Sammelphase von diesem Ort fortbewegt.'
+  lore: ''

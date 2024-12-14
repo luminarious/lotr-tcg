@@ -1,0 +1,15 @@
+set: '17'
+rarity: U
+number: '22'
+unique: true
+culture: Gandalf
+type: Follower
+cost: 3
+en:
+  title: Meneldor
+  subtitle: Misty Mountain Eagle
+  text: |-
+    **Aid** - :twilight1:. *(At the start of the maneuver phase, you may add*:twilight1: *to transfer this to a companion.)*  
+    To play, spot a :gandalf: follower.  
+    Bearer is strength +1 for each other :gandalf: follower you can spot.
+  lore: To many he was known as the swift.

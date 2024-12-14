@@ -1,0 +1,20 @@
+set: '11'
+rarity: C
+number: '192'
+unique: true
+culture: Uruk-hai
+type: Possession
+class: Hand Weapon
+cost: 1
+en:
+  title: Isengard Sword
+  subtitle: ''
+  text: |-
+    Bearer must be an :urukhai: minion.   
+    Each character skirmishing bearer is strength –2.
+  lore: The heavy-backed Uruk blades hack through armor and flesh alike.
+de:
+  title: Isengart Schwert
+  subtitle: ''
+  text: 'Muss auf einen :urukhai: Diener gespielt werden. Jeder Charakter, der gegen den Träger kämpft, erhält Stärke -2. '
+  lore: Schwere Urukschwerter zerhacken Rüstung und Fleisch gleichermaßen.

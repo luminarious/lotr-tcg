@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '245'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Right
+en:
+  title: Helm's Gate
+  subtitle: ''
+  text: '**Battleground.** Each character bearing a hand weapon is strength +2.'
+  lore: ''
+de:
+  title: Helms Tor
+  subtitle: ''
+  text: '**Schlachtfeld.** Jeder Charakter, der eine Handwaffe trägt, erhält Stärke +2.'
+  lore: ''

@@ -1,0 +1,18 @@
+set: '13'
+rarity: S
+number: '186'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: Caves of Aglarond
+  subtitle: ''
+  text: '**Underground.** When the fellowship moves to this site during the regroup phase, the Free Peoples player may remove 2 burdens.'
+  lore: ''
+de:
+  title: Die Höhlen von Aglarond
+  subtitle: ''
+  text: '**Unterirdisch.** Der Freie Völker Spieler darf 2 Lastmarken entfernen, wenn die Gemeinschaft diesen Ort in der Sammelphase erreicht.'
+  lore: ''

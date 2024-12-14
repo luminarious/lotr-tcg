@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '352'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Minas Tirith Third Circle
+  subtitle: ''
+  text: '**Sanctuary.** If the fellowship moves from this site during the regroup phase, heal each Hobbit companion.'
+  lore: ''
+de:
+  title: Dritter Ring von Minas Tirith
+  subtitle: ''
+  text: '**Zuflucht.** Heile jeden Hobbitgefährten, wenn sich die Gemeinschaft in der Sammelphase von diesem Ort fortbewegt.'
+  lore: ''

@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '207'
+unique: true
+culture: Wraith
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Their Power Is in Terror
+  subtitle: ''
+  text: Exert a Nazgûl to wound every ally.
+  lore: ''
+de:
+  title: Ihre Stärke ist die Furcht
+  subtitle: ''
+  text: Strenge einen Nazgûl an, um jeden Verbündeten zu verwunden.
+  lore: ''

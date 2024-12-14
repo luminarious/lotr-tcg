@@ -1,0 +1,16 @@
+set: '7'
+rarity: R
+number: '260'
+unique: true
+culture: Rohan
+type: Possession
+class: Mount
+cost: 2
+en:
+  title: Windfola
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.   
+    At the start of each skirmish involving bearer, each minion skirmishing bearer must exert.   
+    **Skirmish:** If bearer is Éowyn, exert her twice to wound a fierce minion she is skirmishing.
+  lore: ''

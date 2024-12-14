@@ -1,0 +1,21 @@
+set: '12'
+rarity: C
+number: '92'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Orc Dreg
+  subtitle: ''
+  text: 'Each time this minion is assigned to a skirmish, if it is not at an underground site, remove :twilight2: or discard this minion. '
+  lore: …their Captain cared not greatly what they did or how many might be slain….
+de:
+  title: Orkabschaum
+  subtitle: ''
+  text: 'Jedes Mal, wenn dieser Diener einem Kampf zugewiesen wird, der nicht an einem unterirdischen Ort stattfindet, verringere den Einfluss um :twilight2: oder lege diesen Diener ab.'
+  lore: … war es ihrem Heerführer ziemlich gleichgültig, was sie taten oder wie viele erschlagen würden….

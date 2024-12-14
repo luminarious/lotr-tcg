@@ -1,0 +1,40 @@
+set: '4'
+rarity: C
+number: '255'
+unique: true
+culture: Raider
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Southron Spear
+  subtitle: ''
+  text: |-
+    Bearer must be a Southron.  
+    **Skirmish:** Remove :twilight4: and exert bearer to wound a companion or ally bearer is skirmishing. 
+  lore: Long pikes defend the Southrons against the armored knights of Gondor.
+de:
+  title: Speer der Südländer
+  subtitle: ''
+  text: 'Muss auf einen Südländer gespielt werden. **Kampf** Verringere den Einfluss um :twilight4: und strenge den Träger an, um einen Gefährten oder Verbündeten, gegen den er kämpft, zu verwunden.'
+  lore: Lange Piken schützten die Südländer gegen die Angriffe der gepanzerten Ritter Gondors.
+fr:
+  title: Lance Suderone
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un **Suderon.**  
+    **Combat :** Retirez :twilight4: et affaiblissez le détenteur pour blesser un compagnon ou un allié que le détenteur combat.
+  lore: De longues piques défendent les Suderons contre les chevaliers en armure du Gondor.
+it:
+  title: Lancia Sudrone
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un **Sudrone.**  
+    **Schermaglia:** Rimuovi :twilight4: e sforza il possessore per ferire un compagno o un alleato con cui il possessore stia schermagliando.
+  lore: Le lunghe picche difendono i Sudroni dai cavalieri corazzati di Gondor.
+es:
+  title: Lanza Sureña
+  subtitle: ''
+  text: 'El portador debe ser un **Sureño.** **Escaramuza:** Quita :twilight4: y esfuerza al portador para herir un compañero o un aliado que esté en una escaramuza contra el portador.'
+  lore: Largas picas protegen a los Sureños de los acorazados caballeros de Gondor.

@@ -1,0 +1,21 @@
+set: '13'
+rarity: C
+number: '164'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Fearless Approach
+  subtitle: ''
+  text: |-
+    To play, spot an :urukhai: minion.  
+    When you play this, if you spot a battleground site on the adventure path, reinforce 3 :urukhai: tokens.  
+    Each time the Free Peoples player plays the fellowship’s next site, you may discard a condition from play.
+  lore: ''
+de:
+  title: Furchtloser Vormarsch
+  subtitle: ''
+  text: 'Entdecke einen :urukhai: Diener, um diesen Effekt zu spielen. Du darfst 3 :urukhai: Marken ergänzen, wenn du beim Ausspielen dieser Karte ein Schlachtfeld auf dem Abenteuerpfad entdeckst. Jedes Mal, wenn der Freie Völker Spieler den nächsten Ort der Gemeinschaft ausspielt, darfst du einen Effekt ablegen.'
+  lore: ''

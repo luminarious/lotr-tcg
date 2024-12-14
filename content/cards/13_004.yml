@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '4'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Dwarf-lords
+  subtitle: ''
+  text: 'You may remove from the game 4 other :dwarven: cards in your discard pile to play this event from your discard pile. Then remove this event from the game. Make your Dwarf bearing a hand weapon strength +3. '
+  lore: …Seven for the Dwarf-lords in their halls of stone….
+de:
+  title: Zwergenherrscher
+  subtitle: ''
+  text: 'Du darfst 4 andere :dwarven: Karten aus deinem Ablagestapel ganz aus dem Spiel entfernen, um dieses Ereignis aus deinem Ablagestapel zu spielen. Entferne dann dieses Ereignis ganz aus dem Spiel. Gib einem deiner Zwerge, der mit einer Handwaffe ausgerüstet ist, Stärke +3.'
+  lore: Sieben den Zwergenherrschern in ihren Hallen aus Stein.

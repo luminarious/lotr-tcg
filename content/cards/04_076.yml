@@ -1,0 +1,35 @@
+set: '4'
+rarity: C
+number: '76'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Lórien Guardian
+  subtitle: ''
+  text: '**Regroup:** Exert this companion to make a Shadow player wound a minion. '
+  lore: Haldir’s Elven bowmen were experienced defenders of the borders of the Golden Wood
+de:
+  title: Wächter aus Lórien
+  subtitle: ''
+  text: '**Sammeln:** Strenge diesen Gefährten an, um den Schattenspieler zu zwingen, einen Diener zu verwunden.'
+  lore: Haldirs Bogenschützen waren erfahrene Verteidiger der Grenzen des goldenen Waldes.
+fr:
+  title: Gardien de la Lórien
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez ce compagnon pour obliger un joueur de l’Ombre à blesser un séide.'
+  lore: Les archers Elfes d'Haldir, pleins d'expérience, étaient des défenseurs de la frontière du Bois Doré.
+it:
+  title: Guardiano di Lórien
+  subtitle: ''
+  text: '**Raccolta:** Sforza questo compagno per far ferire un servitore a un giocatore **Ombra.**'
+  lore: Gli arcieri Elfi di Haldir erano dei veterani difensori dei confini del Bosco d'Oro
+es:
+  title: Guardián De Lórien
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza este compañero para hacer que un jugador de Sombra hiera un siervo.'
+  lore: Los arqueros Elfos de Haldir eran defensores expertos de las fronteras del Bosque Dorado.

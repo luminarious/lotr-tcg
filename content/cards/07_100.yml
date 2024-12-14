@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '100'
+unique: true
+culture: Gondor
+type: Event
+class: Archery
+cost: 2
+en:
+  title: Greatest Stronghold
+  subtitle: ''
+  text: 'Exert a :gondor: Man and spot 3 fortifications to make the fellowship archery total +2.'
+  lore: ‘…City of Kings of yore.’
+de:
+  title: Die größte Feste
+  subtitle: ''
+  text: 'Strenge einen :gondor: Menschen an und entdecke 3 Befestigungen, um den Fernkampfwert der Gemeinschaft um 2 zu erhöhen.'
+  lore: … Stadt der Könige von einst.

@@ -1,0 +1,21 @@
+set: '11'
+rarity: U
+number: '40'
+unique: true
+culture: Gandalf
+type: Possession
+class: Mount
+cost: 2
+res: '+2'
+en:
+  title: Shadowfax
+  subtitle: Unequaled Steed
+  text: |-
+    Bearer must be Gandalf.   
+    Each time Gandalf is about to take a wound, you may add a burden to prevent that. 
+  lore: '‘He has come for me: the horse of the White Rider. We are going to battle together.’'
+de:
+  title: Schattenfell
+  subtitle: Hervorragendes Streitross
+  text: Muss auf Gandalf gespielt werden. Jedes Mal, wenn Gandalf im Begriff ist, eine Wunde zu erleiden, darfst du eine Lastmarke auf den Ringträger legen um dies zu verhindern.
+  lore: 'Er ist für mich gekommen: das Pferd des Weißen Reiters. Wir ziehen zusammen in die Schlacht.'

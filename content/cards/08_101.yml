@@ -1,0 +1,25 @@
+set: '8'
+rarity: C
+number: '101'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '2'
+site: 5
+en:
+  title: Gorgoroth Stormer
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    **Shadow:** If you have initiative, exert this minion to add a burden and make the Free Peoples player draw a card.
+  lore: …filled with malice, hating even their own kind….
+de:
+  title: Gorgoroth Angreifer
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    **Schatten:** Strenge diesen Diener an, wenn du die Initiative besitzt, um eine Lastmarke auf den Ringträger zu legen und den Freie Völker Spieler zu zwingen, eine Karte zu ziehen.
+  lore: … fanden sie den Feind schon an der Außenmauer vor oder sie bestürmend….

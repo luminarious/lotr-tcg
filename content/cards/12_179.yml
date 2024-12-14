@@ -1,0 +1,16 @@
+set: '12'
+rarity: R
+number: '179'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Otsëa
+  subtitle: Black Specter
+  text: '**Shadow:** Exert Úlairë Otsëa and discard a :wraith: condition from hand to discard a Free Peoples condition from play.'
+  lore: ‘We can feel their presence – it troubled our hearts, as soon as we came here, and before we saw them; they feel ours more keenly.’

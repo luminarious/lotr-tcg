@@ -1,0 +1,41 @@
+set: '5'
+rarity: R
+number: '18'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 3
+en:
+  title: Fury of the White Rider
+  subtitle: ''
+  text: |-
+    **Spell.**  
+    **Maneuver:** Spot 3 twilight tokens and exert Gandalf to wound a minion twice.
+  lore: The White Rider was upon them, and the terror of his coming filled the enemy with madness.
+de:
+  title: Der Zorn des Weißen Reiters
+  subtitle: ''
+  text: '**Zauberspruch.** **Manöver:** Entdecke einen Einfluss von mindestens :twilight3: und strenge Gandalf an, um einen Diener zweimal zu verwunden.'
+  lore: Der Weiße Reiter kam über sie, und der Schrecken seiner Ankunft erfüllte den Feind mit Wahnsinn.
+fr:
+  title: La Fureur du Cavalier Blanc
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Manœuvre :** Désignez 3 jetons-crépuscule et affaiblissez Gandalf pour blesser un séide deux fois.
+  lore: 'Le Cavalier Blanc était sur les ennemis, et la terreur de cette venue répandit sur eux la folie. '
+it:
+  title: Furia del Cavaliere Bianco
+  subtitle: ''
+  text: |-
+    **Magia.**   
+    **Manovra:** Avvista 3 segnalini crepuscolo e sforza Gandalf per ferire due volte un servitore.
+  lore: Il Bianco Cavaliere stava per travolgere il nemico, e il terrore di vederlo empì tutti di follia.
+es:
+  title: Furia del Caballero Blanco
+  subtitle: ''
+  text: |-
+    **Hechizo.**   
+    **Maniobra:** Avista 3 contadores de penumbra y esfuerza a Gandalf para herir un siervo dos veces.
+  lore: Allá estaba el Caballero Blanco, y el terror de esta aparición enloqueció al enemigo.

@@ -1,0 +1,16 @@
+set: '15'
+rarity: R
+number: '43'
+unique: true
+culture: Gollum
+type: Minion
+cost: 2
+str: '0'
+vit: '4'
+res: '3'
+site: 3
+en:
+  title: Gollum
+  subtitle: Hopeless
+  text: At the start of each skirmish involving Gollum, he is strength +X until the end of that skirmish, where X is the Ring-bearer’s strength.
+  lore: Give it to us raw and wriggling!

@@ -1,0 +1,23 @@
+set: '11'
+rarity: R
+number: '186'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Furious Uruk
+  subtitle: ''
+  text: '**Damage +1.** While this minion is assigned to a skirmish, each companion and Free Peoples possession loses its special abilities.'
+  lore: The Uruk-hai attack with such ferocity that their victims find no way to strike back.
+de:
+  title: Wütender Uruk
+  subtitle: ''
+  text: |-
+    **Schaden +1**.  
+    Solange dieser Diener einem Kampf zugewiesen ist, verlieren jeder Gefährte und jede Ausrüstung der Freien Völker ihre Fähigkeiten.
+  lore: Die Uruk-hai greifen mit solcher Wildheit an, dass ihre Opfer sich nicht wehren können.

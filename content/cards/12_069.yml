@@ -1,0 +1,25 @@
+set: '12'
+rarity: R
+number: '69'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Harrying Hillman
+  subtitle: ''
+  text: |-
+    **Lurker.** *(Skirmishes involving lurker minions must be resolved after any others.)*   
+    Each time a companion loses a skirmish involving a :men: minion, add :twilight2:.
+  lore: Though Dunlendings are by no means cowardly, their prowess in battle seems to manifest more as victory grows more assured.
+de:
+  title: Plündernder Bergbewohner
+  subtitle: ''
+  text: |-
+    **Schleicher.** *(Kämpfe mit Schleichern dürfen erst nach allen anderen abgehandelt werden.)*  
+    Erhöhe jedes Mal den Einfluss um :twilight2: wenn ein Gefährte einen Kampf verliert, an dem ein :men: Diener beteiligt ist.
+  lore: Obwohl Dunländer nicht feige sind, scheinen sie mutiger zu sein, wenn ihnen das Kampfglück lacht.

@@ -1,0 +1,22 @@
+set: '12'
+rarity: U
+number: '23'
+unique: true
+culture: Elven
+type: Event
+class: Maneuver
+cost: 3
+en:
+  title: Seclusion
+  subtitle: ''
+  text: |-
+    **Toil 2.** *(For each* :elven: *character you exert when playing this, its twilight cost is –2.)*   
+    Spot an Elf companion to discard a condition from play.
+  lore: ‘We allow no strangers to spy out the secrets of the Naith. Few indeed are permitted even to set foot there.’
+de:
+  title: Abgeschiedenheit
+  subtitle: ''
+  text: |-
+    **Mühe 2.** *(Für jeden *:elven: *Charakter, den du beim Ausspielen dieser Karte anstrengst, reduzieren sich deren Kosten um 2.)*  
+    Entdecke einen Elbengefährten, um einen Effekt aus dem Spiel abzulegen.
+  lore: Wenigen ist es überhaupt je erlaubt worden, den Fuß in dieses Land zu setzen.

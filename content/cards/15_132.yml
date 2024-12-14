@@ -1,0 +1,13 @@
+set: '15'
+rarity: C
+number: '132'
+unique: true
+culture: Rohan
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Our Inspiration
+  subtitle: ''
+  text: 'Spot a :rohan: Man to play a possession from your discard pile for each hunter character you can spot.'
+  lore: Decorative armor adorned the hallways and armories of Helm’s Deep.

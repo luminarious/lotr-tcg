@@ -1,0 +1,15 @@
+set: '18'
+rarity: R
+number: '35'
+unique: true
+culture: Gollum
+type: Event
+class: Regroup
+cost: 10
+en:
+  title: Sting of Shelob
+  subtitle: ''
+  text: |-
+    To play, spot Shelob.  
+    The Free Peoples player chooses two companions. He or she then chooses to place one of those companions in the dead pile and return the other to his or her hand.
+  lore: Poison frothed and bubbled…

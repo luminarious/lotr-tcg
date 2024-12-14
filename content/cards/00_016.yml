@@ -1,0 +1,15 @@
+set: '0'
+rarity: W
+number: '16'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Arwen
+  subtitle: Maiden of Rivendell
+  text: ''
+  lore: …and she was called Undómiel, for she was the Evenstar of her people.

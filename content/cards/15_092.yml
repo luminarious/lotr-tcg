@@ -1,0 +1,16 @@
+set: '15'
+rarity: U
+number: '92'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Savage Southron
+  subtitle: ''
+  text: '**Maneuver:** If the Free People’s player has at least 1 site in his or her adventure deck, exert 2 :men: Men to randomly choose a site from that deck. Replace the fellowship’s current site with that site.'
+  lore: The Southrons are skilled at fighting in many different kinds of terrain.

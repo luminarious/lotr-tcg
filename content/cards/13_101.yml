@@ -1,0 +1,25 @@
+set: '13'
+rarity: R
+number: '101'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Voice of the Desert
+  subtitle: SouthronTroop
+  text: |-
+    To play, spot a :men: minion.  
+    While the fellowship is in region 1, each :men: minion cannot take wounds.  
+    While the fellowship is in region 2, each :men: minion is an **archer**.  
+    While the fellowship is in region 3, each :men: minion is **fierce**.
+  lore: ''
+de:
+  title: Die Stimme der Wüste
+  subtitle: Südländischer Elitetrupp
+  text: 'Entdecke einen :men: Diener, um diese Karte zu spielen. Solange sich die Gemeinschaft in Region 1 befindet, kann kein :men: Diener Wunden erleiden. Solange sich die Gemeinschaft in Region 2 befindet, ist jeder :men: Diener **Bogenschütze**. Solange sich die Gemeinschaft in Region 3 befindet, ist jeder :men: Diener **erbittert**.'
+  lore: ''

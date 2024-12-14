@@ -1,0 +1,38 @@
+set: '3'
+rarity: C
+number: '30'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 4
+en:
+  title: Deep in Thought
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Maneuver:** Spot Gandalf and 4 twilight tokens to discard all Shadow conditions. 
+  lore: He was… trying to recall every memory of his former journey in the Mines, and considering anxiously the next course that he should take….
+de:
+  title: In Gedanken versunken
+  subtitle: ''
+  text: '**Zauberspruch.** **Manöver:** Entdecke Gandalf und einen Einfluss von mindestens 4, um alle Schatteneffekte abzulegen.'
+  lore: Er… versuchte, sich alle Erinnerungen an seine frühere Wanderung in den Minen ins Gedächtnis zurückzurufen und überlegte sich besorgt, welchen Weg er nun einschlagen sollte…
+fr:
+  title: Plongé dans ses Pensées
+  subtitle: ''
+  text: |
+    **Sort.** **Manœuvre :** Désignez Gandalf et 4 jetons-crépuscule pour défausser toutes les situations de l’**Ombre.**  
+  lore: Il était plongé dans une profonde réflexion, essayant de rappeler le moindre souvenir de son précédent voyage dans les Mines et considérant avec anxiété quel chemin prendre…
+it:
+  title: Immerso nei Pensieri
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Manovra:** Avvista Gandalf e 4 segnalini Crepuscolo per scartare tutte le condizioni **Ombra.**
+  lore: Cercava di rammentare ogni momento del suo precedente viaggio nelle Miniere; rifletteva inoltre ansiosamente per trovare la via da scegliere…
+es:
+  title: Profundo en el Pensamiento
+  subtitle: ''
+  text: '**Hechizo.** **Maniobra:** Avista a Gandalf y 4 contadores de penumbra para descartar todas las condiciones de **Sombra.**'
+  lore: Estaba… Trataba de recordar todos los detalles de su viaje anterior a las Minas, considerando ansiosamente el camino a seguir…

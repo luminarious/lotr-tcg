@@ -1,0 +1,37 @@
+set: '4'
+rarity: R
+number: '168'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Race Across the Mark
+  subtitle: ''
+  text: |-
+
+    **Skirmish:** Spot a site you control and remove :twilight2: to cancel a skirmish involving an Uruk-hai. 
+  lore: ‘But in the meantime, the Uruk-hai of Isengard can do the dirty work as usual.’
+de:
+  title: Ein Rennen durch die Mark
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. **Kampf** Entdecke einen Ort, den du kontrollierst und verringere den Einfluss um :twilight2:, um einen Kampf, an dem ein Uruk-hai beteiligt ist, aufzuheben.
+  lore: Aber inzwischen können wie gewöhnlich die Uruk-hai von Isengart die Dreckarbeit machen.
+fr:
+  title: Une Course à Travers la Marche
+  subtitle: ''
+  text: '**Combat :** Désignez un site que vous contrôlez et retirez :twilight2: pour annuler un combat impliquant un Ourouk-Haï.'
+  lore: 'Mais en attendant l''Ourouk-haï de l''Isengard peut faire le sale travail, comme toujours.” '
+it:
+  title: Corsa attraverso il Mark
+  subtitle: ''
+  text: |-
+
+    **Schermaglia:** Avvista un sito che controlli e rimuovi :twilight2: per cancellare una schermaglia che coinvolga un Uruk-hai.
+  lore: ‘Ma nel frattempo, gli Uruk-hai di Isengard sbrigheranno come al solito le faccende più pesanti.’
+es:
+  title: Carrera A Través De La Marca
+  subtitle: ''
+  text: '**Escaramuza:** Avista un sitio que controles y quita :twilight2: para cancelar una escaramuza en la que participe un Uruk-hai.'
+  lore: Pero entretanto los Uruk-hai de Isengard pueden hacer el trabajo sucio, como de costumbre.

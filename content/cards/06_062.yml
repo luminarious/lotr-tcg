@@ -1,0 +1,33 @@
+set: '6'
+rarity: R
+number: '62'
+unique: true
+culture: Isengard
+type: Event
+class: Regroup
+cost: 4
+en:
+  title: Fires and Foul Fumes
+  subtitle: ''
+  text: '**Regroup:** Discard 4 :isengard: Orcs to wound a companion 4 times (except the Ring-bearer).'
+  lore: '‘One of them… got caught in a spray of some liquid fire and burned like a torch: a horrible sight.’'
+de:
+  title: Feuer und verpestete Dämpfe
+  subtitle: ''
+  text: '**Sammeln:** Lege 4 :isengard: Orks ab, um einen Gefährten viermal zu verwunden (außer den Ringträger).'
+  lore: 'Einer von ihnen… geriet in einen Strahl von flüssigem Feuer und brannte wie eine Fackel: ein entsetzlicher Anblick.'
+fr:
+  title: Feux et Fumées Nauséabondes
+  subtitle: ''
+  text: '**Ralliement :** Défaussez 4 Orques :isengard: pour blesser un compagnon 4 fois (sauf le Porteur de l’Anneau).'
+  lore: 'L''un d''eux… fut pris dans un jet de feu liquide et flamba comme une torche : un spectacle horrible.” '
+it:
+  title: Vampate di Fuoco e Fetidi Fumi
+  subtitle: ''
+  text: '**Raccolta:** Scarta 4 Orchi :isengard: per ferire 4 volte un compagno (tranne il Portatore dell’Anello).'
+  lore: '‘Uno di essi… fu avviluppato da uno spruzzo di fuoco liquido ed arse come una torcia: uno spettacolo atroce.’'
+es:
+  title: Llamaradas y humaredas nauseabundas
+  subtitle: ''
+  text: '**Reagrupación:** Descarta 4 Orcos :isengard: para herir 4 veces a un compañero (excepto el Portador del Anillo).'
+  lore: 'Uno de ellos… fue salpicado por fuego líquido y ardía como una antorcha: una visión horripilante.'

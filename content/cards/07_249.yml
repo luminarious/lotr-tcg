@@ -1,0 +1,21 @@
+set: '7'
+rarity: R
+number: '249'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Seeking New Foes
+  subtitle: ''
+  text: |-
+    Skirmishes are resolved in an order decided by the first Shadow player.   
+    Each time a :rohan: Man wins a skirmish, place a :rohan: token here. Each :rohan: Man is strength +1 for each token here.   
+    Discard this condition during the regroup phase.
+  lore: ''
+de:
+  title: Nach neuen Feinden Ausschau halten
+  subtitle: ''
+  text: 'Der erste Schattenspieler bestimmt die Reihenfolge, in der Kämpfe abgehandelt werden. Jedes Mal, wenn ein :rohan: Mensch einen Kampf gewinnt, lege eine :rohan: Marke auf diese Karte. Jeder :rohan: Mensch erhält Stärke +1 für jede Marke hier. Lege diesen Effekt in der Sammelphase ab.'
+  lore: ''

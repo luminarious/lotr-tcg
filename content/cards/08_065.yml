@@ -1,0 +1,22 @@
+set: '8'
+rarity: R
+number: '65'
+unique: true
+culture: Raider
+type: Possession
+class: Support Area
+cost: 2
+en:
+  title: Ships of Great Draught
+  subtitle: ''
+  text: |-
+    **Shadow:** Remove a threat or discard a :raider: card from hand to add a :raider: token here.   
+    **Regroup:** Remove 2 :raider: tokens here to place a :raider: card from your discard pile on top of your draw deck.
+  lore: ''
+de:
+  title: Schiffe mit großem Tiefgang
+  subtitle: ''
+  text: |-
+    **Schatten:** Entferne eine Bedrohung oder lege eine :raider: Karte aus deiner Hand ab, um eine :raider: Marke auf diese Karte zu legen.   
+    **Sammeln:** Entferne 2 :raider: Marken von dieser Karte, um eine :raider: Karte aus deinem Ablagestapel oben auf dein Spieldeck zu legen.
+  lore: ''

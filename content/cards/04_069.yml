@@ -1,0 +1,36 @@
+set: '4'
+rarity: R
+number: '69'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Final Count
+  subtitle: ''
+  text: |-
+
+    Each time Legolas wins a skirmish, you may place an :elven: token on this card.   
+    While you can spot X :elven: tokens on this card and the same number of :dwarven: tokens on My Axe Is Notched, Legolas is strength +X (limit +3). 
+  lore: ''
+de:
+  title: Endstand
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn Legolas einen Kampf gewinnt, darfst du eine :elven: Marke auf diese Karte legen. Solange du X :elven: Marken auf dieser Karte und eine gleiche Anzahl an :dwarven: Marken auf Meine Axt ist schartig entdecken kannst, erhält Legolas Stärke +X (maximal +3).'
+  lore: ''
+fr:
+  title: Décompte Final
+  subtitle: ''
+  text: 'Chaque fois que Legolas gagne un combat, vous pouvez déposer un jeton :œ: sur cette carte. Tant que vous pouvez désigner X jetons :œ: sur cette carte et le même nombre de jetons :dwarven: sur Ma Hache Est Ébréchée, Legolas a +X en force (limite de +3).'
+  lore: ''
+it:
+  title: Conteggio Finale
+  subtitle: ''
+  text: 'Ogni volta che Legolas vince una schermaglia, puoi piazzare un segnalino :elven: su questa carta. Mentre puoi avvistare X segnalini :elven: su questa carta e lo stesso numero di segnalini :dwarven: su La Mia Ascia è Scalfita, Legolas aggiunge +X alla forza (limite +3).'
+  lore: ''
+es:
+  title: Cuenta Final
+  subtitle: ''
+  text: 'Cada vez que Legolas gana una escaramuza, pon un contador :elven: en esta carta. Mientras puedas avistar X contadores :elven: en esta carta y el mismo número de contadores :dwarven: en Mi Hacha Tiene Una Muesca, Legolas es fuerza +X (límite +3).'
+  lore: ''

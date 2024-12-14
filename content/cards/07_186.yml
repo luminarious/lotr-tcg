@@ -1,0 +1,23 @@
+set: '7'
+rarity: C
+number: '186'
+unique: true
+culture: Wraith
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Morgul Axe
+  subtitle: ''
+  text: |-
+    Bearer must be a :wraith: Orc.   
+    While you can spot 2 wounds on the Ring-bearer, bearer is **damage +1**.
+  lore: ''
+de:
+  title: Morgulaxt
+  subtitle: ''
+  text: |-
+    Muss auf einen :wraith: Ork gespielt werden.   
+    Solange du 2 Wunden auf dem Ringträger entdecken kannst, erhält der Träger **Schaden +1**.
+  lore: …und sie ergossen sich aus dem Tor in einem endlosen Strom.

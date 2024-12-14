@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '340'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Right
+en:
+  title: Rivendell Terrace
+  subtitle: ''
+  text: '**Sanctuary.** **Fellowship:** Play a Man to draw a card.'
+  lore: ''
+de:
+  title: Die Terrassen von Bruchtal
+  subtitle: ''
+  text: '**Zuflucht.** **Gemeinschaft.** Wenn du einen Menschen spielst, ziehe eine Karte.'
+  lore: ''
+fr:
+  title: Terrasse de Fondcombe
+  subtitle: ''
+  text: '**Sanctuaire.** **Compagnie :** Jouez un Homme pour piocher une carte.'
+  lore: ''
+it:
+  title: Terrazza di Gran Burrone
+  subtitle: ''
+  text: '**Rifugio.** **Compagnia:** Gioca un Uomo per pescare una carta.'
+  lore: ''
+es:
+  title: Terraza de Rivendel
+  subtitle: ''
+  text: Refugio. **Comunidad:** Juega un Hombre para robar una carta.
+  lore: ''

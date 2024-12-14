@@ -1,0 +1,15 @@
+set: '17'
+rarity: R
+number: '23'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Scintillating Bird
+  subtitle: ''
+  text: |-
+    **Spell.**  
+    **Fellowship:** Exert your Wizard and choose an opponent to name either Free Peoples or Shadow. Reveal the top three cards of your deck. If you revealed at least two of the chosen card type, take those cards into hand, otherwise, discard those cards.
+  lore: ''

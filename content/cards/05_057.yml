@@ -1,0 +1,41 @@
+set: '5'
+rarity: U
+number: '57'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Scaling Ladder
+  subtitle: ''
+  text: |-
+    **Machine.**   
+    **Shadow:** Exert an Uruk-hai to place an :isengard: token on this card.   
+    **Skirmish:** Spot an :isengard: token here to heal an Uruk-hai. Discard this condition.
+  lore: Hundreds of long ladders were lifted up. Many were cast down in ruin, but many more replaced them….
+de:
+  title: Sturmleiter
+  subtitle: ''
+  text: '**Kriegsmaschine.** **Schatten:** Strenge einen Uruk-hai an, um eine :isengard: Marke auf diese Karte zu legen. **Kampf** Entdecke eine :isengard: Marke hier, um einen Uruk-hai zu heilen. Lege diesen Effekt ab.'
+  lore: Hunderte von langen Leitern wurden angestellt. Viele wurden umgestürzt und zerstört, aber immer neue angesetzt….
+fr:
+  title: Échelle d'Escalade
+  subtitle: ''
+  text: |-
+    **Machine.**   
+    **Ombre :** Affaiblissez un Ourouk-Haï pour déposer un jeton :isengard: sur cette carte.   
+    **Combat :** Désignez un jeton :isengard: sur cette carte pour guérir un Ourouk-Haï. Défaussez cette situation.
+  lore: 'Beaucoup étaient abattues à demi détruites, mais seulement pour être remplacées par d''autres, en plus grand nombre… '
+it:
+  title: Scala d'Assedio
+  subtitle: ''
+  text: |-
+    **Macchina da Guerra.** **Ombra:** Sforza un Uruk-hai per piazzare un segnalino :isengard: su questa carta.   
+    **Schermaglia:** Avvista qui un segnalino :isengard: per curare un Uruk-hai. Scarta questa condizione.
+  lore: Centinaia di lunghe scale furono appoggiate alle mura. Molte di esse vennero precipitate e distrutte, ma altre le sostituirono…
+es:
+  title: Escala
+  subtitle: ''
+  text: '**Máquina.** ****Sombra:**** Esfuerza un Uruk-hai para poner un contador :isengard: en esta carta. **Escaramuza:** Avista un contador :isengard: aquí para curar un Uruk-hai. Descarta esta condición.'
+  lore: Habían puesto ya centenares de largas escalas. Muchas caían rotas en pedazos, pero eran reemplazadas enseguida…

@@ -1,0 +1,18 @@
+set: '17'
+rarity: C
+number: '59'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Sunland Trooper
+  subtitle: ''
+  text: |-
+    This minion is strength +2 for each :men: possession with a :men: minion stacked on it.  
+    **Maneuver:** Spot X :men: minions stacked on a :men: possession and discard this minion to add :twilightX:.
+  lore: …legions of Haradrim from the South…

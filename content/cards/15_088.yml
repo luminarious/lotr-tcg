@@ -1,0 +1,16 @@
+set: '15'
+rarity: U
+number: '88'
+unique: true
+culture: Man
+type: Condition
+cost: 0
+res: '-1'
+en:
+  title: Pursuing Horde
+  subtitle: ''
+  text: |-
+    To play, spot a :men: Man.  
+    Bearer must be a companion (except the Ring-bearer). Limit 1 per companion.  
+    Each time the fellowship moves, add :twilight1:.
+  lore: Once the Dunlendings track their enemy they will not lose their trail.

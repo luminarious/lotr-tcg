@@ -1,0 +1,13 @@
+set: '11'
+rarity: S
+number: '231'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Left
+en:
+  title: Caras Galadhon
+  subtitle: ''
+  text: '**Forest.** No more than 1 minion can be assigned to each skirmish. '
+  lore: ''

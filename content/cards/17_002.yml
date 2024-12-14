@@ -1,0 +1,15 @@
+set: '17'
+rarity: R
+number: '2'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 4
+en:
+  title: Balin Avenged
+  subtitle: ''
+  text: |-
+    When you play this condition, you may add a :dwarven: token here. While you can spot 4 :dwarven: tokens and 2 Dwarves, each:orc:Orc gains this text "To play, remove an ¥ card from your discard pile from the game.”  
+    **Skirmish:** Discard this condition to exert a minion for each Dwarf you can spot.
+  lore: ''

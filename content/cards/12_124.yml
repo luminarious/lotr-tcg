@@ -1,0 +1,22 @@
+set: '12'
+rarity: R
+number: '124'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Long Live the Halflings
+  subtitle: ''
+  text: |-
+    To play, spot a Hobbit.   
+    **Skirmish:** If your Ring-bearer is assigned to a skirmish, discard this condition to make each companion who has resistance 7 or more strength +2 until the regroup phase.
+  lore: ‘My friends, you bow to no one.’
+de:
+  title: Ein Hoch auf die Halblinge
+  subtitle: ''
+  text: |-
+    Entdecke einen Hobbit, um diesen Effekt zu spielen.   
+    **Kampf:** Lege diesen Effekt ab, wenn der Ringträger einem Kampf zugewiesen ist, um allen Gefährten mit Resistenz 7 oder mehr bis zur Sammelphase Stärke +2 zu geben.
+  lore: Meine Freunde, ihr verneigt euch vor niemandem.

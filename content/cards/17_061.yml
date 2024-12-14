@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '61'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 6
+str: '13'
+vit: '3'
+site: 4
+en:
+  title: Sunland Weaponmaster
+  subtitle: ''
+  text: |-
+    To play, spot 2 :men: Men.  
+    While this minion bears a possession, he is strength +2 for each Free Peoples culture you can spot.
+  lore: War will make corpses of us all.

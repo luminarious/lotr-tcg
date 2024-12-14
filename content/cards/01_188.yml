@@ -1,0 +1,38 @@
+set: '1'
+rarity: U
+number: '188'
+unique: true
+culture: Moria
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: The Long Dark
+  subtitle: ''
+  text: |-
+
+    When the fellowship moves to site 4 or 5, add :twilight2: for each Dwarf companion.   
+    **Skirmish:** Discard this condition to make your :moria: Orc strength +2.
+  lore: ‘So ended the attempt to retake Moria! It was valiant but foolish. The time is not come yet.’
+de:
+  title: Die große Dunkelheit
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Wenn sich die Gemeinschaft zu Ort 4 oder 5 bewegt, erhöhe den Einfluss um :twilight2: für jeden Zwergengefährten. **Kampf** Lege diesen Effekt ab, um einem deiner :moria: Orks Stärke +2 zu geben.'
+  lore: So endete der Versuch, Moria wiederzuerobern! Es war kühn, aber töricht. Die Zeit ist noch nicht gekommen.
+fr:
+  title: La Longue Nuit
+  subtitle: ''
+  text: 'Quand la compagnie se déplace vers le site 4 ou 5, ajoutez :twilight2: pour chaque compagnon Nain. **Combat :** Défaussez cette situation pour donner à un Orque :moria: +2 en force.'
+  lore: ‘Ainsi finit la tentative de reprendre la Moria ! Ce fut courageux mais inconsidéré. Le temps n'est pas encore venu.’
+it:
+  title: La Lunga Tenebra
+  subtitle: ''
+  text: |-
+    Quando la Compagnia si muove ai siti 4 o 5, aggiungi :twilight2: per ogni compagno Nano.   
+    **Schermaglia:** Scarta questa condizione per aggiungere +2 alla forza di un tuo Orco :moria:.
+  lore: ‘In tal modo si concluse il tentativo di riconquistare Moria! Fu valoroso, ma sciocco. L'ora non è ancora giunta.’
+es:
+  title: La Larga Oscuridad
+  subtitle: ''
+  text: 'Cuando la comunidad se mueve al sitio 4 o 5, añade :twilight2: por cada compañero Enano. **Escaramuza:** Descarta esta condición para dar a un Orco :moria: fuerza +2.'
+  lore: ¡Así termino el intento de recuperar Moria! Fue valiente, pero insensato. No ha llegado todavía la hora.

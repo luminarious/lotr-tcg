@@ -1,0 +1,41 @@
+set: '4'
+rarity: C
+number: '322'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Warmed Up a Bit
+  subtitle: ''
+  text: |-
+    **Stealth.**   
+    **Skirmish:** Discard an unbound Hobbit. 
+  lore: ‘…we shall be able to stand again, and walk.’
+de:
+  title: Ein wenig aufgewärmt
+  subtitle: ''
+  text: |-
+    **Heimlichkeit.**  
+    **Kampf** Lege einen nicht-verbundenen Hobbit ab.
+  lore: … können wir vielleicht sogar wieder stehen und gehen.
+fr:
+  title: Un Peu Dérouillés
+  subtitle: ''
+  text: |-
+    **Dissimulation.**  
+    **Combat :** Défaussez un Hobbit dissocié.
+  lore: '…nous pourrons nous tenir debout et marcher.” '
+it:
+  title: Scaldati un Po'
+  subtitle: ''
+  text: |-
+    **Segretezza.**  
+    **Schermaglia:** Scarta un Hobbit Non Legato.
+  lore: ‘…quando ci saremo scaldati un po', forse riusciremo di nuovo a stare in piedi e a camminare.’
+es:
+  title: Desentumecido Un Poco
+  subtitle: ''
+  text: '**Sigilo.** **Escaramuza:** Descarta un Hobbit no-vinculado.'
+  lore: …quizá podamos tenernos en pie y caminar.

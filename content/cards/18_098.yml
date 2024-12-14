@@ -1,0 +1,13 @@
+set: '18'
+rarity: R
+number: '98'
+unique: true
+culture: Rohan
+type: Event
+class: Maneuver
+cost: 3
+en:
+  title: Fall Back to Helm's Deep
+  subtitle: ''
+  text: 'If the fellowship is at a plains site, exert a :rohan: companion to return a minion to its owner’s hand.'
+  lore: This is not a defeat. We will return.

@@ -1,0 +1,37 @@
+set: '2'
+rarity: R
+number: '32'
+unique: true
+culture: Gondor
+type: Possession
+class: Hand Weapon
+cost: 0
+str: '+1'
+en:
+  title: Flaming Brand
+  subtitle: ''
+  text: |-
+    Bearer must be a Man.   
+    This weapon may be borne in addition to 1 other hand weapon.   
+    Bearer is strength +2 and **damage +1** while skirmishing a Nazgûl. 
+  lore: …a glimpse of Strider leaping out of the darkness with a flaming brand of wood in either hand.
+de:
+  title: Flammender Holzscheit
+  subtitle: ''
+  text: Muss auf einen Menschen gespielt werden. Diese Waffe darf zusätzlich zu einer weiteren Handwaffe benutzt werden. Der Träger erhält Stärke +2 und **Schaden +1**, wenn er gegen einen Nazgûl kämpft.
+  lore: …sah er wie durch einen wirbelnden Nebel Streicher aus der Dunkelheit springen mit einem flammenden Holzscheit in jeder Hand.
+fr:
+  title: Brandon Enflammé
+  subtitle: ''
+  text: Le détenteur doit être un Homme. Cette arme peut être détenue en plus d’une autre arme de mêlée. Le détenteur a +2 en force et inflige des **dégâts +1** lorsqu’il combat un Nazgûl.
+  lore: …il aperçu… Grand-Pas qui bondissait hors de l'obscurité, un brandon de bois enflammé dans chaque main.
+it:
+  title: Tizzone Ardente
+  subtitle: ''
+  text: Il possessore deve essere un Uomo. Quest’arma può essere trasportata in aggiunta a un’altra arma da mischia. Il possessore ha +2 alla forza e **Danno +1** mentre schermaglia con un Nazgûl.
+  lore: Riuscì… a scorgere Grampasso che balzava fuori dall'oscurità con un tizzone fiammeggiante in ciascuna mano.
+es:
+  title: Tizón Ardiente
+  subtitle: ''
+  text: El portador debe ser un Hombre. Este arma puede ser llevada además de otro arma de mano. El portador es fuerza +2 y **daño +1** cuando esté en una escaramuza contra un Nazgûl.
+  lore: …a Trancos que salía saltando de la oscuridad, esgrimiendo un tizón ardiente en cada mano.

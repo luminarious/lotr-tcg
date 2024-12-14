@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '175'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: A Task Now to Be Done
+  subtitle: ''
+  text: Spot X Hobbits to make an unbound Hobbit resistance +X.
+  lore: Another opportunity for one of the shire-folk to prove their great worth. You must not fail me.
+de:
+  title: Die Aufgabe muss jetzt erledigt werden
+  subtitle: ''
+  text: Entdecke X Hobbits, um einem nicht-verbundenen Hobbit Resistenz +X zu geben.
+  lore: Wieder einmal kann ein Auenländer seinen hohen Wert unter Beweis stellen. Du darfst mich nicht enttäuschen.

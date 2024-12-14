@@ -1,0 +1,36 @@
+set: '6'
+rarity: C
+number: '81'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Southron Invaders
+  subtitle: ''
+  text: '**Southron.** **Ambush**:twilight1:**.** When you play this minion, you may spot another Southron to play a minion with ambush from your discard pile.'
+  lore: ‘So when you said “Men out of the South, all in red and gold,” I said “were there any oliphaunts?” For if there was, I was going to take a look….’
+de:
+  title: Invasoren aus dem Südland
+  subtitle: ''
+  text: '**Südländer.** **Hinterhalt**: ¤:**.** Du darfst einen anderen Südländer entdecken, wenn du diesen Diener spielst, um einen Diener mit Hinterhalt aus deinem Ablagestapel zu spielen.'
+  lore: 'Als du sagtest: ‘Menschen aus dem Süden, alle in Rot und Gold'', da sagte ich: ‘Waren da irgendwelche Olifanten?’ Denn wenn da welche wären, dann wollte ich sie mir ansehen…'
+fr:
+  title: Envahisseurs Suderons
+  subtitle: ''
+  text: '**Suderon.** Embuscade :twilight1:. Quand vous jouez ce séide, vous pouvez désigner un autre Suderon pour jouer un séide avec embuscade de votre pile de défausse.'
+  lore: 'Alors, quand vous avez parlé d''''Hommes du Sud, tout en rouge et en or”, j''ai dit ‘Y avait-il des oliphants ?''” '
+it:
+  title: Invasori Sudroni
+  subtitle: ''
+  text: '**Sudrone.** Imboscata :twilight1:. Quando giochi questo servitore, puoi avvistare un altro Sudrone per giocare un servitore con Imboscata dalla tua pila degli scarti.'
+  lore: ‘Perciò quando hai detto “Uomini del Sud, tutti vestiti di rosso e oro”, io ti ho domandato se c'erano degli olifanti. Perché se ce ne fossero stati, avrei dato un'occhiata….’
+es:
+  title: Invasores sureños
+  subtitle: ''
+  text: '**Sureño.** Emboscar:twilight1:. Cuando juegas este siervo, puedes avistar otro Sureño para jugar un siervo con emboscar de tu pila de descartes.'
+  lore: 'Por eso cuando tú dijiste: ‘Hombres que vienen del Sur, todos de rojo y oro'', yo te pregunté: ‘¿Había algún Olifante?'', porque si los hay…iré a echar una ojeada.'

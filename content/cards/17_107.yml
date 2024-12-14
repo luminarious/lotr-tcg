@@ -1,0 +1,18 @@
+set: '17'
+rarity: U
+number: '107'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+res: '8'
+en:
+  title: Merry
+  subtitle: In the Bloom of Health
+  text: |-
+    Add 1 to the number of Ents you can spot.  
+    **Regroup:**</br> Exert Merry to place a pipeweed from your discard pile beneath your draw deck.
+  lore: '''I think we may have made a mistake leaving the Shire, Pippin.’'

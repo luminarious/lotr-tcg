@@ -1,0 +1,24 @@
+set: '13'
+rarity: C
+number: '83'
+unique: true
+culture: Man
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Caravan From the South
+  subtitle: ''
+  text: |-
+    To play, spot a :men: minion.  
+    When you play this, if you spot a plains site on the adventure path, reinforce 3 :men: tokens.  
+    Each time the Free Peoples player plays the fellowship’s next site, you may discard a possession from play.
+  lore: ''
+de:
+  title: Karawanenstraßeaus dem Süden
+  subtitle: ''
+  text: |-
+    Entdecke einen :men: Diener, um diesen Effekt zu spielen.  
+    Ergänze 3 :men: Marken, wenn du beim Ausspielen dieser Karte eine Ebene auf dem Abenteuerpfad entdeckst.  
+    Jedes Mal, wenn der Freie Völker Spieler den nächsten Ort der Gemeinschaft aus-spielt, darfst du eine Ausrüstung ablegen.
+  lore: ''

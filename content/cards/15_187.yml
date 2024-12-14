@@ -1,0 +1,13 @@
+set: '15'
+rarity: U
+number: '187'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Left
+en:
+  title: Anduin River
+  subtitle: ''
+  text: '**River.** The fellowship archery total is –3.'
+  lore: ''

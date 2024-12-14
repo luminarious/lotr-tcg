@@ -1,0 +1,33 @@
+set: '5'
+rarity: C
+number: '68'
+unique: true
+culture: Isengard
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Wolf-voices
+  subtitle: ''
+  text: '**Skirmish:** Make an :isengard: Orc strength +2 (and heal it if mounted).'
+  lore: ‘…these howls freeze my blood.’
+de:
+  title: Wolfsstimmen
+  subtitle: ''
+  text: '**Kampf** Gib einem :isengard: Ork Stärke +2 (und heile ihn, wenn er beritten ist).'
+  lore: … dieses Geheul lässt mir das Blut gerinnen.
+fr:
+  title: La Voix des Loups
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force à un Orque :isengard: (et guérissez-le s’il détient une monture).'
+  lore: '… ces hurlements me glacent le sang.” '
+it:
+  title: Voci di Lupo
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Orco :isengard: (e curalo se a cavallo).'
+  lore: ‘…questi ululati mi ghiacciano il sangue.’
+es:
+  title: Voz de lobo
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Orco :isengard: fuerza +2 (y cúralo si lleva una montura).'
+  lore: …esos aullidos me hielan la sangre.

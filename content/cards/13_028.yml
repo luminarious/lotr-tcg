@@ -1,0 +1,14 @@
+set: '13'
+rarity: U
+number: '28'
+unique: true
+culture: Gandalf
+type: Follower
+cost: 2
+en:
+  title: Alatar
+  subtitle: Final Envoy
+  text: |-
+    **Aid –**:twilight2:. *(At the start of the maneuver phase, you may add* :twilight2: *to transfer this to a companion.)*  
+    Each time you transfer this to a companion, you may reinforce a :gandalf: token. While you can spot a :gandalf: companion, each minion skirmishing bearer is strength –1.
+  lore: Third of the Istari to be named, he was clad in sea-blue.

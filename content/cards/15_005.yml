@@ -1,0 +1,16 @@
+set: '15'
+rarity: C
+number: '5'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Gimli
+  subtitle: Eager Hunter
+  text: '**Damage +1. Hunter 3.** *(While skirmishing a non-hunter character, this character is strength +3.)*'
+  lore: ‘Well, after them!’ said Gimli. ‘Dwarves too can go swiftly…’

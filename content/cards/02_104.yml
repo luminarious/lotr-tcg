@@ -1,0 +1,16 @@
+set: '2'
+rarity: C
+number: '104'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+signet: Signet_Gandalf
+en:
+  title: Merry
+  subtitle: Horticulturalist
+  text: '**Fellowship:** Exert Merry to play Farmer Maggot from your draw deck. '
+  lore: ‘Ow… I think I've broken somehing.’

@@ -1,0 +1,33 @@
+set: '6'
+rarity: R
+number: '39'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Don’t Look at Them
+  subtitle: ''
+  text: '**Skirmish:** Spot Sméagol and discard 3 cards from hand to wound a minion Sméagol is skirmishing once (or twice if that minion is a :wraith: minion).'
+  lore: ‘You should not look in when the candles are lit.’
+de:
+  title: Sieh sie nicht an
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Kampf** Lege 3 Karten aus deiner Hand ab, um einen Diener, der gegen Sméagol kämpft, einmal zu verwunden (oder zweimal, wenn es sich um einen :wraith: Diener handelt).'
+  lore: Du solltest nicht hineinsehen, wenn die Kerzen angezündet sind.
+fr:
+  title: Ne les Regardez pas
+  subtitle: ''
+  text: '**Combat :** Défaussez 3 cartes de votre main pour blesser une fois un séide que Sméagol combat (ou deux fois s’il s’agit d’un séide :wraith:).'
+  lore: 'Il vaut mieux ne pas regarder dedans quand les chandelles sont allumées.” '
+it:
+  title: Non Guardarli
+  subtitle: ''
+  text: '**Schermaglia:** Scarta 3 carte dalla mano per ferire una volta un servitore con cui Sméagol sta schermagliando (o due volte se quel servitore è un servitore :wraith:).'
+  lore: ‘Non dovreste guardare quando le candele sono accese.’
+es:
+  title: No las mire
+  subtitle: ''
+  text: '**Escaramuza:** Descarta 3 cartas de la mano para herir una vez a un siervo que esté en una escaramuza contra Sméagol (o dos veces si es un siervo :wraith:).'
+  lore: No debería mirar cuando los cirios están encendidos.

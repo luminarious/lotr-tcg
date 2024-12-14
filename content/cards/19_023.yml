@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '23'
+unique: true
+culture: Orc
+type: Minion
+race: Troll
+cost: 6
+str: '13'
+vit: '3'
+site: 4
+en:
+  title: Troll of the Deep
+  subtitle: Cave Troll
+  text: |-
+    To play, spot an :orc: Orc.  
+    **Skirmish**: Remove a threat to make an :orc: minion strength +2. 
+  lore: Stones to move. Bridges to be rebuilt.

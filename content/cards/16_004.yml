@@ -1,0 +1,18 @@
+set: '16'
+rarity: R
+number: '4'
+unique: true
+culture: Wraith
+type: Minion
+race: Wraith
+cost: 2
+str: '4'
+vit: '2'
+site: 3
+en:
+  title: Dead Faces
+  subtitle: ''
+  text: |-
+    **Enduring.**  
+    Each time the Free Peoples player assigns this minion to a companion, you may spot another :wraith: Wraith and remove :twilight2: to discard a condition.
+  lore: ‘There are dead things, dead faces in the water!’

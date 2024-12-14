@@ -1,0 +1,13 @@
+set: '15'
+rarity: U
+number: '32'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Momentous Gathering
+  subtitle: ''
+  text: 'Choose one: spot an Ent to take a :gandalf: companion into hand from your draw deck; or spot 2 Ents to take a :gandalf: companion and a :gandalf: condition into hand from your draw deck. Shuffle your draw deck.'
+  lore: ‘…I have managed to make a fair number promise to come.’

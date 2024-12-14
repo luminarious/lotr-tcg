@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '93'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Arwen's Fate
+  subtitle: ''
+  text: '**Skirmish:** Exert Aragorn to make Arwen strength +3, or exert Arwen to make Aragorn strength +3.'
+  lore: For the love of a mortal Man, Arwen, daughter of Elrond, must forsake her Elven heritage, and give up forever her journey to the Undying Lands.
+de:
+  title: Arwens Schicksal
+  subtitle: ''
+  text: '**Kampf** Strenge Aragorn an, um Arwen Stärke +3 zu geben; oder strenge Arwen an, um Aragorn Stärke +3 zu geben.'
+  lore: Aus Liebe zu einem Sterblichen muss Elronds Tochter Arwen ihr elbisches Erbe aufgeben und für immer auf die Reise zu den unsterblichen Ländern verzichten.
+fr:
+  title: Le Destin d'Arwen
+  subtitle: ''
+  text: '**Combat :** Affaiblissez Aragorn pour donner à Arwen +3 en force, ou affaiblissez Arwen pour donner à Aragorn +3 en force.'
+  lore: Pour l'amour d'un Homme mortel, Arwen, fille d'Elrond, doit abandonner son héritage elfique, et renoncer pour toujours à son séjour dans les Terres Immortelles.
+it:
+  title: Il Fato di Arwen
+  subtitle: ''
+  text: '**Schermaglia:** Sforza Aragorn per aggiungere +3 alla forza di Arwen, o sforza Arwen per aggiungere +3 alla forza di Aragorn.'
+  lore: Per l'amore di un uomo mortale, Arwen figlia di Elrond, deve abbandonare la sua eredità elfica, e rinunciare per sempre al suo viaggio verso le Terre Immortali
+es:
+  title: El Destino de Arwen
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza a Aragorn para dar fuerza +3 a Arwen, o esfuerza a Arwen para dar fuerza +3 a Aragorn.'
+  lore: Por el amor de un Hombre mortal, Arwen, hija de Elrond, debe abandonar su herencia Élfica, y renunciar para siempre a su viaje a las Tierras Imperecederas.

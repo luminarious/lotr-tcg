@@ -1,0 +1,13 @@
+set: '17'
+rarity: R
+number: '114'
+unique: true
+culture: Uruk-hai
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Land Had Changed
+  subtitle: ''
+  text: Make an Uruk-hai strength +2 (or spot a site you control to make that Uruk-hai strength +3 instead). You may then liberate a site to make that Uruk-hai strength +2 and **damage +1**.
+  lore: '''The Deeping Wall is taken, lord, and all the defense swept away…’'

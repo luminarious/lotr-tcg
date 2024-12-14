@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '171'
+unique: true
+culture: Raider
+type: Event
+class: Regroup
+cost: 3
+en:
+  title: Thrice Outnumbered
+  subtitle: ''
+  text: 'Spot a threat and X :raider: Men to make the Free Peoples player exert X companions (limit 3).'
+  lore: Southward beyond the road lay the main force of the Haradrim….
+de:
+  title: Dreifach überlegen
+  subtitle: ''
+  text: 'Entdecke eine Bedrohung und X :raider: Menschen, um den Freie Völker Spieler zu zwingen, X Gefährten anzustrengen (maximal 3).'
+  lore: Im Süden jenseits der Straße lag die Hauptstreitmacht der Haradrim…

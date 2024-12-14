@@ -1,0 +1,22 @@
+set: '10'
+rarity: U
+number: '114'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Shadowplay
+  subtitle: ''
+  text: |-
+    To play, spot 2 :shire: companions.   
+    Each time a minion is played, you may exert a Hobbit companion to exert that minion (limit once per turn).
+  lore: …it saw a great silent shape, cloaked in a grey shadow, looming against the wavering light behind….
+de:
+  title: Schattenspiel
+  subtitle: ''
+  text: |-
+    Entdecke 2 :shire: Gefährten, um diesen Effekt zu spielen.   
+    Jedes Mal, wenn ein Diener gespielt wird, darfst du einen Hobbitgefährten anstrengen, um diesen Diener anzustrengen (maximal einmal pro Spielzug).
+  lore: … er sah eine große stumme Gestalt, in grauen Schatten gehüllt, drohend aufragend vor dem flackernden Licht dahinter….

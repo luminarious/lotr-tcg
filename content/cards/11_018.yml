@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '18'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '7'
+en:
+  title: Elven Scout
+  subtitle: ''
+  text: While you can spot another Elf, this companion has **muster.** (At the start of the regroup phase, you may discard a card from hand to draw a card.)
+  lore: who draw within a league of the Celebrant escape unnoticed the patrols from Caras Galadhon.
+de:
+  title: Elbischer Späher
+  subtitle: ''
+  text: Solange du einen anderen Elben entdecken kannst, erhält dieser Gefährte **Appell**.
+  lore: Keiner, der sich dem Celebrant auf eine Meile nähert, entgeht den Patrouillen vom Caras Galadhon.

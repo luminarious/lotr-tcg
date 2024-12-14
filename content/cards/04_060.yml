@@ -1,0 +1,36 @@
+set: '4'
+rarity: U
+number: '60'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Blades Drawn
+  subtitle: ''
+  text: |-
+    To play, spot 3 Elves.   
+    For each wound on each minion, that minion is strength -2.   
+    Discard this condition during the regroup phase. 
+  lore: The sword skills of the Elven archers were unexpected.
+de:
+  title: Mit blanker Klinge
+  subtitle: ''
+  text: Entdecke 3 Elben, um diese Karte in deinen Unterstützungsbereich zu spielen. Für jede Wunde, die ein Diener hat, erhält dieser Stärke -2. Dieser Effekt wird in der Sammelphase abgelegt.
+  lore: Das Geschick der elbischen Bogenschützen im Umgang mit dem Schwert kam unerwartet.
+fr:
+  title: Épées Tirées
+  subtitle: ''
+  text: Pour jouer, désignez 3 Elfes. Pour chaque blessure sur chaque séide, ce séide a -2 en force. Défaussez cette situation durant la phase de ralliement.
+  lore: Personne ne s'attend à une telle adresse à l'épée chez les archers Elfes.
+it:
+  title: Lame Sguainate
+  subtitle: ''
+  text: Per giocarla, avvista 3 Elfi. Per ogni ferita su ogni servitore, sottrai -2 alla forza di quel servitore. Scarta questa condizione durante la fase di raccolta.
+  lore: L'abilità con la spada degli arcieri elfici era sorprendente.
+es:
+  title: Hojas Desenvainadas
+  subtitle: ''
+  text: Para jugarla, avista 3 Elfos. Por cada herida en cada siervo, ese siervo es fuerza -2. Descarta esta condición durante la fase de reagrupación.
+  lore: La habilidad con la espada de los arqueros Élficos era inesperada.

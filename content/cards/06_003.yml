@@ -1,0 +1,36 @@
+set: '6'
+rarity: C
+number: '3'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 5
+str: '11'
+vit: '2'
+site: 3
+en:
+  title: Dunlending Footmen
+  subtitle: ''
+  text: The twilight cost of this minion during a skirmish phase is –2.
+  lore: Driven by Saruman’s ranting, waves of Dunlendings descended upon the holdings of Rohan.
+de:
+  title: Dunländisches Fußvolk
+  subtitle: ''
+  text: In der Kampfphase reduzieren sich die Kosten dieses Dieners um 2.
+  lore: Von Sarumans Hetzerei angestachelt, stürzten sich unzählige Dunländer auf die Ländereien Rohans.
+fr:
+  title: Biffins Duns
+  subtitle: ''
+  text: Durant une phase de combat, le coût crépusculaire de ce séide est de –2.
+  lore: Poussé par les déclamations de Saroumane, des vagues de Duns déferlèrent sur les terres de Rohan.
+it:
+  title: Fanti Dunlandiani
+  subtitle: ''
+  text: Sottrai –2 al costo crepuscolo di questo servitore durante una fase di schermaglia.
+  lore: Spronati dalle parole di Saruman, orde di Dunlandiani sciamarono sui possedimenti di Rohan.
+es:
+  title: Soldado Dunlendino
+  subtitle: ''
+  text: El coste de penumbra de este siervo durante la fase de escaramuza es –2.
+  lore: Conducidos por los gritos de Saruman, oleadas de Dunlendinos descendieron hacia las propiedades de Rohan.

@@ -1,0 +1,33 @@
+set: '2'
+rarity: C
+number: '91'
+unique: true
+culture: Sauron
+type: Event
+class: Response
+cost: 0
+en:
+  title: Southern Spies
+  subtitle: ''
+  text: '**Response:** If the Ring-bearer puts on The One Ring, spot a :sauron: minion to make the Free Peoples player discard his or her hand. '
+  lore: ‘They will know all the news now, for they have visited Bill Ferny; and probably that Southerner was a spy as well.’
+de:
+  title: Spione aus dem Süden
+  subtitle: ''
+  text: '**Reaktion:** Entdecke einen :sauron: Diener, wenn der Ringträger den Einen Ring benutzt, um den Freie Völker Spieler zu zwingen, seine Handkarten abzulegen.'
+  lore: Sie werden jetzt über alles Bescheid wissen, denn sie haben Lutz Farning besucht; und wahrscheinlich war auch der Südländer ein Späher.
+fr:
+  title: Espions Méridionaux
+  subtitle: ''
+  text: '**Réponse :** Si le Porteur de l’Anneau met l’Anneau Unique au doigt, désignez un séide :sauron: pour faire défausser la main du joueur des Peuples Libres.'
+  lore: 'Ils doivent tout connaître à présent, car ils sont allés chez Bill Fougeron; et sans doute ce type du Sud était-il un espion, lui aussi.” '
+it:
+  title: Spie del Sud
+  subtitle: ''
+  text: '**Risposta:** Se il Portatore dell’Anello indossa l’Unico Anello, avvista un servitore :sauron: per far scartare al giocatore dei Popoli Liberi la propria mano.'
+  lore: ‘Sapranno tutto, ormai che si sono incontrati con Billy Felci; e probabilmente quel tipo del Sud era anche lui una spia.’
+es:
+  title: Espías Sureños
+  subtitle: ''
+  text: '**Respuesta:** Si el Portador del Anillo se pone El Anillo Único, avista un siervo :sauron: para hacer que el jugador de Gentes Libres descarte su mano.'
+  lore: Ya sabrán todas las noticias ahora, porque han visitado a Bill Helechal; y probablemente ese Sureño era un espía también.

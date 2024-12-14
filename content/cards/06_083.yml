@@ -1,0 +1,34 @@
+set: '6'
+rarity: U
+number: '83'
+unique: true
+culture: Wraith
+type: Possession
+class: Mount
+cost: 0
+str: '+2'
+en:
+  title: Fell Beast
+  subtitle: ''
+  text: To play, discard 2 cards from hand. Bearer must be a Nazgûl. Bearer is fierce.
+  lore: ‘And these winged creatures that they ride on now, they can probably see more than any other creature. They are like great carrion birds.’
+de:
+  title: Geflügeltes Untier
+  subtitle: ''
+  text: Lege 2 Karten aus deiner Hand ab, um diese Karte zu spielen. Muss auf einen Nazgûl gespielt werden. Der Reiter ist erbittert.
+  lore: Und diese geflügelten Wesen, auf denen sie jetzt reiten, können wahrscheinlich mehr sehen als jedes andere Geschöpf. Sie sind wie große Aasvögel.
+fr:
+  title: Cruelle Bête
+  subtitle: ''
+  text: Pour jouer, défaussez 2 cartes de votre main. Le détenteur doit être un Nazgûl. Le détenteur est acharné.
+  lore: 'Et ces créatures ailées qu''ils montent à présent, elles voient sans doute mieux qu''aucune autre. Elles ressemblent à de grands oiseaux charognards.” '
+it:
+  title: Orrida Bestia
+  subtitle: ''
+  text: Per giocarlo, scarta 2 carte dalla mano. Il possessore deve essere un Nazgûl. Il possessore è feroce.
+  lore: ‘E quelle creature alate sulle quali ora cavalcano hanno probabilmente una vista più acuta di qualunque altro essere vivente. Sono simili a grossi uccelli rapaci.’
+es:
+  title: Bestia Feroz
+  subtitle: ''
+  text: Para jugarla, descarta 2 cartas de la mano. El portador debe ser un Nazgûl. El portador es fiero.
+  lore: Y estas criaturas aladas en las que ahora cabalgan tienen la vista más aguda que cualquiera otra. Son como grandes aves de rapiña.

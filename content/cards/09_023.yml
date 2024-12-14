@@ -1,0 +1,16 @@
+set: '9'
+rarity: R
+number: '23'
+unique: true
+culture: Elven
+type: Artifact
+class: Ring
+cost: 0
+vit: '+1'
+en:
+  title: Vilya
+  subtitle: Ring of Air
+  text: |-
+    Bearer must be Elrond or Gil-galad.   
+    **Skirmish:** Discard the top card of your draw deck. Make a minion skirmishing an Elf strength –X, where X is the twilight cost of the discarded card. Discard this artifact. 
+  lore: Gil-galad before he died gave his ring to Elrond….

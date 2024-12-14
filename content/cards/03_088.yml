@@ -1,0 +1,37 @@
+set: '3'
+rarity: U
+number: '88'
+unique: true
+culture: Sauron
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Get Off the Road!
+  subtitle: ''
+  text: |-
+    **Search.**   
+    **Shadow:** Spot a :sauron: minion and a Nazgûl to make the Free Peoples player discard a card from the top of his or her deck for each burden you can spot. 
+  lore: ‘The Morgul-lord and his Black Riders have come forth. War is preparing!’
+de:
+  title: Los, von der Strasse runter!
+  subtitle: ''
+  text: '**Suche.** **Schatten:** Entdecke einen :sauron: Diener und einen Nazgûl, um den Freie Völker Spieler zu zwingen, für jede Lastmarke, die du entdecken kannst, eine Karte von seinem Spieldeck abzulegen.'
+  lore: Der Morgul-Fürst und seine Schwarzen Reiter sind wieder in Erscheinung getreten. Der Krieg bereitet sich vor!
+fr:
+  title: Quittez la Route!
+  subtitle: ''
+  text: |-
+    **Recherche.**  
+    Ombre : Désignez un séide :sauron: et un Nazgûl pour obliger le joueur des Peuples Libres à défausser une carte du dessus de sa pioche pour chaque point-fardeau que vous pouvez désigner.
+  lore: 'Le Seigneur de Morgul et ses Cavaliers Noirs se sont avancés. La guerre se prépare!” '
+it:
+  title: Via dalla Strada!
+  subtitle: ''
+  text: '**Ricerca.** **Ombra:** Avvista un servitore :sauron: e un Nazgûl per far scartare una carta al giocatore dei Popoli Liberi dalla cima del suo mazzo di gioco per ogni segnalino fardello che puoi avvistare.'
+  lore: ‘Il Signore di Morgul ed i suoi Cavalieri Neri si sono fatti avanti. La guerra si sta preparando!’
+es:
+  title: ¡Salid del Camino!
+  subtitle: ''
+  text: '**Búsqueda.** **Sombra:** Avista un siervo :sauron: y un Nazgûl para hacer que el jugador de Gentes Libres descarte una carta de la parte superior de su mazo de robar por cada carga que puedas avistar.'
+  lore: El Señor de Morgul y sus Jinetes Negros han venido. ¡Se prepara la guerra!

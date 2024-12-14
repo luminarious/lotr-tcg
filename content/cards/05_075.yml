@@ -1,0 +1,42 @@
+set: '5'
+rarity: C
+number: '75'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 3
+str: '4'
+vit: '1'
+site: 4
+en:
+  title: Southron Runner
+  subtitle: ''
+  text: |-
+    **Southron.** **Ambush** :twilight2:.   
+    While you can spot a Southron, this minion’s twilight cost is -2.
+  lore: Swift scouts track enemy movements to set up surprise attacks.
+de:
+  title: Südland Läufer
+  subtitle: ''
+  text: |-
+    **Südländer.** **Hinterhalt** :twilight2:.  
+    Solange du einen Südländer entdecken kannst, reduzieren sich die Zwielichtkosten dieses Dieners um 2.
+  lore: Leichtfüßige Kundschafter verfolgten die Bewegungen des Feindes, um Hinterhalte zu legen.
+fr:
+  title: Coureur Suderon
+  subtitle: ''
+  text: |-
+    **Suderon** **Embuscade** :twilight2:**.**   
+    Tant que vous pouvez désigner un Suderon, le coût crépusculaire de ce séide est de -2.
+  lore: Des éclaireurs vigoureux suivent les mouvements des ennemis afin d'organiser des attaques surprises.
+it:
+  title: Corridore Sudrone
+  subtitle: ''
+  text: '**Sudrone.** Imboscata :twilight2:. Mentre puoi avvistare un Sudrone, sottrai -2 al costo crepuscolo di questo servitore.'
+  lore: Abili guide, seguono i movimenti del nemico per preparare degli attacchi a sorpresa.
+es:
+  title: Corredor Sureño
+  subtitle: ''
+  text: '**Sureño.** Emboscar :twilight2:. Mientras puedas avistar un Sureño, el coste de penumbra de este siervo es -2.'
+  lore: Veloces exploradores siguen los movimientos del enemigo para preparar ataques por sorpresa.

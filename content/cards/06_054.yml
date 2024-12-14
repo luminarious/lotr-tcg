@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '54'
+unique: true
+culture: Gondor
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: Perilous Ventures
+  subtitle: ''
+  text: '**Regroup:** Exert 2 rangers to discard a minion (or 2 :wraith: minions).'
+  lore: ‘But still we will not sit idle and let Him do all as He would….’
+de:
+  title: Gefährliche Unterfangen
+  subtitle: ''
+  text: '**Sammeln:** Strenge 2 Waldläufer an, um einen Diener (oder 2 :wraith: Diener) abzulegen.'
+  lore: Aber dennoch wollen wir nicht müßig dasitzen und Ihn alles tun lassen, wie Er es möchte…
+fr:
+  title: Entreprises Périlleuses
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez 2 rôdeurs pour défausser un séide (ou 2 séides :wraith:).'
+  lore: 'Mais nous ne restons toutefois pas inactifs, Le laissant tout faire à Sa guise.” '
+it:
+  title: Pericolose Avventure
+  subtitle: ''
+  text: '**Raccolta:** Sforza 2 raminghi per scartare un servitore (o 2 servitori :wraith:).'
+  lore: ‘Eppure noi non rimaniamo oziosi e non Gli lasciamo fare tutto il male che vorrebbe….’
+es:
+  title: Empresas peligrosas
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza 2 montaraces para descartar un siervo (o 2 siervos :wraith:).'
+  lore: Pero no nos sentamos ociosos y le dejamos hacer lo que Él quiera…

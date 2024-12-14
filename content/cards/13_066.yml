@@ -1,0 +1,19 @@
+set: '13'
+rarity: C
+number: '66'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '7'
+en:
+  title: Faramir
+  subtitle: Prince of Ithilien
+  text: |-
+    While you can spot Boromir, Faramir is twilight cost –1.  
+    While you can spot Denethor, Faramir is twilight cost –1.  
+    While Faramir bears a :gondor: possession, he is **defender +1**.
+  lore: ‘Do you wish then… that our places had been exchanged?’

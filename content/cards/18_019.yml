@@ -1,0 +1,13 @@
+set: '18'
+rarity: C
+number: '19'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Drawn to Full Height
+  subtitle: ''
+  text: '**Spell.** Spot a :gandalf: Wizard to make a minion lose all strength bonuses from possessions.'
+  lore: I am not trying to rob you. I'm trying to help you.

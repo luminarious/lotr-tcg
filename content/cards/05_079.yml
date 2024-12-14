@@ -1,0 +1,41 @@
+set: '5'
+rarity: U
+number: '79'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Armory
+  subtitle: ''
+  text: |-
+    **Fortification.**   
+    **Maneuver:** Spot 2 :rohan: Men to remove 2 tokens from a machine or to take a :rohan: possession into hand from your discard pile. Discard this condition.
+  lore: ‘Choose from these ere we go, and may they serve you well!’
+de:
+  title: Rüstkammer
+  subtitle: ''
+  text: '**Befestigung.** **Manöver:** Entdecke 2 :rohan: Menschen, um 2 Marken von einer Kriegsmaschine zu entfernen oder um eine :rohan: Ausrüstung aus deinem Ablagestapel wieder auf deine Hand zu nehmen. Lege diesen Effekt ab.'
+  lore: Wählt unter diesen, ehe wir aufbrechen…!
+fr:
+  title: Armurerie
+  subtitle: ''
+  text: |-
+    **Fortification.**   
+    **Manœuvre :** Désignez 2 Hommes :rohan: pour retirer 2 jetons d’une machine ou pour prendre en main une possession :rohan: de votre pile de défausse. Défaussez cette situation.
+  lore: 'Choisissez parmi eux avant notre départ, et qu''ils vous servent bien!” '
+it:
+  title: Armeria
+  subtitle: ''
+  text: |-
+    **Fortificazione.**   
+    **Manovra:** Avvista 2 Uomini :rohan: per rimuovere 2 segnalini da una macchina da guerra o per aggiungere alla mano un bene :rohan: dalla tua pila degli scarti. Scarta questa condizione.
+  lore: ‘Scegliete prima di partire qualcosa che possa servirvi validamente!’
+es:
+  title: Armería
+  subtitle: ''
+  text: |-
+    **Fortificación.**   
+    **Maniobra:** Avista 2 Hombres :rohan: para quitar dos contadores de una máquina o para tomar una posesión :rohan: de tu pila de descartes a tu mano. Descarta esta condición.
+  lore: ¡Escoged lo que queráis antes de la partida, y ojalá os sirvan bien!

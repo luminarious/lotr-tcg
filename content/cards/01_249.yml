@@ -1,0 +1,36 @@
+set: '1'
+rarity: U
+number: '249'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Gleaming Spires Will Crumble
+  subtitle: ''
+  text: |-
+
+    Each :sauron: Orc skirmishing a :gondor: character is strength +2.   
+    Discard this condition if your :sauron: Orc loses a skirmish.
+  lore: Gondor has long been a target for the wrath of Sauron the Great.
+de:
+  title: Die glänzenden Türme werden zerfallen
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Alle :sauron: Orks, die gegen einen :gondor: Charakter kämpfen, erhalten Stärke +2. Lege diesen Effekt ab, wenn einer deiner :sauron: Orks einen Kampf verliert.'
+  lore: Gondor ist schon lange das Ziel des Hasses von Sauron, dem Großen.
+fr:
+  title: Les Tours Rayonnantes s'Écrouleront
+  subtitle: ''
+  text: 'Chaque Orque :sauron: combattant un personnage :gondor: a +2 en force. Défaussez cette situation si votre Orque :sauron: perd un combat.'
+  lore: Le Gondor a longtemps été la cible du courroux de Sauron le Grand.
+it:
+  title: Scintillanti Guglie Crolleranno
+  subtitle: ''
+  text: 'Ogni Orco :sauron: che stia schermagliando con un personaggio :gondor: aggiunge +2 alla forza. Scarta questa condizione se un tuo Orco :sauron: perde una schermaglia.'
+  lore: Gondor è stata da lungo tempo il bersaglio della collera di Sauron il Grande.
+es:
+  title: Relucientes Espiras Se Derrumbaran
+  subtitle: ''
+  text: 'Cada Orco :sauron: en una escaramuza contra un personaje :gondor: es fuerza +2. Descarta esta condición si tu Orco :sauron: pierde una escaramuza.'
+  lore: Gondor ha sido durante mucho el objetivo de la ira de Sauron el Grande.

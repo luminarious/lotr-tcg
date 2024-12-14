@@ -1,0 +1,25 @@
+set: '12'
+rarity: C
+number: '149'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '11'
+vit: '3'
+site: 5
+en:
+  title: Uruk Common
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    Each time this minion is assigned to a skirmish, if it is not at a battleground site, remove :twilight2: or discard this minion. 
+  lore: Casualties of war were neither honored nor remembered by the White Hand.
+de:
+  title: Einfacher Uruk
+  subtitle: ''
+  text: |-
+    **Schaden +1**.  
+    Jedes Mal, wenn dieser Diener einem Kampf zugewiesen wird, der nicht auf einem Schlachtfeld stattfindet, verringere den Einfluss um :twilight2: oder lege diesen Diener ab.
+  lore: Gefallene wurden von der Weißen Hand wedergeehrt noch wurde ihrer gedacht.

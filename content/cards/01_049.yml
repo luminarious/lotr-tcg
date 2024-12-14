@@ -1,0 +1,38 @@
+set: '1'
+rarity: R
+number: '49'
+unique: true
+culture: Elven
+type: Condition
+cost: 1
+en:
+  title: The Last Alliance of Elves and Men
+  subtitle: ''
+  text: |-
+    **Tale.** Bearer must be a :gondor: Man. Limit 1 per bearer.   
+    Bearer is strength +1 for each Elf you can spot (limit +3).
+  lore: But Sauron of Mordor assailed them, and they made the Last Alliance of Elves and Men, and the hosts of Gil-galad and Elendil were mustered….
+de:
+  title: Das letzte Bündnis zwischen Elben und Menschen
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    Muss auf einen :gondor: Menschen gepielt werden. Maximal 1 pro Träger. Der Träger erhält Stärke +1 für jeden Elben, den du entdecken kannst (maximal Stärke +3).
+  lore: Doch Sauron von Mordor überfiel sie, und sie schlossen das Letzte Bündnis zwischen Elben und Menschen, und die Heerscharen von Gil-galad und Elendil sammelten sich…
+fr:
+  title: La Dernière Alliance des Elfes et des Hommes
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Le détenteur doit être un Homme :gondor:. Limité à 1 par détenteur. Le détenteur a +1 en force pour chaque Elfe que vous pouvez désigner (limité à +3).
+  lore: Mais Sauron de Mordor les assaillit, et ils firent la Dernière Alliance des Elfes et des Hommes, et les armées de Gil-galad et d'Elendil furent rassemblées….
+it:
+  title: L'Ultima Alleanza di Elfi e Uomini
+  subtitle: ''
+  text: '**Racconto.** Il possessore deve essere un Uomo :gondor:. Limite 1 per possessore. Aggiungi +1 alla forza del possessore per ogni Elfo che puoi avvistare (limite +3).'
+  lore: Ma furono assaliti da Sauron di Mordor, e si unirono nell'Ultima Alleanza di Elfi e Uomini, e le schiere di Gil-galad e di Elendil si radunarono….
+es:
+  title: La Última Alianza de Los Elfos y Los Hombres
+  subtitle: ''
+  text: '**Cuento.**El portador debe ser un Hombre :gondor:. Limite 1 por portador. El portador es fuerza +1 por cada Elfo que puedas avistar (limite +3).'
+  lore: Pero Sauron de Mordor los ataco, y convinieron la Ultima Alianza de los Elfos y los Hombres, y las huestes de Gil-Galad y Elendil se reunieron…

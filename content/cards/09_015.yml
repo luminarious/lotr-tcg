@@ -1,0 +1,17 @@
+set: '9'
+rarity: R+
+number: '15'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 5
+str: '9'
+vit: '4'
+en:
+  title: Gil-galad
+  subtitle: Elven High King
+  text: |-
+    To play, spot 2 :elven: companions.   
+    **Regroup:** Exert Gil-galad to wound each wounded minion. 
+  lore: '‘Gil-galad was an Elven-king. / Of him the harpers sadly sing: / the last whose realm was fair and free / between the Mountains and the Sea.’'

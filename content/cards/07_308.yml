@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '308'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Rally the Host
+  subtitle: ''
+  text: |-
+    To play, spot 2 :sauron: Orcs.   
+    **Regroup:** Exert a :sauron: Orc and remove a threat to shuffle a :sauron: Orc from play into your draw deck.
+  lore: ''
+de:
+  title: Sammeln der Truppen
+  subtitle: ''
+  text: |-
+    Entdecke 2 :sauron: Orks, um diesen Effekt zu spielen.   
+    **Sammeln:** Strenge einen :sauron: Ork an und entferne eine Bedrohung, um einen :sauron: Ork aus dem Spiel in dein Spieldeck zu mischen.
+  lore: Und jetzt nahm die Kampfeswut auf den Feldern des Pelennor zu…

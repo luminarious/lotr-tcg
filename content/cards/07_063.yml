@@ -1,0 +1,24 @@
+set: '7'
+rarity: R
+number: '63'
+unique: true
+culture: Gollum
+type: Condition
+cost: 1
+en:
+  title: Let Her Deal With Them
+  subtitle: ''
+  text: |-
+    To play, spot Gollum or Sméagol. Bearer must be a minion. Limit 1 per bearer.   
+    Bearer is **Damage +1.**   
+    If you have initiative during the Shadow phase, you may play this condition from your discard pile.
+  lore: ''
+de:
+  title: Lass Sie es tun
+  subtitle: ''
+  text: |-
+    Entdecke Gollum oder Sméagol, um diese Karte zu spielen.   
+    Muss auf einen Diener gespielt werden. Maximal 1 pro Träger.   
+    Der Träger erhält **Schaden +1**.   
+    Wenn du in der Schattenphase die Initiative besitzt, darfst du diese Karte aus deinem Ablagestapel spielen.
+  lore: ''

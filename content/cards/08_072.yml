@@ -1,0 +1,16 @@
+set: '8'
+rarity: R
+number: '72'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 7
+str: '13'
+vit: '3'
+site: 4
+en:
+  title: Gothmog
+  subtitle: Morgul Commander
+  text: 'While you have initiative, each :wraith: minion is an archer.'
+  lore: ''

@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '97'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Raging Dunlending
+  subtitle: ''
+  text: 'When you play this minion, you may exert it to make it fierce until the regroup phase. While you can spot 6 companions, each :men: minion is **Fierce.** '
+  lore: Furious hatred over the land they've lost drives the mobs of Dunland.
+de:
+  title: Rasender Dunländer
+  subtitle: ''
+  text: 'Wenn du diesen Diener spielst, darfst du ihn anstrengen, um ihn bis zur Sammelphase erbittert zu machen. Solange du 6 Gefährten entdecken kannst, ist jeder :men: Diener **erbittert.**'
+  lore: Blanker Hass wegen ihrer verlorenen Ländereien treibt die Mobs aus Dunland an.

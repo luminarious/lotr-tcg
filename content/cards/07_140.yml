@@ -1,0 +1,25 @@
+set: '7'
+rarity: C
+number: '140'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Easterling Assailant
+  subtitle: ''
+  text: |-
+    **Easterling.**   
+    **Skirmish:** Remove a burden and exert this minion to heal another Easterling (or 2 Easterlings if you have initiative).
+  lore: ''
+de:
+  title: Vorstürmender Ostling
+  subtitle: ''
+  text: |-
+    **Ostling.**   
+    **Kampf:** Entferne eine Lastmarke und strenge diesen Diener an, um einen anderen Ostling zu heilen (oder 2 Ostlinge, wenn du die Initiative besitzt).
+  lore: Das neue Heer, von dem wir gehört haben, ist zuerst gekommen.

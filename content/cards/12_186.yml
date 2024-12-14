@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '186'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Left
+en:
+  title: The Bridge of Khazad-dûm
+  subtitle: ''
+  text: '**Battleground. Underground.** The Balrog is twilight cost –3.'
+  lore: ''
+de:
+  title: Die Brücke von Khazad-dûm
+  subtitle: ''
+  text: '**Schlachtfeld. Unterirdisch.** Die Zwielichtkosten des Balrogs reduzieren sich um 3.'
+  lore: ''

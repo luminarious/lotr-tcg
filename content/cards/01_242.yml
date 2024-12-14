@@ -1,0 +1,35 @@
+set: '1'
+rarity: U
+number: '242'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: The Dark Lord's Summons
+  subtitle: ''
+  text: |-
+    **Search.** To play, spot a :sauron: Orc.   
+    **Shadow:** Remove :twilight3: to reveal the top card of your draw deck. If it is a :sauron: card, take it into hand. Otherwise, discard it and one other card from hand.
+  lore: Orcs obey the Dark Lord unquestioningly.
+de:
+  title: Der Ruf des dunklen Herrschers
+  subtitle: ''
+  text: '**Suche.** Entdecke einen :sauron: Ork, um diese Karte in deinen Unterstützungsbereich zu spielen. **Schatten:** Verringere den Einfluss um :twilight3:, um die oberste Karte deines Spieldecks aufzudecken. Wenn es eine :sauron: Karte ist, nimm sie in deine Hand. Anderenfalls lege sie und eine weitere Karte aus deiner Hand ab.'
+  lore: Orks folgen dem dunklen Herrscher, ohne zu zögern.
+fr:
+  title: L'Appel du Seigneur Ténébreux
+  subtitle: ''
+  text: '**Recherche.** Pour jouer, désignez un Orque :sauron:. Ombre : Retirez :twilight3: pour révéler la première carte de votre pioche. Si c’est une carte :sauron:, prenez-la en main. Autrement, défaussez-la ainsi qu’une autre carte de votre main.'
+  lore: Les Orques obéissent au Seigneur Ténébreux sans poser de questions.
+it:
+  title: Le Evocazioni dell'Oscuro Signore
+  subtitle: ''
+  text: '**Ricerca.** Per giocarla, avvista un Orco :sauron:. Giocala nella tua area di supporto.**Ombra:** Rimuovi :twilight3: per rivelare la prima carta del tuo mazzo di gioco. Se è una carta :sauron:, aggiungila alla tua mano. Altrimenti, scarta quella e un’altra carta dalla mano.'
+  lore: Gli Orchi obbediscono all'Oscuro Signore senza far domande.
+es:
+  title: La Llamada del Señor Oscuro
+  subtitle: ''
+  text: '**Búsqueda.** Para jugarla, avista un Orco :sauron:. **Sombra:** Quita :twilight3: para revelar la carta superior de tu mazo de robar. Si es una carta :sauron:, cógela a tu mano. De lo contrario, descarta esa y otra carta de tu mano.'
+  lore: Los Orcos obedecen al Señor Oscuro sin hacer preguntas.

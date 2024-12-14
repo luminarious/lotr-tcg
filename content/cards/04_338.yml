@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '338'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Right
+en:
+  title: Golden Hall
+  subtitle: ''
+  text: '**Sanctuary.** When the fellowship moves to Golden Hall, all Free Peoples weapons must be discarded. '
+  lore: ''
+de:
+  title: Die Goldene Halle
+  subtitle: ''
+  text: '**Zuflucht.** Wenn sich die Gemeinschaft zur Goldenen Halle bewegt, müssen alle Waffen der Freien Völker abgelegt werden.'
+  lore: ''
+fr:
+  title: Les Tombeaux d'Edoras
+  subtitle: ''
+  text: '**Sanctuaire.** **Compagnie :** Placez votre main sous votre pioche et piochez 4 cartes.'
+  lore: ''
+it:
+  title: Palazzo d'Oro
+  subtitle: ''
+  text: '**Rifugio.** Quando la compagnia si muove a Palazzo d’Oro, tutte le armi dei Popoli Liberi devono essere scartate.'
+  lore: ''
+es:
+  title: Castillo Dorado
+  subtitle: ''
+  text: '**Santuario.** Cuando la comunidad se mueve al Castillo Dorado, todas las armas de Gentes Libres deben ser descartadas.'
+  lore: ''

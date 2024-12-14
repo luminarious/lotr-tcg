@@ -1,0 +1,35 @@
+set: '1'
+rarity: U
+number: '202'
+unique: true
+culture: Moria
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: What Is This New Devilry?
+  subtitle: ''
+  text: |-
+    **Search.** To play, exert a :moria: Orc.   
+    While the fellowship is at site 5 or higher, each companion’s twilight cost is +2.
+  lore: ‘This foe is beyond any of you! Run!’
+de:
+  title: Was ist das für eine neue Teufelei?
+  subtitle: ''
+  text: '**Suche.** Strenge einen :moria: Ork an, um diese Karte in deinen Unterstützungsbereich zu spielen. Solange sich die Gemeinschaft an Ort 5 oder höher aufhält, erhöhen sich die Zwielichtkosten der Gefährten um 2.'
+  lore: Das ist ein Feind, gegen den ihr alle nichts ausrichten könnt! Flieht!
+fr:
+  title: Quelle est cette Nouvelle Diablerie ?
+  subtitle: ''
+  text: '**Recherche.** Pour jouer, affaiblissez un Orque :moria:. Tant que la compagnie est au site 5 ou supérieur, le coût crépusculaire de chaque compagnon est de +2.'
+  lore: ‘L'ennemi est derrière vous ! Courez !’
+it:
+  title: Che Cos'è Questa Nuova Diavoleria?
+  subtitle: ''
+  text: '**Ricerca.** Per giocare, sforza un Orco :moria:. Finché la Compagnia è al sito 5 o superiore, aggiungi +2 al costo crepuscolo di ogni compagno.'
+  lore: ‘Questo nemico è dietro tutti voi! Correte!’
+es:
+  title: ¿Que Es Esta Nueva Maldad?
+  subtitle: ''
+  text: '**Búsqueda.** Para jugarlo, esfuerza un Orco :moria:. Mientras la comunidad esta en el sitio 5 o superior, el coste de penumbra de cada compañero es +2.'
+  lore: ¡Este enemigo os sobrepasa! Huid Insensatos!

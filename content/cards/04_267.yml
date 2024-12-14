@@ -1,0 +1,18 @@
+set: '4'
+rarity: R
+number: '267'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Theoden
+en:
+  title: Éomer
+  subtitle: Third Marshal of Riddermark
+  text: |-
+    While you can spot a :rohan: Man, Éomer’s twilight cost is -1.   
+    Éomer is strength +2 for each wound on each minion he is skirmishing. 
+  lore: Then one rode forward, a tall man, taller than the rest; from his helm as a crest a white horsetail flowed.

@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '355'
+unique: true
+culture: ''
+type: Site
+cost: 7
+siteArrow: Right
+en:
+  title: Cavern Entrance
+  subtitle: ''
+  text: '**Underground.** Skirmish events may not be played and skirmish special abilities may not be used. '
+  lore: ''
+de:
+  title: Höhleneingang
+  subtitle: ''
+  text: '**Unterirdisch.** Kampfereignisse dürfen hier nicht gespielt und besondere Kampffähigkeiten dürfen nicht benutzt werden.'
+  lore: ''
+fr:
+  title: L'Armurerie de Fort le Cor
+  subtitle: ''
+  text: '**Souterrain.** Les événements de combats ne peuvent pas être joués, et les capacités spéciales de combat ne peuvent pas être utilisées.'
+  lore: ''
+it:
+  title: Entrata della Caverna
+  subtitle: ''
+  text: '**Sotterraneo.** Eventi di schermaglia non possono essere giocati e le abilità speciali di schermaglia non possono essere usate.'
+  lore: ''
+es:
+  title: Entrada De La Caverna
+  subtitle: ''
+  text: '**Subterráneo.** No se pueden jugar eventos de escaramuza y no se pueden usar habilidades especiales de escaramuza.'
+  lore: ''

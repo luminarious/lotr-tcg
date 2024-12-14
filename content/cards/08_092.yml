@@ -1,0 +1,19 @@
+set: '8'
+rarity: R
+number: '92'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Théoden
+  subtitle: Tall and Proud
+  text: |-
+    **Valiant.**   
+    While you can spot a :rohan: Man, Théoden’s twilight cost is –1.   
+    If Théoden is killed, you may play a :rohan: companion from your discard pile or draw deck.
+  lore: …into their minds a blackness came, and they thought no more of war, but only of hiding and of crawling, and of death.

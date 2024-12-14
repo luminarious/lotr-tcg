@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '116'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '1'
+site: 4
+en:
+  title: Denizen of Moria
+  subtitle: ''
+  text: While this minion is at an underground site, it is strength +3.
+  lore: The vast tunnels of Khazad-dûm are the veins through which a foul Orc ichor can flow unchecked.
+de:
+  title: Bewohner von Moria
+  subtitle: ''
+  text: Solange sich dieser Diener an einem unterirdischen Ort befindet, erhält er Stärke +3.
+  lore: In den Tunneln von Kazad-dûm verbreiten sich die Orks wie die Pest.

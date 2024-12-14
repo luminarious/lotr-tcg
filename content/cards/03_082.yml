@@ -1,0 +1,33 @@
+set: '3'
+rarity: U
+number: '82'
+unique: true
+culture: Wraith
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: News of Mordor
+  subtitle: ''
+  text: '**Skirmish:** Spot an :isengard: minion to make a Nazgûl **damage +1.** '
+  lore: ‘Build me an army worthy of Mordor.’
+de:
+  title: Anweisungen aus Mordor
+  subtitle: ''
+  text: '**Kampf** Entdecke einen :isengard: Diener, um einem Nazgûl **Schaden +1** zu geben.'
+  lore: Gib mir eine Armee, die Mordors würdig ist!
+fr:
+  title: Des Nouvelles du Mordor
+  subtitle: ''
+  text: '**Combat :** Désignez un séide :isengard: pour donner des **dégâts +1** à un Nazgûl.'
+  lore: 'Donnez-moi une armée digne du Mordor. '
+it:
+  title: Notizie da Mordor
+  subtitle: ''
+  text: '**Schermaglia:** Avvista un servitore :isengard: per aggiungere **Danno +1** a un Nazgûl.'
+  lore: ‘Costruiscimi un esercito degno di Mordor.’
+es:
+  title: Noticias de Mordor
+  subtitle: ''
+  text: '**Escaramuza:** Avista un siervo :isengard: para darle a un Nazgûl **daño +1.**'
+  lore: Prepárame un ejercito digno de Mordor.

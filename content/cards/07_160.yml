@@ -1,0 +1,25 @@
+set: '7'
+rarity: U
+number: '160'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Southron Bandit
+  subtitle: ''
+  text: |-
+    **Southron.**   
+    **Maneuver:** Exert this minion to add :twilight5:. The Free Peoples player may add a threat to prevent this.
+  lore: ''
+de:
+  title: Südländischer Bandit
+  subtitle: ''
+  text: |-
+    **Südländer.**   
+    **Manöver:** Strenge diesen Diener an, um den Einfluss um :twilight5: zu erhöhen. Der Freie Völker Spieler darf eine Bedrohung entstehen lassen, um dies zu verhindern.
+  lore: …wilde Südländer…

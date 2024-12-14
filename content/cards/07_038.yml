@@ -1,0 +1,23 @@
+set: '7'
+rarity: R
+number: '38'
+unique: true
+culture: Gandalf
+type: Artifact
+class: Staff
+cost: 2
+vit: '+1'
+en:
+  title: Gandalf's Staff
+  subtitle: Focus of Power
+  text: |-
+    Bearer must be Gandalf.   
+    While you can spot 4 twilight tokens, Gandalf is strength +1.
+  lore: ''
+de:
+  title: Gandalfs Stab
+  subtitle: Machtinstrument
+  text: |-
+    Muss auf Gandalf gespielt werden.   
+    Solange du einen Einfluss von :twilight4: entdecken kannst, erhält Gandalf Stärke +1.
+  lore: Wäre Gandalf Sturmkrähe nicht gewesen, ihr hättet ein Heer von Feinden aus Anórien heranrücken sehen, und keine Reiter von Rohan.

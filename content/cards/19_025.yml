@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '25'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '7'
+en:
+  title: Éomer
+  subtitle: Éored Captain
+  text: |-
+    **Valiant.**  
+    Éomer is strength +2 for each wound on each minion he is skirmishing. 
+  lore: Now is the hour, Riders of Rohan, oaths you have taken! Now, fulfill them all! To Lord and Land!

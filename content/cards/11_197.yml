@@ -1,0 +1,21 @@
+set: '11'
+rarity: U
+number: '197'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '7'
+vit: '2'
+site: 5
+en:
+  title: Overpowering Uruk
+  subtitle: ''
+  text: '**Damage +1.** **Muster.** (At the start of the regroup phase, you may discard a card from hand to draw a card.) While this minion is skirmishing a character who has resistance 3 or less, this minion is strength +3.'
+  lore: They make short work of the weak.
+de:
+  title: Übermächtiger Uruk
+  subtitle: ''
+  text: '**Schaden +1**. **Appell**. Dieser Diener erhält Stärke +3, solange er gegen einen Charakter mit Resistenz 3 oder weniger kämpft.'
+  lore: Sie schlachten die Schwachen ab.

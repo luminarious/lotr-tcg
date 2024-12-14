@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '339'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Right
+en:
+  title: Frodo's Bedroom
+  subtitle: ''
+  text: '**Sanctuary.** **Fellowship:** Play a Hobbit to draw a card.'
+  lore: ''
+de:
+  title: Frodos Schlafzimmer
+  subtitle: ''
+  text: '**Zuflucht.** **Gemeinschaft.** Wenn du einen Hobbit spielst, ziehe eine Karte.'
+  lore: ''
+fr:
+  title: Chambre de Frodon
+  subtitle: ''
+  text: '**Sanctuaire.** **Compagnie :** Jouez un Hobbit pour piocher une carte.'
+  lore: ''
+it:
+  title: Camera da Letto di Frodo
+  subtitle: ''
+  text: Rifugion. **Compagnia:** Gioca un Hobbit per pescare una carta.
+  lore: ''
+es:
+  title: El Dormitorio de Frodo
+  subtitle: ''
+  text: Refugio. **Comunidad:** Juega un Hobbit para robar una carta.
+  lore: ''

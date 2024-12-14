@@ -1,0 +1,21 @@
+set: '7'
+rarity: U
+number: '295'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '3'
+site: 6
+en:
+  title: Orc Assault Band
+  subtitle: ''
+  text: '**Skirmish:** Spot 6 companions and exert this minion to make another :sauron: Orc strength +6.'
+  lore: The plain was dark with their marching companies….
+de:
+  title: Vorstürmende Orks
+  subtitle: ''
+  text: '**Kampf:** Entdecke 6 Gefährten und strenge diesen Diener an, um einem anderen :sauron: Ork Stärke +6 zu geben.'
+  lore: Die Ebene war dunkel von marschierenden Scharen…

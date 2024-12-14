@@ -1,0 +1,38 @@
+set: '4'
+rarity: C
+number: '64'
+unique: true
+culture: Elven
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+1'
+en:
+  title: Elven Sword
+  subtitle: ''
+  text: |-
+    Bearer must be an Elf.   
+    **Skirmish:** Exert bearer or discard 2 cards from hand to make a minion skirmishing bearer strength -1. 
+  lore: Fine blades forged by Elven smiths are centuries-old heirlooms.
+de:
+  title: Elbenschwert
+  subtitle: ''
+  text: Muss auf einen Elben gespielt werden. **Kampf** Strenge den Träger an oder lege 2 Karten aus deiner Hand ab, um einem Diener, der gegen ihn kämpft, Stärke -1 zu geben.
+  lore: Die herrlichen Klingen, von Elbenhand geschmiedet, waren Jahrhunderte alte Erbstücke.
+fr:
+  title: Épée Elfique
+  subtitle: ''
+  text: Le détenteur doit être un Elfe. **Combat :** Affaiblissez le détenteur ou défaussez 2 cartes de votre main pour donner -1 en force à un séide qui combat le détenteur.
+  lore: Les lames de qualité, forgées par des artisans Elfes, sont des héritages centenaires.
+it:
+  title: Spada Elfica
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Elfo.   
+    **Schermaglia:** Sforza il possessore o scarta 2 carte dalla mano per sottrarre -1 alla forza di un servitore che stia schermagliando con il possessore.
+  lore: Le ottime lame forgiate dai fabbri elfici sono cimeli antichi di secoli.
+es:
+  title: Espada Élfica
+  subtitle: ''
+  text: El portador debe ser un Elfo. **Escaramuza:** Esfuerza al portador o descarta 2 cartas de tu mano para dar a un siervo en una escaramuza contra el portador fuerza -1.
+  lore: Estupendas hojas forjadas por los herreros Élficos son herencias centenarias.

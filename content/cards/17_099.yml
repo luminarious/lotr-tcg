@@ -1,0 +1,16 @@
+set: '17'
+rarity: R
+number: '99'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Háma
+  subtitle: Northman
+  text: While the Ring-bearer is assigned to a skirmish, each minion skirmishing Háma loses strength bonuses and damage bonuses from possessions.
+  lore: Hail, Théoden King!

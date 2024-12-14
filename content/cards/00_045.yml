@@ -1,0 +1,18 @@
+set: '0'
+rarity: P
+number: '45'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Theoden
+en:
+  title: Éomer
+  subtitle: Third Marshal of Riddermark
+  text: |-
+    While you can spot a :rohan: Man, Éomer’s twilight cost is -1.   
+    Éomer is strength +2 for each wound on each minion he is skirmishing. 
+  lore: '''We shall not forsake our old alliance with Gondor, and while they fight we shall aid them: so say I and all who hold with me.’'

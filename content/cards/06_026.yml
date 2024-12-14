@@ -1,0 +1,33 @@
+set: '6'
+rarity: R
+number: '26'
+unique: true
+culture: Gandalf
+type: Condition
+cost: 2
+str: '+4'
+en:
+  title: Enraged
+  subtitle: ''
+  text: Bearer must be an Ent. Limit 1 per bearer. Discard this condition at the end of the turn.
+  lore: ‘An angry Ent is terrifying.’
+de:
+  title: Erzürnt
+  subtitle: ''
+  text: Muss auf einen Ent gespielt werden. Maximal 1 pro Ent. Lege diesen Effekt am Ende des Spielzuges ab.
+  lore: Ein wütender Ent kann einem Angst machen.
+fr:
+  title: Enragé
+  subtitle: ''
+  text: Le détenteur doit être un Ent. Limite de 1 par détenteur. Défaussez cette situation à la fin du tour.
+  lore: 'Un Ent en colère est terrifiant.” '
+it:
+  title: Furiosi
+  subtitle: ''
+  text: Il possessore deve essere un Ent. Limite 1 per possessore. Scarta questa condizione alla fine del turno.
+  lore: ‘Un Ent arrabbiato è terrificante.’
+es:
+  title: Enfurecido
+  subtitle: ''
+  text: El portador debe ser un Ent. Límite 1 por portador. Descarta esta condición al final del turno.
+  lore: Un Ent enfurecido es algo temible.

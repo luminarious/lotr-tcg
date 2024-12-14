@@ -1,0 +1,18 @@
+set: '18'
+rarity: R
+number: '40'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '5'
+en:
+  title: Boromir
+  subtitle: Proud and Noble Man
+  text: |-
+    **Ranger.**  
+    When you play Boromir (except in your starting fellowship), you may play a possession with a twilight cost of 1 or less on him from your draw deck. Reshuffle your draw deck.
+  lore: Yes, there is weakness. There is frailty. But there is courage also, and honor to be found in Men.

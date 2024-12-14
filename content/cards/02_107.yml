@@ -1,0 +1,35 @@
+set: '2'
+rarity: U
+number: '107'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Not Feared in Sunlight
+  subtitle: ''
+  text: |-
+    To play, spot 2 Hobbits.   
+    Each Nazgûl is strength -4. Discard this condition during the regroup phase. 
+  lore: ‘…our shapes cast shadows in their minds, which only the noon sun destroys….’
+de:
+  title: Weniger schrecklich bei Tageslicht
+  subtitle: ''
+  text: Entdecke 2 Hobbits, um diese Karte in deinen Unterstützungsbereich zu spielen. Jeder Nazgûl erhält Stärke -4. Lege diesen Effekt in der Sammelphase ab.
+  lore: …unsere Gestalten werfen in ihrem Geist Schatten, die nur die Mittagssonne zerstört…
+fr:
+  title: Ils Ne Sont Pas à Craindre au Soleil
+  subtitle: ''
+  text: Pour jouer, désignez 2 Hobbits. Chaque Nazgûl est -4 en force. Défaussez cette situation pendant la phase de ralliement.
+  lore: '…nos formes jettent dans leur esprit des ombres que seul détruit le soleil de midi…” '
+it:
+  title: Senza Paura alla Luce del Sole
+  subtitle: ''
+  text: Per giocarla, avvista 2 Hobbit. Ogni Nazgûl sottrae -4 alla forza. Scarta questa condizione durante la fase di raccolta.
+  lore: ‘…le nostre forme proiettano ombre nelle loro menti, che soltanto il sole di mezzogiorno può distruggere…’
+es:
+  title: No son temidos a la luz del día
+  subtitle: ''
+  text: Para jugarla, avista 2 Hobbits. Cada Nazgûl es fuerza -4. Descarta esta condición durante la fase de reagrupación.
+  lore: …nuestras figuras proyectan sombras en su mente, que sólo el sol del mediodía destruye…

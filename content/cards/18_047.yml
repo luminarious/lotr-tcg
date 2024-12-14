@@ -1,0 +1,13 @@
+set: '18'
+rarity: R
+number: '47'
+unique: true
+culture: Gondor
+type: Follower
+cost: 0
+str: '+2'
+en:
+  title: Elendil's Army
+  subtitle: ''
+  text: '**Aid** - Exert a :gondor: companion. *(At the start of the maneuver phase, you may exert a *:gondor:* companion to transfer this to a companion.)*'
+  lore: …and on the slopes of Mount Doom they fought for the freedom of Middle-earth.

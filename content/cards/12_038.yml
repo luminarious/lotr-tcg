@@ -1,0 +1,18 @@
+set: '12'
+rarity: R
+number: '38'
+unique: true
+culture: Gollum
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: From Deep in Shadow
+  subtitle: ''
+  text: 'Spot X :gollum: cards to reveal the top X cards of your draw deck. You may play a revealed minion. Its twilight cost is –2.'
+  lore: …she moved with a horrible speed, now running on her creaking legs, now making a sudden bound.
+de:
+  title: Aus dem Schatten heraus
+  subtitle: ''
+  text: 'Entdecke X :gollum: Karte, um die oberstenX Karten deines Spieldecks aufzudecken. Du darfst einen so aufgedeckten Diener mit um 2 reduzierten Kosten spielen.'
+  lore: … bewegte sie sich mit entsetzlicher Geschwindigkeit, bald auf ihren knackenden Beinen rennend, baldeinen plötzlichen Satz machend.

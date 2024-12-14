@@ -1,0 +1,34 @@
+set: '4'
+rarity: R
+number: '166'
+unique: true
+culture: Isengard
+type: Artifact
+cost: 0
+en:
+  title: The Palantír of Orthanc
+  subtitle: Seventh Seeing-stone
+  text: |-
+    To play, spot an :isengard: minion. Plays to your support area.  
+    **Shadow:** Spot an :isengard: minion and remove :twilight2: to reveal the top card of any draw deck. You may place that card beneath that draw deck. 
+  lore: ‘The name meant that which looks far away.’
+de:
+  title: Der Palantír von Orthanc
+  subtitle: Einer der sieben sehenden Steine
+  text: 'Entdecke einen :isengard: Diener, um diese Karte in deine Unterstützungsbereich zu spielen. **Schatten:** Entdecke einen :isengard: Diener und verringere den Einfluss um :twilight2:, um die oberste Karte eines beliebigen Spieldecks aufzudecken. Du darfst diese Karte dann unter das Spieldeck legen.'
+  lore: Der Name bedeutet das, was in weite Ferne schaut.
+fr:
+  title: Le Palantír d'Orthanc
+  subtitle: Septième Pierre de Vision
+  text: 'Pour jouer, désignez un séide :isengard:. Ombre : Désignez un séide :isengard: et retirez :twilight2: pour révéler la carte du dessus de n’importe quelle pioche. Vous pouvez placer cette carte sous cette pioche.'
+  lore: 'Ce nom signifiait ce qui regarde au loin.” '
+it:
+  title: Il Palantír di Orthanc
+  subtitle: La Settima Pietra Veggente
+  text: 'Per giocarlo, avvista un servitore :isengard:. Giocalo nella tua area di supporto. **Ombra:** Avvista un servitore :isengard: e rimuovi :twilight2: per mostrare la prima carta di un qualsiasi mazzo di gioco. Puoi piazzare quella carta sotto quel mazzo di gioco.'
+  lore: ‘Il nome significa ciò che guarda lontano.’
+es:
+  title: El Palantír De Orthanc
+  subtitle: La Séptima Piedra Vidente
+  text: 'Para jugarla, avista un siervo :isengard:. **Sombra:** Avista un siervo :isengard: y quita 2 para revelar la carta superior de cualquier mazo de robar. Puedes poner esa carta bajo ese mazo de robar.'
+  lore: El nombre significa lo que mira a lo lejos.

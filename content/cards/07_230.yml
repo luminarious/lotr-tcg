@@ -1,0 +1,25 @@
+set: '7'
+rarity: R
+number: '230'
+unique: true
+culture: Rohan
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+3'
+en:
+  title: Éowyn's Sword
+  subtitle: Dernhelm's Blade
+  text: |-
+    Bearer must be Éowyn.   
+    You may play this possession anytime you could play a skirmish event.   
+    When you play this possession, you may wound a minion Éowyn is skirmishing.
+  lore: ''
+de:
+  title: Éowyns Schwert
+  subtitle: Dernhelms Klinge
+  text: |-
+    Muss auf Éowyn gespielt werden.   
+    Du kannst diese Ausrüstung jederzeit spielen, wenn du ein Kampfereignis spielen könntest.   
+    Wenn du diese Ausrüstung spielst, darfst du einen Diener verwunden, gegen den Éowyn kämpft.
+  lore: Einen raschen Hieb führte sie, geschickt und tödlich.

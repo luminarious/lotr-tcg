@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '39'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Return to Us
+  subtitle: ''
+  text: 'Discard 2 Shadow cards from hand to take a :gandalf: event into hand from your discard pile.'
+  lore: ‘Yes, that was the name. I was Gandalf.’
+de:
+  title: Zurückgekehrt
+  subtitle: ''
+  text: 'Lege 2 Schattenkarten aus deiner Hand ab, um ein :gandalf: Ereignis aus deinem Ablagestapel zurück auf die Hand zu nehmen.'
+  lore: Ja, das war mein Name. Ich war Gandalf.

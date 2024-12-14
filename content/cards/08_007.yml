@@ -1,0 +1,18 @@
+set: '8'
+rarity: R
+number: '7'
+unique: true
+culture: Dwarven
+type: Event
+class: Response
+cost: 1
+en:
+  title: Unheard of
+  subtitle: ''
+  text: If a Dwarf who is damage +X wins a skirmish, wound a minion not assigned to a skirmish X times.
+  lore: ‘…an Elf will go underground and a Dwarf dare not.’
+de:
+  title: Das ist doch unerhört!
+  subtitle: ''
+  text: Wenn ein Zwerg mit Schaden +X einen Kampf gewinnt, darfst du einen Diener, der keinem Kampf zugewiesen ist, X mal zu verwunden.
+  lore: Ein Elb geht unter die Erde, und ein Zwerg wagt es nicht!

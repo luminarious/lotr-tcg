@@ -1,0 +1,40 @@
+set: '4'
+rarity: U
+number: '305'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Good Work
+  subtitle: ''
+  text: |-
+
+    Each time a Hobbit wins a skirmish, you may place a :shire: token here.   
+    **Fellowship:** Remove a burden for each :shire: token here (limit 3). Discard this condition. 
+  lore: ‘You seem to have been doing well, Master Took.’
+de:
+  title: Gute Arbeit
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn ein Hobbit einen Kampf gewinnt, darfst du eine :shire: Marke auf diese Karte legen. **Gemeinschaft.** Entferne eine Lastmarke für jede :shire: Marke hier (maximal 3). Lege diesen Effekt ab.'
+  lore: Du scheinst deine Sache gut gemacht zu haben, Herr Tuk.
+fr:
+  title: Bon Travail
+  subtitle: ''
+  text: 'Chaque fois qu’un Hobbit gagne un combat, vous pouvez déposer un jeton :shire: sur cette carte. **Compagnie :** Retirez un fardeau pour chaque jeton :shire: qui se trouve ici (limite de 3). Défaussez cette situation.'
+  lore: 'Tu m''as l''air de t''être assez bien débrouillé, Maître Touque.” '
+it:
+  title: Ottimo Lavoro
+  subtitle: ''
+  text: |-
+    Ogni volta che un Hobbit vince una schermaglia, puoi piazzare qui un segnalino :shire:.   
+    **Compagnia:** Rimuovi un segnalino fardello per ogni segnalino :shire: qui presente (limite 3). Scarta questa condizione.
+  lore: ‘Pare che tu abbia fatto un buon lavoro, Messer Tuc.’
+es:
+  title: Buen Trabajo
+  subtitle: ''
+  text: |-
+    Cada vez que un Hobbit gana una escaramuza, puedes poner un contador :shire: en esta carta.   
+    **Comunidad:** Quita una carga por cada contador :shire: puesto aquí (límite 3). Descarta esta condición.
+  lore: Parece que habéis mostrado mucho tino, maese Tuk.

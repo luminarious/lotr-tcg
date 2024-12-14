@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '236'
+unique: true
+culture: Rohan
+type: Possession
+class: Hand Weapon
+cost: 3
+str: '+2'
+vit: '+1'
+en:
+  title: Herugrim
+  subtitle: Sword of the Mark
+  text: |-
+    Bearer must be Théoden.   
+    He is **Damage +1.**   
+    **Response:** If Théoden is about to take a wound and you cannot spot 3 threats, add 2 threats to prevent that wound.
+  lore: ''

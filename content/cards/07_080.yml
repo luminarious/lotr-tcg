@@ -1,0 +1,16 @@
+set: '7'
+rarity: R
+number: '80'
+unique: true
+culture: Gondor
+type: Artifact
+class: Hand Weapon
+cost: 3
+str: '+2'
+en:
+  title: Andúril
+  subtitle: King's Blade
+  text: |-
+    Bearer must be Aragorn.   
+    If you cannot spot a threat, Aragorn is defender +1.
+  lore: ''

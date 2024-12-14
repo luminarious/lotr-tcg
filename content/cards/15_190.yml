@@ -1,0 +1,13 @@
+set: '15'
+rarity: S
+number: '190'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: East Wall of Rohan
+  subtitle: ''
+  text: At the start of the fellowship phase, you may exert two hunter companions to play a hunter companion from your draw deck.
+  lore: ''

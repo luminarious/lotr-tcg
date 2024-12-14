@@ -1,0 +1,39 @@
+set: '1'
+rarity: R
+number: '212'
+unique: true
+culture: Wraith
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Fear
+  subtitle: ''
+  text: |-
+    **Search.**   
+    **Maneuver:** Exert your Nazgûl to discard an ally.
+  lore: ‘Never has such a thing happened in my time!… Guests unable to sleep in their beds, and good bolsters ruined and all! What are we coming to?’
+de:
+  title: Furcht
+  subtitle: ''
+  text: '**Suche.** **Manöver:** Strenge einen deiner Nazgûl an, um einen Verbündeten abzulegen.'
+  lore: Nie in meinem Leben ist so etwas passiert!…Dass Gäste nicht in ihren Betten schlafen können und gute Schlummerrollen ruiniert werden und was nicht alles! Was kommt denn nun noch?
+fr:
+  title: Peur
+  subtitle: ''
+  text: |-
+    **Recherche.**  
+    **Manœuvre :** Affaiblissez votre Nazgûl pour défausser un allié.
+  lore: ‘Jamais pareille chose n'est arrivée de mon temps ! …Des hôtes empêchés de dormir dans leur lit, de bons traversins perdus, et tout ! Où va-t-on ?’
+it:
+  title: Paura
+  subtitle: ''
+  text: |-
+    **Ricerca.**  
+    **Manovra:** Sforza un tuo Nazgûl per scartare un alleato.
+  lore: ‘Non è mai successa una cosa del genere in tutta la mia vita! … Clienti che non possono dormire nei loro letti, bei cuscini rovinati e tutto il resto! Cos'altro ci aspetta?’
+es:
+  title: Miedo
+  subtitle: ''
+  text: '**Búsqueda.** **Maniobra:** Esfuerza un Nazgûl para descartar un aliado.'
+  lore: ¡Nunca me ocurrió cosa semejante!… ¡Huéspedes que no pueden dormir en cama, y buenas almohadas arruinadas y todo lo demás! ¿Que tiempos son estos?

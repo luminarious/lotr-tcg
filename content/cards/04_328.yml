@@ -1,0 +1,32 @@
+set: '4'
+rarity: U
+number: '328'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: The Riddermark
+  subtitle: ''
+  text: '**Plains.** **Fellowship:** Exert 2 unbound companions to play Aragorn from your draw deck. '
+  lore: ''
+de:
+  title: Die Riddermark
+  subtitle: ''
+  text: '**Ebene.** **Gemeinschaft.** Strenge 2 nicht-verbundene Gefährten an, um Aragorn direkt aus deinem Spieldeck zu spielen.'
+  lore: ''
+fr:
+  title: La Marche
+  subtitle: ''
+  text: '**Plaine.** **Compagnie :** Affaiblissez 2 compagnons dissociés pour jouer Aragorn de votre pioche.'
+  lore: ''
+it:
+  title: Il Riddermark
+  subtitle: ''
+  text: '**Pianura.** **Compagnia:** Sforza 2 compagni Non Legati per giocare Aragorn dal tuo mazzo di gioco'
+  lore: ''
+es:
+  title: Llanuras De Rohan
+  subtitle: ''
+  text: '**Llanura.** **Comunidad:** Esfuerza 2 compañeros no-vinculados para jugar a Aragorn de tu mazo de robar.'
+  lore: ''

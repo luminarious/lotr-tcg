@@ -1,0 +1,16 @@
+set: '0'
+rarity: P
+number: '112'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Lemenya
+  subtitle: Fifth of the Nine Riders
+  text: 'Each character skirmishing Úlairë Lemenya who has resistance 5 or less is strength –3. '
+  lore: Nine Riders Collection

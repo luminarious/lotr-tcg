@@ -1,0 +1,18 @@
+set: '4'
+rarity: R
+number: '279'
+unique: true
+culture: Rohan
+type: Event
+class: Regroup
+cost: 2
+en:
+  title: Helm! Helm!
+  subtitle: ''
+  text: '**Regroup:** Spot 2 mounted :rohan: Men to liberate a site or draw 3 cards. '
+  lore: And with that shout the king came. His horse was white as snow, golden was his shield, and his spear was long.
+es:
+  title: ¡Helm! ¡Helm!
+  subtitle: ''
+  text: '**Reagrupación:** Avista 2 Hombres :rohan: con montura para liberar un sitio o para robar 3 cartas.'
+  lore: En medio de este clamor, apareció el rey. Montaba un caballo blanco como la nieve; de oro era el escudo y larga la lanza.

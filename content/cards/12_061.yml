@@ -1,0 +1,21 @@
+set: '12'
+rarity: C
+number: '61'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '4'
+vit: '2'
+site: 4
+en:
+  title: Crooked Townsman
+  subtitle: ''
+  text: This minion is strength +1 for each other character you can spot.
+  lore: ‘…the Riders can use men and other creatures as spies, as we found at Bree.’
+de:
+  title: Betrügerischer Bürger
+  subtitle: ''
+  text: Dieser Diener erhält Stärke +1 für jeden anderen Charakter, den du entdecken kannst.
+  lore: … die Reiter bedienen sich der Menschen und anderer Geschöpfe als Späher, wie wir in Bree festgestellt haben.

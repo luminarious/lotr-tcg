@@ -1,0 +1,24 @@
+set: '7'
+rarity: C
+number: '315'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Tower Walkway
+  subtitle: ''
+  text: |-
+    **Engine.** To play, spot a :sauron: Orc.   
+    Each besieger is strength +1 for each site you control.   
+    **Regroup:** Discard 3 :sauron: Orcs to take control of a site.   
+    Discard this condition.
+  lore: ''
+de:
+  title: Fallbrücke
+  subtitle: ''
+  text: |-
+    **Belagerungswaffe.** Entdecke einen :sauron: Ork, um diesen Effekt zu spielen. Jeder Belagerer erhält Stärke +1 für jeden Ort, den du kontrollierst.   
+    **Sammeln:** Lege 3 :sauron: Orks ab, um einen Ort zu kontrollieren. Lege diesen Effekt ab.
+  lore: …zeigte der verborgene Heerführer seine Kraft.

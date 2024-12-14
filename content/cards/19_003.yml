@@ -1,0 +1,15 @@
+set: '19'
+rarity: P
+number: '3'
+unique: true
+culture: Dwarven
+type: Condition
+cost: 1
+en:
+  title: Still Twitching
+  subtitle: ''
+  text: |-
+    Bearer must be a :dwarven: companion.  
+    Bearer gains **Hunter 2**.  
+    Each time bearer wins a skirmish, you may transfer this condition to another :dwarven: companion. At the end of each turn, if bearer did not win a skirmish this turn, discard this condition from play.
+  lore: ''

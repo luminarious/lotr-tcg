@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '45'
+unique: true
+culture: Dwarven
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Dwarven Foresight
+  subtitle: ''
+  text: '**Fellowship:** Spot a Dwarf to take a Free Peoples card stacked on a :dwarven: condition into hand. '
+  lore: ‘I would guess that the burned bones of the hobbits are now mingled with the Orcs'.’
+de:
+  title: Voraussicht eines Zwergs
+  subtitle: ''
+  text: '**Gemeinschaft.** Entdecke einen Zwerg, um eine Karte der Freien Völker, die auf einem :dwarven: Effekt gelagert ist, auf deine Hand zu nehmen.'
+  lore: Ich vermute, die verbrannten Knochen der Hobbits sind jetzt vermengt mit denen der Orks.
+fr:
+  title: Prévoyance Naine
+  subtitle: ''
+  text: '**Compagnie :** Désignez un Nain pour prendre une carte des Peuples Libres empilée sur une situation :dwarven: et l’ajouter à votre main.'
+  lore: 'J''ai l''impression que les os calcinés des Hobbits sont à présent mêlés à ceux des Orques.” '
+it:
+  title: Lungimiranza dei Nani
+  subtitle: ''
+  text: '**Compagnia:** Avvista un Nano per aggiungere alla tua mano una carta dei Popoli Liberi impilata su una condizione :dwarven:.'
+  lore: ‘Suppongo che le ceneri degli Hobbit siano ormai confuse con quelle degli Orchi.’
+es:
+  title: Visión Enana
+  subtitle: ''
+  text: '**Comunidad:** Avista un Enano para tomar en tu mano una carta de Gentes Libres apilada en una condición :dwarven:.'
+  lore: Apostaría a que los huesos quemados de los hobbits están mezclados con los de los orcos.

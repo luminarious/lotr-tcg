@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '182'
+unique: true
+culture: Wraith
+type: Event
+class: Response
+cost: 2
+en:
+  title: Loathsome
+  subtitle: ''
+  text: If a skirmish that involved a Nazgûl is about to end, discard a possession borne by a companion in that skirmish.
+  lore: Frodo felt his senses reeling and his mind darkening.
+de:
+  title: Abscheulich
+  subtitle: ''
+  text: Lege eine Ausrüstung von einem Gefährten ab, der gegen einen Nazgûl gekämpft hat, wenn dieser Kampf endet.
+  lore: Frodo spürte, wie seine Sinne sich vernebelten und sein Verstand sich verdunkelte.

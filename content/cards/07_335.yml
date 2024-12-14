@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '335'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Left
+en:
+  title: King's Tent
+  subtitle: ''
+  text: '**Shadow:** If the Shadow has initiative, spot your minion to make the move limit for this turn –1.'
+  lore: ''
+de:
+  title: Das Zelt des Königs
+  subtitle: ''
+  text: '**Schatten:** Entdecke einen deiner Diener, um die Bewegungsweite für diesen Zug um 1 zu reduzieren, wenn die Schattenseite die Initiative besitzt.'
+  lore: ''

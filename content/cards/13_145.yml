@@ -1,0 +1,33 @@
+set: '13'
+rarity: C
+number: '145'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Don’t Let Go
+  subtitle: ''
+  text: '**Skirmish:** Discard this condition to make a Hobbit strength +1 for each of the following that is true: he or she is participating in a fierce skirmish; he or she has resistance 7 or more; he or she is at a dwelling site; you can spot an unwounded Hobbit.'
+  lore: ‘Don't you give up on me Mr. Frodo!’
+de:
+  title: Lass nicht los
+  subtitle: ''
+  text: '**Kampf:** Lege diesen Effekt ab, um einem Hobbit für jede folgende Bedingung, die gültig ist, Stärke +1 zu geben: er ist an einem erbitterten Kampf beteiligt; er hat eine Resistenz von 7 oder mehr; er befindet sich an einer Heimstatt; du kannst einen unverwundeten Hobbit entdecken.'
+  lore: Wehe, du lässt los, Herr Frodo!
+fr:
+  title: Don't Let Go
+  subtitle: ''
+  text: '**Skirmish:** Discard this condition to make a Hobbit strength +1 for each of the following that is true: he or she is participating in a fierce skirmish; he or she has resistance 7 or more; he or she is at a dwelling site; you can spot an unwounded Hobbit.'
+  lore: ‘Don't you give up on me Mr. Frodo!’
+it:
+  title: Don't Let Go
+  subtitle: ''
+  text: '**Skirmish:** Discard this condition to make a Hobbit strength +1 for each of the following that is true: he or she is participating in a fierce skirmish; he or she has resistance 7 or more; he or she is at a dwelling site; you can spot an unwounded Hobbit.'
+  lore: ‘Don't you give up on me Mr. Frodo!’
+es:
+  title: Don't Let Go
+  subtitle: ''
+  text: '**Skirmish:** Discard this condition to make a Hobbit strength +1 for each of the following that is true: he or she is participating in a fierce skirmish; he or she has resistance 7 or more; he or she is at a dwelling site; you can spot an unwounded Hobbit.'
+  lore: ‘Don't you give up on me Mr. Frodo!’

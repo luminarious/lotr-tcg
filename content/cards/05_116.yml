@@ -1,0 +1,40 @@
+set: '5'
+rarity: R
+number: '116'
+unique: true
+culture: Shire
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Sting
+  subtitle: Baggins Heirloom
+  text: |-
+    Bearer must be Frodo.  
+    **Skirmish:** Exert Frodo to make Sméagol strength +2 or Gollum strength -2.
+  lore: ‘This is Sting. You have seen it before once upon a time.’
+de:
+  title: Stich
+  subtitle: Erbstück der Beutlins
+  text: Muss auf Frodo gespielt werden. **Kampf** Strenge Frodo an, um Sméagol Stärke +2 oder Gollum Stärke -2 zu geben.
+  lore: Das ist Stich. Du hast ihn schon einmal gesehen.
+fr:
+  title: Dard
+  subtitle: Bijou de Famille des Sacquet
+  text: |-
+    Le détenteur doit être Frodon.   
+    **Combat :** Affaiblissez Frodon pour donner +2 en force à Sméagol ou -2 en force à Gollum.
+  lore: 'Voici Dard. Vous l''avez déjà vu une fois.” '
+it:
+  title: Pungolo
+  subtitle: Cimelio dei Baggins
+  text: |-
+    Il possessore deve essere Frodo.   
+    **Schermaglia:** Sforza Frodo per aggiungere +2 alla forza di Sméagol o sottrarre -2 alla forza di Gollum.
+  lore: ‘Questa spada è Pungolo. L'hai già veduta una volta.’
+es:
+  title: Dardo
+  subtitle: Herencia de Bolsón
+  text: El portador debe ser Frodo. **Escaramuza:** Esfuerza a Frodo para dar fuerza +2 a Sméagol o fuerza -2 a Gollum.
+  lore: Esta espada es Dardo. Ya la has visto antes.

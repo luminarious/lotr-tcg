@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '117'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Denizen of the Black Pit
+  subtitle: ''
+  text: While this minion is at an underground site, it is strength +2.
+  lore: The great Dwarf mansion of Khazad-dûm is now more commonly known by other, darker names.
+de:
+  title: Bewohner der Schwarzen Grube
+  subtitle: ''
+  text: Solange sich dieser Diener an einem unterirdischen Ort befindet, erhält er Stärke +2.
+  lore: Die große Zwergenhalle Kazad-dûm ist heute eher unter anderen, dunkleren Namen bekannt.

@@ -1,0 +1,15 @@
+set: '17'
+rarity: U
+number: '15'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: A New Light
+  subtitle: ''
+  text: |-
+    **Spell.**  
+    Spot a :gandalf: Wizard to return a minion to its owner’s hand from its owner’s discard pile. Reveal that Shadow player’s hand and discard a minion from his or her hand.
+  lore: '''I once knew every spell in all the tongues of Men or Elves or Orcs…’'

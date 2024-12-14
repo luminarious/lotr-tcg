@@ -1,0 +1,18 @@
+set: '8'
+rarity: R
+number: '115'
+unique: true
+culture: Shire
+type: Event
+class: Response
+cost: 0
+en:
+  title: Unheeded
+  subtitle: ''
+  text: If a minion exerts, exert an unbound Hobbit to wound that minion.
+  lore: …and passing up beneath the hauberk had pierced the sinew behind his mighty knee.
+de:
+  title: Unbeachtet
+  subtitle: ''
+  text: Strenge einen nicht-verbundenen Hobbit an, wenn sich ein Diener anstrengt, um diesen Diener zu verwunden.
+  lore: … und unter dem Panzerhemd die Sehne hinter seinem mächtigen Knie durchbohrt.

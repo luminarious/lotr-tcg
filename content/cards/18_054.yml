@@ -1,0 +1,18 @@
+set: '18'
+rarity: R
+number: '54'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '7'
+vit: '3'
+res: '1'
+en:
+  title: Isildur
+  subtitle: Sword-bearer
+  text: |-
+    **Knight.** Each time Isildur loses a skirmish, exert a companion.  
+    Each time Isildur wins a skirmish, heal a companion.
+  lore: It was in this moment, when all hope had faded, that Isildur, son of the king, took up his father’s sword.

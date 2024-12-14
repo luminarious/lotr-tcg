@@ -1,0 +1,22 @@
+set: '13'
+rarity: U
+number: '122'
+unique: true
+culture: Rohan
+type: Event
+class: Response
+cost: 2
+en:
+  title: Bitter Tidings
+  subtitle: ''
+  text: |-
+    If Théoden is about to take a wound in a skirmish, you may discard from play Éomer or Théodred to prevent that.  
+    If Théodred is about to take a wound in a skirmish, you may discard from play Éomer or Éowyn to prevent that.
+  lore: ‘Théodred my son is slain.’
+de:
+  title: Schlechte Nachrichten
+  subtitle: ''
+  text: |-
+    Wenn Théoden in einem Kampf verwun-  
+    det wird, darfst du Éomer oder Théodred ablegen, um diese Wunde zu verhindern. Wenn Théodred in einem Kampf verwun-det wird, darfst du Éomer oder Éowyn ablegen, um diese Wunde zu verhindern.
+  lore: Théodred, mein Sohn, ist erschlagen.

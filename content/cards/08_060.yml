@@ -1,0 +1,25 @@
+set: '8'
+rarity: U
+number: '60'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Haradrim Marksman
+  subtitle: ''
+  text: |-
+    **Southron.** **Archer.**   
+    While you can spot another :raider: Man, Ring-bound companions cannot take archery wounds.
+  lore: Archers from Harad rode atop the great war-beasts on the Fields of Pelennor.
+de:
+  title: Scharfschütze der Haradrim
+  subtitle: ''
+  text: |-
+    **Südländer.** **Bogenschütze.**   
+    Solange du einen anderen :raider: Menschen entdecken kannst, können Ring-verbundene Gefährten keine Wunden im Fernkampf erleiden.
+  lore: Bogenschützen aus Harad ritten oben auf den gewaltigen Kampfbestien auf den Feldern des Pelennor.

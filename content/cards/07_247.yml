@@ -1,0 +1,25 @@
+set: '7'
+rarity: C
+number: '247'
+unique: true
+culture: Rohan
+type: Ally
+race: Man
+cost: 1
+str: '4'
+vit: '2'
+site: 3T
+en:
+  title: Rohirrim Herdsman
+  subtitle: ''
+  text: |-
+    **Villager.** To play, spot 2 :rohan: Men.   
+    **Regroup:** Discard 3 cards from hand to remove a threat.
+  lore: ''
+de:
+  title: Rohirrim Hirte
+  subtitle: ''
+  text: |-
+    **Dorfbewohner.** Entdecke 2 :rohan: Menschen, um diesen Verbündeten zu spielen.   
+    **Sammeln:** Lege 3 Karten aus deiner Hand ab, um eine Bedrohung zu entfernen.
+  lore: Dort fand er die zurückgebliebene Streitmacht seines Volkes schon versammelt…

@@ -1,0 +1,18 @@
+set: '15'
+rarity: C
+number: '110'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 2
+str: '12'
+vit: '2'
+site: 4
+en:
+  title: Isengard Marauder
+  subtitle: ''
+  text: |-
+    To play, discard 3 cards from your hand.  
+    While you can spot 2 other :orc: minions, this minion is **fierce**.
+  lore: Wargs and riders sent by Saruman disrupted the villagers’ retreat to Helm’s Deep.

@@ -1,0 +1,15 @@
+set: '15'
+rarity: R
+number: '70'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Tremendous Wall
+  subtitle: ''
+  text: |-
+    **Fortification**. Characters skirmishing bearer cannot take wounds from losing a skirmish involving bearer.  
+    **Skirmish:** Exert a :gondor: Man or spot 3 rangers to transfer this condition from your support area to a minion skirmishing a :gondor: Man.
+  lore: ''

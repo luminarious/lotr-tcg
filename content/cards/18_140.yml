@@ -1,0 +1,12 @@
+set: '18'
+rarity: U
+number: '140'
+unique: true
+culture: ''
+type: Site
+cost: 0
+en:
+  title: Streets of Bree
+  subtitle: ''
+  text: '**Dwelling.** While the fellowship is at this site, followers cannot be transferred to a character.'
+  lore: ''

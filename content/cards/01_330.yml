@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '330'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Left
+en:
+  title: Bucklebury Ferry
+  subtitle: ''
+  text: '**River.** While only Hobbits are in the fellowship, there are no assignment and skirmish phases at Bucklebury Ferry.'
+  lore: ''
+de:
+  title: Bockenburg Fähre
+  subtitle: ''
+  text: '**Fluss.** Solange nur Hobbits in deiner Gemeinschaft sind, finden an der Bockenburg Fähre keine Zuweisungs- und Kampfphasen statt.'
+  lore: ''
+fr:
+  title: Bac de Châteaubouc
+  subtitle: ''
+  text: '**Rivière.** Tant que la compagnie ne compte que des Hobbits, il n’y a pas de phase d’affectation ni de combats au Bac de Châteaubouc.'
+  lore: ''
+it:
+  title: Traghetto di Buckburgo
+  subtitle: ''
+  text: '**Fiume.** Finché la Compagnia è composta solo da Hobbit, non vi sono assegnazioni e fasi di schermaglia al Traghetto di Buckburgo.'
+  lore: ''
+es:
+  title: Balsadera de Gamoburgo
+  subtitle: ''
+  text: '**Río.** Mientras en la comunidad sólo haya Hobbits, no hay fase de asignación ni de escaramuza en Balsadera de Gamoburgo.'
+  lore: ''

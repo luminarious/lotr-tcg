@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '346'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: White Rocks
+  subtitle: ''
+  text: '**Battleground.** The Shadow number of this site is +1 for each mounted companion. '
+  lore: ''
+de:
+  title: Weiße Felsen
+  subtitle: ''
+  text: '**Schlachtfeld.** Die Schattenzahl dieses Ortes erhöht sich um 1 für jeden berittenen Gefährten.'
+  lore: ''
+fr:
+  title: Les Rochers Blancs
+  subtitle: ''
+  text: '**Champ de bataille.** La Puissance de l’Ombre de ce site est de +1 pour chaque compagnon détenant une monture.'
+  lore: '4'
+it:
+  title: Rocce Bianche
+  subtitle: ''
+  text: '**Campo di Battaglia.** Aggiungi +1 al numero Ombra di questo sito per ogni compagno a cavallo.'
+  lore: ''
+es:
+  title: Rocas Blancas
+  subtitle: ''
+  text: '**Campo de batalla.** El número de Sombra de este sitio es +1 por cada compañero con una montura.'
+  lore: ''

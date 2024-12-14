@@ -1,0 +1,13 @@
+set: '17'
+rarity: U
+number: '9'
+unique: true
+culture: Elven
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Lothlórien Guides
+  subtitle: ''
+  text: 'Spot 2 Elves (or an Elf and an :elven: follower) to discard a condition (or discard two conditions if you can spot 4 or more Shadow conditions). '
+  lore: The road is very dangerous

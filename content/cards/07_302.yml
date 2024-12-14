@@ -1,0 +1,21 @@
+set: '7'
+rarity: U
+number: '302'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Orc Officer
+  subtitle: ''
+  text: 'Each time a companion is overwhelmed in a skirmish that involves a :sauron: Orc, add 3 burdens.'
+  lore: …and the shadowy defile beyond was bored and tunnelled by teeming broods of evil things.
+de:
+  title: Orkoffizier
+  subtitle: ''
+  text: 'Jedes Mal, wenn ein :sauron: Ork einen Gefährten überwältigt, lege 3 Lastmarken auf den Ringträger.'
+  lore: …und die schattige Talschlucht dahin durchbohrt und von der furchtbaren Brut böser Wesen mit unterirdischen Gängen versehen worden war.

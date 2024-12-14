@@ -1,0 +1,40 @@
+set: '1'
+rarity: C
+number: '138'
+unique: true
+culture: Isengard
+type: Condition
+cost: 2
+en:
+  title: Saruman's Snows
+  subtitle: ''
+  text: |-
+    **Spell.** **Weather.** To play, exert a :isengard: minion. Plays on a site.   
+    No player may play skirmish events or use skirmish special abilities during skirmishes at this site. Discard this condition at the end of the turn.
+  lore: Saruman’s spells can hinder even the wary.
+de:
+  title: Sarumans Schnee
+  subtitle: ''
+  text: |-
+    **Zauberspruch.** **Wetter.**  
+    Strenge einen :isengard: Diener an, um diese Karte an einen Ort zu spielen. Kein Spieler darf Kampfereignisse oder spezielle Kampffähig-keiten an diesem Ort benutzen. Dieser Effekt wird am Ende des Spielzuges abgelegt.
+  lore: Sarumans Zauberkraft kann selbst den Vorsichtigsten behindern.
+fr:
+  title: Les Neiges de Saroumane
+  subtitle: ''
+  text: |-
+    **Sort.** **Climat.**  
+    Pour jouer, affaiblissez un séide :isengard:. Jouable sur un site. Aucun joueur ne peut jouer des événements de combat ou utiliser des capacités spéciales de combat durant les combats à ce site. Défaussez cette situation à la fin du tour.
+  lore: Les sorts de Saroumane peuvent même faire obstacle à celui qui en est avisé.
+it:
+  title: Nevi di Saruman
+  subtitle: ''
+  text: |-
+    **Magia.** **Atmosferica.**  
+    Per giocare, sforza un servitore :isengard:. Giocala su un sito. Nessun giocatore può giocare eventi Schermaglia o usare abilità speciali Schermaglia durante le schermaglie in questo sito. Scarta questa condizione alla fine del turno.
+  lore: Gli incantesimi di Saruman possono ostacolare anche chi è cauto.
+es:
+  title: Las Nieves de Saruman
+  subtitle: ''
+  text: '**Hechizo.** **Clima.** Para jugarlo, esfuerza un siervo :isengard:. Se juega en un sitio. Ningún jugador puede jugar eventos de escaramuza o usar habilidades especiales de escaramuza en este sitio. Descarta esta condición al final del turno.'
+  lore: Los conjuros de Saruman pueden entorpecer incluso a los cautos.

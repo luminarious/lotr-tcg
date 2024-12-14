@@ -1,0 +1,16 @@
+set: '0'
+rarity: P
+number: '71'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '5'
+en:
+  title: Boromir
+  subtitle: Hero of Osgiliath
+  text: '**Knight.** Each time Boromir wins a skirmish, you may heal a :gondor: companion. '
+  lore: '‘Let the armies of Mordor know this: never again will the land of my people fall into enemy hands!’'

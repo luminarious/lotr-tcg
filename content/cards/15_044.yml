@@ -1,0 +1,16 @@
+set: '15'
+rarity: U
+number: '44'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Herbs and Stewed Rabbit
+  subtitle: ''
+  text: |-
+    While you can spot Frodo, Sméagol is resistance +1.  
+    While you can spot Sam, Sméagol is strength +1.  
+    While you can spot Bilbo, Sméagol is **damage +1**.
+  lore: ‘Eat them, Eat them!’

@@ -1,0 +1,22 @@
+set: '10'
+rarity: R
+number: '48'
+unique: true
+culture: Raider
+type: Condition
+cost: 1
+vit: '+1'
+en:
+  title: Seasoned Leader
+  subtitle: ''
+  text: |-
+    Bearer must be a Southron. Bearer is **Enduring.**   
+    **Skirmish:** Remove a threat to play a :raider: condition from your discard pile. 
+  lore: Only by many conquests and hardships does one rise to prominence in the army of the Haradrim.
+de:
+  title: Führungsqualitäten
+  subtitle: ''
+  text: |-
+    Muss auf einen Südländer gespielt werden. Der Träger wird zäh.   
+    **Kampf:** Entferne eine Bedrohung, um einen :raider: Effekt aus deinem Ablagestapel zu spielen.
+  lore: Nur durch zahlreiche Eroberungen und durch Härte kann man in der Armee der Haradrim an Bedeutung gewinnen.

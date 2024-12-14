@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '110'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Cleaving a Path
+  subtitle: ''
+  text: '**Skirmish:** Discard this condition to make a :rohan: companion strength +1 for each of the following that is true: he or she is at a plains site; he or she has resistance 4 or more; he or she is bearing armor; he or she is skirmishing a wounded minion.'
+  lore: Captains and champions fell or fled before them.
+de:
+  title: Eine Schneise schlagen
+  subtitle: ''
+  text: '**Kampf:** Lege diesen Effekt ab, um einem :rohan: Gefährten für jede folgende Bedingung, die gültig ist, Stärke +1 zu geben: er befindet sich auf einer Ebene; er hat Resistenz 4 oder mehr; er trägt eine Rüstung; er kämpft gegen einen verwundeten Diener.'
+  lore: Hauptleute und Kämpfer fielen oder flohen vor ihnen.

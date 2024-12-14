@@ -1,0 +1,20 @@
+set: '11'
+rarity: C
+number: '169'
+unique: true
+culture: Shire
+type: Event
+class: Fellowship
+cost: 6
+en:
+  title: The More, The Merrier
+  subtitle: ''
+  text: '**Toil 2.** (For each :shire: character you exert when playing this, its twilight cost is –2.) Spot 2 :shire: companions to remove 2 burdens. '
+  lore: ‘This, my friend, is a pint!’
+de:
+  title: Je mehr desto besser
+  subtitle: ''
+  text: |-
+    **Mühe 2.**  
+    Entdecke 2 :shire: Gefährten, um 2 Lastmarken zu entfernen.
+  lore: Das, mein Freund, ist ein Bierkrug!

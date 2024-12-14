@@ -1,0 +1,23 @@
+set: '7'
+rarity: U
+number: '252'
+unique: true
+culture: Rohan
+type: Condition
+cost: 1
+en:
+  title: Strong Arms
+  subtitle: ''
+  text: |-
+    To play, spot a :rohan: Man. Plays on a site.   
+    This site is a **Plains.**   
+    Each :rohan: Man is strength +1 at this site.
+  lore: ''
+de:
+  title: Starke Waffen
+  subtitle: ''
+  text: |-
+    Entdecke einen :rohan: Menschen, um diesen Effekt auf einen Ort zu spielen.   
+    Dieser Ort ist nun eine **Ebene.**   
+    Jeder :rohan: Mensch erhält Stärke +1 an diesem Ort.
+  lore: Aber er weiß doch, dass wir ein Volk sind, das eher auf dem Rücken der Pferde und in freiem Gelände kämpft…

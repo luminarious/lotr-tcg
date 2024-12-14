@@ -1,0 +1,33 @@
+set: '5'
+rarity: C
+number: '40'
+unique: true
+culture: Gondor
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Take Cover
+  subtitle: ''
+  text: '**Fellowship:** Exert a knight to play a :gondor: fortification from your discard pile.'
+  lore: Gondor forces at Osgiliath were too few to fight the advancing armies in the field.
+de:
+  title: In Deckung
+  subtitle: ''
+  text: 'Gemeinschaft. Strenge einen Ritter an, um eine:gondor: Befestigung aus deinem Ablagestapel zu spielen.'
+  lore: Gondors Streitmacht in Osgiliath war zu klein, um eine offene Feldschlacht gegen den Feind zu riskieren.
+fr:
+  title: Mettez-Vous à l'Abri
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez un chevalier pour jouer une fortification :gondor: de votre pile de défausse.'
+  lore: Les forces du Gondor rassemblée à Osgiliath étaient trop peu nombreuses pour combattre l'armée qui avançait dans les champs.
+it:
+  title: Ripararsi
+  subtitle: ''
+  text: '**Compagnia:** Sforza un Cavaliere per giocare una fortificazione :gondor: dalla tua pila degli scarti.'
+  lore: Le forze di Gondor a Osgiliath erano troppo poche per combattere contro gli eserciti che avanzavano nel campo di battaglia.
+es:
+  title: A cubierto
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza un caballero para jugar una fortificación :gondor: de tu pila de descartes.'
+  lore: Las fuerzas de Gondor en Osgiliath eran demasiado pocas para luchar contra los ejércitos en marcha en el campo.

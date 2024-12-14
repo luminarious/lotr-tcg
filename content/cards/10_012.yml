@@ -1,0 +1,22 @@
+set: '10'
+rarity: U
+number: '12'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Glimpse of Fate
+  subtitle: ''
+  text: |-
+    To play, spot 2 Elves.   
+    Each time you lose initiative, make a minion strength –4 until the regroup phase. 
+  lore: '‘The uttermost choice is before you: to repent and go to the Havens… or else to abide the Doom of Men.’'
+de:
+  title: Vision der Zukunft
+  subtitle: ''
+  text: |-
+    Entdecke 2 Elben, um diesen Effekt zu spielen.   
+    Gib einem Diener jedes Mal, wenn du die Initiative verlierst, Stärke -4 bis zur Sammelphase.
+  lore: 'Die letzte Entscheidung liegt vor euch: zu bereuen und zu den Anfurten zu gehen…. Oder aber das Schicksal der Menschen aus euch zu nehmen.'

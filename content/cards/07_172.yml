@@ -1,0 +1,29 @@
+set: '7'
+rarity: C
+number: '172'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Troop of Haradrim
+  subtitle: ''
+  text: |-
+    **Southron.**   
+    While you can spot 2 threats, this minion is an archer.   
+    While you can spot 3 threats, this minion is fierce.   
+    While you can spot 4 threats, this minion is **damage +1**.
+  lore: ''
+de:
+  title: Haradrimtrupp
+  subtitle: ''
+  text: |-
+    **Südländer.**   
+    Solange du 2 Bedrohungen entdecken kannst, ist dieser Diener **Bogenschütze.**   
+    Solange du 3 Bedrohungen entdecken kannst, ist dieser Diener **erbittert**.   
+    Solange du 4 Bedrohungen entdecken kannst, erhält dieser Diener **Schaden +1**.
+  lore: ''

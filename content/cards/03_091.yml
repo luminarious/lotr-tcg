@@ -1,0 +1,39 @@
+set: '3'
+rarity: R
+number: '91'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: His Cruelty and Malice
+  subtitle: ''
+  text: |-
+
+    **Regroup:** Exert a :sauron: minion to make the Free Peoples player discard the top card from his or her draw deck. 
+  lore: ‘Into this Ring he poured his cruelty, his malice, and his will to dominate all life.’
+de:
+  title: Seine Grausamkeit und Bosheit
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Sammeln:** Strenge einen :sauron: Diener an, um den Freie Völker Spieler zu zwingen, die oberste Karte von seinem Spieldeck abzulegen.'
+  lore: In diesen Ring floss seine Grausamkeit, seine Bosheit und sein Wille alles Leben zu unterdrücken.
+fr:
+  title: Sa Cruauté et sa Malveillance
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez un séide :sauron: pour obliger le joueur des Peuples Libres à défausser la carte du dessus de sa pioche.'
+  lore: 'Dans cet Anneau il versa sa cruauté, sa malveillance et sa volonté de dominer toute vie. '
+it:
+  title: La Sua Crudeltà e Malvagità
+  subtitle: ''
+  text: |-
+
+    **Raccolta:** Sforza un servitore :sauron: per far scartare al giocatore dei Popoli Liberi la prima carta del suo mazzo di gioco.
+  lore: ‘In questo Anello egli riversò la sua crudeltà, la sua malvagità, e la sua volontà di dominio su tutti i viventi.’
+es:
+  title: Su Crueldad y Malicia
+  subtitle: ''
+  text: |-
+
+    **Reagrupación:** Esfuerza un siervo :sauron: para hacer que el jugador de Gentes Libres descarte la carta superior de su mazo de robar.
+  lore: En este Anillo él puso toda su crueldad, su maldad, y su voluntad de dominar todo lo vivo.

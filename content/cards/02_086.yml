@@ -1,0 +1,33 @@
+set: '2'
+rarity: R
+number: '86'
+unique: true
+culture: Wraith
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Wraith-world
+  subtitle: ''
+  text: '**Skirmish:** Spot a twilight Nazgûl and the Ring-bearer wearing The One Ring to add 3 burdens. '
+  lore: ‘He is passing into the shadow world, he will soon become a wraith like them.’
+de:
+  title: Welt der Ringgeister
+  subtitle: ''
+  text: '**Kampf** Entdecke einen Zwielicht Nazgûl und den Ringträger, der den Einen Ring benutzt, um 3 Lastmarken auf den Ringträger zu legen.'
+  lore: Er gleitet hinüber in die Schattenwelt, bald wird er ein Geist sein, genau wie sie.
+fr:
+  title: Le Monde des Spectres
+  subtitle: ''
+  text: '**Combat :** Désignez un Nazgûl crépusculaire et le Porteur avec l’Anneau au doigt pour ajouter 3 points-fardeau.'
+  lore: 'Il passe dans le monde des Ombres. Il sera bientôt un spectre comme eux.” '
+it:
+  title: Mondo degli Spettri
+  subtitle: ''
+  text: '**Schermaglia:** Avvista un Nazgûl nel Crepuscolo e il Portatore dell’Anello che indossa l’Unico Anello per aggiungere 3 segnalini fardello.'
+  lore: ‘Sta entrando nel mondo delle ombre, e presto diventerà uno spettro come loro.’
+es:
+  title: Mundo espectral
+  subtitle: ''
+  text: '**Escaramuza:** Avista un Nazgûl de penumbra y al Portador del Anillo llevando puesto El Anillo Único para añadir 3 cargas.'
+  lore: Está entrando en el mundo de las sombras, pronto se convertirá en un espectro como ellos.

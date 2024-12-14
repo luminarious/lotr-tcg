@@ -1,0 +1,23 @@
+set: '11'
+rarity: C
+number: '202'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '10'
+vit: '3'
+site: 5
+en:
+  title: Squad of Uruk-hai
+  subtitle: ''
+  text: '**Damage +1.** While this minion is skirmishing a character who has resistance 4 or less, this minion is **Damage +1.**'
+  lore: Fighting in packs, the Uruk-hai feast on the weak.
+de:
+  title: Uruk-hai Schwadron
+  subtitle: ''
+  text: |-
+    **Schaden +1**.  
+    Dieser Diener erhält **Schaden +1**, solange er gegen einen Charakter mit Resistenz 4 oder weniger kämpft. 
+  lore: Uruk-hai Rudel weiden sich an den Schwachen.

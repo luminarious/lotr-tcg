@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '329'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Left
+en:
+  title: Breeland Forest
+  subtitle: ''
+  text: '**Forest.** Stealth events may not be played.'
+  lore: ''
+de:
+  title: Wald des Breelandes
+  subtitle: ''
+  text: '**Wald.**Heimlichkeitsereignisse dürfen hier nicht gespielt werden.'
+  lore: ''
+fr:
+  title: Forêt des Environs de Bree
+  subtitle: ''
+  text: '**Forêt.** Des événements de dissimulation ne peuvent pas être joués.'
+  lore: ''
+it:
+  title: Foresta di Brea
+  subtitle: ''
+  text: '**Foresta.** Gli eventi Segretezza non possono essere giocati.'
+  lore: ''
+es:
+  title: Bosque de Las Tierras de Bree
+  subtitle: ''
+  text: '**Bosque.** No se pueden jugar eventos de **Sigilo.** '
+  lore: ''

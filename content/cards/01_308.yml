@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '308'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Power According to His Stature
+  subtitle: ''
+  text: '**Skirmish:** Add 1 burden to wound each minion skirmishing the Ring-bearer.'
+  lore: ‘The ring had given him power according to his stature.’
+de:
+  title: Macht entsprechend seiner Veranlagung
+  subtitle: ''
+  text: '**Kampf** Lege 1 Lastmarke auf den Ringträger, um jedem Diener, der gegen ihn kämpft, eine Wunde zuzufügen.'
+  lore: Der Ring hatte ihm Macht gegeben entsprechend seiner Veranlagung.
+fr:
+  title: Un Pouvoir Proportionnel à sa Stature
+  subtitle: ''
+  text: '**Combat :** Ajoutez 1 point-fardeau pour blesser chaque séide qui combat le Porteur de l’Anneau.'
+  lore: ‘L'anneau lui avait donné un pouvoir proportionné à sa stature.’
+it:
+  title: Potere Proporzionato alla Sua Statura
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi 1 segnalino fardello per ferire ogni servitore che stia schermagliando con il Portatore dell’Anello.'
+  lore: ‘L'anello gli aveva conferito un potere proporzionato alla sua statura .’
+es:
+  title: Poder de Acuerdo Con Su Estatura
+  subtitle: ''
+  text: '**Escaramuza:** Añade 1 carga para herir cada siervo que este en una escaramuza contra el portador del Anillo.'
+  lore: El Anillo le había dado poder, de acuerdo con su talla…

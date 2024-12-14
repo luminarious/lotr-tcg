@@ -1,0 +1,40 @@
+set: '1'
+rarity: R
+number: '55'
+unique: true
+culture: Elven
+type: Possession
+cost: 2
+en:
+  title: The Mirror of Galadriel
+  subtitle: ''
+  text: |-
+    Each Elf ally whose home is site 6 is strength +1.   
+    **Maneuever:** If an opponent has at least 7 cards in hand, exert Galadriel to look at 2 of those cards at random. Discard one and replace the other.
+  lore: ‘What you will see I cannot tell….’
+de:
+  title: Galadriels Spiegel
+  subtitle: ''
+  text: |-
+    Jeder Elbenverbündete mit Heimat 6 erhält Stärke +1.  
+    **Manöver:** Wenn ein Gegenspieler mindestens 7 Karten auf der Hand hat, strenge Galadriel an, um dir 2 zufällig bestimmte Karten aus der Hand eines deiner Gegenspieler anzusehen. Lege eine davon ab und gib die andere zurück.
+  lore: Was du sehen wirst…kann ich dir nicht sagen.
+fr:
+  title: Le Miroir de Galadriel
+  subtitle: ''
+  text: |-
+    Chaque allié Elfe dont la demeure est un site 6 a +1 en force.  
+    **Manœuvre:** Si un adversaire a au minimum 7 cartes dans sa main, affaiblissez Galadriel pour dévoiler 2 de ses cartes au hasard. Défaussez en une puis et replacez l’autre.
+  lore: Ce que vous verrez, je ne saurais vous le dire.
+it:
+  title: Lo Specchio di Galadriel
+  subtitle: ''
+  text: |-
+    Giocalo nella tua area di supporto. Ogni Elfo alleato la cui casa sia il sito 6 aggiunge +1 alla forza.  
+    **Manovra:** Se un avversario ha almeno 7 carte in mano, sforza Galadriel per guardare 2 di quelle carte a caso della mano. Scartane una e reinserisci l’altra.
+  lore: ‘Cosa vedrai non posso dirtelo…’
+es:
+  title: El Espejo de Galadriel
+  subtitle: ''
+  text: Cada aliado Elfo cuyo hogar sea el sitio 6 es fuerza +1. **Maniobra:** Esfuerza a Galadriel para mirar 2 cartas al azar de la mano de un oponente. Descarta una y reemplaza la otra.
+  lore: Lo que veras no lo puedo adivinar…

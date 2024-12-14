@@ -1,0 +1,23 @@
+set: '7'
+rarity: C
+number: '108'
+unique: true
+culture: Gondor
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Knight's Spear
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.   
+    **Skirmish:** If you cannot spot 2 threats, add a threat to make bearer strength +1.
+  lore: ''
+de:
+  title: Ritterspeer
+  subtitle: ''
+  text: |-
+    Muss auf einen :gondor: Menschen gespielt werden.   
+    **Kampf:** Lasse eine Bedrohung entstehen, um dem Träger Stärke +1 zu geben, wenn du keine 2 Bedrohungen entdecken kannst.
+  lore: ''

@@ -1,0 +1,27 @@
+set: '7'
+rarity: U
+number: '264'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 9
+str: '19'
+vit: '5'
+site: 6
+en:
+  title: Army of Udûn
+  subtitle: ''
+  text: |-
+    **Shadow:** Discard a :sauron: Orc to add a threat.   
+    **Skirmish:** Remove a threat to make Army of Udûn strength +1.   
+    **Regroup:** Discard Army of Udûn and X other :sauron: Orcs to add X threats.
+  lore: ''
+de:
+  title: Armee aus Udûn
+  subtitle: ''
+  text: |-
+    **Schatten:** Lege einen :sauron: Ork ab, um eine Bedrohung entstehen zu lassen.   
+    **Kampf:** Entferne eine Bedrohung, um der Armee aus Udûn Stärke +1 zu geben.   
+    **Sammeln:** Lege die Armee aus Udûn und X andere :sauron: Orks ab, um X Bedrohungen entstehen zu lassen.
+  lore: ''

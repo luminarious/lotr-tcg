@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '209'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Too Late
+  subtitle: ''
+  text: '**Skirmish:** Transfer this condition from your support area to a character skirmishing a Nazgûl. Each time bearer exerts, add :twilight1:.'
+  lore: ''
+de:
+  title: Zu spät
+  subtitle: ''
+  text: '**Kampf:** Verschiebe diesen Effekt aus deinem Unterstützungsbereich auf einen Charakter, der gegen einen Nazgûl kämpft. Jedes Mal, wenn sich der Träger anstrengt, erhöhe den Einfluss um :twilight1:.'
+  lore: In diesem Augenblick erbebte der Fels und zitterte unter ihnen.

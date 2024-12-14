@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '300'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '2'
+site: 6
+en:
+  title: Orc Fanatic
+  subtitle: ''
+  text: '**Skirmish:** Discard this minion to make another :sauron: Orc strength +3.'
+  lore: …far away he saw fires spring up….
+de:
+  title: Fanatischer Ork
+  subtitle: ''
+  text: '**Kampf:** Lege diesen Diener ab, um einem anderen :sauron: Ork Stärke +3 zu geben.'
+  lore: …als er in der Ferne Feuer aufzüngeln sah…

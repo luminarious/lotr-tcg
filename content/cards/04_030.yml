@@ -1,0 +1,38 @@
+set: '4'
+rarity: R
+number: '30'
+unique: true
+culture: Dunland
+type: Condition
+cost: 0
+en:
+  title: No Retreat
+  subtitle: ''
+  text: |-
+    Plays on a site you control.   
+    **Regroup:** Spot 2 :dunland: Men and discard this condition to make the Free Peoples player choose to move again this turn (if the move limit allows). 
+  lore: Hordes from Dunland laid waste to villages as their numbers grew.
+de:
+  title: Kein Zurück
+  subtitle: ''
+  text: 'Spiele diese Karte auf einen Ort, den du kontrollierst. **Sammeln:** Entdecke 2 :dunland: Menschen und lege diesen Effekt ab, um den Freien Völker Spieler zu zwingen, sich in diesem Spielzug noch einmal zu bewegen (wenn die Bewegungsweite dies zulässt).'
+  lore: Eine immer größer werdende Horde Dunländer verwüstete die Dörfer Rohans.
+fr:
+  title: Aucune Retraite
+  subtitle: ''
+  text: 'Jouable à un site que vous contrôlez. **Ralliement :** Désignez 2 Hommes :dunland: et défaussez cette situation pour obliger le joueur des Peuples Libres à se déplacer à nouveau ce tour-ci (si la limite de déplacement le permet).'
+  lore: Plus les hordes du Pays de Dun grandissaient, plus les villages qu'ils visitaient en souffraient.
+it:
+  title: Nessuna Ritirata
+  subtitle: ''
+  text: |-
+    Giocala su un sito che controlli.   
+    **Raccolta:** Avvista 2 Uomini :dunland: e scarta questa condizione per obbligare il giocatore dei Popoli Liberi a scegliere di muoversi di nuovo in questo turno (se il limite dei movimenti lo consente).
+  lore: Le orde del Dunland portarono distruzione presso i villaggi non appena il loro numero crebbe.
+es:
+  title: No Hay Huida
+  subtitle: ''
+  text: |-
+    Se juega en un sitio que controles.   
+    **Reagrupación:** Avista 2 Hombres :dunland: y descarta esta condición para hacer que el jugador de Gentes Libres elija mover otra vez este turno (si el límite de movimiento lo permite).
+  lore: Las hordas de las Tierras Pardas devastaron pueblos a medida que su número crecía.

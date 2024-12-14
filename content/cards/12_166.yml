@@ -1,0 +1,22 @@
+set: '12'
+rarity: U
+number: '166'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Lingering Shadow
+  subtitle: ''
+  text: |-
+    **Skirmish:** Transfer this condition from your support area to a character skirmishing a Nazgûl.   
+    Each time a wound is removed from bearer, add a burden.
+  lore: ‘I am wounded… wounded; it will never really heal.’
+de:
+  title: Bleibender Schatten
+  subtitle: ''
+  text: |-
+    **Kampf:** Verschiebe diesen Effekt aus deinem Unterstützungsbereich auf einen Charakter, der gegen einen Nazgûl kämpft.  
+    Lege jedes Mal, wenn dem Träger eine Wunde geheilt wird, eine Lastmarke auf den Ringträger.
+  lore: Ich bin verwundet… verwundet, und es wird niemals richtig heilen.

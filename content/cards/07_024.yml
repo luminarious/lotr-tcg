@@ -1,0 +1,24 @@
+set: '7'
+rarity: R
+number: '24'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Leaving Forever
+  subtitle: ''
+  text: |-
+    To play, spot 3 Elves.   
+    Each time the fellowship moves, add a threat or discard this condition.   
+    **Regroup:** Discard this condition to discard a condition or draw 2 cards.
+  lore: ''
+de:
+  title: Für immer fort
+  subtitle: ''
+  text: |-
+    Entdecke 3 Elben, um diese Karte zu spielen.   
+    Lasse jedes Mal, wenn sich die Gemeinschaft bewegt, eine Bedrohung entstehen oder lege diesen Effekt ab.   
+    **Sammeln:** Lege diese Karte ab, um einen Effekt abzulegen oder um 2 Karten zu ziehen.
+  lore: Dann glaubte ich im Grunde meines Herzen, dass wir uns dem Meer näherten….

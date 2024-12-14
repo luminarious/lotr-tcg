@@ -1,0 +1,28 @@
+set: '2'
+rarity: C
+number: '119'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: Hollin
+  subtitle: ''
+  text: '**Plains.** Uruk-hai are not roaming. '
+  lore: ''
+de:
+  title: Hulsten
+  subtitle: ''
+  text: '**Ebene.**Uruk-hai sind in Hulsten nicht wandernd.'
+  lore: ''
+fr:
+  title: Houssaye
+  subtitle: ''
+  text: '**Plaines.** Les Ourouk-Haï ne sont pas errants.'
+  lore: ''
+it:
+  title: Agrifogliere
+  subtitle: ''
+  text: '**Pianure.** Gli Uruk-hai non sono considerati vaganti.'
+  lore: ''

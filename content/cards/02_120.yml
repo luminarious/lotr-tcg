@@ -1,0 +1,33 @@
+set: '2'
+rarity: U
+number: '120'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Valley of the Silverlode
+  subtitle: ''
+  text: '**River.** **Sanctuary.** When the fellowship moves to Valley of the Silverlode, each Hobbit companion may heal. '
+  lore: ''
+de:
+  title: Tal des Silberlauf
+  subtitle: ''
+  text: '**Fluss.** **Zuflucht.**Wenn sich die Gemeinschaft ins Tal des Silberlauf bewegt, darf jeder Hobbitgefährte geheilt werden.'
+  lore: ''
+fr:
+  title: Vallée du Cours d'Argent
+  subtitle: ''
+  text: '**Rivière.****Sanctuaire.**Lorsque la Compagnie se déplace vers la Vallée du Cours d’Argent, chaque compagnon Hobbit peut guérir.'
+  lore: ''
+it:
+  title: Valle dell'Argentaroggia
+  subtitle: ''
+  text: '**Fiume.****Rifugio.** Quando la Compagnia si sposta su Valle dell’Argentaroggia, ogni compagno Hobbit può curarsi.'
+  lore: ''
+es:
+  title: Valle del Cauce de Plata
+  subtitle: ''
+  text: '**Río.****Santuario.** Cuando la comunidad se mueve al Valle del Cauce de Plata, cada compañero Hobbit puede curarse.'
+  lore: ''

@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '70'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Flashing Steel
+  subtitle: ''
+  text: '**Skirmish:** Exert an Elf to make a minion skirmishing that Elf strength -3. '
+  lore: ‘Good!… But my count is now two dozen. It has been knife-work up here.’
+de:
+  title: Blitzender Stahl
+  subtitle: ''
+  text: '**Kampf** Strenge einen Elben an, um einem Diener, der gegen diesen Elben kämpft, Stärke -3 zu geben.'
+  lore: Gut! Aber meine Rechnung beträgt jetzt zwei Dutzend. Es war Messerarbeit hier oben.
+fr:
+  title: Acier Virevoltant
+  subtitle: ''
+  text: '**Combat :** Affaiblissez un Elfe pour donner -3 en force à un séide combattant cet Elfe.'
+  lore: 'Bon! Mais moi j''en suis maintenant à deux douzaines. Ç''a été une lutte au couteau, ici.” '
+it:
+  title: Acciaio Scintillante
+  subtitle: ''
+  text: '**Schermaglia:** Sforza un Elfo per sottrarre -3 alla forza di un servitore che stia schermagliando con quell’Elfo.'
+  lore: ‘Bene!… Ma io ora sono a due dozzine. Il pugnale ha avuto da fare quassù.’
+es:
+  title: Acero Reluciente
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza un Elfo para dar a un siervo que esté en una escaramuza contra ese Elfo fuerza -3.'
+  lore: ¡Magnífico!… Pero ahora mi cuenta asciende a dos docenas. Aquí arriba han trabajado los puñales.

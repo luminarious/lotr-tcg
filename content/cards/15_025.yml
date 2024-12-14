@@ -1,0 +1,17 @@
+set: '15'
+rarity: C
+number: '25'
+unique: true
+culture: Elven
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+1'
+en:
+  title: Sword of the Fallen
+  subtitle: ''
+  text: |-
+    Bearer must be an Elf.  
+    Each minion skirmishing bearer is strength -1 for each wound on that minion.  
+    **Skirmish:** Exert bearer to exert a minion skirmishing bearer.
+  lore: Elven weapons remain in use for centuries.

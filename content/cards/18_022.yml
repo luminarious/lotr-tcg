@@ -1,0 +1,18 @@
+set: '18'
+rarity: C
+number: '22'
+unique: true
+culture: Gandalf
+type: Companion
+race: Man
+cost: 2
+str: '3'
+vit: '3'
+res: '5'
+en:
+  title: Librarian
+  subtitle: Keeper of Ancient Texts
+  text: |-
+    While you can spot 2 :gandalf: tokens, each of your :gandalf: Men is strength +2.  
+    **Regroup:** Discard a follower from play to choose one: draw a card; or take a :gandalf: skirmish event from your discard pile into hand.
+  lore: A guide through books and scrolls from floor to ceiling.

@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '252'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Right
+en:
+  title: Osgiliath Reclaimed
+  subtitle: ''
+  text: '**Battleground.** When the fellowship moves from this site, the Free Peoples player may spot 3 burdens to remove a burden. '
+  lore: ''
+de:
+  title: Das zurückgeforderte Osgiliath
+  subtitle: ''
+  text: '**Schlachtfeld.** Wenn sich die Gemeinschaft hier fortbewegt, darf der Freie Völker Spieler 3 Lastmarken entdecken, um eine Lastmarke zu entfernen.'
+  lore: ''

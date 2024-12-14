@@ -1,0 +1,36 @@
+set: '4'
+rarity: U
+number: '132'
+unique: true
+culture: Gondor
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Ranger's Sword
+  subtitle: Blade of Aragorn
+  text: |-
+    Bearer must be Aragorn.   
+    While skirmishing an Uruk-hai, Aragorn is strength +2. 
+  lore: ‘I am not weaponless.’
+de:
+  title: Das Schwert des Waldläufers
+  subtitle: Aragorns Klinge
+  text: Muss auf Aragorn gespielt werden. Solange Aragorn gegen Uruk-hai kämpft, erhält er Stärke +2.
+  lore: Ich bin nicht waffenlos.
+fr:
+  title: Épée de Rôdeur
+  subtitle: La Lame d'Aragorn
+  text: Le détenteur doit être Aragorn. Lorsqu’il combat un Ourouk-Haï, Aragorn a +2 en force.
+  lore: 'Je ne suis pas sans armes.” '
+it:
+  title: Spada di Ramingo
+  subtitle: Lama di Aragorn
+  text: Il possessore deve essere Aragorn. Mentre schermaglia con un Uruk-hai, aggiungi +2 alla forza di Aragorn.
+  lore: ‘Io non sono inerme.’
+es:
+  title: La Espada del Montaraz
+  subtitle: Hoja de Aragorn
+  text: El portador debe ser Aragorn. Mientras esté en una escaramuza contra un Uruk-hai, Aragorn es fuerza +2.
+  lore: No estoy desarmado.

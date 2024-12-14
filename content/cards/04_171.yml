@@ -1,0 +1,36 @@
+set: '4'
+rarity: R
+number: '171'
+unique: true
+culture: Isengard
+type: Condition
+cost: 1
+en:
+  title: Rest While You Can
+  subtitle: ''
+  text: |-
+    **Search.** To play, spot an :isengard: tracker.  
+    Plays on a companion. Limit 1 per companion.If bearer is killed, reveal the top 10 cards of opponent’s draw deck and discard 1 Shadow card and 1 Free Peoples card. Your opponent reshuffles that deck. 
+  lore: ''
+de:
+  title: Ruh dich aus, solange du kannst
+  subtitle: ''
+  text: '**Suche.** Entdecke einen :isengard: Spurenleser, um diese Karte auf einen Gefährten zu spielen. Maximal 1 pro Gefährte. Wenn der Träger getötet wird, decke die obersten 10 Karten vom Spieldecks des Besitzers dieses Gefährten auf und wähle jeweils 1 Karte der Freien Völker und 1 Schattenkarte aus, die abgelegt wird. Dein Gegner mischt die restlichen Karten wieder in sein Spieldeck.'
+  lore: ''
+fr:
+  title: Repose-Toi Pendant Que Tu le Peux
+  subtitle: ''
+  text: |-
+    **Recherche.**  
+    Pour jouer, désignez un traqueur :isengard:. Jouable sur un compagnon. Limite de 1 par compagnon. Si le détenteur est tué, révélez les 10 cartes du dessus de la pioche de l’adversaire, et défaussez 1 carte de l’Ombre et 1 carte des Peuples Libres. Votre adversaire doit remélanger sa pioche.
+  lore: ''
+it:
+  title: Riposate, finché Potete
+  subtitle: ''
+  text: '**Ricerca.** Per giocarla, avvista un inseguitore :isengard:. Giocala su un compagno. Limite 1 per compagno. Se il possessore è ucciso, mostra le prime 10 carte del mazzo di gioco dell’avversario e scarta 1 carta Ombra e 1 carta dei Popoli Liberi; il tuo avversario rimescola quel mazzo di gioco.'
+  lore: ''
+es:
+  title: Descansad Mientras Podáis
+  subtitle: ''
+  text: '**Búsqueda.** Para jugarla, avista un rasteador :isengard:. Se juega en un compañero. Límite 1 por compañero. Si el portador muere, revela las 10 cartas superiores del mazo de robar del oponente y descarta 1 carta de Sombra y una carta de Gentes Libres. Tu oponente baraja ese mazo.'
+  lore: ''

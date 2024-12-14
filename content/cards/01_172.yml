@@ -1,0 +1,40 @@
+set: '1'
+rarity: R
+number: '172'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 5
+str: '4'
+vit: '3'
+site: 4
+en:
+  title: Goblin Archer
+  subtitle: ''
+  text: '**Archer.** While you can spot another :moria: Orc, the fellowship archery total is -6.'
+  lore: An arrow whistled over Frodo’s head.
+de:
+  title: Goblin Bogenschütze
+  subtitle: ''
+  text: '**Bogenschütze.**Solange du einen anderen :moria: Ork entdecken kannst, reduziert sich der Fernkampfwert der Gemeinschaft um 6.'
+  lore: Ein Pfeil schwirrte über Frodos Kopf.
+fr:
+  title: Archer Gobelin
+  subtitle: ''
+  text: |-
+    **Archer.**  
+    Tant que vous pouvez désigner un autre Orque :moria:, le total d’archerie de la compagnie est de -6.
+  lore: Une flèche siffla au-dessus de la tête de Frodon.
+it:
+  title: Arciere Goblin
+  subtitle: ''
+  text: |-
+    **Arciere.**  
+    Finché puoi avvistare un altro Orco :moria:, sottrai -6 al totale degli arcieri della Compagnia.
+  lore: Una freccia passò sibilando sulla testa di Frodo.
+es:
+  title: Arquero Goblin
+  subtitle: ''
+  text: '**Arquero.** Mientras puedas avistar otro Orco :moria:, el total de arquería de la comunidad es -6.'
+  lore: Una flecha silbó por encima de la cabeza de Frodo.

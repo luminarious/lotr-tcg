@@ -1,0 +1,16 @@
+set: '17'
+rarity: C
+number: '47'
+unique: true
+culture: Man
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Primitive Brand
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: minion.  
+    Each time bearer wins a skirmish, you may transfer this possession to another :men: minion. If you do, stack a :men: minion from play on a :men: possession in your support area.
+  lore: The men of Dunland took even the most basic of tools to be weapons against Rohan.

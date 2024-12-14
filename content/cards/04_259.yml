@@ -1,0 +1,37 @@
+set: '4'
+rarity: R
+number: '259'
+unique: true
+culture: Raider
+type: Event
+class: Assignment
+cost: 2
+en:
+  title: Vision From Afar
+  subtitle: ''
+  text: '**Assignment:** Assign an Easterling to the Ring-bearer. The Free Peoples player may add a burden to prevent this. '
+  lore: Then he knew that the hope that had for one wild moment stirred in his heart was vain.
+de:
+  title: Von ferne gesehen
+  subtitle: ''
+  text: '**Zuweisung:** Weise einen Ostling dem Ringträger zu. Der Freie Völker Spieler darf eine Lastmarke auf den Ringträger legen, um dies zu verhindern.'
+  lore: Dann wusste er, dass die Hoffnung, die sich einen verrückten Augenblick lang in seinem Herzen geregt hatte, vergebens war.
+fr:
+  title: Vision Lointaine
+  subtitle: ''
+  text: |-
+    **Affectation :** Affectez un Oriental au Porteur de l’Anneau.  
+    Le joueur des Peuples Libres peut ajouter un point-fardeau pour empêcher ceci.
+  lore: 'Il vit alors la vanité de l''espoir qui, durant un instant fantasque, s''était fait jour dans son c*ur. '
+it:
+  title: Visione in Lontananza
+  subtitle: ''
+  text: |-
+    **Assegnazione:** Assegna un Esterling al Portatore dell’Anello.  
+    Il giocatore dei Popoli Liberi può aggiungere un segnalino fardello per prevenire questo effetto.
+  lore: ‘Allora capì che la speranza balenatagli nel cuore in un momento di follia era del tutto vana.’
+es:
+  title: Visión De La Lejanía
+  subtitle: ''
+  text: '**Asignación:** Asigna un Oriental al Portador del Anillo. El jugador de Gentes Libres puede añadir una carga para prevenir esto.'
+  lore: Y supo entonces que la esperanza que en un raro momento le había encendido el corazón era vana.

@@ -1,0 +1,14 @@
+set: '18'
+rarity: C
+number: '49'
+unique: true
+culture: Gondor
+type: Follower
+cost: 1
+en:
+  title: Faramir's Company
+  subtitle: ''
+  text: |-
+    **Aid** - Add a threat.*(At the start of the maneuver phase, you may add a threat to transfer this to a companion.)*  
+    When you attach this card to a companion, spot a :gondor: possession to heal that companion.
+  lore: Cloaked rangers armed with deadly arrows and swords.

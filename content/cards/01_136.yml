@@ -1,0 +1,39 @@
+set: '1'
+rarity: U
+number: '136'
+unique: true
+culture: Isengard
+type: Event
+class: Shadow
+cost: 2
+en:
+  title: Saruman's Power
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Shadow:** Exert a :isengard: minion to discard all conditions.
+  lore: The Uruks of Saruman are bred to be the instruments of his will, destroying his enemies with foul cruelty.
+de:
+  title: Sarumans Macht
+  subtitle: ''
+  text: '**Zauberspruch.** **Schatten:** Strenge einen :isengard: Diener an, um alle Effekte abzulegen.'
+  lore: Sarumans Uruks wurden nach seinem Willen geschaffen, um seine Feinde auf grausame Art und Weise zu zerstören.
+fr:
+  title: Le Pouvoir de Saroumane
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    Ombre : Affaiblissez un séide :isengard: pour défausser toutes les situations.
+  lore: Les Ourouks de Saroumane sont élevés pour être les instruments de sa volonté, détruisant ses ennemis avec une cruauté immonde.
+it:
+  title: Potere di Saruman
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Ombra:** Sforza un servitore :isengard: per scartare tutte le condizioni.
+  lore: Gli Uruk di Saruman sono generati per essere gli strumenti del suo volere, distruggendo i suoi nemici con ripugnante crudeltà.
+es:
+  title: El Poder de Saruman
+  subtitle: ''
+  text: '**Hechizo.** **Sombra:** Esfuerza un siervo :isengard: para descartar todas las condiciones.'
+  lore: Los Uruks de Saruman son criados para ser los instrumentos de su voluntad, destruyendo a sus enemigos con su inmunda crueldad.

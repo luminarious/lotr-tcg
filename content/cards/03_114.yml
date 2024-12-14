@@ -1,0 +1,43 @@
+set: '3'
+rarity: C
+number: '114'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Three Monstrous Trolls
+  subtitle: ''
+  text: |-
+    **Tale.**   
+    **Response:** If a Shadow card is about to add any number of twilight tokens, exert a Hobbit ally to prevent this. 
+  lore: ‘Great big nasty twenty foot high smelly things – and they're arguing… arguing about how they were going to cook us!’
+de:
+  title: Drei furchterregende Trolle
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    **Reaktion:** Wenn eine Schattenkarte den Einfluss um einen beliebigen Betrag erhöht, dann strenge einen Hobbitverbündeten an, um dies zu verhindern.
+  lore: 'Vor mir drei furchterregende Trolle und die stritten sich untereinander: Wie sollten sie uns am besten zubereiten?'
+fr:
+  title: Trois Monstrueux Trolls
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    **Réponse :** Si une carte de l’Ombre est sur le point d’ajouter un nombre quelconque de jetons-crépuscule, affaiblissez un allié Hobbit pour empêcher ceci.
+  lore: 'De grandes, sales choses puantes de six mètres – et elles se disputent… se disputent quant à la façon dont elles allaient nous faire cuire!” '
+it:
+  title: Tre Troll Mostruosi
+  subtitle: ''
+  text: |-
+    **Racconto.** Giocala nella tua area di supporto.  
+    **Risposta:** Se una carta Ombra sta per aggiungere un qualsiasi numero di segnalini crepuscolo, sforza un alleato Hobbit per prevenirlo.
+  lore: ‘Grandi, orribili e puzzolenti esseri alti venti piedi, che discutono… discutono su come dovrebbero cuocerci!’
+es:
+  title: Tres Monstruosos Trolls
+  subtitle: ''
+  text: |-
+    **Cuento.**   
+    **Respuesta:** Si una carta de Sombra va a añadir cualquier número de contadores de penumbra, esfuerza un aliado Hobbit para prevenir esto.
+  lore: Cosas apestosas, enormes de más de tres metros, discutiendo… ¡Discutiendo sobre como nos iban a cocinar!

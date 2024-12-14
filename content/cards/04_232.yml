@@ -1,0 +1,45 @@
+set: '4'
+rarity: U
+number: '232'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 4
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Elite Archer
+  subtitle: ''
+  text: |-
+    **Southron.** **Archer.**  
+    **Archery:** Exert this minion to exert a companion (except the Ring-bearer); this minion does not add to the minion archery total. 
+  lore: Veteran bowmen are highly valued in the kingdoms of the South.
+de:
+  title: Elite Bogenschütze
+  subtitle: ''
+  text: |-
+    **Südländer.** **Bogenschütze.**  
+    **FernKampf** Strenge diesen Diener an, um einen Gefährten (außer den Ringträger) anzustrengen; dieser Diener zählt nicht zum Fernkampfwert der Diener.
+  lore: Erfahrene Bogenschützen wurden in den Königreichen des Südens sehr geschätzt.
+fr:
+  title: Archer d'Élite
+  subtitle: ''
+  text: |-
+    **Suderon.** **Archer.**  
+    **Archerie :** Affaiblissez ce séide pour affaiblir un compagnon (excepté le Porteur de l’Anneau); ce séide ne s’ajoute pas au total d’archerie des séides.
+  lore: Les archers d'expérience sont hautement appréciés dans les royaumes du Sud.
+it:
+  title: Arciere d'Elite
+  subtitle: ''
+  text: |-
+    **Sudrone.**  
+    **Arciere.**  
+    **Arcieri:** Sforza questo servitore per sforzare un compagno (tranne il Portatore dell’Anello); questo servitore non si aggiunge al totale degli arcieri tra i servitori.
+  lore: Gli arcieri veterani sono assai apprezzati nei regni del Sud.
+es:
+  title: Arquero De Élite
+  subtitle: ''
+  text: '**Sureño.** **Arquero.** **Arquería:** Esfuerza este siervo para esforzar a un compañero (excepto el Portador del Anillo); este siervo no añade al total de arquería de los siervos.'
+  lore: Los arqueros veteranos son muy valorados en los reinos del Sur.

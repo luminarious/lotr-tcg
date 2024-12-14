@@ -1,0 +1,16 @@
+set: '3'
+rarity: R
+number: '34'
+unique: true
+culture: Gandalf
+type: Artifact
+class: Ring
+cost: 0
+vit: '+1'
+en:
+  title: Narya
+  subtitle: ''
+  text: |-
+    Bearer must be Gandalf.   
+    At the start of each of your turns, you may add :twilight3: to remove a burden. 
+  lore: ‘For this is the Ring of Fire, and with it you may rekindle hearts in a world that grows chill.’

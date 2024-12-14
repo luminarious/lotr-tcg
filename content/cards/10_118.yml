@@ -1,0 +1,18 @@
+set: '10'
+rarity: U
+number: '118'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: Pelennor Prairie
+  subtitle: ''
+  text: '**Plains.** **Shadow:** Exert a minion and remove a burden to make the Free Peoples player discard one of his or her conditions.'
+  lore: ''
+de:
+  title: Pelennor Grasland
+  subtitle: ''
+  text: '**Ebene.** **Schatten:** Strenge einen Diener an und entferne eine Lastmarke, um den Freien Völker Spieler zu zwingen, einen seiner Effekte abzulegen.'
+  lore: ''

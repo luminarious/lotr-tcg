@@ -1,0 +1,38 @@
+set: '3'
+rarity: C
+number: '108'
+unique: true
+culture: Shire
+type: Possession
+class: Hand Weapon
+cost: 0
+str: '+1'
+en:
+  title: Frying Pan
+  subtitle: ''
+  text: |-
+    Bearer must be a Hobbit.   
+    **Skirmish:** Exert bearer to wound an Orc he or she is skirmishing. 
+  lore: ‘I think I'm getting the hang of this!’
+de:
+  title: Bratpfanne
+  subtitle: ''
+  text: Muss auf einen Hobbit gespielt werden. **Kampf:** Strenge den Träger an, um einen Ork, den er bekämpft, zu verwunden.
+  lore: Ich glaub', langsam hab’ ich den Dreh raus.
+fr:
+  title: Poêle à Frire
+  subtitle: ''
+  text: Le détenteur doit être un Hobbit. **Combat :** Affaiblissez le détenteur pour blesser un Orque qu’il combat.
+  lore: 'Je crois que je commence à piger!” '
+it:
+  title: Padella
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Hobbit.   
+    **Schermaglia:** Sforza il possessore per ferire un Orco con cui stia schermagliando.
+  lore: ‘Mi sembra di cominciare ad abituarmici!’
+es:
+  title: Sartén
+  subtitle: ''
+  text: El portador debe ser un Hobbit. **Escaramuza:** Esfuerza al portador para herir un Orco con el que esté en una escaramuza.
+  lore: ¡Creo que le estoy pillando el truco!

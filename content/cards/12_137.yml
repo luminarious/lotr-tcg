@@ -1,0 +1,25 @@
+set: '12'
+rarity: C
+number: '137'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '10'
+vit: '2'
+site: 5
+en:
+  title: Breeding Pit Conscript
+  subtitle: ''
+  text: |-
+    **Damage +1. Muster.** *(At the start of the regroup phase, you may discard a card from hand to draw a card.)*   
+    When you play this minion, you may discard a card from hand to draw a card.
+  lore: A select few of Saruman’s Uruk-hai were charged with harvesting his war-machine.
+de:
+  title: Brutgrubenrekrut
+  subtitle: ''
+  text: |-
+    **Schaden +1**. **Appell**. *(Zu Beginn der Sammelphase darfst du eine Karte aus deiner Hand ablegen, um eine Karte zu ziehen.)*  
+    Wenn du diesen Diener spielst, darfst du eine Karte aus deiner Hand ablegen, um eine Karte zu ziehen.
+  lore: Ausgewählte Uruk-hai wurden von Saruman beauf-tragt, Rohstoffe für die Kriegsmaschinen zu besorgen.

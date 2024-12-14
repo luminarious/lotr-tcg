@@ -1,0 +1,15 @@
+set: '18'
+rarity: R
+number: '102'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Rohirrim Diadem
+  subtitle: ''
+  text: |-
+    To play, spot Théoden.  
+    **Skirmish:** Spot a :rohan: Man bearing a possession and discard a :rohan: possession from hand to make that Man strength +2.
+  lore: With Gríma’s treacherous whispers removed and Saruman’s grasp released, none doubted the might and lordship of Théoden, the King of Rohan.

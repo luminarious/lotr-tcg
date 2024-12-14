@@ -1,0 +1,37 @@
+set: '1'
+rarity: U
+number: '219'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: The Nine Servants of Sauron
+  subtitle: ''
+  text: |-
+    **Search.**   
+    Each time you play a Nazgûl, you may exert a Hobbit (except the Ring-bearer).
+  lore: ‘That Black Rider was looking for something… or someone – Frodo?’
+de:
+  title: Die neun Diener Saurons
+  subtitle: ''
+  text: '**Suche.** Jedesmal, wenn du einen Nazgûl spielst, darfst du einen Hobbit (ausser dem Ringträger) anstrengen.'
+  lore: Der schwarze Reiter hat irgendetwas gesucht…oder jemanden – Frodo?
+fr:
+  title: Les Neuf Serviteurs de Sauron
+  subtitle: ''
+  text: |-
+    **Recherche.** Jouable dans votre aire de soutien.  
+    Chaque fois que vous jouez un Nazgûl, vous pouvez affaiblir un Hobbit (excepté le Porteur de l’Anneau).
+  lore: ‘Ce Cavalier Noir semblait chercher quelque chose … ou quelqu'un – Frodon?’
+it:
+  title: I Nove Servi di Sauron
+  subtitle: ''
+  text: '**Ricerca.** Ogni volta che giochi un Nazgûl, puoi sforzare un Hobbit (eccetto il Portatore dell’Anello).'
+  lore: ‘I Cavalieri Neri stavano cercando qualcosa … o qualcuno – Frodo?’
+es:
+  title: Los Nueve Servidores de Sauron
+  subtitle: ''
+  text: '**Búsqueda.** Cada vez que juegues un Nazgûl, puedes esforzar un Hobbit (excepto el Portador del Anillo).'
+  lore: Ese jinete negro estaba buscando algo…o a alguien – ¿Frodo?

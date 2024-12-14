@@ -1,0 +1,18 @@
+set: '18'
+rarity: C
+number: '89'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 5
+str: '10'
+vit: '2'
+site: 4
+en:
+  title: Orkish Headsman
+  subtitle: ''
+  text: |-
+    **Hunter 1.** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    This minion is strength +3 for each companion in the dead pile (limit +6). 
+  lore: As the free people of Middle-earth fell, Mordor’s strength grew.

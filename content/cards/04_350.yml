@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '350'
+unique: true
+culture: ''
+type: Site
+cost: 8
+siteArrow: Left
+en:
+  title: Hornburg Courtyard
+  subtitle: ''
+  text: '**Battleground.** While you can spot Aragorn, the Shadow number of Hornburg Courtyard is -2. '
+  lore: ''
+de:
+  title: Hof der Hornburg
+  subtitle: ''
+  text: '**Schlachtfeld.** Solange du Aragorn entdecken kannst, verringert sich die Schattenzahl des Hofs der Hornburg um 2.'
+  lore: ''
+fr:
+  title: La Cour de Fort le Cor
+  subtitle: ''
+  text: '**Champ de bataille.** Tant que vous pouvez désigner Aragorn, la Puissance de l’Ombre de la Cour de Fort le Cor est de -2.'
+  lore: '5'
+it:
+  title: Cortile del Trombatorrione
+  subtitle: ''
+  text: '**Campo di Battaglia.** Mentre puoi avvistare Aragorn, sottrai -2 al numero Ombra di Cortile del Trombatorrione.'
+  lore: ''
+es:
+  title: Patio De Cuernavilla
+  subtitle: ''
+  text: '**Campo de batalla.** Mientras puedas avistar a Aragorn, el número de Sombra del Patio De Cuernavilla es -2.'
+  lore: ''

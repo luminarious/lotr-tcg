@@ -1,0 +1,23 @@
+set: '11'
+rarity: S
+number: '188'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '5'
+vit: '2'
+site: 5
+en:
+  title: Hounding Uruk
+  subtitle: ''
+  text: '**Damage +1.** While you can spot an exhausted companion, this minion is strength +3.'
+  lore: An enemy on the move is an enemy unprepared.
+de:
+  title: Hetzender Uruk
+  subtitle: ''
+  text: |-
+    **Schaden +1**.  
+    Solange du einen erschöpften Gefährten entdecken kannst, erhält dieser Diener Stärke +3.
+  lore: Auf dem Marsch ist der Feind nicht auf der Hut.

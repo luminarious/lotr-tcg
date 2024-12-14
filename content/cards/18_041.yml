@@ -1,0 +1,15 @@
+set: '18'
+rarity: R
+number: '41'
+unique: true
+culture: Gondor
+type: Artifact
+class: Support Area
+cost: 4
+en:
+  title: Crown of Gondor
+  subtitle: ''
+  text: |-
+    To play, spot Aragorn, Elendil, or Isildur.  
+    **Skirmish:** Spot a :gondor: Man with 3 or more vitality and discard a :gondor: card from hand to make that Man strength +2.
+  lore: Et Eärello Endorenna utúlien. Sinome maruvan ar Hildinyar tenn’ Ambar-metta!

@@ -1,0 +1,19 @@
+set: '13'
+rarity: R
+number: '36'
+unique: true
+culture: Gandalf
+type: Artifact
+class: Palantír
+cost: 0
+res: '-2'
+en:
+  title: The Palantír of Orthanc
+  subtitle: Recovered Seeing Stone
+  text: Bearer must be Gandalf. To play this, if you can spot The Palantír of Orthanc, discard it. At the start of the fellowship phase, you may add a burden to reveal a Shadow player’s hand. He or she must choose a revealed minion and discard it from hand.
+  lore: …a heavy shining thing came hurtling down from above.
+de:
+  title: Der Palantír von Orthanc
+  subtitle: Geborgener sehender Stein
+  text: Muss auf Gandalf gespielt werden. Lege den Palantír von Orthanc ab, wenn du einen entdecken kannst, um diese Karte zu spielen. Zu Beginn der Gemeinschaftsphase darfst du eine Lastmarke auf den Ringträger legen, um die Hand eines Schattenspielers aufzudecken. Dieser muss einen aufgedeckten Diener auswählen und diesen aus der Hand ablegen.
+  lore: ''

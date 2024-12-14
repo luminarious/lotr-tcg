@@ -1,0 +1,16 @@
+set: '13'
+rarity: C
+number: '29'
+unique: true
+culture: Gandalf
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Dasron
+  subtitle: Merchant From Dorwinion
+  text: 'At the start of the fellowship phase, you may remove 2 Free Peoples culture tokens to take a :gandalf: event into hand from your discard pile.'
+  lore: …its inhabitants, traditional trading partners of Esgaroth and Dale, now look to their northern allies for protection against the wild Easterlings….

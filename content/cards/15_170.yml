@@ -1,0 +1,20 @@
+set: '15'
+rarity: R
+number: '170'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '10'
+vit: '3'
+site: 5
+en:
+  title: Sentry Uruk
+  subtitle: ''
+  text: |-
+    To play, spot an :urukhai: minion.  
+    While you can spot a fierce minion, this minion is **fierce**.  
+    While you can spot a hunter, this minion gains **hunter 1**.  
+    While you can spot a character that is damage +1, this minion is **damage +1**.
+  lore: ''

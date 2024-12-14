@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '37'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Lemenya
+  subtitle: Dark Enemy
+  text: |-
+    **Fierce.**  
+    Úlairë Lemenya is strength +1 for each :wraith: possession in your discard pile.
+  lore: ‘Do you wish them to find you? They are terrible!’

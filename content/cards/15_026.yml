@@ -1,0 +1,15 @@
+set: '15'
+rarity: U
+number: '26'
+unique: true
+culture: Elven
+type: Follower
+cost: 2
+res: '+1'
+en:
+  title: Uruviel
+  subtitle: Woodland Maid
+  text: |-
+    **Aid –** :twilight1:. *(At the start of the maneuver phase, you may add* :twilight1: *to transfer this to a companion.)*  
+    Each time you transfer this to a companion, you may exert an Elf to make the fellowship’s current site a forest until the end of the turn.
+  lore: ''

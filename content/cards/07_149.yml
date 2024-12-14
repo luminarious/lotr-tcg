@@ -1,0 +1,22 @@
+set: '7'
+rarity: C
+number: '149'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Great Beasts
+  subtitle: ''
+  text: |-
+    To play, spot a :raider: Man.   
+    **Regroup:** Remove :twilight9: and spot 3 :raider: Men to make the move limit –1.
+  lore: ''
+de:
+  title: Gewaltige Bestien
+  subtitle: ''
+  text: |-
+    Entdecke einen :raider: Menschen, um diesen Effekt zu spielen.   
+    **Sammeln:** Verringere den Einfluss um :twilight9: und entdecke 3 :raider: Menschen, um die Bewegungsweite um 1 zu reduzieren.
+  lore: …wie wandelnde Häuser in dem roten, flackernden Licht…

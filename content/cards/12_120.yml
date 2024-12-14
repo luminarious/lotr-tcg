@@ -1,0 +1,20 @@
+set: '12'
+rarity: R
+number: '120'
+unique: true
+culture: Shire
+type: Event
+class: Regroup
+cost: 1
+en:
+  title: Diversion
+  subtitle: ''
+  text: Discard a Hobbit not assigned to a skirmish from play to discard a minion from play. If the fellowship is at a battleground site, you may add 2 burdens to play this event during a skirmish involving a Hobbit.
+  lore: Each member of the fellowship was willing to make any sacrifice to safeguard the Quest.
+de:
+  title: Ablenkung
+  subtitle: ''
+  text: |-
+    Lege einen Hobbit, der keinem Kampf zugewiesen ist aus dem Spiel ab, um einen Diener aus dem Spiel abzulegen.  
+    Du darfst 2 Lastmarken auf den Ringträger legen, wenn sich die Gemeinschaft auf einem Schlachtfeld befindet, um dieses Ereignis in einem Kampf zu spielen, an dem ein Hobbit beteiligt ist.
+  lore: ''

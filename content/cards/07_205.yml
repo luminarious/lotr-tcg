@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '205'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Put Forth His Strength
+  subtitle: ''
+  text: |-
+    To play spot a Nazgûl.   
+    **Shadow:** If you have initiative and there are 3 characters in the dead pile, spot 3 burdens, 3 threats and a Nazgûl to corrupt the Ring–bearer.
+  lore: ''
+de:
+  title: Seine Kraft zeigen
+  subtitle: ''
+  text: |-
+    Entdecke einen Nazgûl, um diesen Effekt zu spielen.   
+    **Schatten:** Wenn du die Initiative besitzt und 3 Charaktere auf dem Friedhof liegen, entdecke 3 Lastmarken, 3 Bedrohungen und einen Nazgûl, um den Ringträger der Versuchung durch den Ring erliegen zu lassen.
+  lore: …waren ihre Stimmen… erfüllt von Unheil und Schrecken.

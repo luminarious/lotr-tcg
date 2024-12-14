@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '8'
+unique: true
+culture: Dwarven
+type: Possession
+class: Armor
+cost: 0
+en:
+  title: Dwarven Armor
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf.   
+    Bearer may not be overwhelmed unless his or her strength is tripled.
+  lore: The strongest armour still being made in Middle-earth is forged by Dwarves. It is so heavy that only they can bear it.
+de:
+  title: Zwergenrüstung
+  subtitle: ''
+  text: Muss auf einen Zwerg gespielt werden. Der Träger kann nur mit dreifacher Stärke überwältigt werden.
+  lore: Die stärksten Rüstungen in Mittelerde werden von den Zwergen geschmiedet. Sie sind so schwer, dass nur Zwerge sie tragen können.
+fr:
+  title: Armure Naine
+  subtitle: ''
+  text: Le détenteur doit être un Nain. Le détenteur n’est submergé que si la force du camp adverse est trois fois supérieure à la sienne.
+  lore: La plus robuste des armures jamais faite en Terre du Milieu fut forgée par les Nains. Elle est si lourde qu'eux seuls peuvent la porter.
+it:
+  title: Armatura dei Nani
+  subtitle: ''
+  text: Il possessore deve essere un Nano. Il possessore non è sopraffatto a meno che la forza degli avversari non sia il triplo della sua forza.
+  lore: La più forte armatura ancora esistente nella Terra di Mezzo è stata forgiata dai Nani. È così pesante che solo loro la possono indossare.
+es:
+  title: Armadura Enana
+  subtitle: ''
+  text: El portador debe ser un enano. El portador no puede ser abrumado si su fuerza no es triplicada.
+  lore: La armadura mas fuerte que todavía se fabrica en la Tierra Media es forjada por Enanos. Es tan pesada que solo ellos pueden llevarla.

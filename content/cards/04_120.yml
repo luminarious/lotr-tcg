@@ -1,0 +1,40 @@
+set: '4'
+rarity: R
+number: '120'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Forbidden Pool
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    While the fellowship is at site 6:tower:, each Ring-bound Man takes no more than 1 wound during each skirmish phase.  
+    **Fellowship:** Add :twilight2: and discard this condition to heal a Ring-bound Man. 
+  lore: ‘…tonight you have come where it is death to come.’
+de:
+  title: Der verbotene Weiher
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Solange sich die Gemeinschaft an Ort 6:tower: befindet, erleiden Ring-verbundene Menschen in jeder Kampfphase höchstens 1 Wunde. **Gemeinschaft.** Erhöhe den Einfluss um :twilight2: und lege diesen Effekt ab, um einen Ring-verbundenen Menschen zu heilen.'
+  lore: … bist du dorthin gekommen, wohin zu kommen den Tod bedeutet.
+fr:
+  title: Lac Interdit
+  subtitle: ''
+  text: 'Tant que la compagnie est au site 6:tower:, chaque Homme associé à l’Anneau ne prend pas plus d’une blessure pendant chaque phase de combat. **Compagnie :** Ajoutez :twilight2: et défaussez cette situation pour guérir un Homme associé à l’Anneau.'
+  lore: '…vous êtes venus en un lieu où la venue signifie la mort.” '
+it:
+  title: Lo Stagno Proibito
+  subtitle: ''
+  text: |-
+    Mentre la compagnia è al sito 6:tower:, ogni Uomo Legato all’Anello non subisce più di 1 ferita durante ogni fase di schermaglia.   
+    **Compagnia:** Aggiungi :twilight2: e scarta questa condizione per curare un Uomo **Legato all’Anello.**
+  lore: ‘…stanotte sei venuto qui ove ogni visita si paga con la morte.’
+es:
+  title: Estanque Vedado
+  subtitle: ''
+  text: |-
+    Mientras la comunidad esté en el sitio 6:tower:, cada Hombre Vinculado al Anillo no recibe más de 1 herida durante cada fase de escaramuza.   
+    **Comunidad:** Añade :twilight2: y descarta esta condición para curar un Hombre **Vinculado al Anillo.**
+  lore: …pero esta noche has venido a un lugar donde sólo venir significa la muerte.

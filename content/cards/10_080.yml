@@ -1,0 +1,18 @@
+set: '10'
+rarity: C
+number: '80'
+unique: true
+culture: Sauron
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Beaten Back
+  subtitle: ''
+  text: 'Make a :sauron: minion strength +2 for each site you control. If you have initiative, that minion is **fierce** until the regroup phase. '
+  lore: The Rammas was broken, and all the Pelennor abandoned to the Enemy.
+de:
+  title: Zurückgeschlagen
+  subtitle: ''
+  text: 'Gib einem :sauron: Diener Stärke +2 für jeden Ort, den du kontrollierst. Dieser Diener wird bis zur Sammelphase **erbittert**, wenn du die Initiative besitzt.'
+  lore: Der Rammas war zerstört und der ganze Pelenor dem Feind preisgegeben.

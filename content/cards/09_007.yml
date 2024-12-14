@@ -1,0 +1,22 @@
+set: '9'
+rarity: R+
+number: '7'
+unique: true
+culture: Dwarven
+type: Artifact
+class: Ring
+cost: 0
+str: '+1'
+en:
+  title: Ring of Fury
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf.   
+    Bearer is **damage +2.**   
+    **Regroup:** Spot a Dwarf that is damage +X to heal X Dwarves. Discard this artifact. 
+  lore: ‘Azog! If you are in come out! Or is the play in the valley too rough?’
+de:
+  title: Der Ring des Zorns
+  subtitle: ''
+  text: Muss auf einen Zwerg gespielt werden. Der Träger erhält **Schaden +2**. **Sammeln:** Entdecke einen Zwerg mit Schaden +X, um X Zwerge zu heilen. Lege dieses Artefakt ab.
+  lore: Azog! Wenn du drinnen bist, komm heraus! Oder ist der Waffengang im Tal zu roh?

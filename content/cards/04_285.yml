@@ -1,0 +1,26 @@
+set: '4'
+rarity: U
+number: '285'
+unique: true
+culture: Rohan
+type: Ally
+race: Man
+cost: 1
+str: '4'
+vit: '2'
+site: 4T
+en:
+  title: Léod
+  subtitle: Westfold Herdsman
+  text: |-
+    **Villager.**   
+    Discard Léod if an opponent controls his home site.   
+    **Skirmish:** Exert Léod to make a mounted companion strength +2. 
+  lore: Humble Léod was a rancher before he became a soldier at Helm’s Deep.
+fr:
+  title: Leod
+  subtitle: Berger de l'Ouestfolde
+  text: |-
+    **Villageois.**  
+    Défaussez Leod si un adversaire contrôle son site de demeure. **Combat :** Affaiblissez Leod pour donner +2 en force à un compagnon détenant une monture.
+  lore: 'Il n''y a en elle ni dans ce pays nul mal, autre que celui qu''y apporterait un homme lui-même. Et alors, qu''il prenne garde!” '

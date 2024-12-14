@@ -1,0 +1,25 @@
+set: '13'
+rarity: U
+number: '170'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Uruk Distractor
+  subtitle: ''
+  text: |-
+    **Damage +1.  
+    Skirmish:** If this minion is not assigned to a skirmish, you may exert it to discard a possession borne by a companion skirmishing another :urukhai: minion.
+  lore: Wounds do not always remove the Uruk-hai from their assault.
+de:
+  title: Uruk Ablenkung
+  subtitle: ''
+  text: |-
+    **Schaden +1.  
+    Kampf:** Du darfst diesen Diener anstrengen, wenn er keinem Kampf zugewiesen ist, um eine Ausrüstung von einem Gefährten abzulegen, der gegen einen anderen :urukhai: Diener kämpft.
+  lore: Uruk-hai lassen sich von ein paar Wunden nicht immer aufhalten.

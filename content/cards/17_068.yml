@@ -1,0 +1,16 @@
+set: '17'
+rarity: C
+number: '68'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Chaotic Clash
+  subtitle: ''
+  text: |-
+    To play, spot no minions.  
+    Each time you play a minion, it is twilight cost +1.  
+    While you can spot an :orc: minion, each companion is strength -1. 
+  lore: An Orc often was spurred into battle as if death was preferable to the torment of its orkish life.

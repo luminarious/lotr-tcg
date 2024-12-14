@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '19'
+unique: true
+culture: Elven
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Gift of Foresight
+  subtitle: ''
+  text: '**Fellowship:** Spot an Elf to reveal the top card of your draw deck. You may discard it, return it to the top of your draw deck, or take it into hand.'
+  lore: ‘Here you will dwell, bound to your grief, under the fading trees.’
+de:
+  title: Gabe der Vorsehung
+  subtitle: ''
+  text: '**Gemeinschaft:** Entdecke einen Elben, um die oberste Karte deines Spieldecks aufzudecken. Du darfst diese Karte ablegen, sie wieder zurück auf dein Spieldeck legen oder auf deine Hand nehmen.'
+  lore: Hier wirst du dein Dasein fristen, gefesselt an Trauer unter schwindenden Bäumen.
+fr:
+  title: Don de la Prévoyance
+  subtitle: ''
+  text: '**Compagnie :** Désignez un Elfe pour révéler la première carte de votre pioche. Vous pouvez la défausser, la replacer sur votre pioche ou la prendre en main.'
+  lore: 'C''est ici que vous habiterez, liés à votre chagrin, sous les arbres flétris.” '
+it:
+  title: Dono della Preveggenza
+  subtitle: ''
+  text: '**Compagnia:** Avvista un Elfo per mostrare la prima carta del tuo mazzo di gioco. Puoi scartarla, rimetterla in cima al tuo mazzo di gioco, o aggiungerla alla tua mano.'
+  lore: ‘Qui tu dimorerai, incatenata al tuo dolore, sotto i pallidi alberi.’
+es:
+  title: Don de la predicción
+  subtitle: ''
+  text: '**Comunidad:** Avista un Elfo para revelar la carta superior de tu mazo de robar. Puedes descartarla, volverla a la parte superior de tu mazo de robar, o tomarla en tu mano.'
+  lore: Aquí permanecerás, unida a tu pena, bajo los árboles marchitos.

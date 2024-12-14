@@ -1,0 +1,14 @@
+set: '18'
+rarity: C
+number: '82'
+unique: true
+culture: Man
+type: Condition
+cost: 0
+en:
+  title: Whisper in the Dark
+  subtitle: ''
+  text: |-
+    Bearer must be a follower.  
+    At the start of the maneuver phase, the Free Peoples player must exert an unbound companion.
+  lore: My lord, Gandalf the Grey is coming. He’s a herald of woe.

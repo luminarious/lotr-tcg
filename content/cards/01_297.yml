@@ -1,0 +1,42 @@
+set: '1'
+rarity: C
+number: '297'
+unique: true
+culture: Shire
+type: Ally
+race: Hobbit
+cost: 1
+str: '2'
+vit: '2'
+site: '1'
+en:
+  title: Hobbit Party Guest
+  subtitle: ''
+  text: |-
+    At the start of each of your turns, heal this ally.   
+    **Fellowship:**Exert this ally to heal another Hobbit ally whose home is site 1.
+  lore: '‘More promising still (to the hobbits’ mind): an enourmous open-air kitchen was erected….’'
+de:
+  title: Hobbit Partygast
+  subtitle: ''
+  text: Zu Beginn eines jeden deiner Spielzüge, heile diesen Verbündeten. **Gemeinschaft.** Strenge den Hobbit Partygast an, um einen anderen Hobbitverbündeten zu heilen, dessen Heimatort 1 ist.
+  lore: Noch verheissungsvoller war (nach Ansicht der Hobbits) eine riesige Küche, die in… unter freiem Himmel aufgebaut wurde.
+fr:
+  title: Invité de la Fête Hobbite
+  subtitle: ''
+  text: Au début de chacun de vos tours, guérissez cet allié. **Compagnie :** Affaiblissez cet allié pour guérir un autre allié Hobbit dont la demeure est un site 1.
+  lore: '‘Une chose était plus prometteuse encore (dans l''esprit d''un Hobbit): une énorme cuisine en plein air fut érigée….’'
+it:
+  title: Hobbit Ospite della Festa
+  subtitle: ''
+  text: |-
+    All’inizio di ogni tuo turno, cura questo alleato.   
+    **Compagnia:** Sforza questo alleato per curare un altro alleato Hobbit la cui Casa sia il sito 1.
+  lore: ‘Fatto ancora più promettente (per gli Hobbit), fu installata un'enorme cucina all'aria aperta ….’
+es:
+  title: Invitado a La Fiesta Hobbit
+  subtitle: ''
+  text: |-
+    Al principio de cada uno de tus turnos, cura este aliado.   
+    **Comunidad:** Esfuerza este aliado para curar otro aliado Hobbit cuyo hogar sea el sitio 1.
+  lore: 'Aun algo mas promisorio para la mentalidad hobbit: se levanto una enorme cocina al aire libre…'

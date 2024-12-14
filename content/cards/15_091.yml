@@ -1,0 +1,18 @@
+set: '15'
+rarity: C
+number: '91'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '2'
+site: 4
+en:
+  title: Ravaging Wild Man
+  subtitle: ''
+  text: |-
+    While you can spot a hunter, this minion gains **hunter 1**.  
+    Each time this minion wins a skirmish, you may exert 2 :men: Men to discard a follower.
+  lore: No villager is safe when the Wild Men attack.

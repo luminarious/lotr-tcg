@@ -1,0 +1,40 @@
+set: '1'
+rarity: R
+number: '173'
+unique: true
+culture: Moria
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Goblin Armory
+  subtitle: ''
+  text: |-
+
+    Each time you play a :moria: weapon, add :twilight1:.   
+    **Response:** If a :moria: Orc is about to take a wound, discard this condition to prevent that wound.
+  lore: For scavenging vermin, the weapons of fallen foes are prized possessions.
+de:
+  title: Goblin Rüstkammer
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedesmal, wenn du eine :moria: Waffe spielst, erhöhe den Einfluss um :twilight1:. **Reaktion:** Wenn ein :moria: Ork verwundet wird, kannst du diesen Effekt ablegen, um die Verwundung zu verhindern.'
+  lore: Für plünderndes Ungeziefer sind die Waffen und Pfeile getöteter Feinde wertvolle Besitztümer.
+fr:
+  title: Armurerie Gobeline
+  subtitle: ''
+  text: 'Chaque fois que vous jouez une arme :moria:, ajoutez :twilight1:. **Réponse :** Si un Orque :moria: est sur le point de prendre une blessure, défaussez cette situation pour empêcher cette blessure.'
+  lore: Pour les charognards, les armes des ennemis tombés sont des biens prisés.
+it:
+  title: Armeria Goblin
+  subtitle: ''
+  text: |-
+    Ogni volta che giochi un’arma :moria:, aggiungi.  
+    **Risposta:** Se un Orco :moria: è prossimo ad essere ferito, scarta questa condizione per impedire quella ferita.
+  lore: Per i parassiti che cercano nei rifiuti, le armi dei nemici caduti sono beni preziosi.
+es:
+  title: Armería Goblin
+  subtitle: ''
+  text: |-
+    Cada vez que juegues un arma :moria:, añade :twilight1:.   
+    **Respuesta:** Si un Orco :moria: esta a punto de recibir una herida, descarta esta condición para prevenir esa herida.
+  lore: Para las alimañas, las armas y las flechas de los enemigos caídos son posesiones muy preciadas.

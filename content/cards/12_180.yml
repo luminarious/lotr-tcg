@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '180'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '12'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Toldëa
+  subtitle: Black Shadow
+  text: |-
+    **Fierce.**   
+    When you play Úlairë Toldëa, you may exert him to take a :wraith: event from your discard pile into hand.
+  lore: So black were they that they seemed like black holes in the deep shade behind them.

@@ -1,0 +1,23 @@
+set: '7'
+rarity: C
+number: '52'
+unique: true
+culture: Gandalf
+type: Possession
+class: Staff
+cost: 2
+str: '+1'
+en:
+  title: Wizard Staff
+  subtitle: ''
+  text: |-
+    Bearer must be a Wizard.   
+    **Skirmish:** Exert bearer twice to make a minion strength –3. 
+  lore: ''
+de:
+  title: Stab des Zauberers
+  subtitle: ''
+  text: |-
+    Muss auf einen Zauberer gespielt werden.   
+    **Kampf:** Strenge den Träger zweimal an, um einem Diener Stärke -3 zu geben.
+  lore: ''

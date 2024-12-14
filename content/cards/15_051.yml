@@ -1,0 +1,33 @@
+set: '15'
+rarity: U
+number: '51'
+unique: true
+culture: Gollum
+type: Event
+class: Shadow
+cost: 2
+en:
+  title: ' Sudden Strike'
+  subtitle: ''
+  text: 'Spot Gollum or Sméagol to play a minion from your draw deck. If that minion is a :gollum: minion, you may also play a Shadow possession or Shadow condition from your draw deck.'
+  lore: …she drove her huge bulk down on him again.
+de:
+  title: Sudden Strike
+  subtitle: ''
+  text: 'Spot Gollum or Sméagol to play a minion from your draw deck. If that minion is a :gollum: minion, you may also play a Shadow possession or Shadow condition from your draw deck.'
+  lore: …she drove her huge bulk down on him again.
+fr:
+  title: Sudden Strike
+  subtitle: ''
+  text: 'Spot Gollum or Sméagol to play a minion from your draw deck. If that minion is a :gollum: minion, you may also play a Shadow possession or Shadow condition from your draw deck.'
+  lore: …she drove her huge bulk down on him again.
+it:
+  title: Sudden Strike
+  subtitle: ''
+  text: 'Spot Gollum or Sméagol to play a minion from your draw deck. If that minion is a :gollum: minion, you may also play a Shadow possession or Shadow condition from your draw deck.'
+  lore: …she drove her huge bulk down on him again.
+es:
+  title: Sudden Strike
+  subtitle: ''
+  text: 'Spot Gollum or Sméagol to play a minion from your draw deck. If that minion is a :gollum: minion, you may also play a Shadow possession or Shadow condition from your draw deck.'
+  lore: …she drove her huge bulk down on him again.

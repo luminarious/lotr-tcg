@@ -1,0 +1,36 @@
+set: '1'
+rarity: C
+number: '266'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '2'
+site: 6
+en:
+  title: Orc Chieftain
+  subtitle: ''
+  text: 'When you play a weapon on this minion, add :twilight2: (limit once per turn).'
+  lore: Orc chieftains are the most cruel of a heartless race. Both strength and malice are needed to lead such followers.
+de:
+  title: Ork Häuptling
+  subtitle: ''
+  text: 'Wenn du eine Waffe auf diesen Diener spielst, erhöhe den Einfluss um :twilight2: (maximal einmal pro Spielzug).'
+  lore: Ork Häuptlinge sind die brutalsten einer gefühlslosen Rasse. Sowohl Stärke als auch Bosheit sind vonnöten, um solche Wesen anzuführen.
+fr:
+  title: Chef de Clan Orque
+  subtitle: ''
+  text: 'Quand vous jouez une arme sur ce séide, ajoutez :twilight2: (limité à une fois par tour).'
+  lore: Les Chefs de Clan Orques sont les plus cruels d'une race sans pitié. À la fois force et malice sont nécessaires pour diriger de tels suivants.
+it:
+  title: Capo Orco
+  subtitle: ''
+  text: 'Quando giochi un’arma su questo servitore, aggiungi :twilight2: (limite una volta per turno).'
+  lore: I Capi degli Orchi sono i più crudeli di questa razza spietata. Sia la forza che la malvagità sono necessarie per condurre seguaci di tal sorta.
+es:
+  title: Caudillo Orco
+  subtitle: ''
+  text: 'Cuando juegas un arma en este siervo, añade :twilight2: (límite una vez por turno).'
+  lore: Los caudillos Orcos son los más crueles de una raza sin corazón. Tanto la fuerza como la malicia son necesarias para liderar tales seguidores.

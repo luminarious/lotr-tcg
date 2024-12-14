@@ -1,0 +1,19 @@
+set: '15'
+rarity: R
+number: '123'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '7'
+en:
+  title: Éomer
+  subtitle: Horsemaster
+  text: |-
+    **Valiant. Hunter 2.** *(While skirmishing a non-hunter character, this character is strength +2.)*  
+    While you can spot a :rohan: Man, Éomer’s twilight cost is -1.  
+    **Skirmish:** Discard a :rohan: card from hand to make Éomer strength +2.
+  lore: ''

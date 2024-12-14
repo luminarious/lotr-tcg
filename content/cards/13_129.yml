@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '129'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Hamstrung
+  subtitle: ''
+  text: 'Make a :rohan: companion strength +2 (or +5 if the fellowship has moved twice this turn).'
+  lore: Spears and arrows from Rohan brought down the mighty Mûmakil.
+de:
+  title: Achillesferse
+  subtitle: ''
+  text: 'Gib einem :rohan: Gefährten Stärke +2 (oder +5, wenn sich die Gemeinschaft in diesem Zug zweimal bewegt hat).'
+  lore: Die Speere und Pfeile der Rohirrim brachten das gewaltige Mûmak zur Strecke.

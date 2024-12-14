@@ -1,0 +1,18 @@
+set: '13'
+rarity: R
+number: '59'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 4
+str: '8'
+vit: '4'
+res: '8'
+en:
+  title: Aragorn
+  subtitle: Isildur’s Heir
+  text: |-
+    Aragorn is strength +1 for each :gondor: card that has a culture token on it.  
+    At the start of each assignment phase, you may exert Aragorn to make an unbound companion that has resistance 7 or more **defender +1** until the regroup phase.
+  lore: Thus came Aragorn, son of Arathorn, Elessar….

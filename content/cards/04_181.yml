@@ -1,0 +1,45 @@
+set: '4'
+rarity: C
+number: '181'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Uruk Chaser
+  subtitle: ''
+  text: |-
+    **Tracker.** **Fierce.**   
+    During a fierce skirmish involving this minion, it is strength +2. 
+  lore: ‘Now we'll have to leg it double quick.’
+de:
+  title: Jagender Uruk
+  subtitle: ''
+  text: |-
+    **Spurenleser.** **Erbittert.**  
+    Dieser Diener erhält während eines **Erbittert**en Kampfes Stärke +2.
+  lore: Jetzt müssen wir doppelt schnell laufen.
+fr:
+  title: Poursuiveur Ourouk
+  subtitle: ''
+  text: |-
+    **Traqueur.** **Acharné.**  
+    Pendant un combat **acharné** qui l’implique, ce séide a +2 en force.
+  lore: 'Il nous va falloir jouer doublement des jambes, maintenant.” '
+it:
+  title: Inseguitore Uruk
+  subtitle: ''
+  text: |-
+    **Inseguitore.**  
+    **Feroce.**  
+    Durante una schermaglia **Feroce** che coinvolga questo servitore, aggiungi +2 alla sua forza.
+  lore: ‘Ora dovremo raddoppiare l'andatura.’
+es:
+  title: Perseguidor Uruk
+  subtitle: ''
+  text: '**Rastreador.** **Fiero.** Durante una escaramuza fiera en la que esté participando, él es fuerza +2.'
+  lore: Ahora habrá que redoblar el paso.

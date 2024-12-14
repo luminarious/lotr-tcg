@@ -1,0 +1,18 @@
+set: '5'
+rarity: U
+number: '92'
+unique: true
+culture: Rohan
+type: Ally
+race: Man
+cost: 1
+str: '4'
+vit: '2'
+site: 4T
+en:
+  title: Sigewulf
+  subtitle: Brave Volunteer
+  text: |-
+    **Villager.**  
+    **Regroup:** Exert Sigewulf and spot 5 valiant Men to discard a minion.
+  lore: The courage of Sigewulf and other Rohirrim like him will not be forgotten.

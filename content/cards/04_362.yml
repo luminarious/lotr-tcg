@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '362'
+unique: true
+culture: ''
+type: Site
+cost: 9
+siteArrow: Left
+en:
+  title: Orthanc Library
+  subtitle: ''
+  text: 'When the fellowship moves to Orthanc Library, each Shadow player may draw a card for each companion over 4. '
+  lore: ''
+de:
+  title: Bibliothek von Orthanc
+  subtitle: ''
+  text: Wenn die Gemeinschaft die Bibliothek von Orthanc erreicht, darf jeder Schattenspieler eine Karte ziehen für jeden Gefährten über 4.
+  lore: ''
+fr:
+  title: La Bibliothèque d'Orthanc
+  subtitle: ''
+  text: Quand la Compagnie arrive à la Bibliothèque, chaque joueur de l’Ombre peut piocher une carte par compagnon au-delà de 4.
+  lore: ''
+it:
+  title: Biblioteca di Orthanc
+  subtitle: ''
+  text: Quando la compagnia si muove alla Biblioteca di Orthanc, ogni giocatore Ombra può pescare una carta per ogni compagno oltre 4.
+  lore: ''
+es:
+  title: Biblioteca De Orthanc
+  subtitle: ''
+  text: Cuando la comunidad se mueve a la Biblioteca De Orthanc, cada jugador de Sombra puede robar una carta por cada compañero por encima de 4.
+  lore: ''

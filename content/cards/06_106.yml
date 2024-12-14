@@ -1,0 +1,36 @@
+set: '6'
+rarity: R
+number: '106'
+unique: true
+culture: Sauron
+type: Minion
+race: Troll
+cost: 10
+str: '14'
+vit: '5'
+site: 6
+en:
+  title: Troll of Udûn
+  subtitle: ''
+  text: '**Fierce.** While you can spot a Troll, this minion’s twilight cost is –4. **Skirmish:** Discard a :sauron: card from hand to make this minion strength +1.'
+  lore: ‘…Trolls are only counterfeits, made by the Enemy in the Great Darkness, in mockery of Ents….’
+de:
+  title: Troll von Udûn
+  subtitle: ''
+  text: '**Erbittert.** Solange du einen Troll entdecken kannst, reduzieren sich die Kosten dieses Dieners um 4. **Kampf** Lege eine :sauron: Karte aus deiner Hand ab, um diesem Diener Stärke +1 zu geben.'
+  lore: … Trolle sind nur Nachbildungen, die der Feind in der Großen Dunkelheit erschaffen hat, eine Nachahmung der Ents…
+fr:
+  title: Troll d'Udun
+  subtitle: ''
+  text: '**Acharné.** Tant que vous pouvez désigner un Troll, le coût crépusculaire du ce séide est de –4. **Combat :** Défaussez une carte :sauron: de votre main pour donner +1 en force à ce séide.'
+  lore: 'Mais ce ne sont que des contrefaçons, créées par l''Ennemi au cours des Grandes Ténèbres en dérision des Ents….” '
+it:
+  title: Troll di Udûn
+  subtitle: ''
+  text: '**Feroce.** Mentre puoi avvistare un Troll, sottrai –4 al costo crepuscolo di questo servitore. **Schermaglia:** Scarta dalla mano una carta :sauron: per aggiungere +1 alla forza di questo servitore.'
+  lore: ‘…I Troll non sono che pessime copie degli Ent, fatte dal Nemico all'epoca della Grande Oscurità….’
+es:
+  title: Troll de Udûn
+  subtitle: ''
+  text: '**Fiero.** Mientras puedas avistar un Troll, el coste de penumbra de este siervo es –4. **Escaramuza:** Descarta una carta :sauron: de la mano para darle a este siervo fuerza +1.'
+  lore: …los trolls son sólo falsificaciones, hechos por el Enemigo en la Gran Oscuridad, en burla de los Ents…

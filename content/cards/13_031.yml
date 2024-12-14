@@ -1,0 +1,22 @@
+set: '13'
+rarity: U
+number: '31'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: The Flame of Anor
+  subtitle: ''
+  text: |-
+    **Spell.**  
+    Spot 3 :gandalf: companions to make a minion skirmishing a companion strength –3.
+  lore: The power of the flame is like that of the Sun – beautiful yet blinding.
+de:
+  title: Flamme von Anor
+  subtitle: ''
+  text: |-
+    **Zauberspruch.**  
+    Entdecke 3 :gandalf: Gefährten, um einem Diener, der gegen einen Gefährten kämpft, Stärke -3 zu geben.
+  lore: Die Kraft der Flamme ist wie die der Sonne -von blendender Schönheit.

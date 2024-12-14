@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '266'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Left
+en:
+  title: Woody-End
+  subtitle: ''
+  text: '**Forest.****Shadow:** Remove a burden to play a Nazgûl from your discard pile. '
+  lore: ''
+de:
+  title: Waldende
+  subtitle: ''
+  text: '**Wald. Schatten:** Entferne eine Lastmarke, um einen Nazgûl aus deinem Ablagestapel zu spielen.'
+  lore: ''

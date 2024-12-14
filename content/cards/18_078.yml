@@ -1,0 +1,18 @@
+set: '18'
+rarity: U
+number: '78'
+unique: true
+culture: Man
+type: Minion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+site: 2
+en:
+  title: Ted Sandyman
+  subtitle: Chief's Men's Ally
+  text: |-
+    **Maneuver:** Liberate a site you control to make each :men: minion strength +2 until the regroup phase.  
+    **Regroup:** Exert Ted Sandyman to stack a :men: Man in play on a possession.
+  lore: '''You can''t touch me. I''m a friend o’ Boss’s. But he''ll touch you all right, if I have any more of your mouth.’'

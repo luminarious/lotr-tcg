@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '66'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Feathered
+  subtitle: ''
+  text: '**Skirmish:** Make a minion skirmishing an Elf strength -2 for each wound on that minion. '
+  lore: Elven swords found the same targets as their arrows.
+de:
+  title: Gefiedert
+  subtitle: ''
+  text: '**Kampf** Gib einem Diener, der gegen einen Elben kämpft, Stärke -2 für jede Wunde, die dieser Diener hat.'
+  lore: Die Schwerter der Elben fanden die gleichen Ziele wie ihre Pfeile.
+fr:
+  title: Empenné
+  subtitle: ''
+  text: '**Combat :** Pour chaque blessure sur un séide qui combat un Elfe, donnez -2 en force à ce séide.'
+  lore: Les lames des Elfes trouvèrent les mêmes cibles que leurs flèches.
+it:
+  title: Frecce Piumate
+  subtitle: ''
+  text: '**Schermaglia:** Sottrai -2 alla forza di un servitore che stia schermagliando con un Elfo, per ogni ferita su quel servitore.'
+  lore: Le spade elfiche trovarono gli stessi bersagli delle loro frecce.
+es:
+  title: Emplumado
+  subtitle: ''
+  text: '**Escaramuza:** Da a un siervo en una escaramuza contra un Elfo fuerza -2 por cada herida en ese siervo.'
+  lore: Las espadas Élficas encontraron los mismos blancos que sus flechas.

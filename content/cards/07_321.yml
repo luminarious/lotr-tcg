@@ -1,0 +1,16 @@
+set: '7'
+rarity: R
+number: '321'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+signet: Signet_Theoden
+en:
+  title: Merry
+  subtitle: Swordthain
+  text: '**Skirmish:** If Merry is not assigned to a skirmish, return him to your hand to play up to 2 :rohan: possessions from your discard pile.'
+  lore: ‘And I would not have it said of me in song only that I was always left behind!’

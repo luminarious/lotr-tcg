@@ -1,0 +1,38 @@
+set: '4'
+rarity: R
+number: '200'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 10
+str: '17'
+vit: '4'
+site: 5
+en:
+  title: Uruk Vanguard
+  subtitle: ''
+  text: |-
+    **Damage +1.** (or **damage +2** if at a battleground). To play, spot an Uruk-hai.   
+    While at a battleground, this minion is **fierce.** 
+  lore: ‘These are Uruk-hai – their armour is thick, their shields broad.’
+de:
+  title: Uruk Vorhut
+  subtitle: ''
+  text: '**Schaden +1** (oder **Schaden +2** auf einem Schlachtfeld). Entdecke einen Uruk-hai, um die Uruk Vorhut zu spielen. Auf einem Schlachtfeld ist dieser Diener **Erbittert.**'
+  lore: Dies sind Uruk-hai – gut gepanzert und mit hohen Schilden.
+fr:
+  title: Avant-Garde Ourouk
+  subtitle: ''
+  text: Dégâts +1 (ou **dégâts +2** s’il se trouve à un champ de bataille). Pour jouer, désignez un Ourouk-Haï. Tant qu’il se trouve à un champ de bataille, ce séide est **acharné.**
+  lore: 'Ce sont les Ourouk-Haï. Leur armure est épaisse, leurs bouclier larges.” '
+it:
+  title: Avanguardia Uruk
+  subtitle: ''
+  text: '**Danno +1** (o **Danno +2** se è presso un campo di battaglia). Per giocarlo, avvista un Uruk-hai. Mentre è presso un campo di battaglia, questo servitore è **Feroce.**'
+  lore: ‘Quelli sono Uruk-hai – spesse sono le loro corazze, e larghi i loro scudi.’
+es:
+  title: Vanguardia Uruk
+  subtitle: ''
+  text: Daño +1 (o **Daño +2** si está en un campo de batalla). Para jugarlo, avista un Uruk-hai. Mientras esté en un campo de batalla, este siervo es **fiero.**
+  lore: Estos son Uruk-hai; sus armaduras gruesas, sus escudos anchos.

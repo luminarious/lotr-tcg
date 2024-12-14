@@ -1,0 +1,24 @@
+set: '12'
+rarity: U
+number: '136'
+unique: true
+culture: Uruk-hai
+type: Possession
+class: Hand Weapon
+cost: 3
+en:
+  title: Berserker Torch
+  subtitle: ''
+  text: |-
+    **Toil 1.** *(For each* :urukhai: *character you exert when playing this, its twilight cost is –1.)*   
+    Bearer must be an :urukhai: Uruk-hai.   
+    Bearer is strength +2 for each wound on each character in its skirmish.
+  lore: ‘…the Orcs have brought a devilry from Orthanc….’
+de:
+  title: Berserkerfackel
+  subtitle: ''
+  text: |-
+    **Mühe 1.**  
+    Muss auf einen :urukhai: Uruk-hai gespielt werden.  
+    Der Träger erhält Stärke +2 für jede Wunde auf einem Charakter, der an seinem Kampf beteiligt ist.
+  lore: … die Orks haben eine Teufelei aus Orthanc mitgebracht….

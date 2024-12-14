@@ -1,0 +1,23 @@
+set: '8'
+rarity: R
+number: '88'
+unique: true
+culture: Rohan
+type: Possession
+class: Shield
+cost: 1
+en:
+  title: Éowyn's Shield
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.   
+    The minion archery total is –1.   
+    **Skirmish:** If bearer is Éowyn, add a threat and discard this possession to discard a hand weapon borne by a minion she is skirmishing.
+  lore: ‘Up Eorlingas! Fear no darkness!’
+de:
+  title: Éowyns Schild
+  subtitle: ''
+  text: |-
+    Muss auf einen :rohan: Menschen gespielt werden. Der Fernkampfwert der Diener reduziert sich um 1.   
+    **Kampf:** Lasse eine Bedrohung entstehen und lege Éowyns Schild ab, wenn Éowyn hiermit ausgerüstet ist, um eine Handwaffe von einem Diener abzulegen, gegen den sie kämpft.
+  lore: … Speer wird zerschellen, Schild zersplittern….

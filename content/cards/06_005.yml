@@ -1,0 +1,36 @@
+set: '6'
+rarity: C
+number: '5'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '1'
+site: 3
+en:
+  title: Dunlending Reserve
+  subtitle: ''
+  text: The twilight cost of this minion during a skirmish phase is –2.
+  lore: The relentless campaign of the hillmen drove citizens of the Westfold to the shelter of their capital.
+de:
+  title: Dunland Reserve
+  subtitle: ''
+  text: In der Kampfphase reduzieren sich die Kosten dieses Dieners um 2.
+  lore: Der gnadenlose Angriff der Bergbewohner trieb die Bewohner Westfolds dazu, Schutz in der Hauptstadt zu suchen.
+fr:
+  title: Réserviste Dun
+  subtitle: ''
+  text: Durant une phase de combat, le coût crépusculaire de ce séide est de –2.
+  lore: L'inlassable attaque des hommes des collines poussa les citoyens de l'Ouestfolde à se réfuger dans leur capitale.
+it:
+  title: Retroguardia Dunlandiana
+  subtitle: ''
+  text: Sottrai –2 al costo crepuscolo di questo servitore durante una fase di schermaglia.
+  lore: L'avanzata instancabile degli Uomini delle Colline spinse gli abitanti dell'Ovestfalda a cercare rifugio nella capitale.
+es:
+  title: Reserva Dunlendino
+  subtitle: ''
+  text: El coste de penumbra de este siervo durante la fase de escaramuza es –2.
+  lore: La incansable campaña de los hombres de las colinas condujo a los ciudadanos del Folde Oeste al refugio de su capital.

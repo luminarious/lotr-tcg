@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '19'
+unique: true
+culture: Dwarven
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Here Lies Balin, Son of Fundin
+  subtitle: ''
+  text: '**Maneuver:** Exert a Dwarf to wound 2 Orcs or to wound 1 Orc twice.'
+  lore: ‘I have looked on Moria, and it is very great, but it has become dark and dreadful; and we have found no sign of my kindred.’
+de:
+  title: Hier liegt Balin, Fundins Sohn
+  subtitle: ''
+  text: '**Manöver:** Strenge einen Zwerg an, um 2 Orks zu verwunden, oder 1 Ork zweimal.'
+  lore: Ich habe Moria gesehen, und es ist sehr groß, aber es ist dunkel und schrecklich; und wir haben keine Spur von meiner Sippe gefunden.
+fr:
+  title: Ici Repose Balin, Fils de Fundin
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Nain pour blesser 2 Orques ou pour blesser 1 Orque deux fois.'
+  lore: ‘J'ai regardé la Moria, et elle est très grande, mais elle est devenue sombre et terrible ; et nous n'avons trouvé aucun signe de ceux de ma race.’
+it:
+  title: Qui Giace Balin, Figlio di Fundin
+  subtitle: ''
+  text: '**Manovra:** Sforza un Nano per ferire 2 Orchi o per ferire 1 Orco due volte.'
+  lore: ‘Il mio sguardo si è posato su Moria; è immensa, ma è divenuta oscura e spaventosa, e non vi è traccia della mia gente.’
+es:
+  title: Aquí Yace Balin, Hijo de Fundin
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un Enano para herir 2 Orcos o herir dos veces 1 Orco.'
+  lore: Ya he visto Moria, y es muy grande, pero se ha convertido en un sitio oscuro y terrible, y no hemos encontrado señales de mi gente.

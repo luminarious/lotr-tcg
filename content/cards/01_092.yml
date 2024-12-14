@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '92'
+unique: true
+culture: Gondor
+type: Possession
+class: Armor
+cost: 1
+en:
+  title: Armor
+  subtitle: ''
+  text: |-
+    Bearer must be a Man.   
+    Bearer takes no more than 1 wound during each skirmish phase.
+  lore: Then Elendil the Tall and his mighty sons, Isildur and Anárion, became great lords; and the North-realm they made in Arnor, and the South-realm in Gondor….
+de:
+  title: Rüstung
+  subtitle: ''
+  text: Muss auf einen Menschen gespielt werden. Der Träger erleidet maximal 1 Wunde pro Kampfphase.
+  lore: Dann wurden Elendil der Große und seine mächtigen Söhne Isildur und Anárion große Herrscher; und sie errichteten das Nordreich in Arnor und das Südreich in Gondor…
+fr:
+  title: Armure
+  subtitle: ''
+  text: Le détenteur doit être un Homme. Le détenteur ne prend pas plus d’une blessure pendant chaque phase de combat.
+  lore: Puis Elendil le Beau et ses puissants fils, Isildur et Anárion, devinrent grands seigneurs ; ils créèrent le Royaume du Nord en Arnor et le Royaume du Sud en Gondor….
+it:
+  title: Armatura
+  subtitle: ''
+  text: Il possessore deve essere un Uomo. Il possessore subisce non più di 1 ferita durante ogni fase di schermaglia.
+  lore: Quindi vennero i grandi regni di Elendil l'Alto e dei suoi potenti figli di Isildur ed Anárion; Arnor fu allora il Reame del Nord, e Gondor, intorno alle foci dell'Anduin, il Reame del Sud …
+es:
+  title: Armadura
+  subtitle: ''
+  text: El portador debe ser un Hombre. El portador no recibe más de 1 herida durante cada escaramuza.
+  lore: Luego Elendil el Alto y sus poderosos hijos, Isildur y Anarion, llegaron a ser grandes señores, y fundaron en Arnor el Reino del Norte, y en Gondor, cerca de las bocas de Anduin, el Reino del Sur.

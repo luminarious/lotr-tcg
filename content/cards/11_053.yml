@@ -1,0 +1,16 @@
+set: '11'
+rarity: S
+number: '53'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 4
+str: '8'
+vit: '4'
+res: '8'
+en:
+  title: Aragorn
+  subtitle: Guide and Protector
+  text: '**Ranger.** Each time a Free Peoples skirmish event is played, you may exert Aragorn to wound a minion he is skirmishing. '
+  lore: ‘…I know all the lands between the Shire and the Misty Mountains, for I have wandered over them for many years.’

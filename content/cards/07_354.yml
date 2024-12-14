@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '354'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Right
+en:
+  title: Pelennor Grassland
+  subtitle: ''
+  text: '**Plains.** **Shadow:** Exert a minion and spot 6 companions to add :twilight1:.'
+  lore: ''
+de:
+  title: Die Pelennor Steppe
+  subtitle: ''
+  text: '**Ebene.** **Schatten:** Strenge einen Diener an und entdecke 6 Gefährten, um den Einfluss um :twilight1: zu erhöhen.'
+  lore: ''

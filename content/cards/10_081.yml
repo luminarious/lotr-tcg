@@ -1,0 +1,21 @@
+set: '10'
+rarity: C
+number: '81'
+unique: true
+culture: Sauron
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '9'
+vit: '2'
+site: 6
+en:
+  title: Cirith Ungol Guard
+  subtitle: ''
+  text: '**Damage +1.**'
+  lore: …this stronghold had been built not to keep enemies out of Mordor, but to keep them in.
+de:
+  title: Cirith Ungol Wache
+  subtitle: ''
+  text: '**Schaden +1**.'
+  lore: … dass sie nicht gebaut worden war, um Feinde von Mordor fernzuhalten, sondern um sie drinnen zu behalten.

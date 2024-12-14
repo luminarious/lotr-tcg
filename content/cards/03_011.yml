@@ -1,0 +1,33 @@
+set: '3'
+rarity: C
+number: '11'
+unique: true
+culture: Elven
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Cast It Into the Fire!
+  subtitle: ''
+  text: '**Maneuver:** Spot an Elf to make each opponent discard a card from his or her hand. Draw a card for each card discarded in this way. '
+  lore: ‘It should have been cast then into Orodruin’s fire nigh at hand where it was made.’
+de:
+  title: Wirf ihn in das Feuer!
+  subtitle: ''
+  text: '**Manöver:** Entdecke einen Elben, um jeden Gegenspieler zu zwingen, eine Karte aus seiner Hand abzulegen. Ziehe eine Karte für jede auf diese Weise abgelegte Karte.'
+  lore: Er hätte damals in das Feuer des nahe gelegenen Orodruin geworfen werden sollen, wo er gemacht worden war.
+fr:
+  title: Jetez-le au Feu!
+  subtitle: ''
+  text: '**Manœuvre :** Désignez un Elfe pour obliger chaque adversaire à défausser une carte de sa main. Piochez une carte pour chaque carte défaussée ainsi.'
+  lore: 'L''Anneau eût dû être jeté au feu d''Orodruin, tout près de l''endroit où il fut fabriqué.” '
+it:
+  title: Lancialo nel Fuoco!
+  subtitle: ''
+  text: '**Manovra:** Avvista un Elfo per far scartare a ogni avversario una carta dalla sua mano. Pesca una carta per ogni carta scartata in questo modo.'
+  lore: ‘L'Anello doveva allora essere gettato nel vicino fuoco dell'Orodruin dove era stato fabbricato.’
+es:
+  title: ¡Lánzalo Al Fuego!
+  subtitle: ''
+  text: '**Maniobra:** Avista un Elfo para hacer que cada oponente descarte una carta de su mano. Roba una carta por cada carta descartada de esta forma.'
+  lore: Debería haber sido arrojado al fuego del Orodruin donde fue hecho.

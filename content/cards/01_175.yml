@@ -1,0 +1,35 @@
+set: '1'
+rarity: R
+number: '175'
+unique: true
+culture: Moria
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Goblin Domain
+  subtitle: ''
+  text: |-
+    **Search.** To play, spot a :moria: minion.   
+    Each time a companion is played to site 4 or higher, that companion comes into play exhausted.
+  lore: The once beautiful kingdom of Khazad-dûm has become Moria, the black pit.
+de:
+  title: Goblinreich
+  subtitle: ''
+  text: '**Suche.** Entdecke einen :moria: Diener, um diese Karte in deinen Unterstützungsbereich zu spielen. Jedesmal, wenn du einen Gefährten an einen Ort mit Nummer 4 oder höher spielst, kommt dieser Gefährte erschöpft ins Spiel.'
+  lore: Das einst so große Königreich Khazad-dûm ist zu Moria, der schwarzen Grube, geworden.
+fr:
+  title: Domaine Gobelin
+  subtitle: ''
+  text: '**Recherche.** Pour jouer, désignez un séide :moria:. Chaque fois qu’un compagnon est joué à un site 4 ou supérieur, ce compagnon entre en jeu épuisé.'
+  lore: Le royaume autrefois magnifique de Khazad-dûm est devenu la Moria, le Puits Noir.
+it:
+  title: Dominio dei Goblin
+  subtitle: ''
+  text: '**Ricerca.** Per giocarla, avvista un servitore :moria:. Ogni volta che un compagno è giocato al sito 4 o superiore, quel compagno entra in gioco Esausto.'
+  lore: Il regno di Khazad-dûm un tempo splendido divenne Moria, il pozzo nero.
+es:
+  title: Dominio Goblin
+  subtitle: ''
+  text: '**Búsqueda.** Para jugarla, avista un siervo :moria:. Cada vez que se juega un compañero al sitio 4 o superior, ese compañero entra en juego exhausto.'
+  lore: El una vez bello reino de Khazad-dûm se ha convertido en Moria, el pozo negro.

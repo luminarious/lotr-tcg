@@ -1,0 +1,18 @@
+set: '8'
+rarity: P
+number: '122'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 2
+str: '5'
+vit: '4'
+signet: Signet_Frodo
+en:
+  title: Pippin
+  subtitle: Guard of Minas Tirith
+  text: |-
+    To play, spot a :gondor: Man.   
+    **Skirmish:** Discard 4 cards from hand to wound a minion Pippin is skirmishing twice if that minion bears a fortification.
+  lore: ‘…blind almost to all else that is moving. So we must keep it. Therein lies all our hope.’

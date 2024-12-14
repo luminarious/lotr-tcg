@@ -1,0 +1,33 @@
+set: '3'
+rarity: U
+number: '46'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Still Sharp
+  subtitle: ''
+  text: '**Skirmish:** Spot The Shards of Narsil to make a :gondor: companion strength +3 and **damage +1.** '
+  lore: ‘The shards of Narsil… the blade that cut the Ring from Sauron’s hand.’
+de:
+  title: Sie ist noch scharf
+  subtitle: ''
+  text: '**Kampf** Entdecke Die Bruchstücke von Narsil, um einem :gondor: Gefährten Stärke +3 und **Schaden +1** zu geben.'
+  lore: Die Bruchstücke von Narsil… die Klinge, die den Ring von Saurons Hand schnitt.
+fr:
+  title: Toujours Tranchante
+  subtitle: ''
+  text: '**Combat :** Désignez Les Fragments de Narsil pour donner à un compagnon :gondor: +3 en force et des **dégâts +1.**'
+  lore: 'Les Fragments de Narsil… la lame qui coupa l''Anneau de la main de Sauron.” '
+it:
+  title: Ancora Affilata
+  subtitle: ''
+  text: '**Schermaglia:** Avvista I Frammenti di Narsil per aggiungere a un compagno :gondor: +3 alla forza e **Danno +1.**'
+  lore: ‘I frammenti di Narsil… la lama che tagliò l'Anello dalla mano di Sauron.’
+es:
+  title: Todavía Afilada
+  subtitle: ''
+  text: '**Escaramuza:** Avista Los Fragmentos de Narsil para darle a un compañero :gondor: fuerza +3 y **Daño +1.**'
+  lore: Los fragmentos de Narsil… La hoja que cortó el Anillo de la mano de Sauron.

@@ -1,0 +1,17 @@
+set: '15'
+rarity: R
+number: '58'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 4
+str: '-1'
+vit: '-2'
+en:
+  title: Decorated Barricade
+  subtitle: ''
+  text: |-
+    **Fortification**. This condition is twilight cost -1 for each :gondor: ranger you spot.  
+    **Skirmish:** Exert 2 :gondor: Men to transfer this condition from your support area to a minion skirmishing a :gondor: Man. 
+  lore: In times of war, the beauty of the walls matters little.

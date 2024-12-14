@@ -1,0 +1,16 @@
+set: '15'
+rarity: C
+number: '108'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 6
+str: '14'
+vit: '3'
+site: 4
+en:
+  title: Destructive Orc
+  subtitle: ''
+  text: 'When you play Destructive Orc, you may discard a fortification for each :orc: possession and each :orc: artifact you can spot.'
+  lore: At Minas Tirith, some Orcs chose to attack the city before it’s inhabitants.

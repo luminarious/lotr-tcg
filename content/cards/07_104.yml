@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '104'
+unique: true
+culture: Gondor
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Hidden Knowledge
+  subtitle: ''
+  text: 'Spot a :gondor: companion to reveal the top 5 cards of an opponent’s draw deck. For each Shadow card revealed, add a threat. For each Free Peoples card revealed, place a :gondor: token on one of your conditions with a :gondor: token on it. Shuffle that draw deck.'
+  lore: ''
+de:
+  title: Verborgenes Wissen
+  subtitle: ''
+  text: 'Entdecke einen :gondor: Gefährten, um die obersten 5 Karten des Spieldecks eines Gegenspielers aufzudecken. Lasse eine Bedrohung für jede aufgedeckte Schattenkarte entstehen. Lege eine :gondor: Marke auf einen deiner Effekte mit :gondor: Marken für jede aufgedeckte Karte der Freien Völker. Mische das betroffene Spieldeck.'
+  lore: ''

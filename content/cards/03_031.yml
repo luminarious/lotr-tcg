@@ -1,0 +1,42 @@
+set: '3'
+rarity: C
+number: '31'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Depart Silently
+  subtitle: ''
+  text: |-
+    **Stealth.**   
+    **Maneuver:** At sites 1 to 5, spot Gandalf to prevent Hobbits from being assigned to skirmishes until the regroup phase. At any other site, spot Gandalf to make a Hobbit strength +3 until the regroup phase. 
+  lore: ‘Be careful, both of you.’
+de:
+  title: Heimlicher Aufbruch
+  subtitle: ''
+  text: |-
+    **Heimlichkeit.**  
+    **Manöver:** Entdecke Gandalf, um die Zuweisung von Hobbits bis zur Sammelphase zu verhindern, wenn sich deine Gemeinschaft an Ort 1 bis 5 befindet. Ansonsten entdecke Gandalf, um einem Hobbit Stärke +3 bis zur Sammelphase zu geben.
+  lore: Seid vorsichtig… alle beide.
+fr:
+  title: Partez Sans Bruit
+  subtitle: ''
+  text: |-
+    **Dissimulation.**  
+    **Manœuvre :** Aux sites 1 à 5, désignez Gandalf pour empêcher les Hobbits d’être affectés au combat jusqu’à la fin de la phase de ralliement. À tout autre site, désignez Gandalf pour donner +3 en force à un Hobbit.
+  lore: 'Soyez prudents, vous deux.” '
+it:
+  title: Parti in Silenzio
+  subtitle: ''
+  text: |-
+    **Segretezza.**  
+    **Manovra:** Nei siti da 1 a 5, avvista Gandalf per prevenire che gli Hobbit siano assegnati alle schermaglie fino alla fase di raccolta.  
+    Negli altri siti, avvista Gandalf per aggiungere +3 alla forza di un Hobbit fino alla fase di raccolta.
+  lore: ‘Siate prudenti, tutti e due.’
+es:
+  title: Partir Silenciosamente
+  subtitle: ''
+  text: '**Sigilo.** **Maniobra:** En los sitios 1 al 5, avista a Gandalf para prevenir que los Hobbits sean asignados a escaramuzas hasta la fase de reagrupación. En cualquier otro sitio, avista Gandalf para darle a un Hobbit fuerza +3 hasta la fase de reagrupación.'
+  lore: Id con cuidado, los dos.

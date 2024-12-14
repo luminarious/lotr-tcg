@@ -1,0 +1,33 @@
+set: '2'
+rarity: U
+number: '17'
+unique: true
+culture: Elven
+type: Event
+class: Response
+cost: 0
+en:
+  title: Dismay Our Enemies
+  subtitle: ''
+  text: '**Response:** If an Elf archer wins a skirmish, make an opponent choose a minion to discard. That opponent may remove :twilight3: to prevent this. '
+  lore: Reeling from the bite of an arrow, the Cave Troll became enraged trying to strike the nimble Elf.
+de:
+  title: Unsere Feinde das Fürchten lehren
+  subtitle: ''
+  text: '**Reaktion:** Wenn ein Elbenbogenschütze einen Kampf gewinnt, zwinge einen Gegenspieler, einen Diener auszuwählen und abzulegen. Dieser Gegenspieler kann den Einfluss um :twilight3: verringern, um dies zu verhindern.'
+  lore: Rasend vor Schmerzen, die ihm durch die Pfeile zugefügt wurden, versuchte der Höhlentroll den geschickten Elben zu treffen.
+fr:
+  title: Déconcertons Nos Ennemis
+  subtitle: ''
+  text: '**Réponse :** Si un archer Elfe gagne un combat, obligez un adversaire à défausser un séide de son choix. Cet adversaire peut retirer :twilight3: pour empêcher ceci.'
+  lore: Ébranlé par la morsure d'une flèche, le Troll des Cavernes devint enragé en essayant de frapper l'agile Elfe.
+it:
+  title: Sconcertare i Nostri Nemici
+  subtitle: ''
+  text: '**Risposta:** Se un arciere Elfo vince una schermaglia, fai scegliere a un avversario un servitore da scartare. Quell’avversario può rimuovere :twilight3: per impedirlo.'
+  lore: Indietreggiando a causa di una freccia, il Troll si infuriò nel tentativo di colpire l'agile Elfo.
+es:
+  title: Desanimar a nuestros enemigos
+  subtitle: ''
+  text: '**Respuesta:** Si un arquero Elfo gana una escaramuza, haz que un oponente elija un siervo y lo descarte. Ese oponente puede quitar :twilight3: para prevenir esto.'
+  lore: Tambaleándose por la mordedura de una flecha, el Troll de las Cuevas se puso furioso tratando de golpear al ligero Elfo.

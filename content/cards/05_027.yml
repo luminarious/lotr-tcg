@@ -1,0 +1,37 @@
+set: '5'
+rarity: C
+number: '27'
+unique: true
+culture: Gollum
+type: Condition
+cost: 1
+str: '+1'
+en:
+  title: Poor Wretch
+  subtitle: ''
+  text: |
+    Plays on Sméagol.   
+    **Skirmish:** Discard this condition to make Sméagol **damage +1.**  
+  lore: ‘Throttle us in our sleep, that’s his plan.’
+de:
+  title: Armer Kerl
+  subtitle: ''
+  text: Muss auf Sméagol gespielt werden. **Kampf:** Lege diesen Effekt ab, um Sméagol **Schaden +1** zu geben.
+  lore: Uns im Schlaf erwürgen, das ist sein Plan.
+fr:
+  title: Le Pauvre Être
+  subtitle: ''
+  text: Jouable sur Sméagol. ****Combat :**** Défaussez cette situation pour donner des **dégâts +1** à Sméagol.
+  lore: 'Nous étrangler pendant notre sommeil, voilà ce qu''il projette!” '
+it:
+  title: Povero Disgraziato
+  subtitle: ''
+  text: |-
+    Giocala su Sméagol.   
+    **Schermaglia:** Scarta questa condizione per aggiungere **Danno +1** a Sméagol.
+  lore: Strangolarci nel sonno, ecco il suo programma.
+es:
+  title: Pobre Miserable
+  subtitle: ''
+  text: Se juega sobre Sméagol. **Escaramuza:** Descarta esta condición para darle a Sméagol **daño +1.**
+  lore: Estrangularnos mientras dormimos, eso es lo que planea.

@@ -1,0 +1,38 @@
+set: '3'
+rarity: R
+number: '42'
+unique: true
+culture: Gondor
+type: Possession
+cost: 0
+en:
+  title: Horn of Boromir
+  subtitle: ''
+  text: |-
+    Bearer must be Boromir.   
+    **Maneuver:** Exert Boromir and spot an ally. Until the regroup phase, that ally is strength +3 and participates in archery fire and skirmishes. 
+  lore: On a baldric he wore a great horn tipped with silver….
+de:
+  title: Boromirs Horn
+  subtitle: ''
+  text: Muss auf Boromir gespielt werden. **Manöver:** Strenge Boromir an und entdecke einen Verbündeten. Bis zur Sammelphase erhält dieser Verbündete Stärke +3 und kann am Fernkampf und Kampf teilnehmen.
+  lore: An einem Gehenk trug er ein großes, silberbeschlagenes Horn…
+fr:
+  title: Cor de Boromir
+  subtitle: ''
+  text: Le détenteur doit être Boromir. **Manœuvre :** Affaiblissez Boromir et désignez un allié. Jusqu’à la phase de ralliement, cet allié a +3 en force et peut participer à la phase d’archerie et au combat.
+  lore: 'Sur un baudrier, il portait un grand cor à bordure d''argent… '
+it:
+  title: Corno di Boromir
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Boromir.   
+    **Manovra:** Sforza Boromir e avvista un alleato. Fino alla fase di raccolta, quell’alleato aggiunge +3 alla forza e partecipa al tiro degli arcieri e alle schermaglie.
+  lore: Appeso al balteo portava un grande corno dalla punta d'argento…
+es:
+  title: Cuerno de Boromir
+  subtitle: ''
+  text: |-
+    El portador debe ser Boromir.   
+    **Maniobra:** Esfuerza a Boromir y avista un aliado. Hasta la fase de reagrupación, ese aliado es fuerza +3 y participa en disparos de arquería y escaramuzas.
+  lore: Sujeto a un tahalí llevaba un cuerno grande guarnecido de plata…

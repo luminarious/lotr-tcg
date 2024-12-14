@@ -1,0 +1,22 @@
+set: '7'
+rarity: C
+number: '155'
+unique: true
+culture: Raider
+type: Possession
+class: Ranged Weapon
+cost: 2
+en:
+  title: Raider Bow
+  subtitle: ''
+  text: |-
+    Bearer must be a :raider: Man.   
+    Bearer is an **archer** and **Ambush** :twilight5:.
+  lore: ''
+de:
+  title: Bogen der Dunkelmenschen
+  subtitle: ''
+  text: |-
+    Muss auf einen :raider: Menschen gespielt werden.   
+    Der Träger ist nun Bogenschütze und erhält **Hinterhalt :twilight5:**.
+  lore: Weder würde Hirluin der Schöne nach Pinnath Gelin zurückkehren noch Grimbold nach Grimslade…

@@ -1,0 +1,18 @@
+set: '11'
+rarity: R
+number: '141'
+unique: true
+culture: Orc
+type: Event
+class: Assignment
+cost: 8
+en:
+  title: Undisciplined
+  subtitle: ''
+  text: '**Toil 3.** (For each :orc: character you exert when playing this, its twilight cost is –3.) Assign an :orc: minion to a companion (except the Ring-bearer).'
+  lore: Easily caught by the heat of battle, Orc soldiers often break formation and attack where their bloodlust takes them.
+de:
+  title: Undiszipliniert
+  subtitle: ''
+  text: '**Mühe 3.** Weise einen :orc: Diener einem Gefährten (außer dem Ringträger) zu.'
+  lore: Die Hitze der Schlacht lässt Orksoldaten oft die Formation brechen und voller Blutdurst angreifen.

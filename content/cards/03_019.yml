@@ -1,0 +1,36 @@
+set: '3'
+rarity: R
+number: '19'
+unique: true
+culture: Elven
+type: Condition
+cost: 1
+en:
+  title: Gift of the Evenstar
+  subtitle: ''
+  text: |-
+    To play, spot Arwen. Bearer must be Aragorn.   
+    **Skirmish:** Exert Aragorn or discard 2 cards from hand to make a minion skirmishing Aragorn strength -1. 
+  lore: ‘It is mine to give to whom I will… like my heart.’
+de:
+  title: Gabe des Abendsterns
+  subtitle: ''
+  text: Entdecke Arwen, um diesen Effekt zu spielen. Muss auf Aragorn gespielt werden. **Kampf** Strenge Aragorn an oder lege 2 Karten aus deiner Hand ab, um einem Diener, der gegen Aragorn kämpft, Stärke -1 zu geben.
+  lore: Es gehört mir und ich schenke es, wem ich will… wie mein Herz.
+fr:
+  title: Don de l'Étoile du Soir
+  subtitle: ''
+  text: Pour jouer, désignez Arwen. Le détenteur doit être Aragorn. **Combat :** Affaiblissez Aragorn ou défaussez 2 cartes de votre main pour donner -1 en force à un séide combattant Aragorn.
+  lore: 'Il me revient de le donner à qui je le désire… tout comme mon coeur.” '
+it:
+  title: Dono della Stella del Vespro
+  subtitle: ''
+  text: |-
+    Per giocarla, avvista Arwen. Il possessore deve essere Aragorn.   
+    **Schermaglia:** Sforza Aragorn o scarta 2 carte dalla mano per sottrarre -1 alla forza di un servitore che stia schermagliando con Aragorn.
+  lore: ‘Sta a me donarla a colui che desidero… Come il mio cuore.’
+es:
+  title: Don de la Estrella de la Tarde
+  subtitle: ''
+  text: Para jugarla, avista a Arwen. El portador debe ser Aragorn. **Escaramuza:** Esfuerza a Aragorn o descarta 2 cartas de la mano para dar a un siervo que este en una escaramuza contra Aragorn fuerza -1.
+  lore: Es mío para dárselo a quien yo quiera… Como mi corazón.

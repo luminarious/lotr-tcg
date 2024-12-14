@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '250'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: North Undeep
+  subtitle: ''
+  text: '**River.** The minion archery total is –3. '
+  lore: ''
+de:
+  title: Nördliche Untiefe
+  subtitle: ''
+  text: '**Fluss.** Der Fernkampfwert der Diener verringert sich um 3.'
+  lore: ''

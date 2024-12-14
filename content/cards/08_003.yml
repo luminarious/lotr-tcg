@@ -1,0 +1,18 @@
+set: '8'
+rarity: R
+number: '3'
+unique: true
+culture: Dwarven
+type: Event
+class: Regroup
+cost: 2
+en:
+  title: Blood Runs Chill
+  subtitle: ''
+  text: Spot a Dwarf who is damage +X and exert that Dwarf twice to make an opponent discard X Shadow cards.
+  lore: …the Dark Door gaped before them like the mouth of night.
+de:
+  title: Mir stockt das Blut
+  subtitle: ''
+  text: Entdecke einen Zwerg mit Schaden +X und strenge diesen Zwerg zweimal an, um einen Gegenspieler zu zwingen, X Schattenkarten abzulegen.
+  lore: … gähnte vor ihnen das Dunkle Tor wie der Schlund der Nacht.

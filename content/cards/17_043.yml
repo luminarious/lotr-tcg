@@ -1,0 +1,16 @@
+set: '17'
+rarity: R
+number: '43'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 6
+str: '15'
+vit: '3'
+site: 4
+en:
+  title: Easterling Sneak
+  subtitle: ''
+  text: 'While you control 2 sites, Easterling Sneak is **fierce**. While you control 4 sites, each :men: minion is strength +1 and **fierce**. '
+  lore: The dark is gathering all armies to him.

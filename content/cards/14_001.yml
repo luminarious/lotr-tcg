@@ -1,0 +1,18 @@
+set: '14'
+rarity: R
+number: '1'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 3
+str: '7'
+vit: '3'
+res: '6'
+en:
+  title: Dain Ironfoot
+  subtitle: King Under the Mountain
+  text: |-
+    Each of your other Dwarves and :gandalf: Men is twilight cost –1.  
+    At the start of the regroup phase, you may discard a :dwarven: or :gandalf: condition from play to discard a minion from play.
+  lore: ‘The time of my thought is my own to spend.’

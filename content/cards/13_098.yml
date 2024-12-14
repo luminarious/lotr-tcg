@@ -1,0 +1,25 @@
+set: '13'
+rarity: U
+number: '98'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '1'
+site: 4
+en:
+  title: Southron Murderer
+  subtitle: ''
+  text: |-
+    **Archer.**  
+    While you can spot 4 or more culture tokens, this minion cannot take wounds except during skirmishes.
+  lore: In Harad, death is often swift, but seldom painless.
+de:
+  title: Südländischer Mörder
+  subtitle: ''
+  text: |-
+    **Bogenschütze.**  
+    Solange du 4 oder mehr Kulturmarken entdecken kannst, kann dieser Diener nur im Kampf verwundet werden.
+  lore: In Harad kommt der Tod oft schnell, aber selten schmerzlos.

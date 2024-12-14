@@ -1,0 +1,18 @@
+set: '17'
+rarity: C
+number: '85'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Orkish Traveler
+  subtitle: ''
+  text: |-
+    Each :orc: mount is twilight cost -1.  
+    **Skirmish:** Remove :twilight3: to make a mounted :orc: Orc strength +2.
+  lore: There is not much that is fouler than Orcs.

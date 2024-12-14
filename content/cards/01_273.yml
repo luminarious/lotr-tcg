@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '273'
+unique: true
+culture: Sauron
+type: Event
+class: Response
+cost: 3
+en:
+  title: The Ring's Oppression
+  subtitle: ''
+  text: '**Response:** If a :sauron: Orc kills a companion, add 1 burden (or 3 if the Ring-bearer wears The One Ring).'
+  lore: The Ring that hung upon its chain about his neck grew heavy, heavier than a great stone, and his head was dragged downwards.
+de:
+  title: Die Last des Rings
+  subtitle: ''
+  text: '**Reaktion:** Wenn ein :sauron: Ork einen Gefährten tötet, lege 1 Lastmarke (oder 3 Lastmarken, wenn der Ringträger den Einen Ring benutzt) auf den Ringträger.'
+  lore: Der Ring, der an seiner Kette um seinen Hals hing, wurde schwer, schwerer als ein großer Stein, und Frodos Kopf wurde nach unten gezogen.
+fr:
+  title: L'Accablement de l'Anneau
+  subtitle: ''
+  text: '**Réponse :** Si un Orque :sauron: tue un compagnon, ajoutez 1 point-fardeau (ou 3 si le Porteur de l’Anneau a l’Anneau Unique au doigt).'
+  lore: L'Anneau, suspendu à son cou au bout de la petite chaîne, se faisait lourd, plus lourd qu'une grosse pierre, et sa tête était tirée vers le bas.
+it:
+  title: L'Oppressione dell'Anello
+  subtitle: ''
+  text: '**Risposta:** Se un Orco :sauron: uccide un compagno, aggiungi 1 segnalino fardello (o 3 se il Portatore dell’Anello indossa L’Unico Anello).'
+  lore: L'Anello appeso alla catenella intorno al collo divenne pesante, più pesante di un grosso sasso, e trascinava la sua testa verso il basso.
+es:
+  title: La Opresión del Anillo
+  subtitle: ''
+  text: '**Respuesta:** Si un Orco :sauron: mata a un compañero, añade 1 carga (o 3 si el Portador del Anillo lleva puesto El Anillo Único).'
+  lore: El Anillo que le colgaba del cuello se hizo pesado, mas pesado que una gran piedra, y lo obligo a inclinar la cabeza sobre el pecho.

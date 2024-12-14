@@ -1,0 +1,25 @@
+set: '7'
+rarity: R
+number: '167'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Southron Marksmen
+  subtitle: ''
+  text: |-
+    **Southron.** **Archer.** **Fierce.** To play, spot a :raider: Man.   
+    **Archery:** Exert this minion and remove a threat to make the minion archery total +1.
+  lore: ''
+de:
+  title: Südländischer Scharfschütze
+  subtitle: ''
+  text: |-
+    **Südländer.** **Bogenschütze.** **Erbittert.** Entdecke einen :raider: Menschen, um diesen Diener zu spielen.   
+    **Fernkampf:** Strenge diesen Diener an und entferne eine Bedrohung, um den Fernkampfwert der Diener um 1 zu erhöhen.
+  lore: Im Süden jenseits der Straße lag die Hauptstreitmacht der Haradrim…

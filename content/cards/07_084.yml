@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '84'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Dagger Strike
+  subtitle: ''
+  text: '**Skirmish:** Make a :gondor: or :shire: companion bearing a hand weapon strength +2 and **damage +1**.'
+  lore: ''
+de:
+  title: Dolchstoß
+  subtitle: ''
+  text: 'Gib einem :gondor: oder :shire: Gefährten Stärke +2 und **Schaden +1**, wenn er eine Handwaffe trägt.'
+  lore: ''

@@ -1,0 +1,16 @@
+set: '14'
+rarity: R
+number: '11'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Swarming Hillman
+  subtitle: ''
+  text: At the start of the regroup phase, if you can spot more Man characters than any other race, make the move limit –1 this turn.
+  lore: Roving in mindless mobs, the Dunlendings destroyed many Rohirrim homesteads.

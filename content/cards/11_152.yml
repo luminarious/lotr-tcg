@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '152'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+res: '6'
+en:
+  title: Riddermark Soldier
+  subtitle: ''
+  text: 'When you play this companion, each :rohan: companion is strength +2 until the regroup phase. '
+  lore: …their faces were stern and keen.
+de:
+  title: Riddermark Soldat
+  subtitle: ''
+  text: 'Wenn du diesen Gefährten spielst, erhält jeder :rohan: Gefährte Stärke +2 bis zur Sammelphase.'
+  lore: … die Gesichter waren ernst und kühn.

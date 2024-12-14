@@ -1,0 +1,18 @@
+set: '3'
+rarity: U
+number: '10'
+unique: true
+culture: Elven
+type: Ally
+race: Elf
+cost: 2
+str: '3'
+vit: '3'
+site: '6'
+en:
+  title: Calaglin
+  subtitle: Elf of Lórien
+  text: |-
+    **Archer.**   
+    **Regroup:** Exert Calaglin to wound a minion. 
+  lore: ‘We have been keeping watch on the rivers, ever since we saw a great troop of Orcs going north toward Moria….’

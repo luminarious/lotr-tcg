@@ -1,0 +1,25 @@
+set: '10'
+rarity: R
+number: '23'
+unique: true
+culture: Gollum
+type: Minion
+race: Spider
+cost: 6
+str: '8'
+vit: '8'
+site: 8
+en:
+  title: Shelob
+  subtitle: Her Ladyship
+  text: |-
+    **Enduring.** **Fierce.**   
+    When you play Shelob, if you can spot Gollum, you may spot a companion. That companion cannot be assigned to a skirmish until the end of the turn. 
+  lore: …she served none but herself, drinking the blood of Elves and Men….
+de:
+  title: Kankra
+  subtitle: Hohe Frau
+  text: |-
+    **Zäh.** **Erbittert.**   
+    Falls du Gollum entdecken kannst, wenn du Kankra spielst, darfst du einen Gefährten entdecken. Dieser Gefährte kann bis zum Ende des Zuges keinem Kampf zugewiesen werden.
+  lore: … sie diente niemandem außer sich selbst, trank das Blut von Elben und Menschen….

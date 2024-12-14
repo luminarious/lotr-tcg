@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '93'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Patroller of Haradrim
+  subtitle: ''
+  text: 'Each time this minion is assigned to a character who has resistance 5 or less, you may discard a possession borne by that character. '
+  lore: Disarming strikes are common among the tactics of the Men of Harad.
+de:
+  title: Vorposten der Haradrim
+  subtitle: ''
+  text: Jedes Mal, wenn dieser Diener einem Charakter mit Resistenz 5 oder weniger zugewiesen wird, darfst du eine Ausrüstung, die dieser Charakter trägt, ablegen.
+  lore: Entwaffnende Schläge gehören zu den üblichen Taktiken der Menschen von Harad.

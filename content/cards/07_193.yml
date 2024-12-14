@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '193'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Morgul Lackey
+  subtitle: ''
+  text: '**Skirmish:** Exert this minion to make a Nazgûl or :wraith: Orc strength +1.'
+  lore: ‘He uses others as his weapons.’
+de:
+  title: Morgul Sklave
+  subtitle: ''
+  text: '**Kampf:** Strenge diesen Diener an, um einem Nazgûl oder :wraith: Ork Stärke +1 zu geben.'
+  lore: Er verwendet andere als seine Waffe.

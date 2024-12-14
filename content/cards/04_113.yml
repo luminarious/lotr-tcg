@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '113'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Curse Them
+  subtitle: ''
+  text: '**Skirmish:** Exert a Ring-bound Man to cancel a skirmish involving a roaming minion. '
+  lore: ‘It is close on ten leagues hence to the east-shore of Anduin… and we seldom come so far afield.’
+de:
+  title: Verflucht sollen sie sein!
+  subtitle: ''
+  text: '**Kampf** Strenge einen Ring-verbundenen Menschen an, um einen Kampf mit einem wandernden Diener aufzuheben.'
+  lore: Es sind annähernd zehn Wegstunden von hier bis zum Ostufer des Anduin… und wir kommen selten so weit ins Land.
+fr:
+  title: Maudits Soient-Ils
+  subtitle: ''
+  text: '**Combat :** Affaiblissez un Homme associé à l’Anneau pour annuler un combat qui implique un séide errant.'
+  lore: 'Il y a près de dix lieues d''ici à la rive orientale de l''Anduin… et nous venons rarement aussi loin en expédition.” '
+it:
+  title: Maledetti!
+  subtitle: ''
+  text: '**Schermaglia:** Sforza un Uomo Legato all’Anello per cancellare una schermaglia che coinvolga un servitore vagante.'
+  lore: ‘Dista quasi dieci leghe da qui, la riva est dell'Anduin… e di rado ci spingiamo tanto lontano.’
+es:
+  title: Malditos Sean
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza un Hombre Vinculado al Anillo para cancelar una escaramuza en la que participe un siervo que esté vagando.'
+  lore: Hay casi diez leguas desde aquí a la costa oriental de Anduin… y rara vez llegamos tan lejos en nuestras expediciones.

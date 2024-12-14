@@ -1,0 +1,24 @@
+set: '8'
+rarity: R
+number: '21'
+unique: true
+culture: Gandalf
+type: Possession
+class: Mount
+cost: 2
+en:
+  title: Shadowfax
+  subtitle: Greatheart
+  text: |-
+    Bearer must be Gandalf.   
+    At the start of each skirmish involving Gandalf, each minion skirmishing Gandalf must exert.   
+    **Skirmish:** Add a threat to make Gandalf strength +1.
+  lore: ''
+de:
+  title: Schattenfell
+  subtitle: Großherzig
+  text: |-
+    Muss auf Gandalf gespielt werden.   
+    Zu Beginn jedes Kampfes, an dem der Reiter beteiligt ist, müssen alle Diener in diesem Kampf angestrengt werden.   
+    **Kampf:** Lasse eine Bedrohung entstehen, um Gandalf Stärke +1 zu geben.
+  lore: ''

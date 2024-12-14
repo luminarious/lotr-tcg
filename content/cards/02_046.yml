@@ -1,0 +1,44 @@
+set: '2'
+rarity: R
+number: '46'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Uruk Captain
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    **Shadow:** Remove :twilight1: and exert Uruk Captain to play an Uruk-hai from your discard pile. 
+  lore: The captains marched the Uruk-hai to the great river without halting.
+de:
+  title: Uruk Hauptmann
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    **Schatten:** Verringere den Einfluss um :twilight1: und strenge den Uruk Hauptmann an, um einen Uruk-hai aus deinem Ablagestapel zu spielen.
+  lore: Die Hauptmänner trieben die Uruks ohne Rast zum großen Strom.
+fr:
+  title: Capitaine Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    Ombre : Retirez :twilight1: et affaiblissez Capitaine Ourouk pour jouer un Ourouk-Haï de votre pile de défausse.
+  lore: Les capitaines forcèrent sans relâche la marche des Ourouk-Haï vers la rivière.
+it:
+  title: Capo Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    **Ombra:** Rimuovi :twilight1: e sforza Capo Uruk per giocare un Uruk-hai dalla tua pila degli scarti.
+  lore: I loro capi fecero marciare gli Uruk-hai fino al Grande Fiume senza mai fermarsi.
+es:
+  title: Capitán Uruk
+  subtitle: ''
+  text: '**Daño +1.** **Sombra:** Quita :twilight1: y esfuerza el Capitán Uruk para jugar un Uruk-hai desde tu pila de descartes.'
+  lore: Los capitanes hicieron marchar a los Uruk-hai hasta el gran río sin demora.

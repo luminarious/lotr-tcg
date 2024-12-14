@@ -1,0 +1,17 @@
+set: '9'
+rarity: R+
+number: '12'
+unique: true
+culture: Elven
+type: Artifact
+class: Hand Weapon
+cost: 2
+vit: '+1'
+en:
+  title: Aiglos
+  subtitle: ''
+  text: |-
+    Bearer must be an Elf.   
+    If bearer is Gil-galad, he is strength +1 for each :elven: artifact you can spot (limit +6).   
+    **Regroup:** Discard Aiglos to wound a minion for each Elf you spot. 
+  lore: ‘…for the Spear of Gil-galad… none could withstand.’

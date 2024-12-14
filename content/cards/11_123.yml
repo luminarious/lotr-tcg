@@ -1,0 +1,20 @@
+set: '11'
+rarity: R
+number: '123'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Goblin Hordes
+  subtitle: ''
+  text: |-
+    To play, spot an :orc: minion.   
+    Each time the fellowship moves from an underground site, you may take an :orc: minion from your discard pile into hand. 
+  lore: '…he saw swarming black figures: there seemed to be hundreds of orcs.'
+de:
+  title: Goblin Horden
+  subtitle: ''
+  text: 'Entdecke einen :orc: Diener, um diesen Effekt zu spielen. Jedes Mal, wenn sich die Gemeinschaft von einem unterirdischen Ort fortbewegt, darfst du einen :orc: Diener aus deinem Ablagestapel auf deine Hand nehmen.'
+  lore: '… sah er wimmelnde schwarze Gestalten: es schienen hunderte von Orks zu sein.'

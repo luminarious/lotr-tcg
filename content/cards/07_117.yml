@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '117'
+unique: true
+culture: Gondor
+type: Event
+class: Regroup
+cost: 1
+en:
+  title: Reckless Counter
+  subtitle: ''
+  text: 'Spot 2 knights or exert 2 :gondor: Men to liberate a site or discard any number of cards from hand.'
+  lore: ‘Do not throw your life away so rashly!’
+de:
+  title: Aussichtsloser Gegenangriff
+  subtitle: ''
+  text: 'Entdecke 2 Ritter oder strenge 2 :gondor: Menschen an, um einen Ort zu befreien oder um eine beliebige Anzahl von Karten aus deiner Hand abzuwerfen.'
+  lore: Werft Euer Leben nicht leichtsinnig fort.

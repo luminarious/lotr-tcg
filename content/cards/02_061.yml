@@ -1,0 +1,36 @@
+set: '2'
+rarity: C
+number: '61'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 5
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Goblin Flankers
+  subtitle: ''
+  text: 'When you play this minion, you may add :twilight3: if the fellowship has moved more than once this turn. '
+  lore: ‘There are Orcs, very many of them…. And some are large and evil….’
+de:
+  title: Goblin Flankenläufer
+  subtitle: ''
+  text: 'Wenn sich die Gemeinschaft in diesem Spielzug mehr als einmal bewegt hat, darfst du den Einfluss um :twilight3: erhöhen, wenn du diesen Diener ausspielst.'
+  lore: Das sind Orks, und zwar sehr viele… Und manche sind groß und böse…
+fr:
+  title: Tirailleurs Gobelins
+  subtitle: ''
+  text: 'Lorsque vous jouez ce séide, ajoutez :twilight3: si la compagnie s’est déplacée plus d’une fois pendant ce tour.'
+  lore: 'Il y a des orques, en grand nombre… Et certains sont grands et mauvais…” '
+it:
+  title: Fiancheggiatori Goblin
+  subtitle: ''
+  text: 'Quando giochi questo servitore, puoi aggiungere :twilight3: se la compagnia si è mossa più di una volta in questo turno.'
+  lore: ‘Sono Orchi, e sono una moltitudine… Alcuni grossi e malvagi…’
+es:
+  title: Flanqueadores Goblin
+  subtitle: ''
+  text: 'Cuando juegas este siervo, puedes añadir :twilight3: si la compañía se ha movido más de una vez este turno.'
+  lore: Hay Orcos, muchos de ellos… y algunos son grandes y malignos…

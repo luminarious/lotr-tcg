@@ -1,0 +1,19 @@
+set: '15'
+rarity: R
+number: '29'
+unique: true
+culture: Gandalf
+type: Companion
+race: Wizard
+cost: 4
+str: '8'
+vit: '4'
+res: '7'
+en:
+  title: Gandalf
+  subtitle: Powerful Guide
+  text: |-
+    To play, spot 2 Hobbits.  
+    Each time you play a spell, you may add a burden to wound a minion.  
+    At the start of each skirmish involving Gandalf, you may draw a card and then discard a card from your hand.
+  lore: Let the Ring-bearer decide.

@@ -1,0 +1,24 @@
+set: '10'
+rarity: R
+number: '18'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 5
+str: '12'
+vit: '4'
+en:
+  title: Treebeard
+  subtitle: Keeper of the Watchwood
+  text: |-
+    To play, spot 3 :gandalf: companions.   
+    **Regroup:** Exert Treebeard twice to play a :gandalf: condition from your discard pile and make an opponent discard one of his or her conditions. 
+  lore: ‘Leave it to the Ents!… Trees are coming back to live here, old trees, wild trees.’
+de:
+  title: Baumbart
+  subtitle: Hüter des Wachtwaldes
+  text: |-
+    Entdecke 3 :gandalf: Gefährten, um Baumbart zu spielen.   
+    **Sammeln:** Strenge Baumbart zweimal an, um einen :gandalf: Effekt aus deinem Ablagestapel zu spielen und einen Gegenspieler zu zwingen, einen seiner Effekte abzulegen.
+  lore: Überlaßt es den Ents!… Es kommen wieder Bäume her, um hier zu leben, alte Bäume, wilde Bäume.

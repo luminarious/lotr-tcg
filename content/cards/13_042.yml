@@ -1,0 +1,47 @@
+set: '13'
+rarity: R
+number: '42'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Traveler’s Homestead
+  subtitle: ''
+  text: |-
+    To play, spot a Wizard.  
+    When you play this, add X :gandalf: tokens here, where X is the current region number.  
+    **Maneuver:** Discard this from play or remove 2 tokens from here to discard a Shadow condition from play.
+  lore: Of the Wizards, it was Gandalf that chose no home.
+de:
+  title: Heimstätte des Reisenden
+  subtitle: ''
+  text: |-
+    Entdecke einen Zauberer, um diese Karte zu spielen. Lege X :gandalf: Marken auf diese Karte, wenn du sie spielst, wobei X der aktuellen Region entspricht.  
+    **Manöver:** Lege diesen Effekt ab oder entferne hier 2 Marken, um einen Schatteneffekt abzulegen.
+  lore: Von den Zauberern entschied sich Gandalf umherzuziehen.
+fr:
+  title: Traveler's Homestead
+  subtitle: ''
+  text: |-
+    To play, spot a Wizard.  
+    When you play this, add X :gandalf: tokens here, where X is the current region number.  
+    **Maneuver:** Discard this from play or remove 2 tokens from here to discard a Shadow condition from play.
+  lore: Of the Wizards, it was Gandalf that chose no home.
+it:
+  title: Traveler's Homestead
+  subtitle: ''
+  text: |-
+    To play, spot a Wizard.  
+    When you play this, add X :gandalf: tokens here, where X is the current region number.  
+    **Maneuver:** Discard this from play or remove 2 tokens from here to discard a Shadow condition from play.
+  lore: Of the Wizards, it was Gandalf that chose no home.
+es:
+  title: Traveler's Homestead
+  subtitle: ''
+  text: |-
+    To play, spot a Wizard.  
+    When you play this, add X :gandalf: tokens here, where X is the current region number.  
+    **Maneuver:** Discard this from play or remove 2 tokens from here to discard a Shadow condition from play.
+  lore: Of the Wizards, it was Gandalf that chose no home.

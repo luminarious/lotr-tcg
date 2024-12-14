@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '342'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Right
+en:
+  title: Osgiliath Fallen
+  subtitle: ''
+  text: '**Skirmish:** Spot your minion and remove 2 burdens to make that minion **damage +1**.'
+  lore: ''
+de:
+  title: Gefallenes Osgiliath
+  subtitle: ''
+  text: '**Kampf:** Entdecke einen deiner Diener und entferne 2 Lastmarken, um diesem Diener **Schaden +1** zu geben.'
+  lore: ''

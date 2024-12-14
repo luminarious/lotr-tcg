@@ -1,0 +1,15 @@
+set: '15'
+rarity: U
+number: '16'
+unique: true
+culture: Elven
+type: Artifact
+class: Support Area
+cost: 2
+en:
+  title: Gift of the Evenstar
+  subtitle: Blessed Light
+  text: |-
+    Each time an Elf wins a skirmish, you may exert that Elf or Aragorn to place an :elven: token here.  
+    At the start of each maneuver phase, you may remove an :elven: token here to draw a card.
+  lore: ''

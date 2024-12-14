@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '228'
+unique: true
+culture: Wraith
+type: Event
+class: Response
+cost: 0
+en:
+  title: The Twilight World
+  subtitle: ''
+  text: '**Response:** If Ring-bearer puts on The One Ring, exert a Nazgûl to add 2 burdens.'
+  lore: Immediately, though everything else remained as before, dim and dark, the shapes became terribly clear. He was able to see beneath their black wrappings.
+de:
+  title: Die Welt der Geister
+  subtitle: ''
+  text: '**Reaktion:** Wenn der Ringträger den Einen Ring benutzt, strenge einen Nazgûl an, um 2 Lastmarken auf ihn zu legen.'
+  lore: Obwohl alles wie vorher blieb, düster und dunkel, wurden die Gestalten sofort erschreckend deutlich. Er vermochte unter ihre schwarzen Hüllen zu schauen.
+fr:
+  title: Le Monde Crépusculaire
+  subtitle: ''
+  text: '**Réponse :** Si le Porteur de l’Anneau met l’Anneau Unique, affaiblissez un Nazgûl pour ajouter 2 points-fardeau.'
+  lore: Aussitôt, bien que tout le reste demeurât comme avant, indistinct et sombre, les formes devinrent terriblement nettes. Il pouvait voir sous les voilures noires.
+it:
+  title: Il Mondo del Crepuscolo
+  subtitle: ''
+  text: '**Risposta:** Se il Portatore dell’Anello indossa L’Unico Anello, sforza un Nazgûl per aggiungere 2 segnalini fardello.'
+  lore: Immediatamente le forme diventarono chiarissime, benché tutto il resto rimanesse tenebroso e scuro. Egli riusciva a vedere al di sotto dei manti neri.
+es:
+  title: El Mundo de Penumbra
+  subtitle: ''
+  text: '**Respuesta:** Si el Portador del Anillo se pone El Anillo Único, esfuerza un Nazgûl para añadir 2 cargas.'
+  lore: Inmediatamente, aunque todo lo demás continuo como antes, indistinto y sombrío, las sombras se hicieron terriblemente nítidas. Podía verlas ahora bajo las negras envolturas.

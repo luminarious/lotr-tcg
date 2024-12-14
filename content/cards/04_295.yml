@@ -1,0 +1,19 @@
+set: '4'
+rarity: U
+number: '295'
+unique: true
+culture: Rohan
+type: Ally
+race: Man
+cost: 1
+str: '4'
+vit: '2'
+site: 4T
+en:
+  title: Weland
+  subtitle: Smith of the Riddermark
+  text: |-
+    **Villager.**   
+    Discard Weland if an opponent controls his home site.   
+    **Fellowship:** Exert Weland to heal a mounted companion. 
+  lore: A tender of horses, Weland found much work at Helm’s Deep.

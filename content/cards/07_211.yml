@@ -1,0 +1,27 @@
+set: '7'
+rarity: R
+number: '211'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 5
+str: '10'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Cantëa
+  subtitle: Faster Than Winds
+  text: |-
+    **Fierce.**   
+    When you play Úlairë Cantëa, add a threat for each companion over 4.   
+    **Maneuver:** Remove 2 threats and spot another :wraith: minion to discard a possession.
+  lore: ''
+de:
+  title: •Úlairë Cantëa
+  subtitle: Schneller als der Wind
+  text: |-
+    **Erbittert.**   
+    Lasse eine Bedrohung für jeden Gefährten über 4 entstehen, wenn du Úlairë Cantëa spielst.   
+    **Manöver:** Entferne 2 Bedrohungen und entdecke einen anderen :wraith: Diener, um eine Ausrüstung abzulegen.
+  lore: …und an den geflügelten Schrecken, die Nazgûl.

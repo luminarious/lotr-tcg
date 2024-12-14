@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '245'
+unique: true
+culture: Sauron
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Desperate Measures
+  subtitle: ''
+  text: '**Maneuver:** Spot a :sauron: Orc and remove a burden to make the Free Peoples player discard top 5 cards from his or her draw deck.'
+  lore: ‘Go back, Sam. You can't swim. I'm going to Mordor alone.’
+de:
+  title: Verzweifelte Massnahmen
+  subtitle: ''
+  text: '**Manöver:** Entdecke einen :sauron: Ork und entferne 1 Lastmarke, um den Freie Völker Spieler zu zwingen, die obersten 5 Karten von seinem Spieldeck abzulegen.'
+  lore: Geh zurück, Sam. Ich werde alleine nach Mordor gehen. Du kannst nicht schwimmen.
+fr:
+  title: Moyens Désespérés
+  subtitle: ''
+  text: '**Manœuvre :** Désignez un Orque :sauron: et retirez un point-fardeau pour obliger le joueur des Peuples Libres à défausser les 5 premières cartes de sa pioche.'
+  lore: ‘Repars, Sam. Tu ne sais pas nager. Je vais au Mordor seul.’
+it:
+  title: Misure Disperate
+  subtitle: ''
+  text: '**Manovra:** Avvista un Orco :sauron: e rimuovi un segnalino fardello per far scartare al giocatore dei Popoli Liberi le prime 5 carte del suo mazzo di gioco.'
+  lore: ‘Torna indietro, Sam. Non puoi nuotare. Andrò a Mordor da solo.’
+es:
+  title: Medidas Desesperadas
+  subtitle: ''
+  text: '**Maniobra:** Avista un Orco :sauron: y quita una carga para hacer que el jugador de Gentes Libres descarte las 5 cartas superiores de su mazo de robar.'
+  lore: Regresa, Sam. No puedes nadar. Voy a Mordor solo.

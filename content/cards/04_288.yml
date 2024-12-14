@@ -1,0 +1,38 @@
+set: '4'
+rarity: C
+number: '288'
+unique: true
+culture: Rohan
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Rider's Spear
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.   
+    If bearer is mounted, bearer is **damage +1.**
+  lore: Shafts of the sun flared above the eastern hills and glimmered on their spears.
+de:
+  title: Speer der Reiter
+  subtitle: ''
+  text: 'Muss auf einen :rohan: Menschen gespielt werden. Solange der Träger beritten ist, erhält er **Schaden +1.**'
+  lore: Sonnenstrahlen flammten über den östlichen Bergen auf und glitzerten auf ihren Speeren.
+fr:
+  title: Lance de Cavalier
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un Homme :rohan:.  
+    Si le détenteur détient une monture, il inflige des **dégâts +1.**
+  lore: 'Des rayons de soleil flamboyaient au-dessus des collines de l''Est et miroitaient sur leurs lances. '
+it:
+  title: Lancia del Cavaliere
+  subtitle: ''
+  text: Il possessore deve essere un Uomo :rohan:. Se il possessore è a cavallo, il possessore ha **Danno +1.**
+  lore: Raggi di sole avvamparono sui colli a oriente e scintillarono sulle loro lance.
+es:
+  title: Lanza De Jinete
+  subtitle: ''
+  text: El portador debe ser un Hombre :rohan:. Si el portador tiene una montura, el portador es **daño +1.**
+  lore: La luz crecía alrededor. Los rayos del sol encendían las colinas orientales y centelleaban en las lanzas.

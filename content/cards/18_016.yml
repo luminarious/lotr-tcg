@@ -1,0 +1,15 @@
+set: '18'
+rarity: C
+number: '16'
+unique: true
+culture: Elven
+type: Follower
+cost: 1
+str: '+1'
+en:
+  title: Woodhall Elf
+  subtitle: Exile
+  text: |-
+    **Aid** - :twilight2: *(At the start of the maneuver phase, you may add *:twilight2:* to transfer this to a companion.).*  
+    When you transfer this to an :elven: companion, you may draw 3 cards.
+  lore: '''Go not to the Elves for counsel, for they will say both no and yes.’'

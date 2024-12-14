@@ -1,0 +1,36 @@
+set: '4'
+rarity: C
+number: '14'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 2
+str: '7'
+vit: '1'
+site: 3
+en:
+  title: Dunlending Ransacker
+  subtitle: ''
+  text: 'Each time this minion wins a skirmish, you may spot another :dunland: Man to take control of a site. '
+  lore: ‘Yet there are many that cry in the Dunland tongue.’
+de:
+  title: Dunland Wegelagerer
+  subtitle: ''
+  text: 'Jedes Mal, wenn dieser Diener einen Kampf gewinnt, darfst du einen anderen :dunland: Diener entdecken, um einen Ort zu kontrollieren.'
+  lore: Dennoch sind viele da, die in der Sprache von Dunland schreien.
+fr:
+  title: Cambrioleur Dun
+  subtitle: ''
+  text: 'Chaque fois que ce séide gagne un combat, vous pouvez désigner un autre Homme :dunland: pour prendre le contrôle d’un site.'
+  lore: 'Il y en a pourtant plusieurs qui pleurent dans la langue du Pays de Dun.” '
+it:
+  title: Predone Dunlandiano
+  subtitle: ''
+  text: 'Ogni volta che questo servitore vince una schermaglia, puoi avvistare un altro Uomo :dunland: per prendere il controllo di un sito.'
+  lore: ‘Ci sono molti ancora che gridano in lingua Dunlandiana.’
+es:
+  title: Desvalijador Dunlendino
+  subtitle: ''
+  text: 'Cada vez que este siervo gana una escaramuza, puedes avistar otro Hombre :dunland: para tomar el control de un sitio.'
+  lore: Sin embargo hay muchos que gritan en la lengua de las Tierras Pardas.

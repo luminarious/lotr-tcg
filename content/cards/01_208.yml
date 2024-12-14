@@ -1,0 +1,37 @@
+set: '1'
+rarity: R
+number: '208'
+unique: true
+culture: Wraith
+type: Possession
+class: Mount
+cost: 1
+str: '+2'
+en:
+  title: Black Steed
+  subtitle: ''
+  text: |-
+    Bearer must be a Nazgûl.   
+    While at a plains site, bearer is strength +2. Discard this possession when at an underground site.
+  lore: ‘…these horses are born and bred to the service of the Dark Lord in Mordor.’
+de:
+  title: Schwarzes Ross
+  subtitle: ''
+  text: Muss auf einen Nazgûl gespielt werden. Auf einer Ebene erhöht sich die Stärke des Reiters um 2. Lege das schwarze Ross an einem unterirdischen Ort ab.
+  lore: Weil diese Pferde für den Dienst des Dunklen Herrschers in Mordor geboren und gezüchtet werden.
+fr:
+  title: Destrier Noir
+  subtitle: ''
+  text: |
+    Le détenteur doit être un Nazgûl. Quand il est à un site de plaines, le détenteur a +2 en force. Défaussez cette possession à un site **Souterrain.**  
+  lore: ‘…ces chevaux sont nés et élevés pour servir le Seigneur Ténébreux en Mordor.’
+it:
+  title: Cavallo Nero
+  subtitle: ''
+  text: Il possessore deve essere un Nazgûl. Finché è in un sito pianura, il possessore aggiunge +2 alla forza. Scarta questo bene quando è in un sito **Sotterraneo.**
+  lore: ‘…questi cavalli sono cavalli nati e cresciuti al servizio dell'Oscuro Signore di Mordor.’
+es:
+  title: Corcel Negro
+  subtitle: ''
+  text: El portador debe ser Nazgûl. Mientras este en un sitio de llanura, el portador es fuerza +2. Descarta esta posesión cuando este en un sitio **Subterráneo.**
+  lore: Porque esos caballos nacieron y fueron criados al servicio del Señor Oscuro.

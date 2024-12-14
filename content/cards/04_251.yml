@@ -1,0 +1,42 @@
+set: '4'
+rarity: R
+number: '251'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Southron Fighter
+  subtitle: ''
+  text: |-
+    **Southron.** **Ambush** :twilight1:.   
+    **Maneuver:** Exert this minion and spot 5 companions to make the Free Peoples player exert a companion. 
+  lore: ‘…they have come out of the South beyond the Great River’s end….’
+de:
+  title: Südlandkämpfer
+  subtitle: ''
+  text: '**Südländer.** **Hinterhalt** :twilight1:**.** **Manöver:** Strenge diesen Diener an und entdecke 5 Gefährten, um den Freie Völker Spieler zu zwingen, einen Gefährten anzustrengen.'
+  lore: … sie sind aus dem Süden gekommen, jenseits vom Ende des Großen Stroms….
+fr:
+  title: Combattant Suderon
+  subtitle: ''
+  text: '**Suderon.** **Embuscade** :twilight1:**.** **Manœuvre :** Affaiblissez ce séide et désignez 5 compagnons pour obliger le joueur des Peuples Libres à affaiblir un compagnon. '
+  lore: '…ils viennent du Sud au-delà du bout du Grand Fleuve…” '
+it:
+  title: Combattente Sudrone
+  subtitle: ''
+  text: |-
+    **Sudrone.**  
+    **Imboscata** :twilight1:**.** **Manovra:** Sforza questo servitore e avvista 5 compagni per far sforzare un compagno al giocatore dei Popoli Liberi.
+  lore: ‘…sono venuti dal Sud, dalle terre al di là della fine del Grande Fiume…’
+es:
+  title: Luchador Sureño
+  subtitle: ''
+  text: |-
+    **Sureño.** **Emboscar** :twilight1:.   
+    **Maniobra:** Esfuerza este siervo y avista 5 compañeros para hacer que el jugador de Gentes Libres esfuerce un compañero.
+  lore: …han venido del Sur mas allá del final del Gran Río…

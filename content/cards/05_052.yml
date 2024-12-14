@@ -1,0 +1,40 @@
+set: '5'
+rarity: C
+number: '52'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Isengard Flanker
+  subtitle: ''
+  text: |-
+    **Warg-rider.**  
+    While this minion is not exhausted, he is **fierce.**
+  lore: Sharku used his warg-riders to scout and defend.
+de:
+  title: Isengart Flankenreiter
+  subtitle: ''
+  text: '**Wargreiter.** Solange dieser Diener nicht erschöpft ist, ist er **Erbittert.**'
+  lore: Sharku setzte seine Wargreiter zur Aufklärung und Verteidigung ein.
+fr:
+  title: Tirailleur de l'Isengard
+  subtitle: ''
+  text: |-
+    **Chevaucheur de ouargue.**   
+    Tant que ce séide n’est pas épuisé, il est **acharné**.
+  lore: Sharkou utilisait ses chevaucheurs de ouargues pour aller en reconnaissance et pour défendre.
+it:
+  title: Fiancheggiatore di Isengard
+  subtitle: ''
+  text: '**Cavalcalupi.** Mentre questo servitore non è esausto, è **Feroce.**'
+  lore: Sharku usò i suoi cavalcalupi per perlustrare e difendere.
+es:
+  title: Flanqueador de Isengard
+  subtitle: ''
+  text: '**Jinete de huargo.** Mientras este siervo no esta exhausto, es **fiero.**'
+  lore: Sharku usó sus jinetes de huargo para explorar y defender.

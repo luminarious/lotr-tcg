@@ -1,0 +1,33 @@
+set: '2'
+rarity: U
+number: '41'
+unique: true
+culture: Isengard
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Evil Afoot
+  subtitle: ''
+  text: '**Shadow:** Exert an Uruk-hai and spot X burdens to shuffle X minions from your discard pile into your draw deck. '
+  lore: ‘It is not the Eastern Shore I am worried about. A shadow and a threat has been growing in my mind. Something draws near, I can feel it.’
+de:
+  title: Übles im Gange
+  subtitle: ''
+  text: '**Schatten:** Strenge einen Uruk-hai an und entdecke X Lastmarken, um X Diener aus deinem Ablagestapel in dein Spieldeck zu mischen.'
+  lore: Nicht das Ostufer bereitet mir Sorgen. Es ist eher ein bedrohlicher Schatten, der sich meiner bemächtigt. Irgend etwas zieht herauf, ich kann es spüren.
+fr:
+  title: Un Mal Se Trame
+  subtitle: ''
+  text: 'Ombre : Affaiblissez un Ourouk-Haï et désignez X points-fardeau pour mélanger X séides de votre pile de défausse dans votre pioche.'
+  lore: 'Ce n''est pas la rive Est qui m''inquiète. Une ombre et une menace s''élèvent en moi. Quelque chose approche; je le sens.” '
+it:
+  title: Il Male in Azione
+  subtitle: ''
+  text: '**Ombra:** Sforza un Uruk-hai e avvista X segnalini fardello per mescolare X servitori, presi dalla tua pila degli scarti, nel tuo mazzo di gioco.'
+  lore: ‘Non è la Sponda Orientale che mi preoccupa. Un'ombra e una minaccia stanno crescendo nella mia mente. Qualcosa si avvicina, lo sento.’
+es:
+  title: Mal en marcha
+  subtitle: ''
+  text: '**Sombra:** Esfuerza un Uruk-hai y avista X cargas para barajar X siervos de tu pila de descartes en tu mazo de robar.'
+  lore: No es el lado este el que me preocupa. Una sombra y una amenaza han estado creciendo en mi mente. Algo se acerca, puedo sentirlo.

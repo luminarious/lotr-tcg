@@ -1,0 +1,18 @@
+set: '4'
+rarity: R
+number: '40'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '2'
+site: 3
+en:
+  title: Wulf
+  subtitle: Dunlending Chieftain
+  text: |-
+    **Fierce.**  
+    **Response:** If another :dunland: Man wins a skirmish, exert Wulf to take control of a site. 
+  lore: ‘Do you not hear their voices?’

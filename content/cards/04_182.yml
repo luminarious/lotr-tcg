@@ -1,0 +1,44 @@
+set: '4'
+rarity: U
+number: '182'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Uruk Crossbow Troop
+  subtitle: ''
+  text: |-
+    **Archer.**   
+    When you play this minion, you may place an :isengard: token on a machine. 
+  lore: Bolts from the Uruk crossbows shattered the shields of the defenders.
+de:
+  title: Uruk Schützeneinheit
+  subtitle: ''
+  text: |-
+    **Bogenschütze.**  
+    Wenn du diesen Diener ausspielst, darfst du eine :isengard: Marke auf eine Kriegsmaschine legen.
+  lore: Die Bolzen der Uruk Armbrüste zerschmetterten die Schilde der Verteidiger.
+fr:
+  title: Troupe d'Arbalétriers
+  subtitle: ''
+  text: |-
+    **Archer.**  
+    Lorsque vous jouez ce séide, vous pouvez placer un jeton :isengard: sur une **machine.**
+  lore: Les carreaux des arbalètes ourouks brisèrent les boucliers des défenseurs.
+it:
+  title: Truppa di Balestrieri Uruk
+  subtitle: ''
+  text: |-
+    **Arciere.**  
+    Quando giochi questo servitore, puoi piazzare un segnalino :isengard: su una **Macchina da Guerra.**
+  lore: I dardi delle balestre Uruk schiantarono gli scudi dei difensori.
+es:
+  title: Tropa De Ballesteros Uruk
+  subtitle: ''
+  text: '**Arquero.** Cuando juegas este siervo, puedes poner un contador :isengard: en una **Máquina.**'
+  lore: Virotes de las ballestas Uruk hacían añicos los escudos de los defensores.

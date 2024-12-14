@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '192'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Right
+en:
+  title: Slopes of Orodruin
+  subtitle: ''
+  text: '**Mountain. Shadow:** Remove :twilight2: and discard 2 Free Peoples cards from hand to draw a card.'
+  lore: ''
+de:
+  title: Die Hänge des Orodruin
+  subtitle: ''
+  text: '**Gebirge. Schatten:** Verringere den Einfluss um :twilight2: und lege 2 Freie Völker Karten aus deiner Hand ab, um eine Karte zu ziehen.'
+  lore: ''

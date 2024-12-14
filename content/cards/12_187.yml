@@ -1,0 +1,13 @@
+set: '12'
+rarity: S
+number: '187'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Left
+en:
+  title: Emyn Muil
+  subtitle: ''
+  text: '**Mountain. Maneuver:** Remove :twilight2: and exert your minion that is not fierce to make that minion **fierce** until the regroup phase.'
+  lore: ''

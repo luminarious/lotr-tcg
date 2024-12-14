@@ -1,0 +1,13 @@
+set: '15'
+rarity: R
+number: '154'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Second Breakfast
+  subtitle: ''
+  text: 'Add a threat and exert your Ring-bearer to wound each non-hunter minion skirmishing your :shire: Ring-bearer.'
+  lore: Don't think he knows about second breakfast, Pip.

@@ -1,0 +1,25 @@
+set: '10'
+rarity: C
+number: '86'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '2'
+site: 5
+en:
+  title: Gorgoroth Keeper
+  subtitle: ''
+  text: |-
+    **Besieger.** While you control a site, this minion’s twilight cost is –2.   
+    **Regroup:** Stack this minion on a site you control. 
+  lore: …new foes came swirling behind….
+de:
+  title: Gorgoroth Sklaventreiber
+  subtitle: ''
+  text: |-
+    **Belagerer.** Solange du einen Ort kontrollierst, reduzieren sich die Kosten dieses Dieners um 2.   
+    **Sammeln:** Lagere diesen Diener auf einem Ort, den du kontrollierst.
+  lore: … während neue Feinde von hinten heranwirbelten….

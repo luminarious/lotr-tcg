@@ -1,0 +1,25 @@
+set: '12'
+rarity: R
+number: '154'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '10'
+vit: '2'
+site: 5
+en:
+  title: Uruk Slaughterer
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    Each time a companion is killed in a skirmish involving an :urukhai: minion, you may discard any number of cards from hand to draw the same number of cards.
+  lore: Captives of the Uruk-hai are treated with brutality and malice, but only if they survive their capture.
+de:
+  title: Schlachtenuruk
+  subtitle: ''
+  text: |-
+    **Schaden +1**.  
+    Jedes Mal, wenn ein Gefährte in einem Kampf mit einem :urukhai: Diener getötet wird, darfst du beliebig viele Karten aus deiner Hand ablegen, um dann die gleiche Anzahl an Karten zu ziehen.
+  lore: Gefangene werden von den Uruk-hai brutal miss-handelt, wenn sie denn ihre Gefangennahme überleben.

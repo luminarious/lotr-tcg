@@ -1,0 +1,16 @@
+set: '11'
+rarity: C
+number: '7'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '5'
+vit: '3'
+res: '6'
+en:
+  title: Farin
+  subtitle: Emissary of Erebor
+  text: While Farin is at a battleground or underground site, he gains **muster**. (At the start of the regroup phase, you may discard a card from hand to draw a card.)
+  lore: If we make no answer, the Enemy may move Men of his rule to assail King Brand, and Dáin also.’

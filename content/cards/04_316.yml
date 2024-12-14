@@ -1,0 +1,20 @@
+set: '4'
+rarity: C
+number: '316'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 2
+str: '3'
+vit: '4'
+res: '5'
+signet: Signet_Gandalf
+en:
+  title: Sam
+  subtitle: Samwise the Brave
+  text: |-
+    **Ring-bound.**  
+    **Response:** If a Shadow card is about to add any number of burdens, spot Frodo and exert Sam to prevent this.  
+    **Response:** If Frodo is killed, make Sam the **Ring-bearer (resistance 5).**
+  lore: ‘Frodo wouldn't have got far without Sam….’

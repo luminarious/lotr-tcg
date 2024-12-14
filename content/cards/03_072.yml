@@ -1,0 +1,35 @@
+set: '3'
+rarity: U
+number: '72'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Trapped and Alone
+  subtitle: ''
+  text: |-
+
+    Each character skirmishing an :isengard: Orc loses all damage bonuses from weapons. 
+  lore: ‘…I had no chance of escape, and my days were bitter.’
+de:
+  title: Gefangen und allein
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Alle Charaktere, die gegen einen :isengard: Ork kämpfen, verlieren alle Schadensboni durch Waffen.'
+  lore: … ich hatte keine Fluchtmöglichkeit, und meine Tage waren bitter.
+fr:
+  title: Seul et Pris au Piège
+  subtitle: ''
+  text: 'Chaque personnage combattant un Orque :isengard: perd tout ses bonus de dégâts provenants d’armes.'
+  lore: '… je n''avais aucune chance de m''échapper, et mes jours furent amers.” '
+it:
+  title: Solo e Intrappolato
+  subtitle: ''
+  text: 'Ogni personaggio che schermaglia con un Orco :isengard: perde tutti i bonus ai danni assegnati dalle armi.'
+  lore: ‘…ero senza via di scampo; ed amari erano i miei giorni.’
+es:
+  title: Solo y Atrapado
+  subtitle: ''
+  text: 'Cada personaje en una escaramuza contra un Orco :isengard: pierde todos los bonos al daño por armas.'
+  lore: …no tenía ninguna posibilidad de escapar, y mis días eran de amargura.

@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '89'
+unique: true
+culture: Man
+type: Possession
+class: Ranged Weapon
+cost: 2
+str: '+1'
+en:
+  title: Long Battle Bow
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: minion.  
+    Bearer is an **Archer.** When you play this possession, you may make the Free Peoples player exert his or her man. 
+  lore: Southron accuracy with bows is legendary.
+de:
+  title: Kriegslangbogen
+  subtitle: ''
+  text: 'Muss auf einen :men: Diener gespielt werden. Der Träger ist **Bogenschütze**. Wenn du diese Ausrüstung spielst, darfst du den Freie Völker Spieler dazu zwingen, einen seiner Menschen anzustrengen.'
+  lore: Die Treffsicherheit der Südländer ist legendär.

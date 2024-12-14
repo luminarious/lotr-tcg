@@ -1,0 +1,16 @@
+set: '18'
+rarity: R
+number: '43'
+unique: true
+culture: Gondor
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Denethor's Sword
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.  
+    While bearer is Denethor, his game text does not apply.
+  lore: 'But if doom denies this to me, then I will have naught: neither life diminished, nor love halved, nor honour abated.'

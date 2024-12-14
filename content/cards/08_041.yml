@@ -1,0 +1,25 @@
+set: '8'
+rarity: C
+number: '41'
+unique: true
+culture: Gondor
+type: Companion
+race: Wraith
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Oathbreaker
+  subtitle: ''
+  text: |-
+    **Enduring.** To play, add a threat.   
+    **Skirmish:** Discard 3 cards from hand to discard a possession borne by a minion skirmishing this companion.
+  lore: at the Stone of Erech they shall stand again / and hear there a horn in the hills ringing.
+de:
+  title: Eidbrecher
+  subtitle: ''
+  text: |-
+    **Zäh.** Lasse eine Bedrohung entstehen, um diesen Gefährten zu spielen.   
+    **Kampf:** Lege 3 Karten aus deiner Hand ab, um eine Ausrüstung von einem Diener abzulegen, der gegen diesen Gefährten kämpft.
+  lore: Am Stein von Erech stehen sie wieder / Und hören das Horn in den Bergen hallen.

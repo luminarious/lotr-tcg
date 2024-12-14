@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '223'
+unique: true
+culture: Wraith
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Relentless Charge
+  subtitle: ''
+  text: '**Maneuver:** Exert a Nazgûl to wound every archer companion.'
+  lore: Even the fastest arrows are of no avail against the Black Steeds of the Nine Riders.
+de:
+  title: Unnachgiebiger Ansturm
+  subtitle: ''
+  text: '**Manöver:** Strenge einen Nazgûl an, um jeden Bogenschützen der Gefährten zu verwunden.'
+  lore: Selbst die schnellsten Pfeile sind nutzlos gegen die schwarzen Rösser der neun Reiter.
+fr:
+  title: Une Charge Implacable
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Nazgûl pour blesser tous les compagnons archers.'
+  lore: Même les flèches les plus rapides ne sont pas efficaces contre les Noirs Destriers des Neuf Cavaliers.
+it:
+  title: Carica Implacabile
+  subtitle: ''
+  text: '**Manovra:** Sforza un Nazgûl per ferire ogni compagno **Arciere.**'
+  lore: Anche le frecce più veloci sono in svantaggio contro i Cavalli Neri dei Nove Cavalieri.
+es:
+  title: Carga Sin Descanso
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un Nazgûl para herir cada compañero **arquero.**'
+  lore: Incluso las flechas más rápidas son inútiles contra los Corceles Negros de los Nueve Jinetes.

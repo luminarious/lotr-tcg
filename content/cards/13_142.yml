@@ -1,0 +1,19 @@
+set: '13'
+rarity: R
+number: '142'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 2
+str: '3'
+vit: '4'
+res: '8'
+en:
+  title: Bilbo
+  subtitle: Aged Ring-bearer
+  text: |-
+    **Ring-bound.**  
+    While Bilbo is not assigned to a skirmish, each Ring-bound Hobbit is strength +1.  
+    At the start of each skirmish involving Bilbo, you may remove a burden for each other Ring-bound Hobbit you can spot.
+  lore: ‘…I am quite ready to go on another journey….’

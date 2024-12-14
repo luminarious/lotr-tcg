@@ -1,0 +1,37 @@
+set: '1'
+rarity: C
+number: '193'
+unique: true
+culture: Moria
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Plundered Armories
+  subtitle: ''
+  text: |-
+
+    **Response:** If your :moria: weapon is discarded, play it from your discard pile (that weapon’s twilight cost is -1).
+  lore: The Goblins of Moria have oft plundered the deep armouries of Durin’s folk.
+de:
+  title: Geplünderte Waffenkammern
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Reaktion:** Wenn eine deiner :moria: Waffen abgelegt wird, spiele sie aus deinem Ablagestapel (die Zwielichtkosten der Waffe sind um 1 reduziert).'
+  lore: Die Moria Goblins haben bereits mehrfach die Rüstkammer von Durin’s Volk geplündert.
+fr:
+  title: Armureries Pillées
+  subtitle: ''
+  text: '**Réponse :** Si votre arme :moria: est défaussée, jouez-la de votre pile de défausse (le coût crépusculaire de cette arme est de -1).'
+  lore: Les Gobelins de la Moria ont souvent pillé les armureries inférieures du peuple de Durin.
+it:
+  title: Armerie Saccheggiate
+  subtitle: ''
+  text: |-
+    Giocala nella tua area di supporto.  
+    **Risposta:** Se una tua arma :moria: è scartata, giocala dalla tua pila degli scarti (sottrai -1 al costo crepuscolo dell’arma).
+  lore: I Goblin di Moria hanno spesso derubato le profonde armerie della gente di Durin.
+es:
+  title: Armerías Saqueadas
+  subtitle: ''
+  text: '**Respuesta:** Si tu arma :moria: es descartada, juégala de tu pila de descartes (el coste de penumbra de esa arma es -1).'
+  lore: Los Goblins de Moria han saqueado a manudo las profundas armerías del Pueblo de Durin.

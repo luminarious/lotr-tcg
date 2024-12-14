@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '194'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Left
+en:
+  title: Redhorn Pass
+  subtitle: ''
+  text: '**Mountain.** Culture tokens cannot be added, removed, or reinforced.'
+  lore: ''
+de:
+  title: Rothornpass
+  subtitle: ''
+  text: '**Gebirge.** Kulturmarken können nicht platziert, entfernt oder ergänzt werden.'
+  lore: ''

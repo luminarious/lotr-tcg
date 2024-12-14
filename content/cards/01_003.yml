@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '3'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Axe Strike
+  subtitle: ''
+  text: '**Skirmish:** Make a Dwarf strength +2 (or +3 if bearing a :dwarven: hand weapon).'
+  lore: Though Gimli’s words were praised by the Lady of Light, he proved his best skill was swinging his axe.
+de:
+  title: Axthieb
+  subtitle: ''
+  text: '**Kampf:** Gib einem Zwerg Stärke +2 (oder Stärke +3, wenn er eine :dwarven: Handwaffe trägt).'
+  lore: Obwohl Gimlis Worte von der Herrin des Lichts wohlwollend aufgenommen wurden, bewies er sein größtes Talent im Umgang mit der Axt.
+fr:
+  title: Coup de Hache
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force (ou +3 s’il porte une arme de mêlée :dwarven:) à un Nain.'
+  lore: Même si les paroles de Gimli furent louées par la Dame Blanche, il prouva que son meilleur talent était le balancement de sa hache.
+it:
+  title: Colpo d'Ascia
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Nano (o +3 se impugna un’arma da mischia :dwarven:).'
+  lore: Sebbene la parole di Gimli fossero elogiate dalla Dama della Luce, lui aveva dimostrato che la sua migliore capacità era di far roteare la sua ascia.
+es:
+  title: Golpe de Hacha
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Enano fuerza +2 (+3 sí lleva una arma de mano :dwarven:).'
+  lore: A pesar de que las palabras de Gimli fueron alabadas por la Dama de la Luz, él demostró que su mejor habilidad era golpear con su hacha.

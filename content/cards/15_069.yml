@@ -1,0 +1,18 @@
+set: '15'
+rarity: C
+number: '69'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+res: '6'
+en:
+  title: Silent Traveler
+  subtitle: ''
+  text: |-
+    **Ranger. Hunter 1.** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    At the start of each skirmish involving this companion and a roaming minion, you may reinforce a :gondor: token.
+  lore: ‘We have not found what we sought…’

@@ -1,0 +1,36 @@
+set: '6'
+rarity: C
+number: '99'
+unique: true
+culture: Sauron
+type: Minion
+race: Wraith
+cost: 3
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Corpse Lights
+  subtitle: ''
+  text: '**Twilight.** **Skirmish:** Exert this minion to make a :sauron:or twilight minion strength +1 for each twilight minion you can spot.'
+  lore: ‘I tried once; but you cannot reach them. Only shapes to see, perhaps, not to touch.’
+de:
+  title: Totenlichter
+  subtitle: ''
+  text: '**Zwielicht.** **Kampf** Strenge diesen Diener an, um einem :sauron: Diener oder Zwielichtdiener Stärke +1 für jeden Zwielichtdiener, den du entdecken kannst, zu geben.'
+  lore: Ich versuchte es einmal; aber man kann sie nicht erreichen. Nur Gestalten sind zu sehen, man kann sie nicht anfassen.
+fr:
+  title: Les Lumières des Morts
+  subtitle: ''
+  text: '**Crépusculaire.** **Combat :** Affaiblissez ce séide pour donner +1 en force à un séide :sauron: ou crépusculaire, et ce, pour chaque séide crépusculaire que vous pouvez désigner.'
+  lore: 'On a essayé une fois…. Rien que des ombres à voir, peut-être, pas à toucher.” '
+it:
+  title: Luci dei Cadaveri
+  subtitle: ''
+  text: '**Crepuscolo.** **Schermaglia:** Sforza questo servitore per aggiungere +1 alla forza di un servitore :sauron: o di un servitore crepuscolo per ogni servitore crepuscolo che puoi avvistare.'
+  lore: ‘Ci provai una volta, ma non si possono raggiungere. Forse sono solo forme che si vedono e non si toccano.’
+es:
+  title: Luces cadavéricas
+  subtitle: ''
+  text: '**Penumbra.** **Escaramuza:** Esfuerza este siervo para darle a un siervo :sauron: o penumbra fuerza +1 por cada siervo penumbra que puedas avistar.'
+  lore: Yo traté una vez; pero son inalcanzables. Sólo formas para ver, quizás, pero no para tocar.

@@ -1,0 +1,23 @@
+set: '7'
+rarity: C
+number: '156'
+unique: true
+culture: Raider
+type: Possession
+class: Hand Weapon
+cost: 0
+str: '+2'
+en:
+  title: Raider Halberd
+  subtitle: ''
+  text: |-
+    Bearer must be a :raider: Man.   
+    **Skirmish:** Exert bearer to add :twilight2:.
+  lore: ''
+de:
+  title: Hellebarde der Dunkelmenschen
+  subtitle: ''
+  text: |-
+    Muss auf einen :raider: Menschen gespielt werden.   
+    **Kampf:** Strenge den Träger an, um den Einfluss um :twilight2: zu erhöhen.
+  lore: …als die Südländer ihre Krummsäbel zogen, war es wie ein Glitzern von Sternen…

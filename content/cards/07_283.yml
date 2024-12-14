@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '283'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Legions of Morgul
+  subtitle: ''
+  text: |-
+    To play, spot 2 :sauron: Orcs and add up to 3 threats. Each time a companion is about to be killed, you may remove a threat to make all minions fierce until the regroup phase.   
+    Discard this condition and remove 3 threats at the start of the regroup phase.
+  lore: ''
+de:
+  title: Legionen aus Morgul
+  subtitle: ''
+  text: |-
+    Entdecke 2 :sauron: Orks, um diesen Effekt zu spielen und lasse bis zu 3 Bedrohungen entstehen. Jedes Mal, wenn ein Gefährte stirbt, darfst du eine Bedrohung entfernen, um alle Diener bis zur Sammelphase **erbittert** zu machen.   
+    Lege diesen Effekt in der Sammelphase ab und entferne 3 Bedrohungen.
+  lore: ''

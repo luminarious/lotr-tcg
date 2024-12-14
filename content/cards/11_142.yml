@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '142'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 2
+str: '5'
+vit: '2'
+site: 4
+en:
+  title: Unyielding Goblin
+  subtitle: ''
+  text: '**Skirmish:** If this minion is at an underground site, exert it to exert a companion it is skirmishing. '
+  lore: In the rush of battle, some Orcs can carry on heedless of their own wounds until their enemy is vanquished.
+de:
+  title: Unnachgiebiger Goblin
+  subtitle: ''
+  text: '**Kampf:** Wenn sich dieser Diener an einem unterirdischen Ort befindet, strenge ihn an, um einen Gefährten, gegen den er kämpft, anzustrengen.'
+  lore: Im Kampfrausch ignorieren einige Orks ihre Wunden bis der Feind vernichtet ist.

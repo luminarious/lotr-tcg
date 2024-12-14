@@ -1,0 +1,18 @@
+set: '10'
+rarity: R
+number: '28'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '8'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Denethor
+  subtitle: Lord of Minas Tirith
+  text: |-
+    To play, spot 2 :gondor: Men.   
+    **Fellowship:** If at a sanctuary, exert Denethor to take a :gondor: card into hand from your draw deck, then reshuffle. Choose an opponent who may draw 2 cards.
+  lore: There Denethor sat in a grey gloom, like an old patient spider….

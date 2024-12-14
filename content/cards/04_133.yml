@@ -1,0 +1,42 @@
+set: '4'
+rarity: R
+number: '133'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Ruins of Osgiliath
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    While the fellowship is at site 7:tower:, each Ring-bound Man is **defender +1.**  
+    **Skirmish:** Spot a Ring-bound Man and discard this condition to wound an opponent’s Man. 
+  lore: The Citadel of the Stars had fallen into ruin.
+de:
+  title: Die Trümmer von Osgiliath
+  subtitle: ''
+  text: |-
+    Spiele diese Karte in deinen Unterstützungs-bereich. Solange sich die Gemeinschaft an Ort 7:tower: befindet, ist jeder Ring-verbundene Mensch **Verteidiger +1.**  
+    **Kampf** Entdecke einen Ring-verbundenen Menschen und lege diesen Effekt ab, um einen Menschen eines Gegenspielers zu verwunden.
+  lore: Die Zitadelle der Sterne war zu Ruinen zerfallen.
+fr:
+  title: Les Ruines de l'Osgiliath
+  subtitle: ''
+  text: |-
+    Tant que la compagnie est au site 7:tower:, chaque Homme associé à l’Anneau est **défenseur +1.**  
+    **Combat :** Désignez un Homme associé à l’Anneau et défaussez cette situation pour blesser un Homme d’un adversaire.
+  lore: La Citadelle des Étoiles était tombée en ruine.
+it:
+  title: Rovine di Osgiliath
+  subtitle: ''
+  text: |-
+    Mentre la compagnia è al sito 7:tower:, ogni Uomo Legato all’Anello è **Difensore +1.**  
+    **Schermaglia:** Avvista un Uomo Legato all’Anello e scarta questa condizione per ferire un Uomo dell’avversario.
+  lore: La Cittadella delle Stelle era caduta in rovina.
+es:
+  title: Ruinas De Osgiliath
+  subtitle: ''
+  text: Mientras la comunidad esté en el sitio 7:tower:, cada Hombre Vinculado al Anillo es **defensor +1**. **Escaramuza:** Avista un Hombre Vinculado al Anillo y descarta esta condición para herir un Hombre de un oponente.
+  lore: La Ciudadela de las Estrellas se ha convertido en ruinas.

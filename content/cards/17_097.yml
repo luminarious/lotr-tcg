@@ -1,0 +1,15 @@
+set: '17'
+rarity: U
+number: '97'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: For Death and Glory
+  subtitle: ''
+  text: |-
+    While the Ring-bearer is assigned to a skirmish, each minion skirmishing a :rohan: companion loses **hunter** and is unable to gain hunter.  
+    **Skirmish:** Exert a :rohan: companion to make that companion gain **hunter 1** until the start of the regroup phase.
+  lore: ''

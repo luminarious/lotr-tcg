@@ -1,0 +1,35 @@
+set: '4'
+rarity: C
+number: '278'
+unique: true
+culture: Rohan
+type: Possession
+class: Armor
+cost: 1
+en:
+  title: Heavy Chain
+  subtitle: ''
+  text: |-
+    Bearer must be a Man.   
+    Bearer may not be overwhelmed unless his or her strength is tripled. 
+  lore: What Man of an earlier age wore this chain? Was his end worth a song?
+de:
+  title: Schweres Kettenhemd
+  subtitle: ''
+  text: Muss auf einen Menschen gespielt werden. Der Träger kann nur mit dreifacher Stärke überwältigt werden.
+  lore: Welcher Mensch aus alten Tagen trug diese Ketten? Fand er ein Ende, das eines Liedes würdig war?
+fr:
+  title: Cotte de Mailles Forte
+  subtitle: ''
+  text: Le détenteur doit être un Homme. Le détenteur n’est submergé que si la force du camp adverse est trois fois supérieure à la sienne.
+  lore: 'Qui fut l''Homme d''un temps passé digne de porter cette cotte? A-t-on chanté sur son sort?” '
+it:
+  title: Armatura di Maglia Pesante
+  subtitle: ''
+  text: Il possessore deve essere un Uomo. Il possessore non è sopraffatto a meno che la forza degli avversari non sia il triplo della sua forza.
+  lore: Quale Uomo di una passata era indossò quest'armatura? Fu la sua fine degna di una canzone?
+es:
+  title: Cota Pesada
+  subtitle: ''
+  text: El portador debe ser un Hombre. El portador no es abrumado a no ser que su fuerza sea triplicada.
+  lore: ¿Qué hombre de una era anterior portaba esta armadura? ¿Fue su final merecedor de una canción?

@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '36'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Threw Down My Enemy
+  subtitle: ''
+  text: '**Spell.** **Skirmish:** Make a minion skirmishing Gandalf strength –1 for each wound on each character in the skirmish.'
+  lore: ‘…he fell from the high place and broke the mountain-side where he smote it in his ruin.’
+de:
+  title: Ich warf meinen Feind nieder
+  subtitle: ''
+  text: 'Zauberspruch. Kampf: Gib einem Diener, der gegen Gandalf kämpft, Stärke –1 für jede Wunde auf jedem Charakter, der an diesem Kampf beteiligt ist.'
+  lore: … er stürzte von der Höhe und zertrümmerte die Seite des Berges, wo er bei seinem Fall aufschlug.
+fr:
+  title: Je Jetai à Bas Mon Ennemi
+  subtitle: ''
+  text: 'Sort. Combat : Donnez –1 en force à un séide qui combat Gandalf, et ce pour chaque blessure sur chaque personnage impliqué dans le combat.'
+  lore: '… il chut du haut lieu et brisa le flanc de la montagne où il la frappa dans sa perte.” '
+it:
+  title: Scaraventai giù il Mio Nemico
+  subtitle: ''
+  text: 'Magia. Schermaglia: Sottrai –1 alla forza di un servitore che sta schermagliando con Gandalf per ogni ferita su ogni personaggio nella schermaglia.'
+  lore: ‘…e lui precipitando cadde dall'alto e infranse il fianco della montagna nel punto in cui cadde.’
+es:
+  title: Cayó desde lo alto
+  subtitle: ''
+  text: 'Hechizo. Escaramuza: Da a un siervo que esté en una escaramuza contra Gandalf fuerza –1 por cada herida en cada personaje en la escaramuza.'
+  lore: …y el cayó desde lo alto, golpeando y destruyendo el flanco de la montaña.

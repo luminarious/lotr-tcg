@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '160'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Worthy of Mordor
+  subtitle: ''
+  text: 'At the start of the regroup phase, you may remove :twilight1: to make an :urukhai: minion gain **muster** until the end of the regroup phase. *(At the start of the regroup phase, you may discard a card from hand to draw a card.)*'
+  lore: Tasked by Sauron, Saruman moved swiftly to build the army demanded of him.
+de:
+  title: Mordors würdig
+  subtitle: ''
+  text: 'Zu Beginn der Sammelphase darfst den Einfluss um :twilight1: verringern, um einem :urukhai: Diener bis zum Ende der Sammelphase **Appell** zu geben. *(Zu Beginn der Sammel-phase darfst du eine Karte aus deiner Hand ablegen, um eine Karte zu ziehen.)*'
+  lore: Saruman eilte sich, Saurons Befehl, eine Armee aufzustellen, nachzukommen.

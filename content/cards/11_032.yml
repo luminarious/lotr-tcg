@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '32'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: G for Grand
+  subtitle: ''
+  text: 'While you can spot a :gandalf: Wizard, each companion who has resistance 6 or more is strength +1. '
+  lore: To them he was just one of the ‘attractions’ at the party. Hence the excitement of the hobbit-children.
+de:
+  title: G wie Großartig
+  subtitle: ''
+  text: 'Solange du einen :gandalf: Zauberer entdecken kannst, erhält jeder Gefährte, der eine Resistenz von 6 oder mehr hat, Stärke +1.'
+  lore: Für sie war er einfach eine der ‚Attraktionen‘ des Festes. Daher die Aufregung der Hobbitkinder.

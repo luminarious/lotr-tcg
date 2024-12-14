@@ -1,0 +1,33 @@
+set: '5'
+rarity: R
+number: '86'
+unique: true
+culture: Rohan
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: No Rest for the Weary
+  subtitle: ''
+  text: '**Maneuver:** Spot 3 valiant Men to make one of those Men **defender +1** until the regroup phase.'
+  lore: ‘We must draw all our forces now behind the walls.’
+de:
+  title: Keine Ruhe für die Erschöpften
+  subtitle: ''
+  text: '**Manöver:** Entdecke 3 tapfere Menschen, um einen von ihnen bis zur Sammelphase **Verteidiger +1** zu machen.'
+  lore: Wir müssen jetzt unsere ganze Streitmacht hinter den Wällen sammeln.
+fr:
+  title: Aucun Repos dans la Lassitude
+  subtitle: ''
+  text: '**Manœuvre :** Désignez 3 Hommes vaillants pour rendre l’un de ces Hommes **défenseur +1** jusqu’à la phase de ralliement.'
+  lore: 'Il nous faut maintenant retirer toutes nos forces derrière les murs.” '
+it:
+  title: Non c'è Tempo per il Riposo
+  subtitle: ''
+  text: '**Manovra:** Avvista 3 Uomini Valorosi per rendere uno di quegli uomini Difensore +1 fino alla fase di raccolta.'
+  lore: Dobbiamo ora radunare tutte le nostre forze dietro le mura.
+es:
+  title: No hay descanso para los cansados
+  subtitle: ''
+  text: '**Maniobra:** Avista 3 Hombres Valientes para dar a uno de esos Hombres **defensor +1** hasta la fase de reagrupación.'
+  lore: Hemos de concentrar todas nuestras fuerzas detrás de las murallas.

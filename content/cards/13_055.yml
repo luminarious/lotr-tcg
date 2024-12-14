@@ -1,0 +1,17 @@
+set: '13'
+rarity: U
+number: '55'
+unique: true
+culture: Gollum
+type: Companion
+cost: 0
+str: '3'
+vit: '4'
+res: '5'
+en:
+  title: Sméagol
+  subtitle: Simple Stoor
+  text: |-
+    **Ring-bound.** To play, add a burden.  
+    For each card titled Déagol in your discard pile, Sméagol is strength +2 and resistance –1. Each time Sméagol wins a skirmish, you may take a :gollum: card from your draw deck and place it in your discard pile.
+  lore: ‘…his head and his eyes were downward.’

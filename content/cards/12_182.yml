@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '182'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Unimpeded
+  subtitle: ''
+  text: '**Skirmish:** Discard this condition to make a Nazgûl strength +1 for each of the following that is true: he is at a battleground or forest site; he is skirmishing a companion who has resistance 4 or less; he is bearing a possession; he is in a fierce skirmish'
+  lore: ‘Who goes there?’
+de:
+  title: Ungehindert
+  subtitle: ''
+  text: '**Kampf:** Lege diesen Effekt ab, um einem Nazgûl für jede folgende Bedingung, die gültig ist, Stärke +1 zu geben: er befindet sich auf einem Schlachtfeld oder in einem Wald; er kämpft gegen einen Gefährten mit Resistenz 4 oder weniger; er ist ausgerüstet; er ist in einem erbitterten Kampf. '
+  lore: Wer ist da?

@@ -1,0 +1,40 @@
+set: '4'
+rarity: U
+number: '216'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Arrow From the South
+  subtitle: ''
+  text: |-
+
+    Each time a companion or ally loses a skirmish involving a :raider: Man, you may place a :raider: token here.   
+    **Archery:** Heal a :raider: archer for each :raider: token here. Discard this condition. 
+  lore: Haradrim is the Gondorian name for Southrons.
+de:
+  title: Pfeile aus dem Süden
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn ein Gefährte oder Verbündeter einen Kampf verliert, an dem ein :raider: Mensch beteiligt war, darfst du eine :raider: Marke auf diese Karte legen. **FernKampf** Heile einen :raider: Bogenschützen für jede :raider: Marke auf dieser Karte. Lege diesen Effekt ab.'
+  lore: Haradrim war der Gondorname für die Südlinge.
+fr:
+  title: Flèche Méridionale
+  subtitle: ''
+  text: 'Chaque fois qu’un compagnon ou un allié perd un combat impliquant un Homme :raider:, vous pouvez déposer un jeton :raider: sur cette carte. **Archerie :** Guérissez un archer :raider: pour chaque jeton :raider: qui se trouve ici. Défaussez cette situa'
+  lore: Les archers suderons font preuve d'une précision meurtrière.
+it:
+  title: Freccia dal Sud
+  subtitle: ''
+  text: |-
+    Ogni volta che un compagno o un alleato perde una schermaglia che coinvolga un Uomo :raider:, puoi piazzare qui un segnalino :raider:.   
+    **Arcieri:** Cura un arciere :raider: per ogni segnalino :raider: qui presente. Scarta questa condizione.
+  lore: Haradrim è il nome che i Gondoriani danno ai Sudroni.
+es:
+  title: Flecha Del Sur
+  subtitle: ''
+  text: |-
+    Cada vez que un compañero o aliado pierde una escaramuza en la que participe un Hombre :raider:, puedes poner un contador :raider: aquí.   
+    **Arquería:** Cura un arquero :raider: por cada contador :raider: aquí. Descarta esta condición.
+  lore: Haradrim es el nombre Gondoriano para los Sureños.

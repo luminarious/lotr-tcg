@@ -1,0 +1,23 @@
+set: '11'
+rarity: C
+number: '79'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Fearsome Dunlending
+  subtitle: ''
+  text: '**Ambush** :twilight1:. When you play this minion at a plains site, you may spot an unbound companion to make that companion resistance –1 until the end of the turn. '
+  lore: Accustomed as they are to traveling afoot, Dunlending mobs can strike quickly, without warning.
+de:
+  title: Furchterregender Dunländer
+  subtitle: ''
+  text: |-
+    **Hinterhalt** :twilight1:.  
+    Wenn du diesen Diener an einer Ebene spielst, darfst du einen nicht-verbundenen Gefährten entdecken, um die Resistenz dieses Gefährten bis zum Ende des Zuges um 1 zu reduzieren.
+  lore: Lange Fußmärsche gewohnt, können die Mobs aus Dunland rasch und ohne Warnung zuschlagen.

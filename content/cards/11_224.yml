@@ -1,0 +1,16 @@
+set: '11'
+rarity: R
+number: '224'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Otsëa
+  subtitle: Seventh of the Nine Riders
+  text: 'When you play Úlairë Otsëa, you may spot a companion who has X wounds to reveal the top X cards of your draw deck. Take each :wraith: card revealed this way into hand. '
+  lore: The riding figure sat quite still with its head bowed, as if listening.

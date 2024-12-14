@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '356'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Right
+en:
+  title: Anduin Banks
+  subtitle: ''
+  text: '**River.** For each companion in the fellowship over 4, add 2 to the minion archery total.'
+  lore: ''
+de:
+  title: Die Ufer des Anduin
+  subtitle: ''
+  text: '**Fluss.**Bei mehr als 4 Gefährten, erhöhe den Fernkampfwert der Diener um 2 für jeden Gefährten über 4.'
+  lore: ''
+fr:
+  title: Berges de l'Anduin
+  subtitle: ''
+  text: '**Rivière.** Pour chaque compagnon dans la compagnie au delà de 4, ajoutez 2 au total d’archerie des séides.'
+  lore: ''
+it:
+  title: Argine dell'Anduin
+  subtitle: ''
+  text: '**Fiume.** Per ogni compagno nella Compagnia oltre il quarto, aggiungi +2 al totale degli arcieri tra i servitori.'
+  lore: ''
+es:
+  title: Orillas del Anduin
+  subtitle: ''
+  text: '**Río.** Por cada compañero en la comunidad por encima de 4, añade 2 al total de arquería de los siervos.'
+  lore: ''

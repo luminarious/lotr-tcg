@@ -1,0 +1,48 @@
+set: '19'
+rarity: P
+number: '24'
+unique: true
+culture: Rohan
+type: Condition
+cost: 2
+str: '+1'
+en:
+  title: ' Brought Down from Inside'
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    At the start of each skirmish you may transfer this condition to a :rohan: Man.  
+    At the end of each turn, if bearer did not win a skirmish this turn, return this condition to hand.
+  lore: Bring it down! Bring it down! Bring it down!
+de:
+  title: Brought Down from Inside
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    At the start of each skirmish you may transfer this condition to a :rohan: Man.  
+    At the end of each turn, if bearer did not win a skirmish this turn, return this condition to hand.
+  lore: Bring it down! Bring it down! Bring it down!
+fr:
+  title: Brought Down from Inside
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    At the start of each skirmish you may transfer this condition to a :rohan: Man.  
+    At the end of each turn, if bearer did not win a skirmish this turn, return this condition to hand.
+  lore: Bring it down! Bring it down! Bring it down!
+it:
+  title: Brought Down from Inside
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    At the start of each skirmish you may transfer this condition to a :rohan: Man.  
+    At the end of each turn, if bearer did not win a skirmish this turn, return this condition to hand.
+  lore: Bring it down! Bring it down! Bring it down!
+es:
+  title: Brought Down from Inside
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    At the start of each skirmish you may transfer this condition to a :rohan: Man.  
+    At the end of each turn, if bearer did not win a skirmish this turn, return this condition to hand.
+  lore: Bring it down! Bring it down! Bring it down!

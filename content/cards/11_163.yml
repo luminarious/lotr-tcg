@@ -1,0 +1,21 @@
+set: '11'
+rarity: U
+number: '163'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '3'
+res: '8'
+en:
+  title: Farmer Maggot
+  subtitle: Hobbit of the Marish
+  text: While Farmer Maggot is at a dwelling or forest site, he is strength +4.
+  lore: ‘I didn't like the looks of him; and when Grip came out, he took one sniff and let out a yelp as if he had been stung….’
+de:
+  title: Bauer Maggot
+  subtitle: Hobbit aus dem Bruch
+  text: Solange sich Bauer Maggot an einer Heimstatt oder einem Wald befindet, erhält er Stärke +4.
+  lore: Mir gefiel sein Aussehen gar nicht, und als Greif herauskam, schnüffelte er einmal und kläffte dann, als ob er gestochen worden sei….

@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '257'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Right
+en:
+  title: Rohan Uplands
+  subtitle: ''
+  text: '**Plains.** During the archery phase, :urukhai: minions cannot take wounds. '
+  lore: ''
+de:
+  title: Hochland von Rohan
+  subtitle: ''
+  text: '**Ebene.** :urukhai: Diener können während der Fernkampfphase keine Wunden erleiden.'
+  lore: ''

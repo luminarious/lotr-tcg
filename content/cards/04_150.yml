@@ -1,0 +1,44 @@
+set: '4'
+rarity: R
+number: '150'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 7
+str: '9'
+vit: '3'
+site: 5
+en:
+  title: Elite Crossbowmen
+  subtitle: ''
+  text: |-
+    **Archer.** **Damage +1.**  
+    **Archery:** Exert Elite Crossbowmen to make the Free Peoples player wound an unbound companion; this minion does not add to the minion archery total. 
+  lore: The best archers were held in reserve, awaiting the final assault.
+de:
+  title: Elite Armbrustschützen
+  subtitle: ''
+  text: |-
+    **Bogenschütze.****Schaden +1.**  
+    **Fernkampf:** Strenge diesen Diener an, um den Freie Völker Spieler zu zwingen, einen nicht-verbundenen Gefährten zu verwunden; dieser Diener zählt dann nicht zum Fernkampfwert der Diener.
+  lore: Die besten Schützen wurden für den entscheidenden Angriff in Reserve gehalten.
+fr:
+  title: Arbalétriers d'Élite
+  subtitle: ''
+  text: |-
+    **Archer.** **Dégâts +1.**  
+    **Archerie :** Affaiblissez les Arbalétriers d’Élite pour obliger le joueur des Peuples Libres à blesser un compagnon dissocié; ce séide ne s’ajoute pas au total d’archerie des séides.
+  lore: Les meilleurs archers étaient gardés en réserve, en attendant l'assaut final.
+it:
+  title: Balestrieri d'Elite
+  subtitle: ''
+  text: |-
+    **Arciere.** **Danno +1.**  
+    **Arcieri:** Sforza Balestrieri d’Elite per far ferire al giocatore dei Popoli Liberi un compagno Non Legato; questo servitore non si aggiunge al totale degli arcieri tra i servitori.
+  lore: Gli arcieri migliori erano tenuti di riserva, in attesa dell'assalto decisivo.
+es:
+  title: Ballesteros De Élite
+  subtitle: ''
+  text: '**Arquero.** **Daño +1.** **Arquería:** Esfuerza los Ballesteros De Élite para hacer que el jugador de Gentes Libres hiera un compañero no-vinculado; este siervo no añade al total de arquería de los siervos.'
+  lore: Los mejores arqueros fueron reservados, esperando al asalto final.

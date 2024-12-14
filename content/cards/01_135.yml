@@ -1,0 +1,40 @@
+set: '1'
+rarity: U
+number: '135'
+unique: true
+culture: Isengard
+type: Condition
+cost: 2
+en:
+  title: Saruman's Frost
+  subtitle: ''
+  text: |-
+    **Spell.** **Weather.** To play, exert a :isengard: minion. Plays on a site. Limit 1 per site.   
+    Each Hobbit at this site is strength -2. Discard this condition at the end of the turn.
+  lore: The small and weak suffer first from the The White Wizard’s powerful sorcery.
+de:
+  title: Sarumans Frost
+  subtitle: ''
+  text: |-
+    **Zauberspruch.** **Wetter.**  
+    Strenge einen :isengard: Diener an, um diese Karte an einen Ort zu spielen. Maximal 1 pro Ort. Alle Hobbits an diesem Ort erhalten Stärke -2. Dieser Effekt wird am Ende des Spielzuges abgelegt.
+  lore: Die Kleinen und die Schwachen sind die Ersten, die unter dem machtvollen Zauber von Saruman, dem Weissen, zu leiden haben.
+fr:
+  title: Le Gel de Saroumane
+  subtitle: ''
+  text: |-
+    **Sort.** **Climat.**  
+    Pour jouer, affaiblissez un séide :isengard:. Jouable sur un site. Limité à 1 par site. Chaque Hobbit à ce site a -2 en force. Défaussez cette situation à la fin du tour.
+  lore: Le petit et le faible souffrent en premier de la sorcellerie puissante du Magicien Blanc.
+it:
+  title: Freddo di Saruman
+  subtitle: ''
+  text: |-
+    **Magia.** **Atmosferica.**  
+    Per giocare, sforza un servitore :isengard:. Giocala su un sito. Limite 1 per sito. Ogni Hobbit che sia presente in questo sito sottrae -2 alla forza. Scarta questa condizione alla fine del turno.
+  lore: I piccoli e i deboli soffrono per primi per la potente magia dello Stregone Bianco.
+es:
+  title: La Helada de Saruman
+  subtitle: ''
+  text: '**Hechizo.****Clima.** Para jugarlo, esfuerza un siervo :isengard:. Se juega en un sitio. Límite 1 por sitio. Cada Hobbit en este sitio es fuerza -2. Descarta esta condición al final del turno.'
+  lore: Los débiles y pequeños sufren primero por la poderosa hechicería del Mago Blanco.

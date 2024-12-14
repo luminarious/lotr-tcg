@@ -1,0 +1,25 @@
+set: '12'
+rarity: U
+number: '140'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '10'
+vit: '3'
+site: 5
+en:
+  title: Crushing Uruk
+  subtitle: ''
+  text: |-
+    **Lurker.** *(Skirmishes involving lurker minions must be resolved after any others.)*   
+    **Response:** If a companion loses a skirmish involving an :urukhai: minion, exert this minion to discard a possession borne by that companion.
+  lore: Uruks strike with crippling force.
+de:
+  title: Zermalmender Uruk
+  subtitle: ''
+  text: |-
+    **Schleicher.** *(Kämpfe mit Schleichern dürfen erst nach allen anderen abgehandelt werden.)*  
+    **Reaktion:** Strenge diesen Diener an, wenn ein Gefährte einen Kampf verliert, an dem ein :urukhai: Diener beteiligt ist, um eine Ausrüstung dieses Gefährten abzulegen.
+  lore: Uruks schlagen mit vernichtender Kraft zu.

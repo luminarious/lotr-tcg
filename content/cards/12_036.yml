@@ -1,0 +1,22 @@
+set: '12'
+rarity: U
+number: '36'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: With Doom We Come
+  subtitle: ''
+  text: |-
+    While Gandalf is at an underground site, he gains **muster.** *(At the start of the regroup phase, you may discard a card from hand to draw a card.)*   
+    While the fellowship is at a battleground site, each :gandalf: character gains **muster.**
+  lore: ‘We come, we come with roll of drum….’
+de:
+  title: Mit Fluch und Bann
+  subtitle: ''
+  text: |-
+    Solange sich Gandalf an einem unter-irdischen Ort befindet, erhält er **Appell**.  
+    Solange sich die Gemeinschaft auf einem Schlachtfeld befindet, erhalten alle :gandalf: Charaktere **Appell**.
+  lore: Mit Trommelrollen ziehen wir….

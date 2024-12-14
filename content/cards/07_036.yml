@@ -1,0 +1,16 @@
+set: '7'
+rarity: C
+number: '36'
+unique: true
+culture: Gandalf
+type: Companion
+race: Wizard
+cost: 4
+str: '9'
+vit: '4'
+signet: Signet_Gandalf
+en:
+  title: Gandalf
+  subtitle: Defender of the West
+  text: While you cannot spot 3 companions of the same culture, Gandalf is strength –2.
+  lore: ‘I come with counsel and tidings in this dark hour.’

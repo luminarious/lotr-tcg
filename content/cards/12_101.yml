@@ -1,0 +1,22 @@
+set: '12'
+rarity: R
+number: '101'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Retribution
+  subtitle: ''
+  text: |-
+    Each time an :orc: minion bearing a weapon wins a skirmish, add a burden.   
+    **Shadow:** Discard this condition to play an :orc: weapon from your discard pile.
+  lore: With his mighty army, the Dark Lord exacted a high price for resisting his will.
+de:
+  title: Bestrafung
+  subtitle: ''
+  text: |-
+    Lege jedes Mal, wenn ein :orc: Diener, der mit einer Waffe ausgerüstet ist, einen Kampf gewinnt, eine Lastmarke auf den Ringträger.  
+    **Schatten:** Lege diesen Effekt ab, um eine :orc: Waffe aus deinem Ablagestapel zu spielen.
+  lore: ''

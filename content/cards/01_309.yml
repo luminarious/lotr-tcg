@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '309'
+unique: true
+culture: Shire
+type: Ally
+race: Hobbit
+cost: 1
+str: '1'
+vit: '2'
+site: '1'
+en:
+  title: Rosie Cotton
+  subtitle: Hobbiton Lass
+  text: |-
+    Sam is strength +1.   
+    **Fellowship:** Exert Rosie Cotton to heal Sam.
+  lore: ‘Go on Sam, ask Rosie for a dance.’
+de:
+  title: Rosie Hüttinger
+  subtitle: Mädchen aus Hobbingen
+  text: Sam erhält Stärke +1. **Gemeinschaft.** Strenge Rosie Hüttinger an, um Sam zu heilen.
+  lore: Komm schon, Sam. Frag Rosie, ob sie mit dir tanzt.
+fr:
+  title: Rose Chaumine
+  subtitle: Jeune Fille de Hobbitebourg
+  text: Sam a +1 en force. **Compagnie :** Affaiblissez Rose Chaumine pour guérir Sam.
+  lore: ‘Allez Sam, demande à Rose une danse.’
+es:
+  title: Rosita Coto
+  subtitle: Muchacha de Hobbiton
+  text: Sam es fuerza +1. **Comunidad:** Esfuerza a Rosita Coto para curar a Sam.
+  lore: Venga Sam, pídele a Rosita un baile.

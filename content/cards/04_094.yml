@@ -1,0 +1,36 @@
+set: '4'
+rarity: R
+number: '94'
+unique: true
+culture: Gandalf
+type: Condition
+cost: 0
+str: '+2'
+vit: '+1'
+en:
+  title: Hearken to Me
+  subtitle: ''
+  text: |-
+    **Spell.** To play, spot Gandalf. Bearer must be Théoden.  
+    Discard all Shadow conditions on Théoden. Shadow conditions may not be played on Théoden. 
+  lore: ‘Not all is dark. Take courage, Lord of the Mark; for better help you will not find.’
+de:
+  title: Hört auf mich!
+  subtitle: ''
+  text: '**Zauberspruch.** Entdecke Gandalf, um diese Karte auf Théoden zu spielen. Lege alle Schatteneffekte von Théoden ab. Schatteneffekte dürfen nicht auf Théoden gespielt werden.'
+  lore: Nicht alles ist dunkel. Fasst Mut, Herr der Mark; denn bessere Hilfe werdet ihr nicht finden.
+fr:
+  title: Écoutez-Moi!
+  subtitle: ''
+  text: '**Sort.** Pour jouer, désignez Gandalf. Le détenteur doit être Théoden. Défaussez toutes les situations de l’Ombre qui se trouvent sur Théoden. Les situations de l’Ombre ne peuvent pas être jouées sur Théoden.'
+  lore: 'Tout n''est pas sombre. Prenez courage, Seigneur de la Marche, car vous ne sauriez trouver de meilleure assistance.” '
+it:
+  title: Ascoltami
+  subtitle: ''
+  text: '**Magia.** Per giocarla, avvista Gandalf. Il possessore deve essere Théoden. Scarta tutte le condizioni Ombra su Théoden. Le condizioni Ombra non possono essere giocate su Théoden.'
+  lore: ‘Non tutto è oscuro. Abbi fede, Signore del Mark, perché non troverai aiuto migliore.’
+es:
+  title: Escúchame
+  subtitle: ''
+  text: '**Hechizo.** Para jugarla, avista a Gandalf. El portador debe ser Théoden. Descarta todas las condiciones de Sombra en Théoden. No se pueden jugar condiciones de Sombra en Théoden.'
+  lore: No todo es oscuridad. Tened valor, Señor de la Marca, pues mejor ayuda no encontraréis.

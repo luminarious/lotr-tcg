@@ -1,0 +1,20 @@
+set: '11'
+rarity: R
+number: '23'
+unique: true
+culture: Elven
+type: Possession
+class: Ranged Weapon
+cost: 2
+en:
+  title: Legolas' Bow
+  subtitle: ''
+  text: |-
+    Bearer must be an Elf.   
+    Bearer is an **Archer.** If bearer is Legolas, each time you exert him to play an :elven: condition or :elven: event, you may heal him (limit once per phase).
+  lore: Though not as sturdy as the bows of the Galadhrim, a Mirkwood bow is no less dangerous in skilled hands.
+de:
+  title: Legolas' Bogen
+  subtitle: ''
+  text: 'Muss auf einen Elben gespielt werden. Der Träger ist **Bogenschütze**. Wenn Legolas mit dieser Karte ausgerüstet ist, darfst du ihn jedes Mal heilen, wenn du ihn anstrengst, um einen :elven: Effekt oder ein :elven: Ereignis zu spielen (max. 1 pro Phase).'
+  lore: Obwohl nicht so stabil wie die Bögen der Galadhrim, sind die Bögen aus Düsterwald in geübten Händen nicht weniger tödlich.

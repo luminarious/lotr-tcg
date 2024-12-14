@@ -1,0 +1,18 @@
+set: '17'
+rarity: C
+number: '51'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 6
+str: '13'
+vit: '3'
+site: 4
+en:
+  title: Stampeding Madman
+  subtitle: ''
+  text: |-
+    To play, spot 2 :men: Men.  
+    When you play this minion, you may make the Free Peoples player exert a companion for each site you control.
+  lore: '''"Death to the robbers of the North!"’'

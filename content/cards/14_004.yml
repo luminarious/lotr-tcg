@@ -1,0 +1,16 @@
+set: '14'
+rarity: R
+number: '4'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Gildor Inglorion
+  subtitle: Of the House of Finrod
+  text: At the start of each archery phase, if you can spot more minions than companions, each of your companions is an **archer**.
+  lore: ‘Elves seldom give unguarded advice, for advice is a dangerous gift, even from the wise to the wise, and all courses may run ill.’

@@ -1,0 +1,17 @@
+set: '18'
+rarity: U
+number: '61'
+unique: true
+culture: Man
+type: Possession
+class: Ranged Weapon
+cost: 2
+str: '+1'
+en:
+  title: Corsair Bow
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: minion.  
+    Bearer is an archer.  
+    Each time a companion is killed during the archery phase, you may control a site.
+  lore: Not nearly as ornate or as accurate as the Gondorian bows, the short-bows of the Corsairs killed just as well.

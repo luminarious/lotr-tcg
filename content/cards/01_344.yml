@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '344'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Right
+en:
+  title: Dwarrowdelf Chamber
+  subtitle: ''
+  text: '**Underground.** When the fellowship moves to Dwarrowdelf Chamber, Gimli or 2 other companions must exert.'
+  lore: ''
+de:
+  title: Kammer in der Zwergenbinge
+  subtitle: ''
+  text: '**Unterirdisch.** Wenn die Gemeinschaft diesen Ort betritt, strenge Gimli oder 2 beliebige andere Gefährten an.'
+  lore: ''
+fr:
+  title: Chambre de Cavenain
+  subtitle: ''
+  text: '**Souterrain.** Quand la compagnie se déplace jusqu’à la Chambre de Cavenain, Gimli ou 2 autres compagnons doivent être affaiblis.'
+  lore: ''
+it:
+  title: Camera del Nanosterro
+  subtitle: ''
+  text: '**Sotterraneo.** Quando la Compagnia si muove verso la Camera del Nanosterro, Gimli o altri 2 compagni devono sforzarsi.'
+  lore: ''
+es:
+  title: Cámara de La Mina del Enano
+  subtitle: ''
+  text: '**Subterráneo.** Cuando la comunidad se mueve a la Cámara de la Mina del Enano, Gimli o otros 2 compañeros deben esforzarse.'
+  lore: ''

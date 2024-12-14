@@ -1,0 +1,39 @@
+set: '1'
+rarity: U
+number: '251'
+unique: true
+culture: Sauron
+type: Event
+class: Maneuver
+cost: 3
+en:
+  title: A Host Avails Little
+  subtitle: ''
+  text: |-
+    **Search.**   
+    **Maneuver:** Spot a :sauron: Orc and 6 companions to wound a companion (except the Ring-bearer). Do this once for each companion over 5.
+  lore: ‘Had I a host of Elves in armour of the Elder Days, it would avail little….’
+de:
+  title: Ein Heer würde mir auch nichts nützen
+  subtitle: ''
+  text: '**Suche.** **Manöver:** Entdecke einen :sauron: Ork und 6 Gefährten, um einen Gefährten (ausser dem Ringträger) zu verwunden. Mache dies einmal für jeden Gefährten über 5.'
+  lore: Hätte ich eine bewaffnete Streitmacht der Elben wie in der Altvorderenzeit, so würde sie wenig nutzen…
+fr:
+  title: Une Phalange Accomplit Peu
+  subtitle: ''
+  text: |-
+    **Recherche.**  
+    **Manœuvre :** Désignez un Orque :sauron: et 6 compagnons pour blesser un compagnon (excepté le Porteur de l’Anneau). Faites-le une fois pour chaque compagnon au delà de 5.
+  lore: ‘Eussé-je une phalange d'Elfes en armes des Anciens Jours que cela servirait seulement à éveiller la puissance du Mordor.’
+it:
+  title: Un Esercito Serve a Poco
+  subtitle: ''
+  text: |-
+    **Ricerca.**  
+    **Manovra:** Avvista un Orco :sauron: e 6 compagni per ferire un compagno (eccetto il Portatore dell’Anello). Fai questo una volta per ogni compagno oltre il quinto.
+  lore: ‘Anche se disponessi ancora di una schiera di Elfi muniti di armatura come nei Tempi Remoti, potrebbe fare ben poco.’
+es:
+  title: Una Hueste Nos Serviría de Poco
+  subtitle: ''
+  text: '**Búsqueda.** **Maniobra:** Avista un Orco :sauron: y 6 compañeros para herir un compañero (excepto el Portador del Anillo). Haz esto una vez por cada compañero por encima de 5.'
+  lore: Aunque contáramos con una hueste de Elfos con armas de los Días Antiguos, solo conseguiríamos despertar el poder de Mordor.

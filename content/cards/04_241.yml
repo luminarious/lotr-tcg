@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '241'
+unique: true
+culture: Raider
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: On the March
+  subtitle: ''
+  text: '**Skirmish:** Make a :raider: Man strength +3 (or +5 if you spot 6 companions). '
+  lore: Easterlings traveled up the ancient roads of Gondor to swell the hosts of the Dark Tower.
+de:
+  title: Auf dem Marsch
+  subtitle: ''
+  text: '**Kampf** Gib einem :raider: Menschen Stärke +3 (oder Stärke +5, wenn du 6 Gefährten entdeckst).'
+  lore: Die Ostlinge reisten auf den alten Straßen Gondors, um die Heerschar des Dunklen Turms zu vergrößern.
+fr:
+  title: En Marche
+  subtitle: ''
+  text: '**Combat :** Donner +3 en force à un Homme :raider: (ou +5 si vous désignez 6 compagnons).'
+  lore: Les Orientaux se déplaçaient le long des anciennes routes du Gondor pour venir agrandir les armées de la Tour Sombre.
+it:
+  title: In Marcia
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +3 alla forza di un Uomo :raider: (o +5 se avvisti 6 compagni).'
+  lore: Gli Esterling viaggiavano sulle antiche strade di Gondor per ingrossare le schiere della Torre Oscura.
+es:
+  title: En Marcha
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Hombre :raider: fuerza +3 (o +5 si avistas 6 compañeros).'
+  lore: Los Orientales viajan hasta las antiguas carreteras de Gondor para engrosar las huestes de la Torre Oscura.

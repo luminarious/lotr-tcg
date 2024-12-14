@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '34'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver or Regroup
+cost: 1
+en:
+  title: Traveled Leader
+  subtitle: ''
+  text: 'Spot a :gandalf: Wizard to replace a site in the fellowship’s current region with a site from your adventure deck.'
+  lore: '‘…the question is: who will follow me, if I lead you there?’'
+de:
+  title: Weit gereister Anführer
+  subtitle: ''
+  text: 'Entdecke einen :gandalf: Zauberer, um einen Ort der Region, in der sich die Gemeinschaft befindet, mit einem Ort aus deinem Abenteuerdeck zu ersetzen.'
+  lore: '… die Frage ist: wer wird mir folgen, wenn ich euch dort hinführe?'

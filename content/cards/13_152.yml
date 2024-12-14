@@ -1,0 +1,21 @@
+set: '13'
+rarity: R
+number: '152'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Humble Homestead
+  subtitle: ''
+  text: |-
+    To play, spot 2 Hobbits.  
+    When you play this, add a :shire: token here for each forest site and each dwelling site on the adventure path.  
+    **Skirmish:** Discard this from play or remove 3 tokens from here to cancel a skirmish involving a Hobbit.
+  lore: ''
+de:
+  title: Bescheidene Heimstätte
+  subtitle: ''
+  text: 'Entdecke 2 Hobbits, um diesen Effekt zu spielen. Lege eine :shire: Marke für jeden Wald und jede Heimstatt auf dem Abenteuerpfad auf diese Karte, wenn du sie spielst.**Kampf:** Lege diesen Effekt ab oder entferne hier 3 Marken, um einen Kampf, an dem ein Hobbit beteiligt ist, aufzuheben.'
+  lore: ''

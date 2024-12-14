@@ -1,0 +1,21 @@
+set: '4'
+rarity: R
+number: '154'
+unique: true
+culture: Isengard
+type: Minion
+race: Man
+cost: 2
+str: '4'
+vit: '3'
+site: 3
+en:
+  title: Gríma
+  subtitle: Wormtongue
+  text: '**Maneuver:** Exert Gríma and spot an unbound companion bearing 3 or more cards to return each Free Peoples card that companion bears to its owner’s hand. '
+  lore: ‘I care for you and yours as best I may. But do not weary yourself, or tax too heavily your strength.’
+fr:
+  title: Grima
+  subtitle: Langue de Serpent
+  text: '**Manœuvre :** Affaiblissez Grima et désignez un compagnon dissocié détenant 3 cartes ou plus pour retourner chacune des cartes des Peuples Libres détenues par ce compagnon dans la main de son propriétaire.'
+  lore: 'Je me soucie de vous et des vôtres le mieux que je le puis. Mais ne vous fatiguez pas, ou ne présumez pas trop de votre force.” '

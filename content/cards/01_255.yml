@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '255'
+unique: true
+culture: Sauron
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Mordor's Strength
+  subtitle: ''
+  text: '**Skirmish:** Exert a :sauron: Orc to wound a character he is skirmishing.'
+  lore: ‘It should have ended that day, but evil was allowed to endure.’
+de:
+  title: Mordors Stärke
+  subtitle: ''
+  text: '**Kampf** Strenge einen :sauron: Ork an, um den Charakter, den er bekämpft, zu verwunden.'
+  lore: Es hätte damals enden sollen, aber es wurde dem Bösen erlaubt, weiterzubestehen.
+fr:
+  title: Force de Mordor
+  subtitle: ''
+  text: '**Combat :** Affaiblissez un Orque :sauron: pour blesser un personage qu’il combat.'
+  lore: ‘Cela aurait dû se terminer ce jour, mais il a été permis au Mal de persister.’
+it:
+  title: Forza di Mordor
+  subtitle: ''
+  text: '**Schermaglia:** Sforza un Orco :sauron: per ferire un personaggio contro cui stia schermagliando.'
+  lore: ‘Avrebbe dovuto essere concluso quel giorno, ma al male è stato permesso di resistere.’
+es:
+  title: La Fuerza de Mordor
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza un Orco :sauron: para herir un personaje con el que este en una escaramuza.'
+  lore: Tendría que haber acabado ese día, pero al mal se le permitió perdurar.

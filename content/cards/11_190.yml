@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '190'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '11'
+vit: '2'
+site: 5
+en:
+  title: Invincible Uruk
+  subtitle: ''
+  text: '**Damage +1.** While this minion is at a battleground site, it cannot take wounds. While you can spot 6 companions, each :urukhai: minion cannot take wounds.'
+  lore: Like a force of nature, the Uruks are unstoppable.
+de:
+  title: Unbesiegbarer Uruk
+  subtitle: ''
+  text: '**Schaden +1**. Dieser Diener kann keine Wunden erleiden, solange er sich an einem Schlachtfeld befindet. Solange du 6 Gefährten entdeckst, kann kein :urukhai: Diener Wunden erleiden.'
+  lore: Uruk-hai sind ebenso unaufhaltsam wie eine Naturgewalt.

@@ -1,0 +1,42 @@
+set: '5'
+rarity: U
+number: '80'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Arrow-slits
+  subtitle: ''
+  text: |-
+    **Fortification.**   
+    **Maneuver:** Spot 2 :rohan: Men to discard a possession or a machine.  
+    Discard this condition.
+  lore: Here and there were clefts in the stone through which men could shoot.
+de:
+  title: Schießscharten
+  subtitle: ''
+  text: '**Befestigung.** **Manöver:** Entdecke 2 :rohan: Menschen, um eine Ausrüstung oder eine Kriegsmaschine abzulegen. Lege diesen Effekt ab.'
+  lore: Hier und dort waren Schießscharten zwischen den Steinen.
+fr:
+  title: Meurtrières
+  subtitle: ''
+  text: |-
+    **Fortification.**   
+    **Manœuvre :** Désignez 2 Hommes :rohan: pour défausser une possession ou une machine. Défaussez cette situation.
+  lore: 'Des fentes étaient ménagées par endroit dans la pierre pour le tir. '
+it:
+  title: Feritoie per le Frecce
+  subtitle: ''
+  text: |-
+    **Fortificazione.**   
+    **Manovra:** Avvista 2 Uomini :rohan: per scartare un bene o una **Macchina da Guerra.** Scarta questa condizione.
+  lore: Qua e là, delle feritoie permettevano di tirare contro il nemico.
+es:
+  title: Aspilleras
+  subtitle: ''
+  text: |-
+    **Fortificación.**   
+    **Maniobra:** Avista 2 Hombres :rohan: para descartar una posesión o una **Máquina.** Descarta esta condición.
+  lore: De tanto en tanto había troneras en el parapeto de piedra.

@@ -1,0 +1,20 @@
+set: '0'
+rarity: P
+number: '96'
+unique: true
+culture: Wraith
+type: Event
+class: Maneuver
+cost: 7
+en:
+  title: Keening Wail
+  subtitle: ''
+  text: '**Toil 2.** (For each :wraith: character you exert when playing this, its twilight cost is –2.) Spot a Nazgûl to add a burden.'
+  lore: The piercing cries of the Nazgûl paralyze their enemies with fear.
+de:
+  title: Durchdringendes Kreischen
+  subtitle: ''
+  text: |-
+    **Mühe 2.** *(Für jeden *:wraith: *Charakter, den du beim Ausspielen dieser Karte anstrengst, reduzieren sich deren Kosten um 2.)*  
+    Entdecke einen Nazgûl, um eine Lastmarke auf den Ringträger zu legen.
+  lore: Die durchdringenden Schreie der Nazgûl lähmen ihre Opfer.

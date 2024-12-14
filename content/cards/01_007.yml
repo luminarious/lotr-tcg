@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '7'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 1
+str: '4'
+vit: '2'
+en:
+  title: Dwarf Guard
+  subtitle: ''
+  text: To play, spot a Dwarf.
+  lore: Dwarves from Dáin’s people are stout companions, trustworthy and loyal.
+de:
+  title: Zwergenwache
+  subtitle: ''
+  text: Entdecke einen Zwerg, um die Zwergenwache zu spielen.
+  lore: Zwerge aus Dáins Volk sind gute Gefährten, loyal und vertrauenswürdig.
+fr:
+  title: Garde Nain
+  subtitle: ''
+  text: Pour jouer, désignez un Nain.
+  lore: Les Nains du peuple de Dáin sont de vaillants compagnons, dignes de confiance et loyaux.
+it:
+  title: Guardia dei Nani
+  subtitle: ''
+  text: Per giocarla, avvista un Nano.
+  lore: I Nani del popolo di Dáin sono compagni coraggiosi, fidati e leali.
+es:
+  title: Guardián Enano
+  subtitle: ''
+  text: Para jugarlo, avista un enano.
+  lore: Los Enanos de la gente de Dain son compañeros recios, leales y dignos de confianza.

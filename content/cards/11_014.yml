@@ -1,0 +1,18 @@
+set: '11'
+rarity: R
+number: '14'
+unique: true
+culture: Dwarven
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Well-equipped
+  subtitle: ''
+  text: 'Discard a :dwarven: card from hand to play a :dwarven: possession from your draw deck on a :dwarven: companion who has resistance 5 or more.'
+  lore: Stout and unmindful of the most ample load, Dwarven warriors laden themselves with heavy armor and myriad weaponry.
+de:
+  title: Gut gewappnet
+  subtitle: ''
+  text: 'Lege eine :dwarven: Karte aus deiner Hand ab, um eine :dwarven: Ausrüstung aus deinem Spieldeck auf einen :dwarven: Gefährten mit Resistenz 5 oder mehr zu spielen.'
+  lore: Jeder Zwergenkrieger ist eine Waffenkammer.

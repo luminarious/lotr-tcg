@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '14'
+unique: true
+culture: Elven
+type: Possession
+class: Hand Weapon
+cost: 1
+en:
+  title: Banner of Elbereth
+  subtitle: ''
+  text: Bearer must be an Elf companion. Each time bearer wins a skirmish, you may draw a card. **Response:** If bearer wins a skirmish, discard this possession to liberate a site.
+  lore: '‘First name the four, the free peoples: / Eldest of all, the elf-children…’'
+de:
+  title: Das Banner von Elbereth
+  subtitle: ''
+  text: Muss auf einen Elbengefährten gespielt werden. Jedes Mal, wenn der Träger einen Kampf gewinnt, darfst du eine Karte ziehen. **Reaktion:** Lege diese Ausrüstung ab, um einen Ort zu befreien, wenn der Träger einen Kampf gewinnt.
+  lore: 'Erst nenne die vier, die freien Völker: Die ältesten aller, die Elbenkinder…'
+fr:
+  title: Bannière d'Elbereth
+  subtitle: ''
+  text: Le détenteur doit être un compagnon Elfe. Chaque fois que le détenteur gagne un combat, vous pouvez piocher une carte. **Réponse :** Si le détenteur gagne un combat, défaussez cette possession pour libérer un site.
+  lore: 'Nommez d''abord les quatre, les gens libres : / Aînés de tous, les enfants des Elfes….” '
+it:
+  title: Stendardo di Elbereth
+  subtitle: ''
+  text: Il possessore deve essere un compagno Elfo. Ogni volta che il possessore vince una schermaglia, puoi pescare una carta. **Risposta:** Se il possessore vince una schermaglia, scarta questo bene per liberare un sito.
+  lore: ‘Ricorda che son quattro le libere genti. / Elfi vengono quelli più antichi chiamati….’
+es:
+  title: Estandarte de Elbereth
+  subtitle: ''
+  text: El portador debe ser un compañero Elfo. Cada vez que el portador gana una escaramuza, puedes robar una carta. **Respuesta:** Si el portador gana una escaramuza, descarta esta posesión para liberar un sitio.
+  lore: Nombrad primero los cuatro, los pueblos libres / Los más antiguos, los hijos de los Elfos…

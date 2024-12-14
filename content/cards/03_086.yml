@@ -1,0 +1,18 @@
+set: '3'
+rarity: U
+number: '86'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Otsëa
+  subtitle: Ringwraith in Twilight
+  text: |-
+    **Twilight.**   
+    Each time Úlairë Otsëa wins a skirmish, you may exert him to transfer Blade Tip from your support area to the Ring-bearer. 
+  lore: ‘…at all times they smell the blood of living things, desiring and hating it.’

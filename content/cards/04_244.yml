@@ -1,0 +1,47 @@
+set: '4'
+rarity: R
+number: '244'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 8
+str: '16'
+vit: '4'
+site: 4
+en:
+  title: Regiment of Haradrim
+  subtitle: ''
+  text: |-
+    **Southron.**To play, spot a :raider: Man.   
+    **Regroup:** Exert Regiment of Haradrim twice to take control of a site. 
+  lore: ‘One of their regiments is due by our reckoning to pass by, some time ere noon….’
+de:
+  title: Kompanie der Haradrim
+  subtitle: ''
+  text: |-
+    **Südländer.**  
+    Entdecke einen :raider: Menschen, um die Kompanie der Haradrim zu spielen. **Sammeln:** Strenge diesen Diener zweimal an, um einen Ort zu kontrollieren.
+  lore: Eine ihrer Abteilungen muss unserer Schätzung nach irgendwann vor dem Mittag hier vorbeikommen….
+fr:
+  title: Régiment de Haradrim
+  subtitle: ''
+  text: |-
+    **Suderon.**  
+    Pour jouer, désignez un Homme :raider:. **Ralliement :** Affaiblissez le Régiment de Haradrim deux fois pour prendre le contrôle d’un site.
+  lore: 'Un de leurs régiments doit, d''après nos calculs, venir par ici un peu avant midi…” '
+it:
+  title: Reggimento degli Haradrim
+  subtitle: ''
+  text: |-
+    **Sudrone.**  
+    Per giocarlo, avvista un Uomo :raider:.   
+    **Raccolta:** Sforza due volte Reggimento degli Haradrim per prendere il controllo di un sito.
+  lore: ‘Uno dei loro reggimenti dovrebbe passare poco prima del meriggio…’
+es:
+  title: Regimiento De Haradrim
+  subtitle: ''
+  text: |-
+    **Sureño.** Para jugarlo, avista un Hombre :raider:.   
+    **Reagrupación:** Esfuerza este siervo dos veces para tomar el control de un sitio.
+  lore: Según nuestras estimaciones, uno de los regimientos aparecerá aquí poco antes del mediodía…

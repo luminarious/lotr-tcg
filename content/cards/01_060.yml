@@ -1,0 +1,16 @@
+set: '1'
+rarity: U
+number: '60'
+unique: true
+culture: Elven
+type: Ally
+race: Elf
+cost: 2
+str: '5'
+vit: '2'
+site: '3'
+en:
+  title: Silinde
+  subtitle: Elf of Mirkwood
+  text: While you can spot your site 3, Silinde has the game text of that site.
+  lore: Among the representatives of the Elves of Northern Mirkwood was Silinde, friend of the House of Thranduil.

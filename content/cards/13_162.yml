@@ -1,0 +1,23 @@
+set: '13'
+rarity: C
+number: '162'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Enemy Without Number
+  subtitle: ''
+  text: |-
+    To play, spot 2 :urukhai: minions.  
+    **Shadow:** Discard 2 cards from hand to add :twilight1:.  
+    **Regroup:** Spot an :urukhai: minion and discard this condition from play to add :twilight3:.
+  lore: Valour could not prevent the breach of the Deeping Wall.
+de:
+  title: Unzählige Feinde
+  subtitle: ''
+  text: |-
+    Entdecke 2 :urukhai: Diener, um diesen Effekt zu spielen.  
+    **Schatten:** Lege 2 Karten aus deiner Hand ab, um den Einfluss um :twilight1: zu erhöhen.**Sammeln:** Entdecke einen :urukhai: Diener und lege diesen Effekt ab, um den Einfluss um :twilight3: zu erhöhen.
+  lore: Mut konnte den Fall des Klammwalls nicht stoppen.

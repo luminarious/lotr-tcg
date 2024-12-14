@@ -1,0 +1,19 @@
+set: '17'
+rarity: S
+number: '30'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Madril
+  subtitle: Loyal Lieutenant
+  text: |-
+    **Ranger. Hunter 1.**  
+    While you can spot a roaming minion, your :gondor: conditions cannot be discarded from play by Shadow cards.  
+    **Maneuver:** Exert 2 rangers to make a minion site number +2 until the regroup phase.
+  lore: ''

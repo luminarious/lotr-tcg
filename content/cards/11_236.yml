@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '236'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Right
+en:
+  title: East Road
+  subtitle: ''
+  text: '**Forest.** Each companion is twilight cost +2. '
+  lore: ''
+de:
+  title: Die Oststrasse
+  subtitle: ''
+  text: '**Wald.** Die Zwielichtkosten jedes Gefährten erhöhen sich um 2.'
+  lore: ''

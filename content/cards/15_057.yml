@@ -1,0 +1,18 @@
+set: '15'
+rarity: U
+number: '57'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Damrod
+  subtitle: Dúnadan of Gondor
+  text: |-
+    **Ranger. Hunter 1.** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    At the start of each fellowship phase, you may add :twilight1: to heal a ranger.
+  lore: ‘Curse the Southrons!’

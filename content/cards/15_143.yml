@@ -1,0 +1,13 @@
+set: '15'
+rarity: C
+number: '143'
+unique: true
+culture: Shire
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Community Living
+  subtitle: ''
+  text: 'Spot a Hobbit to play a :shire: follower from your draw deck.'
+  lore: …ease and peace had left this people still curiously tough.

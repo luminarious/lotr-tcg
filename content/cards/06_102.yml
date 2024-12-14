@@ -1,0 +1,36 @@
+set: '6'
+rarity: C
+number: '102'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Gate Sentry
+  subtitle: ''
+  text: '**Maneuver:** Exert this minion twice and spot another :sauron: minion to discard a condition.'
+  lore: In it there was a single gate of iron, and upon its battlement sentinels paced unceasingly.
+de:
+  title: Torwächter
+  subtitle: ''
+  text: '**Manöver:** Strenge diesen Diener zweimal an und entdecke einen anderen :sauron: Diener, um einen Effekt abzulegen.'
+  lore: In ihm gab es ein einziges eisernes Tor, und auf seinen Zinnen schritten Posten unaufhörlich auf und ab.
+fr:
+  title: Sentinelle de la Porte
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez ce séide deux fois et désignez un autre séide :sauron: pour défausser une situation.'
+  lore: 'Il comportait une seule grille de fer, et des sentinelles faisaient constamment les cent pas sur le chemin de ronde. '
+it:
+  title: Sentinella del Cancello
+  subtitle: ''
+  text: '**Manovra:** Sforza due volte questo servitore e avvista un altro servitore :sauron: per scartare una condizione.'
+  lore: Al suo interno si apriva un unico cancello di ferro e sul suo parapetto le sentinelle montavano la guardia ininterrottamente.
+es:
+  title: Centinela de la puerta
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza este siervo dos veces y avista otro siervo :sauron: para descartar una condición.'
+  lore: En ella había una sola puerta de hierro, y sobre sus almenas centinelas marchaban sin cesar.

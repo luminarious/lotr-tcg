@@ -1,0 +1,17 @@
+set: '1'
+rarity: C
+number: '11'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Farin
+  subtitle: Dwarven Emissary
+  text: |-
+    To play, spot a Dwarf.   
+    While skirmishing an Orc, Farin is strength +2.
+  lore: Among the envoys sent to represent the Dwarves of Erebor at the Council of Elrond was Farin, a young but wise Dwarf, and a fierce foe in battle.

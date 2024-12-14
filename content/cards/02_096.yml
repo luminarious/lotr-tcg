@@ -1,0 +1,21 @@
+set: '2'
+rarity: U
+number: '96'
+unique: true
+culture: Shire
+type: Ally
+race: Hobbit
+cost: 2
+str: '2'
+vit: '3'
+site: '1'
+en:
+  title: Bilbo
+  subtitle: Well-spoken Gentlehobbit
+  text: '**Fellowship:** Exert Bilbo and discard a tale to discard a Shadow condition from an opponent’s support area. '
+  lore: …as Mr. Baggins was generous with his money, most people were willing to forgive him his oddities and his good fortune.
+fr:
+  title: Bilbon
+  subtitle: Gentilhobbit Bien Versé
+  text: '**Compagnie :** Affaiblissez Bilbon et défaussez un récit pour défaussez une situation de l’Ombre dans l’aire de soutien d’un adversaire.'
+  lore: '…comme M. Sacquet était généreux de son argent, la plupart des gens lui pardonnaient volontiers ses singularités et sa bonne fortune. '

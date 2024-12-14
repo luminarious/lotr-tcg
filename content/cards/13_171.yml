@@ -1,0 +1,25 @@
+set: '13'
+rarity: R
+number: '171'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Uruk Invader
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    This minion is twilight cost –1 for each companion who has resistance 2 or less.
+  lore: To sense weakness is to assume victory.
+de:
+  title: Uruk Eindringling
+  subtitle: ''
+  text: |-
+    **Schaden +1.  
+    Kampf:**Die Zwielichtkosten für diesen Diener reduzieren sich um 1 für jeden Gefährten mit Resistenz 2 oder weniger.
+  lore: Die Schwäche des Feindes zu spüren, bedeutet den Sieg.

@@ -1,0 +1,24 @@
+set: '7'
+rarity: C
+number: '116'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Ranger of Osgiliath
+  subtitle: ''
+  text: |-
+    **Ranger.**   
+    **Regroup:** Discard 2 cards from hand to exhaust a minion.
+  lore: ''
+de:
+  title: Waldläufer aus Osgiliath
+  subtitle: ''
+  text: |-
+    **Waldläufer.**   
+    **Sammeln:** Lege 2 Karten aus deiner Hand ab, um einen Diener zu erschöpfen.
+  lore: Osgiliath… einst die größte aller Städte Gondors.

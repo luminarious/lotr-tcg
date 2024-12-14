@@ -1,0 +1,18 @@
+set: '10'
+rarity: U
+number: '111'
+unique: true
+culture: Shire
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: Narrow Escape
+  subtitle: ''
+  text: Spot 2 Hobbit companions to make a Shadow player discard a minion ( or spot 4 Hobbit companions to make that player discard 2 minions).
+  lore: ‘If those two had seen us, they would have dropped all their quarrel until we were dead.’
+de:
+  title: Knapp entkommen
+  subtitle: ''
+  text: Entdecke 2 Hobbitgefährten, um einen Schattenspieler zu zwingen, einen Diener abzulegen (oder entdecke 4 Hobbitgefährten, um ihn 2 Diener ablegen zu lassen).
+  lore: Wenn diese beiden uns gesehen hätten, dann hätten sie mit ihrem Streit aufgehört, bis wir tot gewesen wären.

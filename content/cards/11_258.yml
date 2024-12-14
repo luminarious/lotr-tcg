@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '258'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Right
+en:
+  title: Slag Mounds
+  subtitle: ''
+  text: '**Battleground.** Each time a companion is killed, add a burden. '
+  lore: ''
+de:
+  title: Schlackenhügel
+  subtitle: ''
+  text: '**Schlachtfeld.** Lege jedes Mal, wenn ein Gefährte getötet wird, eine Lastmarke auf den Ringträger.'
+  lore: ''

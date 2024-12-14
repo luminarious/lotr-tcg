@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '106'
+unique: true
+culture: Gondor
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: Gondor's Vengeance
+  subtitle: ''
+  text: '**Regroup:** Exert a ranger companion to discard a minion.'
+  lore: A Ranger in the wild is a deadly foe for the forces of the Shadow.
+de:
+  title: Gondors Vergeltung
+  subtitle: ''
+  text: '**Sammeln:** Strenge einen Waldläufergefährten an, um einen Diener abzulegen.'
+  lore: Ein Waldläufer in der Wildnis ist ein tödlicher Feind für die Mächte des Schattens.
+fr:
+  title: La Vengeance de Gondor
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez un compagnon rôdeur pour défausser un séide.'
+  lore: Un Rôdeur dans les Terres Sauvages est un ennemi mortel pour les forces de l'Ombre.
+it:
+  title: Vendetta di Gondor
+  subtitle: ''
+  text: '**Raccolta:** Sforza un compagno Ramingo per scartare un servitore.'
+  lore: Un Ramingo nelle Terre Selvagge è un nemico mortale per le forze dell'Ombra.
+es:
+  title: La Venganza de Gondor
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza un compañero montaraz para descartar un siervo.'
+  lore: Un Montaraz en terreno salvaje es un adversario mortal para las fuerzas de la Sombra.

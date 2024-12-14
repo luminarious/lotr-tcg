@@ -1,0 +1,39 @@
+set: '4'
+rarity: C
+number: '44'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Courtesy of My Hall
+  subtitle: ''
+  text: |-
+    When you play this condition, stack a card from your discard pile here.   
+    **Fellowship: **Discard a Free Peoples card stacked here to heal a Dwarf. 
+  lore: ‘Now my guests, come!… Come and take such refreshment as haste allows.’
+de:
+  title: Gastfreundschaft meines Hauses
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. Wenn du diesen Effekt ausspielst, lagere eine Karte aus deinem Ablagestapel hier. **Gemeinschaft.** Lege eine Karte der Freien Völker, die auf diesem Effekt gelagert ist, ab, um einen Zwerg zu heilen.
+  lore: Nun, meine Gäste, kommt!… Kommt und nehmt das an Erfrischungen zu euch, was die Eile erlaubt.
+fr:
+  title: La Courtoisie de mon Château
+  subtitle: ''
+  text: Quand vous jouez cette situation, empilez ici une carte de votre pile de défausse. **Compagnie :** Défaussez une carte des Peuples Libres empilée ici pour guérir un Nain.
+  lore: 'Et maintenant, mes hôtes, venez!… Venez vous rafraîchir autant que la hâte le permet.” '
+it:
+  title: La Cortesia Nel Mio Palazzo
+  subtitle: ''
+  text: |-
+    Quando giochi questa condizione, impila qui una carta dalla tua pila degli scarti.   
+    **Compagnia:** Scarta una carta dei Popoli Liberi impilata qui per curare un Nano.
+  lore: ‘Ed ora, ospiti miei, venite!… Venite a prendere quel poco di ristoro concessoci dalla fretta.’
+es:
+  title: La Hospitalidad De Mi Castillo
+  subtitle: ''
+  text: |-
+    Cuando juegas esta condición, apila una carta de tu pila de descartes aquí.   
+    **Comunidad:** Descarta una carta de Gentes Libres apilada aquí para curar un Enano.
+  lore: ¡Y ahora, mis invitados, venid!… Venid y reparad fuerzas mientras la prisa nos lo permita.

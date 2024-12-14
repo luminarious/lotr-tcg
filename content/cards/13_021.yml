@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '21'
+unique: true
+culture: Elven
+type: Event
+class: Archery
+cost: 2
+en:
+  title: Many Miles
+  subtitle: ''
+  text: Spot 2 Elf archers to make the fellowship archery total +1 (or +2 if a Shadow player has replaced the fellowship’s current site this turn).
+  lore: ‘I can see a darkness. There are shapes moving in it, great shapes far away upon the bank of the river; but what they are I cannot tell.’
+de:
+  title: Viele Meilen
+  subtitle: ''
+  text: Entdecke 2 Elbenbogenschützen, um den Fernkampfwert der Gemeinschaft um 1 zu erhöhen (oder um 2, wenn ein Schattenspieler den Ort, an dem sich die Gemeinschaft befindet, in diesem Zug ausgetauscht hat).
+  lore: Ich sehe eine Dunkelheit. Gestalten bewegen sich darin, große Gestalten weit weg am Ufer des Flusses.’

@@ -1,0 +1,17 @@
+set: '5'
+rarity: U
+number: '10'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Balglin
+  subtitle: Elven Warrior
+  text: |-
+    To play, spot an Elf.  
+    While skirmishing a wounded minion, Balglin takes no more than 1 wound during each skirmish phase.
+  lore: He is a strong fighter. He asks for no quarter and gives none.

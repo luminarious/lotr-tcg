@@ -1,0 +1,43 @@
+set: '3'
+rarity: R
+number: '41'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Gondor Bowmen
+  subtitle: ''
+  text: |-
+    **Tale.**   
+    **Archery:** Exert a :gondor: companion and discard this condition to make the fellowship archery total +2. 
+  lore: Arrows of the Last Alliance brought death to Sauron’s forces.
+de:
+  title: Bogenschützen aus Gondor
+  subtitle: ''
+  text: |-
+    **Erzählung.** Spiele diese Karte in deinen Unterstützungsbereich.  
+    **FernKampf** Strenge einen :gondor: Gefährten an und lege diesen Effekt ab, um den Fernkampfwert der Gemeinschaft um 2 zu erhöhen.
+  lore: Die Pfeile des Letzten Bündnisses säten Tod und Verderben unter Saurons Heer.
+fr:
+  title: Archers du Gondor
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    **Archerie :** Affaiblissez un compagnon :gondor: et défaussez cette situation pour donner +2 au total d’archerie de la compagnie.
+  lore: Les flèches de la Dernière Alliance décimèrent les forces de Sauron.
+it:
+  title: Arcieri di Gondor
+  subtitle: ''
+  text: |-
+    **Racconto.**   
+    **Arcieri:** Sforza un compagno :gondor: e scarta questa condizione per aggiungere +2 al totale degli arcieri della Compagnia.
+  lore: Le frecce dell'Ultima Alleanza portavano la morte nelle forze di Sauron.
+es:
+  title: Arqueros de Gondor
+  subtitle: ''
+  text: |-
+    **Cuento.**   
+    **Arquería:** Esfuerza un compañero :gondor: y descarta esta condición para dar +2 al total de arquería de la comunidad.
+  lore: Los campos de Dagorlad estaban cubiertos de cuerpos de Orcos y flechas de La Última Alianza.

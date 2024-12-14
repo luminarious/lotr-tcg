@@ -1,0 +1,33 @@
+set: '5'
+rarity: C
+number: '14'
+unique: true
+culture: Elven
+type: Event
+class: Regroup
+cost: 2
+en:
+  title: That Is No Orc Horn
+  subtitle: ''
+  text: '**Regroup:** Spot 3 Elf companions to heal a companion and liberate a site.'
+  lore: Anxious defenders cheered the welcome sound of Elvish trumpets.
+de:
+  title: Das ist kein Orkhorn
+  subtitle: ''
+  text: '**Sammeln:** Entdecke 3 Elbengefährten, um einen Gefährten zu heilen und einen Ort zu befreien.'
+  lore: Die bangen Verteidiger bejubelten den Klang der elbischen Fanfaren
+fr:
+  title: Ceci n'est Pas un Cor d'Orque
+  subtitle: ''
+  text: '**Ralliement :** Désignez 3 compagnons Elfes pour guérir un compagnon et libérer un site.'
+  lore: Anxieux, les défenseurs acclamèrent le son des trompettes elfiques.
+it:
+  title: Quello non è un Corno degli Orchi
+  subtitle: ''
+  text: '**Raccolta:** Avvista 3 compagni Elfi per curare un compagno e liberare un sito.'
+  lore: Gli stanchi difensori accolsero con sollievo il suono delle trombe degli Elfi.
+es:
+  title: No es un cuerno orco
+  subtitle: ''
+  text: '**Reagrupación:** Avista 3 compañeros Elfos para curar un compañero y liberar un sitio.'
+  lore: Ansiosos defensores vitorearon el sonido de bienvenida de las trompetas élficas.

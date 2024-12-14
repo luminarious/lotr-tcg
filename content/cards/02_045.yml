@@ -1,0 +1,33 @@
+set: '2'
+rarity: R
+number: '45'
+unique: true
+culture: Isengard
+type: Event
+class: Response
+cost: 1
+en:
+  title: Too Much Attention
+  subtitle: ''
+  text: '**Response:** If the Ring-bearer puts on The One Ring, spot an :isengard: minion to make the Free Peoples player discard the top 5 cards of his or her draw deck. '
+  lore: ‘A little more caution from you – that is not a trinket you carry.’
+de:
+  title: Zu viel Aufmerksamkeit
+  subtitle: ''
+  text: '**Reaktion:** Wenn der Ringträger den Einen Ring benutzt, entdecke einen :isengard: Diener, um den Freie Völker Spieler zu zwingen, die obersten 5 Karten von seinem Spieldeck abzulegen.'
+  lore: Vorsicht wäre angebracht - ihr tragt keine Kleinigkeit bei euch.
+fr:
+  title: Un Peu Plus de Prudence
+  subtitle: ''
+  text: '**Réponse :** Si le Porteur de l’Anneau met l’Anneau au doigt, désignez un séide :isengard: pour défausser les 5 premières cartes de la pioche du joueur des Peuples Libres.'
+  lore: 'Un peu plus de prudence de votre part, ce n''est pas une babiolle que vous transportez.” '
+it:
+  title: Troppa Attenzione
+  subtitle: ''
+  text: '**Risposta:** Se il Portatore dell’Anello indossa l’Unico Anello, avvista un servitore :isengard: per far scartare al giocatore dei Popoli Liberi le prime 5 carte del suo mazzo di gioco.'
+  lore: ‘Un po’ più di discrezione, vi prego; non è un gingillo quello che portate.’
+es:
+  title: Demasiada atención
+  subtitle: ''
+  text: '**Respuesta:** Si el Portador del Anillo se pone El Anillo Único, avista un siervo :isengard: para hacer que el jugador de Gentes Libres descarte las 5 cartas superiores de su mazo de robar.'
+  lore: Un poco más de cautela por tu parte – no es una baratija eso que llevas.

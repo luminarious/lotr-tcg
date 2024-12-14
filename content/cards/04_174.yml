@@ -1,0 +1,44 @@
+set: '4'
+rarity: R
+number: '174'
+unique: true
+culture: Isengard
+type: Artifact
+class: Staff
+cost: 2
+str: '+2'
+en:
+  title: Saruman's Staff
+  subtitle: Wizard's Device
+  text: |-
+    Plays on Saruman. He is **fierce** and **damage +1.**   
+    **Maneuver:** Make the first sentence of Saruman’s game text not apply until the regroup phase. 
+  lore: His hand clutched his heavy black staff like a claw.
+de:
+  title: Sarumans Stab
+  subtitle: Zauberers' Werkzeug
+  text: |-
+    Muss auf Saruman gespielt werden. Er ist **Erbittert** und erhält **Schaden +1.**  
+    **Manöver:** Der erste Satz von Sarumans Spieltext gilt bis zur Sammelphase nicht.
+  lore: Seine Hand umklammerte den schweren schwarzen Stab wie eine Klaue.
+fr:
+  title: Le Bâton de Saroumane
+  subtitle: Dispositif de Magicien
+  text: |-
+    Jouable sur Saroumane. Il est **acharné** et inflige des **dégâts +1.**  
+    **Manœuvre :** Ignorez la première phrase du descriptif de Saroumane jusqu’à la phase de ralliement.
+  lore: 'Sa main tenait son lourd bâton noir comme une serre. '
+it:
+  title: Bastone di Saruman
+  subtitle: Strumento da Stregone
+  text: |-
+    Giocalo su Saruman. E’ **Feroce** e ha **Danno +1.**  
+    **Manovra:** La prima frase del testo di gioco di Saruman non si applica fino alla fase di raccolta.
+  lore: ‘La mano che stringeva il pesante bastone nero pareva un artiglio.’
+es:
+  title: La Vara De Saruman
+  subtitle: Instrumento de Mago
+  text: |-
+    Se juega en Saruman.   
+    Él es **fiero** y **daño +1.** **Maniobra:** La primera frase del texto de juego de Saruman no se aplica hasta la fase de reagrupación.
+  lore: La mano que aferraba la pesada vara negra parecía una garra.

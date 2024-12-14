@@ -1,0 +1,18 @@
+set: '11'
+rarity: R
+number: '96'
+unique: true
+culture: Man
+type: Event
+class: Archery
+cost: 1
+en:
+  title: Precision Targeting
+  subtitle: ''
+  text: 'Spot a :men: minion to make the minion archery total +1 and make the Free Peoples player choose 3 companions. Other companions cannot take archery wounds. '
+  lore: Arrows fired in volleys will never be as effective as one loosed by a skilled archer.
+de:
+  title: Konzentriertes Feuer
+  subtitle: ''
+  text: 'Entdecke einen :men: Diener, um den Fernkampfwert der Diener um 1 zu erhöhen und den Freie Völker Spieler zu zwingen, 3 Gefährten auszuwählen. Andere Gefährten dürfen keine Fernkampfwunden erleiden.'
+  lore: Pfeilsalven werden niemals so effizient sein, wie ein einzelner Pfeil von einem geübten Schützen.

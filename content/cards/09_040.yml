@@ -1,0 +1,18 @@
+set: '9'
+rarity: R
+number: '40'
+unique: true
+culture: Isengard
+type: Event
+class: Response
+cost: 1
+en:
+  title: Sack of the Shire
+  subtitle: ''
+  text: 'If an :isengard: minion wins a skirmish, until the regroup phase, make that minion strength +1 for each site you control and fierce. '
+  lore: ‘There’s some devilry at work in the Shire….’
+de:
+  title: Plünderung des Auenlandes
+  subtitle: ''
+  text: 'Wenn ein :isengard: Diener einen Kampf gewinnt, gib ihm bis zur Sammelphase Stärke +1 für jeden Ort, den du kontrollierst und er wird erbittert.'
+  lore: Da geht irgendeine Teufelei im Auenland vor sich.

@@ -1,0 +1,27 @@
+set: '7'
+rarity: U
+number: '212'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '11'
+vit: '4'
+site: 3
+en:
+  title: Úlairë Enquëa
+  subtitle: Faster Than Winds
+  text: |-
+    **Fierce.**   
+    While you can spot 6 companions, Úlairë Enquëa is **Damage +1.**   
+    Each time a companion is killed, you may exert Úlairë Enquëa to exert the Ring–bearer.
+  lore: ''
+de:
+  title: •Úlairë Enquëa
+  subtitle: Schneller als der Wind
+  text: |-
+    **Erbittert.**   
+    Solange du 6 Gefährten entdecken kannst, erhält Úlairë Enquëa **Schaden +1**.   
+    Jedes Mal, wenn ein Gefährte getötet wird, darfst du Úlairë Enquëa anstrengen, um den Ringträger anzustrengen.
+  lore: ''

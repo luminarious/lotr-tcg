@@ -1,0 +1,37 @@
+set: '1'
+rarity: R
+number: '166'
+unique: true
+culture: Moria
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+3'
+en:
+  title: Cave Troll's Hammer
+  subtitle: ''
+  text: |-
+    Bearer must be Cave Troll of Moria.   
+    Cave Troll of Moria is **damage +1**.
+  lore: Suddenly the door burst into fragments and the Cave Troll was among them, his huge hammer striking like thunder.
+de:
+  title: Hammer des Höhlentrolls
+  subtitle: ''
+  text: Muss auf den Höhlentroll von Moria gespielt werden. Der Höhlentroll von Moria erhält **Schaden +1.**
+  lore: Plötzlich zerbarst die Tür in 1000 Splitter und der Höhlentroll stürmte herein, und die Schläge seines Hammers hallten wie Donner.
+fr:
+  title: Marteau du Troll des Cavernes
+  subtitle: ''
+  text: |
+    Le détenteur doit être le Troll des Cavernes. Le Troll des Cavernes inflige des **dégâts +1.**  
+  lore: Brusquement la porte vola en éclats et le Troll des Cavernes fut parmi eux, son énorme marteau frappant comme le tonnerre.
+it:
+  title: Martello del Troll delle Caverne
+  subtitle: ''
+  text: Il possessore deve essere il Troll delle Caverne. **Danno +1.**
+  lore: Improvvisamente la porta finì in frantumi e il Troll delle Caverne fu tra loro, il suo enorme martello che colpiva come il tuono.
+es:
+  title: El Martillo del Troll de Las Cuevas
+  subtitle: ''
+  text: El portador debe ser el Troll de las Cuevas. El Troll de las Cuevas es **Daño +1.**
+  lore: De repente la puerta estallo en pedazos y el Troll de las Cuevas estaba entre ellos, su enorme martillo golpeando como el trueno.

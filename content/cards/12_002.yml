@@ -1,0 +1,24 @@
+set: '12'
+rarity: U
+number: '2'
+unique: true
+culture: Dwarven
+type: Possession
+class: Armor
+cost: 0
+en:
+  title: Belt of Erebor
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf.   
+    Each minion skirmishing bearer loses all damage bonuses.   
+    **Skirmish:** Discard this possession to transfer one of bearer’s possessions to another eligible bearer.
+  lore: ‘We make good armour and keen swords….’
+de:
+  title: Gürtel vom Erebor
+  subtitle: ''
+  text: |-
+    Muss auf einen Zwerg gespielt werden.  
+    Alle Diener verlieren alle Schadensboni, wenn sie gegen den Träger kämpfen.  
+    **Kampf:** Lege diese Ausrüstung ab, um eine Ausrüstung des Trägers an einen anderen möglichen Träger weiterzugeben.
+  lore: Wir machen gute Waffen und scharfe Schwerter….

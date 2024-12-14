@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '228'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Left
+en:
+  title: Anduin Confluence
+  subtitle: ''
+  text: '**River.** When the fellowship moves to this site, discard each ally from play.'
+  lore: ''
+de:
+  title: Der Zusammenfluss des Anduin
+  subtitle: ''
+  text: '**Fluss.** Wenn die Gemeinschaft diesen Ort erreicht, lege sämtliche Verbündeten ab.'
+  lore: ''

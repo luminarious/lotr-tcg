@@ -1,0 +1,33 @@
+set: '3'
+rarity: C
+number: '87'
+unique: true
+culture: Sauron
+type: Event
+class: Regroup
+cost: 2
+en:
+  title: The Dark Lord Advances
+  subtitle: ''
+  text: '**Regroup:** Exert a :sauron: minion to reveal a card at random from the Free Peoples player’s hand. That player must discard X cards from hand, where X is the twilight cost of the card revealed. '
+  lore: ‘A power was there that we have not felt before.’
+de:
+  title: Der dunkle Herrscher rückt vor
+  subtitle: ''
+  text: '**Sammeln:** Strenge einen :sauron: Diener, um eine zufällig bestimmte Karte aus der Hand des Freie Völker Spielers aufzudecken. Dieser Spieler muss nun X Karten aus seiner Hand ablegen, wobei X den Zwielichtkosten der aufgedeckten Karte entspricht.'
+  lore: Es war eine Macht da, die wir früher nie gespürt hatten.
+fr:
+  title: Le Seigneur Ténébreux se Rapproche
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez un séide :sauron: pour révéler une carte au hasard de la main du joueur des Peuples Libres. Ce joueur doit défausser X cartes de sa main, où X est le coût crépusculaire de la carte révélée.'
+  lore: 'Un pouvoir était là que nous n''avons pas senti auparavant.” '
+it:
+  title: L'Oscuro Signore Avanza
+  subtitle: ''
+  text: '**Raccolta:** Sforza un servitore :sauron: per mostrare una carta a caso dalla mano del giocatore dei Popoli Liberi. Quel giocatore deve scartare X carte dalla mano, dove X è il costo crepuscolo della carta mostrata.'
+  lore: ‘Vi era un potere che mai prima d'oggi avevamo sentito.’
+es:
+  title: El Señor Oscuro Avanza
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza un siervo :sauron: para revelar una carta al azar de la mano del jugador de Gentes Libres. Ese jugador debe descartar X cartas de su mano, donde X es el coste de penumbra de la carta revelada.'
+  lore: Había aquí un poder que nunca antes habíamos sentido.

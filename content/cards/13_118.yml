@@ -1,0 +1,25 @@
+set: '13'
+rarity: S
+number: '118'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Picket Denizen
+  subtitle: ''
+  text: |-
+    **Lurker.** *(Skirmishes involving lurker minions must be resolved after any others.)*  
+    **Response:** If another :orc: minion is about to take a wound, exert this minion to prevent that.
+  lore: Frontline minions drew the fire of parapet archers.
+de:
+  title: Vorausposten
+  subtitle: ''
+  text: |-
+    **Schleicher.  
+    Reaktion:** Strenge diesen Diener an, wenn ein anderer :orc: Diener verwundet wird, um diese Wunde zu verhindern.
+  lore: Die vorderste Front zog das Feuer von den Brustwehren auf sich.

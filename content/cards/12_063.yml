@@ -1,0 +1,21 @@
+set: '12'
+rarity: U
+number: '63'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Easterling Banner-bearer
+  subtitle: ''
+  text: This minion is strength +1 for each wound on each companion he is skirmishing (or +2 for each if that companion has resistance 2 or less).
+  lore: ‘They hold the northward road; and many have passed on into Anórien. The Rohirrim cannot come.’
+de:
+  title: Ostling-Standartenträger
+  subtitle: ''
+  text: Dieser Diener erhält Stärke +1 für jede Wunde auf allen Gefährten, gegen die er kämpft (oder +2, wenn dieser Gefährte Resistenz 2 oder weniger besitzt).
+  lore: Sie haben die Nordstrasse besetzt; und viele sind nach Anórien weitergezogen. Die Rohirrim können nicht kommen.

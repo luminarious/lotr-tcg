@@ -1,0 +1,29 @@
+set: '8'
+rarity: R
+number: '108'
+unique: true
+culture: Sauron
+type: Minion
+race: Troll
+cost: 10
+str: '14'
+vit: '4'
+site: 5
+en:
+  title: Troll of Gorgoroth
+  subtitle: Abomination of Sauron
+  text: |-
+    **Besieger.** **Fierce.**   
+    To play, spot a :sauron: Orc.   
+    The twilight cost of this minion is –2 for each :sauron: engine you spot.   
+    **Regroup:** Exert Troll of Gorgoroth to stack a besieger on a site you control.
+  lore: File after file passed….
+de:
+  title: Gorgoroth Troll
+  subtitle: Scheusal Saurons
+  text: |-
+    **Belagerer.** **Erbittert.**   
+    Entdecke einen :sauron: Ork, um diesen Diener zu spielen.   
+    Die Kosten für den Gorgoroth Troll reduzieren sich um 2 für jede :sauron: Belagerungswaffe, die du entdeckst.   
+    **Sammeln:** Strenge den Gorgoroth Troll an, um einen deiner Belagerer auf einem Ort, den du kontrollierst, zu lagern.
+  lore: ''

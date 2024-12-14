@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '217'
+unique: true
+culture: Wraith
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Morgul Gates
+  subtitle: ''
+  text: '**Shadow:** Play a Nazgûl. His twilight cost is -2.'
+  lore: The gates of Minas Morgul issued Nine Riders into the free lands, a blasphemy to ancient kings.
+de:
+  title: Die Tore von Minas Morgul
+  subtitle: ''
+  text: '**Schatten:** Spiele einen Nazgûl mit um 2 reduzierten Zwielichtkosten.'
+  lore: Die Tore von Minas Morgul spieen die Neun in die freien Länder, eine Blasphemie gegen die alten Könige.
+fr:
+  title: Portes de Morgul
+  subtitle: ''
+  text: 'Ombre : Jouez un Nazgûl. Son coût crépusculaire est de -2.'
+  lore: Des portes de Minas Morgul sortirent les Neuf Cavaliers dans les contrées libres, un blasphême aux anciens rois.
+it:
+  title: Cancelli di Morgul
+  subtitle: ''
+  text: '**Ombra:** Gioca un Nazgûl. Sottrai -2 al suo costo **Crepuscolo.**'
+  lore: Dai cancelli di Minas Morgul galopparono i Nove Cavalieri verso le terre libere, una bestemmia per gli antichi re.
+es:
+  title: Puertas de Morgul
+  subtitle: ''
+  text: '**Sombra:** Juega un Nazgûl. Su coste de penumbra es -2.'
+  lore: De las puertas de Minas Morgul emergieron Nueve hacia las tierras libres, una blasfemia contra los reyes antiguos.

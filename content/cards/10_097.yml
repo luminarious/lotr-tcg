@@ -1,0 +1,18 @@
+set: '10'
+rarity: U
+number: '97'
+unique: true
+culture: Sauron
+type: Event
+class: Response
+cost: 0
+en:
+  title: The Ring is Mine!
+  subtitle: ''
+  text: 'If a burden is added, spot a :sauron: minion to add an additional burden.'
+  lore: ‘…I do not choose now to do what I came to do. I will not do this deed.’
+de:
+  title: Der Ring gehört mir!
+  subtitle: ''
+  text: 'Entdecke einen :sauron: Diener, wenn eine Lastmarke auf den Ringträger gelegt wird, um eine weitere Lastmarke auf ihn zu legen.'
+  lore: … jetzt will ich das nicht tun, weshalb ich gekommen bin. Ich will diese Tat nicht vollbringen.

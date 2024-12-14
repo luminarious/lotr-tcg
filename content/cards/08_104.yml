@@ -1,0 +1,15 @@
+set: '8'
+rarity: C
+number: '104'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Morgai
+  subtitle: ''
+  text: |-
+    While you can spot a :sauron: minion at site 5:king:, the Shadow has initiative, regardless of the Free Peoples player’s hand.   
+    **Response:** If a companion is played, discard a :sauron: card from hand to take control of a site. Discard this condition.
+  lore: ‘Need brooks no delay, yet late is better than never….’

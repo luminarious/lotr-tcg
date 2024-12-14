@@ -1,0 +1,18 @@
+set: '1'
+rarity: R
+number: '127'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 7
+str: '13'
+vit: '3'
+site: 5
+en:
+  title: Lurtz
+  subtitle: Servant of Isengard
+  text: |-
+    **Archer.** **Damage +1**.   
+    **Maneuver:** Spot another Uruk-hai to make Lurtz **fierce** until the regroup phase.
+  lore: ‘And now… perfected. Grown beyond the height of Men – straight-limbed and strong, fearing nothing.’

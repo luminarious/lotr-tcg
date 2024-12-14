@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '83'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: City of Men
+  subtitle: ''
+  text: 'Make a :gondor: Man strength +2. If that Man is skirmishing a :sauron: minion, discard that minion at the end of the skirmish.'
+  lore: ‘I will gladly give my life to defend her beauty, her memory… her wisdom.’
+de:
+  title: Stadt der Menschen
+  subtitle: ''
+  text: 'Gib einem :gondor: Menschen Stärke +2. Wenn dieser Mensch gegen einen :sauron: Diener kämpft, lege diesen Diener am Ende des Kampfes ab.'
+  lore: Mit Freuden gebe ich mein Leben, um ihre Schönheit, ihr Andenken… und ihr Wissen zu verteidigen.

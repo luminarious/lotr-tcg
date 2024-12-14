@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '2'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Awkward Moment
+  subtitle: ''
+  text: 'Make a Dwarf strength +3 (or +4 and **damage +1** if you can spot a :dwarven: token).'
+  lore: It’s a long way.
+de:
+  title: Peinlicher Augenblick
+  subtitle: ''
+  text: 'Gib einem Zwerg Stärke +3 (oder Stärke +4 und **Schaden +1**, wenn du eine :dwarven: Marke entdecken kannst).'
+  lore: Es ist ein weiter Weg.

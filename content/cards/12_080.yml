@@ -1,0 +1,24 @@
+set: '12'
+rarity: R
+number: '80'
+unique: true
+culture: Moria
+type: Artifact
+class: Hand Weapon
+cost: 1
+str: '+1'
+en:
+  title: Whip of Many Thongs
+  subtitle: Weapon of Flame and Shadow
+  text: |-
+    Bearer must be The Balrog. It is **fierce**.   
+    When you play this artifact, the Free Peoples player reveals his or her hand and discards all Free Peoples cards from hand that have a twilight cost of 1 or less.
+  lore: …it swung its whip, and the thongs lashed….
+de:
+  title: Peitsche mit vielen Riemen
+  subtitle: Waffe aus Feuer und Schatten
+  text: |-
+    Muss auf den Balrog gespielt werden.  
+    Er wird **erbittert.**  
+    Der Freie Völker Spieler muss seine Hand aufdecken und alle Karten der Freien Völker mit Zwielichtkosten von 1 oder weniger aus der Hand ablegen, wenn du dieses Artefakt spielst.
+  lore: … schwang er seine Peitsche….

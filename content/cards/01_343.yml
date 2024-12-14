@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '343'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: Balin's Tomb
+  subtitle: ''
+  text: '**Underground.** **Maneuver:** Discard your tale from play or from hand to heal your companion.'
+  lore: ''
+de:
+  title: Balins Grab
+  subtitle: ''
+  text: '**Unterirdisch.** **Manöver:** Lege eine Erzählung aus dem Spiel oder aus deiner Hand ab, um einen deiner Gefährten zu heilen.'
+  lore: ''
+fr:
+  title: Tombe de Balin
+  subtitle: ''
+  text: '**Souterrain.** **Manœuvre :** Défaussez un récit en jeu ou de votre main pour guérir votre compagnon.'
+  lore: ''
+it:
+  title: Tomba di Balin
+  subtitle: ''
+  text: Sotteraneo. **Manovra:** Scarta un racconto dal gioco o dalla mano per curare un tuo compagno.
+  lore: ''
+es:
+  title: La Tumba de Balin
+  subtitle: ''
+  text: '**Subterráneo.** **Maniobra:** Descarta un cuento del juego o de la mano para curar a un compañero.'
+  lore: ''

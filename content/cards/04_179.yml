@@ -1,0 +1,45 @@
+set: '4'
+rarity: R
+number: '179'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 7
+str: '14'
+vit: '3'
+site: 5
+en:
+  title: Uruk Assault Band
+  subtitle: ''
+  text: |-
+    **Damage +1.** To play, spot an Uruk-hai. While at a battleground, this minion is **fierce.**  
+    While you control a battleground, this minion is strength +6.  
+    While you control 2 battlegrounds, this minion may not take wounds. 
+  lore: ''
+de:
+  title: Vorstürmender Uruktrupp
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Entdecke einen Uruk-hai, um diesen Diener zu spielen. Auf einem Schlachtfeld ist dieser Diener **Erbittert.**Solange du ein Schlachtfeld kontrollierst, erhält dieser Diener Stärke +6. Solange du 2 Schlachtfelder kontrollierst, kann dieser Diener keine Wunden erleiden.
+  lore: ''
+fr:
+  title: Troupe d'Assaut Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    Pour jouer, désignez un Ourouk-Haï. Tant qu’il se trouve à un champ de bataille, ce séide est **acharné.**Tant que vous contrôlez un champ de bataille, ce séide a +6 en force. Tant que vous contrôlez 2 champs de bataille, ce séide ne peut pas être blessé.
+  lore: ''
+it:
+  title: Banda d'Assalto Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    Per giocarla, avvista un Uruk-hai. Mentre è presso un campo di battaglia, questo servitore è **Feroce.**Mentre controlli un campo di battaglia, aggiungi +6 alla forza di questo servitore. Mentre controlli 2 campi di battaglia, questo servitore non può subire ferite.
+  lore: ''
+es:
+  title: Banda De Asalto Uruk
+  subtitle: ''
+  text: '**Daño +1.** Para jugarlo, avista un Uruk-hai. Mientras esté en un campo de batalla, este siervo es **fiero.** Mientras controles un campo de batalla, este siervo es fuerza +6. Mientras controles 2 campos de batalla, este siervo no puede recibir heridas.'
+  lore: ''

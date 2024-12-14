@@ -1,0 +1,18 @@
+set: '18'
+rarity: R
+number: '42'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '8'
+vit: '3'
+res: '5'
+en:
+  title: Denethor
+  subtitle: On the Edge of Madness
+  text: |-
+    Each time the fellowship moves from a site, add a burden.  
+    **Skirmish:** Exert another :gondor: Man to make him or her strength +1 and **damage +1**.
+  lore: No tomb for Denethor and Faramir. No long, slow sleep of death embalmed.

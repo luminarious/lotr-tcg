@@ -1,0 +1,44 @@
+set: '1'
+rarity: R
+number: '237'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 8
+str: '14'
+vit: '4'
+site: 3
+en:
+  title: The Witch-king
+  subtitle: Lord of Angmar
+  text: |-
+    **Fierce.**   
+    For each other Nazgûl you can spot, The Witch-king is strength +2.
+  lore: …his hair was long and gleaming and on his helm was a crown.
+de:
+  title: Der Hexenkönig
+  subtitle: Herrscher von Angmar
+  text: |-
+    **Erbittert.**  
+    Für jeden weiteren Nazgûl, den du entdecken kannst, erhält der Hexenkönig Stärke +2.
+  lore: …sein Haar war lang und schimmernd, und auf seinem Helm war eine Krone.
+fr:
+  title: Le Roi-Sorcier
+  subtitle: Seigneur d'Angmar
+  text: |-
+    **Acharné.**  
+    Pour chaque autre Nazgûl que vous pouvez désigner, le Roi-Sorcier a +2 en force.
+  lore: …ses cheveux étaient longs et luisants, et sur son heaume se trouvait une couronne.
+it:
+  title: Il Re Stregone
+  subtitle: Sire di Angmar
+  text: |-
+    **Feroce.**  
+    Per ogni altro Nazgûl che puoi avvistare, aggiungi +2 alla forza del Re Stregone.
+  lore: …i capelli lunghi luccicavano e sull'elmo era posta una corona.
+es:
+  title: El Rey Brujo
+  subtitle: Señor de Angmar
+  text: '**Fiero.** Por cada otro Nazgûl que puedas avistar, El Rey Brujo es fuerza +2.'
+  lore: …tenia una cabellera brillante y larga, y sobre el yelmo llevaba una corona.

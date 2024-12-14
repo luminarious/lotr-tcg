@@ -1,0 +1,32 @@
+set: '1'
+rarity: C
+number: '326'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Westfarthing
+  subtitle: ''
+  text: '**Fellowship:** Exert a Hobbit to play a companion or ally; that character’s twilight cost is -1.'
+  lore: ''
+de:
+  title: Westmark
+  subtitle: ''
+  text: '**Gemeinschaft.** Strenge einen Hobbit an, um einen Gefährten oder Verbündeten mit um 1 reduzierten Zwielichtkosten zu spielen.'
+  lore: ''
+fr:
+  title: Quartier de l'Ouest
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez un Hobbit pour jouer un compagnon ou un allié ; le coût crépusculaire de ce personnage est de -1.'
+  lore: ''
+it:
+  title: Decumano Ovest
+  subtitle: ''
+  text: '**Compagnia:** Sforza un Hobbit per giocare un compagno o un alleato; sottrai -1 al costo crepuscolo di quel personaggio.'
+  lore: ''
+es:
+  title: Cuaderna del Oeste
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza un Hobbit para jugar un compañero o aliado, el coste de penumbra de ese personaje es -1.'
+  lore: ''

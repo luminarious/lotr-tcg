@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '178'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Nertëa
+  subtitle: Black Horseman
+  text: |-
+    The twilight cost of each mount is –1.   
+    While Úlairë Nertëa is mounted, each Nazgûl is strength +1 and has **muster.** *(At the start of the regroup phase, you may discard a card from hand to draw a card.)*
+  lore: ‘Watch every shadow! …Black horsemen have passed through Bree.’

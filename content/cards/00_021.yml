@@ -1,0 +1,21 @@
+set: '0'
+rarity: W
+number: '21'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '1'
+site: 4
+en:
+  title: Moria Skirmishers
+  subtitle: ''
+  text: ''
+  lore: …a harsh laugh and the tread of many feet on the ground below.
+de:
+  title: Moria Plänkler
+  subtitle: ''
+  text: ''
+  lore: ''

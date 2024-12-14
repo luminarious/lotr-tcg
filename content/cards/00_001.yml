@@ -1,0 +1,14 @@
+set: '0'
+rarity: SPD
+number: '1'
+unique: true
+culture: Gondor
+type: Possession
+cost: 1
+en:
+  title: Goblet of the White City
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: companion.  
+    Each time a you move to a site, bearer is strength +1 until the end of the game. At the start of your fellowship phase, discard two random cards from hand or discard this possession.
+  lore: ''

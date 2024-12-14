@@ -1,0 +1,17 @@
+set: '9'
+rarity: R+
+number: '34'
+unique: true
+culture: Gondor
+type: Artifact
+class: Hand Weapon
+cost: 2
+vit: '+1'
+en:
+  title: Narsil
+  subtitle: Blade of the Faithful
+  text: |-
+    Bearer must be a :gondor: Man.   
+    If bearer is Elendil or Isildur, he is strength +1 for each :gondor: artifact you can spot (limit +6).   
+    **Response:** If bearer is about to take a wound, exert 2 :gondor: Men to prevent that. 
+  lore: ‘…Isildur cut the Ring from his hand….’

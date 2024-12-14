@@ -1,0 +1,17 @@
+set: '15'
+rarity: C
+number: '62'
+unique: true
+culture: Gondor
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Ithilien Blade
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.  
+    While you can spot a roaming minion, bearer is strength +1.  
+    **Maneuver:** Exert bearer twice to discard a roaming minion.
+  lore: Most Rangers of Ithilien carried spears, bows, and swords while marching.

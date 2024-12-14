@@ -1,0 +1,25 @@
+set: '12'
+rarity: C
+number: '77'
+unique: true
+culture: Man
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: War Trident
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: minion.   
+    While bearer is skirmishing a companion who has resistance 5 or less, bearer is strength +2.   
+    While bearer is skirmishing a companion who has resistance 3 or less, bearer is strength +2.
+  lore: ''
+de:
+  title: Kriegsdreizack
+  subtitle: ''
+  text: |-
+    Muss auf einen :men: Diener gespielt werden.  
+    Solange der Träger gegen einen Gefährten kämpft, der eine Resistenz von 5 oder weniger hat, erhält er Stärke +2.  
+    Solange der Träger gegen einen Gefährten kämpft, der eine Resistenz von 3 oder weniger hat, erhält er Stärke +2.
+  lore: ''

@@ -1,0 +1,17 @@
+set: '4'
+rarity: C
+number: '71'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Haldir
+  subtitle: Emissary of the Galadhrim
+  text: |-
+    While no opponent controls a site, Haldir is strength +2.   
+    **Regroup:** Exert Haldir at a battleground and exert another Elf to liberate a site. 
+  lore: ‘In days of old, my people stood beside the King of Gondor – we come to honor that allegiance.’

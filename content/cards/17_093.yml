@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '93'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 4
+str: '8'
+vit: '4'
+res: '6'
+en:
+  title: Aragorn
+  subtitle: Defender of Rohan
+  text: |-
+    **Valiant.**  
+    While the Ring-bearer is assigned to a skirmish, each :rohan: companion gains **hunter 1**.
+  lore: '''No enemy has yet taken the Hornburg. Depart, or not one of you will be spared.’'

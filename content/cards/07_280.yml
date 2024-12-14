@@ -1,0 +1,22 @@
+set: '7'
+rarity: U
+number: '280'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Great Peril of Fire
+  subtitle: ''
+  text: |-
+    To play, spot a besieger or a site you control.   
+    **Maneuver:** Discard an engine to discard a condition from the Free Peoples support area.
+  lore: ''
+de:
+  title: Große Feuersgefahr
+  subtitle: ''
+  text: |-
+    Entdecke einen Belagerer oder einen Ort, den du kontrollierst, um diesen Effekt zu spielen.   
+    **Manöver:** Lege eine Belagerungswaffe ab, um einen Effekt aus dem Unterstützungsbereich der Freien Völker abzulegen.
+  lore: …und alle, die entbehrt werden konnten, waren damit beschäftigt, die Brände zu löschen, die an vielen Stellen ausbrachen.

@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '92'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 2
+str: '4'
+vit: '3'
+site: 3
+en:
+  title: Gríma
+  subtitle: Footman of Saruman
+  text: |-
+    **Lurker.** *(Skirmishes involving lurker minions must be resolved after any others.)*  
+    Each time a Free Peoples character is killed, you may spot another :men: minion to exert each companion.
+  lore: '‘He was crafty: dulling men’s wariness, or working on their fears, as served the occasion.’'

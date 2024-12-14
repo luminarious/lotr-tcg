@@ -1,0 +1,18 @@
+set: '11'
+rarity: C
+number: '140'
+unique: true
+culture: Orc
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Strength in Shadows
+  subtitle: ''
+  text: 'Make an :orc: minion strength +2 (or +4 if it is a lurker).'
+  lore: Weakened by the Sun, Orcs thrive in darkness and shadow.
+de:
+  title: Stärke im Schatten
+  subtitle: ''
+  text: 'Gib einem :orc: Diener Stärke +2 (oder +4, wenn es sich um einen Schleicher handelt).'
+  lore: Schwach im Sonnenlicht, sind Orks in Dunkelheit und Schatten stärker.

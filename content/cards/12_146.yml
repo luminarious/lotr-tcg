@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '146'
+unique: true
+culture: Uruk-hai
+type: Event
+class: Shadow
+cost: 1
+en:
+  title: Strange Device
+  subtitle: ''
+  text: 'Spot an :urukhai: minion to draw 3 cards. Then discard 2 cards from hand or discard an :urukhai: minion from hand.'
+  lore: …a small white hand in the centre of a black field.
+de:
+  title: Seltsames Ding
+  subtitle: ''
+  text: 'Entdecke einen :urukhai: Diener, um 3 Karten zu ziehen. Lege anschließend 2 Karten oder einen :urukhai: Diener aus deiner Hand ab.'
+  lore: … eine kleine weiße Hand inmitten eines schwarzen Feldes.

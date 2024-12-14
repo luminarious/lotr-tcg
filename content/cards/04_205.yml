@@ -1,0 +1,42 @@
+set: '4'
+rarity: U
+number: '205'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '10'
+vit: '3'
+site: 5
+en:
+  title: Uruk-hai Mob
+  subtitle: ''
+  text: |-
+    **Damage +1. **   
+    The twilight cost of this minion is -1 for each site you control. 
+  lore: ‘Let the fighting Uruk-hai do the work, as usual.’
+de:
+  title: Uruk-hai Pöbel
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Die Zwielichtkosten für diesen Diener reduzieren sich um 1 für jeden Ort, den du kontrollierst.
+  lore: Lasst die kämpfenden Uruk-hai die Arbeit tun, wie gewöhnlich.
+fr:
+  title: Meute d'Ourouk-Haï
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    Le coût crépusculaire de ce séide est de -1 pour chaque site que vous contrôlez.
+  lore: 'Laissez le combattant ourouk-haï faire le travail, comme d''habitude.” '
+it:
+  title: Branco di Uruk-hai
+  subtitle: ''
+  text: Danno+1. Sottrai -1 al costo crepuscolo di questo servitore per ogni sito che controlli.
+  lore: ‘Lasciate che i bellicosi Uruk-hai facciano tutto il lavoro, come al solito.’
+es:
+  title: Turba Uruk-hai
+  subtitle: ''
+  text: '**Daño +1.** El coste de penumbra de este siervo es -1 por cada sitio que controles.'
+  lore: Dejad que los aguerridos Uruk-hai hagan el trabajo, como de costumbre.

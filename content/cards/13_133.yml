@@ -1,0 +1,23 @@
+set: '13'
+rarity: C
+number: '133'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '5'
+en:
+  title: Riddermark Tactician
+  subtitle: ''
+  text: |-
+    When you play this, you may reinforce a :rohan: token.  
+    Each time a Shadow player replaces the fellowship’s current site, you may spot another :rohan: Man to make, until the regroup phase, the fellowship archery total +2 and the minion archery total –2.
+  lore: ''
+de:
+  title: Taktiker der Riddermark
+  subtitle: ''
+  text: 'Du darfst eine :rohan: Marke ergänzen, wenn du diesen Gefährten spielst. Jedes Mal, wenn der Schattenspieler den Ort ersetzt, an dem sich die Gemeinschaft befindet, darfst du einen anderen :rohan: Menschen entdecken, um bis zur Sammelphase den Fernkampfwert der Gemeinschaft um 2 zu erhöhen und den der Diener um 2 zu verringern.'
+  lore: ''

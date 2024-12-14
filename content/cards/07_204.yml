@@ -1,0 +1,24 @@
+set: '7'
+rarity: R
+number: '204'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Out of Sight and Shot
+  subtitle: ''
+  text: |-
+    To play, spot a Nazgûl.   
+    Each time a companion is played, the Free Peoples player must exert a companion.   
+    **Shadow:** Spot a Nazgûl and discard this condition to play a Nazgûl from your discard pile.
+  lore: ''
+de:
+  title: Außer Sicht und Hörweite
+  subtitle: ''
+  text: |-
+    Entdecke einen Nazgûl, um diesen Effekt zu spielen.   
+    Jedes Mal, wenn ein Gefährte ausgespielt wird, muss der Freie Völker Spieler einen Gefährten anstrengen.   
+    **Schatten:** Entdecke einen Nazgûl und lege diesen Effekt ab, um einen Nazgûl aus deinem Ablagestapel zu spielen.
+  lore: ''

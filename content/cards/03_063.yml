@@ -1,0 +1,33 @@
+set: '3'
+rarity: C
+number: '63'
+unique: true
+culture: Isengard
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: One of You Must Do This
+  subtitle: ''
+  text: '**Maneuver:** Exert an :isengard: minion to make the Free Peoples player exert X companions, where X is the number of these races you can spot in the fellowship: Dwarf, Elf, Man, and Wizard. '
+  lore: ‘And if we fail, what then? What happens when Sauron takes back what is his?’
+de:
+  title: Einer von euch muss das tun
+  subtitle: ''
+  text: '**Manöver:** Strenge einen :isengard: Diener an, um den Freie Völker Spieler zu zwingen, einen Gefährten für jedes dieser Völker, die du in der Gemeinschaft entdecken kannst, anzustrengen: Elb, Mensch, Zauberer und Zwerg.'
+  lore: Und wenn es uns misslingt, was dann? Was geschieht, wenn Sauron sich zurücknimmt, was ihm gehört?
+fr:
+  title: L'Un de Vous Doit Faire Ceci
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un séide :isengard: pour obliger le joueur des Peuples Libres à affaiblir X compagnons, où X est le nombre des races suivantes que vous pouvez désigner dans la **Compagnie :** Nain, Elfe, Homme et Magicien.'
+  lore: 'Et si nous échouons? Que se passera-t-il lorsque Sauron reprendra ce qui lui appartient?” '
+it:
+  title: Uno di Voi deve Fare Questo
+  subtitle: ''
+  text: '**Manovra:** Sforza un servitore :isengard: per far sforzare al giocatore dei Popoli Liberi X compagni, dove X è il numero di queste razze che puoi avvistare nella Compagnia: Nano, Elfo, Uomo, e Stregone.'
+  lore: ‘E se noi fallissimo, che accadrebbe? Cosa succederebbe se Sauron si riprendesse ciò che è suo?’
+es:
+  title: Uno de Vosotros debe Hacer Esto
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un siervo :isengard: para hacer que el jugador de Gentes Libres esfuerce X compañeros, donde X es el número de estas razas que puedas avistar en la comunidad: Enano, Elfo, Hombre y Mago.'
+  lore: ¿Y qué pasará si fallamos? ¿Qué pasa si Sauron recupera lo que es suyo?

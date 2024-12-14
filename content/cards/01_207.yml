@@ -1,0 +1,37 @@
+set: '1'
+rarity: U
+number: '207'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Black Breath
+  subtitle: ''
+  text: |-
+
+    **Skirmish:** Transfer this condition from your support area to a character skirmishing a Nazgûl. Burdens and wounds may not be removed from bearer.
+  lore: Vile breath infects the living with Shadow.
+de:
+  title: Schwarzer Atem
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. **Kampf** Verschiebe diesen Effekt auf einen Charakter, der gegen einen Nazgûl kämpft. Lastmarken und Wundenmarken dürfen von diesem Charakter nicht entfernt werden.
+  lore: Ihr fauler Atem zieht die Lebenden ins Schattenreich.
+fr:
+  title: Souffle Noir
+  subtitle: ''
+  text: '**Combat :** Transférez cette situation de votre aire de soutien à un personnage combattant un Nazgûl. Les points-fardeau et les blessures ne peuvent pas être retirés du détenteur.'
+  lore: Le souffle abominable infecte ce qui vit avec l'Ombre.
+it:
+  title: Alito Nero
+  subtitle: ''
+  text: |-
+
+    **Schermaglia:** Trasferisci questa condizione dalla tua area di supporto a un personaggio che stia schermagliando con un Nazgûl. I segnalini fardello e ferita non possono essere rimossi dal possessore.
+  lore: L'alito nauseante infetta i viventi con l'Ombra.
+es:
+  title: Soplo Negro
+  subtitle: ''
+  text: '**Escaramuza:** Transfiere esta condición de tu área de apoyo a un personaje que esté en una escaramuza contra un Nazgûl. No se pueden quitar ni cargas ni heridas del portador.'
+  lore: El hálito perverso infecta a los vivos con la Sombra.

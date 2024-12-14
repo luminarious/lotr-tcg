@@ -1,0 +1,32 @@
+set: '4'
+rarity: U
+number: '323'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: East Wall of Rohan
+  subtitle: ''
+  text: 'When the fellowship moves from East Wall of Rohan, add :twilight2:. '
+  lore: ''
+de:
+  title: Der Ostwall von Rohan
+  subtitle: ''
+  text: Wenn sich die Gemeinschaft vom Ostwall von Rohan fortbewegt, erhöhe den Einfluss um :twilight2:.
+  lore: ''
+fr:
+  title: Le Mur Est de Rohan
+  subtitle: ''
+  text: Lorsque la compagnie quitte Le Mur Est de Rohan, ajoutez :twilight2:.
+  lore: ''
+it:
+  title: Muro Orientale di Rohan
+  subtitle: ''
+  text: Quando la compagnia si muove dal Muro Orientale di Rohan, aggiungi :twilight2:.
+  lore: ''
+es:
+  title: Muro Este De Rohan
+  subtitle: ''
+  text: Cuando la comunidad se mueve del Muro Este De Rohan, añade :twilight2:.
+  lore: ''

@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '29'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Ancient Enmity
+  subtitle: ''
+  text: '**Skirmish:** Make an Elf strength +1. If a minion loses this skirmish to that Elf, that minion’s owner discards 2 cards at random from hand.'
+  lore: Hard and bitter is the Elven hatred of Orcs, for they have lost many kinsmen to Orc savagery.
+de:
+  title: Uralte Feindschaft
+  subtitle: ''
+  text: '**Kampf** Gib einem Elben Stärke +1. Wenn ein Diener den Kampf gegen diesen Elben verliert, legt der Spieler dieses Dieners 2 zufällig bestimmte Karten aus seiner Hand ab.'
+  lore: Groß und bitter ist der Hass der Elben auf die Orks, da sie viele Brüder und Schwestern an sie verloren haben.
+fr:
+  title: Ancienne Haine
+  subtitle: ''
+  text: '**Combat :** Donnez +1 en force à un Elfe. Si un séide perd ce combat contre cet Elfe, le propriétaire de ce séide défausse 2 cartes au hasard de sa main.'
+  lore: Forte et profonde est la haine des Elfes vis-à-vis des Orques, car ils ont perdu de nombreux parents face à la sauvagerie orque.
+it:
+  title: Antica Ostilità
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +1 alla forza di un Elfo. Se un servitore perde questa schermaglia contro quell’Elfo, il possessore del servitore scarta 2 carte a caso dalla mano.'
+  lore: Forte e amaro è l'odio degli Elfi per gli Orchi, poiché hanno perso molti consanguinei a causa della crudeltà degli Orchi.
+es:
+  title: Rencor Antiguo
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Elfo fuerza +1. Si un siervo pierde una escaramuza contra ese Elfo, el propietario de ese siervo descarta 2 cartas al azar de su mano.'
+  lore: Duro y amargo es el odio élfico por los Orcos, ya que ellos han perdido un gran numero de parientes al salvajismo de los Orcos.

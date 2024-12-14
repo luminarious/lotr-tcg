@@ -1,0 +1,25 @@
+set: '13'
+rarity: R
+number: '136'
+unique: true
+culture: Rohan
+type: Possession
+class: Mount
+cost: 2
+str: '+1'
+res: '+1'
+en:
+  title: Snowmane
+  subtitle: Noble Mearas
+  text: |-
+    Bearer must be a :rohan: Man.  
+    When you play Snowmane, you may reinforce a :rohan: token.  
+    **Skirmish:** If bearer is Théoden, you may remove 2 :rohan: tokens to exhaust a minion he is skirmishing.
+  lore: ‘Where now the horse and the rider?’
+de:
+  title: Schneemähne
+  subtitle: Edles Mearh
+  text: |-
+    Muss auf einen :rohan: Menschen gespielt werden. Du darfst eine :rohan: Marke ergän-zen, wenn du Schneemähne spielst.  
+    **Kampf:** Du darfst 2 :rohan: Marken entfer-nen, wenn Théoden der Reiter ist, um einen Diener, gegen den er kämpft, zu erschöpfen.
+  lore: Wo sind Reiter und Ross?

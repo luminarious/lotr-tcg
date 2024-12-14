@@ -1,0 +1,33 @@
+set: '3'
+rarity: U
+number: '120'
+unique: true
+culture: ''
+type: Site
+cost: 9
+siteArrow: Left
+en:
+  title: Wastes of Emyn Muil
+  subtitle: ''
+  text: '**Maneuver:** Spot 4 companions and exert your :isengard: Orc to make the Free Peoples player wound a companion. '
+  lore: ''
+de:
+  title: Die Ödlande von Emyn Muil
+  subtitle: ''
+  text: '**Manöver:** Entdecke 4 Gefährten und strenge einen :isengard: Ork an, um den Freie Völker Spieler zu zwingen, einen Gefährten zu verwunden.'
+  lore: ''
+fr:
+  title: Les Hamadas de l'Emyn Muil
+  subtitle: ''
+  text: '**Manœuvre :** Désignez quatre compagnons et affaiblissez votre Orque :isengard: pour obliger le joueur des Peuples Libres à blesser un compagnon.'
+  lore: ''
+it:
+  title: Distese di Emyn Muil
+  subtitle: ''
+  text: '**Manovra:** Avvista 4 compagni e sforza un tuo Orco :isengard: per far ferire al giocatore dei Popoli Liberi un compagno.'
+  lore: ''
+es:
+  title: Yermos de Emyn Muil
+  subtitle: ''
+  text: '**Maniobra:** Avista 4 compañeros y esfuerza tu Orco :isengard: para hacer que el jugador de Gentes Libres hiera un compañero.'
+  lore: ''

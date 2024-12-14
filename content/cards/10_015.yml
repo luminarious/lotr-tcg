@@ -1,0 +1,18 @@
+set: '10'
+rarity: U
+number: '15'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Brooding on Tomorrow
+  subtitle: ''
+  text: 'Each time you lose initiative (except during the fellowship phase), you may spot a :gandalf: companion to choose an opponent who must discard one of his or her conditions. '
+  lore: ‘…tomorrow will be certain to bring worse than today, for many days to come.’
+de:
+  title: Gedanken an Morgen
+  subtitle: ''
+  text: 'Jedes Mal, wenn du die Initiative verlierst (außer in der Gemeinschaftsphase), darfst du einen :gandalf: Gefährten entdecken, um einen Gegenspieler auszuwählen, der einen seiner Effekte ablegen muss.'
+  lore: Denn gewiß wird das Morgen Schlechteres bringen als das Heute, und so wird es viele Tage gehen.

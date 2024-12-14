@@ -1,0 +1,45 @@
+set: '4'
+rarity: C
+number: '122'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Gondorian Ranger
+  subtitle: ''
+  text: |-
+    **Ring-bound. ****Ranger.**   
+    The site number of each minion assigned to skirmish a Ring-bound Man is +2. 
+  lore: Green gauntlets covered their hands, and their faces were hooded and masked with green, except for their eyes, which were very keen and bright.
+de:
+  title: Waldläufer von Gondor
+  subtitle: ''
+  text: |-
+    **Ring-verbunden.** **Waldläufer.**  
+    Die Ortskennzahl jedes Dieners, der einem Ring-verbundenen Menschen zugewiesen ist, erhöht sich um 2.
+  lore: Grüne Stulpenhandschuhe bedeckten ihre Hände, und ihre Gesichter waren verhüllt durch Kapuzen und grüne Masken, mit Ausnahme der Augen, die sehr scharf und strahlend waren.
+fr:
+  title: Rôdeur du Gondor
+  subtitle: Dúnedain du Sud
+  text: |-
+    **Associé à l’Anneau.** **Rôdeur.**  
+    Le numéro de site de chaque séide affecté au combat d’un Homme associé à l’Anneau est de +2.
+  lore: 'Des gants verts couvraient leurs mains, et leurs visages étaient encapuchonnés et masqués de vert, sauf pour les yeux, qu''ils avaient vifs et brillants. '
+it:
+  title: Ramingo di Gondor
+  subtitle: ''
+  text: |-
+    **Legato all’Anello.** **Ramingo.**  
+    Il numero di sito di ogni servitore che sia stato assegnato a schermagliare con un Uomo Legato all’Anello aumenta di +2.
+  lore: ‘Guanti verdi coprivano le loro mani, e i loro volti erano protetti da un cappuccio e da una maschera verdi che lasciavano liberi soltanto gli occhi, assai penetranti e luminosi.’
+es:
+  title: Montaraz Gondoriano
+  subtitle: ''
+  text: |-
+    **Vinculado al Anillo.** **Montaraz.**  
+    El número de sitio de cada siervo asignado en una escaramuza contra un hombre Vinculado al Anillo es +2.
+  lore: Guantes verdes les cubrían las manos, y tenían los rostros encapuchados y enmascarados de verde, con excepción de los ojos que eran vivos y brillantes.

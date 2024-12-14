@@ -1,0 +1,15 @@
+set: '18'
+rarity: U
+number: '2'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Run Until Found
+  subtitle: ''
+  text: |-
+    When you play this condition, place a :dwarven: token here.  
+    **Skirmish:** Discard this condition from play or remove a :dwarven: token from here to make a :dwarven: companion gain **hunter 1**. 
+  lore: Let us hunt some Orc!

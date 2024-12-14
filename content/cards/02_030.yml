@@ -1,0 +1,41 @@
+set: '2'
+rarity: U
+number: '30'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: You Cannot Pass!
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Maneuver:** Spot Gandalf bearing a staff to prevent a minion from being **fierce** until the **regroup** phase. 
+  lore: The Balrog fell back and its sword flew up in molten fragments. The wizard swayed on the bridge, stepped back a pace, and then again stood still.
+de:
+  title: Du kannst nicht vorbei!
+  subtitle: ''
+  text: '**Zauberspruch.** **Manöver:** Entdecke Gandalf, ausgerüstet mit einem Stab, um bis zur Sammelphase zu verhindern, dass ein Diener **erbittert** ist.'
+  lore: Der Balrog wich zurück und sein Schwert flog hoch, in Stücke zerschmolzen. Der Zauberer schwankte auf der Brücke, trat einen Schritt zurück und blieb dann wieder stehen.
+fr:
+  title: Vous Ne Pouvez Passer!
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Manœuvre :** Désignez Gandalf détenant un bâton pour empêcher un séide d’être **acharné** jusqu’à la phase de ralliement.
+  lore: 'Le Balrog tomba à la renverse, et son épée jaillit en fragments fondus. Le magicien vacilla sur le pont, recula d''un pas, puis se tint de nouveau immobile. '
+it:
+  title: Non Puoi Passare!
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Manovra:** Avvista Gandalf che porta un bastone per impedire che un servitore diventi **Feroce** fino alla fase di raccolta.
+  lore: Il Balrog cadde indietro e la sua spada volò in mille frammenti liquefatti. Lo stregone oscillò sul ponte, fece un passo indietro, quindi rimase immobile come prima.
+es:
+  title: ¡No puedes pasar!
+  subtitle: ''
+  text: |-
+    Conjuro.   
+    **Maniobra:** Avista a Gandalf llevando una vara para prevenir que un siervo sea **fiero** hasta la fase de reagrupación.
+  lore: El Balrog cayó de espaldas y la hoja le saltó de la mano en pedazos fundidos. El mago vaciló en el puente, dio un paso atrás, y luego se irguió otra vez, inmóvil.

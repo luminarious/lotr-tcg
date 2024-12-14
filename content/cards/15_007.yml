@@ -1,0 +1,17 @@
+set: '15'
+rarity: U
+number: '7'
+unique: true
+culture: Dwarven
+type: Possession
+class: Hand Weapon
+cost: 4
+str: '+3'
+en:
+  title: Heavy Axe
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf.  
+    This is twilight cost -1 for each :dwarven: card that has a culture token on it.  
+    **Skirmish:** Remove a :dwarven: token to make bearer strength +1.
+  lore: Dwarven smiths created weaponry of all sizes and styles.

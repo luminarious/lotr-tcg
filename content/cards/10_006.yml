@@ -1,0 +1,16 @@
+set: '10'
+rarity: R
+number: '6'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Frodo
+en:
+  title: Arwen
+  subtitle: Queen of Elves and Men
+  text: 'Each minion skirmishing Arwen is strength –2 for each wounded minion you can spot. '
+  lore: ‘“Often is it seen,” said Aragorn, “that in dangerous days men hide their chief treasure.”’

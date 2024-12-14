@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '115'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Golden Glimmer
+  subtitle: ''
+  text: '**Response:** If a companion is about to take a wound, spot a :rohan: companion and add 2 burdens to prevent that.'
+  lore: ‘Dark is the hour, yet maybe we shall return to the Golden Hall.’
+de:
+  title: Goldener Schein
+  subtitle: ''
+  text: '**Reaktion:** Entdecke einen :rohan: Gefährten und lege 2 Lastmarken auf den Ring-träger, wenn ein Gefährte verwundet wird, um dies zu verhindern.'
+  lore: Dunkel ist die Stunde, dennoch werden wir vielleicht zur Goldenen Halle zurückkehren.

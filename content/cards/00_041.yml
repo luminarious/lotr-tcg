@@ -1,0 +1,40 @@
+set: '0'
+rarity: P
+number: '41'
+unique: true
+culture: Gondor
+type: Possession
+class: Ranged Weapon
+cost: 1
+en:
+  title: Aragorn’s Bow
+  subtitle: ''
+  text: |-
+    Bearer must be Aragorn.   
+    He is an **archer.**   
+    **Archery:** Exert Aragorn to wound a minion; Aragorn does not add to the fellowship archery total.
+  lore: '''It would take more than a few years… years of wandering… to make you look like Strider…’'
+de:
+  title: Aragorns Bogen
+  subtitle: ''
+  text: Muss auf Aragorn gespielt werden. Er ist nun **Bogenschütze.****FernKampf** Strenge Aragorn an, um einen Diener zu verwunden; Aragorn wird dann nicht zum Fernkampfwert gezählt.
+  lore: '''It would take more than a few years… years of wandering… to make you look like Strider…’'
+fr:
+  title: Arc d'Aragorn
+  subtitle: ''
+  text: |-
+    Le détenteur doit être Aragorn. Il est un **archer.**  
+    **Archerie :** Affaiblissez Aragorn pour blesser un séide ; Aragorn ne s’ajoute pas au total d’archerie de la compagnie.
+  lore: '''It would take more than a few years… years of wandering… to make you look like Strider…’'
+it:
+  title: Arco di Aragorn
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Aragorn. Egli è un **arciere.**  
+    **Arcieri:** Sforza Aragorn per ferire un servitore; Aragorn non si aggiunge al totale degli arcieri nella Compagnia.
+  lore: '''It would take more than a few years… years of wandering… to make you look like Strider…’'
+es:
+  title: El Arco de Aragorn
+  subtitle: ''
+  text: El portador debe ser Aragorn. Él es **arquero.** **Arquería:** Esfuerza a Aragorn para herir un siervo. Aragorn no suma al total de arquería de la comunidad.
+  lore: '''It would take more than a few years… years of wandering… to make you look like Strider…’'

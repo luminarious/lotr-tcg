@@ -1,0 +1,21 @@
+set: '7'
+rarity: U
+number: '214'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Lemenya
+  subtitle: Wraith on Wings
+  text: '**Regroup:** If you have initiative, discard Úlairë Lemenya to discard a possession.'
+  lore: And even at that moment the sun for a second faltered and was obscured, as though a dark wing had passed across it.
+de:
+  title: •Úlairë Lemenya
+  subtitle: Geflügeltes Gespenst
+  text: '**Sammeln:** Wenn du die Initiative besitzt, lege Úlairë Lemenya ab, um eine Ausrüstung abzulegen.'
+  lore: Und in eben diesem Augenblick flackerte die Sonne eine Sekunde und verdunkelte sich, als ob ein dunkler Flügel über sie hinweggezogen sei.

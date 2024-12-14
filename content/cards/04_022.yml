@@ -1,0 +1,43 @@
+set: '4'
+rarity: R
+number: '22'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 6
+str: '14'
+vit: '2'
+site: 3
+en:
+  title: Hillman Horde
+  subtitle: ''
+  text: |-
+    While you control 2 sites, skip the archery phase.   
+    While you control 3 sites, each of your :dunland: Men is **fierce.**   
+    While you control 4 sites, each of your :dunland: Men is **damage +1.** 
+  lore: ‘They are fierce folk when roused.’
+de:
+  title: Bergbewohnerhorde
+  subtitle: ''
+  text: 'Überspringe die Fernkampfphase, solange du 2 Orte kontrollierst. Alle deine :dunland: Menschen sind **Erbittert**, solange du 3 Orte kontrollierst. Alle deine :dunland: Menschen erhalten **Schaden +1**, solange du 4 Orte kontrollierst.'
+  lore: Sie sind ein kampfwütiges Volk, wenn sie einmal aufgerüttelt sind.
+fr:
+  title: Horde des Collines
+  subtitle: ''
+  text: |
+    Tant que vous contrôlez 2 sites, ignorez la phase d’archerie. Tant que vous contrôlez 3 sites, chacun de vos Hommes :dunland: est **acharné.**  
+    Tant que vous contrôlez 4 sites, chacun de vos Hommes :dunland: inflige des **dégâts +1.**  
+  lore: 'Lorsqu''ils sont agités, ils deviennent un peuple acharné.” '
+it:
+  title: Orda delle Colline
+  subtitle: ''
+  text: |-
+    Mentre controlli 2 siti, salta la fase degli arcieri. Mentre controlli 3 siti, ognuno dei tuoi Uomini :dunland: è **Feroce.**  
+    Mentre controlli 4 siti, ognuno dei tuoi Uomini :dunland: ha **Danno +1.**
+  lore: ‘E’ gente feroce, quando si desta.’
+es:
+  title: Horda De Montañeses
+  subtitle: ''
+  text: 'Mientras controles 2 sitios, sáltate la fase de Arquería. Mientras controles 3 sitios, cada uno de tus Hombres :dunland: es **fiero.** Mientras controles 4 sitios, cada uno de tus Hombres :dunland: es **Daño +1.**'
+  lore: Son un pueblo fiero cuando los provocan.

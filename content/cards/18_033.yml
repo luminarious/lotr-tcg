@@ -1,0 +1,13 @@
+set: '18'
+rarity: U
+number: '33'
+unique: true
+culture: Gollum
+type: Event
+class: Shadow
+cost: 2
+en:
+  title: Set Up
+  subtitle: ''
+  text: Spot Gollum or Sméagol to return a follower to its owner’s hand.
+  lore: He took it!! I've seen him. He is always stuffing his face when Master is not looking.

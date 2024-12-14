@@ -1,0 +1,15 @@
+set: '18'
+rarity: R
+number: '52'
+unique: true
+culture: Gondor
+type: Follower
+cost: 0
+res: '+3'
+en:
+  title: Gondorian Servant
+  subtitle: Denethor's Handman
+  text: |-
+    **Aid** - :twilight1:. *(At the start of the maneuver phase, you may add *:twilight1:* to transfer this to a companion.)*  
+    Each time you attach this to a companion, except a :gondor: Man, add :twilight4:.
+  lore: If the personal servants of Denethor were aware of his madness, they were wise to conceal it.

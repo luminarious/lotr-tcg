@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '139'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 5
+str: '10'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Cantëa
+  subtitle: Duplicitous Assassin
+  text: |-
+    **Fierce.** Each unbound companion is resistance -1 for each card he or she bears.  
+    **Skirmish:** Exert Úlairë Cantëa to exert a companion with resistance 2 or less.
+  lore: Drawn to the power of the one. They will never stop hunting you.

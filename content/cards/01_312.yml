@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '312'
+unique: true
+culture: Shire
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Sorry About Everything
+  subtitle: ''
+  text: '**Fellowship:** Exert a Hobbit companion to remove a burden.'
+  lore: ‘I am sorry that I brought this upon you… sorry you must carry this burden.’
+de:
+  title: Das alles tut mir wirklich leid
+  subtitle: ''
+  text: '**Gemeinschaft.** Strenge einen Hobbitgefährten an, um eine Lastmarke zu entfernen.'
+  lore: Es tut mir leid, dir dies alles aufgebürdet zu haben… es tut mir leid, dass du diese Last nun tragen musst.
+fr:
+  title: Désolé pour Tout
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez un compagnon Hobbit pour retirer un point-fardeau.'
+  lore: ‘Je suis désolé de t'avoir apporté cela… désolé que tu doives porter ce fardeau.’
+it:
+  title: Scusa per Tutto
+  subtitle: ''
+  text: '**Compagnia:** Sforza un compagno Hobbit per rimuovere un segnalino fardello.'
+  lore: ‘Mi dispiace di aver attirato questo su di te … mi dispiace che tu debba portare questo fardello.’
+es:
+  title: Perdón por Todo
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza un compañero Hobbit para quitar una carga.'
+  lore: Lamento haberte metido en esto… lamento que tengas que llevar esta carga.

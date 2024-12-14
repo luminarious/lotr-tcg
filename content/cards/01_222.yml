@@ -1,0 +1,35 @@
+set: '1'
+rarity: U
+number: '222'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Paths Seldom Trodden
+  subtitle: ''
+  text: |-
+    **Search.** To play, spot a Nazgûl.   
+    **Shadow:** Remove :twilight3: to replace the fellowship’s site with your version of the same site.
+  lore: ‘You will have to leave the open road after tonight; for the horsemen will watch it night and day.’
+de:
+  title: Selten beschrittene Pfade
+  subtitle: ''
+  text: '**Suche.** Entdecke einen Nazgûl, um diese Karte in deinen Unterstützungsbereich zu spielen. **Schatten:** Verringere den Einfluss um :twilight3:, um die Ortskarte, an der sich die Gemeinschaft befindet, durch dein Exemplar zu ersetzen.'
+  lore: Nach dem heutigen Abend werdet ihr die offene Strasse vermeiden müssen; denn die Reiter werden sie Tag und Nacht beobachten.
+fr:
+  title: Des Chemins Rarement Empruntés
+  subtitle: ''
+  text: '**Recherche.** Pour jouer, désignez un Nazgûl. Ombre : Retirez :twilight3: pour remplacer le site de la compagnie par votre version du même site.'
+  lore: ‘Il vous faudra quitter la route découverte ; car les Cavaliers la surveilleront nuit et jour.’
+it:
+  title: Cammini Percorsi Raramente
+  subtitle: ''
+  text: '**Ricerca.** Per giocarla, avvista un Nazgûl. **Ombra:** Rimuovi :twilight3: per sostituire il sito della Compagnia con la tua versione dello stesso sito.'
+  lore: ‘Dovrete abbandonare la strada da domani, perché sarà sorvegliata notte e giorno dai Cavalieri.’
+es:
+  title: Senderos Poco Transitados
+  subtitle: ''
+  text: '**Búsqueda.** Para jugarlo, avista un Nazgûl. **Sombra:** Quita :twilight3: para reemplazar el sitio de la comunidad con tu versión del mismo sitio.'
+  lore: Desde esta noche tendrá usted que dejar la carretera, pues los jinetes la vigilaran día y noche.

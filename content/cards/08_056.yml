@@ -1,0 +1,25 @@
+set: '8'
+rarity: U
+number: '56'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 1
+str: '5'
+vit: '1'
+site: 4
+en:
+  title: Corsair Lookout
+  subtitle: ''
+  text: |-
+    **Corsair.**   
+    When you play this minion, if you have initiative, you may discard an ally to add 2 :raider: tokens to a card that already has a :raider: token on it.
+  lore: …watchmen on the walls saw afar a new sight of fear, and their last hope left them.
+de:
+  title: Corsaren Ausguck
+  subtitle: ''
+  text: |-
+    **Corsar.**   
+    Du darfst einen Verbündeten ablegen, wenn du beim Ausspielen dieses Dieners die Initiative besitzt, um 2 :raider: Marken auf eine Karte zu legen, auf der bereits eine :raider: Marke liegt.
+  lore: … erblickten die Wächter auf den Mauern in der Ferne einen neuen Schrecken, und ihre letzte Hoffnung verließ sie.

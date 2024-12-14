@@ -1,0 +1,19 @@
+set: '1'
+rarity: R
+number: '40'
+unique: true
+culture: Elven
+type: Ally
+race: Elf
+cost: 4
+str: '8'
+vit: '4'
+site: '3'
+en:
+  title: Elrond
+  subtitle: Lord of Rivendell
+  text: |-
+    To play, spot Gandalf or an Elf.   
+    At the start of each of your turns, heal every ally whose home is site 3.   
+    **Fellowship:** Exert Elrond to draw a card.
+  lore: He was the Lord of Rivendell and mighty among both Elves and Men.

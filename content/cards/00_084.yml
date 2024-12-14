@@ -1,0 +1,21 @@
+set: '0'
+rarity: P
+number: '84'
+unique: true
+culture: Shire
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Sting
+  subtitle: Weapon of Heritage
+  text: |-
+    Bearer must be Bilbo, Frodo, or Sam.   
+    **Maneuver:** If bearer is Bilbo or Frodo, exert him to make another companion resistance +2 until the regroup phase. If bearer is Sam, each time he wins a skirmish, you may remove a burden. 
+  lore: DGMA Territorial Open Championship<BR>2005
+de:
+  title: Stich
+  subtitle: Weitervererbte Waffe
+  text: Muss auf Bilbo, Frodo oder Sam gespielt werden. **Manöver:** Wenn Bilbo oder Frodo der Träger ist, strenge ihn an, um einem anderen Gefährten bis zur Sammelphase Resistenz +2 zu geben. Wenn Sam der Träger ist, darfst du jedes Mal, wenn er einen Kampf gewinnt, eine Lastmarke entfernen.
+  lore: DGMA Territorial Open Championship<BR>2005

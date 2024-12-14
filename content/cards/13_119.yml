@@ -1,0 +1,21 @@
+set: '13'
+rarity: C
+number: '119'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '1'
+site: 4
+en:
+  title: Underdeeps Denizen
+  subtitle: ''
+  text: While this minion is at an underground site, it cannot take wounds.
+  lore: There was a crash on the door, followed by crash after crash… How many there were the Company could not count.
+de:
+  title: Bewohner der tiefsten Tiefen
+  subtitle: ''
+  text: Dieser Diener kann keine Wunden erleiden, solange er sich an einem unterirdischen Ort befindet.
+  lore: Es wurde gegen die Tür geschlagen und immer wieder und wieder dagegen geschlagen…. Wie viele es waren, konnten die Gefährten nicht zählen.

@@ -1,0 +1,19 @@
+set: '4'
+rarity: R
+number: '116'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Faramir
+  subtitle: Captain of Gondor
+  text: |-
+    **Ring-bound.** **Ranger.**  
+    The twilight cost of each other :gondor: Man in your starting fellowship is -1.   
+    While skirmishing a roaming minion, Faramir is strength +2. 
+  lore: ‘He leads us now in all perilous ventures.’

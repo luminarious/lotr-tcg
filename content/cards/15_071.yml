@@ -1,0 +1,18 @@
+set: '15'
+rarity: C
+number: '71'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Unyielding Ranger
+  subtitle: ''
+  text: |-
+    **Ranger. Hunter 1.** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    This companion is strength +1 for each roaming minion you can spot.
+  lore: Their faces were hooded and masked with green, except for their eyes…

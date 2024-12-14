@@ -1,0 +1,24 @@
+set: '7'
+rarity: R
+number: '67'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 5
+en:
+  title: Plotting
+  subtitle: ''
+  text: |-
+    To play, spot Gollum and add up to 9 threats.   
+    Gollum is strength +2.   
+    Discard this condition and remove 9 threats at the start of the regroup phase.
+  lore: ''
+de:
+  title: Pläne schmieden
+  subtitle: ''
+  text: |-
+    Entdecke Gollum und lasse bis zu 9 Bedrohungen entstehen, um diese Karte zu spielen.   
+    Gollum erhält Stärke +2.   
+    Lege diesen Effekt zu Beginn der Sammelphase ab und entferne 9 Bedrohungen.
+  lore: Wir werden sehen… Oh ja, wir werden sehen!

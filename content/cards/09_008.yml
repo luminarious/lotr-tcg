@@ -1,0 +1,25 @@
+set: '9'
+rarity: R
+number: '8'
+unique: true
+culture: Dwarven
+type: Artifact
+class: Ring
+cost: 0
+str: '+1'
+en:
+  title: Ring of Guile
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf.   
+    Bearer is **damage +1.**   
+    **Maneuver:** Take a :dwarven: event into hand from your discard pile. Discard this artifact. 
+  lore: But, as Thrór had said, the Ring needed gold to breed gold….
+de:
+  title: Der Ring der List
+  subtitle: ''
+  text: |-
+    Muss auf einen Zwerg gespielt werden.   
+    Der Träger erhält **Schaden +1**.   
+    **Manöver:** Nimm ein :dwarven: Ereignis aus deinem Ablagestapel auf deine Hand. Lege dieses Artefakt ab.
+  lore: 'Doch wie Thrór gesagt hatte: Der Ring brauchte Gold, um Gold zu hecken…'

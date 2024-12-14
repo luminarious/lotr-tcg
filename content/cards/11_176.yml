@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '176'
+unique: true
+culture: Shire
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: Unharmed
+  subtitle: ''
+  text: 'Heal a Hobbit for each minion you spot. '
+  lore: ‘So far so good; but how are we to avoid being spitted?’
+de:
+  title: Unverletzt
+  subtitle: ''
+  text: Heile einen Hobbit für jeden Diener, den du entdeckst.
+  lore: Bisher ist es ja ganz gut gegangen. Aber wie sollen wir der Gefahr entgehen, aufgespießt zu werden?

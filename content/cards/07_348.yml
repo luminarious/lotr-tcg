@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '348'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Minas Tirith Fourth Circle
+  subtitle: ''
+  text: '**Sanctuary.** If the fellowship moves from this site during the regroup phase, heal each :rohan: companion.'
+  lore: ''
+de:
+  title: Vierter Ring von Minas Tirith
+  subtitle: ''
+  text: '**Zuflucht.** Heile jeden :rohan: Gefährten, wenn sich die Gemeinschaft in der Sammelphase von diesem Ort fortbewegt.'
+  lore: ''

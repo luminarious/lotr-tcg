@@ -1,0 +1,19 @@
+set: '13'
+rarity: R
+number: '149'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 2
+str: '3'
+vit: '4'
+res: '8'
+en:
+  title: Frodo
+  subtitle: Frenzied Fighter
+  text: |-
+    **Ring-bound.**  
+    While you can spot more minions than companions, Frodo cannot be overwhelmed unless his strength is tripled.  
+    **Skirmish:** If Frodo is not assigned to a skirmish, exert Frodo to have him replace a Ring-bound companion skirmishing a minion.
+  lore: ''

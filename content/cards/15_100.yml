@@ -1,0 +1,18 @@
+set: '15'
+rarity: C
+number: '100'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Black Land Commander
+  subtitle: ''
+  text: |-
+    While you can spot a companion of strength 12 or more, this minion is strength +5.  
+    **Skirmish:** Remove 2 threats to make a character skirmishing this minion strength –2.
+  lore: ‘…do they just live on foul air and poison?’

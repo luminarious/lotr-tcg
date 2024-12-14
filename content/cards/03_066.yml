@@ -1,0 +1,37 @@
+set: '3'
+rarity: R
+number: '66'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '11'
+vit: '3'
+site: 5
+en:
+  title: Orthanc Berserker
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    **Maneuver:** Spot 5 burdens and exert Orthanc Berserker twice to exhaust a companion (except the Ring-bearer). 
+  lore: The voice of Saruman compels his minions to stop at nothing to earn his favor.
+fr:
+  title: Fou Furieux d'Orthanc
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    **Manœuvre :** Désignez 5 points-fardeau et affaiblissez Fou Furieux d’Orthanc deux fois pour épuiser un compagnon (excepté le Porteur de l’Anneau).
+  lore: La voix de Saroumane astreint ses séides à ne s'arrêter pour aucune raison afin d'obtenir sa faveur.
+it:
+  title: Berserker di Orthanc
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    **Manovra:** Avvista 5 segnalini fardello e sforza due volte Berserker di Orthanc per rendere esausto un compagno (tranne il Portatore dell’Anello).
+  lore: La voce di Saruman costringe i suoi servitori a non fermarsi davanti a nulla pur di guadagnarsi il suo favore.
+es:
+  title: Berserker de Orthanc
+  subtitle: ''
+  text: '**Daño +1.** **Maniobra:** Avista 5 cargas y esfuerza el Berserker de Orthanc dos veces para dejar exhausto un compañero (excepto el Portador del Anillo).'
+  lore: Se conoce a los Uruk-hai por no parar por nada para complacer a su comandante, Saruman.

@@ -1,0 +1,18 @@
+set: '15'
+rarity: C
+number: '157'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '10'
+vit: '2'
+site: 5
+en:
+  title: Chasing Uruk
+  subtitle: ''
+  text: |-
+    **Fierce. Hunter 1.** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    Each time this minion wins a skirmish, you may spot 4 hunters (or Uglúk) to control a site.
+  lore: ‘But why not kill them quick, kill them now?’

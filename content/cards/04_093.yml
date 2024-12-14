@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '93'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 3
+en:
+  title: Have Patience
+  subtitle: ''
+  text: '**Fellowship:** Spot Gandalf to heal an unbound companion twice. '
+  lore: ‘Go where you must go, and hope!’
+de:
+  title: Habt Geduld
+  subtitle: ''
+  text: '**Gemeinschaft.** Entdecke Gandalf, um einen nicht-verbundenen Gefährten zweimal zu heilen.'
+  lore: Geht, wohin ihr gehen müsst, und hofft!
+fr:
+  title: Prenez Patience
+  subtitle: ''
+  text: '**Compagnie :** Désignez Gandalf pour guérir deux fois un compagnon dissocié.'
+  lore: 'Allez où vous devez aller et espérez!” '
+it:
+  title: Abbi Pazienza
+  subtitle: ''
+  text: '**Compagnia:** Avvista Gandalf per curare due volte un compagno Non Legato.'
+  lore: ‘Vai dove devi andare, e spera!’
+es:
+  title: Ten Paciencia
+  subtitle: ''
+  text: '**Comunidad:** Avista a Gandalf para curar un compañero no-vinculado dos veces.'
+  lore: Id a donde tenéis que ir, ¡y confiad!

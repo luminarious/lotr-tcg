@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '112'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Noble Leaders
+  subtitle: ''
+  text: |-
+    When you play this condition, place a :gondor: token here for each of the following characters you can spot: Aragorn, Boromir, Denethor or Faramir.   
+    **Skirmish:** Remove a token from here or discard this condition to make a :gondor: companion strength +1 and **damage +1**.
+  lore: ''
+de:
+  title: Erhabene Anführer
+  subtitle: ''
+  text: |-
+    Wenn du diesen Effekt spielst, lege für jeden der folgenden Charaktere, den du entdecken kannst, eine :gondor: Marke auf diese Karte: Aragorn, Boromir, Denethor oder Faramir.   
+    **Kampf:** Entferne eine Marke von diesem Effekt oder lege ihn ab, um einem :gondor: Gefährten Stärke +1 und **Schaden +1** zu geben.
+  lore: ''

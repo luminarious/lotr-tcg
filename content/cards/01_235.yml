@@ -1,0 +1,36 @@
+set: '1'
+rarity: U
+number: '235'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Otsëa
+  subtitle: Lieutenant of Morgul
+  text: '**Shadow:** Exert Úlairë Otsëa to make a :wraith: minion **fierce** until the regroup phase.'
+  lore: …under their mantles were long grey robes; upon their grey hairs were helms of silver; in their haggard hands were swords of steel.
+de:
+  title: Úlairë Ostëa
+  subtitle: Leutnant aus Minas Morgul
+  text: '**Schatten:** Strenge Úlairë Ostëa an, um einen :wraith: Diener bis zur Sammelphase **Erbittert** zu machen.'
+  lore: …unter ihren Mänteln trugen sie lange graue Gewänder, auf ihren grauen Haaren Helme aus Silber; in ihren hageren Händen hielten sie Schwerter aus Stahl.
+fr:
+  title: Úlairë Ostëa
+  subtitle: Lieutenant de Morgul
+  text: 'Ombre : Affaiblissez Úlairë Ostëa pour rendre un séide :wraith: **acharné** jusqu''à la phase de ralliement.'
+  lore: …sous leurs capes étaient de longues robes grises ; sur leurs cheveux gris étaient des heaumes d'argent ; dans leurs mains décharnées, des épées d'acier.
+it:
+  title: Úlairë Ostëa
+  subtitle: Luogotenente Di Morgul
+  text: '**Ombra:** Sforza Úlairë Ostëa per rendere **Feroce** un servitore :wraith: fino alla fase di raccolta.'
+  lore: …sotto le cappe, portavano un abito lungo e grigio, e sui capelli grigi, un elmo d'argento; le loro mani scarne stringevano spade d'acciaio.
+es:
+  title: Úlairë Ostëa
+  subtitle: Lugarteniente de Morgul
+  text: '**Sombra:** Esfuerza a Úlairë Ostëa para dar **fiero** a un siervo :wraith: hasta la fase de reagrupación.'
+  lore: …bajo los mantos llevaban unas vestiduras largas y grises; yelmos de plata cubrían sus cabelleras canosas, y las manos macilentas sostenían espadas de acero.

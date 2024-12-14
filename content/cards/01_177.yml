@@ -1,0 +1,36 @@
+set: '1'
+rarity: C
+number: '177'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 6
+str: '13'
+vit: '3'
+site: 4
+en:
+  title: Goblin Patrol Troop
+  subtitle: ''
+  text: ''
+  lore: 'As they ran they heard the beat and echo of many hurrying feet behind. A shrill yell went up: they had been seen. There was a ring and clash of steel.'
+de:
+  title: Goblin Patrouille
+  subtitle: ''
+  text: Während sie rannten, hörten sie das Stampfen und den Widerhall von vielen hastenden Füssen hinter sich. Ein schriller Schrei verriet, dass sie gesehen worden waren. Es gab ein Gerassel und Geklirr von Stahl.
+  lore: ''
+fr:
+  title: Patrouille Gobeline
+  subtitle: ''
+  text: ''
+  lore: 'Tout en courant, ils entendaient le battement et l''écho de nombreux pieds qui se lançaient à leur poursuite. Un cri strident retentit: on les avait vus. Il y eut un tintement et un cliquetis d''acier.'
+it:
+  title: Pattuglia Goblin
+  subtitle: ''
+  text: ''
+  lore: 'Nella fuga, si udirono lo scalpitio e l''eco di molti piedi frettolosi alle loro spalle. Un urlo stridulo si levò: erano stati visti. L''acciaio squillò e vibrò.'
+es:
+  title: Tropa de Patrulla Goblin
+  subtitle: ''
+  text: ''
+  lore: 'Mientras corrían oyeron los golpeteos y los ecos de muchos pies que venían detrás, Se oyó un chillido agudo: los habían visto. Hubo luego un clamor y un repiqueteo de aceros.'

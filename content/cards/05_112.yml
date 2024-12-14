@@ -1,0 +1,33 @@
+set: '5'
+rarity: R
+number: '112'
+unique: true
+culture: Shire
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: No Help for It
+  subtitle: ''
+  text: '**Regroup:** Spot Sam and discard Sméagol or Gollum to remove 3 burdens.'
+  lore: ‘…he'll come back, you'll see. The promise will hold yet a while. And he won't leave his Precious, anyway.’
+de:
+  title: Da kann man nichts machen
+  subtitle: ''
+  text: '**Sammeln:** Entdecke Sam und lege Sméagol oder Gollum ab, um 3 Lastmarken vom Ringträger zu entfernen.'
+  lore: Er wird zurückkommen, du wirst es sehen. Das Versprechen wird noch eine Weile halten. Und seinen Schatz will er sowieso nicht verlassen.
+fr:
+  title: On n'y Peut Rien
+  subtitle: ''
+  text: '**Ralliement :** Désignez Sam et défaussez Sméagol ou Gollum pour retirer 3 points-fardeau.'
+  lore: 'Mais il reviendra, tu verras. La promesse tiendra encore un bout de temps. Et il ne quittera pas son Trésor, de toute façon.” '
+it:
+  title: Non Possiamo Farci Nulla
+  subtitle: ''
+  text: '**Raccolta:** Avvista Sam e scarta Sméagol o Gollum per rimuovere 3 segnalini fardello.'
+  lore: ‘…ma vedrai che tornerà. La promessa durerà ancora qualche tempo. E comunque non abbandonerebbe mai il suo Tesoro.’
+es:
+  title: No podemos impedirlo
+  subtitle: ''
+  text: '**Reagrupación:** Avista a Sam y descarta a Sméagol o a Gollum para quitar 3 cargas.'
+  lore: … Volverá, ya veras. Todavía cumplirá la promesa por algún tiempo. Y de todos modos, no abandonará su Tesoro.

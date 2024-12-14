@@ -1,0 +1,23 @@
+set: '7'
+rarity: R
+number: '5'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Dark Ways
+  subtitle: ''
+  text: |-
+    To play, spot a Dwarf.   
+    Each time the fellowship moves, add a threat or discard this condition.   
+    **Regroup:** Discard this condition to heal a Dwarf twice and take a :dwarven: skirmish event into hand from your discard pile.
+  lore: ''
+de:
+  title: Dunkle Wege
+  subtitle: ''
+  text: |-
+    Entdecke einen Zwerg, um diese Karte zu spielen. Lasse jedes Mal, wenn sich die Gemeinschaft bewegt, eine Bedrohung entstehen oder lege diesen Effekt ab.   
+    **Sammeln:** Lege diesen Effekt ab, um einen Zwerg zweimal zu heilen und ein :dwarven: Kampfereignis aus deinem Ablagestapel auf deine Hand zu nehmen.
+  lore: ''

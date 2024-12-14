@@ -1,0 +1,18 @@
+set: '4'
+rarity: R
+number: '48'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Gimli
+  subtitle: Lockbearer
+  text: |-
+    **Damage +1.**   
+    Gimli is strength +1 for each unbound Hobbit companion you can spot. 
+  lore: ‘You speak evil of that which is fair beyond the reach of your thought, and only little wit can excuse you.’

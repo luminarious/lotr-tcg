@@ -1,0 +1,17 @@
+set: '10'
+rarity: R
+number: '9'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 4
+str: '8'
+vit: '4'
+en:
+  title: Elrond
+  subtitle: Venerable Lord
+  text: |-
+    To play, spot an Elf.   
+    At the start of each skirmish involving Elrond, you may reveal the top card of your draw deck. If it is an :elven: card, you may heal another Elf. 
+  lore: ‘To me then even our victory can bring only sorrow and parting – but to you hope of joy for a while.’

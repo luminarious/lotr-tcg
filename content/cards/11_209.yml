@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '209'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Drawn to its Power
+  subtitle: ''
+  text: Each time a companion is killed in a skirmish involving a Nazgûl, add a burden.
+  lore: ‘And also the Ring drew them.’
+de:
+  title: Von seiner Macht angezogen
+  subtitle: ''
+  text: Lege jedes Mal eine Lastmarke auf den Ringträger, wenn ein Gefährte in einem Kampf getötet wird, an dem ein Nazgûl beteiligt ist.
+  lore: Und auch der Ring zog sie an.

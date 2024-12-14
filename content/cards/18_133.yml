@@ -1,0 +1,13 @@
+set: '18'
+rarity: R
+number: '133'
+unique: true
+culture: Wraith
+type: Event
+class: Assignment
+cost: 0
+en:
+  title: Pull of the Ring
+  subtitle: ''
+  text: 'Remove a burden to choose one: assign a :wraith: minion to a companion who has resistance 0; or have a :wraith: minion lose **fierce** and gain **hunter 2**.'
+  lore: I'm naked in the dark. There’s nothing, no veil between me and the Wheel of Fire. I can see him with my waking eyes!

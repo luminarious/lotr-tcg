@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '92'
+unique: true
+culture: Man
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Overrun
+  subtitle: ''
+  text: 'Make a :men: minion strength +2 (or +4 if that minion is at a battleground or plains site).'
+  lore: An Easterling column strikes with terrific force.
+de:
+  title: Überrannt
+  subtitle: ''
+  text: 'Gib einem :men: Diener Stärke +2 (oder +4, wenn sich dieser an einem Schlachtfeld oder einer Ebene befindet).'
+  lore: Macht an.

@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '47'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Sharpen Your Swords
+  subtitle: ''
+  text: 'Spot Gandalf to make a :gondor: companion strength +1 for each :gondor: companion you spot (limit +4).'
+  lore: ‘Courage will now be your best defence against the storm that is at hand….’
+de:
+  title: Schärft Eure Schwerter
+  subtitle: ''
+  text: 'Entdecke Gandalf, um einem :gondor: Gefährten Stärke +1 für jeden :gondor: Gefährten, den du entdeckst, zu geben (maximal +4).'
+  lore: Mut wird jetzt eure beste Verteidigung sein gegen den Sturm, der bald hereinbricht…

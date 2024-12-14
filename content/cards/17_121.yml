@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '121'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '10'
+vit: '2'
+site: 5
+en:
+  title: White Hand Berserker
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    At the start of the archery phase, if you control a site, you may add 2 to the minion archery total for each Free Peoples culture you can spot over 2.
+  lore: …there was a crash and a flash of flame and smoke.

@@ -1,0 +1,18 @@
+set: '11'
+rarity: R
+number: '48'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Not Yet Vanquished
+  subtitle: ''
+  text: Each time a companion loses a fierce skirmish, you may exert Gollum to add a burden.
+  lore: A sudden weight smote him and he crashed forward, tearing the backs of his hands that still clasped his master’s.
+de:
+  title: Noch nicht bezwungen
+  subtitle: ''
+  text: Jedes Mal, wenn ein Gefährte einen erbitterten Kampf verliert, darfst du Gollum anstrengen, um eine Lastmarke auf den Ringträger zu legen.
+  lore: Ein plötzliches Gewicht traf ihn, und er stürzte nach vorne und schürfte sich die Handrücken auf, denn er hielt ja noch die Hände seines Herrn.

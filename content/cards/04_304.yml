@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '304'
+unique: true
+culture: Shire
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Get On and Get Away
+  subtitle: ''
+  text: '**Fellowship:** Add 2 burdens to play the fellowship’s next 2 sites (replacing opponent’s sites if necessary). '
+  lore: ‘The Dead can't be really there! Is it some devilry hatched in the Dark Land?’
+de:
+  title: Weitergehen, um weg zu kommen
+  subtitle: ''
+  text: '**Gemeinschaft.** Lege 2 Lastmarken auf den Ringträger, um die beiden nächsten Orte deiner Gemeinschaft zu spielen (und nötigenfalls die Ortskarten eines Gegenspielers zu ersetzen).'
+  lore: Die Toten können doch nicht wirklich da sein! Ist das irgendwie Schurkerei, die im Dunklen Land ausgeheckt wurde?
+fr:
+  title: Continuer et Sortir d'Ici
+  subtitle: ''
+  text: '**Compagnie :** Ajoutez 2 points-fardeau pour jouer les deux prochains sites de la compagnie (en remplaçant les sites d’un adversaire si nécessaire).'
+  lore: 'Les morts ne peuvent être réellement là! C''est quelque sorcellerie tramée en Terre Ténébreuse ?” '
+it:
+  title: Avanzare e Andare Via
+  subtitle: ''
+  text: '**Compagnia:** Aggiungi 2 segnalini fardello per giocare i prossimi due siti della compagnia (rimpiazzando i siti dell’avversario se necessario).'
+  lore: ‘I Morti non possono essere effettivamente qui! Qualche diavoleria cova forse nell'Oscuro Paese?’
+es:
+  title: Montad Y Marchaos
+  subtitle: ''
+  text: '**Comunidad:** Añade 2 cargas para jugar los 2 próximos sitios de la comunidad (reemplazando los del oponente si es necesario).'
+  lore: ¡Los muertos no pueden estar ahí realmente! ¿Pesa algún sortilegio sobre el País Oscuro?

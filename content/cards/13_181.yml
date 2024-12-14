@@ -1,0 +1,22 @@
+set: '13'
+rarity: U
+number: '181'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: They Came From Mordor
+  subtitle: ''
+  text: |-
+    When you play this, you may add a :wraith: token here for each :wraith: card in your support area.  
+    **Shadow:** Discard this from play or remove 2 tokens from here to play a :wraith: mount from your draw deck on your :wraith: minion.
+  lore: ‘That is the worst news that has come to Bree….’
+de:
+  title: Aus Mordor kamen sie
+  subtitle: ''
+  text: |-
+    Lege eine :wraith: Marke für jede :wraith: Karte in deinem Unterstützungsbereich auf diesen Effekt, wenn du ihn spielst.  
+    **Schatten:** Lege diesen Effekt ab oder entferne hier 2 Marken, um ein :wraith: Reittier aus deinem Spieldeck auf einen deiner :wraith: Diener zu spielen.
+  lore: …die schlimmste Nachricht, die… Bree erreicht hat.

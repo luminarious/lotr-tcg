@@ -1,0 +1,39 @@
+set: '4'
+rarity: R
+number: '290'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Supplies of the Mark
+  subtitle: ''
+  text: |-
+
+    **Fellowship:** Add :twilight2: and place a villager from hand beneath your draw deck to heal a :rohan: ally. 
+  lore: ‘This is all we could save, my Lady.’
+de:
+  title: Nachschub für die Mark
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Gemeinschaft.** Erhöhe den Einfluss um :twilight2: und lege einen Dorfbewohner aus deiner Hand unter dein Spieldeck, um einen :rohan: Verbündeten zu heilen.'
+  lore: Dies ist alles, was wir retten konnten, Herrin.
+fr:
+  title: Provisions de la Marche
+  subtitle: ''
+  text: '**Compagnie :** Ajoutez :twilight2: et placez un villageois de votre main sous votre pioche pour guérir un allié :rohan:.'
+  lore: 'C''est tout ce que nous pouvions sauver, ma Dame.” '
+it:
+  title: Rifornimenti del Mark
+  subtitle: ''
+  text: |-
+
+    **Compagnia:** Aggiungi :twilight2: e piazza un villico dalla mano sotto il tuo mazzo di gioco per curare un alleato :rohan:.
+  lore: ‘Questo è tutto ciò che siamo riusciti a salvare, mia Signora.’
+es:
+  title: Suministros De La Marca
+  subtitle: ''
+  text: |-
+
+    **Comunidad:** Añade :twilight2: y pon un aldeano de tu mano bajo tu mazo de robar para curar un aliado :rohan:.
+  lore: Esto es todo lo que podemos salvar, mi Señora.

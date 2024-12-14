@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '304'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Orc Rager
+  subtitle: ''
+  text: '**Skirmish:** Discard this minion to make another :sauron: Orc strength +4.'
+  lore: The drums rolled and rattled.
+de:
+  title: Ork Wüter
+  subtitle: ''
+  text: '**Kampf:** Lege diesen Diener ab, um einem anderen :sauron: Ork Stärke +4 zu geben.'
+  lore: Die Trommeln dröhnten und rasselten.

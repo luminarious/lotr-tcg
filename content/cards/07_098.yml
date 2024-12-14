@@ -1,0 +1,23 @@
+set: '7'
+rarity: U
+number: '98'
+unique: true
+culture: Gondor
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Gondorian Sword
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.   
+    **Skirmish:** Discard 3 cards from hand to make bearer **damage +1**.
+  lore: ''
+de:
+  title: Gondorschwert
+  subtitle: ''
+  text: |-
+    Muss auf einen :gondor: Menschen gespielt werden.   
+    **Kampf:** Lege 3 Karten aus deiner Hand ab, damit der Träger **Schaden +1** erhält.
+  lore: ''

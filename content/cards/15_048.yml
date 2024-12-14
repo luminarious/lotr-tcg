@@ -1,0 +1,15 @@
+set: '15'
+rarity: C
+number: '48'
+unique: true
+culture: Gollum
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Release Them
+  subtitle: ''
+  text: |-
+    Spot Sméagol to prevent a Ring-bound Hobbit from being overwhelmed unless his or her strength is tripled.  
+    While this card is in your discard pile, Sméagol is resistance +1.
+  lore: If you let them go, your life will be forfeit.

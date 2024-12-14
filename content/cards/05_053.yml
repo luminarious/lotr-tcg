@@ -1,0 +1,40 @@
+set: '5'
+rarity: C
+number: '53'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '3'
+site: 4
+en:
+  title: Isengard Rider
+  subtitle: ''
+  text: |-
+    **Warg-rider.**  
+    While this minion is not exhausted, he is **fierce.**
+  lore: ‘He has taken Orcs into his service, and Wolf-riders, and evil Men….’
+de:
+  title: Isengart Reiter
+  subtitle: ''
+  text: '**Wargreiter.** Solange dieser Diener nicht erschöpft ist, ist er **Erbittert.**'
+  lore: Er hat Orks in seine Dienste genommen und Wolfreiter und böse Menschen….
+fr:
+  title: Chevaucheur de l'Isengard
+  subtitle: ''
+  text: |-
+    **Chevaucheur de ouargue.**   
+    Tant que ce séide n’est pas épuisé, il est **acharné**.
+  lore: 'Il a pris des Orques à son service, ainsi que des Chevaucheurs de loups et de mauvais Hommes…” '
+it:
+  title: Cavalcalupi di Isengard
+  subtitle: ''
+  text: '**Cavalcalupi.** Mentre questo servitore non è esausto, è **Feroce.**'
+  lore: ‘Ha preso al suo servizio Orchi e Cavalcalupi e Uomini malvagi….’
+es:
+  title: Jinete de Isengard
+  subtitle: ''
+  text: '**Jinete de huargo.** Mientras este siervo no esta exhausto, es **fiero.**'
+  lore: Ha reclutado Orcos, y Jinetes de Lobos, y Hombres malignos…

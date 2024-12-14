@@ -1,0 +1,41 @@
+set: '4'
+rarity: C
+number: '319'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Severed His Bonds
+  subtitle: ''
+  text: |-
+    **Stealth.**   
+    **Skirmish:** At sites 1:tower: to 4:tower:, cancel a skirmish involving a Hobbit. At any other site, prevent a Hobbit from being overwhelmed unless his or her strength is tripled. 
+  lore: ‘The cord was cut!’
+de:
+  title: Seine Fesseln trennen
+  subtitle: ''
+  text: |-
+    **Heimlichkeit.**  
+    **Kampf** Hebe einen Kampf auf, an dem ein Hobbit beteiligt ist, wenn sich deine Gemeinschaft an Ort 1:tower: bis 4:tower: befindet. Ansonsten kann ein Hobbit nur mit dreifacher Stärke überwältigt werden.
+  lore: Der Strick war durchgeschnitten!
+fr:
+  title: Il a Défait ses Liens
+  subtitle: ''
+  text: |-
+    **Dissimulation.**  
+    **Combat :** Aux sites 1:tower: à 4:tower:, annulez un combat qui implique un Hobbit. À tout autre site, empêchez un Hobbit d’être submergé à moins que la force du camp adverse ne soit le triple de la force du Hobbit.
+  lore: 'La corde a été coupée!” '
+it:
+  title: Tagliare le Sue Corde
+  subtitle: ''
+  text: |-
+    **Segretezza.**  
+    **Schermaglia:** Ai siti dall’1:tower: al 4:tower:, cancella una schermaglia che coinvolga un Hobbit. Presso ogni altro sito, impedisci che un Hobbit sia sopraffatto a meno che la forza degli avversari non sia il triplo della forza di quell’Hobbit.
+  lore: ‘La corda si ruppe!’
+es:
+  title: Cortó Sus Ataduras
+  subtitle: ''
+  text: '**Sigilo.** **Escaramuza:** En los sitios del 1:tower: al 4:tower:, cancela una escaramuza en la que participe un Hobbit. En cualquier otro sitio, prevén a un Hobbit de ser abrumado a no ser que su fuerza sea triplicada.'
+  lore: ¡La cuerda estaba cortada!

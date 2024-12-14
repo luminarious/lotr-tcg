@@ -1,0 +1,15 @@
+set: '17'
+rarity: U
+number: '138'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: You Do Not Know Pain
+  subtitle: ''
+  text: |-
+    Each time you take control of a site, you may spot 3 :urukhai: minions to exert an unbound companion.  
+    **Skirmish:** Liberate a site to make an :urukhai: minion **damage +1**.
+  lore: If the wall is breached, Helm’s Deep will fall.

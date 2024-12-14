@@ -1,0 +1,21 @@
+set: '10'
+rarity: C
+number: '55'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Cirith Ungol Soldier
+  subtitle: ''
+  text: '**Shadow:** Spot a possession to make this minion fierce until the regroup phase. '
+  lore: …not even the black shadows, lying deep where the red glow could not reach, would shield him long from the night-eyed orcs.
+de:
+  title: Soldat aus Cirith Ungol
+  subtitle: ''
+  text: '**Schatten:** Entdecke eine Ausrüstung, um diesen Diener bis zur Sammelphase **erbittert** zu machen.'
+  lore: … nicht einmal die schwarzen Schatten an den tiefen Stellen, zu denen das rote Glühen nicht vordrang, würden ihn lange vor den nachtäugigen Orks schützen.

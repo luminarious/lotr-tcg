@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '42'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Best Company
+  subtitle: ''
+  text: '**Skirmish:** Make a Dwarf strength +2 (or +4 if at a battleground). '
+  lore: An axe swung and swept back. Two Orcs fell headless. The rest fled.
+de:
+  title: Beste Gesellschaft
+  subtitle: ''
+  text: '**Kampf** Gib einem Zwerg Stärke +2 (oder Stärke +4, wenn er sich auf einem Schlachtfeld befindet).'
+  lore: Eine Axt wurde geschwungen und sauste noch einmal nieder. Zwei Orks waren die Köpfe abgeschlagen. Die übrigen flohen.
+fr:
+  title: La Meilleure Compagnie
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force à un Nain (ou +4 s’il se trouve à un champ de bataille).'
+  lore: 'Une hache se balança et revint brutalement. Deux Orques tombèrent, décapités. Les autres s''enfuirent. '
+it:
+  title: La Miglior Compagnia
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Nano (o +4 se è presso un campo di battaglia).'
+  lore: Un'ascia oscillò e cadde. Due Orchi piombarono a terra decapitati. Gli altri fuggirono.
+es:
+  title: La Mejor Compañía
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Enano fuerza +2 (o +4 si está en un campo de batalla).'
+  lore: Un hacha osciló como un péndulo. Dos Orcos cayeron, decapitados. El resto escapó.

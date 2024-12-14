@@ -1,0 +1,35 @@
+set: '1'
+rarity: R
+number: '129'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: The Misadventure of Mr. Underhill
+  subtitle: ''
+  text: |-
+    To play, exert an Uruk-hai.   
+    The twilight cost of each companion played to a site which is not a sanctuary is +2.
+  lore: ‘You're drawing far too much attention to yourself… Mr. Underhill.’
+de:
+  title: Das Missgeschick des Herrn Unterberg
+  subtitle: ''
+  text: Strenge einen Uruk-hai an, um diese Karte in deinen Unterstützungsbereich zu spielen. Die Zwielichtkosten für Gefährten, die nicht an einer Zuflucht gespielt werden, erhöhen sich um 2.
+  lore: Ihr erregt zuviel Aufmerksamkeit… Herr Unterberg.
+fr:
+  title: La Mésaventure de M. Soucolline
+  subtitle: ''
+  text: Pour jouer, affaiblissez un Ourouk-Haï. Le coût crépusculaire de chaque compagnon joué à un site qui n’est pas un sanctuaire est de +2.
+  lore: ‘Vous attirez par trop l'attention sur vous-même … M. Soucolline.’
+it:
+  title: La Disavventura del Signor Sottocolle
+  subtitle: ''
+  text: Per giocarla, sforza un Uruk-hai. Aggiungi +2 al costo crepuscolo di ogni compagno giocato in un sito che non sia un **Rifugio.**
+  lore: ‘Stai attirando troppo l'attenzione su di te… Signor Sottocolle’
+es:
+  title: Las Desventuras del Señor Sotomonte
+  subtitle: ''
+  text: Para jugarla, esfuerza un Uruk-hai. El coste de penumbra de cada compañero jugado en un sitio que no sea un refugio es +2.
+  lore: Estas llamando mucho la atención… Señor Sotomonte.

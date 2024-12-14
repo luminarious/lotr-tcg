@@ -1,0 +1,33 @@
+set: '5'
+rarity: R
+number: '113'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: No Use That Way
+  subtitle: ''
+  text: '**Skirmish:** Add 3 burdens to wound a minion skirmishing a companion who has the Frodo signet twice.'
+  lore: ‘Don't take the Precious to Him!… Keep it, nice master, and be kind to Sméagol.’
+de:
+  title: Keinen Zweck, dieser Weg!
+  subtitle: ''
+  text: '**Kampf** Lege 3 Lastmarken auf den Ringträger, um einen Diener, der gegen einen Gefährten mit dem Frodosiegel kämpft, zweimal zu verwunden.'
+  lore: Bring den Schatz nicht zu Ihm!… Behalte ihn, netter Herr, und sei freundlich zu Sméagol.
+fr:
+  title: C'est Inutile de ce Côté
+  subtitle: ''
+  text: '**Combat :** Ajoutez 3 points-fardeau pour blesser deux fois un séide combattant un compagnon qui possède le sceau Frodon.'
+  lore: 'Ne lui apportez pas le Trésor! … Gardez-le, gentil maître, et soyez bon pour Sméagol.” '
+it:
+  title: Inutile di Qui
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi 3 segnalini fardello per ferire due volte un servitore che sta schermagliando con un compagno che abbia il sigillo di Frodo.'
+  lore: ‘Non portare il Tesoro a Lui!… Tienilo tu, caro padrone, e sii gentile con Sméagol.’
+es:
+  title: Por este lado es inútil
+  subtitle: ''
+  text: '**Escaramuza:** Añade 3 cargas para herir dos veces a un siervo que esté en una escaramuza contra un compañero con el sello de Frodo.'
+  lore: ¡No le lleves a Él el tesoro!… Consérvalo, buen amo, y se bueno con Sméagol.

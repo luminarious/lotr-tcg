@@ -1,0 +1,44 @@
+set: '4'
+rarity: C
+number: '224'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 2
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Easterling Axeman
+  subtitle: ''
+  text: |-
+    **Easterling.**  
+    While you can spot 2 burdens, this minion is strength +3 and **fierce.**
+  lore: Poleaxes wielded by tall Easterling warriors cut through armor and bone.
+de:
+  title: Ostling Axtkämpfer
+  subtitle: ''
+  text: |-
+    **Ostling.**  
+    Solange du 2 Lastmarken entdecken kannst, erhält dieser Diener Stärke +3 und ist **Erbittert.**
+  lore: Langstielige Äxte, die von großen Krieger aus dem Osten geschwungen wurden, schnitten durch Rüstung und Knochen.
+fr:
+  title: Abatteur Oriental
+  subtitle: ''
+  text: |-
+    **Oriental.**  
+    Tant que vous pouvez désigner 2 points-fardeau, ce séide a +3 en force et est **acharné.**
+  lore: Les merlins brandits par les grands guerriers Orientaux coupent autant l'armure que l'os.
+it:
+  title: Uomo d'Ascia Esterling
+  subtitle: ''
+  text: |-
+    **Esterling.**  
+    Mentre puoi avvistare 2 segnalini fardello, questo servitore aggiunge +3 alla forza ed è **Feroce.**
+  lore: Le asce in asta impugnate dagli alti guerrieri Esterling tagliano l'armatura e le ossa.
+es:
+  title: Hachero Oriental
+  subtitle: ''
+  text: '**Oriental.** Mientras puedas avistar 2 cargas, este siervo es fuerza +3 y **fiero.**'
+  lore: Las hachas de asta empuñadas por los altos Orientales cortaban armadura y huesos por igual.

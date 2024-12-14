@@ -1,0 +1,25 @@
+set: '0'
+rarity: W
+number: '12'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 9
+str: '17'
+vit: '5'
+site: 6
+en:
+  title: Army of Sauron
+  subtitle: ''
+  text: |-
+    To play, spot a :sauron: Orc.   
+    **Menace -** When you play this minion make it strength +10.
+  lore: … long-armed crook-legged Orcs. They had a red eye painted on their shields.
+de:
+  title: Armee von Sauron
+  subtitle: ''
+  text: |-
+    Entdecke einen :sauron: Ork, um die Armee von Sauron zu spielen.   
+    **Gefahr -** Wenn du diesen Diener spielst, gib ihm Stärke +10.
+  lore: … long-armed crook-legged Orcs. They had a red eye painted on their shields.

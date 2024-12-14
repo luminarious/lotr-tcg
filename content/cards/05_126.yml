@@ -1,0 +1,42 @@
+set: '5'
+rarity: R
+number: '126'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 7
+str: '14'
+vit: '4'
+site: 4
+en:
+  title: Army of Haradrim
+  subtitle: ''
+  text: |-
+    **Southron.**  
+    **Skirmish:** Remove :twilight3: to play a :raider: mount from your discard pile.
+  lore: Lacking shields and armor, Southron forces rely on speed and numbers.
+de:
+  title: Heer der Haradrim
+  subtitle: ''
+  text: '**Südländer.** **Kampf** Verringere den Einfluss um :twilight3:, um ein :raider: Reittier aus deinem Ablagestapel zu spielen.'
+  lore: Da sie nur leicht gerüstet waren, vertrauten die Südländer auf ihre Anzahl und Schnelligkeit.
+fr:
+  title: Armée des Haradrim
+  subtitle: ''
+  text: |-
+    **Suderon**   
+    **Combat :** Retirez :twilight3: pour jouer une monture :raider: de votre pile de défausse.
+  lore: Faibles du côté des armes et des armures, les forces suderone s'en remettent à leurs nombres et à leur vitesse.
+it:
+  title: Esercito degli Haradrim
+  subtitle: ''
+  text: |-
+    **Sudrone.**   
+    **Schermaglia:** Rimuovi :twilight3: per giocare una cavalcatura :raider: dalla tua pila degli scarti.
+  lore: Non avendo scudi e armature, le forze dei Sudroni si basavano sulla velocità e sul numero.
+es:
+  title: Ejército de Haradrim
+  subtitle: ''
+  text: '**Sureño.** **Escaramuza:** Quita :twilight3: para jugar una montura :raider: de tu pila de descartes.'
+  lore: Faltos de escudos y armaduras, las fuerzas Sureñas dependen de la velocidad y de su número.

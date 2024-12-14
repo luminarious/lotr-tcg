@@ -1,0 +1,25 @@
+set: '7'
+rarity: C
+number: '139'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Easterling Aggressor
+  subtitle: ''
+  text: |-
+    **Easterling.**   
+    **Skirmish:** If you have initiative or you spot 3 Easterlings, discard 2 cards from hand to heal another Easterling.
+  lore: ''
+de:
+  title: Ostling Aggressor
+  subtitle: ''
+  text: |-
+    **Ostling.**   
+    **Kampf:** Wenn du die Initiative besitzt oder 3 Ostlinge entdeckst, lege 2 Karten aus deiner Hand ab, um einen anderen Ostling zu heilen.
+  lore: …während andere nach Westen zogen, um die Streitkräfte von Gondor abzuschneiden…

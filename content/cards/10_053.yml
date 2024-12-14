@@ -1,0 +1,18 @@
+set: '10'
+rarity: U
+number: '53'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Black Marshal
+  subtitle: ''
+  text: '**Shadow:** Exert a Nazgûl and play a :wraith: minion to add :twilight1: (or :twilight2: if you have initiative).'
+  lore: '…at their head was one greater than all the rest: a Rider, all black….'
+de:
+  title: Schwarzer Heerführer
+  subtitle: ''
+  text: '**Schatten:** Strenge einen Nazgûl an und spiele einen :wraith: Diener, um den Einfluss um :twilight1: zu erhöhen (oder um :twilight2:, wenn du die Initiative besitzt).'
+  lore: … an ihrer Spitze war einer, der größer war als alle anderen; ein Reiter, ganz schwarz….

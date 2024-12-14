@@ -1,0 +1,36 @@
+set: '6'
+rarity: R
+number: '101'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '11'
+vit: '3'
+site: 6
+en:
+  title: Gate Picket
+  subtitle: ''
+  text: '**Maneuver:** Exert this minion twice to make the Free Peoples player name 3 cultures. Wound each companion and ally not of a named culture.'
+  lore: Now the watch-towers, which had fallen into decay, were repaired, and filled with arms, and garrisoned with ceaseless vigilance.
+de:
+  title: Torposten
+  subtitle: ''
+  text: '**Manöver:** Strenge diesen Diener zweimal an, um den Freie Völker Spieler zu zwingen, 3 Kulturen zu benennen. Verwunde jeden Gefährten und Verbündeten, der keiner der genannten Kulturen angehört.'
+  lore: Nun wurden die Wachtürme, die verfallen waren, ausgebessert und mit Waffen bestückt und mit unaufhörlicher Wachsamkeit bemannt.
+fr:
+  title: Piquet de la Porte
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez ce séide deux fois pour forcer le joueur des Peuples Libres à nommer 3 cultures. Blessez chaque compagnon et allié qui n’appartient pas à l’une des cultures nommées.'
+  lore: 'À présent, les tours de guet, qui s''étaient délabrées, avaient été remises en état, emplies d''armes et garnies d''hommes avec une constante vigilance. '
+it:
+  title: Picchetto del Cancello
+  subtitle: ''
+  text: '**Manovra:** Sforza due volte questo servitore per far nominare 3 culture al giocatore dei Popoli Liberi. Ferisci ogni compagno e alleato che non sia di una cultura nominata.'
+  lore: Ora le torri di guardia, che stavano cadendo in rovina, erano state riparate e riempite di armi e fornite di forti guarnigioni che vigilavano incessantemente.
+es:
+  title: Piquete de la puerta
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza este siervo dos veces para hacer que el jugador de Gentes Libres nombre 3 culturas. Hiere cada compañero o aliado cuya cultura no haya sido nombrada.'
+  lore: Ahora, las torres de atalaya, en un tiempo ruinosas, habían sido reparadas, y las armas se guardaban allí, y las vigilaban dia y noche.

@@ -1,0 +1,33 @@
+set: '6'
+rarity: R
+number: '96'
+unique: true
+culture: Rohan
+type: Event
+class: Fellowship
+cost: 2
+en:
+  title: News From the Mark
+  subtitle: ''
+  text: '**Fellowship:** Spot 3 mounted :rohan: Men to make the move limit for this turn +2. Each Shadow player may draw 6 cards.'
+  lore: ‘We are friends of Rohan, and of Théoden, your king.’
+de:
+  title: Was gibt es neues in der Mark?
+  subtitle: ''
+  text: '**Gemeinschaft:** Entdecke 3 berittene :rohan: Menschen, um die Bewegungsweite für diesen Spielzug um 2 zu erhöhen. Jeder Schattenspieler darf 6 Karten ziehen.'
+  lore: Wir sind Freunde von Rohan, und Théodens, Eures Königs.
+fr:
+  title: Des Nouvelles de la Marche
+  subtitle: ''
+  text: '**Compagnie :** Désignez 3 Hommes :rohan: détenant des montures pour donner +2 à leur limite de déplacement pour ce tour. Chaque joueur de l’Ombre peut piocher 6 cartes.'
+  lore: 'Nous sommes des amis de Rohan et de Théoden, votre roi.” '
+it:
+  title: Notizie dal Mark
+  subtitle: ''
+  text: '**Compagnia:** Avvista 3 Uomini :rohan: a cavallo per aggiungere +2 al limite dei movimenti per questo turno. Ogni giocatore Ombra può pescare 6 carte.'
+  lore: ‘Siamo amici di Rohan e di Théoden, il tuo re.’
+es:
+  title: Nuevas de la marca
+  subtitle: ''
+  text: '**Comunidad:** Avista 3 Hombres :rohan: para hacer que el límite de movimiento del turno sea +2. Cada jugador de Sombra puede robar 6 cartas.'
+  lore: Somos amigos de Rohan, y de Théoden, tu rey.

@@ -1,0 +1,36 @@
+set: '1'
+rarity: C
+number: '185'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '1'
+site: 4
+en:
+  title: Goblin Warrior
+  subtitle: ''
+  text: 'When you play this minion, you may discard a :dwarven: ally or :dwarven: condition.'
+  lore: The ancient enmity between Goblins and Dwarves burns brightly still.
+de:
+  title: Goblin Krieger
+  subtitle: ''
+  text: 'Wenn du diesen Diener spielst, darfst du einen :dwarven: Verbündeten oder einen :dwarven: Effekt ablegen.'
+  lore: Das Feuer der Feindschaft zwischen Goblins und Zwergen brennt immer noch lichterloh.
+fr:
+  title: Guerrier Gobelin
+  subtitle: ''
+  text: 'Quand vous jouez ce séide, vous pouvez défausser un allié :dwarven: ou une situation :dwarven:.'
+  lore: L'ancienne haine entre Gobelins et Nains brûlent encore intensément.
+it:
+  title: Guerriero Goblin
+  subtitle: ''
+  text: 'Quando giochi questo servitore, puoi scartare un alleato :dwarven: o condizione :dwarven:.'
+  lore: L'antica ostilità tra Goblin e Nani divampa ancora chiaramente.
+es:
+  title: Guerrero Goblin
+  subtitle: ''
+  text: 'Cuando juegas este siervo, puedes descartar un aliado :dwarven: o una condición :dwarven:.'
+  lore: La antigua enemistad entre Goblins y Enanos todavía brilla con fuerza.

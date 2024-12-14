@@ -1,0 +1,33 @@
+set: '15'
+rarity: U
+number: '4'
+unique: true
+culture: Dwarven
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: The Fortunes of Balin’s Folk
+  subtitle: ''
+  text: 'Exert a Dwarf to shuffle a :dwarven: condition with one or more :dwarven: tokens on it into your draw deck. Wound a minion for each :dwarven: token that was on that condition.'
+  lore: ‘It is grim reading…’
+de:
+  title: The Fortunes of Balin's Folk
+  subtitle: ''
+  text: 'Exert a Dwarf to shuffle a :dwarven: condition with one or more :dwarven: tokens on it into your draw deck. Wound a minion for each :dwarven: token that was on that condition.'
+  lore: ‘It is grim reading…’
+fr:
+  title: The Fortunes of Balin's Folk
+  subtitle: ''
+  text: 'Exert a Dwarf to shuffle a :dwarven: condition with one or more :dwarven: tokens on it into your draw deck. Wound a minion for each :dwarven: token that was on that condition.'
+  lore: ‘It is grim reading…’
+it:
+  title: The Fortunes of Balin's Folk
+  subtitle: ''
+  text: 'Exert a Dwarf to shuffle a :dwarven: condition with one or more :dwarven: tokens on it into your draw deck. Wound a minion for each :dwarven: token that was on that condition.'
+  lore: ‘It is grim reading…’
+es:
+  title: The Fortunes of Balin's Folk
+  subtitle: ''
+  text: 'Exert a Dwarf to shuffle a :dwarven: condition with one or more :dwarven: tokens on it into your draw deck. Wound a minion for each :dwarven: token that was on that condition.'
+  lore: ‘It is grim reading…’

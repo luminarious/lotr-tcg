@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '308'
+unique: true
+culture: Shire
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: Knocked on the Head
+  subtitle: ''
+  text: '**Regroup:** Play an unbound Hobbit from your discard pile. '
+  lore: ‘I wonder if poor Merry is much hurt.’
+de:
+  title: Schlag auf den Kopf
+  subtitle: ''
+  text: '**Sammeln:** Spiele einen nicht-verbundenen Hobbit aus deinem Ablagestapel.'
+  lore: Ich wüsste gern, ob der arme Merry schwer verwundet ist.
+fr:
+  title: Un Coup sur la Tête
+  subtitle: ''
+  text: '**Ralliement :** Jouez un Hobbit dissocié de votre pile de défausse.'
+  lore: 'Je me demande si ce pauvre Merry est grièvement atteint.” '
+it:
+  title: Colpito alla Testa
+  subtitle: ''
+  text: '**Raccolta:** Gioca un Hobbit Non Legato dalla tua pila degli scarti.'
+  lore: ‘Chissà se le ferite di Merry sono gravi.’
+es:
+  title: Golpeado En La Cabeza
+  subtitle: ''
+  text: '**Reagrupación:** Juega un Hobbit no-vinculado de tu pila de descartes.'
+  lore: Me pregunto si la herida de Merry será grave.

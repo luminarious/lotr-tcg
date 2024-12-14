@@ -1,0 +1,36 @@
+set: '6'
+rarity: R
+number: '68'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 6
+str: '11'
+vit: '4'
+site: 4
+en:
+  title: Isengard Mechanics
+  subtitle: ''
+  text: '**Regroup:** Discard an :isengard: Orc to make the Free Peoples player wound a companion (or 2 companions if you spot 6 companions). **Regroup:** If this minion is stacked on an :isengard: card, spot an :isengard: Orc and discard this minion to add :twilight3:.'
+  lore: ''
+de:
+  title: Isengart Mechaniker
+  subtitle: ''
+  text: Diener • Ork
+  lore: 'Sammeln: Lege einen ? Ork ab, um den Freie Völker Spieler zu zwingen, einen Gefährten zu verwunden (oder 2 Gefährten, wenn du 6 Gefährten entdeckst). Sammeln: Wenn dieser Diener auf einer ? Karte lagert, entdecke einen ? Ork und lege diesen Diener von dor'
+fr:
+  title: Mécaniciens de l'Isengard
+  subtitle: ''
+  text: '**Ralliement :** Défaussez un Orque :isengard: pour forcer le joueur des Peuples Libres à blesser un compagnon (ou 2 compagnons, si vous désignez 6 compagnons). **Ralliement :** Si ce séide est empilé sur une carte :isengard:, désignez un Orque :isengard: et défaussez ce séide pour ajoute'
+  lore: ''
+it:
+  title: Meccanici di Isengard
+  subtitle: ''
+  text: '**Raccolta:** Scarta un Orco :isengard: per far ferire un compagno al giocatore dei Popoli Liberi (o 2 compagni se avvisti 6 compagni). **Raccolta:** Se questo servitore è impilato su una carta :isengard:, avvista un Orco :isengard: e scarta questo servitore per aggiungere :twilight3:.'
+  lore: ''
+es:
+  title: Mecánicos de Isengard
+  subtitle: ''
+  text: '**Reagrupación:** Descarta un Orco :isengard: para hacer que el jugador de Gentes Libres hiera un compañero (o 2 compañeros si avistas 6 compañeros). **Reagrupación:** Si este siervo está apilado en una carta :isengard:, avista un Orco :isengard: y descarta este siervo para añadir :twilight3:.'
+  lore: ''

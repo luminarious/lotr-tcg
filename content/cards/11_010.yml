@@ -1,0 +1,16 @@
+set: '11'
+rarity: R
+number: '10'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 3
+str: '7'
+vit: '3'
+res: '7'
+en:
+  title: Grimir
+  subtitle: Dwarven Emissary
+  text: '**Response:** If a :dwarven: companion is about to take a wound in a skirmish, discard 2 :dwarven: cards from play (except characters) to prevent that.'
+  lore: ‘…we crave the advice of Elrond. For the Shadow grows and draws nearer.’

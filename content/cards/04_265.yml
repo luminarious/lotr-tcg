@@ -1,0 +1,39 @@
+set: '4'
+rarity: C
+number: '265'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '6'
+vit: '3'
+en:
+  title: Elite Rider
+  subtitle: ''
+  text: |-
+    When this companion is in your starting fellowship, his twilight cost is -1.   
+    While skirmishing a wounded minion, this companion is strength +2. 
+  lore: 'After him they rode: a long line of mail-clad men, swift, shining, fell and fair to look upon.'
+de:
+  title: Elitereiter
+  subtitle: ''
+  text: Wenn dieser Gefährte Teil deiner Anfangs-gemeinschaft ist, reduzieren sich seine Zwielichtkosten um 1. Solange dieser Gefährte gegen einen verwundeten Diener kämpft, erhält er Stärke +2.
+  lore: 'Ihm ritten sie nach: eine große Schar von Männern in Panzerhemden, pfeilgeschwind, schimmernd, schrecklich und schön anzusehen.'
+fr:
+  title: Cavalier d'Élite
+  subtitle: ''
+  text: Lorsque ce compagnon fait partie de votre compagnie de départ, son coût crépusculaire est de -1. Ce compagnon a +2 en force s’il combat un séide blessé.
+  lore: 'Tous le suivirent: longue file d''homme en cotte de mailles, rapides, reluisants, terribles et beaux à voir. '
+it:
+  title: Cavaliere d'Elite
+  subtitle: ''
+  text: |-
+    Quando questo compagno è nella tua compagnia di partenza, sottrai -1 al suo costo **Crepuscolo.**  
+    Mentre schermaglia con un servitore ferito, aggiungi +2 alla forza di questo compagno.
+  lore: Dietro di lui in una lunga fila galoppavano Uomini abbigliati di cotte di maglia, veloci, brillanti, al tempo stesso belli e crudeli nell'aspetto.
+es:
+  title: Jinete De Élite
+  subtitle: ''
+  text: Cuando este compañero está en tu comunidad inicial, su coste de penumbra es -1. Mientras esté en una escaramuza contra un siervo herido, este compañero es fuerza +2.
+  lore: 'Los otros lo siguieron: una larga fila de hombres en cota de malla, rápidos, resplandecientes, terribles y hermosos.'

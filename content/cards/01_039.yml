@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '39'
+unique: true
+culture: Elven
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Elf-song
+  subtitle: ''
+  text: '**Fellowship:** Spot an Elf to remove a burden.'
+  lore: …the beauty of the melodies and of the interwoven words in elven-tongues, even though he understood them little, held him in a spell, as soon as he began to attend to them.
+de:
+  title: Elbenlied
+  subtitle: ''
+  text: '**Gemeinschaft.** Entdecke einen Elben, um eine Lastmarke zu entfernen.'
+  lore: Zuerst bezauberten ihn die Schönheit der Melodien und die eingeflochtenen Wörter in der Elbensprache, obwohl er sie kaum verstand, sobald er begonnen hatte, aufzumerken.
+fr:
+  title: Chant Elfique
+  subtitle: ''
+  text: '**Compagnie :** Désignez un Elfe pour retirer un point-fardeau.'
+  lore: …la beauté des mélodies et les mots entrelacés en langues elfiques, même s'il les comprenait peu, le tinrent sous le charme aussitôt qu'il eut commencé d'y prêter attention.
+it:
+  title: Canzone Elfica
+  subtitle: ''
+  text: '**Compagnia:** Avvista un Elfo per rimuovere un segnalino fardello.'
+  lore: …sulle prime la bellezza delle melodie intrecciate alle parole di lingua elfica lo avvolse come un incantesimo, benché egli non capisse molto di ciò che veniva cantato.
+es:
+  title: Canción Élfica
+  subtitle: ''
+  text: '**Comunidad:** Avista un Elfo para quitar una carga.'
+  lore: …la belleza de las melodías y de las palabras entrelazadas en lengua élfica, aunque entendía poco, obraron sobre el cómo un encantamiento.

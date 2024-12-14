@@ -1,0 +1,36 @@
+set: '1'
+rarity: R
+number: '240'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '12'
+vit: '3'
+site: 6
+en:
+  title: Band of the Eye
+  subtitle: ''
+  text: '**Response:** If this minion wins a skirmish, remove :twilight2: to make the Free Peoples player discard a card at random from hand.'
+  lore: Far more Orcs has Sauron bred in the pits under Barad-dûr than Saruman could ever imagine.
+de:
+  title: Schar des einen Auges
+  subtitle: ''
+  text: '**Reaktion:** Wenn dieser Diener einen Kampf gewinnt, verringere den Einfluss um :twilight2:, um den Freie Völker Spieler zu zwingen eine zufällig bestimmte Karte aus seiner Hand abzulegen.'
+  lore: Sauron hat weit mehr Orks in den Höhlen unter Barad-dûr gezüchtet, als sich Saruman je vorstellen könnte.
+fr:
+  title: Troupe de l'*il
+  subtitle: ''
+  text: '**Réponse :** Si ce séide remporte un combat, retirez :twilight2: pour obliger le joueur des Peuples Libres à défausser une carte au hasard de sa main.'
+  lore: Sauron a élevé beaucoup plus d'Orques dans ses puits sous Barad-dûr que Saroumane ne pourra jamais l'imaginer.
+it:
+  title: Banda Dell'Occhio
+  subtitle: ''
+  text: '**Risposta:** Se questo servitore vince una schermaglia, rimuovi :twilight2: per far scartare al giocatore dei Popoli Liberi una carta a caso dalla mano.'
+  lore: Sauron ha generato negli abissi sotto Barad-dûr molti più Orchi di quanti Saruman potrebbe mai immaginare.
+es:
+  title: Banda del Ojo
+  subtitle: ''
+  text: '**Respuesta:** Si este siervo gana una escaramuza, quita :twilight2: para hacer que el jugador de Gentes Libres descarte una carta al azar de su mano.'
+  lore: Mas Orcos ha criado Sauron en los pozos bajo Barad-dûr de los que Saruman nunca podría imaginar.

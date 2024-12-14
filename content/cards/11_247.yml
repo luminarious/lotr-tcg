@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '247'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Moria Guardroom
+  subtitle: ''
+  text: '**Underground.** When your fellowship moves from this site, you may spot a Dwarf to draw 2 cards. '
+  lore: ''
+de:
+  title: Moria Wachstube
+  subtitle: ''
+  text: '**Unterirdisch.** Wenn sich die Gemeinschaft von hier fortbewegt, darfst du einen Zwerg entdecken, um 2 Karten zu ziehen.'
+  lore: ''

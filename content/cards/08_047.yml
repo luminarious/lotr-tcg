@@ -1,0 +1,22 @@
+set: '8'
+rarity: C
+number: '47'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Stronger and More Terrible
+  subtitle: ''
+  text: |-
+    To play, add a threat.   
+    Each time your :gondor: Wraith wins a skirmish, you may remove a threat.
+  lore: ‘And lo! in the darkness of Mordor my hope rose….’
+de:
+  title: Stärker und schrecklicher
+  subtitle: ''
+  text: |-
+    Lasse eine Bedrohung entstehen, um diesen Effekt zu spielen.   
+    Jedes Mal, wenn eines deiner :gondor: Gespenster einen Kampf gewinnt, darfst du eine Bedrohung entfernen.
+  lore: Und siehe! in der Dunkelheit von Mordor wuchs meine Hoffnung….

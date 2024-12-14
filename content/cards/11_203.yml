@@ -1,0 +1,23 @@
+set: '11'
+rarity: C
+number: '203'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Swarming Uruk
+  subtitle: ''
+  text: '**Damage +1.** While you can spot another :urukhai: minion assigned to a skirmish, this minion cannot take wounds.'
+  lore: Like pack animals, the Uruk-hai find strength in numbers.
+de:
+  title: Uruk Schwarm
+  subtitle: ''
+  text: |-
+    **Schaden +1**.  
+    Solange du einen anderen :urukhai: Diener entdecken kannst, der einem Kampf zugewiesen ist, kann dieser Diener keine Wunden erleiden.
+  lore: Wie ein Rudel Tiere sind die Uruk-hai in der Masse stark.

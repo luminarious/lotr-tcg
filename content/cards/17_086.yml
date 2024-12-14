@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '86'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '7'
+vit: '4'
+site: 4
+en:
+  title: Orkish Veteran
+  subtitle: ''
+  text: |-
+    Each time you play an :orc: mount, you may reinforce an :orc: token.  
+    **Regroup:** Exert Orkish Veteran to make the Free Peoples player wound a companion.
+  lore: Skin as dark as wood that has been charred by flame.

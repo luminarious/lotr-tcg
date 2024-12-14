@@ -1,0 +1,27 @@
+set: '5'
+rarity: R
+number: '56'
+unique: true
+culture: Isengard
+type: Minion
+race: Wizard
+cost: 4
+str: '8'
+vit: '4'
+site: 4
+en:
+  title: Saruman
+  subtitle: Master of Foul Folk
+  text: |-
+    Saruman may not take wounds during the archery phase and may not be assigned to a skirmish.   
+    Each time the fellowship moves, you may heal each :isengard: Orc twice.   
+    **Shadow:** Exert Saruman to play an :isengard: possession from your discard pile.
+  lore: ''
+fr:
+  title: Saroumane
+  subtitle: Maître du Peuple Infect
+  text: |-
+    Saroumane ne peut pas être blessé pendant la phase d’archerie et ne peut pas être affecté au combat.   
+    Chaque fois que la compagnie se déplace, vous pouvez guérir deux fois chaque Orque :isengard:.   
+    **Ombre :** Affaiblissez Saroumane pour jouer une possession :isengard: de votre pile de défausse.
+  lore: ''

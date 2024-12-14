@@ -1,0 +1,16 @@
+set: '7'
+rarity: R
+number: '180'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 5
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Gorbag
+  subtitle: Lieutenant of Cirith Ungol
+  text: While you can spot a Nazgûl, Gorbag is strength +2 and **damage +1**.
+  lore: ‘If there’s any game, me and my lads must be in it.’

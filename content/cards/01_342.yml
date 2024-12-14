@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '342'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Right
+en:
+  title: Rivendell Waterfall
+  subtitle: ''
+  text: '**Forest.** **Sanctuary.** While you can spot a ranger at Rivendell Waterfall, the move limit is +1 for this turn.'
+  lore: ''
+de:
+  title: Der Wasserfall von Bruchtal
+  subtitle: ''
+  text: '**Wald.** **Zuflucht.** Solange du hier einen Waldläufer entdecken kannst, erhöht sich deine Bewegungsweite für diesen Spielzug um 1.'
+  lore: ''
+fr:
+  title: Chute de Fondcombe
+  subtitle: ''
+  text: '**Forêt.** **Sanctuaire.** Si vous pouvez désigner un rôdeur à la Chute de Fondcombe, la limite de déplacement est de +1 pour ce tour.'
+  lore: ''
+it:
+  title: Cascate di Gran Burrone
+  subtitle: ''
+  text: '**Foresta.** **Rifugio.** Finché puoi avvistare un Ramingo alle Cascate di Gran Burrone, aggiungi +1 al limite dei movimenti per questo turno.'
+  lore: ''
+es:
+  title: Catarata de Rivendel
+  subtitle: ''
+  text: '**Bosque.** Refugio. Mientras puedas avistar un montaraz en la Catarata de Rivendel, el límite de movimiento para este turno es +1.'
+  lore: ''

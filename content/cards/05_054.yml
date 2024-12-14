@@ -1,0 +1,36 @@
+set: '5'
+rarity: U
+number: '54'
+unique: true
+culture: Isengard
+type: Possession
+class: Hand Weapon
+cost: 0
+str: '+2'
+en:
+  title: Isengard Scimitar
+  subtitle: ''
+  text: |-
+    Bearer must be an :isengard: Orc.  
+    When you play this weapon, you may add :twilight1: for each site you control.
+  lore: Orcs from Isengard favor a short, curved sword when mounted.
+de:
+  title: Isengart Krummsäbel
+  subtitle: ''
+  text: 'Muss auf einen :isengard: Ork gespielt werden. Wenn du diese Waffe spielst, darfst du den Einfluss für jeden Ort, den du kontrollierst, um:twilight1: erhöhen.'
+  lore: Die Orks aus Isengart bevorzugten kurze, geschwungene Schwerter, wenn sie beritten waren.
+fr:
+  title: Cimeterre de l'Isengard
+  subtitle: ''
+  text: 'Le détenteur doit être un Orque :isengard:. Quand vous jouez cette arme, vous pouvez ajouter :twilight1: pour chaque site que vous contrôlez.'
+  lore: Les Orques de l'Isengard préfèrent une épée courte et recourbée lorsqu'ils chevauchent.
+it:
+  title: Scimitarra di Isengard
+  subtitle: ''
+  text: 'Il possessore deve essere un Orco :isengard:. Quando giochi quest’arma, puoi aggiungere:twilight1: per ogni sito che controlli.'
+  lore: Gli Orchi di Isengard, quando cavalcano, preferiscono una spada corta e incurvata.
+es:
+  title: Cimitarra de Isengard
+  subtitle: ''
+  text: 'El portador debe ser un Orco :isengard:. Cuando juegas este arma, puedes añadir :twilight1: por cada sitio que controles.'
+  lore: Los Orcos de Isengard prefieren una espada corta y curva cuando están montados.

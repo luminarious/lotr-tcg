@@ -1,0 +1,22 @@
+set: '7'
+rarity: U
+number: '328'
+unique: true
+culture: Shire
+type: Condition
+cost: 2
+en:
+  title: Slow-kindled Courage
+  subtitle: ''
+  text: |-
+    Bearer must be Merry or Pippin.   
+    Each minion gains this ability: "**Assignment:** Assign this minion to bearer of Slow-kindled Courage.” **Regroup:** Discard this condition to discard a minion and remove 2 burdens.
+  lore: ''
+de:
+  title: Aufkeimende Tapferkeit
+  subtitle: ''
+  text: |-
+    Muss auf Merry oder Pippin gespielt werden.   
+    Alle Diener erhalten: "**Zuweisung:** Weise diesen Diener dem Träger der Aufkeimenden Tapferkeit zu".   
+    **Sammeln:** Lege diesen Effekt ab, um einen Diener abzulegen und 2 Lastmarken zu entfernen.
+  lore: ''

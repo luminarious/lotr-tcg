@@ -1,0 +1,36 @@
+set: '5'
+rarity: C
+number: '99'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '2'
+site: 6
+en:
+  title: Gate Veteran
+  subtitle: ''
+  text: When you play this minion, you may exert him and spot 6 companions to draw a card.
+  lore: …the day-guards, evil-eyed and fell, were marching to their posts.
+de:
+  title: Erfahrene Torwache
+  subtitle: ''
+  text: Wenn du diesen Diener spielst, darfst du ihn anstrengen und 6 Gefährten entdecken, um eine Karte zu ziehen.
+  lore: … und die Tagwachen, bösäugig und grausam, zogen auf ihre Posten.
+fr:
+  title: Vétéran de la Porte
+  subtitle: ''
+  text: Quand vous jouez ce séide, vous pouvez l’affaiblir et désigner 6 compagnons pour piocher une carte.
+  lore: '… les féroces gardes de jour, aux yeux néfastes, se rendaient à leurs postes. '
+it:
+  title: Veterano del Cancello
+  subtitle: ''
+  text: Quando giochi questo servitore, puoi sforzarlo e avvistare 6 compagni per pescare una carta.
+  lore: …le guardie di giorno, dallo sguardo crudele e malvagio, si recavano ai loro posti.
+es:
+  title: Veterano de la puerta
+  subtitle: ''
+  text: Cuando juegas este siervo, puedes esforzarlo y avistar 6 compañeros para robar una carta.
+  lore: … Y los guardias diurnos, malignos y feroces, venían a ocupar sus puestos.

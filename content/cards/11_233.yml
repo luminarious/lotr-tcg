@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '233'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Right
+en:
+  title: Chamber of Mazarbul
+  subtitle: ''
+  text: '**Underground.** The Free Peoples player may transfer Free Peoples artifacts and possessions at no twilight cost. '
+  lore: ''
+de:
+  title: Die Kammer von Mazarbul
+  subtitle: ''
+  text: '**Unterirdisch.** Der Freie Völker Spieler darf Artefakte und Aus-rüstungen der Freien Völker ohne Zwielichtkosten verschieben.'
+  lore: ''

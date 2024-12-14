@@ -1,0 +1,18 @@
+set: '11'
+rarity: C
+number: '13'
+unique: true
+culture: Dwarven
+type: Event
+class: Response
+cost: 1
+en:
+  title: On Guard
+  subtitle: ''
+  text: 'If a Dwarf who has resistance 3 or more is about to take a wound, prevent that. '
+  lore: ‘Well, here’s one Dwarf she won't ensnare so easily.’
+de:
+  title: Wachsam
+  subtitle: ''
+  text: Wenn ein Zwerg mit Resistenz 3 oder mehr im Begriff ist, eine Wunde zu erleiden, verhindere diese.
+  lore: Immerhin ist hier ein Zwerg. Und den kann sie nicht so leicht umgarnen.

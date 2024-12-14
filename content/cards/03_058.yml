@@ -1,0 +1,36 @@
+set: '3'
+rarity: U
+number: '58'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 3
+str: '7'
+vit: '3'
+site: 4
+en:
+  title: Isengard Servant
+  subtitle: ''
+  text: '**Regroup:** Exert this minion to make the Free Peoples player wound a companion. '
+  lore: The servants of Isengard worked tirelessly to spread the influence of their master.
+de:
+  title: Isengart Sklave
+  subtitle: ''
+  text: '**Sammeln:** Strenge diesen Diener an, um den Freie Völker Spieler zu zwingen, einen Gefährten zu verwunden.'
+  lore: Die Sklaven Isengarts schufteten unermüdlich, um den Einfluss ihres Meisters zu vergrößern.
+fr:
+  title: Serviteur de l'Isengard
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez ce séide pour obliger le joueur des Peuples Libres à blesser un compagnon.'
+  lore: Les serviteurs de l'Isengard travaillaient sans répit pour étendre l'influence de leur maître.
+it:
+  title: Servo di Isengard
+  subtitle: ''
+  text: '**Raccolta:** Sforza questo servitore per far ferire al giocatore dei Popoli Liberi un compagno.'
+  lore: I servitori di Isengard lavoravano senza fermarsi per diffondere l'influenza del loro signore.
+es:
+  title: Servidor de Isengard
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza este siervo para hacer que el jugador de Gentes Libres hiera un compañero.'
+  lore: Los servidores de Isengard trabajaron sin descanso para expandir el poder de su amo.

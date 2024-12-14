@@ -1,0 +1,37 @@
+set: '1'
+rarity: U
+number: '159'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Uruk-hai Rampage
+  subtitle: ''
+  text: |-
+    To play, spot an Uruk-hai.   
+    **Response:** If your Uruk-hai wins a skirmish, remove :twilight3: to make him **fierce** until the regroup phase.
+  lore: Victory breeds rage in Saruman’s foul creations.
+de:
+  title: Tobende Uruk-hai
+  subtitle: ''
+  text: 'Entdecke einen Uruk-hai, um diese Karte in deinen Unterstützungsbereich zu spielen. **Reaktion:** Wenn einer deiner Uruk-hai einen Kampf gewinnt, kannst du den Einfluss um :twilight3: verringern, um diesen Uruk-hai bis zur Sammelphase **Erbittert** zu machen.'
+  lore: Der Sieg entbrennt rasende Wut in Sarumans bösen Geschöpfen.
+fr:
+  title: Frénésie Ourouk-Haï
+  subtitle: ''
+  text: 'Pour jouer, désignez un Ourouk-Haï. **Réponse :** Si votre Ourouk-Haï remporte un combat, retirez :twilight3: pour le rendre **acharné** jusqu’à la phase de ralliement.'
+  lore: La victoire fait naître la fureur chez les créatures répugnantes de Saroumane.
+it:
+  title: Furore Uruk-hai
+  subtitle: ''
+  text: |-
+    Per giocarla, avvista un Uruk-hai. Giocala nella tua area di supporto.  
+    **Risposta:** Se un tuo Uruk-hai vince una schermaglia, rimuovi :twilight3: per renderlo **Feroce** fino alla fase di raccolta.
+  lore: La vittoria suscita ardore nelle ripugnanti creature di Saruman.
+es:
+  title: Alboroto Uruk-hai
+  subtitle: ''
+  text: 'Para jugarla, avista un Uruk-hai. **Respuesta:** Si tu Uruk-hai gana una escaramuza, quita :twilight3: para darle **fiero** hasta la fase de reagrupación.'
+  lore: La victoria proporciona rabia a las creaciones de Saruman.

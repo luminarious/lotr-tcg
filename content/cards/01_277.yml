@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '277'
+unique: true
+culture: Sauron
+type: Event
+class: Shadow
+cost: 1
+en:
+  title: Shadow's Reach
+  subtitle: ''
+  text: '**Shadow:** Exert a :sauron: Orc to discard a Free Peoples condition.'
+  lore: ‘Is it secret? Is it safe?’
+de:
+  title: Der lange Arm des Schattens
+  subtitle: ''
+  text: '**Schatten:** Strenge einen :sauron: Ork an, um einen Freie Völker Effekt abzulegen.'
+  lore: Ist er versteckt? Ist er sicher?
+fr:
+  title: L'Emprise de l'Ombre
+  subtitle: ''
+  text: 'Ombre : Affaiblissez un Orque :sauron: pour défausser une situation des Peuples Libres.'
+  lore: ‘Est-il caché ? Est-il en sécurité ?’
+it:
+  title: Portata dell'Ombra
+  subtitle: ''
+  text: '**Ombra:** Sforza un Orco :sauron: per scartare una condizione dei Popoli Liberi.'
+  lore: ‘È nascosto? È in salvo?’
+es:
+  title: El Alcance de La Sombra
+  subtitle: ''
+  text: '**Sombra:** Esfuerza un Orco :sauron: para descartar una condición de Gentes Libres.'
+  lore: ¿Esta en un lugar secreto? ¿Esta seguro?

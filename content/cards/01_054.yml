@@ -1,0 +1,37 @@
+set: '1'
+rarity: U
+number: '54'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Mallorn-trees
+  subtitle: ''
+  text: |-
+
+    **Fellowship:** Reveal an :elven: card from hand and place it beneath your draw deck.
+  lore: Upon the further side there rose to a great height a green wall encircling a green hill thronged with mallorn-trees taller than any they had yet seen in all the land.
+de:
+  title: Mallornbäume
+  subtitle: ''
+  text: '**Gemeinschaft.** Zeige eine :elven: Karte aus deiner Hand offen vor und lege sie unter dein Spieldeck.'
+  lore: Auf der anderen Seite erhob sich zu großer Höhe eine grüne Mauer; sie umgab einen Berg, der dicht mit Mallornbäumen, größer als alle, die sie bisher in diesem Land gesehen hatten, bestanden war.
+fr:
+  title: Mallorne
+  subtitle: ''
+  text: '**Compagnie :** Révélez une carte :œ: de votre main et placez-la sous votre pioche.'
+  lore: De l'autre côté, s'élevait à une grande hauteur un mur vert, qui entourait une colline verte couverte de mallornes plus hauts que tous ceux qu'ils avaient pu voir dans tout le pays.
+it:
+  title: Alberi di Mallorn
+  subtitle: ''
+  text: |-
+    Giocala nella tua area di supporto.  
+    **Compagnia:** Mostra una carta :elven: dalla mano e ponila sotto il tuo mazzo di gioco.
+  lore: Ancor oltre, si ergeva alto un verde muro che circondava un verde colle ove si affollavano gli alberi d'oro più imponenti che avessero visto in tutto il paese.
+es:
+  title: Árboles Mallorn
+  subtitle: ''
+  text: '**Comunidad:** Revela una carta :elven: de tu mano y colócala bajo tu mazo de robar.'
+  lore: A la izquierda había una loma cubierta con una alfombra de hierba… Encima, como una corona doble, crecían dos círculos de árboles… los del interior eran Mallorn de gran altura…

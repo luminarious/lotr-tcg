@@ -1,0 +1,27 @@
+set: '7'
+rarity: R
+number: '164'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Southron Conquerer
+  subtitle: ''
+  text: |-
+    **Southron.** **Archer.**   
+    While you can spot 6 twilight tokens, other :raider: Men are **damage +1**.   
+    While you can spot 9 twilight tokens, other :raider: Men are **damage +1**.
+  lore: ''
+de:
+  title: Südländischer Eroberer
+  subtitle: ''
+  text: |-
+    **Südländer.** **Bogenschütze.**   
+    Solange du einen Einfluss von 6 entdecken kannst, erhalten andere :raider: Menschen **Schaden +1**.   
+    Solange du einen Einfluss von 9 entdecken kannst, erhalten andere :raider: Menschen **Schaden +1**.
+  lore: …stürmte eine Schar des Feindes nach der anderen… an.

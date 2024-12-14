@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '105'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Under the Living Earth
+  subtitle: ''
+  text: '**Skirmish:** Make Gandalf strength +1 for each twilight token you spot (limit +5). '
+  lore: ‘Thither I came at last, to the uttermost foundations of stone. He was with me still.’
+de:
+  title: Unter der lebendigen Erde
+  subtitle: ''
+  text: '**Kampf** Entdecke einen Einfluss von X, um Gandalf Stärke +X zu geben (maximal +5).'
+  lore: Dorthin kam ich zuletzt, zum äußersten Grund des Gesteins. Er war noch bei mir.
+fr:
+  title: En Dessous de la Terre Vivante
+  subtitle: ''
+  text: '**Combat :** Donnez +1 en force à Gandalf pour chaque jeton-crépuscule que vous désignez (limite de 5).'
+  lore: 'Je finis par y toucher, aux fondements les plus reculés de la pierre. Il était toujours avec moi.” '
+it:
+  title: Nelle Viscere della Terra
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +1 alla forza di Gandalf per ogni segnalino crepuscolo che avvisti (limite +5).'
+  lore: ‘Ivi giunsi infine, nelle estreme fondamenta della pietra. E lui era ancora con me.’
+es:
+  title: Bajo La Tierra Viviente
+  subtitle: ''
+  text: '**Escaramuza:** Da a Gandalf fuerza +1 por cada contador de penumbra que puedas avistar (límite +5).'
+  lore: Al fin llegué allí, a las más extremas fundaciones de piedra. Él estaba todavía conmigo.

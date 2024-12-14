@@ -1,0 +1,36 @@
+set: '5'
+rarity: R
+number: '103'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Orc Captain
+  subtitle: ''
+  text: 'When you play this minion, you may spot a :sauron: condition to draw a card for each site you control (limit 3).'
+  lore: …far away from hidden holds and outposts in the hills came answering calls….
+de:
+  title: Hauptmann der Orks
+  subtitle: ''
+  text: 'Wenn du diesen Diener spielst, darfst du einen :sauron: Effekt entdecken, um für jeden Ort, den du kontrollierst, eine Karte zu ziehen (maximal 3).'
+  lore: … und in der Ferne antworteten Fanfaren aus verborgenen Festungen und Vorposten in den Bergen….
+fr:
+  title: Capitaine Orque
+  subtitle: ''
+  text: 'Quand vous jouez ce séide, vous pouvez désigner une situation :sauron: pour piocher une carte pour chaque site que vous contrôlez (limite de 3).'
+  lore: '… au loin, de redoutes et d''avant-postes cachés dans les collines, montèrent des sonneries de réponse… '
+it:
+  title: Capitano Orco
+  subtitle: ''
+  text: 'Quando giochi questo servitore, puoi avvistare una condizione :sauron: per pescare una carta per ogni sito che controlli (limite 3).'
+  lore: …lontane risposte giungevano da fortezze ed avamposti nascosti nei colli…
+es:
+  title: Capitán Orco
+  subtitle: ''
+  text: 'Cuando juegas este siervo, puedes avistar una condición :sauron: para robar una carta por cada sitio que controles (límite 3).'
+  lore: …desde las fortalezas y avanzadas ocultas en las montañas, llegaban las respuestas…

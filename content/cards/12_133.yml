@@ -1,0 +1,21 @@
+set: '12'
+rarity: S
+number: '133'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 2
+str: '4'
+vit: '4'
+res: '8'
+en:
+  title: Tolman Cotton
+  subtitle: Farmer of Bywater
+  text: '**Response:** If a burden is about to be added by a Shadow card, spot another Hobbit and exert Tolman Cotton to prevent that.'
+  lore: The land was rich and kindly, and though it had been long deserted when they entered it, it had before been well tilled….
+de:
+  title: Tolman Hüttinger
+  subtitle: Bauer aus Wasserau
+  text: '**Reaktion:** Entdecke einen anderen Hobbit und strenge Tolman Hüttinger an, wenn eine Schattenkarte eine Lastmarke auf den Ringträger legen würde, um dies zu verhindern.'
+  lore: Das Land war reich und fruchtbar, und obwohl es vor ihrer Ankunft lange brachgelegen hatte, war es einst gut bestellt gewesen….

@@ -1,0 +1,36 @@
+set: '1'
+rarity: U
+number: '301'
+unique: true
+culture: Shire
+type: Ally
+race: Hobbit
+cost: 1
+str: '2'
+vit: '2'
+site: '1'
+en:
+  title: Master Proudfoot
+  subtitle: Distant Relative of Bilbo
+  text: '**Fellowship:** If the twilight pool has fewer than 3 twilight tokens, add :twilight2: to reveal the top 3 cards of your draw deck. Take all :shire: cards revealed into hand and discard the rest.'
+  lore: His name, of course, was Proudfoot, and well merited; his feet were large, exceptionally furry….
+de:
+  title: Meister Stolzfuß
+  subtitle: Verwandter von Bilbo
+  text: '**Gemeinschaft.** Wenn der Einfluss weniger als 3 beträgt, erhöhe ihn um :twilight2:, um die 3 obersten Karten deines Spieldecks aufzudecken. Nimm alle aufgedeckte :shire: Karten in deine Hand und lege die übrigen ab.'
+  lore: Sein Name war natürlich Stolzfuß und wohlverdient; seine Füsse waren groß und aussergewöhnlich pelzig…
+fr:
+  title: Maître Fierpied
+  subtitle: Parent Éloigné de Bilbon
+  text: '**Compagnie :** Si la réserve crépusculaire a moins de 3 jetons-crépuscule, ajoutez :twilight2: pour révéler les 3 premières cartes de votre pioche. Prenez en main toutes les cartes :shire: révélées et défaussez les autres.'
+  lore: 'Il s''appelait Fierpied, bien entendu, et il méritait bien son nom: ses pieds étaient grands, exceptionnellement velus….'
+it:
+  title: Signor Tronfipiede
+  subtitle: Parente alla Lontana di Bilbo
+  text: '**Compagnia:** Se la zona del crepuscolo ha meno di 3 segnalini crepuscolo, aggiungi :twilight2: per mostrare le prime 3 carte del tuo mazzo di gioco. Aggiungi alla mano tutte le carte :shire: mostrate e scarta il resto.'
+  lore: 'Il suo cognome era beninteso Tronfipiede, e a buon diritto: i suoi piedi erano enormi, straordinariamente pelosi…'
+es:
+  title: Maestro Ganapié
+  subtitle: Familiar Distante de Bilbo
+  text: '**Comunidad:** Si el Fondo de Penumbra tiene menos de 3 contadores de penumbra, añade :twilight2: para revelar las 3 cartas superiores de tu mazo de robar. Coge todas las cartas :shire: reveladas a tu mano y descarta el resto.'
+  lore: Tenia en verdad el nombre que merecía. Los pies, que había puesto sobre la mesa, eran grandes y excepcionalmente velludos.

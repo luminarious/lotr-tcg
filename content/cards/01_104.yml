@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '104'
+unique: true
+culture: Gondor
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Eregion's Trails
+  subtitle: ''
+  text: '**Maneuver:** Exert a ranger to make each roaming minion strength -3 until the regroup phase.'
+  lore: Guided by Aragorn they struck a good path. It looked to Frodo like the remains of an ancient road, that had once been broad and well planned….
+de:
+  title: Eregions Pfade
+  subtitle: ''
+  text: '**Manöver:** Strenge einen Waldläufer an, um allen wandernden Dienern bis zur Sammelphase Stärke -3 zu geben.'
+  lore: Unter Führung von Aragorn fanden sie einen guten Weg. Frodo kam es vor, als sei er ein Überbleibsel einer alten Strasse…, die einst breit und gut angelegt gewesen war.
+fr:
+  title: Les Pistes d'Eregion
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un rôdeur pour donner à chaque séide errant -3 en force jusqu’à la phase de ralliement.'
+  lore: Guidés par Aragorn, ils trouvèrent un bon sentier. Il sembla à Frodon que c'étaient les restes d'une ancienne route, qui avait été large et bien tracée….
+it:
+  title: Sentieri di Eregion
+  subtitle: ''
+  text: '**Manovra:** Sforza un Ramingo per sottrarre -3 alla forza di ogni servitore vagante fino alla fase di raccolta.'
+  lore: Sotto la guida di Aragorn si avviarono per un buon sentiero, che a Frodo parve di un'antica strada in passato ampia e ben progettata….
+es:
+  title: Los Senderos de Eregion
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un montaraz para que cada siervo que este vagando tenga fuerza -3 hasta la fase de reagrupación.'
+  lore: Guiados por Aragorn encontraron un buen sendero. Le pareció a Frodo que eran los restos de un antiguo camino, en otro tiempo ancho y bien trazado…

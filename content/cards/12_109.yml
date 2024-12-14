@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '109'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Challenging the Orc-host
+  subtitle: ''
+  text: 'Make a :rohan: companion strength +2 (or +1 for each minion you can spot if that companion has resistance 5 or more).'
+  lore: ‘…we overtook the Orcs at nightfall two days ago, near to the borders of the Entwood. There we surrounded them, and gave battle….’
+de:
+  title: Das Heer der Orks fordern
+  subtitle: ''
+  text: 'Gib einem :rohan: Gefährten Stärke +2 (oder Stärke +1 für jeden Diener, den du entdecken kannst, wenn dieser Gefährte Resistenz 5 oder mehr hat).'
+  lore: … vor zwei Tagen holten wir die Orks bei Einbruch der Nacht in der Nähe des Entwalds ein. Dort um-zingelten wir sie und lieferten ihnen… eine Schlacht.

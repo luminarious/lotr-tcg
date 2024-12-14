@@ -1,0 +1,23 @@
+set: '13'
+rarity: R
+number: '8'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Subterranean Homestead
+  subtitle: ''
+  text: |-
+    To play, exert 2 Dwarves.  
+    When you play this, add a :dwarven: token here for each mountain site and each underground site on the adventure path.  
+    **Skirmish:** Discard this from play or remove 2 tokens from here to make a Shadow player discard the top card of his or her draw deck.
+  lore: ''
+de:
+  title: Unterirdische Heimstätte
+  subtitle: ''
+  text: |-
+    Strenge 2 Zwerge an, um diesen Effekt zu spielen. Lege eine :dwarven: Marke für jedes Gebirge und jeden unterirdischen Ort auf dem Abenteuerpfad auf diese Karte, wenn du sie spielst.  
+    **Kampf:** Lege diesen Effekt ab oder entferne hier 2 Marken, um den Schattenspieler zu zwingen, die oberste Karte seines Spieldecks abzulegen.
+  lore: ''

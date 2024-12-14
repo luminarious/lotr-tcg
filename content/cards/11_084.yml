@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '84'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '2'
+site: 4
+en:
+  title: Harad Standard-bearer
+  subtitle: ''
+  text: '**Skirmish:** Remove :twilight3: to make this minion **Damage +1.** '
+  lore: The strange craftsmen of Haradwaith fashion their war banners from woven wood.
+de:
+  title: Harad Standartenträger
+  subtitle: ''
+  text: '**Kampf:** Verringere den Einfluss um :twilight3: um diesem Diener **Schaden +1** zu geben. '
+  lore: Die Banner aus Weit-Harad sind aus verwobenem Holz gefertigt.

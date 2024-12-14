@@ -1,0 +1,16 @@
+set: '17'
+rarity: R
+number: '105'
+unique: true
+culture: Sauron
+type: Artifact
+class: Support Area
+cost: 2
+en:
+  title: Throne of the Dark Lord
+  subtitle: ''
+  text: |-
+    To play, spot 2 minions.  
+    While you can spot Sauron, each other minion is **damage +1**.  
+    While the fellowship is in the same region as Mount Doom, each companion is resistance -2.
+  lore: One for the Dark Lord on his dark throne.

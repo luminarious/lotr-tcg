@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '194'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 3
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Morgul Mongrel
+  subtitle: ''
+  text: While you can spot 3 wounds on the Ring–bearer, this minion is fierce and **damage +1**.
+  lore: The old wound throbbed with pain and a great chill spread towards Frodo’s heart.
+de:
+  title: Morgul Mischling
+  subtitle: ''
+  text: Solange du 3 Wunden auf dem Ringträger entdecken kannst, erhält dieser Diener **Schaden +1** und ist **erbittert**.
+  lore: Die alte Wunde bebte vor Schmerz, und eine große Kälte griff nach Frodos Herzen.

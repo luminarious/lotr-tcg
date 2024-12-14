@@ -1,0 +1,15 @@
+set: '2'
+rarity: R
+number: '7'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Glóin
+  subtitle: Friend to Thorin
+  text: 'For each :dwarven: tale you can spot, Glóin is strength +1 (limit +4). '
+  lore: ‘But what then would happen, if the Ruling Ring were destroyed, as you counsel?’

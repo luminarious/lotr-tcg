@@ -1,0 +1,25 @@
+set: '12'
+rarity: C
+number: '60'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 2
+str: '7'
+vit: '1'
+site: 4
+en:
+  title: Crazed Hillman
+  subtitle: ''
+  text: |-
+    **Fierce.**   
+    While this minion is in a fierce skirmish, it is strength +7 (or +10 if it is skirmishing a companion who has resistance 4 or less).
+  lore: Already given to fierce passions, a warrior of Dunland quickly frenzies in the heat of battle.
+de:
+  title: Verrückter Bergbewohner
+  subtitle: ''
+  text: |-
+    **Erbittert.**  
+    Solange dieser Diener in einem erbitterten Kampf ist, erhält er Stärke +7 (oder +10, wenn er gegen einen Gefährten mit Resistenz 4 oder weniger kämpft).
+  lore: Die Kämpfer aus Dunland verfallen schnell in einen wilden Kampfrausch.

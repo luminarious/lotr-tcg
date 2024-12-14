@@ -1,0 +1,21 @@
+set: '7'
+rarity: U
+number: '218'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Otsëa
+  subtitle: Black-Mantled Wraith
+  text: '**Regroup:** If you have initiative, discard Úlairë Otsëa to make the Free Peoples player exert a Ring–bound companion twice or return an unbound companion to his or her hand.'
+  lore: …horrible as carrion-fowl yet greater than eagles, cruel as death.
+de:
+  title: •Úlairë Otsëa
+  subtitle: Schwarz gewandetes Gespenst
+  text: '**Sammeln:** Wenn du die Initiative besitzt, lege Úlairë Otsëa ab, um den Freie Völker Spieler zu zwingen, entweder einen Ring-verbundenen Gefährten zweimal anzustrengen oder einen nicht-verbundenen Gefährten zurück auf seine Hand zu nehmen.'
+  lore: …entsetzlich wie Aasgeier, aber größer als Adler, grausam wie der Tod.

@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '63'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Gnawing, Biting, Hacking, Burning
+  subtitle: ''
+  text: 'Each time a regroup action discards an :isengard: Orc, you may stack that Orc on this card. **Shadow:** Discard 2 cards stacked here and remove :twilight1:to play an :isengard: Orc from your discard pile.'
+  lore: ‘Destroyers and usurpers.’
+de:
+  title: Nagend, beißend, hackend, brennend
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn eine Sammelaktion einen :isengard: Ork ablegt, darfst du diesen hier lagern. **Schatten:** Lege 2 Karten, die hier gelagert sind, ab und verringere den Einfluss um :twilight1:, um einen :isengard: Ork aus deinem Ablag'
+  lore: Zerstörer, Eindringlinge
+fr:
+  title: Rongeant, Tailladant, Mordant, Brûlant
+  subtitle: ''
+  text: 'Chaque fois qu’une action de ralliement défausse un Orque :isengard:, vous pouvez empiler cet Orque ici. **Ombre :** Défaussez 2 cartes empilées ici et retirez :twilight1: pour jouer un Orque :isengard: de votre pile de défausse.'
+  lore: 'Destructeurs et usurpateurs. '
+it:
+  title: Corrodere, Mordere, Fare a Pezzi, Bruciare
+  subtitle: ''
+  text: 'Ogni volta che un’azione di raccolta fa scartare un Orco :isengard:, puoi impilare quell’Orco su questa carta. **Ombra:** Scarta 2 carte impilate qui e rimuovi:twilight1:per giocare un Orco :isengard: dalla tua pila degli scarti.'
+  lore: ‘Distruttori ed usurpatori.’
+es:
+  title: Royendo, mordiendo, sajando, quemando
+  subtitle: ''
+  text: 'Cada vez que una acción de reagrupación descarta un Orco :isengard:, puedes apilar ese Orco en esta carta. **Sombra:** Descarta 2 cartas apiladas aquí y quita:twilight1: para jugar un Orco :isengard: de tu pila de descartes.'
+  lore: Destructores y usurpadores.

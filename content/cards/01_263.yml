@@ -1,0 +1,35 @@
+set: '1'
+rarity: R
+number: '263'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Orc Banner
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    Each time a companion or ally loses a skirmish that involves a :sauron: Orc, each :sauron: Orc is strength +1 until the regroup phase.
+  lore: Tribes of Orcs from throughout Mordor rally to the banner of the Dark Tower.
+de:
+  title: Orkbanner
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedesmal, wenn ein :sauron: Ork einen Kampf gewinnt, erhalten alle :sauron: Orks Stärke +1 bis zur Sammelphase.'
+  lore: Orkstämme aus ganz Mordor scharen sich um das Banner des Dunklen Turms.
+fr:
+  title: Bannière Orque
+  subtitle: ''
+  text: 'Chaque fois qu’un Orque :sauron: remporte un combat, chaque Orque :sauron: a +1 en force jusqu’à la phase de ralliement.'
+  lore: Les tribus d'Orques de tout le Mordor se rallient sous la bannière de la Tour Sombre.
+it:
+  title: Stendardo degli Orchi
+  subtitle: ''
+  text: 'Ogni volta che un Orco :sauron: vince una schermaglia, ogni Orco :sauron: aggiunge +1 alla forza fino alla fase di raccolta.'
+  lore: Tribù di Orchi da ogni parte di Mordor si radunano sotto il vessillo della Torre Oscura.
+es:
+  title: Estandarte Orco
+  subtitle: ''
+  text: 'Cada vez que un Orco :sauron: gana una escaramuza, cada Orco :sauron: es fuerza +1 hasta la fase de reagrupación.'
+  lore: Tribus de Orcos de todo Mordor se reúnen bajo el estandarte de la Torre Oscura.

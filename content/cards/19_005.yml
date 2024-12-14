@@ -1,0 +1,15 @@
+set: '19'
+rarity: P
+number: '5'
+unique: true
+culture: Elven
+type: Condition
+cost: 0
+str: '+1'
+en:
+  title: Army Long Trained
+  subtitle: ''
+  text: |-
+    Bearer must be an :elven: companion.  
+    Each time bearer wins a skirmish, you may transfer this condition to another :elven: companion.
+  lore: ''

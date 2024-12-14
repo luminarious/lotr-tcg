@@ -1,0 +1,25 @@
+set: '10'
+rarity: C
+number: '50'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Southron Savage
+  subtitle: ''
+  text: |-
+    **Southron.**   
+    While the total number of other minions and twilight tokens is 3 or fewer, this minion is strength +3 and **fierce.** 
+  lore: The merciless deserts of Haradwaith breed equally merciless fighters.
+de:
+  title: Wilder Südlander
+  subtitle: ''
+  text: |-
+    **Südländer.**   
+    Solange die Gesamtzahl an anderen Dienern und dem Einfluss 3 oder oder weniger beträgt, erhält dieser Diener Stärke +3 und ist **erbittert**.
+  lore: Die gnadenlosen Wüsten von Haradwaith brachten genauso gnadenlose Kämpfer hervor.

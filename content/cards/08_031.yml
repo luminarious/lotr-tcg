@@ -1,0 +1,18 @@
+set: '8'
+rarity: C
+number: '31'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: At His Command
+  subtitle: ''
+  text: Exert Aragorn to make an unbound companion with the Aragorn signet strength +1 for each threat you can spot.
+  lore: ‘Even the shades of Men are obedient to his will….’
+de:
+  title: Unter seinem Befehl
+  subtitle: ''
+  text: Strenge Aragorn an, um einem nicht-verbundenen Gefährten mit dem Aragornsiegel Stärke +1 für jede Bedrohung, die du entdeckst, zu geben.
+  lore: Selbst die Schatten der Menschen gehorchen seinem Willen.

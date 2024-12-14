@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '174'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Called
+  subtitle: ''
+  text: '**Assignment:** Remove 5 threats to assign a Nazgûl to a companion (except the Ring-bearer). The Free Peoples player may discard that companion.'
+  lore: …sensing some other power within his valley.
+de:
+  title: Marschbefehl
+  subtitle: ''
+  text: '**Zuweisung:** Entferne 5 Bedrohungen, um einen Nazgûl einem Gefährten (außer dem Ringträger) zuzuweisen. Der Freie Völker Spieler darf diesen Gefährten ablegen.'
+  lore: …denn er spürte irgendeine andere Macht in seinem Tal.

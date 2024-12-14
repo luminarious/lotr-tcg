@@ -1,0 +1,36 @@
+set: '2'
+rarity: U
+number: '16'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: A Blended Race
+  subtitle: ''
+  text: |-
+    To play, spot an Elf.   
+    Each Uruk-hai is strength -2 and loses all **damage** bonuses.   
+    Discard this condition during the regroup phase. 
+  lore: ‘…he has been doing something to them…. For these Isengarders are more like wicked Men.’
+de:
+  title: Eine gekreuzte Rasse
+  subtitle: ''
+  text: Entdecke einen Elben, um diese Karte in deinen Unterstützungsbereich zu spielen. Alle Uruk-hai erhalten Stärke -2 und verlieren alle Schadensboni. Lege diesen Effekt in der Sammelphase ab.
+  lore: …er hat ihnen etwas angetan…. Denn diese Isengarter sind eher wie schlechte Menschen.
+fr:
+  title: Une Race Métissée
+  subtitle: ''
+  text: Pour jouer, désignez un Elfe. Chaque Ourouk-Haï a -2 en force et perd tous ses bonus de dégâts. Défaussez cette situation pendant la phase de ralliement.
+  lore: '…il leur a fait quelque chose… Car ces Isengardiens ressemblent davantage à de mauvais Hommes.” '
+it:
+  title: Una Razza Incrociata
+  subtitle: ''
+  text: Per giocarla, avvista un Elfo. Sottrai -2 alla forza di ogni Uruk-hai. Gli Uruk-hai perdono tutti i bonus ai danni. Scarta questa condizione durante la fase di raccolta.
+  lore: ‘…sta facendo loro qualcosa… questi Isengardiani sembrano piuttosto Uomini malvagi.’
+es:
+  title: Una raza mezclada
+  subtitle: ''
+  text: Para jugarla, avista un Elfo. Cada Uruk-hai es fuerza -2 y pierde todos sus bonos de daño. Descarta esta condición durante la fase de reagrupación.
+  lore: …les ha estado haciendo algo… Porque estos habitantes de Isengard se parecen más a Hombres perversos.

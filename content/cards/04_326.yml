@@ -1,0 +1,32 @@
+set: '4'
+rarity: U
+number: '326'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Horse-country
+  subtitle: ''
+  text: '**Plains.** While you can spot a :rohan: mount at Horse-country, the move limit is +1 for this turn. '
+  lore: ''
+de:
+  title: Pferde-Land
+  subtitle: ''
+  text: '**Ebene.** Solange du hier ein :rohan: Reittier entdecken kannst, erhöht sich deine Bewegungsweite für diesen Spielzug um 1.'
+  lore: ''
+fr:
+  title: Le Pays des Chevaux
+  subtitle: ''
+  text: '**Plaine.** Tant que vous pouvez désigner une monture :rohan: au Pays des Chevaux, la limite de déplacement est de +1 pour ce tour.'
+  lore: ''
+it:
+  title: Paese dei Cavalli
+  subtitle: ''
+  text: '**Pianura.** Mentre puoi avvistare una cavalcatura :rohan: al Paese dei Cavalli, aggiungi +1 al limite dei movimenti per questo turno.'
+  lore: ''
+es:
+  title: País De Los Caballos
+  subtitle: ''
+  text: '**Llanura.** Mientras puedas avistar una montura :rohan: en el País de los Caballos, el límite de movimiento es +1 para este turno.'
+  lore: ''

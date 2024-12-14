@@ -1,0 +1,36 @@
+set: '6'
+rarity: R
+number: '80'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 8
+str: '13'
+vit: '4'
+site: 4
+en:
+  title: Southron Archer Legion
+  subtitle: ''
+  text: '**Southron.** **Archer.** **Archery:** Remove :twilight3: to add 1 to the minion archery total for each companion over 4 (limit +4).'
+  lore: ‘But I've heard tales of the big folk down away in the Sunlands.’
+de:
+  title: Bogenschützenlegion
+  subtitle: ''
+  text: '**Südländer.** **Bogenschütze.** **FernKampf** Verringere den Einfluss um :twilight3:, um den Fernkampfwert der Diener für jeden Gefährten über 4 um 1 zu erhöhen (maximal +4).'
+  lore: Aber ich habe Geschichten gehört über die großen Leute da unten in den Sonnenlanden.
+fr:
+  title: Légion d'Archers Suderons
+  subtitle: ''
+  text: '**Suderon.** **Archer.** **Archeriet :** Retirez :twilight3: pour ajouter 1 au total d’archerie des séides pour chaque compagnon au delà de 4 (limite de +4).'
+  lore: 'Mais j''ai entendu des récits sur les grandes gens de là-bas….” '
+it:
+  title: Legione di Arcieri Sudroni
+  subtitle: ''
+  text: '**Sudrone.** **Arciere.** **Arcieri:** Rimuovi :twilight3: per aggiungere 1 al totale degli arcieri tra i servitori per ogni compagno oltre 4 (limite +4).'
+  lore: ‘Ma ho udito parecchie storie sulla Gente Alta che vive giù nelle Terre del Sole.’
+es:
+  title: Legión de arqueros sureños
+  subtitle: ''
+  text: '**Sureño.** **Arquero.** **Arquería:** Quita :twilight3: para añadir 1 al total de arquería de los siervos por cada compañero por encima de 4 (límite +4).'
+  lore: Pero yo he escuchado historias de la Gente Grande de allá lejos, de las Tierras del Sur.

@@ -1,0 +1,39 @@
+set: '4'
+rarity: R
+number: '294'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Weapon Store
+  subtitle: ''
+  text: |-
+
+    **Fellowship:** Exert a :rohan: Man to play a hand weapon from your discard pile. 
+  lore: ‘And to you my other guests I will offer such things as may be found in my armoury.’
+de:
+  title: Waffenlager
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Gemeinschaft.** Strenge einen :rohan: Menschen an, um eine Handwaffe aus deinem Ablagestapel zu spielen.'
+  lore: Und Euch, meinen anderen Gästen will ich das anbieten, was in meiner Waffenkammer zu finden ist.
+fr:
+  title: Magasin d'Armes
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez un Homme :rohan: pour jouer une arme de mêlée de votre pile de défausse.'
+  lore: 'Et à vous, mes autres invités, j''offrirai des objets de mon armurerie.” '
+it:
+  title: Deposito di Armi
+  subtitle: ''
+  text: |-
+
+    **Compagnia:** Sforza un Uomo :rohan: per giocare un’arma da mischia dalla tua pila degli scarti.
+  lore: ‘Agli altri miei ospiti offrirò ciò che potrebbe servir loro della mia armeria.’
+es:
+  title: Almacén De Armas
+  subtitle: ''
+  text: |-
+
+    **Comunidad:** Esfuerza un Hombre :rohan: para jugar un arma de mano de tu pila de descartes.
+  lore: Y a vosotros, mis otros invitados, os ofrezco lo que podáis encontrar en mi armería.

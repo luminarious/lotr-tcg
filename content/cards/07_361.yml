@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '361'
+unique: true
+culture: ''
+type: Site
+cost: 9
+siteArrow: Left
+en:
+  title: Haunted Pass
+  subtitle: ''
+  text: '**Shadow:** Remove a threat and spot your minion to draw a card.'
+  lore: ''
+de:
+  title: Verfluchter Pass
+  subtitle: ''
+  text: '**Schatten:** Entferne eine Bedrohung und entdecke einen deiner Diener, um eine Karte zu ziehen.'
+  lore: ''

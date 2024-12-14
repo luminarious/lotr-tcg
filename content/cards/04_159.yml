@@ -1,0 +1,43 @@
+set: '4'
+rarity: U
+number: '159'
+unique: true
+culture: Isengard
+type: Condition
+cost: 1
+str: '-1'
+en:
+  title: Many Riddles
+  subtitle: ''
+  text: |-
+    **Search.** To play, exert an :isengard: tracker.   
+    Plays on a companion (except the Ring-bearer).   
+    **Assignment:** Exert an :isengard: tracker and remove :twilight2: to assign that tracker to bearer.   
+    Bearer may exert to prevent this. 
+  lore: ‘It will be hard news for Frodo….’
+de:
+  title: Viele Rätsel
+  subtitle: ''
+  text: '**Suche.** Strenge einen :isengard: Spurenleser an, um diese Karte auf einen Gefährten (außer den Ringträger) zu spielen. **Zuweisung:** Strenge einen :isengard: Spurenleser an und verringere den Einfluss um :twilight2:, um diesen Spurenleser dem Träger dieses Effekts zuzuweisen. Dieser darf sich anstrengen, um dies zu verbindern.'
+  lore: Es wird eine traurige Kunde für Frodo sein….
+fr:
+  title: Bien des Énigmes
+  subtitle: ''
+  text: |-
+    **Recherche.**  
+    Pour jouer, affaiblissez un traqueur :isengard:. Jouable sur un compagnon (sauf le Porteur de l’Anneau). **Affectation :** Affaiblissez un traqueur :isengard: et retirez :twilight2: pour affecter ce traqueur au détenteur. Le détenteur peut s’affaiblir pour empêcher ceci.
+  lore: 'Ce sera une dure nouvelle pour Frodon…” '
+it:
+  title: Molti Enigmi
+  subtitle: ''
+  text: |-
+    **Ricerca.** Per giocarla, sforza un inseguitore :isengard:. Giocala su un compagno (tranne il Portatore dell’Anello).   
+    **Assegnazione:** Sforza un inseguitore :isengard: e rimuovi :twilight2: per assegnare quell’inseguitore al possessore. Il possessore può sforzarsi per prevenire questo efferto.
+  lore: ‘Sarà una notizia assai penosa per Frodo…’
+es:
+  title: Muchos Acertijos
+  subtitle: ''
+  text: |-
+    **Búsqueda.** Para jugarla, esfuerza un rastreador :isengard:. Se juega en un compañero (excepto el Portador del Anillo).   
+    **Asignación:** Esfuerza un rastreador :isengard: y quita :twilight2: para asignar a ese rastreador al portador. El portador puede esforzarse para prevenir esto.
+  lore: Malas noticias para Frodo…

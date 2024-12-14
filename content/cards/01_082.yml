@@ -1,0 +1,39 @@
+set: '1'
+rarity: C
+number: '82'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Risk a Little Light
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Fellowship:** If the twilight pool has fewer than 2 twilight tokens, spot Gandalf to look at the top 2 cards of your draw deck. Take one into hand and discard the other.
+  lore: ‘Let me risk a little more light.’
+de:
+  title: Ein wenig Licht wagen
+  subtitle: ''
+  text: '**Zauberspruch.** **Gemeinschaft.** Wenn der Einfluss weniger als :twilight2: beträgt, entdecke Gandalf, um dir die obersten 2 Karten deines Spieldecks anzuschauen. Nimm 1 davon auf deine Hand und lege die andere ab.'
+  lore: Ich will jetzt ein wenig wirkliches Licht wagen.
+fr:
+  title: Risquer une Petite Lueur
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Compagnie :** Si la réserve crépusculaire a moins de 2 jetons-crépuscule, désignez Gandalf pour regarder les 2 premières cartes de votre pioche. Prenez une de ces cartes en main et défaussez l’autre.
+  lore: ‘Laissez-moi risquer un petit peu plus de lumière.’
+it:
+  title: Rischiare una Piccola Luce
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Compagnia:** Se la zona del crepuscolo ha meno di 2 segnalini crepuscolo, avvista Gandalf per guardare le prime 2 carte del tuo mazzo di gioco. Aggiungi una di quelle carte alla tua mano e scarta l’altra.
+  lore: ‘Lasciatemi rischiare un po’ più di luce.’
+es:
+  title: Arriesgar un Poco de Luz
+  subtitle: ''
+  text: '**Hechizo.** **Comunidad:** Si el fondo de penumbra tiene menos de 2 contadores de penumbra, avista a Gandalf para mirar las 2 cartas superiores de tu mazo de robar. Roba una de esas cartas a tu mano y descarta la otra.'
+  lore: Dejad que me arriesgue con un poco mas de luz.

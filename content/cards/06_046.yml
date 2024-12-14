@@ -1,0 +1,33 @@
+set: '6'
+rarity: R
+number: '46'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: They Stole It
+  subtitle: ''
+  text: '**Skirmish:** Spot Gollum and discard 3 cards from hand to wound a companion Gollum is skirmishing once (or twice if that companion is a :shire: companion).'
+  lore: '‘Where iss it, where iss it: my precious….’'
+de:
+  title: Sie haben Ihn gestohlen
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Kampf** Lege 3 Karten aus deiner Hand ab, um einen Gefährten, der gegen Gollum kämpft, einmal zu verwunden (oder zweimal, wenn es sich um einen :shire: Gefährten handelt).'
+  lore: Wo ist er, wo ist er, mein Schatz, mein Schatz?
+fr:
+  title: Ils l'Ont Volé
+  subtitle: ''
+  text: '**Combat :** Défaussez 3 cartes de votre main pour blesser une fois un compagnon que Gollum combat (ou deux fois s’il s’agit d’un compagnon :shire:).'
+  lore: 'Où est-ce où est-ce : mon trésor….” '
+it:
+  title: L'Hanno Rubato
+  subtitle: ''
+  text: '**Schermaglia:** Scarta 3 carte dalla mano per ferire una volta un compagno con cui Gollum sta schermagliando (o due volte se quel compagno è un compagno :shire:).'
+  lore: '‘Dove ssei, dove ssei: tessoro mio, mio tessoro?’'
+es:
+  title: Lo han robado
+  subtitle: ''
+  text: '**Escaramuza:** Descarta 3 cartas de la mano para herir una vez a un compañero que esté en una escaramuza contra Gollum (o dos veces si es un compañero :shire:).'
+  lore: 'Dónde essstá, dónde essstá: mi tesssoro…'

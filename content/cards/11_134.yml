@@ -1,0 +1,21 @@
+set: '11'
+rarity: R
+number: '134'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '1'
+site: 4
+en:
+  title: Persistent Orc
+  subtitle: ''
+  text: 'Each time this minion is about to be killed or discarded from play, you may spot another :orc: card to place this minion on top of your draw deck instead.'
+  lore: An enemy can do little worse to an Orc than what it would willingly have done to itself.
+de:
+  title: Hartnäckiger Ork
+  subtitle: ''
+  text: 'Jedes Mal, wen dieser Diener im Begriff ist, getötet oder aus dem Spiel abgelegt zu werden, darfst du eine andere :orc: Karte entdecken, um diesen Diener stattdessen oben auf dein Spieldeck zu legen.'
+  lore: Es ist schwer einem Ork etwas schlimmeres anzutun,als er sich willentlich selbst zugefügt hätte.

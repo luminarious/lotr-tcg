@@ -1,0 +1,24 @@
+set: '7'
+rarity: R
+number: '261'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: With Strength to Fight
+  subtitle: ''
+  text: |-
+    To play, spot a :rohan: companion.   
+    Each time the fellowship moves, add a threat or discard this condition.   
+    **Regroup:** Discard this condition to heal up to 2 :rohan: companions.
+  lore: ''
+de:
+  title: Kraft zum Kämpfen
+  subtitle: ''
+  text: |-
+    Entdecke einen :rohan: Gefährten, um diesen Effekt zu spielen.   
+    Lasse jedes Mal, wenn sich die Gemeinschaft bewegt, eine Bedrohung entstehen oder lege diesen Effekt ab.   
+    **Sammeln:** Lege diesen Effekt ab, um bis zu 2 :rohan: Gefährten zu heilen.
+  lore: …es ist ein weiter Weg…

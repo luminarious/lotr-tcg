@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '255'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: Pinnacle of Zirakzigil
+  subtitle: ''
+  text: '**Mountain.** At the start of your fellowship phase, you may exert 3 companions to play a Wizard from your dead pile.'
+  lore: ''
+de:
+  title: Die Spitze von Zirakzigil
+  subtitle: ''
+  text: '**Gebirge** Zu Beginn deiner Gemeinschaftsphase darfst du 3 Gefähr-ten anstrengen, um einen Zauberer aus deinem Friedhof zu spielen.'
+  lore: ''

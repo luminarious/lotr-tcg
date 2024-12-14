@@ -1,0 +1,21 @@
+set: '6'
+rarity: U
+number: '86'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Lemenya
+  subtitle: Winged Hunter
+  text: '**Regroup:** Exert Úlairë Lemenya and discard 3 cards from hand to return a companion (except the Ring-bearer) to owner’s hand.'
+  lore: …the helpless horror that had come with the cry in the wind and the shadow on the moon….
+fr:
+  title: Ùlairë Lemenya
+  subtitle: Chasseur Ailé
+  text: '**Ralliement :** Affaiblissez Ùlairë Lemenya et défaussez 3 cartes de votre main pour renvoyer un compagnon (sauf le Porteur de l’Anneau) dans la main de son propriétaire.'
+  lore: '… l''horreur impuissante qui était venue avec le cri dans le vent et l''ombre sur la lune… '

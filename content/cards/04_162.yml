@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '162'
+unique: true
+culture: Isengard
+type: Event
+class: Regroup
+cost: 2
+en:
+  title: New Power Rising
+  subtitle: ''
+  text: '**Regroup:** Spot Saruman or an :isengard: Man, reveal your hand, and discard all Free Peoples cards revealed to take an :isengard: card into hand from your discard pile. '
+  lore: ‘For those who aid the Great Eye there will be rich reward.’
+de:
+  title: Eine neue Macht
+  subtitle: ''
+  text: '**Sammeln:** Entdecke Saruman oder einen :isengard: Menschen, decke deine Hand auf und lege alle aufgedeckten Karten der Freien Völker ab, um eine :isengard: Karte aus deinem Ablagestapel auf deine Hand zu nehmen.'
+  lore: Allen, die dem Großen Auge dienen, ist reicher Lohn gewiss.
+fr:
+  title: Un Nouveau Pouvoir Croît
+  subtitle: ''
+  text: '**Ralliement :** Désignez Saroumane ou un Homme :isengard:, révélez votre main, et défaussez toutes les cartes des Peuples Libres ainsi révélées pour prendre en main une carte :isengard: de votre pile de défausse.'
+  lore: 'Ceux qui viennent en aide au Grand *il seront richement récompensés.” '
+it:
+  title: Un Nuovo Potere Sta Crescendo
+  subtitle: ''
+  text: '**Raccolta:** Avvista Saruman o un Uomo :isengard:, mostra la tua mano, e scarta tutte le carte dei Popoli Liberi mostrate per aggiungere alla tua mano una carta :isengard: dalla tua pila degli scarti.'
+  lore: ‘Per coloro che aiuteranno il Grande Occhio ci sarà una ricca ricompensa.’
+es:
+  title: Un Nuevo Poder Se Alza
+  subtitle: ''
+  text: '**Reagrupación:** Avista a Saruman o a un Hombre :isengard:, revela tu mano, y descarta todas las cartas de Gentes Libres reveladas para tomar una carta :isengard: a tu mano de tu pila de descartes.'
+  lore: Habrá una gran recompensa para aquellos que ayuden al Gran Ojo.

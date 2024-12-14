@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '29'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 2
+en:
+  title: Ease the Burden
+  subtitle: ''
+  text: 'Exert a :gandalf: Wizard to remove a burden (or 2 burdens if the fellowship is at a dwelling site).'
+  lore: ‘Bilbo was meant to find the Ring. In which case, you also were meant to have it. And that is an encouraging thought.’
+de:
+  title: Die Last verringern
+  subtitle: ''
+  text: 'Strenge einen :gandalf: Zauberer an, um eine Lastmarke zu entfernen (oder 2 Lastmarken wenn, sich die Gemeinschaft an einer Heimstatt befindet).'
+  lore: Bilbo war dazu ausersehen, den Ring zu finden. In diesem Falle wärest auch du dazu ausersehen, ihn zu haben. Und das ist ein ermutigender Gedanke.

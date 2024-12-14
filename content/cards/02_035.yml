@@ -1,0 +1,39 @@
+set: '2'
+rarity: C
+number: '35'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Natural Cover
+  subtitle: ''
+  text: |-
+    To play, spot a ranger.   
+    While the fellowship is at a forest, the minion archery total is -2. 
+  lore: The tree, the bough, the leaf. To a ranger, these are all defenses against the enemy.
+de:
+  title: Natürliche Deckung
+  subtitle: ''
+  text: Entdecke einen Waldläufer, um diese Karte in deinen Unterstützungsbereich zu spielen. Solange sich die Gemeinschaft in einem Wald befindet, reduziert sich der Fernkampfwert der Diener um 2.
+  lore: Der Baumstamm, die Äste, die Blätter. Für einen Waldläufer ist all dies ein Schutz gegen seine Feinde.
+fr:
+  title: Couverture Naturelle
+  subtitle: ''
+  text: |-
+    Pour jouer, désignez un **Rôdeur.**  
+    Lorsque la compagnie est à une forêt, le total d’archerie des séides est de -2.
+  lore: L'arbre, la branche, la feuille. Pour un rôdeur, ce sont tous des défenses contre l'ennemi.
+it:
+  title: Riparo Naturale
+  subtitle: ''
+  text: |-
+    Per giocarla, avvista un **ramingo.**  
+    Mentre la compagnia è in una foresta, sottrai -2 al totale degli arcieri tra i servitori.
+  lore: L'albero, il ramo, la foglia. Per un Ramingo, sono tutte difese contro i nemici.
+es:
+  title: Cobertura natural
+  subtitle: ''
+  text: Para jugarla, avista un **Montaraz.** Mientras la comunidad esté en un bosque, el total de arquería de los siervos es -2.
+  lore: El árbol, la rama, la hoja. Para un montaraz, todas son defensas contra el enemigo.

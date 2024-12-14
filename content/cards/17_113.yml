@@ -1,0 +1,15 @@
+set: '17'
+rarity: C
+number: '113'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Deathly Roar
+  subtitle: ''
+  text: |-
+    Each time the Free Peoples player plays a possession or artifact, place a :urukhai: token here.  
+    Each time an :urukhai: minion wins a skirmish, you may remove an :urukhai: token to exert a companion.
+  lore: The Uruk-hai assault on Helm’s Deep was relentless.

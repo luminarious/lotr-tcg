@@ -1,0 +1,18 @@
+set: '9'
+rarity: R+
+number: '2'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 4
+str: '9'
+vit: '1'
+site: 3
+en:
+  title: Freca
+  subtitle: Hungry Savage
+  text: |-
+    When you play Freca, you may spot another :dunland: Man to take control of a site.   
+    When Freca is killed, the Free Peoples player may liberate a site. 
+  lore: ‘We will die for Saruman.’

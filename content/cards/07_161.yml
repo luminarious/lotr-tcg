@@ -1,0 +1,25 @@
+set: '7'
+rarity: C
+number: '161'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Southron Brigand
+  subtitle: ''
+  text: |-
+    **Southron.**   
+    **Shadow:** Remove :twilight3: and spot 3 :raider: Men to make one of those Men **damage +1** until the regroup phase.
+  lore: ''
+de:
+  title: Südland Brigant
+  subtitle: ''
+  text: |-
+    **Südländer.**   
+    **Schatten:** Verringere den Einfluss um :twilight3: und entdecke 3 :raider: Menschen, um einem dieser Menschen **Schaden +1** bis zur Sammelphase zu geben.
+  lore: …um die Fahne ihres Häuptlings gesammelt…

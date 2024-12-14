@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '148'
+unique: true
+culture: Raider
+type: Event
+class: Regroup
+cost: 7
+en:
+  title: Fierce in Despair
+  subtitle: ''
+  text: 'Spot 2 :raider: Men to discard a companion (except the Ring-bearer).'
+  lore: …displaying his standard, black serpent upon scarlet….
+de:
+  title: Mut der Verzweiflung
+  subtitle: ''
+  text: 'Entdecke 2 :raider: Menschen, um einen Gefährten (außer den Ringträger) abzulegen.'
+  lore: …entfaltete seine Fahne, schwarze Schlange auf Scharlachrot…

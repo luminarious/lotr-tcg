@@ -1,0 +1,35 @@
+set: '4'
+rarity: U
+number: '27'
+unique: true
+culture: Dunland
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Living Off Rock
+  subtitle: ''
+  text: |-
+
+    Each time a :dunland: Man wins a skirmish involving a :rohan: Man, you may make that minion strength +2 and **fierce** until the regroup phase. 
+  lore: ‘The Horsemen took your land; they drove your people into the hills to scratch living off rock.’
+de:
+  title: Von nacktem Fels leben
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn ein :dunland: Mensch einen Kampf gewinnt, an dem ein :rohan: Mensch beteiligt war, darfst du ihm bis zur Sammelphase Stärke +2 geben und ihn **Erbittert** machen.'
+  lore: Die Pferdeherren nahmen euch euer Land, sie trieben euer Volk in die Berge, wo ihr auf nacktem Fels einen neuen Anfang machen musstet.
+fr:
+  title: Vivre de Pierres
+  subtitle: ''
+  text: 'Chaque fois qu’un Homme :dunland: gagne un combat impliquant un Homme :rohan:, vous pouvez rendre ce séide **acharné** et lui donner +2 en force jusqu’à la phase de ralliement.'
+  lore: 'Les Cavaliers ont pris vos terres; ils ont chassé votre peuple dans les collines, où ils durent vivre de pierres.” '
+it:
+  title: Vivere tra le Rocce
+  subtitle: ''
+  text: 'Ogni volta che un Uomo :dunland: vince una schermaglia che coinvolga un Uomo :rohan:, puoi aggiungere +2 alla forza di quel servitore e renderlo **Feroce** fino alla fase di raccolta.'
+  lore: ‘I Cavalieri si sono presi la vostra terra; hanno costretto la vostra gente ad andarsene sulle colline a guadagnarsi da vivere tra le rocce!’
+es:
+  title: Viviendo De Las Piedras
+  subtitle: ''
+  text: 'Cada vez que un Hombre :dunland: gana una escaramuza en la que participa un Hombre :rohan:, puedes darle a ese siervo fuerza +2 y **fiero** hasta la fase de reagrupación.'
+  lore: Los Jinetes tomaron vuestras tierras; llevaron a tus gentes a las colinas para que vivieran de las piedras.

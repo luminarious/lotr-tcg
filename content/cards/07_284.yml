@@ -1,0 +1,21 @@
+set: '7'
+rarity: R
+number: '284'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Mordor Assassin
+  subtitle: ''
+  text: '**Response:** If a companion is overwhelmed during a skirmish involving a :sauron: Orc, and threat wounds are about to be placed, remove a threat to assign this minion to the Ring-bearer (even if the Ring-bearer is already assigned).'
+  lore: Drums rolled and fires leaped up.
+de:
+  title: Attentäter aus Mordor
+  subtitle: ''
+  text: '**Reaktion:** Wenn ein Gefährte in einem Kampf, an dem ein :sauron: Ork beteiligt ist, überwältigt wird, entferne eine Bedrohung, um den Attentäter dem Ringträger zuzuweisen (selbst wenn der Ringträger bereits zugewiesen ist).'
+  lore: Trommeln dröhnten und Feuer züngelte auf.

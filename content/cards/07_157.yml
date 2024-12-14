@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '157'
+unique: true
+culture: Raider
+type: Event
+class: Skirmish
+cost: 5
+en:
+  title: Red Wrath
+  subtitle: ''
+  text: 'Exert a :raider: Man to wound a companion he is skirmishing twice.'
+  lore: …he came against the white horse and the green with great press of men….
+de:
+  title: Rote Wut
+  subtitle: ''
+  text: 'Strenge einen :raider: Menschen an, um einen Gefährten, gegen den er kämpft, zweimal zu verwunden.'
+  lore: …und kam mit einer großen Schar dem weißen Pferd und dem Grün entgegen…

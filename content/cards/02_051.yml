@@ -1,0 +1,44 @@
+set: '2'
+rarity: C
+number: '51'
+unique: true
+culture: Moria
+type: Minion
+race: Balrog
+cost: 12
+str: '17'
+vit: '5'
+site: 4
+en:
+  title: The Balrog
+  subtitle: Durin's Bane
+  text: |-
+    **Damage +1.** **Fierce.**   
+    While you can spot The Balrog, discard all other minions. Skip the archery phase. Discard The Balrog if not underground. 
+  lore: ‘Indeed I saw upon the bridge that which haunts our darkest dreams….’
+de:
+  title: Der Balrog
+  subtitle: Durins Fluch
+  text: |-
+    **Schaden +1.** **Erbittert.**  
+    Solange du den Balrog entdecken kannst, lege alle anderen Diener ab. Überspringe die Fernkampfphase. Lege den Balrog ab, wenn er sich nicht an einem unterirdischen Ort befindet.
+  lore: Wahrlich, ich sah auf der Brücke, was uns in unseren schwärzesten Träumen verfolgt…
+fr:
+  title: Le Balrog
+  subtitle: Le Fléau de Durin
+  text: |-
+    **Dégâts +1.** **Acharné.**  
+    Lorsque vous pouvez désigner Le Balrog, défaussez tous les autres séides. Ignorer la phase d’archerie. Défaussez Le Balrog si vous n’êtes pas à un site souterrain.**
+  lore: 'En vérité, j''ai vu sur le pont ce qui hante nos pires cauchemars…” '
+it:
+  title: Il Balrog
+  subtitle: Flagello di Durin
+  text: |-
+    **Danno +1.** **Feroce.**  
+    Mentre avvisti Il Balrog, scarta tutti gli altri servitori. Salta la fase degli Arcieri. Scarta Il Balrog se non è in un sito **Sotterraneo.**
+  lore: ‘Vidi davvero su quel ponte ciò che ossessiona i nostri sogni più oscuri…’
+es:
+  title: El Balrog
+  subtitle: El Daño de Durin
+  text: '**Daño +1.** **Fiero.** Mientras puedas avistar El Balrog, descarta todos los otros siervos. Sáltate la fase de arquería. Descarta El Balrog si no está en un sitio **Subterráneo.**'
+  lore: En verdad vi sobre el puente aquello que acecha en nuestros sueños más oscuros…

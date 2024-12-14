@@ -1,0 +1,17 @@
+set: '4'
+rarity: C
+number: '68'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Ferevellon
+  subtitle: Son of Thandronen
+  text: |-
+    To play, spot an Elf.   
+    **Skirmish:** Exert Ferevellon to make a minion skirmishing him strength -2. 
+  lore: The Uruks at Helm’s Deep fell to his blade as easily as Goblins from the mountains.

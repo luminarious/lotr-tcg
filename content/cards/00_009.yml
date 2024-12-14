@@ -1,0 +1,27 @@
+set: '0'
+rarity: W
+number: '9'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 11
+str: '17'
+vit: '4'
+site: 4
+en:
+  title: Army of Harad
+  subtitle: ''
+  text: |-
+    **Southron.** **Archer.**   
+    To play, spot a :raider: Man.   
+    **Menace -** When you play this minion you may make it ambush :twilight9:.
+  lore: The men of the South marched to war.
+de:
+  title: Armee aus Harad
+  subtitle: ''
+  text: |-
+    **Südländer.** **Bogenschütze.**   
+    Entdecke einen :raider: Menschen, um die Armee aus Harad zu spielen.   
+    **Gefahr -** Wenn du diesen Diener spielst, darfst du das Zwielicht um 10 erhöhen.
+  lore: The men of the South marched to war.

@@ -1,0 +1,39 @@
+set: '4'
+rarity: U
+number: '236'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Howl of Harad
+  subtitle: ''
+  text: |-
+
+    Each time a companion or ally loses a skirmish involving a Southron, you may remove :twilight4: to make the Free Peoples Player wound a Ring-bound companion. 
+  lore: Blood-curdling cries rout the Southrons’ enemies from the battlefield.
+de:
+  title: Kriegsgeheul der Haradrim
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. Verringere den Einfluss um :twilight4:, wenn ein Südländer einen Kampf gewinnt, um den Freie Völker Spieler zu zwingen, einen Ring-verbundenen Gefährten zu verwunden.
+  lore: Markerschütternde Schreie verjagten die Feinde der Südländer vom Schlachtfeld.
+fr:
+  title: Hurlement de Harad
+  subtitle: ''
+  text: 'Si un Suderon gagne un combat, retirez :twilight4: pour obliger le joueur des Peuples Libres à blesser un compagnon **Associé à l’Anneau.** '
+  lore: Des cris à glacer le sang déroutent les ennemis des Suderons du champ de bataille.
+it:
+  title: Urlo dell'Harad
+  subtitle: ''
+  text: |-
+    Giocala nella tua area di supporto.  
+    Se un Sudrone vince una schermaglia, rimuovi :twilight4: per far ferire al giocatore dei Popoli Liberi un compagno **Legato all’Anello.**
+  lore: Grida che fanno gelare il sangue mandano in rotta i nemici dei Sudroni.
+es:
+  title: Aullido De Harad
+  subtitle: ''
+  text: |-
+
+    Si un Sureño gana una escaramuza, quita :twilight4: para hacer que el jugador de Gentes Libres hiera un compañero **Vinculado al Anillo.**
+  lore: Los aterradores gritos de batalla de los Sureños hacen huir a sus enemigos del campo de batalla.

@@ -1,0 +1,18 @@
+set: '10'
+rarity: C
+number: '10'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Fleet-footed
+  subtitle: ''
+  text: 'Make a minion skirmishing an Elf strength –2. Spot a site in a support area to place this event on top of your draw deck. '
+  lore: Not all Elven weapons are carried in sheath or quiver.
+de:
+  title: Flinken Fußes
+  subtitle: ''
+  text: Gib einem Diener, der gegen einen Elben kämpft, Stärke -2. Entdecke einen Ort im Unterstützungsbereich eines Spielers, um dieses Ereignis oben auf dein Spieldeck zu legen.
+  lore: Nicht alle Waffen der Elben werden in Köcher oder Scheide getragen.

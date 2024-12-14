@@ -1,0 +1,24 @@
+set: '11'
+rarity: R
+number: '9'
+unique: true
+culture: Dwarven
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+2'
+en:
+  title: Gimli's Battle Axe
+  subtitle: Vicious Weapon
+  text: |-
+    Bearer must be a Dwarf.   
+    Bearer gains **muster.** (At the start of the regroup phase, you may discard a card from hand to draw a card.)   
+    **Skirmish:** If bearer is Gimli and he is at a battleground site, exert him to wound a minion he is skirmishing. 
+  lore: ''
+de:
+  title: Gimlis Streitaxt
+  subtitle: Brutale Waffe
+  text: |-
+    Muss auf einen Zwerg gespielt werden. Der Träger erhält **Appell**.  
+    **Kampf:** Wenn Gimli mit dieser Waffe ausgerüstet ist und sich an einem Schlachtfeld befindet, kannst du ihn anstrengen, um einen Diener, den er bekämpft, zu verwunden. 
+  lore: ''

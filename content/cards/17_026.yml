@@ -1,0 +1,16 @@
+set: '17'
+rarity: U
+number: '26'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 4
+str: '7'
+vit: '4'
+res: '6'
+en:
+  title: Woodland Onod
+  subtitle: ''
+  text: '**Skirmish:** Discard a companion from hand to make an Ent strength +2.'
+  lore: '''Ents are earthborn, old as mountains…’'

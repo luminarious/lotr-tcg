@@ -1,0 +1,35 @@
+set: '4'
+rarity: R
+number: '84'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish, Regroup
+cost: 2
+en:
+  title: Sword-wall
+  subtitle: ''
+  text: '**Skirmish or Regroup:** Spot 3 Elf companions to liberate a site or exert a minion. '
+  lore: A fixed line of Elven blades can hold off great numbers of the Enemy’s hordes.
+de:
+  title: Schwertwall
+  subtitle: ''
+  text: Kampf oder **Sammeln:** Entdecke 3 Elbengefährten, um einen Ort zu befreien oder einen Diener anzustrengen.
+  lore: Eine standhafte Reihe elbischen Stahls vermochte eine große Zahl feindlicher Truppen aufzuhalten.
+fr:
+  title: Mur d'Épées
+  subtitle: ''
+  text: Combat ou **Ralliement :** Désignez 3 compagnons Elfes pour libérer un site ou affaiblir un séide.
+  lore: Une ferme ligne de lames elfiques peut arrêter un grand nombre d'hordes de l'Ennemi.
+it:
+  title: Muro di Spade
+  subtitle: ''
+  text: |-
+    Schermaglia o   
+    **Raccolta:** Avvista 3 compagni Elfi per liberare un sito o sforzare un servitore.
+  lore: Una salda linea di lame elfiche può tenere lontane le orde del Nemico.
+es:
+  title: Muro De Espadas
+  subtitle: ''
+  text: '**Escaramuza** o **Reagrupación:** Avista 3 compañeros Elfos para liberar un sitio o para esforzar un siervo.'
+  lore: Una línea presta de espadas Élficas puede mantener a raya a muchas de las hordas del Enemigo.

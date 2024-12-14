@@ -1,0 +1,25 @@
+set: '12'
+rarity: U
+number: '161'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 5
+str: '8'
+vit: '3'
+site: 3
+en:
+  title: Black Rider
+  subtitle: ''
+  text: |-
+    **Fierce.**   
+    This minion is strength +1 for each companion you can spot.
+  lore: ‘The Nine are abroad again. They have crossed the River secretly and are moving westward. They have taken the guise of riders in black.’
+de:
+  title: Schwarzer Reiter
+  subtitle: ''
+  text: |-
+    **Erbittert.**  
+    Dieser Diener erhält Stärke +1 für jeden Gefährten, den du entdecken kannst.
+  lore: Die Neun sind wieder unterwegs. Heimlich haben sie den Fluss überschritten und ziehen nach Westen. Sie haben sich als schwarze Reiter verkleidet.

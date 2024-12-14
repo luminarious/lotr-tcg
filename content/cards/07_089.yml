@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '89'
+unique: true
+culture: Gondor
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Duty of Two
+  subtitle: ''
+  text: 'Add 3 threats to heal all :gondor: companions.'
+  lore: ‘…for himself, and for the one that will not return.’
+de:
+  title: Dienst für zwei
+  subtitle: ''
+  text: 'Lasse 3 Bedrohungen entstehen, um alle :gondor: Gefährten zu heilen.'
+  lore: …seinen eigenen und für den, der nicht zurückkehrt.

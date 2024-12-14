@@ -1,0 +1,33 @@
+set: '6'
+rarity: C
+number: '43'
+unique: true
+culture: Gollum
+type: Event
+class: Response
+cost: 0
+en:
+  title: Not Listening
+  subtitle: ''
+  text: '**Response:** If Sméagol wins a skirmish, heal him and remove 2 burdens.'
+  lore: ‘They'll wake too quick and kill us… Not now. Not yet.’
+de:
+  title: Ich hör' nicht zu
+  subtitle: ''
+  text: '**Reaktion:** Heile Sméagol und entferne 2 Lastmarken, wenn Sméagol einen Kampf gewinnt.'
+  lore: Sie werden zu schnell aufwachen und uns töten… Nicht jetzt. Noch nicht.
+fr:
+  title: Sourde Oreille
+  subtitle: ''
+  text: '**Réponse :** Si Sméagol gagne un combat, guérissez-le et retirez 2 points-fardeau.'
+  lore: 'Ils vont se réveiller trop vite et nous tuer…. Pas maintenant. Pas tout de suite.” '
+it:
+  title: Non Ascoltare
+  subtitle: ''
+  text: '**Risposta:** Se Sméagol vince una schermaglia, curalo e rimuovi 2 segnalini fardello.'
+  lore: ‘Si sveglieranno troppo presto e ci uccideranno…. Non adesso. Non ancora.’
+es:
+  title: No te escucho
+  subtitle: ''
+  text: '**Respuesta:** Si Sméagol gana una escaramuza, cúralo y quita 2 cargas.'
+  lore: Despertarán demasiado raudo y nos matarán… Ahora no. No todavía.

@@ -1,0 +1,32 @@
+set: '2'
+rarity: U
+number: '115'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Hobbiton Party Field
+  subtitle: ''
+  text: '**Fellowship:** Exert a Hobbit to play Bilbo from your draw deck. '
+  lore: ''
+de:
+  title: Hobbinger Festwiese
+  subtitle: ''
+  text: '**Gemeinschaft.** Strenge einen Hobbit an, um Bilbo direkt aus deinem Spieldeck zu spielen.'
+  lore: ''
+fr:
+  title: Champ Festif de Hobbitebourg
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez un Hobbit pour jouer Bilbon de votre pioche.'
+  lore: ''
+it:
+  title: Il Prato della Festa di Hobbiville
+  subtitle: ''
+  text: '**Compagnia:** Sforza un Hobbit per giocare Bilbo dal tuo mazzo di gioco.'
+  lore: ''
+es:
+  title: Campo de la fiesta de Hobbiton
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza un Hobbit para jugar a Bilbo de tu mazo de robar.'
+  lore: ''

@@ -1,0 +1,23 @@
+set: '10'
+rarity: U
+number: '47'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Rallying Call
+  subtitle: ''
+  text: |-
+    To play, spot a :raider: Man.   
+    Threats cannot be removed by Free Peoples cards.   
+    **Shadow:** Remove :twilight1: and play a Southron to add a threat.
+  lore: Horns were blown and trumpets were braying….
+de:
+  title: Sammelruf
+  subtitle: ''
+  text: |-
+    Entdecke einen :raider: Menschen, um diesen Effekt zu spielen. Bedrohungen können nicht durch Freie Völker Karten entfernt werden.   
+    **Schatten:** Verringere den Einfluss um :twilight1: und spiele einen Südländer, um eine Bedrohung entstehen zu lassen.
+  lore: Hörner wurden geblasen, und Trompeten schmetterten….

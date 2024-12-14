@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '2'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Gimli
+  subtitle: Opinionated Guide
+  text: |-
+    **Damage +1. Fellowship.**  
+    Each time you play a :dwarven: possession, you may draw a card.
+  lore: If anyone was to ask for my opinion, which I note they're not, I'd say we were taking the long way round.

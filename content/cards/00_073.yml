@@ -1,0 +1,26 @@
+set: '0'
+rarity: P
+number: '73'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Armored Easterlings
+  subtitle: ''
+  text: |-
+    **Skirmish:** Remove :twilight2: to make a lurker strength +1.   
+    **Skirmish:** Remove :twilight2: to make a lurker fierce until the regroup phase.   
+    **Skirmish:** Remove :twilight2: to make a lurker **Damage +1.** 
+  lore: The Men of the East were well-equipped.
+de:
+  title: Gerüstete Ostlinge
+  subtitle: ''
+  text: |-
+    **Kampf:** Verringere den Einfluss um :twilight2: um einem Schleicher Stärke +1 zu geben. **Kampf:** Verringere den Einfluss um :twilight2: um einen Schleicher bis zur Sammelphase erbittert zu machen.   
+    **Kampf:** Verringere den Einfluss um :twilight2: um einem Schleicher **Schaden +1** zu geben. 
+  lore: ''

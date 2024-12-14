@@ -1,0 +1,50 @@
+set: '15'
+rarity: C
+number: '68'
+unique: true
+culture: Gondor
+type: Possession
+class: Cloak
+cost: 1
+vit: '+1'
+res: '+1'
+en:
+  title: Ranger’s Cloak
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.  
+    While bearer is a ranger or at a forest site, each minion skirmishing bearer is site number +2.  
+    **Skirmish:** Add a threat or exert bearer to make a minion skirmishing a :gondor: Man site number +2.
+  lore: ''
+de:
+  title: Ranger's Cloak
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.  
+    While bearer is a ranger or at a forest site, each minion skirmishing bearer is site number +2.  
+    **Skirmish:** Add a threat or exert bearer to make a minion skirmishing a :gondor: Man site number +2.
+  lore: ''
+fr:
+  title: Ranger's Cloak
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.  
+    While bearer is a ranger or at a forest site, each minion skirmishing bearer is site number +2.  
+    **Skirmish:** Add a threat or exert bearer to make a minion skirmishing a :gondor: Man site number +2.
+  lore: ''
+it:
+  title: Ranger's Cloak
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.  
+    While bearer is a ranger or at a forest site, each minion skirmishing bearer is site number +2.  
+    **Skirmish:** Add a threat or exert bearer to make a minion skirmishing a :gondor: Man site number +2.
+  lore: ''
+es:
+  title: Ranger's Cloak
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.  
+    While bearer is a ranger or at a forest site, each minion skirmishing bearer is site number +2.  
+    **Skirmish:** Add a threat or exert bearer to make a minion skirmishing a :gondor: Man site number +2.
+  lore: ''

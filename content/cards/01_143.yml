@@ -1,0 +1,44 @@
+set: '1'
+rarity: R
+number: '143'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '9'
+vit: '4'
+site: 5
+en:
+  title: Troop of Uruk-hai
+  subtitle: ''
+  text: |-
+    **Damage +1**.   
+    A character skirmishing this minion does not gain strength bonuses from weapons.
+  lore: Attacking in swarming hordes, the Uruk-hai close with the enemy rapidly to make weapons useless.
+de:
+  title: Uruk-hai Trupp
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Charaktere, die gegen den Uruk-hai Trupp kämpfen, erhalten keinen Stärkebonus durch Waffen.
+  lore: Uruk-hai greifen in Horden an und gehen schnell in den Nahkampf, um Waffen nutzlos zu machen.
+fr:
+  title: Troupe d'Ourouk-Haï
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    Un personnage qui combat ce séide n’obtient pas de bonus de force grâce à des armes.
+  lore: Attaquant en hordes grouillantes, les Ourouk-Haï arrivent rapidement au contact de l'ennemi pour rendre les armes inutiles.
+it:
+  title: Schiera di Uruk-hai
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    Un personaggio che stia schermagliando con questo servitore non ottiene bonus alla forza dalle armi.
+  lore: Attaccando in orde confuse, gli Uruk-hai si avvicinano rapidamente al nemico per rendere inutili le armi.
+es:
+  title: Tropa de Uruk-hai
+  subtitle: ''
+  text: '**Daño +1.** Un personaje en escaramuza contra este siervo no gana bonificaciones de fuerza por armas.'
+  lore: Atacando en hordas, los Uruk-hai se acercan rápidamente al enemigo para hacer que las armas sean inútiles.

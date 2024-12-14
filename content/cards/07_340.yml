@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '340'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Right
+en:
+  title: Tower of Ecthelion
+  subtitle: ''
+  text: '**Sanctuary.** **Fellowship:** If you cannot spot 3 threats, add 3 threats to make the move limit for this turn +1.'
+  lore: ''
+de:
+  title: Der Turm von Ecthelion
+  subtitle: ''
+  text: '**Zuflucht.** **Gemeinschaft:** Lasse 3 Bedrohungen entstehen, um die Bewegungsweite für diesen Zug um 1 zu erhöhen, wenn du keine 3 Bedrohungen entdecken kannst.'
+  lore: ''

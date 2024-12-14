@@ -1,0 +1,38 @@
+set: '1'
+rarity: R
+number: '313'
+unique: true
+culture: Shire
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Sting
+  subtitle: ''
+  text: |-
+    Bearer must be Frodo.   
+    **Fellowship:** or **Regroup:** Exert Frodo to reveal an opponent’s hand. Remove :twilight1: for each Orc revealed (limit :twilight4:).
+  lore: ‘This is Sting…. Take it, if you like.’
+de:
+  title: Stich
+  subtitle: ''
+  text: 'Muss auf Frodo gespielt werden. Gemeinschaft oder **Sammeln:** Strenge Frodo an, um die Handkarten eines Gegenspielers offenzulegen. Verringere den Einfluss um :twilight1: für jeden aufgedeckten Ork (maximal :twilight4:).'
+  lore: Das ist Stich… Nimm es, wenn du magst.
+fr:
+  title: Dard
+  subtitle: ''
+  text: 'Le détenteur doit être Frodon. Compagnie ou **Ralliement :** Affaiblissez Frodon pour révéler la main d’un adversaire. Retirez :twilight1: pour chaque Orque révélé (limité à :twilight4:).'
+  lore: ‘Voici Dard…. Prends-la, si tu veux.’
+it:
+  title: Pungolo
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Frodo. Compagnia o   
+    **Raccolta:** Sforza Frodo per far mostrare la mano a un avversario. Rimuovi :twilight1: per ogni Orco mostrato (limite :twilight4:).
+  lore: ‘Questo è Pungolo…. Prendilo, se vuoi.’
+es:
+  title: Dardo
+  subtitle: ''
+  text: 'El portador debe ser Frodo. **Comunidad** o **Reagrupación:** Esfuerza a Frodo para revelar la mano de un oponente. Quita :twilight1: por cada Orco revelado (limite :twilight4:).'
+  lore: Esta es Dardo… Tómala, si quieres.

@@ -1,0 +1,24 @@
+set: '10'
+rarity: U
+number: '32'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Fifth Level
+  subtitle: ''
+  text: |-
+    **Fortification.**   
+    Bearer is strength –1 for each Fortification you can spot.   
+    **Maneuver:** Exert 2 :gondor: Men or spot 3 knights to transfer this condition to a minion. 
+  lore: A strong citadel it was indeed….
+de:
+  title: Fünfter Ring
+  subtitle: ''
+  text: |-
+    **Befestigung.**   
+    Der Träger erhält Stärke -1 für jede Befestigung, die du entdecken kannst.   
+    **Manöver:** Strenge 2 :gondor: Menschen an oder entdecke 3 Ritter, um diesen Effekt auf einen Diener zu verschieben.
+  lore: Eine wahrlich starke Veste….

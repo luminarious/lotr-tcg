@@ -1,0 +1,36 @@
+set: '4'
+rarity: C
+number: '17'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 4
+str: '11'
+vit: '1'
+site: 3
+en:
+  title: Dunlending Savage
+  subtitle: ''
+  text: ''
+  lore: The Dunlendings’ fury could only end in the death of the king of Rohan.
+de:
+  title: Wilder Dunländer
+  subtitle: ''
+  text: Die wilde Wut der Dunländer konnte nur durch den Tod des Königs von Rohan besänftigt werden.
+  lore: ''
+fr:
+  title: Sauvage Dun
+  subtitle: ''
+  text: Seule la mort du roi de Rohan pouvait mettre un terme à la furie de Ceux du Pays de Dun.
+  lore: ''
+it:
+  title: Selvaggio Dunlandiano
+  subtitle: ''
+  text: La furia dei Dunlandiani poteva concludersi solo con la morte del re di Rohan.
+  lore: ''
+es:
+  title: Salvaje Dunlendino
+  subtitle: ''
+  text: La furia de los Dunlendinos sólo terminará con la muerte del rey de Rohan.
+  lore: ''

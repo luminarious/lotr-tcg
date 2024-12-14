@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '356'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Right
+en:
+  title: Hornburg Causeway
+  subtitle: ''
+  text: '**Battleground.** The minion archery total is +2 for each unbound companion over 3. '
+  lore: ''
+de:
+  title: Dammweg zur Hornburg
+  subtitle: ''
+  text: '**Schlachtfeld.** Der Fernkampfwert der Diener erhöht sich um 2 für jeden nicht-verbundenen Gefährten über 3.'
+  lore: ''
+fr:
+  title: La Chaussée de Fort le Cor
+  subtitle: ''
+  text: '**Champ de bataille.** Pour chaque compagnon dissocié au delà de 3, le total d’archerie des séides est de +2.'
+  lore: '7'
+it:
+  title: Ponte del Trombatorrione
+  subtitle: ''
+  text: '**Campo di Battaglia.** Aggiungi +2 al totale degli arcieri tra i servitori per ogni compagno oltre 3.'
+  lore: ''
+es:
+  title: Camino Elevado De Cuernavilla
+  subtitle: ''
+  text: '**Campo de batalla.** El total de arquería de los siervos es +2 por cada compañero no-vinculado por encima de 3.'
+  lore: ''

@@ -1,0 +1,40 @@
+set: '2'
+rarity: U
+number: '48'
+unique: true
+culture: Isengard
+type: Condition
+cost: 2
+en:
+  title: Wizard Storm
+  subtitle: ''
+  text: |-
+    **Spell.** **Weather.** To play, exert an :isengard: minion. Plays on a site. Limit 1 per site.   
+    When the fellowship moves from this site, every companion must exert. Discard this condition at the end of the turn. 
+  lore: There was a black look in the sky, and the sun was wan. The wind had gone now round to the north-east.
+de:
+  title: Ein magischer Sturm
+  subtitle: ''
+  text: |-
+    **Zauberspruch.** **Wetter.**  
+    Strenge einen :isengard: Diener an, um diese Karte an einen Ort zu spielen. Maximal 1 pro Ort. Wenn sich die Gemeinschaft von diesem Ort fortbewegt, muss jeder Gefährte angestrengt werden. Lege diesen Effekt am Ende des Spielzugs ab.
+  lore: Der Himmel sah schwärzlich aus, und die Sonne war fahl. Der Wind hatte jetzt auf Nordost gedreht.
+fr:
+  title: Tempête Conjurée
+  subtitle: ''
+  text: |-
+    **Sort.** **Climat.**  
+    Pour jouer, affaiblissez un séide :isengard:. Jouable sur un site. Limite de 1 par site. Lorsque la compagnie quitte ce site, affaiblissez chaque compagnon. Défaussez cette situation à la fin du tour.
+  lore: 'Le ciel avait un aspect noir, et le soleil était pâle. Le vent avait tourné à présent vers le nord-est … '
+it:
+  title: Tempesta dello Stregone
+  subtitle: ''
+  text: |-
+    **Magia.** **Atmosferica.**  
+    Per giocarla, sforza un servitore :isengard:. Giocala su un sito. Limite 1 per sito. Quando la compagnia si sposta da quel sito, ogni compagno deve sforzarsi. Scarta questa condizione alla fine del turno.
+  lore: Vi era qualcosa di nero nel cielo, e il sole languiva. Il vento veniva ora da nord-est.
+es:
+  title: Tormenta de mago
+  subtitle: ''
+  text: '**Conjuro.** **Clima.** Para jugarla, esfuerza un siervo :isengard:. Se juega en un sitio. Límite 1 por sitio. Cuando la comunidad se mueve desde este sitio, cada compañero debe esforzarse. Descarta esta condición al final del turno.'
+  lore: El cielo tenía un aspecto negro, y el sol era macilento. El viento soplaba ahora hacia el nordeste.

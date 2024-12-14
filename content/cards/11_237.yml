@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '237'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Left
+en:
+  title: Ettenmoors
+  subtitle: ''
+  text: '**Plains.** **Skirmish:** Exert your character (except an enduring character), to make it strength +2.'
+  lore: ''
+de:
+  title: Ettenöden
+  subtitle: ''
+  text: '**Ebene. Kampf:** Strenge deinen Charakter (außer einen zähen Charakter) an, um ihm Stärke +2 zu geben.'
+  lore: ''

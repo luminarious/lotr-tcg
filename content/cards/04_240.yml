@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '240'
+unique: true
+culture: Raider
+type: Event
+class: Regroup
+cost: 4
+en:
+  title: New Fear
+  subtitle: ''
+  text: '**Regroup:** Exert a :raider: Man to add a burden for each companion over 4. The Free Peoples player may discard 2 companions (except the Ring-bearer) to prevent this. '
+  lore: They heard singing and coarse shouting. At first it seemed a long way off, but it drew nearer….
+de:
+  title: Neue Furcht
+  subtitle: ''
+  text: '**Sammeln:** Strenge einen :raider: Menschen an, um für jeden Gefährten über 4 eine Lastmarke auf den Ringträger zu legen. Der Freie Völker Spieler darf 2 Gefährten (außer den Ringträger) ablegen, um dies zu verhindern.'
+  lore: Sie hörten Singen und heisere Rufe. Zuerst schien es weit weg zu sein, aber es näherte sich….
+fr:
+  title: Nouvelle Peur
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez un Homme :raider: pour ajouter un point-fardeau pour chaque compagnon au delà de 4. Le joueur des Peuples Libres peut défausser 2 compagnons (excepté le Porteur de l’Anneau) pour empêcher ceci.'
+  lore: 'Ils entendaient des chants et des cris rauques. Cela parut en début venir de loin, mais le bruit se rapprocha… '
+it:
+  title: Una Nuova Paura
+  subtitle: ''
+  text: '**Raccolta:** Sforza un Uomo :raider: per aggiungere un segnalino fardello per ogni compagno oltre 4. Il giocatore dei Popoli Liberi può scartare 2 compagni (tranne il Portatore dell’Anello) per prevenire questo effetto.'
+  lore: Udirono canti e roche grida. Sulle prime sembravano giungere da lontano, ma poi si avvicinarono…
+es:
+  title: Nuevo Terror
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza un Hombre :raider: para añadir una carga por cada compañero por encima de 4. El jugador de Gentes Libres puede descartar 2 compañeros (excepto el Portador del Anillo) para prevenir esto.'
+  lore: Oyeron cantos y gritos roncos. Al principio parecían lejanos, pero se acercaban hacia ellos…

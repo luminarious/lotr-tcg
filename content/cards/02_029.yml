@@ -1,0 +1,38 @@
+set: '2'
+rarity: C
+number: '29'
+unique: true
+culture: Gandalf
+type: Possession
+class: Staff
+cost: 2
+str: '+1'
+en:
+  title: Wizard Staff
+  subtitle: ''
+  text: |-
+    Bearer must be a Wizard.   
+    **Skirmish:** Exert bearer twice to make a minion strength -3. 
+  lore: ‘We must have power – power to order things as we will for that Good which only the Wise can see.’
+de:
+  title: Stab des Zauberers
+  subtitle: ''
+  text: Muss auf einen Zauberer gespielt werden. **Kampf** Strenge den Träger zweimal an, um einem Diener Stärke -3 zu geben.
+  lore: Wir müssen Macht haben, Macht, alle Dinge zu ordnen, wir wir wollen, für jenes Wohl, das nur die Weisen erkennen können.
+fr:
+  title: Bâton de Magicien
+  subtitle: ''
+  text: Le détenteur doit être un Magicien. **Combat :** Affaiblissez le détenteur deux fois pour donner -3 en force à un séide.
+  lore: 'Nous devons avoir du pouvoir - pouvoir d''ordonner les choses comme nous le voulons pour le Bien que seul le Sage peut voir.” '
+it:
+  title: Bastone dello Stregone
+  subtitle: ''
+  text: |-
+    Il possessore deve essere uno Stregone.   
+    **Schermaglia:** Sforza il possessore due volte per sottrarre -3 alla forza di un servitore.
+  lore: ‘Dobbiamo ottenere potere – il potere di utilizzare le cose secondo la nostra volontà, per quel Bene che solo i Saggi riescono a vedere’
+es:
+  title: Vara de mago
+  subtitle: ''
+  text: El portador debe ser un Mago. **Escaramuza:** Esfuerza dos veces al portador para dar a un siervo fuerza -3.
+  lore: Debemos tener poder – poder para ordenar las cosas a nuestra voluntad para ese Bien que solo los Sabios pueden ver.

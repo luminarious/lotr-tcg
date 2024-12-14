@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '354'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Right
+en:
+  title: Anduin Wilderland
+  subtitle: ''
+  text: '**Forest.** **River.** While the fellowship is at Anduin Wilderland, skip the archery phase.'
+  lore: ''
+de:
+  title: Das Anduin Wilderland
+  subtitle: ''
+  text: '**Wald.** **Fluss.** Überspringe die Fernkampfphase, solange sich die Gemeinschaft im Anduin Wilderland aufhält.'
+  lore: ''
+fr:
+  title: Contrée Sauvage de l'Anduin
+  subtitle: ''
+  text: '**Forêt.** **Rivière.** Tant que la compagnie est dans la Contrée Sauvage de l’Anduin, passez la phase d’archerie.'
+  lore: ''
+it:
+  title: Anduin delle Terre Selvagge
+  subtitle: ''
+  text: '**Foresta.** **Fiume.** Finché la Compagnia è ad Anduin delle Terre Selvagge, salta la fase degli arcieri.'
+  lore: ''
+es:
+  title: Tierras Salvajes del Anduin
+  subtitle: ''
+  text: '**Bosque.** **Río.** Mientras la comunidad este en las Tierras Salvajes del Anduin, sáltate la fase de arquería.'
+  lore: ''

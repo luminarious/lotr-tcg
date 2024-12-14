@@ -1,0 +1,16 @@
+set: '12'
+rarity: R
+number: '18'
+unique: true
+culture: Elven
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Hadafang
+  subtitle: ''
+  text: |-
+    Bearer must be Arwen or Elrond.   
+    Each time bearer wins a skirmish, you may exert him or her to discard a condition from play.
+  lore: This blade is called Hadafang, a noble defense against the enemy throng for a noble lady.

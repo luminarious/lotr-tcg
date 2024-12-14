@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '56'
+unique: true
+culture: Dwarven
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Search Far and Wide
+  subtitle: ''
+  text: '**Fellowship:** Spot a Dwarf and discard the top card of your draw deck to draw 2 cards. '
+  lore: ‘We have been set many riddles since we came to Tol Brandir, but this is the hardest to unravel.’
+de:
+  title: Weit und breit absuchen
+  subtitle: ''
+  text: '**Gemeinschaft.** Entdecke einen Zwerg und lege die oberste Karte von deinem Spieldeck ab, um 2 Karten zu ziehen.'
+  lore: Uns sind viele Rätsel aufgegeben worden, seit wir zum Tol Brandir kamen, aber dies hier ist am schwersten zu lösen.
+fr:
+  title: Inspection de Tous Côtés
+  subtitle: ''
+  text: '**Compagnie :** Désignez un Nain et défaussez la carte du dessus de votre pioche pour piocher 2 cartes.'
+  lore: 'Nous nous sommes trouvés devant bien des énigmes depuis notre arrivée à Tol Brandir, mais celle-ci est la plus difficile à déchiffrer.” '
+it:
+  title: Cercare in Lungo e in Largo
+  subtitle: ''
+  text: '**Compagnia:** Avvista un Nano e scarta la prima carta del tuo mazzo di gioco per pescare 2 carte.'
+  lore: ‘Ci siamo trovati innanzi a molti enigmi da quando arrivammo a Tol Brandir, ma questo è il più arduo da risolvere.’
+es:
+  title: Buscar A Lo Largo Y A Lo Ancho
+  subtitle: ''
+  text: '**Comunidad:** Avista un Enano y descarta la carta superior de tu mazo de robar para robar 2 cartas.'
+  lore: Hemos tropezado con muchos enigmas desde que llegamos a Tol Brandir, pero este es el más difícil de descifrar.

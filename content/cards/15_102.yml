@@ -1,0 +1,16 @@
+set: '15'
+rarity: U
+number: '102'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '11'
+vit: '2'
+site: 4
+en:
+  title: Black Land Overlord
+  subtitle: ''
+  text: '**Maneuver:** Remove a threat and spot another :orc: minion to exert an unbound companion.'
+  lore: Move on! To the Gate!

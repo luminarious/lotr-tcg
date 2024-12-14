@@ -1,0 +1,33 @@
+set: '5'
+rarity: R
+number: '84'
+unique: true
+culture: Rohan
+type: Event
+class: Fellowship
+cost: 3
+en:
+  title: I Am Here
+  subtitle: ''
+  text: '**Fellowship:** Exert Théoden twice to heal every other companion with the Théoden signet twice.'
+  lore: ‘The last host of the Eorlingas has ridden forth. It will not return without battle.’
+de:
+  title: Ich bin hier
+  subtitle: ''
+  text: Gemeinschaft. Strenge Théoden zweimal an, um jeden anderen Gefährten mit dem Théodensiegel zweimal zu heilen.
+  lore: Das letzte Heer der Eorlingas ist ausgeritten. Es wird nicht ohne Schlacht zurückkehren.
+fr:
+  title: Je Suis Là
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez Théoden deux fois pour guérir deux fois tous les autres compagnons qui possèdent le signet Théoden.'
+  lore: 'La dernière armée des Eorlingas est sortie. Elle ne rentrera pas sans combattre.” '
+it:
+  title: Sono Qui
+  subtitle: ''
+  text: '**Compagnia:** Sforza due volte Théoden per curare due volte ogni altro compagno con il sigillo di Théoden.'
+  lore: ‘L'ultimo esercito degli Eorlingas è partito. Non tornerà senza aver combattuto.’
+es:
+  title: Aquí estoy
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza a Théoden dos veces para curar dos veces a cada otro compañero con el sello de Théoden.'
+  lore: La última hueste de los Eorlingas se ha puesto en camino. No volverá a Edoras sin presentar batalla.

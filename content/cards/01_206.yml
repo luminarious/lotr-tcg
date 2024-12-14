@@ -1,0 +1,38 @@
+set: '1'
+rarity: R
+number: '206'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Bent on Discovery
+  subtitle: ''
+  text: |-
+    **Search.**   
+    At the beginning of each of your Shadow phases, draw 1 card.   
+    At the end of each of your Shadow phases, exert a Nazgûl or discard this condition.
+  lore: The riding figure sat quite still…. From inside the hood came a noise as of someone sniffing….
+de:
+  title: Versessen auf Entdeckung
+  subtitle: ''
+  text: '**Suche.** Zu Beginn jeder deiner Schattenphasen, ziehe 1 Karte. Am Ende jeder deiner Schattenphasen, strenge einen Nazgûl an oder lege diesen Effekt ab.'
+  lore: Der Reiter saß ganz still…Unter der Kapuze hervor kam ein Geräusch, wie wenn jemand schnüffelt…
+fr:
+  title: Résolu à les Trouver
+  subtitle: ''
+  text: '**Recherche.** Au début de chacune de vos phases de l’Ombre, piochez 1 carte. À la fin de chacune de vos phases de l’Ombre, affaiblissez un Nazgûl ou défaussez cette situation.'
+  lore: Le cavalier resta immobile…. De sous le capuchon vint le son de quelqu'un qui renifle pour saisir une odeur fugitive….
+it:
+  title: Intento a Cercare
+  subtitle: ''
+  text: |-
+    **Ricerca.** Giocala nella tua area di supporto.  
+    All’inizio di ogni tua fase, pesca 1 carta. Alla fine di ogni tua fase Ombra, sforza un Nazgûl o scarta questa condizione.
+  lore: Il cavaliere rimase immobile… Dall'interno del cappuccio proveniva come un sibilo di uomo che annusasse…
+es:
+  title: Empeñados en Descubrirlo
+  subtitle: ''
+  text: '**Búsqueda.** Al principio de cada una de tus fases de Sombra, roba 1 carta. Al final de cada una de tus fases de Sombra, esfuerza un Nazgûl o descarta esta condición.'
+  lore: El jinete permaneció sentado… Del interior del capuchón vino un sonido, como si alguien olfateara…

@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '44'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Moment of Respite
+  subtitle: ''
+  text: At the start of your regroup phase, you may discard 2 cards from hand to heal Gandalf.
+  lore: ‘…Gandalf says you must go ere nightfall, and the Lord of the Mark is eager for his own house.’
+de:
+  title: Augenblick der Ruhe
+  subtitle: ''
+  text: Zu Beginn deiner Sammelphase darfst du 2 Karten aus deiner Hand ablegen, um Gandalf zu heilen.
+  lore: …Gandalf sagt, Ihr müsstet vor Einbruch der Nacht fortreiten, und der Herr der Mark ist ungeduldig, nach Hause zu kommen.

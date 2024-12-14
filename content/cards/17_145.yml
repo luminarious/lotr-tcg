@@ -1,0 +1,12 @@
+set: '17'
+rarity: U
+number: '145'
+unique: true
+culture: ''
+type: Site
+cost: 0
+en:
+  title: Dol Guldur
+  subtitle: ''
+  text: '**Regroup:** Exert your minion and remove a threat to make the Free Peoples player discard one of his or her conditions.'
+  lore: ''

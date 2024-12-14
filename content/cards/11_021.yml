@@ -1,0 +1,16 @@
+set: '11'
+rarity: S
+number: '21'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '7'
+en:
+  title: Legolas
+  subtitle: Companion of the Ring
+  text: While Legolas is at a battleground or forest site, he is strength +2 and resistance +2.
+  lore: ‘I am one of the Nine Companions who set out with Mithrandir from Imladris… and with this Dwarf, my friend, I came with the Lord Aragorn.’

@@ -1,0 +1,13 @@
+set: '15'
+rarity: U
+number: '192'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Right
+en:
+  title: Isengard Ruined
+  subtitle: ''
+  text: '**Battleground.** Each time a follower is transfered to a character, the first Shadow player may exert a companion twice.'
+  lore: ''

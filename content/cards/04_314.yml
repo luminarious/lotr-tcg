@@ -1,0 +1,21 @@
+set: '4'
+rarity: C
+number: '314'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+signet: Signet_Frodo
+en:
+  title: Pippin
+  subtitle: Woolly-footed Rascal
+  text: '**Skirmish:** Add a burden to discard Pippin. Any Shadow player may remove :twilight2: to prevent this. '
+  lore: ‘We had foul fare with the Orcs, and little enough for days before that. It seems a long while since we could eat to heart’s content.’
+it:
+  title: Pipino
+  subtitle: Furfante dai Piedi Lanosi
+  text: '**Schermaglia:** Aggiungi un segnalino fardello per scartare Pipino. Ogni giocatore Ombra può rimuovere :twilight2: per prevenire questo effetto.'
+  lore: ‘E’ stato assai brutto il viaggio con gli Orchi, e l'alimentazione dei giorni scorsi lasciava a desiderare. Sembrava passato un tempo eterno dall'ultima volta che avevamo mangiato a sazietà.’

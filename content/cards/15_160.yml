@@ -1,0 +1,18 @@
+set: '15'
+rarity: U
+number: '160'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Following Uruk
+  subtitle: ''
+  text: |-
+    **Fierce. Hunter 1.**  
+    Each time this minion wins a skirmish, you may exert a companion not assigned to a skirmish.
+  lore: 'The hobbits were left with the Isengarders: a grim dark band…of large, swart, slant-eyed Orcs with great bows and short broad-bladed swords.'

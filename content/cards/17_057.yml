@@ -1,0 +1,18 @@
+set: '17'
+rarity: C
+number: '57'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 2
+str: '6'
+vit: '1'
+site: 4
+en:
+  title: Sunland Skirmisher
+  subtitle: ''
+  text: |-
+    This minion is strength +1 for each :men: minion stacked on each :men: possession.  
+    At the start of your maneuver phase, you may play a minion stacked on a :men: possession as if from hand.
+  lore: Vile servants of Sauron marched to their master.

@@ -1,0 +1,24 @@
+set: '7'
+rarity: C
+number: '253'
+unique: true
+culture: Rohan
+type: Possession
+class: Mount
+cost: 2
+en:
+  title: Swift Steed
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.   
+    While at a plains site, bearer takes no more than 1 wound during each skirmish.   
+    At the start of each skirmish involving bearer, each minion skirmishing bearer must exert.
+  lore: ''
+de:
+  title: Geschwindes Ross
+  subtitle: ''
+  text: |-
+    Muss auf einen :rohan: Menschen gespielt werden.   
+    Der Reiter erleidet nicht mehr als eine Wunde in jedem Kampf, solange er sich auf einer Ebene befindet.   
+    Zu Beginn jedes Kampfes, an dem der Reiter beteiligt ist, müssen alle Diener in diesem Kampf angestrengt werden. 
+  lore: ''

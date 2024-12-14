@@ -1,0 +1,33 @@
+set: '5'
+rarity: C
+number: '85'
+unique: true
+culture: Rohan
+type: Event
+class: Regroup
+cost: 1
+en:
+  title: Let Us Be Swift
+  subtitle: ''
+  text: '**Regroup:** Spot 3 valiant Men to discard up to 2 conditions and liberate a site.'
+  lore: ‘Let us drive through such foes as are already between us and the fastness.’
+de:
+  title: Lasst uns rasch handeln
+  subtitle: ''
+  text: '**Sammeln:** Entdecke 3 tapfere Menschen, um bis zu 2 Effekte abzulegen und einen Ort zu befreien.'
+  lore: Lasst uns durch jene Feinde hindurchstoßen, die schon zwischen uns und der Festung stehen.
+fr:
+  title: Forçons de Vitesse
+  subtitle: ''
+  text: '**Ralliement :** Désignez 3 Hommes vaillants pour défausser jusqu’à 2 situations et libérer un site.'
+  lore: 'Passons au travers de ceux qui sont déjà entre nous et la place forte.” '
+it:
+  title: Affrettiamoci
+  subtitle: ''
+  text: '**Raccolta:** Avvista 3 Uomini Valorosi per scartare fino a 2 condizioni e liberare un sito.'
+  lore: ‘Cerchiamo di abbattere almeno i nemici che ci separano dalla fortezza.’
+es:
+  title: Démonos prisa
+  subtitle: ''
+  text: '**Reagrupación:** Avista 3 Hombres valientes para descartar hasta 2 condiciones y liberar un sitio.'
+  lore: Tratemos de cruzar a salvo las líneas enemigas que nos separan de la fortaleza.

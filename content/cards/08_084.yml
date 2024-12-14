@@ -1,0 +1,25 @@
+set: '8'
+rarity: R
+number: '84'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 8
+str: '14'
+vit: '4'
+site: 3
+en:
+  title: The Witch-king
+  subtitle: Black Captain
+  text: |-
+    **Enduring.**   
+    Each Man skirmishing The Witch-king loses all strength bonuses from weapons.
+  lore: …the Nazgûl Lord like a shadow of despair.
+de:
+  title: Der Hexenkönig
+  subtitle: Schwarzer Heerführer
+  text: |-
+    **Zäh.**   
+    Jeder Mensch, der gegen den Hexenkönig kämpft, verliert sämtliche Stärkeboni durch Waffen.
+  lore: Lass den Sturm nicht enden, bis die Stadt erobert ist.

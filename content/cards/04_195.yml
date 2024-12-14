@@ -1,0 +1,45 @@
+set: '4'
+rarity: C
+number: '195'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '6'
+vit: '2'
+site: 5
+en:
+  title: Uruk Seeker
+  subtitle: ''
+  text: |-
+    **Tracker.** **Fierce.**  
+    While skirmishing a character bearing a search card, this minion is strength +2 and **damage +1.**
+  lore: ‘No crying out, no trying to escape.’
+de:
+  title: Uruk Fährtensucher
+  subtitle: ''
+  text: |-
+    **Spurenleser.** **Erbittert.**  
+    Solange dieser Diener gegen einen Charakter kämpft, auf dem eine Suche-Karte liegt, erhält er Stärke +2 und **Schaden +1.**
+  lore: Kein Schreien, kein Fluchtversuch.
+fr:
+  title: Chercheur Ourouk
+  subtitle: ''
+  text: |-
+    **Traqueur.** **Acharné.**  
+    Lorsqu’il combat un personnage détenant une carte de recherche, ce séide a +2 en force et inflige des **dégâts +1.**
+  lore: 'Pas d''appels, pas de tentative d''évasion.” '
+it:
+  title: Cercatore Uruk
+  subtitle: ''
+  text: |-
+    **Inseguitore.**  
+    **Feroce.**  
+    Mentre schermaglia con un personaggio che porta una carta Ricerca, aggiungi +2 alla forza e **Danno +1** a questo servitore.
+  lore: ‘Niente grida, né tentativi di fuga.’
+es:
+  title: Escudriñador Uruk
+  subtitle: ''
+  text: '**Rastreador.** **Fiero.** Mientras esté en una escaramuza con un personaje que lleve una carta de búsqueda, este siervo es fuerza +2 y **daño +1.**'
+  lore: No te resistas ahora. No grites y no intentes escapar.

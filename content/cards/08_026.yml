@@ -1,0 +1,25 @@
+set: '8'
+rarity: C
+number: '26'
+unique: true
+culture: Gollum
+type: Minion
+race: Spider
+cost: 6
+str: '8'
+vit: '8'
+site: 8
+en:
+  title: Shelob
+  subtitle: Last Child of Ungoliant
+  text: |-
+    **Enduring.** **Fierce.**   
+    While in a fierce skirmish, Shelob is **damage +1**.
+  lore: …for all living things were her food, and her vomit darkness.
+de:
+  title: Kankra
+  subtitle: Letztes Kind Ungoliants
+  text: |-
+    **Zäh.** **Erbittert.**   
+    In einem **erbittert**en Kampf erhält Kankra **Schaden +1**.
+  lore: Denn alle Lebewesen waren ihre Nahrung und ihr Erbrochenes Dunkelheit.

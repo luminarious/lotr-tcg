@@ -1,0 +1,18 @@
+set: '8'
+rarity: R
+number: '67'
+unique: true
+culture: Wraith
+type: Event
+class: Assignment
+cost: 4
+en:
+  title: Between Nazgûl and Prey
+  subtitle: ''
+  text: 'Exert an enduring :wraith: minion twice to assign that minion to an unbound companion.'
+  lore: ‘The age of Men is over.’
+de:
+  title: Zwischen den Nazgûl und seine Beute
+  subtitle: ''
+  text: 'Strenge einen zähen :wraith: Diener zweimal an, um diesen einem nicht-verbundenen Gefährten zuzuweisen.'
+  lore: … der Herr der Nazgûl wie ein Schatten der Hoffnungslosigkeit.

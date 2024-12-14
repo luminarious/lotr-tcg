@@ -1,0 +1,33 @@
+set: '13'
+rarity: C
+number: '51'
+unique: true
+culture: Gollum
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: It’s My Birthday
+  subtitle: ''
+  text: Make Gollum strength +2 (or +4 if you can spot Sméagol or Déagol).
+  lore: ‘Give us that, Déagol, my love….’
+de:
+  title: Es ist mein Geburtstag
+  subtitle: ''
+  text: Gib Gollum Stärke +2 (oder +4, wenn du Sméagol oder Déagol entdecken kannst).
+  lore: Gib uns das, Déagol, mein Lieber….
+fr:
+  title: It's My Birthday
+  subtitle: ''
+  text: Make Gollum strength +2 (or +4 if you can spot Sméagol or Déagol).
+  lore: ‘Give us that, Déagol, my love….’
+it:
+  title: It's My Birthday
+  subtitle: ''
+  text: Make Gollum strength +2 (or +4 if you can spot Sméagol or Déagol).
+  lore: ‘Give us that, Déagol, my love….’
+es:
+  title: It's My Birthday
+  subtitle: ''
+  text: Make Gollum strength +2 (or +4 if you can spot Sméagol or Déagol).
+  lore: ‘Give us that, Déagol, my love….’

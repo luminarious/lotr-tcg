@@ -1,0 +1,33 @@
+set: '3'
+rarity: R
+number: '105'
+unique: true
+culture: Sauron
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Why Shouldn't I Keep It?
+  subtitle: ''
+  text: '**Maneuver:** Spot a :sauron: minion to discard Bilbo. The Free Peoples player may discard 2 Free Peoples conditions to prevent this. '
+  lore: ‘No, wait, it’s here in my pocket. Isn't that… isn't that odd now?’
+de:
+  title: Warum sollte ich ihn nicht behalten?
+  subtitle: ''
+  text: '**Manöver:** Entdecke einen :sauron: Diener, um Bilbo abzulegen. Der Freie Völker Spieler darf 2 Effekte der Freien Völker ablegen, um dies zu verhindern.'
+  lore: Nein, warte, er ist hier in meiner Tasche. Ist das nicht, ist das nicht seltsam?
+fr:
+  title: Pourquoi ne le Garderais-Je Pas?
+  subtitle: ''
+  text: '**Manœuvre :** Désignez un séide :sauron: pour défausser Bilbon. Le joueur des Peuples Libres peut défausser deux situations des Peuples Libres pour empêcher ceci.'
+  lore: 'Non, attendez, il est ici dans ma poche. N''est-ce pas… n''est-ce pas étrange? Et puis après tout, pourquoi pas?” '
+it:
+  title: Perché non Dovrei Tenerlo?
+  subtitle: ''
+  text: '**Manovra:** Avvista un servitore :sauron: per scartare Bilbo. Il giocatore dei Popoli Liberi può scartare 2 condizioni dei Popoli Liberi per prevenirlo.'
+  lore: ‘No, aspetta, sta qui nella mia tasca. Non è… non è strano?’
+es:
+  title: ¿Porqué No Debería Quedármelo?
+  subtitle: ''
+  text: '**Maniobra:** Avista un siervo :sauron: para descartar a Bilbo. El jugador de Gentes Libres puede descartar 2 condiciones de Gentes Libres para prevenir esto.'
+  lore: No, espera, está aquí en mi bolsillo. No es… ¿No es raro? Pero, después de todo, ¿porqué no?

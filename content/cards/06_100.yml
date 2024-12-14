@@ -1,0 +1,38 @@
+set: '6'
+rarity: C
+number: '100'
+unique: true
+culture: Sauron
+type: Minion
+race: Wraith
+cost: 1
+str: '5'
+vit: '1'
+site: 4
+en:
+  title: Dead Ones
+  subtitle: ''
+  text: |-
+    **Twilight.** **Damage +1. **   
+    To play this minion, remove a burden or spot a twilight minion.
+  lore: ‘The Dead can't really be there! Is it some devilry hatched in the Dark Land?’
+de:
+  title: Die Toten
+  subtitle: ''
+  text: '**Zwielicht.** **Schaden +1.** Entferne eine Lastmarke vom Ringträger oder entdecke einen Zwielichtdiener, um diesen Diener zu spielen.'
+  lore: Die Toten können doch nicht wirklich da sein! Ist das irgendwie Schurkerei, die im Dunklen Land ausgeheckt wurde?
+fr:
+  title: Les Morts
+  subtitle: ''
+  text: '**Crépusculaire.** **Dégâts +1.**. Pour jouer ce séide, retirez un point-fardeau ou désignez un séide crépusculaire.'
+  lore: 'Les Morts ne peuvent être réellement là ! C''est quelque sorcellerie tramée en Terre Ténébreuse ?” '
+it:
+  title: I Morti
+  subtitle: ''
+  text: '**Crepuscolo.** **Danno +1.** Per giocare questo servitore, rimuovi un segnalino fardello o avvista un servitore crepuscolo.'
+  lore: ‘I Morti non possono essere effettivamente qui! Qualche diavoleria cova forse nell'Oscuro Paese?’
+es:
+  title: Los Muertos
+  subtitle: ''
+  text: '**Penumbra.** **Daño +1.** Para jugar este siervo, quita una carga o avista un siervo penumbra.'
+  lore: ¡Los Muertos no pueden estar aquí! ¿Es alguna nueva brujería tramada en las Tierras Oscuras?

@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '121'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Foraging Orc
+  subtitle: ''
+  text: 'When you play this minion, you may spot another :orc: minion and a companion who has resistance 3 or less to add :twilight2:.'
+  lore: Though most Orcs are small in stature, seldom can one be found without another nearby.
+de:
+  title: Stöbernder Ork
+  subtitle: ''
+  text: 'Wenn du diesen Diener spielst, darfst du einen anderen :orc: Diener und einen Gefährten mit Resistenz 3 oder weniger entdecken, um den Einfluss um :twilight2: zu erhöhen.'
+  lore: Alleine sind Orks eher schwach, nur sind sie selten allein.

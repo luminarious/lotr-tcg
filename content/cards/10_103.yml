@@ -1,0 +1,22 @@
+set: '10'
+rarity: C
+number: '103'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Window of The Eye
+  subtitle: ''
+  text: |-
+    To play, spot a :sauron: minion.   
+    Each time the fellowship moves during the regroup phase, you may remove a threat to wound an unbound companion. 
+  lore: …as from some great window immeasurably high there stabbed northward a flame of red, the flicker of a piercing Eye….
+de:
+  title: Das Fenster des Auges
+  subtitle: ''
+  text: |-
+    Entdecke einen :sauron: Diener, um diesen Effekt zu spielen.   
+    Jedes Mal, wenn sich die Gemeinschaft während der Sammelphase bewegt, darfst du eine Bedrohung entfernen, um einen nicht-verbundenen Gefährten zu verwunden.
+  lore: … wie aus einem großen und unermeßlich hohen Fenster stieß eine rote Flamme nach Norden, das Flackern eines durchbohrenden Auges….

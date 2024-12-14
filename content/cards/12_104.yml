@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '104'
+unique: true
+culture: Orc
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Taunt
+  subtitle: ''
+  text: 'Reveal the top 5 cards of your draw deck (or, if the fellowship is at a battleground site, the top 7 cards) to make an :orc: minion strength +1 for each :orc: card revealed.'
+  lore: ‘Go on. Call for help. Squeal! No one’s gonna save you now.’
+de:
+  title: Verhöhnen
+  subtitle: ''
+  text: 'Decke die obersten 5 Karten deines Spieldecks auf (oder die obersten 7 Karten, wenn sich die Gemeinschaft auf einem Schlachtfeld befindet). Gib einem :orc: Diener Stärke +1 für jede so aufgedeckte :orc: Karte.'
+  lore: Nur zu! Ruft doch um Hilfe! Quiekt! Jetzt wird euch keiner mehr retten können!

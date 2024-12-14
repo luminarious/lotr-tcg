@@ -1,0 +1,23 @@
+set: '13'
+rarity: R
+number: '141'
+unique: true
+culture: Sauron
+type: Artifact
+class: Hand Weapon
+cost: 0
+str: '+2'
+vit: '+1'
+en:
+  title: Sceptre of the Dark Lord
+  subtitle: ''
+  text: |-
+    Bearer must be Sauron.  
+    He is **damage +1**.  
+    Each time Sauron wins a skirmish and the companion he is skirmishing is not killed, you may assign X wounds to other companions, where X is the current region number.
+  lore: ''
+de:
+  title: Das Szepter desDunklen Herrschers
+  subtitle: ''
+  text: Muss auf Sauron gespielt werden. Jedes Mal, wenn Sauron einen Kampf gewinnt und er den Gefährten, gegen den er kämpft, nicht tötet, darfst du anderen Gefährten X Wunden zufügen, wobei X der aktuellen Region entspricht.
+  lore: ''

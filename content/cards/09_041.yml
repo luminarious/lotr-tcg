@@ -1,0 +1,21 @@
+set: '9'
+rarity: R+
+number: '41'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 7
+str: '15'
+vit: '3'
+site: 4
+en:
+  title: Host of Moria
+  subtitle: Legion of the Underdeeps
+  text: 'When you play Host of Moria, you may play a :moria: card from your discard pile. '
+  lore: There was a horn-blast and a rush of feet, and orcs one after another leaped into the chamber.
+de:
+  title: Heer von Moria
+  subtitle: Legionen des Unterreiches
+  text: 'Du darfst eine :moria: Karte aus deinem Ablagestapel spielen, wenn du das Heer von Moria spielst.'
+  lore: Ein Hornstoß erscholl und ein Getrappel von Füßen war zu hören, und dann sprang ein Ork nach dem anderen in die Kammer.

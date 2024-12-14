@@ -1,0 +1,36 @@
+set: '3'
+rarity: U
+number: '100'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '3'
+site: 6
+en:
+  title: Orc Veteran
+  subtitle: ''
+  text: '**Skirmish:** Discard your :sauron: condition to make a character skirmishing this minion strength -1. '
+  lore: ‘There was war, and the land was laid waste….’
+de:
+  title: Ork Veteran
+  subtitle: ''
+  text: '**Kampf** Lege einen deiner :sauron: Effekte ab, um einem Gefährten oder Verbündeten, der gegen diesen Diener kämpft, Stärke -1 zu geben.'
+  lore: … und es gab Krieg, und das Land wurde verwüstet…
+fr:
+  title: Vétéran Orque
+  subtitle: ''
+  text: '**Combat :** Défausser votre situation :sauron: pour donner -1 en force à un personnage qui combat ce séide.'
+  lore: '… il y eut la guerre, le pays fut dévasté…” '
+it:
+  title: Orco Veterano
+  subtitle: ''
+  text: '**Schermaglia:** Scarta una tua condizione :sauron: per sottrarre -1 alla forza di un personaggio che stia schermagliando con questo servitore.'
+  lore: Allora vi fu la guerra; e il paese fu spianato…’
+es:
+  title: Veterano Orco
+  subtitle: ''
+  text: '**Escaramuza:** Descarta tu condición :sauron: para dar al personaje que esté en una escaramuza contra este siervo fuerza -1.'
+  lore: Hubo guerra, y la tierra se convirtió en desolación…

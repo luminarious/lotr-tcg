@@ -1,0 +1,21 @@
+set: '11'
+rarity: U
+number: '124'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '12'
+vit: '2'
+site: 4
+en:
+  title: Hill Orc
+  subtitle: ''
+  text: Each time this minion wins a skirmish, you may exert each companion who has resistance 4 or less.
+  lore: The foul Orcs who slaughtered the last of Balin’s followers still thrive in the halls of Khazad-dûm and the surrounding countryside.
+de:
+  title: Hügelork
+  subtitle: ''
+  text: Jedes Mal, wenn dieser Diener einen Kampf gewinnt, darfst du jeden Gefährten mit Resistenz 4 oder weniger anstrengen.
+  lore: Die bösen Orks, die Balins Gefolge töteten, lassen es sich immer noch in Khazad-dûm gut gehen.

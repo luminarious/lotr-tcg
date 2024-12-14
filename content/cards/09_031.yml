@@ -1,0 +1,18 @@
+set: '9'
+rarity: R+
+number: '31'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: ''
+en:
+  title: Boromir
+  subtitle: Bearer of Council
+  text: |-
+    While Boromir is the Ring-bearer, at the start of each skirmish involving him, add 3 burdens or wound him twice.   
+    Each time Boromir wins a skirmish, discard each minion he is skirmishing. 
+  lore: ‘True-hearted Men, they will not be corrupted. We of Minas Tirith have been staunch….’

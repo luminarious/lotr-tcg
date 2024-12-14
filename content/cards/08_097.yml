@@ -1,0 +1,25 @@
+set: '8'
+rarity: U
+number: '97'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Gorgoroth Breaker
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    **Archery:** Exert this minion or stack it on a site you control to make the fellowship archery total –2.
+  lore: …like a storm upon the plain and a thunder in the mountains.
+de:
+  title: Gorgoroth Linienbrecher
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    **Fernkampf:** Strenge diesen Diener an oder lagere ihn auf einem Ort, den du kontrollierst, um den Fernkampfwert der Gemeinschaft um 2 zu reduzieren.
+  lore: Die Stadt steht überall in Flammen, und das Feld ist voller Feinde.

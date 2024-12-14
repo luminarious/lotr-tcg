@@ -1,0 +1,43 @@
+set: '5'
+rarity: C
+number: '90'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Rohirrim Scout
+  subtitle: ''
+  text: |-
+    **Valiant.**  
+    **Regroup:** Exert this companion and spot a :rohan: possession to return that possession to hand.
+  lore: …scouts rode out far ahead, passing like shadows in the folds of the land.
+de:
+  title: Späher der Rohirrim
+  subtitle: ''
+  text: '**Tapfer.** **Sammeln:** Strenge diesen Gefährten an und entdecke eine :rohan: Ausrüstung, um diese wieder auf deine Hand zu nehmen.'
+  lore: … Späher ritten weit voraus und verschwanden wie Schatten in den Falten des Landes.
+fr:
+  title: Éclaireur Rohirrim
+  subtitle: ''
+  text: |-
+    Vaillant.   
+    **Ralliement :** Affaiblissez ce compagnon et désignez une possession :rohan: pour reprendre cette possession en main.
+  lore: '… des éclaireurs partirent au loin, passant comme des ombres dans les replis du terrain. '
+it:
+  title: Esploratore Rohirrim
+  subtitle: ''
+  text: |-
+    **Valoroso.**   
+    **Raccolta:** Sforza questo compagno e avvista un bene :rohan: per riprendere in mano quel bene.
+  lore: …gli esploratori cavalcarono avanti, come ombre fra le pieghe della campagna.
+es:
+  title: Explorador Rohirrim
+  subtitle: ''
+  text: |-
+    **Valiente.**   
+    **Reagrupación:** Esfuerza este compañero y avista una posesión :rohan: para devolver esa posesión a tu mano.
+  lore: …algunos jinetes partieron a explorar los caminos, deslizándose como sombras entre los repliegues del terreno.

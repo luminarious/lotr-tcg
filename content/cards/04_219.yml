@@ -1,0 +1,45 @@
+set: '4'
+rarity: R
+number: '219'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 6
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Desert Lord
+  subtitle: ''
+  text: |-
+    **Southron.** **Archer.**   
+    **Archery:** Exert Desert Lord to exert a companion (except the Ring-bearer); Desert Lord does not add to the minion archery total. 
+  lore: Southron legends tell of powerful warrior leaders and the kingdoms they have conquered.
+de:
+  title: Wüstenherrscher
+  subtitle: ''
+  text: |-
+    **Südländer.** **Bogenschütze.**  
+    **FernKampf** Strenge diesen Diener an, um einen Gefährten (außer den Ringträger) anzustrengen; der Wüstenherrscher zählt nicht zum Fernkampfwert der Diener.
+  lore: Die Legenden des Südlandes erzählten von mächtigen Kriegern und den Königreichen, die sie erobert haben.
+fr:
+  title: Seigneur du Désert
+  subtitle: ''
+  text: |-
+    **Suderon.** **Archer.**  
+    **Archerie :** Affaiblissez le Seigneur du Désert pour affaiblir un compagnon (excepté le Porteur de l’Anneau); le Seigneur du Désert ne s’ajoute pas au total d’archerie des séides.
+  lore: Les légendes suderones parlent de puissants chefs guerriers et des royaumes qu'ils ont conquis.
+it:
+  title: Signore del Deserto
+  subtitle: ''
+  text: |-
+    **Sudrone.**  
+    **Arciere.**  
+    **Arcieri:** Sforza Signore del Deserto per sforzare un compagno (tranne il Portatore dell’Anello); Signore del Deserto non si aggiunge al totale degli arcieri tra i servitori.
+  lore: Le leggende dei Sudroni raccontano di potenti capi guerrieri e dei regni che essi hanno conquistato.
+es:
+  title: Señor Del Desierto
+  subtitle: ''
+  text: '**Sureño.** **Arquero.** **Arquería:** Esfuerza el Señor Del Desierto para esforzar un compañero (excepto el Portador del Anillo); el Señor Del Desierto no añade al total de arquería de los siervos.'
+  lore: Las leyendas sureñas hablan de poderosos líderes guerreros y de los reinos que han conquistado.

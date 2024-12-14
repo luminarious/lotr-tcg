@@ -1,0 +1,33 @@
+set: '2'
+rarity: R
+number: '36'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: No Mere Ranger
+  subtitle: ''
+  text: '**Skirmish:** Exert Aragorn to make another companion strength +2 (or +3 if that companion has the Aragorn signet). '
+  lore: ‘If by my life or death, I can protect you, I will….’
+de:
+  title: Nicht nur ein Waldläufer
+  subtitle: ''
+  text: '**Kampf** Strenge Aragorn an, um einem anderen Gefährten Stärke +2 zu geben (oder Stärke +3, wenn dieser Gefährte das Aragornsiegel hat).'
+  lore: Sollte ich dich, durch mein Leben oder meinen Tod, schützen können, werde ich es tun.
+fr:
+  title: Pas Qu'un Simple Rôdeur
+  subtitle: ''
+  text: '**Combat :** Affaiblissez Aragorn pour donner +2 en force à un autre compagnon (ou +3 si ce compagnon possède le sceau d’Aragorn).'
+  lore: 'Si par ma vie ou ma mort, je peux vous protéger, je le ferai…” '
+it:
+  title: Non un Semplice Ramingo
+  subtitle: ''
+  text: '**Schermaglia:** Sforza Aragorn per aggiungere +2 alla forza di un altro compagno (o +3 se quel compagno ha il sigillo di Aragorn).'
+  lore: ‘Se con la vita o con la morte vi posso salvare, lo farò…’
+es:
+  title: no es un simple montaraz
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza a Aragorn para dar a otro compañero fuerza +2 (o +3 si ese compañero tiene el sello de Aragorn).'
+  lore: Si por mi vida o mi muerte, puedo protegerte, lo haré…

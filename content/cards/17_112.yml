@@ -1,0 +1,17 @@
+set: '17'
+rarity: U
+number: '112'
+unique: true
+culture: Uruk-hai
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+1'
+en:
+  title: Blade of the White Hand
+  subtitle: ''
+  text: |-
+    Bearer must be an :urukhai: Uruk-hai.  
+    While you can spot 2 controlled sites, this minion is **damage +1**.  
+    While you can spot 4 controlled sites, this minion is **damage +3**.
+  lore: The servants of the White Hand laid waste to the Pride of Gondor.

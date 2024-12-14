@@ -1,0 +1,21 @@
+set: '11'
+rarity: U
+number: '99'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Squad of Haradrim
+  subtitle: ''
+  text: '**Regroup:** Spot another :men: minion and 2 Free Peoples characters who each have resistance 5 or less to make the move limit –1 for this turn. '
+  lore: Small, harassing bands of Haradrim skirmishers make moving troops difficult.
+de:
+  title: Schwadron der Haradrim
+  subtitle: ''
+  text: '**Sammeln:** Entdecke einen anderen :men: Diener und 2 Charaktere der Freien Völker, deren Resistenz jeweils 5 oder weniger beträgt, um die Bewegungsweite für diesen Zug um 1 zu reduzieren. '
+  lore: Kleine, marodierende Haradrimschwadrone machen es schwer, Truppen zu bewegen.

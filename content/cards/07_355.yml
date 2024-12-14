@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '355'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Right
+en:
+  title: Ruined Capitol
+  subtitle: ''
+  text: '**River.** **Shadow:** Spot your minion and 6 companions to make the move limit for this turn –1.'
+  lore: ''
+de:
+  title: Zerstörte Hauptstadt
+  subtitle: ''
+  text: '**Fluss.** **Schatten:** Entdecke einen deiner Diener und 6 Gefährten, um die Bewegungsweite in diesem Zug um 1 zu reduzieren.'
+  lore: ''

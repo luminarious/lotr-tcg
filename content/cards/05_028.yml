@@ -1,0 +1,17 @@
+set: '5'
+rarity: C
+number: '28'
+unique: true
+culture: Gollum
+type: Companion
+cost: 0
+str: '3'
+vit: '4'
+signet: Signet_Frodo
+en:
+  title: Sméagol
+  subtitle: Old Noser
+  text: |-
+    **Ring-bound.** To play, add a burden.   
+    **Regroup:** Exert Sméagol (or Gollum) twice to reveal the top 4 cards of your draw deck. Wound a minion for each Shadow card revealed. Place those 4 cards beneath your draw deck in any order.
+  lore: ‘Could you find anything fit for a hungry hobbit?’

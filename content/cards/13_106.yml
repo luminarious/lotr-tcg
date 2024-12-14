@@ -1,0 +1,22 @@
+set: '13'
+rarity: U
+number: '106'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Enemy Upon Enemy
+  subtitle: ''
+  text: |-
+    **Regroup:** Spot an :orc: lurker minion to stack that minion here.  
+    **Shadow:** Remove a burden to play a lurker minion stacked here as if from hand. That minion is twilight cost –3.
+  lore: On they came, reckless of their loss as they approached.
+de:
+  title: Feind auf Feind
+  subtitle: ''
+  text: |-
+    **Sammeln:** Entdecke einen :orc: Schleicher, um diesen hier zu lagern.   
+    **Schatten:** Entferne eine Lastmarke vom Ringträger, um einen hier gelagerten Schleicher mit um 3 reduzierten Zwielichtkosten zu spielen, als wäre er auf deiner Hand.
+  lore: Unbekümmert um die Verluste, die sie… erlitten….

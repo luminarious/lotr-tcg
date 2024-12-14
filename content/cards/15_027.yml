@@ -1,0 +1,13 @@
+set: '15'
+rarity: U
+number: '27'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Be Gone!
+  subtitle: ''
+  text: '**Spell**. Exert your :gandalf: companion X times to make a minion strength -2 until the regroup phase, for each time that :gandalf: companion exerted.'
+  lore: You did not kill me, you will not kill him!

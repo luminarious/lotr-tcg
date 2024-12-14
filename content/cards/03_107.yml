@@ -1,0 +1,39 @@
+set: '3'
+rarity: U
+number: '107'
+unique: true
+culture: Shire
+type: Possession
+class: Pipe
+cost: 1
+en:
+  title: Frodo's Pipe
+  subtitle: ''
+  text: |-
+    Bearer must be Frodo.   
+    **Fellowship:** Discard a pipeweed possession and spot X pipes to heal a companion with the Frodo signet X times. 
+  lore: ‘All the same, observations that I have made on my own many journeys south have convinced me that the weed itself is not native to our parts of the world.’
+de:
+  title: Frodos Pfeife
+  subtitle: ''
+  text: Muss auf Frodo gespielt werden. **Gemeinschaft.** Lege ein Pfeifenkraut ab und entdecke X Pfeifen, um einen Gefährten mit dem Frodosiegel X mal zu heilen.
+  lore: Beobachtungen, die ich selbst auf meinen vielen Reisen nach dem Süden machen konnte, haben mich indessen überzeugt, dass das Kraut nicht zu den einheimischen Pflanzen unseres Teils der Welt gehört…
+fr:
+  title: La Pipe de Frodon
+  subtitle: ''
+  text: Le détenteur doit être Frodon. **Compagnie :** Défaussez une possession Herbe à pipe et désignez X pipes pour guérir X fois un compagnon possédant le sceau de Frodon.
+  lore: 'Néanmoins, certaines observations que j''ai faites au cours de mes nombreux voyages dans le sud m''ont convaincu que l''herbe même n''est pas originaire de notre partie du monde…” '
+it:
+  title: La Pipa di Frodo
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Frodo.   
+    **Compagnia:** Scarta un bene Erba-pipa e avvista X pipe per curare X volte un compagno con il sigillo di Frodo.
+  lore: ‘Ciò nonostante, dalle ricerche compiute da me personalmente durante numerosi viaggi nel Sud, risulta che detta erba non è originaria delle nostre parti.’
+es:
+  title: La Pipa de Frodo
+  subtitle: ''
+  text: |-
+    El portador debe ser Frodo.   
+    **Comunidad:** Descarta una posesión hierba para pipa y avista X pipas para curar un compañero con el sello de Frodo X veces.
+  lore: Al mismo tiempo, mis propias observaciones en los viajes que hice al sur me convencieron de que la hierba no es originaria de nuestra región.

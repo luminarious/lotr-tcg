@@ -1,0 +1,19 @@
+set: '10'
+rarity: U
+number: '70'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 5
+str: '10'
+vit: '3'
+site: 2
+en:
+  title: Úlairë Nelya
+  subtitle: Thrall of The One
+  text: |-
+    **Enduring.** **Fierce.**   
+    Shadow cards cannot exert Úlairë Nelya during a skirmish phase.   
+    **Skirmish:** Heal Úlairë Nelya to add :twilight1: for each burden. 
+  lore: Perching now on the wall beside the ruined gate the Nazgûl sent out its deadly cries. All the cliffs echoed.

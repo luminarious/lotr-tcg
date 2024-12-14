@@ -1,0 +1,21 @@
+set: '0'
+rarity: P
+number: '92'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Morgul Tormentor
+  subtitle: ''
+  text: Each time the Free Peoples player assigns this minion to skirmish an unwounded companion, he or she must add a burden or discard a card from hand.
+  lore: Some Orcs go beyond savagery, taking pleasure in the suffering of their enemies.
+de:
+  title: Morgul Folterknecht
+  subtitle: ''
+  text: Jedes Mal, wenn der Freie Völker Spieler diesen Diener einem unverwundeten Gefährten zuweist, muss er eine Last-marke auf den Ringträger legen odereine Karte aus der Hand ablegen.
+  lore: Einige Orks sind mehr als barbarisch und erfreuen sich am Leid ihrer Feinde.

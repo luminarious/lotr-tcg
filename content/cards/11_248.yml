@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '248'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Right
+en:
+  title: Moria Stairway
+  subtitle: ''
+  text: '**Underground.** Each character bearing a hand weapon is **Damage +1.** '
+  lore: ''
+de:
+  title: Die Treppen von Moria
+  subtitle: ''
+  text: '**Unterirdisch.** Jeder Charakter, der eine Handwaffe trägt, erhält **Schaden +1**.'
+  lore: ''

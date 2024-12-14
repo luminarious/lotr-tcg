@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '193'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Left
+en:
+  title: Isenwash
+  subtitle: ''
+  text: '**Battleground. Plains.** At the start of the regroup phase, each Shadow player may exert a minion to exert a companion.'
+  lore: ''
+de:
+  title: Flussbett des Isen
+  subtitle: ''
+  text: '**Schlachtfeld. Ebene**. Zu Beginn der Sammelphase darf jeder Schat-tenspieler einen Diener anstrengen, um einen Gefährten anzustrengen.'
+  lore: ''

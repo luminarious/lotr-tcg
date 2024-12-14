@@ -1,0 +1,33 @@
+set: '2'
+rarity: U
+number: '70'
+unique: true
+culture: Moria
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Power and Terror
+  subtitle: ''
+  text: '**Shadow:** Reveal any number of :moria: Orcs from your hand to play The Balrog. Its twilight cost is -2 for each Orc revealed. '
+  lore: The ranks of the orcs had opened, and they crowded away, as if they themselves were afraid.
+de:
+  title: Macht und Schrecken
+  subtitle: ''
+  text: '**Schatten:** Decke eine beliebige Anzahl von :moria: Orks in deiner Hand auf, um den Balrog auszuspielen. Seine Zwielichtkosten reduzieren sich um 2 für jeden so aufgedeckten Ork.'
+  lore: Die Reihen der Orks hatten sich geöffnet, und sie wichen zurück, als ob sie selbst Angst hätten.
+fr:
+  title: Puissance et Terreur
+  subtitle: ''
+  text: 'Ombre : Révelez n’importe quel nombre d’Orques :moria: de votre main pour jouer Le Balrog. Son coût crépusculaire est de -2 pour chaque Orque révélé.'
+  lore: 'Les rangs des orques s''étaient ouverts, et ils reculaient en masse, comme effrayés eux-mêmes. '
+it:
+  title: Potere e Terrore
+  subtitle: ''
+  text: '**Ombra:** Mostra un qualsiasi numero di Orchi :moria: dalla tua mano per giocare Il Balrog. Sottrai -2 al suo costo crepuscolo per ogni Orco mostrato.'
+  lore: I ranghi degli Orchi si erano aperti, ed avevano ceduto il passo raggruppandosi lontano, come se anche loro fossero impauriti.
+es:
+  title: Poder y terror
+  subtitle: ''
+  text: '**Sombra:** Revela cualquier número de Orcos :moria: de tu mano para jugar El Balrog. Su coste de penumbra es -2 por cada Orco revelado.'
+  lore: Las filas de los Orcos se abrieron, y se dispersaron, como si ellos mismos estuvieran asustados.

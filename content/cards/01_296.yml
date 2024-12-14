@@ -1,0 +1,39 @@
+set: '1'
+rarity: C
+number: '296'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Hobbit Intuition
+  subtitle: ''
+  text: |-
+    **Stealth.**   
+    **Skirmish:** At sites 1 to 4, cancel a skirmish involving a Hobbit. At any other site, make a Hobbit strength +3.
+  lore: ‘What? That were just a little detour, that’s all… a shortcut.’
+de:
+  title: Hobbit Eingebung
+  subtitle: ''
+  text: '**Heimlichkeit.** **Kampf** Hebe einen Kampf, an dem ein Hobbit beteiligt ist, auf, wenn sich deine Gemeinschaft an Ort 1 bis 4 befindet. Ansonsten erhält ein Hobbit Stärke +3.'
+  lore: Was denn? Das war nur ein kleiner Ausflug… eine Abkürzung.
+fr:
+  title: Intuition Hobbite
+  subtitle: ''
+  text: |-
+    **Dissimulation.**  
+    **Combat :** Aux sites 1 à 4, annulez un combat impliquant un Hobbit. À n’importe quel autre site, donnez à un Hobbit +3 en force.
+  lore: ‘Quoi ? C'était seulement un petit détour, c'est tout … un raccourci.’
+it:
+  title: Intuito degli Hobbit
+  subtitle: ''
+  text: |-
+    **Segretezza.**  
+    **Schermaglia:** Ai siti da 1 a 4, cancella una schermaglia che coinvolga un Hobbit. In un qualsiasi altro sito, aggiungi +3 alla forza di un Hobbit.
+  lore: ‘Cosa? Quella è stata solo una piccola deviazione, è tutto … una scorciatoia.’
+es:
+  title: Intuición Hobbit
+  subtitle: ''
+  text: '**Sigilo.** **Escaramuza:** En los sitios 1 al 4, cancela una escaramuza en la que este implicado un Hobbit. En cualquier otro sitio, da a un Hobbit fuerza +3.'
+  lore: Debo dejar la Comarca… Sam y yo debemos ir a Bree.

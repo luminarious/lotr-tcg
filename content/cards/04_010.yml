@@ -1,0 +1,36 @@
+set: '4'
+rarity: C
+number: '10'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 2
+str: '8'
+vit: '1'
+site: 3
+en:
+  title: Dunlending Brigand
+  subtitle: ''
+  text: ''
+  lore: ‘This was a rich vale and had many homesteads. Alas for my folk!’
+de:
+  title: Dunland Brigant
+  subtitle: ''
+  text: ''
+  lore: Das hier war ein reiches Tal und hatte viele Gehöfte. Wehe für mein Volk!
+fr:
+  title: Brigand Dun
+  subtitle: ''
+  text: ''
+  lore: 'C''était une riche vallée, qui possédait de nombreux coursiers de chez nous. Hélas pour les miens!” '
+it:
+  title: Brigante Dunlandiano
+  subtitle: ''
+  text: ''
+  lore: ‘Questa era una ricca vallata piena di fattorie. Ahimè, povero mio popolo!’
+es:
+  title: Bandolero Dunlendino
+  subtitle: ''
+  text: ''
+  lore: Este era un valle rico y en él prosperaban muchas heredades. ¡Ay, pobre pueblo mío!

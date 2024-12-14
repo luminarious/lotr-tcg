@@ -1,0 +1,23 @@
+set: '7'
+rarity: R
+number: '169'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Surging Up
+  subtitle: ''
+  text: |-
+    **Regroup:** Exert an Easterling and discard this condition to make the move limit -1 for this turn. The Free Peoples player may add 2 burdens to prevent this.   
+    **Skirmish:** Discard this condition to heal an Easterling.
+  lore: ''
+de:
+  title: Vordrängende Massen
+  subtitle: ''
+  text: |-
+    **Sammeln:**   
+    Strenge einen Ostling an und lege diesen Effekt ab, um die Bewegungsweite für diesen Zug um 1 zu verringern. Der Freie Völker Spieler darf 2 Lastmarken auf den Ringträger legen, um dies zu verhindern.   
+    **Kampf:** Lege diesen Effekt ab, um einen Ostling zu heilen.
+  lore: ''

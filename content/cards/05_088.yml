@@ -1,0 +1,42 @@
+set: '5'
+rarity: C
+number: '88'
+unique: true
+culture: Rohan
+type: Possession
+class: Ranged Weapon
+cost: 1
+str: '+1'
+en:
+  title: Rohirrim Bow
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    **Archery:** Exert bearer and discard this possession to wound a minion.
+  lore: ‘The Rohirrim have good bowmen after their fashion, but there are too few here, too few.’
+de:
+  title: Bogen der Rohirrim
+  subtitle: ''
+  text: 'Muss auf einen :rohan: Menschen gespielt werden. **FernKampf** Strenge den Träger an und lege diese Ausrüstung ab, um einen Diener zu verwunden.'
+  lore: Die Rohirrim haben Schützen, die auf ihre Weise gut sind, aber es sind zu wenige, zu wenige.
+fr:
+  title: Arc Rohirrim
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un Homme :rohan:.   
+    **Archerie :** Affaiblissez le détenteur et défaussez cette possession pour blesser un séide.
+  lore: 'Les Rohirrim ont de bons archers à leur manière, mais il y en a trop peu ici, trop peu.” '
+it:
+  title: Arco Rohirrim
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Uomo [.   
+    **Arcieri:** Sforza il possessore e scarta questo bene per ferire un servitore.
+  lore: ‘I Rohirrim hanno dei bravi tiratori d'arco, a modo loro, ma ve ne sono troppo pochi qui, troppo pochi.’
+es:
+  title: Arco de los Rohirrim
+  subtitle: ''
+  text: |-
+    El portador debe ser un Hombre [.   
+    **Arquería:** Esfuerza al portador y descarta esta posesión para herir un siervo.
+  lore: Los Rohirrim tienen buenos arqueros a su manera, pero hay muy pocos aquí, demasiado pocos.

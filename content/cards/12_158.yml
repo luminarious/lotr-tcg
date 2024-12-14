@@ -1,0 +1,25 @@
+set: '12'
+rarity: U
+number: '158'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Vicious Uruk
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    At the start of each skirmish involving this minion, you may draw a card for each wound on a character it is skirmishing.
+  lore: …the sweet grass of Rohan had been bruised and blackened as they passed.
+de:
+  title: Bösartiger Uruk
+  subtitle: ''
+  text: |-
+    **Schaden +1**.  
+    Zu Beginn jedes Kampfes, an dem dieser Diener beteiligt ist, darfst du für jede Wunde auf dem Charakter, gegen den er kämpft, eine Karte ziehen.
+  lore: … das duftige Gras von Rohan war zertreten und schwarz geworden, als sie vorübergingen.

@@ -1,0 +1,18 @@
+set: '1'
+rarity: R
+number: '13'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Gandalf
+en:
+  title: Gimli
+  subtitle: Son of Glóin
+  text: |-
+    **Damage +1**.   
+    **Skirmish:** Exert Gimli to make him strength +2.
+  lore: 'There was a younger dwarf at Glóin’s side: his son Gimli.'

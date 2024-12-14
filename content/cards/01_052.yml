@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '52'
+unique: true
+culture: Elven
+type: Event
+class: Archery
+cost: 0
+en:
+  title: Lightfootedness
+  subtitle: ''
+  text: '**Archery:** Spot an Elf companion to make the minion archery total -1.'
+  lore: ‘…let a ploughman plough, but choose an otter for swimming, and for running light over grass and leaf, or over snow – an Elf.’
+de:
+  title: Leichtfüßigkeit
+  subtitle: ''
+  text: '**FernKampf** Entdecke einen Elbengefährten, um den Fernkampfwert der Diener um 1 zu reduzieren.'
+  lore: …lasst einen Pflüger pflügen, aber wählt zum Schwimmen einen Otter aus und zum Laufen über Gras und Blatt oder über Schnee – einen Elben.
+fr:
+  title: Pied Léger
+  subtitle: ''
+  text: '**Archerie :** Désignez un compagnon Elfe pour diminuer le total d’archerie des séides de -1.'
+  lore: …'qu'un laboureur laboure, mais choisissez plutôt une loutre pour nager et pour courir légèrement sur l'herbe et les feuilles, ou même la neige’ – un Elfe.
+it:
+  title: Passo Leggero
+  subtitle: ''
+  text: '**Arcieri:** Sforza un compagno Elfo per sottrarre -1 dal totale degli arcieri tra i servitori.'
+  lore: ‘… fate arare il campo al coltivatore, ma scegliete una lontra per nuotare, e per correre veloce su erbe e foglie, o sulla neve – un Elfo.’
+es:
+  title: Pies Ligeros
+  subtitle: ''
+  text: '**Arquería:** Avista un compañero Elfo para que el total de arquería de los siervos sea -1.'
+  lore: …que el labrador empuje el arado, pero elige una nutria para nadar; y para correr levemente sobre la hierba y las hojas, o sobre la nieve… Un Elfo.

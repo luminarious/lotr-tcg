@@ -1,0 +1,44 @@
+set: '1'
+rarity: C
+number: '145'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Uruk Brood
+  subtitle: ''
+  text: |-
+    **Damage +1**.   
+    **Skirmish:** Remove :twilight2: to make this minion strength +1 for each other Uruk-hai you spot.
+  lore: ‘He does not see the caverns hidden deep beneath this tower… nor does he know what is growing there.’
+de:
+  title: Urukbrut
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    **Kampf** Verringere den Einfluss um :twilight2:, um der Urukbrut Stärke +1 für jeden anderen Uruk-hai, den du entdeckst, zu geben.
+  lore: Er sieht die Höhlen tief unter diesem Turm hier nicht…und er ahnt nicht was dort heranwächst.“.
+fr:
+  title: Couvée d'Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    **Combat :** Retirez :twilight2: pour donner à ce séide +1 en force pour chaque autre Ourouk-Haï que vous désignez.
+  lore: ‘Il ne voit pas les cavernes cachées profondément sous cette tour … il ne sait pas non plus ce qui grandit là.’
+it:
+  title: Progenie degli Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    **Schermaglia:** Rimuovi :twilight2: per aggiungere +1 alla forza di questo servitore per ogni altro Uruk-hai che avvisti.
+  lore: ‘Egli non vede le caverne nascoste nelle profondità sotto questa torre… né sa cosa sia cresciuto lì.’
+es:
+  title: Cría Uruk
+  subtitle: ''
+  text: '**Daño +1.** **Escaramuza:** Quita :twilight2: para dar a este siervo fuerza +1 por cada otro Uruk-hai que puedas avistar.'
+  lore: El no ve las cavernas ocultas bajo esta torre… Y tampoco sabe lo que allí crece.

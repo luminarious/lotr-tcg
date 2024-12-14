@@ -1,0 +1,17 @@
+set: '7'
+rarity: R
+number: '21'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 4
+str: '8'
+vit: '4'
+en:
+  title: Elrond
+  subtitle: Elven Lord
+  text: |-
+    To play, spot Aragorn or an Elf.   
+    At the start of each turn, you may exert Elrond to heal a character bearing an artifact.
+  lore: ''

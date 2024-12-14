@@ -1,0 +1,18 @@
+set: '0'
+rarity: P
+number: '59'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: ''
+en:
+  title: Erkenbrand
+  subtitle: Master of Westfold
+  text: |-
+    If you can spot a :rohan: Man, you may play Erkenbrand any time you could play a skirmish event.  
+    When you play Erkenbrand, you may discard a Shadow possession. 
+  lore: ''

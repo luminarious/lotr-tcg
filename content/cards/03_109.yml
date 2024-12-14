@@ -1,0 +1,33 @@
+set: '3'
+rarity: C
+number: '109'
+unique: true
+culture: Shire
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Meant to Be Alone
+  subtitle: ''
+  text: '**Fellowship:** Spot a Hobbit companion (except the Ring-bearer) to reveal a card at random from an opponent’s hand. Remove :twilightX:, where X is the twilight cost of the card revealed. '
+  lore: ‘You are a Ring-bearer, Frodo… to bear a Ring of Power is to be alone.’
+de:
+  title: Dazu bestimmt, allein zu sein
+  subtitle: ''
+  text: '**Gemeinschaft.** Entdecke einen Hobbit-gefährten (außer dem Ringträger), um eine zufällig bestimmte Karte aus der Hand eines Gegenspielers aufzudecken. Verringere den Einfluss um :twilightX:, wobei X den Zwielichtkosten der aufgedeckten Karte entspricht.'
+  lore: Du bist ein Ringträger, Frodo. Einen Ring der Macht zu tragen, bedeutet, allein zu sein.
+fr:
+  title: Destiné à Être Seul
+  subtitle: ''
+  text: '**Compagnie :** Désignez un compagnon Hobbit (excepté le Porteur de l’Anneau) pour révéler une carte au hasard de la main d’un adversaire. Retirez :twilightX:, où X est le coût crépusculaire de la carte révélée.'
+  lore: 'Tu es le Porteur de l''Anneau, Frodon… porter un Anneau de Pouvoir signifie être seul.” '
+it:
+  title: Restare Soli
+  subtitle: ''
+  text: '**Compagnia:** Avvista un compagno Hobbit (tranne il Portatore dell’Anello) per mostrare una carta a caso dalla mano di un avversario. Rimuovi :twilightX:, dove X è il costo crepuscolo della carta mostrata.'
+  lore: ‘Tu sei il Portatore dell'Anello, Frodo… portare un Anello del Potere significa essere soli.’
+es:
+  title: Destinado a Estar Solo
+  subtitle: ''
+  text: '**Comunidad:** Avista un compañero Hobbit (excepto el Portador del Anillo) para revelar una carta al azar de la mano de un oponente. Quita :twilightX:, donde X es el coste de penumbra de la carta revelada.'
+  lore: Tu eres el Portador del Anillo, Frodo… Llevar un Anillo de Poder significa estar

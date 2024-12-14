@@ -1,0 +1,25 @@
+set: '8'
+rarity: U
+number: '100'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '2'
+site: 5
+en:
+  title: Gorgoroth Servitor
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    **Archery:** Return this minion to your hand to make the fellowship archery total –2 and prevent the Free Peoples player from using archery special abilities.
+  lore: ''
+de:
+  title: Gorgoroth Handlanger
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    **Fernkampf:** Nimm diesen Diener wieder auf deine Hand, um den Fernkampfwert der Gemeinschaft um 2 zu reduzieren und zu verhindern, dass der Freie Völker Spieler spezielle Fernkampffähigkeiten einsetzen kann.
+  lore: … eilig gruben Orks… genau außer Bogenschussweite von den Mauern….

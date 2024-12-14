@@ -1,0 +1,33 @@
+set: '6'
+rarity: R
+number: '126'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Ancient Roads
+  subtitle: ''
+  text: While you can spot 3 rangers, the site number of each minion skirmishing a ranger is +2.
+  lore: Presently the noise of fighting broke out near at hand, just above their hiding-place.
+de:
+  title: Alte Straßen
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. Solange du 3 Waldläufer entdecken kannst, erhöht sich die Ortskennzahl aller Diener, die gegen einen Waldläufer kämpfen, um 2.
+  lore: Dann brach plötzlich ganz in der Nähe Kampflärm aus, genau über ihrem Versteck.
+fr:
+  title: Anciennes Routes
+  subtitle: ''
+  text: Tant que vous pouvez désigner 3 rôdeurs, le numéro de site de chaque séide qui combat un rôdeur est de +2.
+  lore: '… bientôt, un bruit de combat éclata tout près, juste au-dessus de leur cachette. '
+it:
+  title: Antiche Strade
+  subtitle: ''
+  text: Mentre puoi avvistare 3 raminghi, aggiungi +2 al numero di sito di ogni servitore che sta schermagliando con un ramingo.
+  lore: ‘Infine, poco più in alto del loro nascondiglio, un rumore di battaglia.’
+es:
+  title: Caminos Antiguos
+  subtitle: ''
+  text: Mientras puedas avistar 3 montaraces, el número de sitio de cada siervo que esté en una escaramuza contra un montaraz es +2.
+  lore: Luego, casi enseguida, un fragor de combate estalló muy cerca, justo encima del escondite de los hobbits.

@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '188'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Left
+en:
+  title: Courtyard Parapet
+  subtitle: ''
+  text: '**Dwelling.** When the fellowship moves to this site, the first Shadow player may discard 2 cards from hand to add a burden.'
+  lore: ''
+de:
+  title: Schloßhofbrüstung
+  subtitle: ''
+  text: '**Heimstatt.** Der erste Schattenspieler darf 2 Karten aus der Hand able-gen, um 1 Lastmarke zu platzieren, wenn die Gemeinschaft ankommt.'
+  lore: ''

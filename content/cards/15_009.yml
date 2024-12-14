@@ -1,0 +1,15 @@
+set: '15'
+rarity: R
+number: '9'
+unique: true
+culture: Dwarven
+type: Possession
+class: Armor
+cost: 2
+en:
+  title: Well-crafted Armor
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf. Each time bearer takes a wound, you may reinforce a :dwarven: token.  
+    **Skirmish:** Discard a :dwarven: card from hand to make bearer **damage +1**.
+  lore: Dwarven armor is among the strongest crafted in Middle-earth.

@@ -1,0 +1,18 @@
+set: '11'
+rarity: R
+number: '50'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Safe Passage
+  subtitle: ''
+  text: When you play this condition, name forest, mountain, plains, or river. Each time the fellowship moves to a site that has the named keyword, you may exert Gollum or Sméagol to remove :twilight4:.
+  lore: '‘Here! We can get down here. Sméagol went this way once: I went this way, hiding from Orcs.’'
+de:
+  title: Sichere Pfade
+  subtitle: ''
+  text: 'Wähle Wald, Gebirge, Ebene oder Fluss, wenn du diesen Effekt spielst. Jedes Mal, wenn die Gemeinschaft einen Ort des entsprechenden Typs erreicht, darfst du Gollum oder Sméagol anstrengen, um den Einfluss um :twilight4: zu verringern.'
+  lore: 'Hier!… Sméagol ging diesen Weg einmal: Ich ging diesen Weg, als ich mich vor den Orks versteckte.'

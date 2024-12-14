@@ -1,0 +1,24 @@
+set: '0'
+rarity: W
+number: '4'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 5
+str: '12'
+vit: '4'
+en:
+  title: Treebeard
+  subtitle: Enemy of the Hand
+  text: |-
+    **Unhasty.** **Triumph -** At the start of a skirmish involving Treebeard you may discard a minion he is skirmishing.   
+    **Assignment:** Exert an unbound Hobbit to allow Treebeard to skirmish.
+  lore: '''He has a mind of metal and wheels; and he does not care for growing things, except as far as they serve him for the moment.’'
+de:
+  title: Baumbart
+  subtitle: Feind der weißen Hand
+  text: |-
+    **Unhastig.** **Triumph -** Zu Beginn eines Kampfes, an dem Baumbart beteiligt ist, kannst du den Diener, den er bekämpft ablegen.   
+    **Zuweisung:** Strenge einen unverbundenen Hobbit an, um Baumbart am Kampf teilnehmen zu lassen.
+  lore: '''He has a mind of metal and wheels; and he does not care for growing things, except as far as they serve him for the moment.’'

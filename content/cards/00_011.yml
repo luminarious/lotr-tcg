@@ -1,0 +1,15 @@
+set: '0'
+rarity: W
+number: '11'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Éowyn
+  subtitle: Daughter of Kings
+  text: '**Triumph -** At the start of the fellowship phase, you may make the move limit for this turn +1.'
+  lore: Very fair was her face, and her long hair was like a river of gold.

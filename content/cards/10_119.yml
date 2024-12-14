@@ -1,0 +1,18 @@
+set: '10'
+rarity: U
+number: '119'
+unique: true
+culture: ''
+type: Site
+cost: 8
+siteArrow: Left
+en:
+  title: Steward's Tomb
+  subtitle: ''
+  text: 'Wounds cannot be prevented or healed. Burdens cannot be removed. '
+  lore: ''
+de:
+  title: Gruft der Truchsesse
+  subtitle: ''
+  text: Wunden können nicht verhindert oder geheilt werden. Lastmarken können nicht entfernt werden.
+  lore: ''

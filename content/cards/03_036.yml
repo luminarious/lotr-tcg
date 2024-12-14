@@ -1,0 +1,39 @@
+set: '3'
+rarity: C
+number: '36'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Unknown Perils
+  subtitle: ''
+  text: |-
+
+    **Response:** If a companion is about to take a wound, spot 4 twilight tokens and exert Gandalf to prevent that wound. 
+  lore: Suddenly he stopped as if listening. Frodo became aware that all was very quiet, inside and outside.
+de:
+  title: Unbekannte Gefahren
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. **Reaktion:** Wenn ein Gefährte eine Wunde erleidet, dann entdecke einen Einfluss von mindestens 4 und strenge Gandalf an, um diese Wunde zu verhindern.
+  lore: Plötzlich brach er ab, als ob er horche. Frodo merkte mit einem Mal, dass alles sehr still war, drinnen und draußen.
+fr:
+  title: Périls Inconnus
+  subtitle: ''
+  text: '**Réponse :** Si un compagnon est sur le point d’être blessé, affaiblissez Gandalf pour prévenir la blessure.'
+  lore: 'Il s''arrêta soudain, comme pour écouter. Frodon s''aperçut que tout était très silencieux, tant à l''intérieur qu''à l''extérieur. “ '
+it:
+  title: Pericoli Sconosciuti
+  subtitle: ''
+  text: |-
+    Giocala nella tua area di supporto.  
+    **Risposta:** Se un compagno sta per subire una ferita, avvista 4 segnalini crepuscolo e sforza Gandalf per prevenire quella ferita.
+  lore: S'interruppe d'un tratto come per ascoltare. Frodo notò come tutto fosse calmo, in casa e fuori.
+es:
+  title: Peligros Desconocidos
+  subtitle: ''
+  text: |-
+
+    **Respuesta:** Si un compañero va a recibir una herida, avista 4 contadores de penumbra y esfuerza a Gandalf para prevenir esa herida.
+  lore: De repente se detuvo como escuchando. Frodo fue consciente de que todo estaba muy calmado, tanto dentro como fuera.

@@ -1,0 +1,17 @@
+set: '7'
+rarity: R
+number: '233'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Grimbold
+  subtitle: Marshal of Rohan
+  text: |-
+    **Valiant.**   
+    **Skirmish:** Replace the fellowship’s site with your plains site of the same number to discard a card from hand.
+  lore: ''

@@ -1,0 +1,33 @@
+set: '2'
+rarity: U
+number: '81'
+unique: true
+culture: Wraith
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: They Will Find the Ring
+  subtitle: ''
+  text: '**Maneuver:** Exert 2 Nazgûl and spot X burdens to exert X companions. '
+  lore: …to the dismay of Frodo and his friends out from the trees and rocks away on the left four other Riders came flying.
+de:
+  title: Sie werden den Ring finden
+  subtitle: ''
+  text: '**Manöver:** Strenge 2 Nazgûl an und entdecke X Lastmarken, um X Gefährten anzustrengen.'
+  lore: …und zu Frodos und seiner Freunde Entsetzen brachen zwischen den Bäumen und Felsen zur Linken noch vier Reiter hervor.
+fr:
+  title: Ils Trouveront l'Anneau
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez 2 Nazgûl et désignez X points-fardeau pour affaiblir X compagnons.'
+  lore: '… au grand effroi de Frodon et de ses amis, des bois et des rochers au loin sur la gauche surgirent en trombe quatre autres Cavaliers. '
+it:
+  title: Troveranno l'Anello
+  subtitle: ''
+  text: '**Manovra:** Sforza 2 Nazgûl e avvista X segnalini fardello per sforzare X compagni.'
+  lore: …Frodo e i suoi amici costernati videro sbucare a tutta velocità dagli alberi e dalle rupi alla loro sinistra altri quattro Cavalieri.
+es:
+  title: Ellos encontrarán el anillo
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza 2 Nazgûl y avista X cargas para esforzar X compañeros.'
+  lore: …para desánimo de Frodo y de sus amigos de los árboles y rocas del lado izquierdo cuatro Jinetes más llegaron al vuelo.

@@ -1,0 +1,18 @@
+set: '3'
+rarity: P
+number: '122'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Gandalf
+en:
+  title: Boromir
+  subtitle: Defender of Minas Tirith
+  text: |-
+    **Ranger.**   
+    **Fellowship:** Add :twilight2: to heal Boromir. 
+  lore: …seated a little apart was a tall man with a fair and noble face… proud and stern of glance.

@@ -1,0 +1,35 @@
+set: '2'
+rarity: U
+number: '71'
+unique: true
+culture: Moria
+type: Condition
+cost: 0
+en:
+  title: Throw Yourself in Next Time
+  subtitle: ''
+  text: |-
+    To play, spot a :moria: Orc. Plays on a Hobbit companion.   
+    Bearer may be exerted only by Shadow cards. 
+  lore: ‘This is a serious journey, not a hobbit walking-party….Now be quiet!’
+de:
+  title: Wirf dich das nächste Mal selbst hinein
+  subtitle: ''
+  text: 'Entdecke einen :moria: Ork, um diese Karte auf einen Hobbitgefährten zu spielen. Der Träger kann nur durch Schattenkarten angestrengt werden.'
+  lore: Unsere Wanderung ist eine ernste Angelegenheit, kein Hobbitspaziergang… Jetzt sei still!
+fr:
+  title: Jetez-Vous Dedans La Prochaine Fois
+  subtitle: ''
+  text: |
+    Pour jouer, désignez un Orque :moria:. Jouable sur un compagnon Hobbit. Le détenteur ne peut être affaibli que par des cartes de l’**Ombre.**  
+  lore: 'Ce voyage est sérieux, ce n''est pas une promenade de Hobbit… Et maintenant, restez tranquille!” '
+it:
+  title: Gettati Tu Dentro la Prossima Volta
+  subtitle: ''
+  text: Per giocarla, avvista un Orco :moria:. Giocala su un compagno Hobbit. Il possessore può essere sforzato solo da carte **Ombra.**
+  lore: ‘Questo è un viaggio serio, e non una passeggiata hobbit… E ora stai fermo e zitto!’
+es:
+  title: Tírate tú mismo la próxima vez
+  subtitle: ''
+  text: Para jugarla, avista un Orco :moria:. Se juega en un compañero Hobbit. El portador sólo se puede esforzar por cartas de **Sombra.**
+  lore: Este es un viaje serio, y no una excursión Hobbit… ¡Ahora quédate quieto!

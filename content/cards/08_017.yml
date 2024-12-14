@@ -1,0 +1,18 @@
+set: '8'
+rarity: U
+number: '17'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 3
+en:
+  title: Mighty Steed
+  subtitle: ''
+  text: If Gandalf is not assigned to a skirmish, spot Shadowfax or exert Gandalf to have him replace an unbound companion in a skirmish.
+  lore: ‘He always turns up when things are darkest. Go on! Go on, White Rider! Gandalf! Gandalf!’
+de:
+  title: Mächtiges Ross
+  subtitle: ''
+  text: Entdecke Schattenfell oder strenge Gandalf an, wenn Gandalf nicht zugewiesen ist, damit er in einem Kampf einen nicht-verbundenen Gefährten ersetzt.
+  lore: Immer erscheint er, wenn die Not am größten ist! Voran, voran, Weißer Reiter! Gandalf! Gandalf!

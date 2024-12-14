@@ -1,0 +1,18 @@
+set: '8'
+rarity: C
+number: '89'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Fury of the Northmen
+  subtitle: ''
+  text: 'Exert a minion skirmishing a mounted :rohan: Man.'
+  lore: Another long screech rose and fell, and he threw himself back again from the wall, panting like a hunted animal.
+de:
+  title: Der Zorn der Nordmannen
+  subtitle: ''
+  text: 'Strenge einen Diener an, der gegen einen berittenen :rohan: Menschen kämpft.'
+  lore: Tod! Reitet, reitet zur Vernichtung und zum Ende der Welt!

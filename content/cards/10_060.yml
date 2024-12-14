@@ -1,0 +1,25 @@
+set: '10'
+rarity: R
+number: '60'
+unique: true
+culture: Wraith
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+2'
+en:
+  title: Gorbag's Sword
+  subtitle: ''
+  text: |-
+    Bearer must be a :wraith: Orc.   
+    When you play this possession, you may discard a possession. Its owner may place it on top of his or her draw deck instead.   
+    If bearer is Gorbag, he is **fierce.** 
+  lore: ‘You touch it and I'll stick this blade in your gut.’
+de:
+  title: Gorbags Schwert
+  subtitle: ''
+  text: |-
+    Muss auf einen :wraith: Ork gespielt werden.   
+    Du darfst eine Ausrüstung ablegen, wenn du diese Karte spielst. Der Besitzer darf die abgelegte Karte statt dessen oben auf sein Spieldeck legen.   
+    Gorbag ist **erbittert**, wenn er mit dieser Waffe ausgerüstet ist.
+  lore: Wenn du es anrührst, dann ramm’ ich dir diese Klinge in den Wanst.

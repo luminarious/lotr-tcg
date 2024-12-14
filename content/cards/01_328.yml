@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '328'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Left
+en:
+  title: Bree Streets
+  subtitle: ''
+  text: The roaming penalty for each Nazgûl you play to Bree Streets is -2.
+  lore: ''
+de:
+  title: Strassen von Bree
+  subtitle: ''
+  text: Die Strafkosten für wandernde Nazgûl reduzieren sich in den Strassen von Bree um 2.
+  lore: ''
+fr:
+  title: Rues de Bree
+  subtitle: ''
+  text: La pénalité d’errance pour chaque Nazgûl que vous jouez dans les Rues de Bree est de -2.
+  lore: ''
+it:
+  title: Strade di Brea
+  subtitle: ''
+  text: Sottrai -2 alla penalità per vagare di ogni Nazgûl che giochi nelle Strade di Brea.
+  lore: ''
+es:
+  title: Calles de Bree
+  subtitle: ''
+  text: La penalización por vagar para cada Nazgûl que juegues en las Calles de Bree es -2.
+  lore: ''

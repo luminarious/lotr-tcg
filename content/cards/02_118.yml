@@ -1,0 +1,33 @@
+set: '2'
+rarity: U
+number: '118'
+unique: true
+culture: ''
+type: Site
+cost: 4
+siteArrow: Right
+en:
+  title: Great Chasm
+  subtitle: ''
+  text: '**Underground.** The twilight cost of the first :moria: archer played each Shadow phase is -2. '
+  lore: ''
+de:
+  title: Die große Kluft
+  subtitle: ''
+  text: '**Unterirdisch.**Die Zwielichtkosten des ersten :moria: Bogenschützen, der in jeder Schattenphase gespielt wird, reduzieren sich um 2.'
+  lore: ''
+fr:
+  title: Grand Gouffre
+  subtitle: ''
+  text: '**Souterrain.**Le coût crépusculaire du premier archer :moria: joué à chaque tour est de -2.'
+  lore: ''
+it:
+  title: Il Grande Abisso
+  subtitle: ''
+  text: '**Sotterraneo.**Sottrai -2 al costo crepuscolo del primo arciere :moria: giocato in ogni fase **Ombra.**'
+  lore: ''
+es:
+  title: Gran abismo
+  subtitle: ''
+  text: '**Subterráneo.**El coste de penumbra del primer arquero :moria: jugado durante cada fase de sombra es -2.'
+  lore: ''

@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '39'
+unique: true
+culture: Dunland
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Wild Man Raid
+  subtitle: ''
+  text: '**Maneuver:** Spot 3 :dunland: Men to discard a Free Peoples possession or condition. '
+  lore: Not even the smallest of trinkets was safe from the destruction of the Dunlendings.
+de:
+  title: Überfall der wilden Menschen
+  subtitle: ''
+  text: '**Manöver:** Entdecke 3 :dunland: Menschen, um eine Ausrüstung oder einen Effekt der Freien Völker abzulegen.'
+  lore: Nicht einmal das kleinste Ding war vor der Zerstörungswut der Dunländer sicher.
+fr:
+  title: Raid d'Hommes Sauvages
+  subtitle: ''
+  text: '**Manœuvre :** Désignez 3 Hommes :dunland: pour défausser une situation ou une possession des Peuples Libres.'
+  lore: Même la plus petite des pacotilles n'est pas à l'abri de la destruction de Ceux du Pays de Dun.
+it:
+  title: Razzia degli Uomini Selvaggi
+  subtitle: ''
+  text: '**Manovra:** Avvista 3 Uomini :dunland: per scartare un bene o una condizione dei Popoli Liberi.'
+  lore: Nemmeno il più piccolo oggetto era al sicuro dalla distruzione portata dai Dunlandiani.
+es:
+  title: Incursión De Hombres Salvajes
+  subtitle: ''
+  text: '**Maniobra:** Avista 3 Hombres :dunland: para descartar una posesión o una condición de Gentes Libres.'
+  lore: Ni los más pequeños cachivaches estaban a salvo de la destrucción de los Dunlendinos.

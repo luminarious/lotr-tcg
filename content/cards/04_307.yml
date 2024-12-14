@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '307'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Impatient and Angry
+  subtitle: ''
+  text: '**Skirmish:** Exert Sam to make him strength +3. If Sam wins this skirmish, you may remove a burden. '
+  lore: He planted himself… as if he was addressing a young hobbit who had offered him what he called ‘sauce’ when questioned about visits to the orchard.
+de:
+  title: Ungeduldig und wütend
+  subtitle: ''
+  text: '**Kampf** Strenge Sam an, um ihm Stärke +3 zu geben. Wenn Sam diesen Kampf gewinnt, darfst du eine Lastmarke entfernen.'
+  lore: Er pflanzte sich… auf… als ob er es mit einem jungen Hobbit zu tun habe, der ihm ‚pampig’ gekommen war, als er ihn wegen Besuchen im Obstgarten verhörte.
+fr:
+  title: Impatience et Colère
+  subtitle: ''
+  text: '**Combat :** Affaiblissez Sam pour lui donner +3 en force. Si Sam remporte ce combat, vous pouvez retirer un point-fardeau.'
+  lore: 'Il se planta carrément…avec l''expression qu''il aurait eue pour apostropher un jeune Hobbit qui aurait fait preuve de ce qu''il appelait du ‘culot’ à propos de questions sur certaines visites au verger. '
+it:
+  title: Impaziente e Adirato
+  subtitle: ''
+  text: '**Schermaglia:** Sforza Sam per aggiungere +3 alla sua forza. Se Sam vince questa schermaglia, puoi rimuovere un segnalino fardello.'
+  lore: Si piantò… con le mani sui fianchi, guardandolo come se si fosse rivolto a un giovane Hobbit che, interrogato sulle sue visite nell'orto, avesse risposto con insolenza.
+es:
+  title: Enfadado E Impaciente
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza a Sam para darle fuerza +3. Si Sam gana esta escaramuza, puedes quitar una carga.'
+  lore: Se plantó tranquilamente… Como si estuviese increpando a un joven hobbit que interrogado acerca de sus visitas a la huerta, se hubiese pasado de ‘fresco'.

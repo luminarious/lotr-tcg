@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '36'
+unique: true
+culture: Elven
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Curse Their Foul Feet!
+  subtitle: ''
+  text: '**Fellowship:** Exert an Elf to reveal an opponent’s hand. That player discards a card from hand for each Orc revealed.'
+  lore: ‘A strong company of Orcs has passed. They crossed the Nimrodel – curse their foul feet in its clean water!’
+de:
+  title: Verflucht seien ihre schmutzigen Füsse!
+  subtitle: ''
+  text: '**Gemeinschaft.** Strenge einen Elben an, um die Hand eines Gegenspielers offenzulegen. Für jeden aufgedeckten Ork, muss dieser Spieler nun eine Karte aus seiner Hand ablegen.'
+  lore: Eine große Schar Orks ist vorbeigezogen. Sie haben den Nimrodel überquert – verflucht seien ihre schmutzigen Füsse in diesem reinen Wasser!
+fr:
+  title: Maudits Soient leurs Infects Pieds !
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez un Elfe pour révéler la main d’un adversaire. Ce joueur défausse une carte de sa main pour chaque Orque révélé.'
+  lore: Une forte compagnie d'Orques est passée. Ils ont traversé la Nimrodel – maudits soient leurs infects pieds dans son eau pure !
+it:
+  title: Maledetti i Loro Immondi Piedi!
+  subtitle: ''
+  text: '**Compagnia:** Sforza un Elfo per mostrare la mano di un avversario. Quel giocatore scarta una carta dalla mano per ogni Orco mostrato.'
+  lore: ‘Una forte Compagnia di Orchi è passata or ora. Hanno attraversato il Nimdorel – maledetti i loro immondi piedi nelle sue limpide acque!’
+es:
+  title: Malditos Sean Esos Pies Infectos
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza un Elfo para revelar la mano de un oponente. Ese jugador descarta una carta de su mano por cada Orco revelado.'
+  lore: Una fuerte compañía de Orcos ha pasado por aquí. Cruzaron el Nimrodel, ¡y malditos sean esos pies infectos en el agua pura!

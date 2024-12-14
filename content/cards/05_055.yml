@@ -1,0 +1,41 @@
+set: '5'
+rarity: U
+number: '55'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 2
+str: '5'
+vit: '3'
+site: 4
+en:
+  title: Isengard Scout Troop
+  subtitle: ''
+  text: |-
+    **Warg-rider.**  
+    While this minion is not exhausted, it is **fierce.**  
+    Each time an :isengard: Orc wins a skirmish, you may exert this minion to control a site.
+  lore: ‘…where the warg howls, there also the orc prowls.’
+de:
+  title: Isengart Spähtrupp
+  subtitle: ''
+  text: '**Wargreiter.** Solange dieser Diener nicht erschöpft ist, ist er **Erbittert.** Jedes Mal, wenn ein :isengard: Ork einen Kampf gewinnt, darfst du diesen Diener anstrengen, um einen Ort zu kontrollieren.'
+  lore: … wo der Warg heult, da lauert auch der Ork.
+fr:
+  title: Éclaireurs de l'Isengard
+  subtitle: ''
+  text: |-
+    **Chevaucheur de ouargue.** Tant que ce séide n’est pas épuisé, il est **acharné**.   
+    Chaque fois qu’un Orque :isengard: gagne un combat, vous pouvez affaiblir ce séide pour prendre le contrôle d’un site.
+  lore: '…où l''ouargue hurle, là aussi l''Orque rôde.” '
+it:
+  title: Truppa di Guide di Isengard
+  subtitle: ''
+  text: '**Cavalcalupi.** Mentre questo servitore non è esausto, è **Feroce.** Ogni volta che un Orco :isengard: vince una schermaglia, puoi sforzare questo servitore per controllare un sito.'
+  lore: ‘…dove ulula il lupo, anche l'Orco striscia cupo.’
+es:
+  title: Tropa exploradora de Isengard
+  subtitle: ''
+  text: '**Jinete de huargo.** Mientras este siervo no esta exhausto, es **fiero.** Cada vez que un Orco :isengard: gana una escaramuza, puedes esforzar este siervo para tomar el control de un sitio.'
+  lore: …donde el huargo aúlla, el Orco ronda.

@@ -1,0 +1,12 @@
+set: '18'
+rarity: U
+number: '136'
+unique: true
+culture: ''
+type: Site
+cost: 2
+en:
+  title: Mithlond
+  subtitle: ''
+  text: '**River.** When the fellowship moves to this site, each player heals each of his or her characters.'
+  lore: ''

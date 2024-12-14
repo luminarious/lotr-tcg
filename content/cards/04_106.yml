@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '106'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 5
+en:
+  title: Well Met Indeed
+  subtitle: ''
+  text: '**Fellowship:** Spot an Elf, a :gondor: Man, and a Dwarf to play Gandalf from your dead pile. '
+  lore: ‘And what may you be doing in these parts? An Elf, a Man, and a Dwarf, all clad in elvish fashion.’
+de:
+  title: Wahrlich gut getroffen
+  subtitle: ''
+  text: '**Gemeinschaft.** Entdecke einen Elben, einen :gondor: Menschen und einen Zwerg, um Gandalf aus deinem Friedhof zu spielen.'
+  lore: Und was mögt ihr wohl in dieser Gegend tun? Ein Elb, ein Mensch und ein Zwerg, und alle auf elbische Weise gekleidet.
+fr:
+  title: Heureuse Rencontre, en Effet
+  subtitle: ''
+  text: '**Compagnie :** Désignez un Elfe, un Homme :gondor: et un Nain pour jouer Gandalf de votre cimetière.'
+  lore: 'Et que faites-vous donc dans cette région? Un Elfe, un Homme et un Nain, tous vêtus à la manière elfique.” '
+it:
+  title: Un Felice Incontro Davvero!
+  subtitle: ''
+  text: '**Compagnia:** Avvista un Elfo, un Uomo :gondor:, e un Nano per giocare Gandalf dalla tua pila dei morti.'
+  lore: ‘E che cosa potete fare da queste parti? Un Elfo, un Uomo e un Nano vestiti alla maniera elfica.’
+es:
+  title: Bienhallados
+  subtitle: ''
+  text: '**Comunidad:** Avista un Elfo, un Hombre :gondor: y un Enano para jugar a Gandalf de tu pila de muertos.'
+  lore: ¿Y qué podéis estar haciendo en estas regiones? Un Elfo, un Hombre, y un Enano, todos vestidos a la manera élfica.

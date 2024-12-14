@@ -1,0 +1,24 @@
+set: '7'
+rarity: R
+number: '119'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 5
+str: '-2'
+vit: '-2'
+en:
+  title: Seventh Level
+  subtitle: ''
+  text: |-
+    **Fortification.**   
+    **Skirmish:** Exert 3 :gondor: Men to transfer this condition from your support area to a minion skirmishing a :gondor: Man.
+  lore: ''
+de:
+  title: Siebenter Ring
+  subtitle: ''
+  text: |-
+    **Befestigung.**   
+    **Kampf:** Strenge 3 :gondor: Menschen an, um diesen Effekt aus deinem Unterstützungsbereich auf einen Diener zu verschieben, der gegen einen :gondor: Menschen kämpft.
+  lore: Sie stieg empor bis zum obersten Ring und wurde dort von einer Brustwehr gekrönt…

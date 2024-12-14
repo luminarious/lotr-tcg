@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '210'
+unique: true
+culture: Isengard
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: We Are the Fighting Uruk-hai
+  subtitle: ''
+  text: '**Skirmish:** Make an Uruk-hai strength +2 (and **damage +1** if you control a site). '
+  lore: ‘But for us you'd all have run away.’
+de:
+  title: Wir sind die kämpfenden Uruk-hai
+  subtitle: ''
+  text: '**Kampf** Gib einem Uruk-hai Stärke +2 (und **Schaden +1**, wenn du einen Ort kontrollierst).'
+  lore: Ohne uns wärt ihr schon alle davongelaufen.
+fr:
+  title: Nous Sommes les Combattants Ourouk-Haï
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force à un Ourouk-Haï (et des **dégâts +1** si vous contrôlez un site).'
+  lore: 'Sans nous, vous vous seriez tous enfuits.” '
+it:
+  title: Siamo gli Invincibili Uruk-hai
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Uruk-hai (e **Danno +1** se controlli un sito).'
+  lore: ‘Se non ci fossimo stati noi sareste tutti fuggiti.’
+es:
+  title: Somos Los Luchadores Uruk-hai
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Uruk-hai fuerza +2 (y **daño +1** si controlas un sitio).'
+  lore: Pero para nosotros, todos vosotros habéis huido.

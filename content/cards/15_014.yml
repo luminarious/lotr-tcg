@@ -1,0 +1,18 @@
+set: '15'
+rarity: C
+number: '14'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '5'
+vit: '3'
+res: '6'
+en:
+  title: Elven Warrior
+  subtitle: ''
+  text: |-
+    While this companion is bearing a possession, he is strength +2.  
+    **Maneuver:** Exert this companion to place an :elven: card from your discard pile on the bottom of your draw deck.
+  lore: Elven warriors used their strength and wisdom equally in battle.

@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '209'
+unique: true
+culture: Isengard
+type: Event
+class: Archery
+cost: 3
+en:
+  title: Volley Fire
+  subtitle: ''
+  text: '**Archery:** Discard 2 :isengard: archers to exhaust an unbound companion. '
+  lore: Defenders on the walls made perfect targets for the Isengard crossbowmen.
+de:
+  title: Bolzenhagel
+  subtitle: ''
+  text: '**FernKampf** Lege 2 :isengard: Bogenschützen ab, um einen nicht-verbundenen Gefährten zu erschöpfen.'
+  lore: Die Verteidiger auf den Mauern waren perfekte Zielscheiben für die Armbrustschützen aus Isengart.
+fr:
+  title: Tir Serré
+  subtitle: ''
+  text: '**Archerie :** Défaussez 2 archers :isengard: pour épuiser un compagnon dissocié.'
+  lore: Les défenseurs des murailles devenaient des cibles parfaites pour les arbalétriers de l'Isengard.
+it:
+  title: Tiro a Raffica
+  subtitle: ''
+  text: '**Arcieri:** Scarta 2 arcieri :isengard: per rendere esausto un compagno Non Legato.'
+  lore: I difensori sulle mura costituivano dei bersagli ideali per i balestrieri di Isengard.
+es:
+  title: Lluvia De Disparos
+  subtitle: ''
+  text: '**Arquería:** Descarta 2 arqueros :isengard: para exhaustar un compañero no-vinculado.'
+  lore: Los defensores en las murallas eran blancos perfectos para los ballesteros de Isengard.

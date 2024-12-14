@@ -1,0 +1,41 @@
+set: '3'
+rarity: U
+number: '9'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Beren and Lúthien
+  subtitle: ''
+  text: |-
+    **Tale.**   
+    **Skirmish:** Exert an :elven: ally to discard the bottom card of your draw deck. If that card is an :elven: card, make a minion skirmishing an Elf strength -1. 
+  lore: ‘Tinúviel! Tinúviel! / He called her by her elvish name; / And there she halted listening.’
+de:
+  title: Beren und Lúthien
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    **Kampf:** Strenge einen :elven: Verbündeten an, um die unterste Karte deines Spieldecks abzulegen. Wenn diese Karte eine :elven: Karte ist, dann gib einem Diener, der gegen einen Elben kämpft, Stärke -1.
+  lore: 'Mit Elbenlaut rief er sie an: / Tinúviel! Tinúviel! / Da hielt sie ein im raschen Lauf / Die Stimme schlug sie in den Bann.'
+fr:
+  title: Beren et Lúthien
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    **Combat :** Affaiblissez un allié :œ: pour défausser la dernière carte de votre pioche. Si celle-ci est une carte :œ:, donnez -1 en force à un séide combattant un Elfe.
+  lore: 'Tinúviel! Tinúviel! Il l''appela par son nom elfique, / Et alors elle s''arrêta, écoutant.” '
+it:
+  title: Beren e Lúthien
+  subtitle: ''
+  text: |-
+    **Racconto.**   
+    **Schermaglia:** Sforza un alleato :elven: per scartare l’ultima carta del tuo mazzo di gioco. Se quella carta è una carta :elven:, sottrai -1 alla forza di un servitore che stia schermagliando con un Elfo.
+  lore: ‘Tinúviel! Tinúviel! / Il suo nome elfico era poesia, / Ed ella si fermò un attimo ad ascoltare.’
+es:
+  title: Beren y Lúthien
+  subtitle: ''
+  text: '**Cuento.** **Escaramuza:** Esfuerza un aliado :elven: para descartar la carta inferior de tu mazo de robar. Si esa carta es una carta :elven:, da a un siervo en una escaramuza contra un Elfo fuerza -1.'
+  lore: ¡Tinúviel! ¡Tinúviel! / La llamó por su nombre élfico / y ella se detuvo entonces, escuchando.

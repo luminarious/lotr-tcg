@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '259'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Wind in His Face
+  subtitle: ''
+  text: 'Make a :rohan: Man strength +2. If that Man is mounted, choose an opponent who must place a random card from hand beneath his or her draw deck.'
+  lore: 'Far, far away, in the South the clouds could be dimly seen as remote grey shapes, rolling up, drifting: morning lay beyond them.'
+de:
+  title: Wind blies in sein Gesicht
+  subtitle: ''
+  text: 'Gib einem :rohan: Menschen Stärke +2. Wenn dieser Mensch beritten ist, wähle einen Gegenspieler aus, der eine zufällig bestimmte Karte aus seiner Hand unter sein Spieldeck legen muss.'
+  lore: 'Weit, weit im Süden sah man die Wolken undeutlich wie ferne, graue Gebilde, die heranrollten und dahintrieben: der Morgen lag hinter ihnen.'

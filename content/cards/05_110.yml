@@ -1,0 +1,42 @@
+set: '5'
+rarity: U
+number: '110'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Teeth of Mordor
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    **Regroup:** Spot a :sauron: Orc and remove :twilight3: to stack that minion here.   
+    **Shadow:** Play a :sauron: Orc stacked here as if played from hand.
+  lore: None could pass the Teeth of Mordor and not feel their bite….
+de:
+  title: Die Zähne von Mordor
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Sammeln:** Entdecke einen :sauron: Ork und verringere den Einfluss um :twilight3:, um diesen hier zu lagern. **Schatten:** Spiele einen hier gelagerten :sauron: Ork, als wäre er auf deiner Hand.'
+  lore: Niemand konnte an den Zähnen von Mordor vorbei, ohne ihren Biß zu spüren….
+fr:
+  title: Les Dents du Mordor
+  subtitle: ''
+  text: |-
+
+    **Ralliement :** Retirez :twilight3: pour empiler un Orque :sauron: ici. **Ombre :** Jouez un Orque :sauron: empilé ici comme s’il était dans votre main.
+  lore: 'Nul ne pouvait passer par les Dents du Mordor sans ressentir leur morsure… '
+it:
+  title: Denti di Mordor
+  subtitle: ''
+  text: |-
+
+    **Raccolta:** Avvista un Orco :sauron: e rimuovi :twilight3: per impilare qui quel servitore. **Ombra:** Gioca un Orco :sauron: impilato qui come se fosse giocato dalla mano.
+  lore: Nessuno poteva oltrepassare i Denti di Mordor senza sentirne il morso…
+es:
+  title: Dientes de Mordor
+  subtitle: ''
+  text: |-
+
+    **Reagrupación:** Quita :twilight3: para apilar un Orco :sauron: en juego aquí. ****Sombra:**** Juega un Orco :sauron: apilado aquí como si fuera de tu mano.
+  lore: Nadie podía pasar por los Dientes de Mordor sin sentir la mordedura…

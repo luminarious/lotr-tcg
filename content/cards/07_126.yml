@@ -1,0 +1,22 @@
+set: '7'
+rarity: U
+number: '126'
+unique: true
+culture: Gondor
+type: Condition
+cost: 2
+en:
+  title: Unexpected Visitor
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: companion.   
+    Each minion gains this ability: “**Assignment:** Assign this minion to bearer of Unexpected Visitor.” **Regroup:** Discard this condition to discard a minion and remove :twilight4:.
+  lore: ''
+de:
+  title: Unerwarteter Besuch
+  subtitle: ''
+  text: |-
+    Muss auf einen :gondor: Gefährten gespielt werden.   
+    Alle Diener erhalten: "**Zuweisung:** Weise diesen Diener dem Träger dieses Effekts zu."   
+    **Sammeln:** Lege diesen Effekt ab, um einen Diener abzulegen und den Einfluss um :twilight4: zu verringern.
+  lore: ''

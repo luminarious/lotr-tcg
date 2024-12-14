@@ -1,0 +1,13 @@
+set: '15'
+rarity: C
+number: '127'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Grim Trophy
+  subtitle: ''
+  text: 'Make a :rohan: Man strength +1 for each hunter you can spot (or if you can spot more valiant Men than hunters, make a :rohan: Man strength +1 for each valiant Man you can spot).'
+  lore: ‘At least they will not love the Orcs.’

@@ -1,0 +1,18 @@
+set: '13'
+rarity: O
+number: '201'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '5'
+en:
+  title: Denethor
+  subtitle: Last Ruling Steward
+  text: |-
+    Denethor is resistance +1 for each :gondor: possession in your discard pile.  
+    **Maneuver:** Spot a :gondor: possession borne by a companion and remove that posssession from the game to exert a minion twice. 
+  lore: …he took up the staff of his Stewardship that lay at his feet and broke it on his knee.

@@ -1,0 +1,18 @@
+set: '12'
+rarity: S
+number: '189'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Left
+en:
+  title: Hobbiton Market
+  subtitle: ''
+  text: '**Dwelling.** When the fellowship moves from this site, wound each minion that is not a lurker.'
+  lore: ''
+de:
+  title: Marktplatz in Hobbingen
+  subtitle: ''
+  text: '**Heimstatt.** Verwunde jeden Diener, der kein Schleicher ist, wenn sich die Gemeinschaft von hier fortbewegt.'
+  lore: ''

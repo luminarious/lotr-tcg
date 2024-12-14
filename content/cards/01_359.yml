@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '359'
+unique: true
+culture: ''
+type: Site
+cost: 9
+siteArrow: Right
+en:
+  title: Shores of Nen Hithoel
+  subtitle: ''
+  text: '**River.** **Shadow:** Spot 5 Orc minions to prevent the fellowship from moving again this turn.'
+  lore: ''
+de:
+  title: Die Ufer von Nen Hithoel
+  subtitle: ''
+  text: '**Fluss.** **Schatten:** Entdecke 5 Orkdiener, um die Gemeinschaft für diesen Spielzug am Weiterreisen zu hindern.'
+  lore: ''
+fr:
+  title: Rivages de Nen Hithoel
+  subtitle: ''
+  text: '**Rivière.** Ombre : Désignez 5 séides Orques pour empêcher la compagnie de se déplacer à nouveau ce tour-ci.'
+  lore: ''
+it:
+  title: Sponde del Nen Hithoel
+  subtitle: ''
+  text: '**Fiume.** **Ombra:** Avvista 5 servitori Orchi per impedire che la Compagnia si muova nuovamente in questo turno.'
+  lore: ''
+es:
+  title: Orillas de Nen Hithoel
+  subtitle: ''
+  text: '**Río.** **Sombra:** Avista 5 siervos Orcos para impedir que la comunidad se mueva otra vez este turno.'
+  lore: ''

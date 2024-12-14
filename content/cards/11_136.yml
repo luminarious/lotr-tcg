@@ -1,0 +1,25 @@
+set: '11'
+rarity: C
+number: '136'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Prowling Orc
+  subtitle: ''
+  text: |-
+    **Lurker.** (Skirmishes involving lurker minions must be resolved after any others.)   
+    **Skirmish:** Remove :twilight2: to make an :orc: minion strength +1.
+  lore: Orcs use numbers to fell a powerful foe, though it would be generous to think of it as working together.
+de:
+  title: Ork Rumtreiber
+  subtitle: ''
+  text: |-
+    **Schleicher.   
+    Kampf:** Verringere den Einfluss um :twilight2: um einem :orc: Diener Stärke +1 zu geben.
+  lore: Obwohl viele Orks zusammen einen mächtigen Feind bezwingen können, arbeiten sie dennoch nicht wirklich zusammen.

@@ -1,0 +1,35 @@
+set: '4'
+rarity: C
+number: '145'
+unique: true
+culture: Isengard
+type: Event
+class: Archery
+cost: 0
+en:
+  title: Cloud of Arrows
+  subtitle: ''
+  text: |-
+    **Archery:**   
+    Exert an :isengard: archer to make the minion archery total +1 and the fellowship archery total -1. 
+  lore: Behind them orc-archers crowded, sending a hail of darts against the bowmen on the walls.
+de:
+  title: Ein Hagel von Pfeilen
+  subtitle: ''
+  text: '**FernKampf** Strenge einen :isengard: Bogenschützen an, um den Fernkampfwert der Diener um 1 zu erhöhen und den der Gemeinschaft um 1 zu verringern.'
+  lore: Hinter ihnen scharten sich Orkschützen zusammen und schickten einen Hagel von Pfeilen gegen die Bogenschützen auf den Wällen.
+fr:
+  title: Une Nuée de Flèches
+  subtitle: ''
+  text: '**Archerie :** Affaiblissez un archer :isengard: pour augmenter le total d’archerie des séides de +1 et diminuer le total d’archerie de la compagnie de -1.'
+  lore: 'Derrière, se pressaient des archers orques, qui lançaient une grêle de traits sur les archers des murs. '
+it:
+  title: Nube di Frecce
+  subtitle: ''
+  text: '**Arcieri:** Sforza un arciere :isengard: per aggiungere +1 al totale degli arcieri tra i servitori e sottrarre -1 al totale degli arcieri della Compagnia.'
+  lore: Dietro a loro, uno stuolo di Orchi scoccava una grandine di frecce contro gli arcieri sulle mura.
+es:
+  title: Nube De Flechas
+  subtitle: ''
+  text: '**Arquería:** Esfuerza un arquero :isengard: para que el total de arquería de los siervos sea +1 y el total de arquería de la comunidad sea -1.'
+  lore: Tras ellos se amontonaban los arqueros orcos, lanzando una lluvia de dardos contra los arqueros apostados en los muros.

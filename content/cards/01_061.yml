@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '61'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Songs of the Blessed Realm
+  subtitle: ''
+  text: |-
+
+    Each time you play an :elven: tale, you may remove a burden.
+  lore: Elves seem to like music and poetry and tales as much as Hobbits like food.
+de:
+  title: Lieder des glückseligen Reichs
+  subtitle: ''
+  text: 'Jedesmal, wenn du eine :elven: Erzählung spielst, darfst du eine Lastmarke entfernen.'
+  lore: Es scheint, dass Elben Musik und Dichtkunst eben so sehr lieben, wie die Hobbits das Essen.
+fr:
+  title: Chants du Royaume Béni
+  subtitle: ''
+  text: Chaque fois que vous jouez un récit :œ:, vous pouvez retirer un point-fardeau.
+  lore: Les Elfes semblent aimer la musique et la poésie autant que les Hobbits aiment la nourriture.
+it:
+  title: Canzone del Reame Benedetto
+  subtitle: ''
+  text: Ogni volta che giochi un racconto :elven:, puoi rimuovere un segnalino fardello.
+  lore: Gli Elfi sembrano amare la musica, la poesia e i racconti quanto gli Hobbit amano il cibo.
+es:
+  title: Canciones del Reino Bendecido
+  subtitle: ''
+  text: Cada vez que juegas un cuento :elven:, puedes quitar una carga.
+  lore: Parece ser que a los Elfos les gusta tanto la música la poesía y las canciones tanto como a los Hobbits la comida.

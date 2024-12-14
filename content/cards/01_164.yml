@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '164'
+unique: true
+culture: Moria
+type: Event
+class: Archery
+cost: 1
+en:
+  title: Bitter Hatred
+  subtitle: ''
+  text: '**Archery:** Spot a :moria: archer to wound an Elf.'
+  lore: Bitter and long is the hatred of the Orcs for the Elves, and thus they prefer Elves as targets.
+de:
+  title: Erbitterter Hass
+  subtitle: ''
+  text: '**FernKampf** Entdecke einen :moria: Bogenschützen, um einen Elben zu verwunden.'
+  lore: Verbittert und alt ist der Hass, den die Orks für die Elben hegen. Deshalb stürzen sie sich zuerst auf die Elben.
+fr:
+  title: Haine Virulente
+  subtitle: ''
+  text: '**Archerie :** Désignez un archer :moria: pour blesser un Elfe.'
+  lore: Acharnée et tenace est la haine des Orques envers les Elfes, et ainsi ils préfèrent les Elfes pour cibles.
+it:
+  title: Odio Implacabile
+  subtitle: ''
+  text: '**Arcieri:** Avvista un arciere :moria: per ferire un Elfo.'
+  lore: Implacabile e duraturo è l'odio degli Orchi per gli Elfi, e per questo preferiscono gli Elfi come bersagli.
+es:
+  title: Odio Acérrimo
+  subtitle: ''
+  text: '**Arquería:** Avista un arquero :moria: para herir un elfo.'
+  lore: Amargo y largo es el odio de los Orcos hacia los Elfos, y así ellos los prefieren como objetivo.

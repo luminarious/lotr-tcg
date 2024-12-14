@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '285'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '7'
+vit: '2'
+site: 6
+en:
+  title: Mordor Defender
+  subtitle: ''
+  text: '**Skirmish:** Exert this minion and spot another :sauron: minion to add a threat.'
+  lore: …towards Mordor where the first bitter assault would come….
+de:
+  title: Verteidiger Mordors
+  subtitle: ''
+  text: '**Kampf:** Strenge diesen Diener an und entdecke einen anderen :sauron: Diener, um eine Bedrohung entstehen zu lassen.'
+  lore: …Mordor gegenüber, wo der erste erbitterte Ansturm losbrechen würde…

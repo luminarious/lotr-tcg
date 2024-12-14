@@ -1,0 +1,25 @@
+set: '9'
+rarity: R
+number: '45'
+unique: true
+culture: Rohan
+type: Possession
+cost: 1
+str: '+1'
+signet: Signet_Theoden
+en:
+  title: Horn of the Mark
+  subtitle: ''
+  text: |-
+    Bearer must be Merry or Pippin.   
+    Bearer gains the Théoden signet.   
+    **Response:** If bearer wins a skirmish, exert him to discard each minion involved in that skirmish. 
+  lore: ‘He that blows it at need shall set fear in the hearts of his enemies and joy in the hearts of his friends….’
+de:
+  title: Das Horn der Mark
+  subtitle: ''
+  text: |-
+    Muss auf Merry oder Pippin gespielt werden.   
+    Der Träger erhält das Théodensiegel.   
+    **Reaktion:** Strenge den Träger an, wenn er einen Kampf gewinnt, um alle Diener, die an diesem Kampf beteiligt waren, abzulegen.
+  lore: Wer es bläst, wenn er in Not ist, erweckt Furcht im Herzen seiner Feinde und Freude im Herzen seiner Freunde…

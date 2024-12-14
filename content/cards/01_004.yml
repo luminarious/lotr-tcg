@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '4'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Battle Fury
+  subtitle: ''
+  text: '**Skirmish:** Exert a Dwarf to make that Dwarf strength +3 and **damage +1.**'
+  lore: The Dwarves quickly dispatch Orcs and Uruk-hai with their mighty battle axes.
+de:
+  title: Kampfrausch
+  subtitle: ''
+  text: '**Kampf:** Strenge einen Zwerg an, um diesem Stärke +3 und **Schaden +1** zu geben.'
+  lore: Zwerge erschlagen Orks und Uruk-hai kurzerhand mit ihren gewaltigen Streitäxten.
+fr:
+  title: Fureur de la Bataille
+  subtitle: ''
+  text: '**Combat :** Affaiblissez un Nain pour lui donner +3 en force et **dégâts +1.**'
+  lore: Les Nains expédièrent rapidement Orques et Ourouk-Haï avec leurs puissantes haches de bataille.
+it:
+  title: Furia della Battaglia
+  subtitle: ''
+  text: '**Schermaglia:** Sforza un Nano per aggiungere +3 alla forza di quel Nano e **Danno +1.**'
+  lore: I Nani uccidono velocemente Orchi ed Uruk-hai con le loro potenti asce da battaglia.
+es:
+  title: Furia de Batalla
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza un Enano para darle a ese enano fuerza +3 y **daño +1.**'
+  lore: Los Enanos despachan Orcos y Uruk-hai rápidamente con sus poderosas hachas de batalla.

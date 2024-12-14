@@ -1,0 +1,35 @@
+set: '3'
+rarity: R
+number: '77'
+unique: true
+culture: Moria
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Depths of Moria
+  subtitle: ''
+  text: |-
+    To play, spot a :moria: Orc.   
+    Each time the fellowship moves during the regroup phase, add :twilight2:. 
+  lore: …a great fissure had opened. Out of it a fierce red light came, and now and again flames licked at the brink…. Wisps of dark smoke wavered in the hot air.
+de:
+  title: Tief in Moria
+  subtitle: ''
+  text: 'Entdecke einen :moria: Ork, um diese Karte in deinen Unterstützungsbereich zu spielen. Erhöhe den Einfluss um :twilight2:, wenn sich die Gemeinschaft in der Sammelphase bewegt.'
+  lore: … hatte sich ein großer Spalt aufgetan. Aus ihm drang ein heller roter Lichtschein, und ab und zu züngelten Flammen am Rand…. Dunkle Rauchwölkchen zogen durch die heiße Luft.
+fr:
+  title: Les Profondeurs de la Moria
+  subtitle: ''
+  text: Pour jouer, désigner un Orque :moria:. Chaque fois que la compagnie se déplace pendant la phase de ralliement, ajoutez :twilight2:.
+  lore: '…une grande fissure s''était ouverte. Par là venait une ardente lumière rouge, et de temps à autre des flammes en léchaient le bord… De sombres rubans de fumée flottaient dans l''air chaud. '
+it:
+  title: Profondità di Moria
+  subtitle: ''
+  text: Per giocarla, avvista un Orco :moria:. Ogni volta che la compagnia si muove durante la fase di raccolta, aggiungi :twilight2:.
+  lore: …si apriva una grande voragine. Irradiava una violenta luce rossa, e di tanto in tanto delle fiamme lambivano il bordo, attorcigliandosi intorno alla base delle colonne. Spirali di fumo scuro vibravano nell'aria calda.
+es:
+  title: Abismos de Moria
+  subtitle: ''
+  text: Para jugarla, avista un Orco :moria:. Cada vez que la comunidad se mueve durante la fase de reagrupación, añade :twilight2:.
+  lore: …se había abierto una gran fisura. Salió de ella una fiera luz roja, y de vez en cuando las llamas lamían el borde… Jirones de humo oscuro se agitaban en el cálido aire.

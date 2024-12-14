@@ -1,0 +1,43 @@
+set: '5'
+rarity: C
+number: '17'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 2
+str: '8'
+vit: '3'
+en:
+  title: Forest Guardian
+  subtitle: ''
+  text: |-
+    **Unhasty.**  
+    **Assignment:** Exert an unbound Hobbit or discard 2 cards from hand to allow this companion to skirmish.
+  lore: ‘We keep off strangers and the foolhardy; and we train and we teach, we walk and we weed.’
+de:
+  title: Wächter des Waldes
+  subtitle: ''
+  text: '**Unhastig.** **Zuweisung:** Strenge einen nicht-verbundenen Hobbit an oder lege 2 Karten aus deiner Hand ab, damit dieser Gefährte am Kampf teilnehmen darf.'
+  lore: Wir halten Fremde und die Waghalsigen fern. Und wir lehren und unterrichten, wir wandern und sehen nach dem Rechten.
+fr:
+  title: Gardien de la Forêt
+  subtitle: ''
+  text: |-
+    **Peu hâtif.**   
+    **Affectation :** Affaiblissez un Hobbit dissocié ou défaussez 2 cartes de votre main pour permettre à ce compagnon de combattre.
+  lore: 'Nous repoussons les étrangers et les imprudents; nous formons et nous enseignons, nous marchons et nous désherbons.” '
+it:
+  title: Guardiano della Foresta
+  subtitle: ''
+  text: |-
+    **Senza Fretta.**   
+    **Assegnazione:** Sforza un Hobbit Non Legato o scarta 2 carte dalla mano per consentire a questo compagno di schermagliare.
+  lore: ‘Teniamo lontani temerari ed estranei, insegniamo, alleniamo, camminiamo, ed estirpiamo le erbacce.’
+es:
+  title: Guardián del bosque
+  subtitle: ''
+  text: |-
+    **Sin prisa.**   
+    **Asignación:** Esfuerza un Hobbit no-vinculado o descarta 2 cartas de la mano para permitir que este compañero participe en escaramuzas.
+  lore: Rechazamos a los extranjeros y a los imprudentes, y entrenamos y enseñamos, caminamos y quitamos las malezas.

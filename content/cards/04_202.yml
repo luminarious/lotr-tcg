@@ -1,0 +1,44 @@
+set: '4'
+rarity: U
+number: '202'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '10'
+vit: '3'
+site: 5
+en:
+  title: Uruk-hai Band
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    This minion is strength +2 for each site you control. 
+  lore: There were four… of greater stature, swart, slant-eyed, with thick legs and broad hands.
+de:
+  title: Uruk-hai Schar
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Dieser Diener erhält Stärke +2 für jeden Ort, den du kontrollierst.
+  lore: Da lagen vier… von größerer Gestalt, schwärzlich, schlitzäugig, mit dicken Beinen und großen Händen.
+fr:
+  title: Bande Ourouk-Haï
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    Ce séide a +2 en force pour chaque site que vous contrôlez.
+  lore: 'Ils étaient quatre… de grande taille, au teint foncé, aux yeux bridés, avec des jambres épaisses et de larges mains.” '
+it:
+  title: Banda di Uruk-hai
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    Aggiungi +2 alla forza di questo servitore per ogni sito che controlli.
+  lore: ‘Quattro soldati erano più alti, di carnagione bruna, con occhi obliqui, mani grandi e gambe massicce.’
+es:
+  title: Banda De Uruk-hai
+  subtitle: ''
+  text: '**Daño +1.** Este siervo es fuerza +2 por cada sitio que controles.'
+  lore: Había cuatro… más corpulentos, morenos, de ojos oblicuos, piernas gruesas y manos grandes.

@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '150'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Rally Cry
+  subtitle: ''
+  text: 'Make a :rohan: Man who has resistance 4 or more strength +2 for each wound on each minion he or she is skirmishing.'
+  lore: ‘…a sword-day, a red day, ere the sun rises!
+de:
+  title: Sammelbefehl
+  subtitle: ''
+  text: 'Gib einem :rohan: Menschen mit Resistenz 4 oder höher Stärke +2 für jede Wunde auf jedem Diener, gegen den er kämpft.'
+  lore: … Schwert-Tag, Blut-Tag, ehe die Sonne steigt!

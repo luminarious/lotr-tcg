@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '25'
+unique: true
+culture: Gandalf
+type: Event
+class: Regroup
+cost: 1
+en:
+  title: Crack Into Rubble
+  subtitle: ''
+  text: '**Regroup:** Exert 2 Ents to liberate a site and discard a Shadow condition.'
+  lore: ‘To Isengard! Though Isengard be ringed and barred with doors of stone; / Though Isengard be strong and hard, as cold as stone and bare as bone….’
+de:
+  title: In Schutt und Trümmer legen
+  subtitle: ''
+  text: '**Sammeln:** Strenge 2 Ents an, um einen Ort zu befreien und einen Schatteneffekt abzulegen.'
+  lore: Nach Isengart! Obwohl es hart und steinern droht, vor Waffen starrt, / Wär’s noch so ehern, noch so stark, stark bis ins tiefste Knochenmark…
+fr:
+  title: Faire Sauter en Moellons
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez 2 Ents pour libérer un site et défausser une situation de l’Ombre.'
+  lore: 'Sus à l''Isengard ! L''Isengard fût-il encerclé et fermé de portes de pierre ; / L''Isengard fût-il fort et dur, froid comme la pierre et nu comme l''os….” '
+it:
+  title: Ridurre in Macerie
+  subtitle: ''
+  text: '**Raccolta:** Sforza 2 Ent per liberare un sito e scartare una condizione Ombra.'
+  lore: ‘Isengard! Anche se sei protetto da un maledetto, da monti e da ponti… anche se sei forte e violento, freddo come vento, duro e cruento….’
+es:
+  title: Convertir en escombros
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza 2 Ents para liberar un sitio y descartar una condición de Sombra.'
+  lore: ¡A Isengard! Aunque Isengard esté clausurada con puertas de piedra; aunque Isengard sea fuerte y dura, tan fría como la piedra y desnuda como el hueso…

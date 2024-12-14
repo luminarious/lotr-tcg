@@ -1,0 +1,21 @@
+set: '4'
+rarity: C
+number: '153'
+unique: true
+culture: Isengard
+type: Minion
+race: Man
+cost: 2
+str: '4'
+vit: '3'
+site: 3
+en:
+  title: Gríma
+  subtitle: Son of Galmód
+  text: 'Each unbound companion (or ally) bearing a Shadow condition is strength -1. '
+  lore: ‘Did I not counsel you, lord, to forbid his staff?’
+fr:
+  title: Grima
+  subtitle: Fils de Galmod
+  text: Chaque compagnon dissocié (ou allié) détenant une situation de l’Ombre a -1 en force.
+  lore: 'Ne vous avais-je pas conseillé, Seigneur, d''interdire son bâton?” '

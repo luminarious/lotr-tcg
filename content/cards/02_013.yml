@@ -1,0 +1,35 @@
+set: '2'
+rarity: U
+number: '13'
+unique: true
+culture: Dwarven
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: Tidings of Erebor
+  subtitle: ''
+  text: |-
+    **Regroup:** Spot a Dwarf to draw 3 cards.   
+    Any Shadow player may remove :twilight3: to prevent this. 
+  lore: ‘…we have so far been fortunate, though we do not escape the shadow of these times.’
+de:
+  title: Neuigkeiten vom Erebor
+  subtitle: ''
+  text: '**Sammeln:** Entdecke einen Zwerg, um 3 Karten zu ziehen. Ein beliebiger Schattenspieler darf den Einfluss um :twilight3: verringern, um dies zu verhindern.'
+  lore: Wir haben bisher Glück gehabt, obwohl wir dem Schatten dieser Zeiten nicht entgehen.
+fr:
+  title: Présages d'Erebor
+  subtitle: ''
+  text: '**Ralliement :** Désignez un Nain pour piocher 3 cartes. N’importe quel joueur de l’Ombre peut retirer :twilight3: pour empêcher ceci.'
+  lore: '…nous avons jusqu''ici été fortunés, quoique nous n''échappions pas à l''assombrissement de ces temps.” '
+it:
+  title: Notizie di Erebor
+  subtitle: ''
+  text: '**Raccolta:** Avvista un Nano per pescare 3 carte. Un qualunque giocatore Ombra può rimuovere :twilight3: per prevenirlo.'
+  lore: ‘…siamo stati fortunati finora, benché l'ombra di questi tempi sfiori anche noi.’
+es:
+  title: Noticias de Erebor
+  subtitle: ''
+  text: '**Reagrupación:** Avista un Enano para robar 3 cartas. Cualquier jugador de sombra puede quitar :twilight3: para prevenir esto.'
+  lore: …de momento hemos sido afortunados, pero no escapamos a la sombra de estos tiempos.

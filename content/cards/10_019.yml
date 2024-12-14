@@ -1,0 +1,18 @@
+set: '10'
+rarity: R
+number: '19'
+unique: true
+culture: Gollum
+type: Event
+class: Response
+cost: 0
+en:
+  title: A Dark Shape Sprang
+  subtitle: ''
+  text: 'If an opponent plays a possession on a companion, play Gollum at twilight cost –2 from your discard pile or hand to suspend the current phase. Begin a skirmish phase involving Gollum and that companion. When it ends, resume the suspended phase. '
+  lore: Something struck Sam violently in the back….
+de:
+  title: Ein dunkler Schatten sprang
+  subtitle: ''
+  text: Spiele Gollum mit um 2 reduzierten Kosten aus deiner Hand oder deinem Ablagestapel, wenn ein Gegenspieler eine Ausrüstung auf einen Gefährten spielt, um die laufende Phase zu unterbrechen. Beginne eine Kampfphase zwischen Gollum und diesem Gefährten. Fahre mit der unterbrochenen Phase fort, wenn der Kampf beendet ist.
+  lore: ''

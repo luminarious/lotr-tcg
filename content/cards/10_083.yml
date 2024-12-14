@@ -1,0 +1,21 @@
+set: '10'
+rarity: U
+number: '83'
+unique: true
+culture: Sauron
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '7'
+vit: '2'
+site: 6
+en:
+  title: Cirith Ungol Sentinel
+  subtitle: ''
+  text: '**Damage +1.** If you can spot another :sauron: Uruk-hai, this minion is twilight cost –1 for each possession you can spot. '
+  lore: ‘Any trespasser found by the guard is to be held at the tower.’
+de:
+  title: Cirith Ungol Wächter
+  subtitle: ''
+  text: '**Schaden +1**. Wenn du einen anderen :sauron: Uruk-hai entdecken kannst, reduzieren sich die Kosten für diesen Diener um 1 für jede Ausrüstung, die du entdecken kannst.'
+  lore: Jeder, der sich hier unbefugt aufhält und von der Wache gefunden wird, soll im Turm festgesetzt werden.

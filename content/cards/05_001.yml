@@ -1,0 +1,36 @@
+set: '5'
+rarity: U
+number: '1'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 1
+str: '9'
+vit: '1'
+site: 3
+en:
+  title: Dunlending Rampager
+  subtitle: ''
+  text: When you play this minion, the Free Peoples player may discard 2 cards from hand to discard him.
+  lore: To kill and destroy was the mission of the wild hillmen.
+de:
+  title: Tobender Dunländer
+  subtitle: ''
+  text: Wenn du diesen Diener spielst, darf der Freie Völker Spieler 2 Karten aus seiner Hand ablegen, um diesen Diener abzulegen.
+  lore: Alles zu töten und zu zerstören war das Ziel der wilden Bergbewohner.
+fr:
+  title: Saccageur Dun
+  subtitle: ''
+  text: Quand vous jouez ce séide, le joueur des Peuples Libres peut défausser 2 cartes de sa main pour le défausser.
+  lore: La mission des hommes sauvages des collines était de tuer et de détruire.
+it:
+  title: Devastatore Dunlandiano
+  subtitle: ''
+  text: Quando giochi questo servitore, il giocatore dei Popoli Liberi può scartare 2 carte dalla mano per scartarlo.
+  lore: Uccidere e distruggere era la missione dei selvaggi uomini delle colline.
+es:
+  title: Dunlendino desenfrenado
+  subtitle: ''
+  text: Cuando juegas este siervo, el jugador de Gentes Libres puede descartar 2 cartas de la mano para descartarlo.
+  lore: Matar y destruir era la misión de los hombres salvajes de las colinas.

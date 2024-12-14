@@ -1,0 +1,23 @@
+set: '7'
+rarity: R
+number: '316'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Troop Tower
+  subtitle: ''
+  text: |-
+    **Engine.** To play, spot a :sauron: Orc.   
+    All :sauron: Orcs are strength +1 for each besieger stacked on a site.   
+    **Regroup:** Discard a besieger to take control of a site. Discard this condition.
+  lore: ''
+de:
+  title: Wandelturm
+  subtitle: ''
+  text: |-
+    **Belagerungswaffe.** Entdecke einen :sauron: Ork, um diesen Effekt zu spielen. Jeder :sauron: Ork erhält Stärke +1 für jeden Belagerer, der auf einem Ort gelagert ist.   
+    **Sammeln:** Lege einen Belagerer ab, um einen Ort zu kontrollieren. Lege diesen Effekt ab.
+  lore: Langsam rollten die großen, in Osgiliath gebauten Belagerungstürme durch die Dunkelheit.

@@ -1,0 +1,18 @@
+set: '15'
+rarity: R
+number: '36'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 5
+str: '7'
+vit: '4'
+res: '6'
+en:
+  title: Shepherd of the Trees
+  subtitle: ''
+  text: |-
+    While you can spot 4 Ents, this companion is strength +3.  
+    **Maneuver:** Exert this companion to reveal the bottom card of your draw deck. If it is a :gandalf: character, you may play it.
+  lore: Ents rarely interacted with Men, but Saruman’s devilry demanded action.

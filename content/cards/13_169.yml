@@ -1,0 +1,25 @@
+set: '13'
+rarity: R
+number: '169'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '12'
+vit: '2'
+site: 5
+en:
+  title: Uruk Blitz
+  subtitle: ''
+  text: |-
+    To play, spot an :urukhai: minion.  
+    While the fellowship is in region 1, each Uruk-hai is **damage +1**.  
+    While the fellowship is in region 2, each companion is strength –1.  
+    While the fellowship is in region 3, each unbound companion is resistance –2.
+  lore: ''
+de:
+  title: Blitzschneller Uruk
+  subtitle: ''
+  text: 'Entdecke einen :urukhai: Diener, um diese Karte zu spielen. Solange sich die Gemeinschaft in Region 1 befindet, erhalten alle Uruk-hai **Schaden +1**. Solange sich die Gemeinschaft in Region 2 befindet, erhalten alle Gefährten Stärke -1. Solange sich die Gemeinschaft in Region 3 befindet, erhalten alle nicht-verbundenen Gefährten Resistenz -2.'
+  lore: ''

@@ -1,0 +1,16 @@
+set: '1'
+rarity: C
+number: '67'
+unique: true
+culture: Elven
+type: Ally
+race: Elf
+cost: 2
+str: '5'
+vit: '2'
+site: '6'
+en:
+  title: Uruviel
+  subtitle: Maid of Lórien
+  text: While you can spot your site 6, Uruviel has the game text of that site.
+  lore: An Elf-maid of the Galadhrim, Uruviel has dwelt for years beneath the mallorn trees of Lothlórien.

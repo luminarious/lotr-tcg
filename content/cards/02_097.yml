@@ -1,0 +1,41 @@
+set: '2'
+rarity: R
+number: '97'
+unique: true
+culture: Shire
+type: Condition
+cost: 0
+en:
+  title: Consorting With Wizards
+  subtitle: ''
+  text: |-
+    **Tale.** Bearer must be Bilbo.   
+    Bilbo may not take wounds (except during the archery phase).   
+    **Fellowship** or **Regroup:** Exert Bilbo or discard this condition to remove :twilight1:. 
+  lore: ‘He wasn't always this peculiar! When I were a lad, old Bilbo was a most respectable Hobbit.’
+de:
+  title: Umgang mit Zauberern
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    Muss auf Bilbo gespielt werden. Bilbo darf nicht verwundet werden (ausser in der Fernkampfphase). Gemeinschaft oder **Sammeln:** Strenge Bilbo an oder lege diesen Effekt ab, um den Einfluss um :twilight1: zu verringern.
+  lore: Er war nicht immer so sonderbar! Als ich noch ein Junge war, war der alte Bilbo ein höchst ehrbarer Hobbit.
+fr:
+  title: Fréquentations Magiques
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Le détenteur doit être Bilbon. Bilbon ne peut pas être blessé (sauf pendant la phase d’archerie). Compagnie ou **Ralliement :** Affaiblissez Bilbon ou défaussez cette situation pour retirer :twilight1:.
+  lore: 'Il n''a pas toujours été aussi particulier! Lorsque j''étais un jeune garçon, le vieux Bilbon était un Hobbit des plus respectables.” '
+it:
+  title: Frequentare gli Stregoni
+  subtitle: ''
+  text: |-
+    **Racconto.** Il possessore deve essere Bilbo. Bilbo non può subire ferite (tranne che durante la fase degli Arcieri). Compagnia o   
+    **Raccolta:** Sforza Bilbo o scarta questa condizione per rimuovere :twilight1:.
+  lore: ‘Non è sempre stato così strano! Quando ero un bambino, il vecchio Bilbo era un Hobbit assai rispettabile.’
+es:
+  title: Asociarse con magos
+  subtitle: ''
+  text: '**Cuento.** El portador debe ser Bilbo. Bilbo no puede recibir heridas (excepto durante la fase de arquería). **Comunidad** o **Reagrupación:** Esfuerza a Bilbo o descarta esta condición para quitar :twilight1:.'
+  lore: ¡No siempre había sido así de peculiar! Cuando yo era un muchacho, el viejo Bilbo era un Hobbit respetable.

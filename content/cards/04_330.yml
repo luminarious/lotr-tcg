@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '330'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Left
+en:
+  title: Derndingle
+  subtitle: ''
+  text: '**Forest.** While you can spot an unbound Hobbit at Derndingle, the move limit is +1 for this turn. '
+  lore: ''
+de:
+  title: Tarntobel
+  subtitle: ''
+  text: '**Wald.** Solange du hier einen nicht-verbundenen Hobbit entdecken kannst, erhöht sich deine Bewegungsweite für diesen Spielzug um 1.'
+  lore: ''
+fr:
+  title: Derunant
+  subtitle: ''
+  text: '**Forêt.** Tant que vous pouvez désigner un Hobbit à Derunant, la limite de déplacement est de +1 pour ce tour.'
+  lore: ''
+it:
+  title: Tondovallo
+  subtitle: ''
+  text: '**Foresta.** Mentre puoi avvistare un Hobbit Non Legato presso Tondovallo, aggiungi +1 al limite dei movimenti per questo turno.'
+  lore: ''
+es:
+  title: El Valle Emboscado
+  subtitle: ''
+  text: '**Bosque.** Mientas puedas avistar un Hobbit no-vinculado en el Valle Emboscado, el límite de movimiento es +1 para este turno.'
+  lore: ''

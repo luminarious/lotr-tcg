@@ -1,0 +1,18 @@
+set: '11'
+rarity: C
+number: '4'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Battle to the Last
+  subtitle: ''
+  text: Spot a Dwarf. For each wound on that Dwarf, make him strength +2 and **Damage +1.**
+  lore: As had the children of Durin and the followers of Balin before him, Gimli would fight the interlopers in Khazad-dûm with all his strength.
+de:
+  title: Kampf bis zum Letzten
+  subtitle: ''
+  text: Gib einem Zwerg Stärke +2 und **Schaden +1** für jede Wunde auf diesem Zwerg.
+  lore: Gimli kämpfte mit aller Kraft gegen die Eindringlinge in Khazad-dûm, wie es Durins Kinder und Balins Gefolgsleute vor ihm getan hatten.

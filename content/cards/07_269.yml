@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '269'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Fires Raged Unchecked
+  subtitle: ''
+  text: |-
+    The site number of each :sauron: Orc is –1 for each threat.   
+    While you can spot 3 threats, each :sauron: Orc that is not roaming is strength +1.
+  lore: ''
+de:
+  title: Feuer wüteten ungehindert
+  subtitle: ''
+  text: |-
+    Die Ortskennzahl aller :sauron: Orks reduziert sich um 1 für jede Bedrohung.   
+    Solange du 3 Bedrohungen entdecken kannst, erhält jeder :sauron: Ork, der nicht wandernd ist, Stärke +1.
+  lore: Und so ging ein düsterer Tag der Ängste langsam in die Dunkelheit einer hoffnungslosen Nacht über.

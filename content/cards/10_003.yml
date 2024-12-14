@@ -1,0 +1,18 @@
+set: '10'
+rarity: R
+number: '3'
+unique: true
+culture: Dwarven
+type: Event
+class: Response
+cost: 0
+en:
+  title: More Yet to Come
+  subtitle: ''
+  text: 'If a Dwarf kills a minion in a skirmish and that minion did not take all wounds caused by that Dwarf’s damage bonus, assign those remaining wounds to minions not assigned to a skirmish. '
+  lore: ‘…whatever is still to do, I hope to have a part in it, for the honour of the folk of the Lonely Mountain.’
+de:
+  title: Es wird noch einiges geschehen
+  subtitle: ''
+  text: Wenn ein Zwerg in einem Kampf einen Diener tötet, und sein Schadensbonus größer ist, als die dafür benötigten Wunden, füge die verbleibenden Wunden nicht zugewiesenen Dienern zu.
+  lore: Doch was immer noch zu tun ist, ich hoffe daran teilzuhaben, um der Ehre des Volks vom Einsamen Berg willen.

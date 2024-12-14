@@ -1,0 +1,16 @@
+set: '17'
+rarity: U
+number: '42'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Easterling Dispatcher
+  subtitle: ''
+  text: 'When you play this minion, you may spot 2 other :men: Men to add:twilight1: for each possession you spot.'
+  lore: The men of Rhûn’s preparation for battle was second to none.

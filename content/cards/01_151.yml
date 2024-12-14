@@ -1,0 +1,42 @@
+set: '1'
+rarity: C
+number: '151'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 2
+str: '5'
+vit: '3'
+site: 5
+en:
+  title: Uruk Savage
+  subtitle: ''
+  text: '**Damage +1**. (When this minion wins a skirmish, add 1 extra wound to the defender.)'
+  lore: ‘The friendship of Saruman is not lightly thrown aside. One ill turn deserves another…. We have work to do.’
+de:
+  title: Wilder Uruk
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    (Der wilde Uruk fügt bei einem gewonnenen Kampf eine zusätzliche Wunde zu.)
+  lore: Die Freundschaft Sarumans tut man nicht leichtfertig ab. Eine üble Wendung ist der anderen wert!
+fr:
+  title: Barbare Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    (Quand ce séide remporte un combat, infligez 1 blessure supplémentaire au défenseur.)
+  lore: ‘L'amitié de Saroumane n'est pas clairement écartée. Un changement mauvais en dessert un autre…. Nous avons du travail à faire.’
+it:
+  title: Uruk Selvaggio
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    (Quando questo servitore vince una schermaglia, aggiungi 1 ferita addizionale al difensore.)
+  lore: ‘L'appoggio di Saruman non si può scartare senza riflettere. Un brutto tiro merita una risposta… Noi abbiamo del lavoro da fare.’
+es:
+  title: Salvaje Uruk
+  subtitle: ''
+  text: '**Daño +1.** (Cuando este siervo gana una escaramuza, añade 1 herida adicional al defensor.)'
+  lore: La amistad de Saruman no se deja de lado fácilmente. Un desdichado giro se merece otro… Tenemos trabajo que hacer.

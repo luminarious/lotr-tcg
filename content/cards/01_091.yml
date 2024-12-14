@@ -1,0 +1,37 @@
+set: '1'
+rarity: U
+number: '91'
+unique: true
+culture: Gondor
+type: Possession
+class: Pipe
+cost: 1
+en:
+  title: Aragorn’s Pipe
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: companion.   
+    **Fellowship:** Discard a pipeweed possession and spot X pipes to heal X companions.
+  lore: He had a tall tankard in front of him, and was smoking a long-stemmed pipe curiously carved.
+de:
+  title: Aragorns Pfeife
+  subtitle: ''
+  text: 'Muss auf einen :gondor: Gefährten gespielt werden. **Gemeinschaft.** Lege ein Pfeifenkraut ab und entdecke X Pfeifen, um X Gefährten zu heilen.'
+  lore: Er hatte einen hohen Bierkrug vor sich und rauchte aus einer seltsam geschnitzten langstieligen Pfeife.
+fr:
+  title: Pipe d'Aragorn
+  subtitle: ''
+  text: Le détenteur doit être un compagnon :gondor:. **Compagnie :** Défaussez une possession Herbe à Pipe et désignez X pipes pour guérir X compagnons.
+  lore: Il avait devant lui une grande chope, et il fumait une pipe à long tuyau, curieusement sculptée.
+it:
+  title: Pipa di Aragorn
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un compagno :gondor:.   
+    **Compagnia:** Scarta un bene erba pipa e avvista X pipe per curare X compagni.
+  lore: Aveva un grosso boccale di metallo davanti a sé e fumava una pipa dal lungo cannello intagliato stranamente.
+es:
+  title: La Pipa de Aragorn
+  subtitle: ''
+  text: El portador debe ser un compañero :gondor:. **Comunidad:** Descarta una posesión hierba para pipa y avista X pipas para curar X compañeros.
+  lore: Tenia un tazón delante de él, y fumaba una pipa de caño largo, curiosamente esculpida.

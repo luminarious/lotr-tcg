@@ -1,0 +1,37 @@
+set: '3'
+rarity: C
+number: '32'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Fireworks
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Fellowship:** Spot Gandalf to shuffle up to 2 :gandalf: or up to 2 :shire: cards from your discard pile into your draw deck. 
+  lore: '‘The finest rockets ever seen: / they burst in stars of blue and green….’'
+de:
+  title: Feuerwerk
+  subtitle: ''
+  text: '**Zauberspruch.** **Gemeinschaft.** Entdecke Gandalf, um bis zu 2 :gandalf: oder bis zu 2 :shire: Karten aus deinem Ablagestapel in dein Deck zu mischen.'
+  lore: Raketen spieen alle Pracht / Und bunte Sterne in die Nacht…
+fr:
+  title: Feux d'Artifice
+  subtitle: ''
+  text: '**Sort.** **Compagnie :** Désignez Gandalf pour mélanger jusqu’à 2 cartes :gandalf: ou 2 cartes :shire: de votre pile de défausse dans votre pioche.'
+  lore: 'Les plus belles fusées jamais vues, / En étoiles bleues et vertes, elles éclataient…” '
+it:
+  title: Fuochi d'Artificio
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Compagnia:** Avvista Gandalf per rimescolare nel tuo mazzo di gioco fino a 2 carte :gandalf: o fino a 2 carte :shire: dalla tua pila degli scarti.
+  lore: ‘I razzi ed i fuochi più belli del mondo, / Le stelle dal verde e dal blu più giocondo…’
+es:
+  title: Fuegos Artificiales
+  subtitle: ''
+  text: '**Hechizo.** **Comunidad:** Avista a Gandalf para mezclar hasta 2 cartas :gandalf: o hasta 2 cartas :shire: de tu pila de descartes en tu mazo de robar.'
+  lore: 'Los mas hermosos fuegos nunca vistos: / estallaban en estrellas azules y verdes…'

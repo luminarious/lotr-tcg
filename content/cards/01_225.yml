@@ -1,0 +1,43 @@
+set: '1'
+rarity: U
+number: '225'
+unique: true
+culture: Wraith
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+2'
+en:
+  title: Sword of Minas Morgul
+  subtitle: ''
+  text: |-
+    Bearer must be Úlairë Lemenya.   
+    He is **damage +1.**   
+    **Skirmish:** Exert Úlairë Lemenya to discard a possession borne by a character he is skirmishing.
+  lore: The Morgul hilt seared the flesh that would touch it, but the pierce was painless.
+de:
+  title: Das Schwert von Minas Morgul
+  subtitle: ''
+  text: |-
+    Muss auf Úlairë Lemenya gespielt werden. Er erhält **Schaden +1.**  
+    **Kampf** Strenge Úlairë Lemenya an, um eine Ausrüstungkarte des Charakters, den er bekämpft, abzulegen.
+  lore: Der Griff der Morgulklinge verbrannte das Fleisch, das es berührte, aber sein Schnitt war schmerzlos.
+fr:
+  title: Épée de Minas Morgul
+  subtitle: ''
+  text: |-
+    Le détenteur doit être Úlairë Lemenya. Il inflige des **dégâts +1.**  
+    **Combat :** Affaiblissez Úlairë Lemenya pour défausser une possession portée par un personnage qu’il combat.
+  lore: La garde de Morgul dessécha la chair qui l'aurait touchée, mais le blessure était indolore.
+it:
+  title: Spada di Minas Morgul
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Úlairë Lemenya. **Danno +1.**  
+    **Schermaglia:** Sforza Úlairë Lemenya per scartare un bene trasportato da un personaggio contro cui stia schermagliando.
+  lore: L'elsa di Morgul ustionava la carne di chi la toccava, ma la sua perforazione era indolore.
+es:
+  title: Espada de Minas Morgul
+  subtitle: ''
+  text: El portador debe ser Úlairë Lemenya. Es **Daño +1.** **Escaramuza:** Esfuerza a Úlairë Lemenya para descartar una posesión llevada por un personaje con el que este en una escaramuza.
+  lore: La empuñadura de Morgul marcó la carne que toco, pero la estocada fue indolora.

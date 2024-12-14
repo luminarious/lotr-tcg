@@ -1,0 +1,21 @@
+set: '12'
+rarity: U
+number: '62'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Dunlending Zealot
+  subtitle: ''
+  text: While this minion is exhausted, each unbound companion is resistance –1 (or –2 if the fellowship is at a battleground site).
+  lore: …unfriendly to the Dúnedain, hating the Rohirrim.
+de:
+  title: Dunländischer Eiferer
+  subtitle: ''
+  text: Jeder nicht-verbundene Gefährte erhält Resistenz -1 (oder -2, wenn sich die Gemeinschaft auf einem Schlachtfeld befindet), solange dieser Diener erschöpft ist.
+  lore: … das den Dúnedain nicht wohl wollte und die Rohirrim hasste.

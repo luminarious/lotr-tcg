@@ -1,0 +1,19 @@
+set: '18'
+rarity: R
+number: '17'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 5
+str: '9'
+vit: '4'
+res: '7'
+en:
+  title: Gil-galad
+  subtitle: High King of the Noldor
+  text: |-
+    To play, spot 2 :elven: companions.  
+    **Maneuver:** Add a threat to take an :elven: event into hand from your discard pile.  
+    **Regroup:** Remove an :elven: token to play an :elven: condition from your discard pile.
+  lore: '''…the power of Gil-galad has increased in his absence.’'

@@ -1,0 +1,36 @@
+set: '4'
+rarity: C
+number: '12'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 2
+str: '7'
+vit: '1'
+site: 3
+en:
+  title: Dunlending Madman
+  subtitle: ''
+  text: 'Each time this minion wins a skirmish, you may make him **strength +2** and **fierce** until the regroup phase. '
+  lore: ‘They hate us, and they are glad; for our doom seems certain to them.’
+de:
+  title: Wahnsinniger Dunländer
+  subtitle: ''
+  text: Jedes Mal, wenn dieser Diener einen Kampf gewinnt, darfst du ihm bis zur Sammelphase Stärke +2 geben und ihn **Erbittert** machen.
+  lore: Sie hassen uns und freuen sich; denn unser Untergang scheint ihnen gewiss zu sein.
+fr:
+  title: Fou Dun
+  subtitle: ''
+  text: Chaque fois que ce séide remporte un combat, vous pouvez le rendre **acharné** et lui donner +2 en force jusqu’à la phase de ralliement.
+  lore: 'Ils nous haïssent, et ils sont contents, car notre perte leur semble certaine.” '
+it:
+  title: Pazzo Dunlandiano
+  subtitle: ''
+  text: Ogni volta che questo servitore vince una schermaglia, puoi aggiungere +2 alla sua forza e renderlo **Feroce** fino alla fase di raccolta.
+  lore: ‘Ci odiano e sono contenti, perché sono certi che ormai il nostro destino sta per compiersi.’
+es:
+  title: Dunlendino Loco
+  subtitle: ''
+  text: Cada vez que este siervo gana una escaramuza, puedes darle fuerza +2 y **fiero** hasta la fase de reagrupación.
+  lore: Nos odian y están contentos; pues nuestra perdición les parece segura.

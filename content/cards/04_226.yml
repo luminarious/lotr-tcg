@@ -1,0 +1,42 @@
+set: '4'
+rarity: C
+number: '226'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Easterling Guard
+  subtitle: ''
+  text: '**Easterling.** Each time this minion is assigned to an unbound companion, you may exert him to add a burden. '
+  lore: Armored Easterlings protect their commanders from enemy assaults.
+de:
+  title: Ostling Wache
+  subtitle: ''
+  text: |-
+    **Ostling.**  
+    Jedes Mal, wenn diesem Diener ein nicht-verbundener Gefährte zugewiesen wird, darfst du ihn anstrengen, um eine Lastmarke auf den Ringträger zu legen.
+  lore: Gepanzerte Ostlinge schützten ihre Anführer vor feindlichen Angriffen.
+fr:
+  title: Garde Oriental
+  subtitle: ''
+  text: |-
+    **Oriental.**  
+    Chaque fois que ce séide est affecté à un compagnon dissocié, vous pouvez affaiblir ce séide pour ajouter un point-fardeau.
+  lore: Les Orientaux en armure protègent leurs commandants contre les attaques ennemies.
+it:
+  title: Guardia Esterling
+  subtitle: ''
+  text: |-
+    **Esterling.**  
+    Ogni volta che questo servitore è assegnato a un compagno Non Legato, puoi sforzarlo per aggiungere un segnalino fardello.
+  lore: Gli Esterling in armatura proteggono i loro comandanti dagli attacchi dei nemici.
+es:
+  title: Guardia Oriental
+  subtitle: ''
+  text: '**Oriental.** Cada vez que este siervo es asignado a un compañero no-vinculado, puedes esforzarlo para añadir una carga.'
+  lore: Los Orientales acorazados protegen a sus comandantes de los asaltos del enemigo.

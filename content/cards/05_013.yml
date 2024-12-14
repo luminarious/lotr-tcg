@@ -1,0 +1,17 @@
+set: '5'
+rarity: U
+number: '13'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Taurnil
+  subtitle: Sharp-eyed Bowman
+  text: |-
+    To play, spot an Elf.  
+    While Taurnil bears a ranged weapon, the twilight cost of each Shadow possession is +2, and he does not add to the fellowship archery total.
+  lore: Taurnil’s careful aim can disarm his enemies at long range.

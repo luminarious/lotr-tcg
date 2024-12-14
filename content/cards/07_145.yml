@@ -1,0 +1,25 @@
+set: '7'
+rarity: R
+number: '145'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Easterling Regiment
+  subtitle: ''
+  text: |-
+    **Easterling.** **Fierce.**   
+    Each time Easterling Regiment wins a skirmish, you may add :twilight1: for each burden.
+  lore: ''
+de:
+  title: Regiment der Ostlinge
+  subtitle: ''
+  text: |-
+    **Ostling.** **Erbittert.**   
+    Jedes Mal, wenn das Regiment der Ostlinge einen Kampf gewinnt, darfst du den Einfluss um :twilight1: für jede Lastmarke erhöhen.
+  lore: …ein Heer von Ostlingen heranmarschierte…

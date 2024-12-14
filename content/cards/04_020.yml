@@ -1,0 +1,36 @@
+set: '4'
+rarity: R
+number: '20'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '2'
+site: 3
+en:
+  title: Hill Chief
+  subtitle: ''
+  text: '**Shadow:** Spot a site you control and exert Hill Chief to draw 3 cards. '
+  lore: ‘…Saruman has armed the wild hillmen and herdfolk of Dunland beyond the rivers, and these also he loosed upon us.’
+de:
+  title: Berghäuptling
+  subtitle: ''
+  text: '**Schatten:** Strenge diesen Diener an und entdecke einen Ort, den du kontrollierst, um 3 Karten zu ziehen.'
+  lore: … Saruman hat die wilden Bergbewohner und das Hirtenvolk von Dunland jenseits der Flüsse bewaffnet und auch auf uns losgelassen.
+fr:
+  title: Chef des Collines
+  subtitle: ''
+  text: 'Ombre : Désignez un site que vous contrôlez et affaiblissez le Chef des Collines pour piocher 3 cartes.'
+  lore: 'Saroumane a armé les sauvages montagnards et gardiens de troupeaux du Pays de Dun au-delà des rivières, et ceux-là aussi il les a lancés contre nous.” '
+it:
+  title: Capo delle Colline
+  subtitle: ''
+  text: '**Ombra:** Avvista un sito che controlli e sforza Capo delle Colline per pescare 3 carte.'
+  lore: ‘“‘…Saruman ha armato i selvaggi uomini delle colline e il popolo pastore di Dunland oltre i fiumi, e anche questi li ha sciolti contro di noi.’
+es:
+  title: Jefe De La Colina
+  subtitle: ''
+  text: '**Sombra:** Avista un sitio que controles y esfuerza el Jefe De La Colina para robar tres cartas.'
+  lore: …Saruman ha armado a los montañeses salvajes y a las masas de las Tierras Pardas al otro lado del río, y estos también nos los ha tirado encima.

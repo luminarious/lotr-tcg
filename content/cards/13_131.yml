@@ -1,0 +1,48 @@
+set: '13'
+rarity: U
+number: '131'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: King’s Board
+  subtitle: ''
+  text: |-
+    **Skirmish:** Exert Éomer to make Éowyn or Théoden strength +2.  
+    **Skirmish:** Exert Éowyn to make Éomer or Théoden strength +2.  
+    **Skirmish:** Exert Théoden to make Éomer or Éowyn strength +2.
+  lore: Also wakened in Edoras was hospitality.
+de:
+  title: Die Tafel des Königs
+  subtitle: ''
+  text: |-
+    **Kampf:** Strenge Éomer an, um Éowyn oder Théoden Stärke +2 zu geben.  
+    **Kampf:** Strenge Éowyn an, um Éomer oder Théoden Stärke +2 zu geben.  
+    **Kampf:** Strenge Théoden an, um Éomer oder Éowyn Stärke +2 zu geben.
+  lore: Die Gastfreundschaft war in Edoras wieder erwacht.
+fr:
+  title: King's Board
+  subtitle: ''
+  text: |-
+    **Skirmish:** Exert Éomer to make Éowyn or Théoden strength +2.  
+    **Skirmish:** Exert Éowyn to make Éomer or Théoden strength +2.  
+    **Skirmish:** Exert Théoden to make Éomer or Éowyn strength +2.
+  lore: Also wakened in Edoras was hospitality.
+it:
+  title: King's Board
+  subtitle: ''
+  text: |-
+    **Skirmish:** Exert Éomer to make Éowyn or Théoden strength +2.  
+    **Skirmish:** Exert Éowyn to make Éomer or Théoden strength +2.  
+    **Skirmish:** Exert Théoden to make Éomer or Éowyn strength +2.
+  lore: Also wakened in Edoras was hospitality.
+es:
+  title: King's Board
+  subtitle: ''
+  text: |-
+    **Skirmish:** Exert Éomer to make Éowyn or Théoden strength +2.  
+    **Skirmish:** Exert Éowyn to make Éomer or Théoden strength +2.  
+    **Skirmish:** Exert Théoden to make Éomer or Éowyn strength +2.
+  lore: Also wakened in Edoras was hospitality.

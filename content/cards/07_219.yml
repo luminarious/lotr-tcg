@@ -1,0 +1,25 @@
+set: '7'
+rarity: R
+number: '219'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '12'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Toldëa
+  subtitle: Wraith on Wings
+  text: |-
+    **Fierce.**   
+    While you have initiative and can spot a Nazgûl, Úlairë Toldëa’s twilight cost is –6.
+  lore: ''
+de:
+  title: •Úlairë Toldëa
+  subtitle: Geflügeltes Gespenst
+  text: |-
+    **Erbittert.**   
+    Solange du die Initiative besitzt und du einen Nazgûl entdecken kannst, reduzieren sich die Kosten für Úlairë Toldëa um 6.
+  lore: Kaum hörbar, glaubte er hoch und fern am Himmel einen Schrei zu vernehmen…

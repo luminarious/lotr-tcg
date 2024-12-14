@@ -1,0 +1,33 @@
+set: '3'
+rarity: R
+number: '85'
+unique: true
+culture: Wraith
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Too Great and Terrible
+  subtitle: ''
+  text: '**Maneuver:** Spot a Nazgûl to wound Gandalf twice. The Free Peoples player may discard 2 :gandalf: cards from hand to prevent this. '
+  lore: His eyes flashed and his face was lit as by a fire within. ‘Do not tempt me! For I do not wish to become like the Dark Lord himself.’
+de:
+  title: Zu groß und schrecklich
+  subtitle: ''
+  text: '**Manöver:** Entdecke einen Nazgûl, um Gandalf zweimal zu verwunden. Der Freie Völker Spieler darf 2 :gandalf: Karten aus seiner Hand ablegen, um dies zu verhindern.'
+  lore: Seine Augen blitzten, und sein Gesicht war wie von einem inneren Feuer erleuchtet. "Versuche mich nicht! Denn ich will nicht werden wie der Dunkle Herrscher.
+fr:
+  title: Trop Grand et Terrible
+  subtitle: ''
+  text: '**Manœuvre :** Désignez un Nazgûl pour blesser Gandalf deux fois. Le joueur des Peuples Libres peut défausser 2 cartes :gandalf: de sa main pour empêcher ceci.'
+  lore: 'Ses yeux jetaient des éclairs et son visage était éclairé par un feu intérieur. “Ne me tentez pas! Car je ne souhaite pas devenir semblable au Seigneur Ténébreux lui-même.” '
+it:
+  title: Troppo Grande e Terribile
+  subtitle: ''
+  text: '**Manovra:** Avvista un Nazgûl per ferire due volte Gandalf. Il giocatore dei Popoli Liberi può scartare dalla mano 2 carte :gandalf: per prevenirlo.'
+  lore: I suoi occhi lanciarono fiamme ed il suo viso fu illuminato da un fuoco interno. ‘Non mi tentare! Non desidero eguagliare l'Oscuro Signore.’
+es:
+  title: Demasiado Grande y Terrible
+  subtitle: ''
+  text: '**Maniobra:** Avista un Nazgûl para herir a Gandalf 2 veces. El jugador de Gentes Libres puede descartar 2 cartas :gandalf: de la mano para prevenir esto.'
+  lore: Los ojos de Gandalf relampaguearon y la cara se le iluminó como con un fuego interior. – ¡No me tientes! Pues no quiero convertirme en algo semejante al Señor Oscuro.

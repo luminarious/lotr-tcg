@@ -1,0 +1,20 @@
+set: '11'
+rarity: C
+number: '71'
+unique: true
+culture: Man
+type: Event
+class: Skirmish
+cost: 5
+en:
+  title: Bold and Cunning
+  subtitle: ''
+  text: '**Toil 2.** (For each :men: character you exert when playing this, its twilight cost is –2.) Spot a :men: minion to discard a possession from play. '
+  lore: ‘Even now he plays a game with peril and wins a throw.’
+de:
+  title: Kühn und Listig
+  subtitle: ''
+  text: |-
+    **Mühe 2.**   
+    Entdecke einen :men: Diener, um eine Ausrüstung abzulegen. 
+  lore: Sogar jetzt spiel er noch mit der Gefahr und gewinnt einen Wurf.

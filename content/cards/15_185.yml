@@ -1,0 +1,18 @@
+set: '15'
+rarity: R
+number: '185'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Lemenya
+  subtitle: Eternally Threatening
+  text: |-
+    **Fierce.**  
+    When you play Úlairë Lemenya, you may remove :twilight1: to add a threat for each Free Peoples culture you can spot.
+  lore: 'Soon there could be no doubt: three or four tall black figures were standing on the slope, looking down on them.'

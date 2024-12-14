@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '282'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: An Honorable Charge
+  subtitle: ''
+  text: '**Skirmish:** Make an unbound companion strength +1 for each :rohan: Man you spot (limit +3). '
+  lore: ‘A time may come when there will be a need for valour without renown….’
+de:
+  title: Eine ehrenvolle Aufgabe
+  subtitle: ''
+  text: '**Kampf** Gib einem nicht-verbundenen Gefährten Stärke +1 für jeden :rohan: Menschen, den du entdecken kannst (maximal +3).'
+  lore: Es wird eine Zeit kommen, in der wir auf solch selbstlose Tapferkeit angewiesen sein werden.
+fr:
+  title: Une Honorable Tâche
+  subtitle: ''
+  text: '**Combat :** Donnez +1 en force à un compagnon dissocié pour chaque Homme :rohan: que vous désignez (limite de +3).'
+  lore: 'Le moment approche où nous aurons besoin de vaillance sans renommée…” '
+it:
+  title: Una Incarico Onorevole
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +1 alla forza di un compagno Non Legato per ogni Uomo :rohan: che avvisti (limite +3).'
+  lore: ‘Potrà arrivare un tempo in cui vi sarà bisogno di valore senza gloria…’
+es:
+  title: Una Carga Honorable
+  subtitle: ''
+  text: '**Escaramuza:** Da a un compañero no-vinculado fuerza +1 por cada Hombre :rohan: que puedas avistar (límite +3).'
+  lore: Llegará un tiempo en el que habrá necesidad de valor sin reconocimiento…

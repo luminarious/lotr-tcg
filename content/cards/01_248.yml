@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '248'
+unique: true
+culture: Sauron
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Forces of Mordor
+  subtitle: ''
+  text: '**Shadow:** Spot X :sauron: minions to add :twilightX:.'
+  lore: ‘….the Dark Lord is not without allies. The Easterlings and Haradrim now pay tribute to Mordor.’
+de:
+  title: Die Truppen von Mordor
+  subtitle: ''
+  text: '**Schatten:** Entdecke X :sauron: Diener, um den Einfluss um :twilightX: zu erhöhen.'
+  lore: …der dunkle Herrscher hat Verbündete. Die Ostlinge und Haradrim zollen Mordor nun Tribut.
+fr:
+  title: Ressources du Mordor
+  subtitle: ''
+  text: 'Ombre : Désignez X séides :sauron: pour ajouter :twilightX:.'
+  lore: ‘….le Seigneur Ténébreux n'est pas sans alliés. Ceux de l'Est et les Haradrim paient maintenant un tribut au Mordor.’
+it:
+  title: Forze di Mordor
+  subtitle: ''
+  text: '**Ombra:** Avvista X servitori :sauron: per aggiungere :twilightX:.'
+  lore: ‘….il Signore Oscuro non è senza alleati. Gli Esterling e gli Haradrim ora pagano il tributo a Mordor.’
+es:
+  title: Fuerzas de Mordor
+  subtitle: ''
+  text: '**Sombra:** Avista X siervos :sauron: para añadir :twilightX:.'
+  lore: … El Señor Oscuro no esta sin aliados. Los Hombres del este y los Haradrim ahora pagan tributo a Mordor.

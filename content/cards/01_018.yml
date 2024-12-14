@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '18'
+unique: true
+culture: Dwarven
+type: Event
+class: Fellowship
+cost: 1
+en:
+  title: Halls of My Home
+  subtitle: ''
+  text: |-
+    **Fellowship:** Exert a Dwarf to reveal the top 3 cards of any draw deck. You may discard 1 Shadow card revealed.   
+    Return the rest in any order.
+  lore: ‘I will go and look on the halls of Durin, whatever may wait there….’
+de:
+  title: Die Hallen meiner Ahnen
+  subtitle: ''
+  text: '**Gemeinschaft.** Strenge einen Zwerg an, um die obersten 3 Karten eines beliebigen Spieldecks aufzudecken. Du darfst davon 1 Schattenkarte ablegen und die übrigen Karten in beliebiger Reihenfolge wieder zurücklegen.'
+  lore: Ich will mitgehen und einen Blick auf Durins Hallen werfen, was immer dort auf uns wartet…
+fr:
+  title: Les Salles de ma Patrie
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez un Nain pour révéler les 3 premières cartes de n’importe quelle pioche. Vous pouvez défausser 1 carte de l’Ombre révélée. Replacez les autres dans n’importe quel ordre.'
+  lore: ‘J'irai regarder les salles de Durin, quel que soit le sort qui m'y attend….’
+it:
+  title: Le Sale della Mia Dimora
+  subtitle: ''
+  text: '**Compagnia:** Sforza un Nano per mostrare le prime 3 carte di un qualsiasi mazzo di gioco. Puoi scartare 1 carta Ombra mostrata. Reinserisci il resto in qualsiasi ordine.'
+  lore: ‘Andrò a mirare le dimore di Durin, noncurante di ciò che ivi potrebbe attenderci…’
+es:
+  title: Salas de Mi Hogar
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza un Enano para revelar las 3 cartas superiores de cualquier mazo de robar. Puedes descartar una carta de Sombra revelada. Devuelve el resto en cualquier orden.'
+  lore: Iré contigo y explorare las salas de Durin, cualquiera que sea el riesgo…

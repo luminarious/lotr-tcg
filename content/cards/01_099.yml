@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '99'
+unique: true
+culture: Gondor
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: Change of Plans
+  subtitle: ''
+  text: '**Regroup:** Exert a ranger to make an opponent shuffle his or her hand into his or her draw deck and draw 8 cards.'
+  lore: ‘Then let me help you. There are other ways, Frodo – other paths that we might take.’
+de:
+  title: Neue Pläne
+  subtitle: ''
+  text: '**Sammeln:** Strenge einen Waldläufer an, um einen Gegenspieler zu zwingen, seine Handkarten in sein Spieldeck zu mischen und anschliessend 8 Karten zu ziehen.'
+  lore: Dann lass mich dir helfen. Es gibt andere Wege, Frodo – andere Pfade, denen wir folgen können.
+fr:
+  title: Changement de Plan
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez un rôdeur pour obliger un adversaire à mélanger sa main dans sa pioche et piocher 8 cartes.'
+  lore: ‘Alors laissez-moi vous aider. Il y a d'autres façons, Frodon – d'autres voies que nous pouvons prendre.’
+it:
+  title: Cambio di Programma
+  subtitle: ''
+  text: '**Raccolta:** Sforza un Ramingo per far mescolare a un avversario la sua mano con il suo mazzo di gioco e pescare poi 8 nuove carte.'
+  lore: ‘Poi lascia che ti aiuti. Ci sono altre strade, Frodo – altri sentieri che potremmo prendere.’
+es:
+  title: Cambio de Planes
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza un montaraz para que un oponente baraje su mano en su mazo de robar y robe 8 cartas.'
+  lore: Déjame ayudarte pues. Hay otras maneras, Frodo – otros caminos que podemos tomar.

@@ -1,0 +1,16 @@
+set: '1'
+rarity: U
+number: '234'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Nertëa
+  subtitle: Messenger of Dol Guldur
+  text: When you play Úlairë Nertëa, for each companion over 4, you may play 1 minion from your discard pile.
+  lore: Some accepted Sauron’s gift for glory and a notion of great deeds.

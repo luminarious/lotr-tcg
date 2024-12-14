@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '12'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 4
+str: '8'
+vit: '4'
+res: '8'
+en:
+  title: Aragorn
+  subtitle: Well-traveled Guide
+  text: |-
+    **Fellowship. Ranger.**  
+    While the Ring-bearer is the only other companion you can spot, Aragorn is an archer, defender +1, and can take no more than 1 wound each skirmish.
+  lore: The skill of the Elves can reforge the sword of Kings, but only you have the power to wield it.

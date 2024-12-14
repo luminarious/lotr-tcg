@@ -1,0 +1,24 @@
+set: '13'
+rarity: R
+number: '112'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 5
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Orc Crusher
+  subtitle: ''
+  text: |-
+    To play, spot an :orc: Orc.  
+    This minion is twilight cost –1 for each burden.  
+    Each time a Ring-bound companion loses a skirmish involving an :orc: minion, you may reveal this card from hand to add a burden.
+  lore: ‘Hit me now, Sam. Hit me!’
+de:
+  title: Ork Zermalmer
+  subtitle: ''
+  text: 'Entdecke einen :orc: Ork, um diesen Diener zu spielen. Die Kosten für diesen Diener reduzieren sich um 1 für jede Lastmarke auf dem Ringträger. Jedes Mal, wenn ein Ring-verbundener Gefährte einen Kampf verliert, an dem ein :orc: Diener beteiligt ist, darfst du diesen Diener von deiner Hand aufdecken, um eine Lastmarke auf den Ringträger zu legen.'
+  lore: ''

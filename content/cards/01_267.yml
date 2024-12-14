@@ -1,0 +1,36 @@
+set: '1'
+rarity: U
+number: '267'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 6
+en:
+  title: Orc Hunters
+  subtitle: ''
+  text: '**Skirmish:** Exert this minion to wound a character he is skirmishing.'
+  lore: Bred for battle, Sauron’s soldiers live for the thrill of the fight – and the spoils of victory.
+de:
+  title: Orkjäger
+  subtitle: ''
+  text: '**Kampf** Strenge diesen Diener an, um einen Charakter, den er bekämpft, zu verwunden.'
+  lore: Zum Kämpfen geboren, leben Saurons Soldaten für die Aufregung der Schlacht – und für die Siegesbeute.
+fr:
+  title: Chasseurs Orques
+  subtitle: ''
+  text: '**Combat :** Affaiblissez ce séide pour blesser un personnage qu’il combat.'
+  lore: Élevés pour la bataille, les soldats de Sauron vivent pour le frisson du combat – et le butin de la victoire.
+it:
+  title: Cacciatori Orchi
+  subtitle: ''
+  text: '**Schermaglia:** Sforza questo servitore per ferire un personaggio contro cui stia schermagliando.'
+  lore: Generati per combattere, i soldati di Sauron vivono per il brivido della lotta – e i guadagni della vittoria.
+es:
+  title: Cazadores Orcos
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza este siervo para herir un personaje que este en una escaramuza contra él.'
+  lore: Criados para la batalla, los soldados de Sauron viven por la emoción de la batalla – y por el saqueo de los vencedores.

@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '90'
+unique: true
+culture: Rohan
+type: Possession
+class: Hand Weapon
+cost: 1
+en:
+  title: Banner of the Mark
+  subtitle: ''
+  text: 'Bearer must be a :rohan: companion. Each time bearer wins a skirmish, you may exert a minion. **Response:** If bearer wins a skirmish, discard this possession to liberate a site.'
+  lore: ‘Fell deeds awake. Now for wrath. Now for ruin, and the red dawn.’
+de:
+  title: Das Banner der Mark
+  subtitle: ''
+  text: 'Muss auf einen = Gefährten gespielt werden. Jedes Mal, wenn der Träger einen Kampf gewinnt, darfst du einen Diener anstrengen. Reaktion: Lege diese Ausrüstung ab, um einen Ort zu befreien, wenn der Träger einen Kampf gewinnt.'
+  lore: Grimme Taten erwachet. Auf zu Zorn. Auf zu Verderben und blutig’ Morgen.
+fr:
+  title: Bannière de la Marche
+  subtitle: ''
+  text: 'Le détenteur doit être un compagnon =. Chaque fois que le détenteur gagne un combat, vous pouvez affaiblir un séide. Réponse : Si le détenteur gagne un combat, défaussez cette possession pour libérer un site.'
+  lore: 'De cruelles intentions s''éveillent. Maintenant, la colère. Maintenant, la ruine et l''aube rouge.” '
+it:
+  title: Stendardo del Mark
+  subtitle: ''
+  text: 'Il possessore deve essere un compagno =. Ogni volta che il possessore vince una schermaglia, puoi sforzare un servitore. Risposta: Se il possessore vince una schermaglia, scarta questo bene per liberare un sito.'
+  lore: ‘Gesta crudeli ci attendono. Ci attende la collera, la rovina ed il notturno bagliore!’
+es:
+  title: Estandarte de la marca
+  subtitle: ''
+  text: 'El portador debe ser un compañero =. Cada vez que el portador gana una escaramuza, puedes esforzar un siervo. Respuesta: Si el portador gana una escaramuza, descarta esta posesión para liberar un sitio.'
+  lore: Crueles proezas se alzan. Ahora por ira. Ahora por destrucción, y rojo amanecer.

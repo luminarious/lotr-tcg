@@ -1,0 +1,36 @@
+set: '1'
+rarity: R
+number: '288'
+unique: true
+culture: Shire
+type: Ally
+race: Hobbit
+cost: 1
+str: '2'
+vit: '3'
+site: '1'
+en:
+  title: Farmer Maggot
+  subtitle: Chaser of Rascals
+  text: '**Fellowship:** Exert Farmer Maggot to heal Merry or Pippin.'
+  lore: ‘Old Maggot is really a stout fellow – if you leave his mushrooms alone.’
+de:
+  title: Bauer Maggot
+  subtitle: Lausbubenschreck
+  text: '**Gemeinschaft.** Strenge Bauer Maggot an, um Merry oder Pippin zu heilen.'
+  lore: Der alte Maggot ist wirklich ein Prachtskerl – sofern du seine Pilze in Frieden lässt.
+fr:
+  title: Père Maggotte
+  subtitle: Chasseur de Garnements
+  text: '**Compagnie :** Affaiblissez le Père Maggotte pour guérir Merry ou Pippin.'
+  lore: ‘Le Vieux Maggotte est vraiment un brave homme – si tu ne touches pas à ses champignons.’
+it:
+  title: Vecchio Maggot
+  subtitle: Cacciatore di Birbanti
+  text: '**Compagnia:** Sforza Vecchio Maggot per curare Merry o Pipino.'
+  lore: ‘Il vecchio Maggot è una gran brava persona – se lasci stare i suoi funghi.’
+es:
+  title: Granjero Maggot
+  subtitle: Perseguidor de Granujas
+  text: '**Comunidad:** Esfuerza al Granjero Maggot para curar a Merry o a Pippin.'
+  lore: El viejo Maggot es realmente un buen tipo, si dejas sus setas en paz.

@@ -1,0 +1,44 @@
+set: '1'
+rarity: C
+number: '150'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Uruk Rager
+  subtitle: ''
+  text: |-
+    **Damage +1**.   
+    Each time this minion wins a skirmish, the Free Peoples player must discard the top 2 cards of his or her draw deck.
+  lore: A bloodthirsty bellow from a huge Uruk can win a skirmish before it begins.
+de:
+  title: Uruk Wüter
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Jedesmal, wenn der Uruk Wüter einen Kampf gewinnt, muss der Freie Völker Spieler die beiden obersten Karten seines Spieldecks ablegen.
+  lore: Das blutlüsterne Geschrei eines riesigen Uruks kann einen Kampf bereits gewinnen, bevor er beginnt.
+fr:
+  title: Ourouk Enragé
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    Chaque fois que ce séide remporte un combat, le joueur des Peuples Libres doit défausser les 2 cartes du dessus de sa pioche.
+  lore: Un mugissement d'un Ourouk colossal, assoiffé de sang, peut faire remporter un combat avant qu'il ne commence.
+it:
+  title: Uruk Furioso
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    Ogni volta che questo servitore vince una schermaglia, il giocatore dei Popoli Liberi deve scartare le prime 2 carte del suo mazzo di gioco.
+  lore: Un sanguinario urlo da un enorme Uruk può far vincere una schermaglia prima che inizi.
+es:
+  title: Rager Uruk
+  subtitle: ''
+  text: '**Daño +1.** Cada vez que este siervo gana una escaramuza, el jugador de Gentes Libres debe descartar las 2 cartas superiores de su mazo de robar.'
+  lore: El rugido sediento de sangre de un Uruk puede ganar una batalla antes de que empiece.

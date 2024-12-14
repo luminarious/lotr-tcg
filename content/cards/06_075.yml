@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '75'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Twisted Tales
+  subtitle: ''
+  text: 'Each time a companion or ally loses a skirmish involving an :isengard: Man, you may spot a possession to stack that possession here.'
+  lore: ‘Too long have you sat in the shadows….’
+de:
+  title: Entstellte Berichte
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn ein Gefährte oder Verbündeter einen Kampf verliert, an dem ein :isengard: Mensch beteiligt war, darfst du eine Ausrüstung entdecken, um sie hier zu lagern.'
+  lore: Zu lange habt Ihr im Schatten gesessen…
+fr:
+  title: Contes Pervertis
+  subtitle: ''
+  text: Chaque fois qu’un compagnon ou un allié perd un combat qui implique un Homme :isengard:, vous pouvez désigner une possession pour empiler cette possession ici.
+  lore: 'Trop longtemps êtes-vous resté dans les ombres….” '
+it:
+  title: Racconti Contorti
+  subtitle: ''
+  text: Ogni volta che un compagno o un alleato perde una schermaglia che coinvolga un Uomo :isengard:, puoi avvistare un bene per impilare quel bene qui.
+  lore: ‘Troppo a lungo sei rimasto seduto nelle ombre….’
+es:
+  title: Historias aviesas
+  subtitle: ''
+  text: Cada vez que un compañero o un aliado pierde una escaramuza en la que participe un Hombre :isengard:, puedes avistar una posesión para apilarla aquí.
+  lore: Por demasiado tiempo has estado sentado en las sombras…

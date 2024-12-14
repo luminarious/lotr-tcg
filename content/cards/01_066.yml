@@ -1,0 +1,41 @@
+set: '1'
+rarity: R
+number: '66'
+unique: true
+culture: Elven
+type: Condition
+cost: 1
+vit: '+1'
+en:
+  title: The Tale of Gil-galad
+  subtitle: ''
+  text: |-
+    **Tale.** Bearer must be an Elf.   
+    **Skirmish:** Discard this condition to make bearer strength +2.
+  lore: '‘Gil-galad was an Elven-king / Of him the harpers sadly sing: / the last whose realm was fair and free / between the Mountains and the Sea.’'
+de:
+  title: Die Geschichte von Gil-galad
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    Muss auf einen Elben gespielt werden. **Kampf** Lege diesen Effekt ab, um dem Träger Stärke +2 zu geben.
+  lore: 'Gil-galad war ein Elbenfürst. Die Harfe klagt im Liede noch: Von Berg und Meer umfriedet lag sein Reich im Glanz und ohne Joch.'
+fr:
+  title: Le Récit de Gil-galad
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    Le détenteur doit être un Elfe. **Combat :** Défaussez cette situation pour donner au détenteur +2 en force
+  lore: 'Gil-galad était un roi des Elfes ; / De lui, les ménestrels chantent tristement: / Le dernier dont le royaume fut beau et libre / Des montagnes à la mer.'
+it:
+  title: Il Racconto di Gil-galad
+  subtitle: ''
+  text: |-
+    **Racconto.** Il possessore deve essere un Elfo.   
+    **Schermaglia:** Scarta questa condizione per aggiungere +2 alla forza del possessore.
+  lore: 'Gil-galad sugli elfi soleva regnare / Tristi cantano ora i menestrelli: / i giorni ancor liberi e belli/ del suo regno tra i Monti ed il Mare.'
+es:
+  title: El Cuento de Gil-Galad
+  subtitle: ''
+  text: '**Cuento.**El portador debe ser un Elfo. **Escaramuza:** Descarta esta condición para dar fuerza +2 al portador.'
+  lore: Gil-Galad era un Rey de los Elfos / los trovadores lamentaban la suerte / del ultimo reino libre y hermoso / entre las montañas y el océano.

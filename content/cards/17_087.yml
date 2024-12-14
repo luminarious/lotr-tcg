@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '87'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Orkish Warg-master
+  subtitle: ''
+  text: |-
+    Each time a mounted :orc: minion wins a skirmish, you may make the Free Peoples player place a card from his or her hand on top of his or her deck.  
+    **Shadow:** Exert bearer to play an :orc: mount from your discard pile.
+  lore: Argh!!

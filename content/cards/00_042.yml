@@ -1,0 +1,41 @@
+set: '0'
+rarity: P
+number: '42'
+unique: true
+culture: Moria
+type: Artifact
+class: Hand Weapon
+cost: 1
+str: '+3'
+en:
+  title: The Balrog's Sword
+  subtitle: ''
+  text: |-
+    Bearer must be The Balrog.   
+    It is **damage +1**   
+    This weapon may be borne in addition to 1 other hand weapon. 
+  lore: From out of the shadow a red sword leaped flaming.
+de:
+  title: Das Schwert des Balrog
+  subtitle: ''
+  text: |-
+    Muss auf den Balrog gespielt werden. Er erhält **Schaden +1.**  
+    Diese Waffe darf zusätzlich zu einer weiteren Handwaffe benutzt werden.
+  lore: From out of the shadow a red sword leaped flaming.
+fr:
+  title: L'Épée du Balrog
+  subtitle: ''
+  text: Le détenteur doit être Le Balrog. Le Balrog inflige des dégâts + 1. Cette arme peut être détenue en plus d’une autre arme de mêlée.
+  lore: From out of the shadow a red sword leaped flaming.
+it:
+  title: La Spada del Balrog
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Il Balrog. Egli ha **Danno +1.**  
+    Quest’arma può essere trasportata in aggiunta a un’altra arma da mischia.
+  lore: From out of the shadow a red sword leaped flaming.
+es:
+  title: La espada de El Balrog
+  subtitle: ''
+  text: El portador debe ser El Balrog. Él es **daño +1.** Este arma puede ser llevada además de otro arma de mano.
+  lore: From out of the shadow a red sword leaped flaming.

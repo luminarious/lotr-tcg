@@ -1,0 +1,36 @@
+set: '6'
+rarity: C
+number: '72'
+unique: true
+culture: Isengard
+type: Minion
+race: Man
+cost: 2
+str: '6'
+vit: '2'
+site: 3
+en:
+  title: Rohirrim Traitor
+  subtitle: ''
+  text: 'While you can spot a companion bearing an :isengard: condition, this minion is strength +2.'
+  lore: ‘Once it was a man, and did you service in its fashion.’
+de:
+  title: Verräterischer Rohirrim
+  subtitle: ''
+  text: 'Solange du einen Gefährten entdecken kannst, auf dem ein :isengard: Effekt liegt, erhält dieser Diener Stärke +2.'
+  lore: Einst war sie ein Mann und diente Euch auf ihre Weise.
+fr:
+  title: Traître Rohirrim
+  subtitle: ''
+  text: Tant que vous pouvez désigner un compagnon qui porte une situation :isengard:, ce séide a +2 en force.
+  lore: 'Il fut un temps où c''était un homme et où il vous a rendu service à sa façon.” '
+it:
+  title: Traditore dei Rohirrim
+  subtitle: ''
+  text: Mentre puoi avvistare un compagno che porta una condizione :isengard:, aggiungi +2 alla forza di questo servitore.
+  lore: ‘Era un uomo, e ti rese dei servigi a modo suo.’
+es:
+  title: Traidor Rohirrim
+  subtitle: ''
+  text: Mientras puedas avistar un compañero llevando una condición :isengard:, este siervo es fuerza +2.
+  lore: Una vez fue un hombre, y te hizo servicio a su modo.

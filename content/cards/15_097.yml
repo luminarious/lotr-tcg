@@ -1,0 +1,15 @@
+set: '15'
+rarity: C
+number: '97'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Beasts of Burden
+  subtitle: ''
+  text: |-
+    To play, spot 2 :orc: minions.  
+    At the start of your Shadow phase, you may discard an :orc: condition from play to play an :orc: minion. It is twilight cost –2 (or –4 if you can spot 6 or more companions).
+  lore: …some great beast…would go mad and spread stamping ruin…

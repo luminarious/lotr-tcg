@@ -1,0 +1,15 @@
+set: '0'
+rarity: W
+number: '17'
+unique: true
+culture: Gandalf
+type: Companion
+race: Wizard
+cost: 4
+str: '7'
+vit: '4'
+en:
+  title: Gandalf
+  subtitle: Stormcrow
+  text: ''
+  lore: His real business was far more difficult and dangerous, but the Shire-folk knew nothing about it.

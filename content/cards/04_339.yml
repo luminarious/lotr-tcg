@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '339'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Right
+en:
+  title: Stables
+  subtitle: ''
+  text: '**Sanctuary.** **Fellowship:** Exert a :rohan: Man to play a :rohan: mount from your draw deck (limit once per turn). '
+  lore: ''
+de:
+  title: Ställe
+  subtitle: ''
+  text: '**Zuflucht.** **Gemeinschaft.** Strenge einen :rohan: Menschen an, um einmal pro Zug ein :rohan: Reittier direkt aus deinem Spieldeck zu spielen.'
+  lore: ''
+fr:
+  title: Écuries
+  subtitle: ''
+  text: '**Sanctuaire.** **Compagnie :** Affaiblissez un Homme :rohan: pour jouer une monture :rohan: de votre pioche (limite d’une fois par tour).'
+  lore: ''
+it:
+  title: Scuderie
+  subtitle: ''
+  text: '**Rifugio.** **Compagnia:** Sforza un Uomo :rohan: per giocare una cavalcatura :rohan: dal tuo mazzo di gioco (limite una volta per turno).'
+  lore: ''
+es:
+  title: Establos
+  subtitle: ''
+  text: '**Santuario.** **Comunidad:** Esfuerza un Hombre :rohan: para jugar una montura :rohan: de tu mazo de robar (límite una vez por turno).'
+  lore: ''

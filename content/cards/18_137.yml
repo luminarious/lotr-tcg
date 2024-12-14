@@ -1,0 +1,12 @@
+set: '18'
+rarity: U
+number: '137'
+unique: true
+culture: ''
+type: Site
+cost: 1
+en:
+  title: Morannon Plains
+  subtitle: ''
+  text: '**Battleground. Plains.** When the fellowship moves to this site, each player may reinforce a culture token. '
+  lore: ''

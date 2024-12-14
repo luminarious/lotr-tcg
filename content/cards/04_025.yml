@@ -1,0 +1,36 @@
+set: '4'
+rarity: C
+number: '25'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '1'
+site: 3
+en:
+  title: Hillman Tribe
+  subtitle: ''
+  text: 'Each time this minion wins a skirmish, you may spot another :dunland: minion to take control of a site.'
+  lore: ‘They will not quail at the sun… the wild men of the hills.’
+de:
+  title: Bergbewohnerstamm
+  subtitle: ''
+  text: 'Jedes Mal, wenn dieser Diener einen Kampf gewinnt, darfst du einen anderen :dunland: Diener entdecken, um einen Ort zu kontrollieren.'
+  lore: … die werden nicht schwach in der Sonne… die wilden Menschen aus den Bergen.
+fr:
+  title: Tribu des Collines
+  subtitle: ''
+  text: 'Chaque fois que ce séide gagne un combat, vous pouvez désigner un autre séide :dunland: pour prendre le contrôle d’une site.'
+  lore: 'Ils ne vont pas fléchir sous le soleil… les hommes sauvages des collines.” '
+it:
+  title: Tribù delle Colline
+  subtitle: ''
+  text: 'Ogni volta che questo servitore vince una schermaglia, puoi avvistare un altro servitore :dunland: per prendere il controllo di un sito.'
+  lore: ‘Non si scoraggeranno certo di fronte al sole… gli Uomini selvaggi delle colline.’
+es:
+  title: Tribu De Montañeses
+  subtitle: ''
+  text: 'Cada vez que este siervo gana una escaramuza, puedes avistar otro siervo :dunland: para tomar el control de un sitio.'
+  lore: No retrocederán a la luz del sol… los montañeses salvajes.

@@ -1,0 +1,20 @@
+set: '10'
+rarity: P
+number: '122'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 2
+str: '3'
+vit: '4'
+res: '5'
+signet: Signet_Gandalf
+en:
+  title: Sam
+  subtitle: Great Elf Warrior
+  text: |-
+    **Ring-bound.**   
+    Sam is strength +1 for each :shire: companion you can spot.   
+    **Response:** If Frodo dies, make Sam the Ring-bearer (resistance 5). 
+  lore: ‘…I'd say there’s a large warrior on the loose, Elf most likely, with an elf-sword anyway….’

@@ -1,0 +1,25 @@
+set: '8'
+rarity: C
+number: '53'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Corsair Buccaneer
+  subtitle: ''
+  text: |-
+    **Corsair.**   
+    When you play this minion, you may remove a threat to add 2 :raider: tokens to a card that already has a :raider: token on it.
+  lore: ‘…a great fleet drawing near to the mouths of Anduin….’
+de:
+  title: Corsaren Seeräuber
+  subtitle: ''
+  text: |-
+    **Corsar.**   
+    Du darfst eine Bedrohung entfernen, wenn du diesen Diener spielst, um 2 :raider: Marken auf eine Karte zu legen, auf der bereits eine :raider: Marke liegt.
+  lore: … nähert sich eine große Flotte den Mündungen des Anduin….

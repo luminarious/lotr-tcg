@@ -1,0 +1,23 @@
+set: '12'
+rarity: C
+number: '32'
+unique: true
+culture: Gandalf
+type: Condition
+cost: 0
+en:
+  title: Salve
+  subtitle: ''
+  text: |-
+    **Spell.** To play, spot a :gandalf: Wizard.   
+    Bearer must be a companion. Limit 1 per bearer.   
+    **Response:** If bearer is about to take a wound that would kill him or her, discard this condition to prevent that wound.
+  lore: …the whole hall became suddenly dark as night.
+de:
+  title: Heilung
+  subtitle: ''
+  text: |-
+    **Zauberspruch.**  
+    Entdecke einen :gandalf: Zauberer, um diesen Effekt auf einen Gefährten zu spielen. Maximal 1 pro Gefährte.  
+    **Reaktion:** Lege diesen Effekt ab, wenn der Träger eine Wunde erleidet, die ihn töten würde, um diese Wunde zu verhindern.
+  lore: ''

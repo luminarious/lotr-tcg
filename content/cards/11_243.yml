@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '243'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: Harrowdale
+  subtitle: ''
+  text: '**Plains.** Until the regroup phase, each minion skirmishing a :rohan: companion loses fierce and cannot gain **Fierce.** '
+  lore: ''
+de:
+  title: Hargtal
+  subtitle: ''
+  text: '**Ebene.** Kein Diener, der gegen einen :rohan: Gefährten kämpft, kann bis zur Sammelphase erbittert sein oder erbittert werden.'
+  lore: ''

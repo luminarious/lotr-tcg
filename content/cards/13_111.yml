@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '111'
+unique: true
+culture: Orc
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Massing Strength
+  subtitle: ''
+  text: 'Discard any number of your :orc: minions from play to make an :orc: minion strength +3 for each one discarded.'
+  lore: …the Dark Power, moving its armies like pieces on the board, was gathering them together.
+de:
+  title: Kräfte sammeln
+  subtitle: ''
+  text: 'Lege eine beliebige Anzahl von :orc: Dienern ab, um einem :orc: Diener Stärke +3 für jeden so abgelegten Diener zu geben.'
+  lore: …hier sammelte die Dunkle Macht ihre Heere, die sie wie Figuren auf einem Schachbrett hin- und her schob.

@@ -1,0 +1,18 @@
+set: '11'
+rarity: R
+number: '51'
+unique: true
+culture: Gollum
+type: Companion
+cost: 0
+str: '3'
+vit: '4'
+res: '5'
+en:
+  title: Sméagol
+  subtitle: Scout and Guide
+  text: |-
+    **Ring-bound.** To play, add a burden.   
+    Each time Sméagol wins a skirmish, you may play the fellowship’s next site.   
+    **Skirmish:** If Sméagol is at a marsh, exert him to cancel a skirmish involving him. 
+  lore: They would have foundered in the Dead Marshes but for Gollum.

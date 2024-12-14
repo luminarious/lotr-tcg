@@ -1,0 +1,35 @@
+set: '1'
+rarity: R
+number: '69'
+unique: true
+culture: Gandalf
+type: Ally
+race: Man
+cost: 1
+str: '3'
+vit: '3'
+site: '1'
+en:
+  title: Albert Dreary
+  subtitle: Entertainer from Bree
+  text: |-
+    To play, spot Gandalf.   
+    **Maneuver:** Exert Albert Dreary to discard a :isengard: or :moria: condition.
+  lore: Typical of Bree-folk, Albert is a plain but stout-hearted fellow. He does not seek trouble, but he is willing to protect his home.
+fr:
+  title: Albert Morne
+  subtitle: Artiste de Bree
+  text: 'Pour jouer, désignez Gandalf. **Manœuvre :** Affaiblissez Albert Morne pour défausser une situation :isengard: ou :moria:.'
+  lore: Représentatif des gens de Bree, Albert est un camarade simple mais au c*ur vaillant. Il ne recherche pas les problèmes, mais il est soucieux de protéger sa demeure.
+it:
+  title: Alberto Lugubre
+  subtitle: Intrattenitore di Brea
+  text: |-
+    Per giocarlo, avvista Gandalf.   
+    **Manovra:** Sforza Alberto Lugubre per scartare una condizione :isengard: o :moria:.
+  lore: Tipico cittadino di Brea, Alberto è un compagno tranquillo ma coraggioso. Non cerca guai, ma è pronto a proteggere la sua casa.
+es:
+  title: Alberto Lúgubre
+  subtitle: Artista de Bree
+  text: 'Para jugarlo avista a Gandalf. **Maniobra:** Esfuerza a Alberto Lúgubre para descartar una condición :isengard: o :moria:.'
+  lore: Típico entre las gentes de Bree, Alberto es un tipo sencillo pero de corazón firme. No busca problemas, pero esta dispuesto a proteger su hogar.

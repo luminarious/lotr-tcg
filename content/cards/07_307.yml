@@ -1,0 +1,26 @@
+set: '7'
+rarity: U
+number: '307'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '2'
+site: 6
+en:
+  title: Orc Stalker
+  subtitle: ''
+  text: |-
+    **Tracker.**   
+    The site number of each :sauron: Orc is –1.   
+    While you have initiative, this minion is strength +8.
+  lore: ''
+de:
+  title: Ork Pirscher
+  subtitle: ''
+  text: |-
+    **Spurenleser.**   
+    Die Ortskennzahl jedes :sauron: Orks reduziert sich um 1. Solange du die Initiative besitzt, erhält dieser Diener Stärke +8.
+  lore: …bliesen seine Leute ihre Hörner als ein lange vereinbartes Zeichen…

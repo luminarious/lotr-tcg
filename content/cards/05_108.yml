@@ -1,0 +1,42 @@
+set: '5'
+rarity: C
+number: '108'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '2'
+site: 6
+en:
+  title: Orc Pursuer
+  subtitle: ''
+  text: |-
+    **Tracker.**  
+    The site number of each :sauron: Orc is -1.  
+    When you play this minion, you may exert him and remove :twilight2: to draw a card.
+  lore: ‘…why not kill them now? They're a cursed nuisance, and we're in a hurry.’
+de:
+  title: Ork Verfolger
+  subtitle: ''
+  text: '**Spurenleser.** Die Ortskennzahl jedes :sauron: Orks reduziert sich um 1. Wenn du diesen Diener spielst, darfst du ihn anstrengen und den Einfluss um :twilight2: verringern, um eine Karte zu ziehen.'
+  lore: Aber warum sie nicht… jetzt töten? Sie sind eine verdammte Last, und wir haben es eilig.
+fr:
+  title: Pourchasseur Orque
+  subtitle: ''
+  text: |-
+    Traqueur.   
+    Le numéro de site de chaque Orque :sauron: est de -1.   
+    Quand vous jouez ce séide, vous pouvez l’affaiblir et retirer :twilight2: pour piocher une carte.
+  lore: '… pourquoi ne pas les expédier en vitesse, les tuer tout de suite? Ils nous encombrent fichtrement, et nous sommes pressés.” '
+it:
+  title: Orco Inseguitore
+  subtitle: ''
+  text: '**Inseguitore.** Sottrai -1 al numero di sito di ogni Orco :sauron:. Quando giochi questo servitore, puoi sforzarlo e rimuovere :twilight2: per pescare una carta.'
+  lore: ‘…perché non ucciderli presto, o subito? Sono una maledetta seccatura, e noi abbiamo molta fretta.’
+es:
+  title: Perseguidor Orco
+  subtitle: ''
+  text: '**Rastreador.** El número de sitio de cada Orco :sauron: es -1. Cuando juegas este siervo, puedes esforzarlo y quitar :gondor: para robar una carta.'
+  lore: …¿pero por qué no eliminarlos rápidamente, y matarlos ahora? Son una maldita molestia, y tenemos prisa.

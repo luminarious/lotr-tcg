@@ -1,0 +1,45 @@
+set: '2'
+rarity: R
+number: '85'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 8
+str: '14'
+vit: '4'
+site: 3
+en:
+  title: The Witch-king
+  subtitle: Lord of the Nazgûl
+  text: |-
+    **Twilight.**   
+    Return to Its Master may not be played.   
+    Each time The Witch-king wins a skirmish, you may exert him to wound the Ring-bearer twice. 
+  lore: ‘A great king and sorcerer he was of old, and now he wields a deadly fear.’
+de:
+  title: Der Hexenkönig
+  subtitle: Erster der Nazgûl
+  text: |-
+    **Zwielicht.**  
+    Zurück zu seinem Herrn darf nicht gespielt werden. Jedesmal, wenn der Hexenkönig einen Kampf gewinnt, darfst du ihn anstrengen, um den Ringträger zweimal zu verwunden.
+  lore: Ein großer König und Hexenmeister war er einstmals, und jetzt verbreitet er eine tödliche Furcht.
+fr:
+  title: Le Roi-Sorcier
+  subtitle: Seigneur des Nazgûl
+  text: |-
+    **Crépusculaire.**  
+    Retourner à Son Maître ne peut pas être joué. Chaque fois que le Roi-Sorcier gagne un combat, vous pouvez l’affaiblir pour blesser le Porteur de l’Anneau deux fois.
+  lore: 'Ce fut jadis un grand roi et un grand sorcier, et maintenant il entretient une peur mortelle.” '
+it:
+  title: Il Re Stregone
+  subtitle: Signore dei Nazgûl
+  text: |-
+    **Crepuscolo.**  
+    Ritorno al Suo Padrone non può essere giocato. Ogni volta che Il Re Stregone vince una schermaglia, puoi sforzarlo per ferire due volte il Portatore dell’Anello.
+  lore: ‘Grande re e grande mago era stato in passato, e ora la sua arma è la paura mortale.’
+es:
+  title: El Rey Brujo
+  subtitle: Señor de los Nazgûl
+  text: '**Penumbra.** No se puede jugar Retorno a su Amo. Cada vez que El Rey Brujo gana una escaramuza, puedes esforzarlo para herir dos veces al Portador del Anillo.'
+  lore: Un gran rey y hechicero fue de tiempos antiguos, y ahora ejerce un miedo mortal.

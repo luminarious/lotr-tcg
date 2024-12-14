@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '56'
+unique: true
+culture: Gollum
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Softly Up Behind
+  subtitle: ''
+  text: Spot Sméagol and discard 2 :gollum:cards from hand to return a minion with strength 6 or less to its owner’s hand. While this is in your discard pile, Sméagol gains **muster**.
+  lore: ‘The Ring went into the shadows with him, and even the maker… could learn nothing of it.’
+de:
+  title: Leise herbeikommen
+  subtitle: ''
+  text: 'Entdecke Sméagol und lege 2 :gollum: Karten aus deiner Hand ab, um einen Diener mit Stärke 6 oder weniger auf die Hand des Besitzers zurück zu schicken. Sméagol erhält **Appell**, solange sich diese Karte in deinem Ablagestapel befindet.'
+  lore: Mit ihm verschwand der Ring im Schatten….

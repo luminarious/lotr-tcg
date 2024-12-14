@@ -1,0 +1,15 @@
+set: '15'
+rarity: U
+number: '89'
+unique: true
+culture: Man
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Rapid Reload
+  subtitle: ''
+  text: |-
+    While you can spot a :men: Man, the Free Peoples player cannot replace a site in the current region.  
+    **Archery:** Spot a :men: Man and remove :twilight3: to exert an unbound companion.
+  lore: The Men of Harad kept a large supply of arrows at hand.

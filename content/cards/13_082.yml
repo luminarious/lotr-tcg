@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '82'
+unique: true
+culture: Man
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Bring Down the Wall
+  subtitle: ''
+  text: 'Spot a companion to make a :men: minion strength +1 for each wound on that companion.'
+  lore: ‘Helm’s Deep has one weakness. Its outer wall is solid rock but for a small culvert at its base, which is little more than a drain.’
+de:
+  title: Reißt die Mauer nieder
+  subtitle: ''
+  text: 'Entdecke einen Gefährten, um einem :men: Diener Stärke +1 für jede Wunde auf diesem Gefährten zu geben.'
+  lore: Helms Klamm hat eine Schwachstelle. Sein Außenwall ist aus festem Stein. Doch gibt es einen kleinen Durchlass weiter unten, kaum mehr als ein Abflußschacht.

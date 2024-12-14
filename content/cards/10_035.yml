@@ -1,0 +1,18 @@
+set: '10'
+rarity: U
+number: '35'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Suffered Much Loss
+  subtitle: ''
+  text: 'Each site on the adventure path is a battleground. While you have initiative, each Uruk-hai is strength +1. '
+  lore: ‘For we are already at war, as you may have seen….’
+de:
+  title: Schwere Verluste erlitten
+  subtitle: ''
+  text: Jeder Ort ist ein Schlachfeld. Solange du die Initiative besitzt, erhält jeder Uruk-hai Stärke +1.
+  lore: Denn wir sind bereits im Krieg, wie Ihr vielleicht gesehen habt….

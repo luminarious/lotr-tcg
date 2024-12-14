@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '138'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '2'
+site: 4
+en:
+  title: Skulking Goblin
+  subtitle: ''
+  text: The fellowship’s current site gains underground.
+  lore: ‘It is a mark of evil things that came in the Great Darkness that they cannot abide the Sun….’
+de:
+  title: Lauernder Goblin
+  subtitle: ''
+  text: Der gegenwärtige Ort der Gemeinschaft wird unterirdisch.
+  lore: Es ist ein Kennzeichen der bösen Wesen, die in der Großen Dunkelheit kamen, dass sie die Sonne nicht ertragen können…

@@ -1,0 +1,25 @@
+set: '8'
+rarity: C
+number: '54'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Corsair Freebooter
+  subtitle: ''
+  text: |-
+    **Corsair.**   
+    When you play this minion, you may remove 2 culture tokens to add 2 :raider: tokens to a card that already has a :raider: token on it.
+  lore: …the strength of the rebels in Umbar was a great peril to Gondor….
+de:
+  title: Corsaren Freibeuter
+  subtitle: ''
+  text: |-
+    **Corsar.**   
+    Du darfst 2 Kulturen-Marken entfernen, wenn du diesen Diener spielst, um 2 :raider: Marken auf eine Karte zu legen, auf der bereits eine :raider: Marke liegt.
+  lore: … dass die Stärke der Aufrührer in Umbar eine große Gefahr für Gondor sei….

@@ -1,0 +1,32 @@
+set: '6'
+rarity: R
+number: '109'
+unique: true
+culture: Shire
+type: Condition
+cost: 1
+en:
+  title: Held
+  subtitle: ''
+  text: Bearer must be Frodo. Each time Frodo is about to be killed by a wound, add a burden instead. When the fellowship moves to site 9, Frodo is corrupted. **Regroup:** If you can spot no minions, discard this condition.
+  lore: ''
+de:
+  title: Gebunden
+  subtitle: ''
+  text: Muss auf Frodo gespielt werden. Jedes Mal, wenn Frodo durch eine Wunde getötet werden würde, lege statt dessen eine Lastmarke auf ihn. Wenn die Gemeinschaft Ort 9 erreicht, erliegt Frodo der Versuchung durch den Ring. **Sammeln:** Wenn du keinen Diener entd
+  lore: ''
+fr:
+  title: Retenu
+  subtitle: ''
+  text: Le détenteur doit être Frodon. Chaque fois que Frodon est sur le point d’être tué par une blessure, ajoutez plutôt un point-fardeau. Quand la compagnie se déplace jusqu’au site 9, Frodon est corrompu. **Ralliement :** Si vous ne pouvez désigner aucun séide
+  lore: ''
+it:
+  title: Prigioniero
+  subtitle: ''
+  text: Il possessore deve essere Frodo. Ogni volta che Frodo sta per essere ucciso da una ferita, aggiungi invece un segnalino fardello. Quando la compagnia si muove al sito 9, Frodo è corrotto. **Raccolta:** Se non puoi avvistare servitori, scarta questa condizi
+  lore: ''
+es:
+  title: Retenido
+  subtitle: ''
+  text: El portador debe ser Frodo. Cada vez que Frodo va a morir por una herida, en vez de eso añade una carga. Cuando la comunidad se mueve al sitio 9, Frodo se corrompe. **Reagrupación:** Si no puedes avistar ningún siervo, descarta esta condición.
+  lore: ''

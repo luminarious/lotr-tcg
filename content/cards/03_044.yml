@@ -1,0 +1,41 @@
+set: '3'
+rarity: R
+number: '44'
+unique: true
+culture: Gondor
+type: Artifact
+cost: 1
+en:
+  title: The Shards of Narsil
+  subtitle: ''
+  text: |-
+
+    **Fellowship:** Stack a :gondor: card from hand here.   
+    **Fellowship:** Add :twilight1: to take a card stacked here into hand. 
+  lore: ‘…Narsil was broken and its light extinguished, and it had not yet been forged again.’
+de:
+  title: Die Bruchstücke von Narsil
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Gemeinschaft.** Lagere hier eine :gondor: Karte aus deiner Hand. **Gemeinschaft.** Erhöhe den Einfluss um :twilight1:, um eine hier gelagerte Karte zurück auf deine Hand zu nehmen.'
+  lore: Aber Narsil war geborsten und sein Licht war ausgelöscht, und es ist bisher nicht wieder geschmiedet worden.
+fr:
+  title: Les Fragments de Narsil
+  subtitle: ''
+  text: '**Compagnie :** Empilez une carte :gondor: de votre main ici. **Compagnie :** Ajoutez :twilight1: pour prendre en main une carte empilée ici.'
+  lore: '… Narsil était brisée et sa lumière éteinte, et elle n''a point encore été reforgée.” '
+it:
+  title: I Frammenti di Narsil
+  subtitle: ''
+  text: |-
+    Giocalo nella tua area di supporto.   
+    **Compagnia:** Impila qui una carta :gondor: dalla mano.   
+    **Compagnia:** Aggiungi :twilight1: per aggiungere alla mano una carta impilata qui.
+  lore: ‘… Narsil era spezzata e la sua luce era spenta, e non era stata ancora riforgiata.’
+es:
+  title: Los Fragmentos de Narsil
+  subtitle: ''
+  text: |-
+
+    **Comunidad:** Apila una carta :gondor: aquí de tu mano.   
+    **Comunidad:** Añade :twilight1: para tomar una carta aquí apilada en tu mano.
+  lore: …Narsil fue rota y su luz extinguida, y todavía no ha sido forjada de nuevo.

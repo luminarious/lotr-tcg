@@ -1,0 +1,36 @@
+set: '1'
+rarity: C
+number: '9'
+unique: true
+culture: Dwarven
+type: Possession
+class: Hand Weapon
+cost: 0
+str: '+2'
+en:
+  title: Dwarven Axe
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf.   
+    Each time a player’s minion loses a skirmish to bearer, that player discards the top card from his or her draw deck.
+  lore: ‘Buckler and corslet, axe and sword / And shining spears were laid in hoard.’
+de:
+  title: Zwergenaxt
+  subtitle: ''
+  text: Muss auf einen Zwerg gespielt werden. Jedesmal, wenn ein Diener eines Spielers einen Kampf gegen den Träger der Axt verliert, legt dieser Spieler die oberste Karte seines Spieldecks ab.
+  lore: Von Panzerhemden, Schild und Speer / Die Borte in den Kammern schwer.
+fr:
+  title: Hache Naine
+  subtitle: ''
+  text: Le détenteur doit être un Nain. Chaque fois qu’un séide d’un joueur de l’Ombre perd un combat contre le détenteur, ce joueur défausse la première carte de sa pioche.
+  lore: ‘Le bouclier et le corselet, la hache et l'épée, / Et les lances brillantes étaient couchées en amas.’
+it:
+  title: Ascia dei Nani
+  subtitle: ''
+  text: Il possessore deve essere un Nano. Ogni volta che il possessore vince una schermaglia contro uno o più servitori di un giocatore, quel giocatore scarta la prima carta del suo mazzo di gioco.
+  lore: ‘Scudi e corazze, asce, spade pugnali / E fiammanti speroni come non se ne fabbricano d'uguali.’
+es:
+  title: Hacha Enana
+  subtitle: ''
+  text: El portador debe ser un enano. Cada vez que el siervo de un jugador pierde una escaramuza contra el portador, ese jugador descarta la carta superior de su mazo de robar.
+  lore: y la espada y la lanza brillantes / el escudo, la malla y el hacha.

@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '33'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 5
+en:
+  title: Citadel to Gate
+  subtitle: ''
+  text: Exert Gandalf twice to remove all threats and to heal all companions of one culture (except :gandalf:).
+  lore: Wherever he came men’s hearts would lift again, and the winged shadows pass from memory.
+de:
+  title: Von der Feste zum Tor
+  subtitle: ''
+  text: Strenge Gandalf zweimal an, um alle Bedrohungen zu entfernen und um alle Gefährten einer Kultur (außer :gandalf:) zu heilen.
+  lore: Wohin auch immer er kam, überall schöpften die Menschen wieder Mut, und die geflügelten Schatten verschwanden aus ihrer Erinnerung.

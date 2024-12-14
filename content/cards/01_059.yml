@@ -1,0 +1,37 @@
+set: '1'
+rarity: C
+number: '59'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Shoulder to Shoulder
+  subtitle: ''
+  text: |-
+
+    **Maneuver:** Add :twilight1: and exert a Dwarf to heal an Elf, or add :twilight1: and exert an Elf to heal a Dwarf.
+  lore: ‘May it be a sign that though the world is now dark better days are at hand, and that friendship shall be renewed between our peoples.’
+de:
+  title: Schulter an Schulter
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Manöver:** Erhöhe den Einfluss um :twilight1: und strenge entweder einen Zwerg an, um einen Elben zu heilen; oder einen Elben, um einen Zwerg zu heilen.'
+  lore: Möge es, obwohl die Welt jetzt düster ist, ein Zeichen sein, dass bessere Tage bevorstehen und die Freundschaft zwischen unseren Völkern erneuert wird.
+fr:
+  title: Épaule Contre Épaule
+  subtitle: ''
+  text: '**Manœuvre :** Ajoutez :twilight1: et affaiblissez un Nain pour guérir un Elfe, ou ajoutez :twilight1: et affaiblissez un Elfe pour guérir un Nain.'
+  lore: Puisse cet Événement marquer la proximité de jours meilleurs, en dépit des heures sombres que traverse actuellement le monde, ainsi qu'un renouvellement de l'amitié entre nos deux peuples.
+it:
+  title: Spalla a Spalla
+  subtitle: ''
+  text: |-
+    Giocala nella tua area di supporto.  
+    **Manovra:** Aggiungi :twilight1: e sforza un Nano per curare un Elfo, o aggiungi :twilight1: e sforza un Elfo per curare un Nano.
+  lore: ‘Possa ciò essere un presagio che, malgrado l'odierna oscurità del mondo, giorni migliori ci attendano e che l'amicizia sia rinnovata tra i nostri popoli.’
+es:
+  title: Hombro con Hombro
+  subtitle: ''
+  text: '**Maniobra:** Añade :twilight1: y esfuerza un Enano para curar un Elfo, o añade :twilight1: y esfuerza un Elfo para curar un Enano.'
+  lore: Quizá es un anuncio de mejores días, aunque las sombras cubran ahora el mundo, y de una nueva amistad entre nuestros pueblos.

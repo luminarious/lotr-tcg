@@ -1,0 +1,35 @@
+set: '6'
+rarity: R
+number: '35'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 7
+str: '8'
+vit: '4'
+en:
+  title: Skinbark
+  subtitle: Fladrif
+  text: Skinbark’s twilight cost is –1 for each Ent or unbound Hobbit you can spot. **Response:** If an unbound Hobbit is about to take a wound, exert Skinbark to prevent that wound.
+  lore: ‘He was wounded by Orcs, and many of his folk and tree-herds have been murdered and destroyed.’
+de:
+  title: Borkenhaut
+  subtitle: Fladrif
+  text: Borkenhauts Kosten reduzieren sich um 1 für jeden Ent und nicht-verbundenen Hobbit, den du entdecken kannst. **Reaktion:** Strenge Borkenhaut an, wenn ein nicht-verbundener Hobbit eine Wunde erleidet, um diese zu verhindern.
+  lore: Er wurde von den Orks verwundet, und viele von seinen Leuten und Baumherden wurden ermordet und vernichtet.
+fr:
+  title: Peaurude
+  subtitle: Fladrid
+  text: Le coût crépusculaire de Peaurude est de –1 pour chaque Ent et Hobbit dissocié que vous pouvez désigner. **Réponse :** Si un Hobbit dissocié est sur le point d’être blessé, affaiblissez Peaurude pour prevenir cette blessure.
+  lore: 'Il a été blessé par les Orques, et un grand nombre des siens et de ses gardiens d''arbres ont été assassinés et détruits.” '
+it:
+  title: Scorzapelle
+  subtitle: Fladrif
+  text: Sottrai –1 al costo crepuscolo di Scorzapelle per ogni Ent o Hobbit Non Legato che puoi avvistare. **Risposta:** Se un Hobbit Non Legato sta per subire una ferita, sforza Scorzapelle per prevenire quella ferita.
+  lore: ‘Lui fu ferito dagli Orchi, e molti membri della sua famiglia e parecchi alberi del suo gregge sono stati assassinati e distrutti.’
+es:
+  title: Corteza
+  subtitle: Fladrif
+  text: El coste de penumbra de Corteza es –1 por cada Ent o Hobbit no-vinculado que puedas avistar. **Respuesta:** Si un Hobbit no-vinculado va a recibir una herida, esfuerza a Corteza para prevenir dicha herida.
+  lore: Fue herido por los Orcos, y muchos de su pueblo y rebaños de árboles han sido asesinados y destruidos.

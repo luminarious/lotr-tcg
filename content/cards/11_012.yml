@@ -1,0 +1,20 @@
+set: '11'
+rarity: U
+number: '12'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Mountain Homestead
+  subtitle: ''
+  text: |-
+    To play, spot 2 Dwarf companions.   
+    While the fellowship is at a mountain site, each Dwarf is strength +2.
+  lore: The Dwarves are as hard and stalwart as the lands in which they've made their homes.
+de:
+  title: Gebirgsheimstatt
+  subtitle: ''
+  text: Entdecke 2 Zwergengefährten um diese Karte zu spielen. Solange die Gemeinschaft sich an einem Gebirge befindet, erhält jeder Zwerg Stärke +2.
+  lore: Die Zwerge sind so hart und unbeugsam wie die Berge, in denen sie wohnen.

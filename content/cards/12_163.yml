@@ -1,0 +1,18 @@
+set: '12'
+rarity: R
+number: '163'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Dark Temptation
+  subtitle: ''
+  text: Each time you play a Nazgûl, you may heal the Ring-bearer twice to add a burden.
+  lore: He felt that he had only to slip it on, and then he would be safe.
+de:
+  title: Dunkles Verlangen
+  subtitle: ''
+  text: Jedes Mal, wenn du einen Nazgûl spielst, darfst du den Ringträger zweimal heilen, um eine Lastmarke auf ihn zu legen.
+  lore: Er hatte das Gefühl, dass er ihn bloß aufzustreifen brauchte, dann würde er sicher sein.

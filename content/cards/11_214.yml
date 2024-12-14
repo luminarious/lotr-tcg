@@ -1,0 +1,21 @@
+set: '11'
+rarity: R
+number: '214'
+unique: true
+culture: Wraith
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+3'
+en:
+  title: The Pale Blade
+  subtitle: Sword of Flame
+  text: |-
+    Bearer must be a Nazgûl.   
+    If bearer is The Witch-king, each time he wins a skirmish, you may exert him to add a burden.
+  lore: ‘Die now and curse in vain!’ And with that he lifted high his sword and flames ran down the blade.
+de:
+  title: Die Bleiche Klinge
+  subtitle: Flammenschwert
+  text: Muss auf einen Nazgûl gespielt werden. Wenn der Hexenkönig der Träger ist, darfst du ihn jedes Mal, wenn er einen Kampf gewinnt, anstrengen, um eine Lastmarke auf den Ringträger zu legen.
+  lore: Stirb jetzt und fluche vergebens!“ Und damit hob er sein Schwert hoch, und Flammen liefen an der Klinge entlang.

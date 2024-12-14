@@ -1,0 +1,13 @@
+set: '15'
+rarity: S
+number: '191'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Left
+en:
+  title: Gate of Mordor
+  subtitle: ''
+  text: '**Battleground.** Each time the fellowship moves to this site, add :twilight1: for each culture you can spot.'
+  lore: ''

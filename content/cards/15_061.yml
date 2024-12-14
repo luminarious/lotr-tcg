@@ -1,0 +1,19 @@
+set: '15'
+rarity: U
+number: '61'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+res: '6'
+en:
+  title: Gondorian Prowler
+  subtitle: ''
+  text: |-
+    **Ranger. Hunter 1.**   
+    When this companion is in your starting fellowship, he is twilight cost –1.  
+    **Skirmish:** Remove a :gondor: token or exert a :gondor: Man to make the site number of a minion +2.
+  lore: Rangers use all five senses to hunt their prey.

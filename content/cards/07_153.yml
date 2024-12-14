@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '153'
+unique: true
+culture: Raider
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Mûmakil of the Harad
+  subtitle: ''
+  text: 'Spot a :raider: minion to add :twilight2: for each threat.'
+  lore: …dragging through the lanes amid the fires….
+de:
+  title: Mûmakil der Haradrim
+  subtitle: ''
+  text: 'Entdecke einen :raider: Diener, um den Einfluss für jede Bedrohung um :twilight2: zu erhöhen.'
+  lore: …und sie zogen… durch die Gassen zwischen den Bränden…

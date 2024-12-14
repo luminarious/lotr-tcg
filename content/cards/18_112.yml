@@ -1,0 +1,16 @@
+set: '18'
+rarity: R
+number: '112'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Scouring of the Shire
+  subtitle: ''
+  text: |-
+    **Tale.**  
+    When there are 4 :shire: tokens here, discard this condition from play.  
+    **Response:** If a :shire: condition or :shire: possession is about to be discarded from play by a Shadow card, add a :shire: token here to prevent that.
+  lore: ''

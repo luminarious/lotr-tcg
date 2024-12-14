@@ -1,0 +1,18 @@
+set: '13'
+rarity: U
+number: '185'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Left
+en:
+  title: Abandoned Mine Shaft
+  subtitle: ''
+  text: '**Underground.** If this site is not in region 1 when the fellowship moves from here during the regroup phase, add a burden.'
+  lore: ''
+de:
+  title: Stillgelegte Mine
+  subtitle: ''
+  text: '**Unterirdisch.** Platziere 1 Lastmarke, wenn sich die Gemeinschaft in der Sammelphase von hier fortbewegt und dieser Ort nicht in Region 1 liegt.'
+  lore: ''

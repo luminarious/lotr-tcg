@@ -1,0 +1,51 @@
+set: '4'
+rarity: R
+number: '225'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 5
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Easterling Captain
+  subtitle: ''
+  text: |-
+    **Easterling.** **Fierce.**  
+    **Skirmish:** Spot 2 burdens and remove :twilight2: to make an Easterling strength +2.   
+    **Skirmish:** Spot 4 burdens and remove :twilight2: to make an Easterling strength +3.   
+    **Skirmish:** Spot 6 burdens and remove :twilight2: to make an Easterling strength +4. 
+  lore: ''
+de:
+  title: Hauptmann der Ostlinge
+  subtitle: ''
+  text: |-
+    **Ostling.** **Erbittert.**  
+    **Kampf** Entdecke 2 Lastmarken und verringere den Einfluss um :twilight2:, um einem Ostling Stärke +2 zu geben. **Kampf** Entdecke 4 Lastmarken und verringere den Einfluss um :twilight2:, um einem Ostling Stärke +3 zu geben. **Kampf** Entdecke 6 Lastmarken und verrringere den Einfluss um :twilight2:, um einem Ostling Stärke +4 zu geben.
+  lore: ''
+fr:
+  title: Capitaine Oriental
+  subtitle: ''
+  text: |-
+    **Oriental.** **Acharné.**  
+    **Combat :** Désignez 2 points-fardeau et retirez :twilight2: pour donner +2 en force à un **Oriental.**  
+    **Combat :** Désignez 4 points-fardeau et retirez :twilight2: pour donner +3 en force à un **Oriental.**  
+    **Combat :** Désignez 6 points-fardeau et retirez :twilight2: pour donner +4 en force à un **Oriental.**
+  lore: ''
+it:
+  title: Capitano Esterling
+  subtitle: ''
+  text: |-
+    **Esterling.**  
+    **Feroce.**  
+    **Schermaglia:** Avvista 2 segnalini fardello e rimuovi :twilight2: per aggiungere +2 alla forza di un **Esterling.**  
+    **Schermaglia:** Avvista 4 segnalini fardello e rimuovi :twilight2: per aggiungere +3 alla forza di un **Esterling.**  
+    **Schermaglia:** Avvista 6 segnalini fardello e rimuovi :twilight2: per aggiungere +4 alla forza di un **Esterling.**
+  lore: ''
+es:
+  title: Capitan Oriental
+  subtitle: ''
+  text: '**Oriental.** **Fiero.** **Escaramuza:** Avista 2 cargas y quita :twilight2: para darle a un Oriental fuerza +2. **Escaramuza:** Avista 4 cargas y quita :twilight2: para darle a un Oriental fuerza +3. **Escaramuza:** Avista 6 cargas y quita :twilight2: para darle a un Oriental fuerza +4.'
+  lore: ''

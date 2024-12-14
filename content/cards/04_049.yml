@@ -1,0 +1,18 @@
+set: '4'
+rarity: C
+number: '49'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Gandalf
+en:
+  title: Gimli
+  subtitle: Unbidden Guest
+  text: |-
+    **Damage +1.**   
+    **Skirmish:** Exert Gimli to make an unbound companion strength +1 (or +2 if that companion is Legolas). 
+  lore: 'But a small dark figure that none had observed sprang out of the shadows and gave a hoarse shout: Baruk Khazâd!'

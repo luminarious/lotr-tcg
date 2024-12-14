@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '49'
+unique: true
+culture: Gollum
+type: Event
+class: Fellowship or Regroup
+cost: 0
+en:
+  title: One Good Turn Deserves Another
+  subtitle: ''
+  text: 'Spot Sméagol to play the fellowship’s next site. Then you may add a burden to take this card back into hand. '
+  lore: ‘Nice hobbits! We will come with them. Find them safe paths in the dark, yes we will.’
+de:
+  title: Eine Liebe ist der anderen wert
+  subtitle: ''
+  text: Entdecke Sméagol, um den nächsten Ort der Gemeinschaft auszuspielen. Du darfst dann eine Lastmarke auf den Ringträger legen, um diese Karte wieder auf die Hand zu nehmen.
+  lore: Nette Hobbits! Wir werden mit ihnen kommen. Ihnen sichere Wege suchen in der Dunkelheit, ja, das werden wir.

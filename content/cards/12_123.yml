@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '123'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Hope is Kindled
+  subtitle: ''
+  text: Make a Hobbit strength +2. If that Hobbit wins this skirmish, you may remove a burden.
+  lore: ‘Soft as butter they can be, and yet sometimes as tough as old tree-roots.’
+de:
+  title: Ein Funken Hoffnung
+  subtitle: ''
+  text: Gib einem Hobbit Stärke +2. Wenn dieser Hobbit den Kampf gewinnt, darfst du eine Lastmarke entfernen.
+  lore: Weich wie Butter können sie sein, und doch bisweilen zäh wie alte Baumwurzeln.

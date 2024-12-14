@@ -1,0 +1,39 @@
+set: '1'
+rarity: R
+number: '81'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 3
+en:
+  title: Questions That Need Answering
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Fellowship:** If the twilight pool has fewer than 3 twilight tokens, spot Gandalf to look at the top 4 cards of your draw deck. Take 2 of those cards into hand and discard the rest.
+  lore: ‘There are some things that I must see to….’
+de:
+  title: Fragen, die einer Antwort bedürfen
+  subtitle: ''
+  text: '**Zauberspruch.****Gemeinschaft.** Wenn der Einfluss weniger als :twilight3: beträgt, entdecke Gandalf, um dir die obersten 4 Karten deines Spieldecks anzuschauen. Nimm 2 davon in deine Hand und lege die übrigen ab.'
+  lore: …aber ich habe etwas gehört, …um das ich mich kümmern muss.
+fr:
+  title: Des Questions qui Nécessitent des Réponses
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Compagnie :** Si la réserve crépusculaire a moins de 3 jetons-crépuscule, désignez Gandalf pour regarder les 4 premières cartes de votre pioche. Prenez 2 de ces cartes en main et défaussez les autres.
+  lore: ‘Il y a certaines choses auxquelles je dois voir….’
+it:
+  title: Domande che Richiedono una Risposta
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Compagnia:** Se la zona del crepuscolo ha meno di 3 segnalini crepuscolo prima che questa carta sia giocata, avvista Gandalf per guardare le prime 4 carte del tuo mazzo di gioco. Aggiungi 2 di quelle carte alla tua mano e scarta il resto.
+  lore: ‘Ci sono alcune cose che devo vedere per….’
+es:
+  title: Preguntas Que Requieren Respuesta
+  subtitle: ''
+  text: '**Hechizo.** **Comunidad:** Si el fondo de penumbra tiene menos de 3 contadores de penumbra, avista a Gandalf para mirar las 4 cartas superiores de tu mazo de robar. Roba 2 de esas cartas a tu mano y descarta el resto.'
+  lore: Hay algunas cosas que tengo que vigilar…

@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '342'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Right
+en:
+  title: Westemnet Plains
+  subtitle: ''
+  text: '**Plains.** **Sanctuary.** Each :dunland: Man may not take wounds during the archery phase. '
+  lore: ''
+de:
+  title: Die Ebenen Westemnets
+  subtitle: ''
+  text: '**Ebene.** **Zuflucht.**Alle :dunland: Menschen dürfen in der Fernkampf-phase keine Wunden erleiden.'
+  lore: ''
+fr:
+  title: Les Plaines de l'Ouestemnet
+  subtitle: ''
+  text: '**Plaine.** **Sanctuaire.** Aucun Homme :dunland: ne peut être blessé pendant la phase d’archerie.'
+  lore: ''
+it:
+  title: Pianure dell'Ovestemnet
+  subtitle: ''
+  text: '**Pianura.** **Rifugio.** Ogni Uomo :dunland: non può subire ferite durante la fase degli arcieri.'
+  lore: ''
+es:
+  title: Llanuras De Oestemnet
+  subtitle: ''
+  text: '**Llanura.** **Santuario.** Cada Hombre :dunland: no puede recibir heridas durante la fase de arquería.'
+  lore: ''

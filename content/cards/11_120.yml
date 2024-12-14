@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '120'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Entrapping Orc
+  subtitle: ''
+  text: '**Assignment:** Assign this minion to an unbound companion who has resistance 4 or less.'
+  lore: Orcs relish the kill more than the fight itself, and will often rush to engage a weakened foe.
+de:
+  title: Ork Fallensteller
+  subtitle: ''
+  text: '**Zuweisung:** Weise diesen Diener einem nicht-verbundenen Gefährten mit Resistenz 4 oder weniger zu.'
+  lore: Da Orks mehr Spaß am töten als am kämpfen haben, stürzen sie sich immer auf die Schwachen.

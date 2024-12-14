@@ -1,0 +1,36 @@
+set: '1'
+rarity: R
+number: '199'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '3'
+site: 4
+en:
+  title: Troll’s Keyward
+  subtitle: ''
+  text: Cave Troll of Moria’s twilight cost is -2.
+  lore: Though shorter than a Man, the Troll’s Keyward is a deadly adversary.
+de:
+  title: Troll Schlüsselmeister
+  subtitle: ''
+  text: Die Zwielichtkosten des Höhlentrolls von Moria reduzieren sich um 2.
+  lore: Obwohl kleiner als ein Mensch, ist der Schlüsselmeister ein gefährlicher Gegner.
+fr:
+  title: Gardien du Troll
+  subtitle: ''
+  text: Le coût crépusculaire du Troll des Cavernes est de -2.
+  lore: Quoique plus petit qu'un Homme, le Gardien du Troll est un adversaire mortel.
+it:
+  title: Guardiano del Troll
+  subtitle: ''
+  text: Sottrai -2 al costo crepuscolo del Troll delle Caverne.
+  lore: Sebbene più basso di un uomo, il Guardiano del Troll è un avversario letale.
+es:
+  title: El Guardián del Troll
+  subtitle: ''
+  text: El coste de penumbra del Troll de las Cuevas es -2.
+  lore: Aunque más bajo que un Hombre, el Guardián del Troll es un adversario mortífero.

@@ -1,0 +1,25 @@
+set: '7'
+rarity: C
+number: '144'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Easterling Ransacker
+  subtitle: ''
+  text: |-
+    **Easterling.**   
+    **Skirmish:** Exert this minion to make him **damage +1**.
+  lore: ''
+de:
+  title: Ostling Wegelagerer
+  subtitle: ''
+  text: |-
+    **Ostling.**   
+    **Kampf:** Strenge diesen Diener an, um ihm **Schaden +1** zu geben.
+  lore: …Heerhaufen, die ihnen an Zahl zehnmal und mehr als zehnmal überlegen waren…

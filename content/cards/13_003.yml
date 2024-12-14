@@ -1,0 +1,23 @@
+set: '13'
+rarity: U
+number: '3'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Deep Hatred
+  subtitle: ''
+  text: |-
+    Each time the fellowship moves, add :twilight2:.  
+    **Skirmish:** Exert a Dwarf who is not assigned to a skirmish to wound 2 Orcs (or to wound 1 Orc twice).  
+    Discard this from play if the fellowship is ahead on the adventure path.
+  lore: …the War of the Dwarves and the Orcs….
+de:
+  title: Tiefverwurzelter Hass
+  subtitle: ''
+  text: |-
+    Erhöhe jedes Mal, wenn sich die Ge-meinschaft bewegt, den Einfluss um :twilight2:.  
+    **Kampf:** Strenge einen Zwerg an, der keinem Kampf zugewiesen ist, um 2 Orks zu verwunden (oder 1 Ork zweimal). Lege diesen Effekt ab, wenn die Gemeinschaft auf dem Abenteuerpfad vorne liegt.
+  lore: ''

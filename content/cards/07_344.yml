@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '344'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Left
+en:
+  title: City Gates
+  subtitle: ''
+  text: When the fellowship moves to this site, add 3 threats. When the fellowship moves from this site, remove 3 threats.
+  lore: ''
+de:
+  title: Die Stadttore
+  subtitle: ''
+  text: Lass 3 Bedrohungen entstehen, wenn die Gemeinschaft diesen Ort erreicht. Entferne 3 Bedrohungen, wenn sich die Gemeinschaft von hier fort bewegt.
+  lore: ''

@@ -1,0 +1,34 @@
+set: '4'
+rarity: R
+number: '172'
+unique: true
+culture: Isengard
+type: Condition
+cost: 0
+en:
+  title: Rohan Is Mine
+  subtitle: ''
+  text: |-
+    To play, spot Saruman or an :isengard: Man. Plays on a Free Peoples Man.  
+    Each time the Free Peoples player assigns bearer to a skirmish, exert each ally. 
+  lore: ‘You have no power here, Gandalf the Grey.’
+de:
+  title: Rohan ist mein Land
+  subtitle: ''
+  text: 'Entdecke Saruman oder einen :isengard: Mensch, um diese Karte auf einen Menschen der Freien Völker zu spielen. Jedes Mal, wenn der Träger vom Freie Völker Spieler einem Kampf zugewiesen wird, muss jeder Verbündete angestrengt werden.'
+  lore: Ihr habt keinerlei Macht hier, Gandalf der Graue.
+fr:
+  title: Rohan M'Appartient
+  subtitle: ''
+  text: Pour jouer, désignez Saroumane ou un Homme. Jouable sur un Homme des Peuples Libres. Chaque fois que le joueur des Peuples Libres affecte le détenteur au combat, affaiblissez chaque allié.
+  lore: 'Vous n''avez aucun pouvoir ici, Gandalf le Gris.” '
+it:
+  title: Rohan è Mia
+  subtitle: ''
+  text: Per giocarla, avvista Saruman o un Uomo :isengard:. Giocala su un Uomo dei Popoli Liberi. Ogni volta che il giocatore dei Popoli Liberi assegna il possessore a una schermaglia, sforza ogni alleato.
+  lore: ‘Qui non hai alcun potere, Gandalf il Grigio.’
+es:
+  title: Rohan Es Mío
+  subtitle: ''
+  text: Para jugarla, avista a Saruman o a un Hombre :isengard:. Se juega en un Hombre de Gentes Libres. Cada vez que el jugador de Gentes Libres asigna el portador a una escaramuza, esfuerza cada aliado.
+  lore: No tienes poder aquí, Gandalf el Gris.

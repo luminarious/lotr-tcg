@@ -1,0 +1,24 @@
+set: '0'
+rarity: P
+number: '51'
+unique: true
+culture: Shire
+type: Ally
+cost: 3
+str: '4'
+vit: '6'
+site: '2'
+en:
+  title: Goldberry
+  subtitle: River-daughter
+  text: |-
+    Each time the fellowship moves to a river, heal Goldberry and Tom Bombadil.   
+    **Skirmish:** If the fellowship is at a river, exert Goldberry to make a companion strength +1.
+  lore: '''…my pretty lady is, River-woman’s daughter, Slender as the willow-wand, clearer than the water.’'
+de:
+  title: Goldbeere
+  subtitle: Flusstochter
+  text: |-
+    Jedes mal, wenn sich die Gemeinschaft zu einem Fluss bewegt, heile Goldbeere und Tom Bombadil.  
+    **Kampf:** Wenn die Geminschaft sich an einem Fluss befindet, strenge Goldbeere an, um einem Gefährten Stärke +1 zu geben.
+  lore: ‘Slender as the willow-wand, clearer than the water.’

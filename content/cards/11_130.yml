@@ -1,0 +1,21 @@
+set: '11'
+rarity: S
+number: '130'
+unique: true
+culture: Orc
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+1'
+en:
+  title: Orc Hammer
+  subtitle: ''
+  text: |-
+    Bearer must be an :orc: Orc.   
+    When you play this possession, you may exert a companion.
+  lore: The strongest members of an Orc tribe often wield hammers rather than blades.
+de:
+  title: Ork Hammer
+  subtitle: ''
+  text: 'Muss auf einen :orc: Ork gespielt werden. Wenn du diese Ausrüstung spielst, darfst du einen Gefährten anstrengen.'
+  lore: Die stärksten Orks des Stammes haben oft Hämmer statt Schwertern.

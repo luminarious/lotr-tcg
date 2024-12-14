@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '141'
+unique: true
+culture: Isengard
+type: Event
+class: Response
+cost: 0
+en:
+  title: Beyond Dark Mountains
+  subtitle: ''
+  text: '**Response:** If a companion or ally is killed, exert an :isengard: minion to add a burden (or 2 burdens if Aragorn, Gandalf, or Théoden is killed). '
+  lore: Where now was the Ring-bearer? How thin indeed was the thread upon which doom still hung!
+de:
+  title: Hinter dunklen Bergen
+  subtitle: ''
+  text: '**Reaktion:** Strenge einen :isengard: Diener an, wenn ein Gefährte oder Verbündeter getötet wird, um eine Lastmarke auf den Ringträger zu legen (oder 2 Lastmarken, wenn Aragorn, Gandalf oder Théoden getötet wird).'
+  lore: Wo war jetzt der Ringträger? Wie dünn war der Faden, an dem das Schicksal noch hing!
+fr:
+  title: Par-Delà les Montagnes Noires
+  subtitle: ''
+  text: '**Réponse :** Si un compagnon ou un allié est tué, affaiblissez un séide :isengard: pour ajouter un point-fardeau (ou 2 points-fardeau si Aragorn, Gandalf ou Théoden est tué).'
+  lore: 'Où était maintenant le Porteur de l''Anneau? Qu''il était donc ténu le fil auquel était encore suspendu le Destin! '
+it:
+  title: Oltre le Montagne Oscure
+  subtitle: ''
+  text: '**Risposta:** Se un compagno o un alleato è ucciso, sforza un servitore :isengard: per aggiungere un segnalino fardello (o 2 segnalini fardello se Aragorn, Gandalf, o Théoden è ucciso).'
+  lore: Dov'era il Portatore dell'Anello? Com'era davvero fragile il filo da cui pendeva il loro destino!
+es:
+  title: Tras Montañas Oscuras
+  subtitle: ''
+  text: '**Respuesta:** Si un compañero o un aliado muere, esfuerza un siervo :isengard: para añadir una carga (o 2 cargas si Aragorn, Gandalf o Théoden muere).'
+  lore: ¿Dónde estaba ahora el Portador del Anillo? ¡Qué frágil era el hilo del que pendía aún el destino!

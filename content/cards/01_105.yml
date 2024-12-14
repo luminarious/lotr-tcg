@@ -1,0 +1,39 @@
+set: '1'
+rarity: U
+number: '105'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Foes of Mordor
+  subtitle: ''
+  text: |-
+
+    **Maneuver:** Exert a :gondor: character to wound a :sauron: minion.
+  lore: Through the long years, the Men of The Tower of Guard have shielded the West from the minions of the Eye.
+de:
+  title: Die Feinde Mordors
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Manöver:** Strenge einen :gondor: Charakter an, um einen :sauron: Diener zu verwunden.'
+  lore: All die Jahre haben die Männer des Wachenden Turms den Westen vor den Schergen des Auges bewahrt.
+fr:
+  title: Ennemis du Mordor
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un personnage :gondor: pour blesser un séide :sauron:.'
+  lore: Au fil des ans, les Hommes de la Tour de Garde ont protégé l'Ouest des séides de l'*il.
+it:
+  title: Nemici di Mordor
+  subtitle: ''
+  text: |-
+
+    **Manovra:** Sforza un personaggio :gondor: per ferire un servitore :sauron:.
+  lore: Per lunghi anni, gli Uomini della Torre di Guardia hanno protetto l'Ovest dai servi dell'Occhio.
+es:
+  title: Enemigos de Mordor
+  subtitle: ''
+  text: |-
+
+    **Maniobra:** Esfuerza un personaje :gondor: para herir un siervo :sauron:.
+  lore: A través de largos años los Hombres de la Guardia de la Torre han protegido el Oeste de los siervos del Ojo.

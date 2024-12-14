@@ -1,0 +1,21 @@
+set: '7'
+rarity: U
+number: '203'
+unique: true
+culture: Wraith
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+1'
+en:
+  title: Nazgûl Scimitar
+  subtitle: ''
+  text: |-
+    Bearer must be a :wraith: minion.   
+    While you can spot 5 threats, bearer is **damage +1**.
+  lore: ''
+de:
+  title: Krummsäbel der Nazgûl
+  subtitle: ''
+  text: 'Muss auf einen :wraith: Diener gespielt werden. Solange du 5 Bedrohungen entdecken kannst, erhält der Träger **Schaden +1**.'
+  lore: …kleine, schwarze Gestalten, eine Reihe hinter der anderen…

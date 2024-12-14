@@ -1,0 +1,23 @@
+set: '13'
+rarity: R
+number: '49'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Gladden Homestead
+  subtitle: ''
+  text: |-
+    To play, spot Sméagol.  
+    When you play this, add a :gollum: token here for each :gollum:card you can spot.   
+    **Maneuver:** Discard this from play or remove 2 tokens from here to spot a Shadow condition and place that condition on top of its owner’s draw deck.
+  lore: ''
+de:
+  title: Heimstätte am Schwertel
+  subtitle: ''
+  text: |-
+    Entdecke Sméagol, um diesen Effekt zu spielen. Lege eine :gollum: Marke für jede :gollum: Karte, die du entdecken kannst, auf diese Karte, wenn du sie spielst.  
+    **Manöver:** Lege diesen Effekt ab oder entferne hier 2 Marken, um einen Schatten-effekt zu entdecken und diesen oben auf das Spieldecks seines Besitzers zu legen.
+  lore: ''

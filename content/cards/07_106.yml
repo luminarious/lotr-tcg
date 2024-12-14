@@ -1,0 +1,17 @@
+set: '7'
+rarity: C
+number: '106'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Ingold
+  subtitle: ''
+  text: |-
+    **Knight.**   
+    **Fellowship:** Discard a fortification to heal Ingold twice.
+  lore: ''

@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '346'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: Moria Lake
+  subtitle: ''
+  text: '**Marsh.** When the fellowship moves to Moria Lake, Frodo or 2 other companions must exert.'
+  lore: ''
+de:
+  title: Stausee von Moria
+  subtitle: ''
+  text: '**Sumpf.** Wenn die Gemeinschaft den Stausee von Moria erreicht, strenge Frodo oder 2 beliebige andere Gefährten an.'
+  lore: ''
+fr:
+  title: Lac de la Moria
+  subtitle: ''
+  text: '**Marais.** Quand la compagnie se déplace jusqu’au Lac de la Moria, Frodon ou 2 autres compagnons doivent être affaiblis.'
+  lore: ''
+it:
+  title: Lago di Moria
+  subtitle: ''
+  text: '**Palude.** Quando la Compagnia si muove verso il Lago di Moria, Frodo o altri 2 compagni devono sforzarsi.'
+  lore: ''
+es:
+  title: Lago de Moria
+  subtitle: ''
+  text: '**Pantano.** Cuando la comunidad se mueve al Lago de Moria, Frodo o otros 2 compañeros deben esforzarse.'
+  lore: ''

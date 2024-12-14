@@ -1,0 +1,21 @@
+set: '8'
+rarity: C
+number: '75'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Morgul Creeper
+  subtitle: ''
+  text: While you can spot 3 burdens, the minion archery total is +2.
+  lore: ''
+de:
+  title: Widerlicher Morgulork
+  subtitle: ''
+  text: Solange du 3 Lastmarken entdecken kannst, erhöht sich der Fernkampfwert der Diener um 2.
+  lore: Schlachtet alle nieder.

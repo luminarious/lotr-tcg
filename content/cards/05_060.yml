@@ -1,0 +1,43 @@
+set: '5'
+rarity: U
+number: '60'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Siege Engine
+  subtitle: ''
+  text: |-
+    **Machine.**   
+    **Shadow:** Play an Uruk-hai to place an :isengard: token on a machine.  
+    **Response:** If one or more machines are about to be discarded by an opponent, discard this condition to prevent that.
+  lore: Ropes… were hurled over the parapet….
+de:
+  title: Belagerungsmaschine
+  subtitle: ''
+  text: '**Kriegsmaschine.** **Schatten:** Spiele einen Uruk-hai, um eine :isengard: Marke auf eine Kriegsmaschine zu legen. **Reaktion:** Wenn eine oder mehrere Kriegsmaschinen durch einen Gegenspieler abgelegt werden, lege diesen Effekt ab, um dies zu verhindern.'
+  lore: ''
+fr:
+  title: Pièce de Siège
+  subtitle: ''
+  text: |-
+    **Machine.**   
+    **Ombre :** Jouez un Ourouk-Haï pour déposer un jeton :isengard: sur une machine.   
+    **Réponse :** Si une ou plusieurs machines sont sur le point d’être défaussées par un adversaire, défaussez cette situation pour empêcher ceci.
+  lore: 'Des cordes… étaient lancées par-dessus le pararpet… '
+it:
+  title: Macchina d'Assedio
+  subtitle: ''
+  text: |-
+    **Macchina da Guerra.** **Ombra:** Gioca un Uruk-hai per piazzare un segnalino :isengard: su una **Macchina da Guerra.**  
+    **Risposta:** Se una o più macchine da guerra stanno per essere scartate da un avversario, scarta questa condizione per prevenire questo effetto.
+  lore: Corde… venivano lanciate al di qua del parapetto…
+es:
+  title: Máquina de Asedio
+  subtitle: ''
+  text: |-
+    **Máquina.** ****Sombra:**** Juega un Uruk-hai para poner un contador :isengard: en una **Máquina.**   
+    **Respuesta:** Si un oponente va a descartar una o más máquinas, descarta esta condición para prevenir esto.
+  lore: Cuerdas…por encima de los parapetos.

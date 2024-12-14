@@ -1,0 +1,38 @@
+set: '4'
+rarity: C
+number: '252'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 1
+str: '3'
+vit: '1'
+site: 4
+en:
+  title: Southron Scout
+  subtitle: ''
+  text: '**Southron.** **Ambush** :twilight2:. '
+  lore: ‘They have black eyes, and long black hair, and gold rings in their ears….’
+de:
+  title: Späher der Südländer
+  subtitle: ''
+  text: '**Südländer.** **Hinterhalt** :twilight2:**.**'
+  lore: Sie haben schwarze Augen und langes schwarzes Haar und goldene Ringe in den Ohren….
+fr:
+  title: Éclaireur Suderon
+  subtitle: ''
+  text: '**Suderon.** **Embuscade** :twilight2:**.**'
+  lore: 'Ils ont un aspect féroce. Ils ont les yeux noirs, de longs cheveux noirs, et des boucles d''or aux oreilles…” '
+it:
+  title: Guida Sudrone
+  subtitle: ''
+  text: |-
+    **Sudrone.**  
+    **Imboscata** :twilight2:.
+  lore: ‘Hanno occhi neri, e lunghi capelli neri, e cerchi d'oro alle orecchie…’
+es:
+  title: Avanzado Sureño
+  subtitle: ''
+  text: '**Sureño.** **Emboscar** :twilight2:.'
+  lore: Tienen los ojos negros, largos cabellos negros y aros de oro en las orejas…

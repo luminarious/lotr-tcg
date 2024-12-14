@@ -1,0 +1,33 @@
+set: '5'
+rarity: U
+number: '48'
+unique: true
+culture: Isengard
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Black Shapes Crawling
+  subtitle: ''
+  text: '**Maneuver:** Spot X Uruk-hai. The Free Peoples player may assign X wounds to your minions. Play X :isengard: weapons from your discard pile.'
+  lore: Some were squat and broad, some were tall and grim, with high helms and sable shields.
+de:
+  title: Wimmelnde schwarze Gestalten
+  subtitle: ''
+  text: '**Manöver:** Entdecke X Uruk-hai. Der Freie Völker Spieler darf deinen Dienern X Wunden zufügen. Spiele X :isengard: Waffen aus deinem Ablagestapel.'
+  lore: … einige waren untersetzt und breit, andere hochgewachsen und grimmig mit hohen Helmen und schwarzen Schilden.
+fr:
+  title: Des Formes Noires Qui Fourmillent
+  subtitle: ''
+  text: '**Manœuvre :** Désignez X Ourouk-Haï. Le joueur des Peuples Libres peut distribuer X blessures à vos séides. Jouez X armes :isengard: de votre pile de défausse.'
+  lore: Certains étaient larges et trapues, les autres grandes et sinistres, avec des hauts casques et des boucliers noirs.
+it:
+  title: Nere Figure Striscianti
+  subtitle: ''
+  text: '**Manovra:** Avvista X Uruk-hai. Il giocatore dei Popoli Liberi può assegnare X ferite ai tuoi servitori. Gioca X armi :isengard: dalla tua pila degli scarti.'
+  lore: Alcuni erano bassi e tarchiati, altri grandi e crudeli, con grossi elmi e cupi scudi.
+es:
+  title: Siluetas Oscuras Arrastrándose
+  subtitle: ''
+  text: '**Maniobra:** Avista X Uruk-hai. El jugador de Gentes Libres puede asignar X heridas a tus siervos. Juega X armas :isengard: de tu pila de descartes.'
+  lore: Algunos eran anchos y achaparrados, otros altos y terribles, con altos yelmos y escudos negros.

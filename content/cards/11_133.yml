@@ -1,0 +1,21 @@
+set: '11'
+rarity: R
+number: '133'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Orkish Worker
+  subtitle: ''
+  text: 'When you play this minion, you may spot another :orc: minion to reveal the top card of the Free Peoples player’s deck. If it is a Shadow card, add :twilightX:, where X is its twilight cost.'
+  lore: Saruman’s Orcs labor day and night to provide him with the resources he needs to wage war.
+de:
+  title: Orkischer Arbeiter
+  subtitle: ''
+  text: 'Wenn du diesen Diener spielst, darfst du einen anderen :orc: Diener entdecken, um die oberste Karte vom Spieldeck des Freie Völker Spielers aufzudecken. Handelt es sich um eine Schattenkarte, erhöhe den Einfluss um :twilightX: wobei X den Zwielichtkosten der aufgedeckten Karte entspricht.'
+  lore: ''

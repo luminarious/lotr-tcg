@@ -1,0 +1,40 @@
+set: '5'
+rarity: C
+number: '61'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '8'
+vit: '2'
+site: 5
+en:
+  title: Uruk Engineer
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    When you play this minion, you may place an :isengard: token on a machine.
+  lore: Trained Uruk-hai operated Saruman’s siege engines at Helm’s Deep.
+de:
+  title: Uruk Maschinist
+  subtitle: ''
+  text: '**Schaden +1**. Wenn du diesen Diener spielst, darfst du eine :isengard: Marke auf eine Kriegsmaschine legen.'
+  lore: Ausgebildete Uruk-hai bedienten Sarumans Belagerungsmaschinen in Helms Klamm.
+fr:
+  title: Ingénieur Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**   
+    Quand vous jouez ce séide, vous pouvez déposer un jeton :isengard: sur une machine.
+  lore: Au Gouffre de Helm, les Ourouk-Haï entraînés actionnaient les pièces de siège de Saroumane.
+it:
+  title: Geniere Uruk
+  subtitle: ''
+  text: '**Danno +1.** Quando giochi questo servitore, puoi piazzare un segnalino :isengard: su una **Macchina da Guerra.**'
+  lore: Gli Uruk-hai più addestrati usavano le macchine d'assedio di Saruman al Fosso di Helm
+es:
+  title: Ingeniero Uruk
+  subtitle: ''
+  text: '**Daño +1.** Cuando juegas este siervo, puedes poner un contador :isengard: en una **Máquina.**'
+  lore: Uruk-hai entrenados manipulaban las máquinas de asedio de Saruman en el Abismo de Helm.

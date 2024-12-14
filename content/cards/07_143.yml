@@ -1,0 +1,25 @@
+set: '7'
+rarity: R
+number: '143'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Easterling Footman
+  subtitle: ''
+  text: |-
+    **Easterling.**   
+    **Maneuver:** If you cannot spot 2 burdens, spot another Easterling and discard a card from hand to add a burden.
+  lore: ''
+de:
+  title: Fußsoldat der Ostlinge
+  subtitle: ''
+  text: |-
+    **Ostling.**   
+    **Manöver:** Wenn du keine 2 Lastmarken entdecken kannst, entdecke einen anderen Ostling und lege eine Karte aus deiner Hand ab, um eine Lastmarke auf den Ringträger zu legen.
+  lore: …wie auch so viele im Osten.

@@ -1,0 +1,36 @@
+set: '5'
+rarity: U
+number: '105'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Orc Fighter
+  subtitle: ''
+  text: '**Regroup:** Spot a :sauron: condition and exert this minion to take control of a site.'
+  lore: The Orcs of Mordor extended the will of Sauron to control the weak Men of the East.
+de:
+  title: Orkkämpfer
+  subtitle: ''
+  text: '**Sammeln:** Entdecke einen :sauron: Effekt und strenge diesen Diener an, um einen Ort zu kontrollieren.'
+  lore: Die Orks von Mordor führten Seinen Willen aus, die Menschen des Ostens zu beherrschen.
+fr:
+  title: Combattant Orque
+  subtitle: ''
+  text: '**Ralliement :** Désigner une situation :sauron: et affaiblissez ce séide pour prendre le contrôle d’un site.'
+  lore: Les Orques du Mordor étendaient la volonté de Sauron pour contrôler les faibles Hommes de l'Est.
+it:
+  title: Combattente Orco
+  subtitle: ''
+  text: '**Raccolta:** Avvista una condizione :sauron: e sforza questo servitore per prendere il controllo di un sito.'
+  lore: Gli Orchi di Mordor realizzavano la volontà di Sauron di controllare i deboli Uomini dell'Est.
+es:
+  title: Luchador Orco
+  subtitle: ''
+  text: '**Reagrupación:** Avista una condición :sauron: y esfuerza este siervo para tomar el control de un sitio.'
+  lore: Los Orcos de Mordor extendían la voluntad de Sauron de controlar los débiles Hombres del Este.

@@ -1,0 +1,41 @@
+set: '2'
+rarity: C
+number: '10'
+unique: true
+culture: Dwarven
+type: Possession
+class: Hand Weapon
+cost: 0
+str: '+1'
+en:
+  title: Hand Axe
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf.  
+    This weapon may be borne in addition to 1 other hand weapon.  
+    **Archery:** Discard this weapon to make the fellowship archery total +1. 
+  lore: Their captain rallied two other orcs to attack. In answer, Gimli’s side axe brought him down.
+de:
+  title: Handaxt
+  subtitle: ''
+  text: Muss auf einen Zwerg gespielt werden. Diese Waffe darf zusätzlich zu einer weiteren Handwaffe benutzt werden. **FernKampf** Lege diese Waffe ab, um den Fernkampfwert der Gemeinschaft um 1 zu erhöhen.
+  lore: Ihr Anführer trieb zwei weitere Orks zum Angriff. Im Gegenzug wurde er von Gimlis zweiter Axt erschlagen.
+fr:
+  title: Hachette de Main
+  subtitle: ''
+  text: Le détenteur doit être un Nain. Cette arme peut être portée en plus d’une autre arme de mêlée. **Archerie :** Défaussez cette arme pour augmenter le total d’archerie de la compagnie de +1.
+  lore: Leur capitaine lança deux autres orques à l'attaque. En guise de réponse, Gimli lui lança sa hachette de main.
+it:
+  title: Ascia
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Nano. Quest’arma può essere trasportata in aggiunta a un’altra arma da mischia.   
+    **Arcieri:** Scarta quest’arma per aggiungere +1 al totale degli arcieri della Compagnia.
+  lore: Il loro capitano incitò altri due Orchi ad attaccare. Per tutta risposta, l'ascia al fianco di Gimli lo abbatté.
+es:
+  title: Hacha de mano
+  subtitle: ''
+  text: |-
+    El portador debe ser un Enano. Este arma puede ser llevada además de otro arma de mano.   
+    **Arquería:** Descarta este arma para que el total de arquería de la comunidad sea +1.
+  lore: El capitán ordenó atacar a dos orcos más. Como respuesta, el hacha de Gimli lo tumbó.

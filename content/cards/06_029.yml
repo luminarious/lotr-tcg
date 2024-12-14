@@ -1,0 +1,33 @@
+set: '6'
+rarity: C
+number: '29'
+unique: true
+culture: Gandalf
+type: Condition
+cost: 1
+str: '+2'
+en:
+  title: Ent Moot
+  subtitle: ''
+  text: To play, exert an unbound Hobbit. Bearer must be an Ent. Limit 1 per bearer.
+  lore: But when the Ents all gathered round Treebeard,… then the Hobbits saw that they were all of the same kindred, and all had the same eyes….
+de:
+  title: Entthing
+  subtitle: ''
+  text: Strenge einen nicht-verbundenen Hobbit an, um diese Karte auf einen Ent zu spielen. Maximal 1 pro Ent.
+  lore: Aber als sich alle Ents um Baumbart geschart hatten,… sahen die Hobbits, dass sie alle zur selben Familie gehörten und alle dieselben Augen hatten…
+fr:
+  title: L'Assemblée
+  subtitle: ''
+  text: Pour jouer, affaiblissez un Hobbit dissocié. Le détenteur doit être un Ent. Limite de 1 par détenteur.
+  lore: 'Mais quand ils furent tous rassemblés autour de Sylvebarbe… les Hobbits virent qu''ils étaient tous de même nature et que tous avaient les mêmes yeux. '
+it:
+  title: Entaconsulta
+  subtitle: ''
+  text: Per giocarla, sforza un Hobbit Non Legato. Il possessore deve essere un Ent. Limite 1 per possessore.
+  lore: Ma quando gli Ent si radunarono tutt'intorno a Barbalbero,… gli Hobbit videro che appartenevano tutti alla stessa stirpe, ed avevano tutti i medesimi occhi….
+es:
+  title: Cámara de los Ents
+  subtitle: ''
+  text: Para jugarla, esfuerza un Hobbit no-vinculado. El portador debe ser un Ent. Límite 1 por portador.
+  lore: Pero los Ents se reunieron todos entorno a Bárbol…y vieron entonces los Hobbits que todos estaban emparentados, que todos tenían los mismos ojos…

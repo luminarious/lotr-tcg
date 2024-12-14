@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '354'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Hornburg Armory
+  subtitle: ''
+  text: '**Sanctuary.** **Fellowship:** Play a possession to draw a card. '
+  lore: ''
+de:
+  title: Waffenkammer der Hornburg
+  subtitle: ''
+  text: '**Zuflucht.** **Gemeinschaft.** Wenn du eine Ausrüstung spielst, ziehe eine Karte.'
+  lore: ''
+fr:
+  title: Entrée de Caverne
+  subtitle: ''
+  text: '**Sanctuaire.** **Compagnie :** Jouez une possession pour piocher une carte.'
+  lore: ''
+it:
+  title: Armeria del Trombatorrione
+  subtitle: ''
+  text: '**Rifugio.** **Compagnia:** Gioca un bene per pescare una carta.'
+  lore: ''
+es:
+  title: Armería De Cuernavilla
+  subtitle: ''
+  text: '**Santuario.** **Comunidad:** Juega una posesión para robar una carta.'
+  lore: ''

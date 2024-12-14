@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '26'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Theoden
+en:
+  title: Legolas
+  subtitle: Nimble Warrior
+  text: |-
+    **Archer.**   
+    **Archery:** If you cannot spot a threat, add a threat to make the fellowship archery total +1.
+  lore: ''

@@ -1,0 +1,37 @@
+set: '4'
+rarity: U
+number: '47'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: From the Armory
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    **Skirmish:** Exert a Dwarf and stack a Free Peoples card from hand here to prevent all wounds to that Dwarf. 
+  lore: ‘It’s a bit tight around the chest.’
+de:
+  title: Aus der Waffenkammer
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. **Kampf** Strenge einen Zwerg an und lagere eine Karte der Freien Völker aus deiner Hand auf diesem Effekt, um bei diesem Zwerg alle Wunden zu verhindern.
+  lore: Es spannt ein wenig um die Brust.
+fr:
+  title: De l'Armurerie
+  subtitle: ''
+  text: '**Combat :** Affaiblissez un Nain et empilez ici une carte des Peuples Libres de votre main pour empêcher toute blessure envers ce Nain.'
+  lore: 'C''est un peu serré autour de la poitrine.” '
+it:
+  title: Dall'Armeria
+  subtitle: ''
+  text: |-
+
+    **Schermaglia:** Sforza un Nano e impila qui una carta dei Popoli Liberi dalla mano per prevenire tutte le ferite a quel Nano.
+  lore: ‘E’ un po’ stretta sul torace.’
+es:
+  title: De La Armería
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza un Enano y apila una carta de Gentes Libres de tu mano aquí para prevenir todas las heridas a ese Enano.'
+  lore: Está un poco ajustado alrededor del pecho.

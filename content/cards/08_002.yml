@@ -1,0 +1,18 @@
+set: '8'
+rarity: R
+number: '2'
+unique: true
+culture: Dwarven
+type: Event
+class: Regroup
+cost: 1
+en:
+  title: Battle in Earnest
+  subtitle: ''
+  text: Spot a Dwarf who is damage +X to place X wounds on minions.
+  lore: ‘…they laughed when they looked on us, for they were a great army still.’
+de:
+  title: Eine ernsthafte Schlacht
+  subtitle: ''
+  text: Entdecke einen Zwerg mit Schaden +X, um X Wunden auf Dienern zu verteilen.
+  lore: … sie lachten, als sie uns anschauten, denn sie waren immer noch ein großes Heer.

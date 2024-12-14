@@ -1,0 +1,18 @@
+set: '13'
+rarity: S
+number: '74'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Rally the Company
+  subtitle: ''
+  text: 'Make a :gondor: companion strength +2 (or +4 if that companion has resistance 6 or more). '
+  lore: Aragorn was able to keep the way open for escape from the Chamber of Mazarbul.
+de:
+  title: Vereinte Gemeinschaft
+  subtitle: ''
+  text: 'Gib einem :gondor: Gefährten Stärke +2 (oder +4, wenn dieser Gefährte eine Resistenz von 6 oder mehr hat).'
+  lore: Aragorn schaffte es die Tür in der Kammer von Mazarbul so lange offen zu halten, bis alle geflüchtet waren.

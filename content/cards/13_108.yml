@@ -1,0 +1,20 @@
+set: '13'
+rarity: R
+number: '108'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Forced March
+  subtitle: ''
+  text: |-
+    To play, spot 2 :orc: minions.  
+    **Regroup:** Make the Free Peoples player spot another :orc: condition, discard it from play, and remove :twilight3: to make the Free Peoples player choose to move again this turn (if the move limit allows). Discard this condition.
+  lore: Orcs do not rest.
+de:
+  title: Gewaltmarsch
+  subtitle: ''
+  text: 'Entdecke 2 :orc: Diener, um diesen Effekt zu spielen.**Sammeln:** Zwinge den Freie Völker Spieler, einen anderen :orc: Effekt zu entdecken. Lege diesen ab und verringere den Einfluss um :twilight3:, damit sich der Freie Völker Spieler in diesem Zug noch einmal bewegt (sofern die Bewegungsweite dies zulässt). Lege diesen Effekt ab.'
+  lore: ''

@@ -1,0 +1,33 @@
+set: '2'
+rarity: R
+number: '39'
+unique: true
+culture: Isengard
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Beyond the Height of Men
+  subtitle: ''
+  text: '**Maneuver:** Exert an Uruk-hai to discard an armor possession, helm possession, or shield possession (or all such Free Peoples possessions if you can spot 6 companions). '
+  lore: ‘Whom do you serve?’
+de:
+  title: Größer als ein Mensch
+  subtitle: ''
+  text: '**Manöver:** Strenge einen Uruk-hai an, um eines der folgenden Ausrüstungsteile abzulegen: Schild, Rüstung, Helm (oder alle solche Ausrüstungsteile der Freien Völker, wenn du 6 Gefährten entdecken kannst).'
+  lore: Wem hast du die Treue geschworen?
+fr:
+  title: Plus Grand Qu'un Homme
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Ourouk-Haï pour défausser une possession de type armure, heaume ou bouclier (ou toutes les possessions de ces types du joueur des Peuples Libres si vous pouvez désigner 6 compagnons).'
+  lore: 'Qui sers-tu?” '
+it:
+  title: Oltre l'Altezza degli Uomini
+  subtitle: ''
+  text: '**Manovra:** Sforza un Uruk-hai per scartare un bene armatura, un bene elmo, o un bene scudo (o tutti questi beni dei Popoli Liberi se puoi avvistare 6 compagni).'
+  lore: ‘E chi servite, voi?’
+es:
+  title: Por encima de la estatura de los hombres
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un Uruk-hai para descartar una posesión armadura, una posesión yelmo o una posesión escudo (o todas esas posesiones de Gentes Libres si puedes avistar 6 compañeros).'
+  lore: ¿A quién sirves?

@@ -1,0 +1,36 @@
+set: '6'
+rarity: R
+number: '57'
+unique: true
+culture: Isengard
+type: Minion
+race: Man
+cost: 5
+str: '9'
+vit: '3'
+site: 3
+en:
+  title: Agents of Orthanc
+  subtitle: ''
+  text: This minion is strength +2 and **damage +1** for each Free Peoples culture that you can spot over 2.
+  lore: ‘How long is it since Saruman bought you?’
+de:
+  title: Spione Orthancs
+  subtitle: ''
+  text: Dieser Diener erhält Stärke +2 und ist **Schaden +1** für jede verschiedene Kultur der Freien Völker über 2, die du entdecken kannst.
+  lore: Wie lange ist es her, dass Saruman dich gekauft hat?
+fr:
+  title: Agents d'Orthanc
+  subtitle: ''
+  text: Ce séide a +2 en force et inflige des **dégâts +1** pour chaque chaque culture des Peuples Libres que vous pouvez désigner au delà de 2.
+  lore: 'Depuis combien de temps Saroumane t''a-t-il acheté ?” '
+it:
+  title: Agenti di Orthanc
+  subtitle: ''
+  text: Aggiungi +2 alla forza e **Danno +1** a questo servitore per ogni cultura dei Popoli Liberi che puoi avvistare oltre 2.
+  lore: ‘Da quanto tempo ti sei venduto a Saruman?’
+es:
+  title: Agentes de Orthanc
+  subtitle: ''
+  text: Este siervo es fuerza +2 y **daño +1** por cada cultura de gentes libres que puedas avistar por encima de 2.
+  lore: ¿Cuánto hace que Saruman te compró?

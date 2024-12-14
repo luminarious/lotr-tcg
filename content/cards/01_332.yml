@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '332'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Left
+en:
+  title: Midgewater Marshes
+  subtitle: ''
+  text: '**Marsh.** Each time a Hobbit moves to Midgewater Marshes, that Hobbit must exert.'
+  lore: ''
+de:
+  title: Mückenwassermoore
+  subtitle: ''
+  text: '**Sumpf.** Jedesmal, wenn ein Hobbit die Mückenwassermoore betritt, strenge diesen an.'
+  lore: ''
+fr:
+  title: Marais de l'Eau-aux-Cousins
+  subtitle: ''
+  text: '**Marais.** Chaque fois qu’un Hobbit se déplace vers les Marais de l’Eau-aux-Cousins, ce Hobbit doit être affaibli.'
+  lore: ''
+it:
+  title: Paludi Chiane Ditteri
+  subtitle: ''
+  text: '**Palude.** Ogni volta che un Hobbit si muove verso Paludi Chiane Ditteri, quell’Hobbit deve sforzarsi.'
+  lore: ''
+es:
+  title: Pantanos de Moscagua
+  subtitle: ''
+  text: '**Pantano.** Cada vez que un hobbit se mueve a los Pantanos de Moscagua, ese Hobbit debe esforzarse.'
+  lore: ''

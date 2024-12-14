@@ -1,0 +1,21 @@
+set: '7'
+rarity: U
+number: '187'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 4
+str: '10'
+vit: '1'
+site: 4
+en:
+  title: Morgul Brawler
+  subtitle: ''
+  text: While the Ring-bearer is exhausted, this minion is strength +3, fierce and **damage +1**.
+  lore: ''
+de:
+  title: Morgul Prügler
+  subtitle: ''
+  text: Solange der Ringträger erschöpft ist, erhält dieser Diener Stärke +3, **Schaden +1** und ist **erbittert**.
+  lore: ''

@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '352'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Caves of Aglarond
+  subtitle: ''
+  text: '**Underground.** **Sanctuary.** **Maneuver:** Spot your Uruk-hai and remove :twilight2: to make one of your Uruk-hai **fierce** until the regroup phase. '
+  lore: ''
+de:
+  title: Die Höhlen von Aglarond
+  subtitle: ''
+  text: '**Unterirdisch.** **Zuflucht.** **Manöver:** Verringere den Einfluss um :twilight2:, um einen deiner Uruk-hai bis zur Sammelphase **Erbittert** zu machen.'
+  lore: ''
+fr:
+  title: Les Cavernes d'Aglarond
+  subtitle: ''
+  text: '**Souterrain.** **Sanctuaire.** **Manœuvre :** Retirez :twilight2: pour rendre l’un de vos Ourouk-Haï **acharné** jusqu’à la phase de ralliement.'
+  lore: ''
+it:
+  title: Caverne d'Aglarond
+  subtitle: ''
+  text: '**Sotterraneo.** **Rifugio.** **Manovra:** Rimuovi :twilight2: per rendere **Feroce** uno dei tuoi Uruk-hai fino alla fase di raccolta.'
+  lore: ''
+es:
+  title: Cuevas De Aglarond
+  subtitle: ''
+  text: '**Subterráneo.** **Santuario.** **Maniobra:** Quita :twilight2: para dar a uno de tus Uruk-hai **fiero** hasta la fase de reagrupación.'
+  lore: ''

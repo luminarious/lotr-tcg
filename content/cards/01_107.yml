@@ -1,0 +1,35 @@
+set: '1'
+rarity: C
+number: '107'
+unique: true
+culture: Gondor
+type: Possession
+class: Shield
+cost: 1
+en:
+  title: Great Shield
+  subtitle: ''
+  text: |-
+    Bearer must be a Man.   
+    The minion archery total is -1.
+  lore: The Kingdom of Gondor has smiths much practiced in creating strong tools of war.
+de:
+  title: Langschild
+  subtitle: ''
+  text: Muss auf einen Menschen gespielt werden. Der Fernkampfwert der Diener verringert sich um 1.
+  lore: Das Königreich Gondor hat viele Schmiede, die in der Kunst geschult sind, gutes Kriegswerkzeug herzustellen.
+fr:
+  title: Grand Bouclier
+  subtitle: ''
+  text: Le détenteur doit être un Homme. Le total d’archerie des séides est de -1.
+  lore: Le Royaume de Gondor a des forgerons plus expérimentés dans la création de solides instruments de guerre.
+it:
+  title: Grande Scudo
+  subtitle: ''
+  text: Il possessore deve essere un Uomo. Sottrai -1 al totale degli arcieri tra i servitori.
+  lore: Il regno di Gondor ha fabbri molto esperti nel creare forti strumenti di guerra.
+es:
+  title: Gran Escudo
+  subtitle: ''
+  text: El portador ha de ser un Hombre. El total de arquería de los siervos es -1.
+  lore: El Reino de Gondor tiene herreros muy hábiles en la creación de poderosas herramientas de guerra.

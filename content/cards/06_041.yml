@@ -1,0 +1,33 @@
+set: '6'
+rarity: R
+number: '41'
+unique: true
+culture: Gollum
+type: Event
+class: Regroup
+cost: 5
+en:
+  title: Master Broke His Promise
+  subtitle: ''
+  text: '**Regroup:** Exert Gollum 3 times to wound each companion. The move limit for this turn is –1.'
+  lore: ‘Kill them! Kill them! Kill them both! And then we take the Precious! We be the Master!’
+de:
+  title: Herr hat sein Versprechen gebrochen
+  subtitle: ''
+  text: '**Sammeln:** Strenge Gollum dreimal an, um jeden Gefährten zu verwunden. Die Bewegungsweite für diesen Spielzug reduziert sich um 1.'
+  lore: Töte ihn, töte ihn. Töte sie beide. Dann nehmen wir den Schatz. Und wir werden der Herr sein.
+fr:
+  title: Le Maître n'a pas Respecté sa Promesse
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez Gollum 3 fois pour blesser chaque compagnon. La limite de déplacement est de –1 pour ce tour.'
+  lore: 'Tue-les, tue-les tous les deux ! Et ensuite on prend le trésor. On sera le Maître !” '
+it:
+  title: Il Padrone ha Rotto la Sua Promessa
+  subtitle: ''
+  text: '**Raccolta:** Sforza Gollum 3 volte per ferire ogni compagno. Sottrai –1 al limite dei movimenti per questo turno.'
+  lore: ‘Uccidili! Uccidili! Uccidili tutti e due! Poi prenderemo il Tesoro, e saremo noi il Padrone!’
+es:
+  title: El amo ha roto su promesa
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza a Gollum 3 veces para herir cada compañero. El límite de movimiento de este turno es –1.'
+  lore: ¡Matarlos! ¡Matarlos! ¡Matarlos a los dos! ¡Tomaremos entonces el Tesoro! ¡Seremos el Amo!

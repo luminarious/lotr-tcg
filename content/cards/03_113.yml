@@ -1,0 +1,35 @@
+set: '3'
+rarity: R
+number: '113'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: The Shire Countryside
+  subtitle: ''
+  text: |-
+    To play, spot 2 :shire: companions.   
+    Each time you remove a burden (except by a Hobbit’s game text), you may heal a companion. 
+  lore: ‘Life in the wide world goes on… scarcely even aware of the existence of hobbits….’
+de:
+  title: Landschaften des Auenlandes
+  subtitle: ''
+  text: 'Entdecke 2 :shire: Gefährten, um diese Karte in deinen Unterstützungsbereich zu spielen. Jedes Mal, wenn du eine Lastmarke entfernst (außer durch den Spieltext eines Hobbits), darfst du einen Gefährten heilen.'
+  lore: Das Leben in der weiten Welt verläuft genauso…. Kaum jemand ist sich bewusst darüber, dass es die Hobbits überhaupt gibt….
+fr:
+  title: La Campagne de la Comté
+  subtitle: ''
+  text: Pour jouer, désigner deux compagnons :shire:. Chaque fois que vous retirez un point-fardeau (sauf grâce au descriptif d’un Hobbit), vous pouvez guérir un compagnon.
+  lore: 'La vie continue dans le grand monde… à peine conscient de l''existence des Hobbits.” '
+it:
+  title: La Campagna della Contea
+  subtitle: ''
+  text: Per giocarla, avvista 2 compagni :shire:. Ogni volta che rimuovi un segnalino fardello (tranne che per il testo di gioco di un Hobbit), puoi curare un compagno.
+  lore: ‘La vita nel grande mondo va avanti… consapevole a malapena dell'esistenza degli Hobbit…’
+es:
+  title: La Campiña de la Comarca
+  subtitle: ''
+  text: Para jugarla, avista 2 compañeros :shire:. Cada vez que quitas una carga (excepto por el texto de juego de un Hobbit), puedes curar un compañero.
+  lore: La vida en el mundo sigue… Bastante ignorante de la existencia de los Hobbits…

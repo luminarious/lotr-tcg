@@ -1,0 +1,20 @@
+set: '4'
+rarity: R
+number: '315'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 2
+str: '3'
+vit: '4'
+res: '5'
+signet: Signet_Frodo
+en:
+  title: Sam
+  subtitle: Frodo's Gardener
+  text: |-
+    **Ring-bound.**  
+    **Fellowship:** Play Sam’s Pack from your draw deck.   
+    **Response:** If Frodo is killed, make Sam the **Ring-bearer (resistance 5).**
+  lore: ‘I am only a hobbit, and gardening’s my job at home, sir, if you understand me….’

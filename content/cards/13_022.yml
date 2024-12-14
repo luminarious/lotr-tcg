@@ -1,0 +1,24 @@
+set: '13'
+rarity: R
+number: '22'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Secluded Homestead
+  subtitle: ''
+  text: |-
+    To play, spot 2 Elves.  
+    When you play this, add an :elven: token here for each forest site and each river site on the adventure path.  
+    **Regroup:** Discard this from play or remove 2 tokens from here to reconcile your hand.
+  lore: ''
+de:
+  title: Abgeschiedene Heimstätte
+  subtitle: ''
+  text: |-
+    Entdecke 2 Elben, um diesen Effekt zu spielen.  
+    Lege eine :elven: Marke für jeden Wald und jeden Fluss auf dem Abenteuerpfad auf diese Karte, wenn du sie spielst.  
+    **Sammeln:** Lege diesen Effekt ab oder entferne hier 2 Marken, um deine Handkarten wieder aufzufüllen.
+  lore: ''

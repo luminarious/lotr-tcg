@@ -1,0 +1,17 @@
+set: '7'
+rarity: C
+number: '72'
+unique: true
+culture: Gollum
+type: Companion
+cost: 0
+str: '3'
+vit: '4'
+signet: Signet_Frodo
+en:
+  title: Sméagol
+  subtitle: Hurried Guide
+  text: |-
+    **Ring-bound.** To play, add a burden.   
+    **Skirmish:** If you have initiative, discard 2 cards from your hand. Sméagol cannot be overwhelmed unless his strength is tripled.
+  lore: ''

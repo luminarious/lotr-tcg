@@ -1,0 +1,35 @@
+set: '4'
+rarity: U
+number: '110'
+unique: true
+culture: Gondor
+type: Event
+class: Archery, Skirmish
+cost: 3
+en:
+  title: Arrows Thick in the Air
+  subtitle: ''
+  text: '**Archery or Skirmish:** Exert 2 Ring-bound Men to wound each roaming minion. '
+  lore: He came to rest in the fern a few feet away, face downward, green arrow-feathers sticking from his neck below a golden collar.
+de:
+  title: Viele Pfeile in der Luft
+  subtitle: ''
+  text: Fernkampf oder **Kampf** Strenge 2 Ring-verbundene Menschen an, um jeden wandernden Diener zu verwunden.
+  lore: Er blieb in dem Farn ein paar Fuß entfernt liegen, das Gesicht nach unten, und grüngefiederte Pfeile staken unter einem goldenen Kragen in seinem Hals.
+fr:
+  title: Volée de Flèches Drue
+  subtitle: ''
+  text: '**Archerie** ou **Combat :** Affaiblissez 2 Hommes associés à l’Anneau pour blesser chaque séide errant.'
+  lore: '… il resta face contre terre, des plumes de flèches vertes saillant de son cou sous un col doré.” '
+it:
+  title: Fitta Pioggia di Frecce
+  subtitle: ''
+  text: |-
+    Arcieri o   
+    **Schermaglia:** Sforza 2 Uomini Legati all’Anello per ferire ogni servitore vagante.
+  lore: ‘Giacque immobile nelle felci a pochi passi di distanza, bocconi, con frecce dalle verdi piume che gli trafiggevano il collo appena più in basso del collare d'oro.’
+es:
+  title: Las Flechas Llenan El Aire
+  subtitle: ''
+  text: '**Arquería** o **Escaramuza:** Esfuerza 2 Hombres Vinculados al Anillo para herir cada siervo que esté vagando.'
+  lore: Cayó de bruces en el helechal, a pocos pies de distancia; unos penachos verdes le sobresalían del cuello por debajo de la gola de oro.

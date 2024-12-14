@@ -1,0 +1,16 @@
+set: '17'
+rarity: R
+number: '58'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 6
+str: '14'
+vit: '3'
+site: 4
+en:
+  title: Sunland Sneak
+  subtitle: ''
+  text: 'This minion is twilight cost -1 for each :men: minion stacked on a :men: possession. '
+  lore: Southron men were always ready for war.

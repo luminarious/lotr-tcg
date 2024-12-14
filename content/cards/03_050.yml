@@ -1,0 +1,33 @@
+set: '3'
+rarity: R
+number: '50'
+unique: true
+culture: Isengard
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Can You Protect Me From Yourself?
+  subtitle: ''
+  text: '**Maneuver:** Spot an :isengard: minion to exhaust Aragorn. The Free Peoples player may add 2 burdens to prevent this. '
+  lore: ‘Where is the Ring?’
+de:
+  title: Kannst du mich auch vor dir selbst schützen?
+  subtitle: ''
+  text: '**Manöver:** Entdecke einen :isengard: Diener, um Aragorn zu erschöpfen. Der Freie Völker Spieler darf 2 Lastmarken auf den Ringträger legen, um dies zu verhindern.'
+  lore: Wo ist der Ring?
+fr:
+  title: Pouvez-Vous Me Protéger de Vous-Même?
+  subtitle: ''
+  text: '**Manœuvre :** Désignez un séide :isengard: pour épuiser Aragorn. Le joueur des Peuples Libres peut ajouter 2 points-fardeau pour prévenir ceci.'
+  lore: 'Où est l''Anneau?” '
+it:
+  title: Puoi Proteggermi da Te Stesso?
+  subtitle: ''
+  text: '**Manovra:** Avvista un servitore :isengard: per rendere esausto Aragorn. Il giocatore dei Popoli Liberi può aggiungere 2 segnalini fardello per prevenirlo.'
+  lore: ‘Dove si trova l'anello?’
+es:
+  title: ¿Me Puedes Proteger de ti mismo?
+  subtitle: ''
+  text: '**Maniobra:** Avista un siervo :isengard: para dejar exhausto a Aragorn. El jugador de Gentes Libres puede añadir dos cargas para prevenir esto.'
+  lore: ¿Dónde está el Anillo?

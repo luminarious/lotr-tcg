@@ -1,0 +1,18 @@
+set: '10'
+rarity: U
+number: '120'
+unique: true
+culture: ''
+type: Site
+cost: 8
+siteArrow: Right
+en:
+  title: Watchers of Cirith Ungol
+  subtitle: ''
+  text: '**Skirmish:** Spot your :wraith: Orc and remove 2 threats to make that :wraith: Orc strength +3. '
+  lore: ''
+de:
+  title: Wachtürme von Cirith Ungol
+  subtitle: ''
+  text: '**Kampf:** Entdecke einen deiner :wraith: Orks und entferne 2 Bedrohungen, um diesem Ork Stärke +3 zu geben.'
+  lore: ''

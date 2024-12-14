@@ -1,0 +1,16 @@
+set: '14'
+rarity: R
+number: '10'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Furious Hillman
+  subtitle: ''
+  text: '**Response:** If the Free Peoples player plays an event, spot another :men: Man and discard this minion from play to cancel that event.'
+  lore: No village pitchfork could provide defense against the rages of the Wild Men.

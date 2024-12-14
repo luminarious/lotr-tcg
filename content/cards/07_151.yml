@@ -1,0 +1,22 @@
+set: '7'
+rarity: U
+number: '151'
+unique: true
+culture: Raider
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Hosts Still Unfought
+  subtitle: ''
+  text: |-
+    To play, spot 2 :raider: Men.   
+    Discard any number of cards from hand. The Free Peoples player then discards any number of cards from hand. For each card you discarded more than the Free Peoples player, add :twilight1:.
+  lore: ''
+de:
+  title: Frische Truppen
+  subtitle: ''
+  text: |-
+    Entdecke 2 :raider: Menschen, um dieses Ereignis zu spielen.   
+    Lege eine beliebige Anzahl von Karten aus deiner Hand ab. Danach legt der Freie Völker Spieler eine beliebige Anzahl von Karten aus seiner Hand ab. Erhöhe den Einfluss um :twilight1: für jede Karte, die du mehr als der Freie Völker Spieler abgelegt hast.
+  lore: ''

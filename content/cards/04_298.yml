@@ -1,0 +1,40 @@
+set: '4'
+rarity: C
+number: '298'
+unique: true
+culture: Shire
+type: Possession
+cost: 1
+en:
+  title: Brace of Coneys
+  subtitle: ''
+  text: |-
+    Bearer must be a Ring-bound Hobbit.  
+    **Fellowship:** Discard this possession to remove a burden. 
+  lore: ‘He let them stew for close on an hour, testing them now and again with his fork, and tasting the broth.’
+de:
+  title: Kaninchenragout
+  subtitle: ''
+  text: Muss auf einen Ring-verbundenen Hobbit gespielt werden. **Gemeinschaft.** Lege diese Ausrüstung ab, um 1 Lastmarke zu entfernen.
+  lore: Er ließ sie fast eine Stunde brutzeln, prüfte sie ab und zu mit der Gabel und kostete die Brühe.
+fr:
+  title: Une Couple de Lapins
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un Hobbit **Associé à l’Anneau.**  
+    **Compagnie :** Défaussez cette possession pour retirer un point-fardeau.
+  lore: 'Il les laissa cuire pendant près d''une heure, en les vérifiant de temps à autre avec sa fourchette et en goûtant le bouillon. '
+it:
+  title: Coppia di Conigli
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Hobbit **Legato all’Anello.**  
+    **Compagnia:** Scarta questo bene per rimuovere un segnalino fardello.
+  lore: Li lasciò cuocere a stufato per quasi un'ora, toccandoli ogni tanto con la forchetta ed assaggiandone il brodo.
+es:
+  title: Guiso De Conejo
+  subtitle: ''
+  text: |-
+    El portador debe ser un Hobbit **Vinculado al Anillo.**   
+    **Comunidad:** Descarta esta posesión para quitar una carga.
+  lore: Los dejó hervir cerca de una hora, pinchándolos de cuando en cuando con el tenedor y probando el caldo.

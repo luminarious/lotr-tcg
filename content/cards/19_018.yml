@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '18'
+unique: true
+culture: Moria
+type: Minion
+race: Balrog
+cost: 14
+str: '17'
+vit: '5'
+site: 4
+en:
+  title: The Balrog
+  subtitle: Demon of Might
+  text: |-
+    **Damage +2. Fierce.**  
+    While at an underground site, skip the archery phase, the maneuver phase, and The Balrog cannot be assigned to skirmish companions of strength 6 or less.
+  lore: The flames roared up to greet it, and wreathed about it…

@@ -1,0 +1,23 @@
+set: '11'
+rarity: C
+number: '204'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 6
+str: '14'
+vit: '3'
+site: 5
+en:
+  title: Tyrannical Uruk
+  subtitle: ''
+  text: '**Damage +1.** **Toil 1.** (For each :urukhai: character you exert when playing this, its twilight cost is –1.)'
+  lore: Huge, terrifying Uruks become tribal leaders.
+de:
+  title: Tyrannischer Uruk
+  subtitle: ''
+  text: |-
+    **Schaden +1.  
+    Mühe 1.** *(Für jeden *:urukhai: *Charakter, den du beim Ausspielen dieses Dieners anstrengst, reduzieren sich dessen Kosten um 1.)*
+  lore: Die größten und schrecklichsten Uruks führen die Stämme an.

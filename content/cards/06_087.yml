@@ -1,0 +1,21 @@
+set: '6'
+rarity: U
+number: '87'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Nertëa
+  subtitle: Winged Hunter
+  text: When you play Úlairë Nertëa, spot another Nazgûl to make the Free Peoples player exert a Ring-bound companion for each Free Peoples culture you can spot over 2.
+  lore: A vast winged shape passed over the moon like a black cloud… The stars fainted before it….
+fr:
+  title: Ùlairë Nertëa
+  subtitle: Chasseur Ailé
+  text: Quand vous jouez Ùlairë Nertëa, désignez un autre Nazgûl pour forcer le joueur des Peuples Libres à affaiblir un compagnon associé à l’Anneau pour chaque culture des Peuples Libres que vous pouvez désigner au delà de 2.
+  lore: 'Une vaste forme ailée passa devant la lune, tel un nuage noir…. Les étoiles s''évanouirent devant elle. '

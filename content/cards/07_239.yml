@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '239'
+unique: true
+culture: Rohan
+type: Ally
+race: Man
+cost: 1
+str: '4'
+vit: '2'
+site: 3T
+en:
+  title: Léowyn
+  subtitle: ''
+  text: |-
+    **Villager.**   
+    **Fellowship:** If you have initiative, discard 2 cards from hand to heal a :rohan: Man.
+  lore: '…when they saw the king they cried with glad voices: ‘Théoden King! Théoden King!'

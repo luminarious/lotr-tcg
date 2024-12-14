@@ -1,0 +1,19 @@
+set: '17'
+rarity: R
+number: '71'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Grishnákh
+  subtitle: Treacherous Captain
+  text: |-
+    **Hunter 2.**  
+    While you can spot an :urukhai: minion, each :orc: Orc gains **hunter 1** (if that :urukhai: minion is Ugluk, each :orc: Orc gains an additional **hunter 1**).  
+    **Shadow:** Exert Grishnákh twice to play an :urukhai: hunter minion from your draw deck.
+  lore: ''

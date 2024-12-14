@@ -1,0 +1,22 @@
+set: '7'
+rarity: C
+number: '65'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Never
+  subtitle: ''
+  text: |-
+    To play, spot Sméagol.   
+    **Regroup:** Discard Sméagol to remove 2 threats.
+  lore: ''
+de:
+  title: Niemals
+  subtitle: ''
+  text: |-
+    Entdecke Sméagol, um diese Karte zu spielen.   
+    **Sammeln:** Lege Sméagol ab, um 2 Bedrohungen zu entfernen.
+  lore: Sméagol würde keiner Fliege etwas zu leide tun.

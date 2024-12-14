@@ -1,0 +1,16 @@
+set: '15'
+rarity: U
+number: '78'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 4
+str: '10'
+vit: '3'
+site: 4
+en:
+  title: Engrossed Hillman
+  subtitle: ''
+  text: 'At the start of the maneuver phase, if you can spot another :men: Man and 8 characters (or if you can spot 3 Free Peoples cultures), you may take control of a site'
+  lore: Years of anger have a tendency to bring focus to one’s rage.

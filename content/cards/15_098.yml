@@ -1,0 +1,16 @@
+set: '15'
+rarity: U
+number: '98'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 5
+str: '12'
+vit: '3'
+site: 4
+en:
+  title: Black Gate Sentry
+  subtitle: ''
+  text: '**Skirmish:** Exert this minion to wound a companion it is skirmishing.'
+  lore: Very few tried to sneak into Mordor. Even fewer succeeded.

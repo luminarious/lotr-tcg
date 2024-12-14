@@ -1,0 +1,44 @@
+set: '4'
+rarity: C
+number: '191'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 6
+str: '12'
+vit: '4'
+site: 5
+en:
+  title: Uruk Rear Guard
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    **Skirmish:** Exert this minion at a battleground to make another Uruk-hai strength +1. 
+  lore: Promised a fair share of plunder, they defended against possible reinforcements.
+de:
+  title: Uruk Nachhut
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    **Kampf** Strenge diesen Diener auf einem Schlachtfeld an, um einem anderen Uruk-hai Stärke +1 zu geben.
+  lore: Sie schützten gegen mögliche Verstärkungen, da ihnen ein gerechter Anteil an der Beute versprochen wurde.
+fr:
+  title: Arrière-Garde Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    **Combat :** Affaiblissez ce séide à un champ de bataille pour donner +1 en force à un autre Ourouk-Haï.
+  lore: Ils montaient la garde contre les renforts – mais seulement parce qu'on leur avait promis une part équitable du butin.
+it:
+  title: Retroguardia Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    **Schermaglia:** Sforza questo servitore presso un campo di battaglia per aggiungere +1 alla forza di un altro Uruk-hai.
+  lore: Dietro la promessa di un buon saccheggio, si difendevano dai possibili rinforzi.
+es:
+  title: Retaguardia Uruk
+  subtitle: ''
+  text: '**Daño +1.** **Escaramuza:** Esfuerza este siervo en un campo de batalla para darle a otro Uruk-hai fuerza +1.'
+  lore: Bajo promesa de una parte justa del saqueo, defendieron contra los posibles refuerzos.

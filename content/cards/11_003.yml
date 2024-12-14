@@ -1,0 +1,21 @@
+set: '11'
+rarity: U
+number: '3'
+unique: true
+culture: Dwarven
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Axe of Khazad-dûm
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf.   
+    While bearer is at a mountain site, he is **Damage +1.** 
+  lore: The Dwarves led by Balin to the great Dwarf-hall of old, though ill-prepared, were well-armed.
+de:
+  title: Axt von Khazad-dûm
+  subtitle: ''
+  text: Muss auf einen Zwerg gespielt werden. An einem Gebirge erhält der Träger **Schaden +1**.
+  lore: Die Zwerge, die von Balin in die große Zwergenhalle von einst geführt wurden, waren schlecht vorbereitet, doch gut bewaffnet.

@@ -1,0 +1,16 @@
+set: '0'
+rarity: P
+number: '49'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '8'
+vit: '3'
+signet: Signet_Gandalf
+en:
+  title: Éomer
+  subtitle: Keeper of Oaths
+  text: '**Valiant.** When you play Éomer (except in your starting fellowship), you may reveal the top 10 cards of your draw deck and play all :rohan: possessions revealed. Shuffle your draw deck.'
+  lore: Siege of Gondor™ Online Launch Party<BR>February 2004

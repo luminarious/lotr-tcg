@@ -1,0 +1,15 @@
+set: '13'
+rarity: O
+number: '199'
+unique: true
+culture: Gandalf
+type: Follower
+cost: 2
+str: '+1'
+en:
+  title: Pallando
+  subtitle: Far-travelling One
+  text: |-
+    **Aid –** :twilight2:.  
+    Each time you transfer this to a companion, except a :gandalf: companion, exert bearer twice. Each time bearer wins a skirmish, you may discard a condition from play.
+  lore: Brought as a companion by Alatar, he traveled the South and East to aid the Free Peoples.

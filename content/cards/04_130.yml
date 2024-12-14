@@ -1,0 +1,46 @@
+set: '4'
+rarity: C
+number: '130'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '6'
+vit: '3'
+en:
+  title: Ranger of Ithilien
+  subtitle: ''
+  text: |-
+    **Ring-bound.** **Ranger.**  
+    When this companion is in your starting fellowship, his twilight cost is -1.   
+    While skirmishing a roaming minion, this companion is strength +2. 
+  lore: …they were goodly men, pale-skinned, dark of hair, with grey eyes and faces sad and proud.
+de:
+  title: Waldläufer aus Ithilien
+  subtitle: ''
+  text: |-
+    **Ring-verbunden.** **Waldläufer.**  
+    Wenn dieser Gefährte Teil deiner Anfangsgemeinschaft ist, reduzieren sich seine Zwielichtkosten um 1. Solange dieser Gefährte gegen einen wandernden Diener kämpft, erhält er Stärke +2.
+  lore: … dass sie stattliche Menschen waren, blasshäutig, dunkelhaarig, mit grauen Augen und traurigen und stolzen Gesichtern.
+fr:
+  title: Rôdeur de L'Ithilien
+  subtitle: ''
+  text: |-
+    **Associé à l’Anneau.** **Rôdeur.**  
+    Lorsque ce compagnon est dans votre compagnie de départ, son coût crépusculaire est de -1. Lorsqu’il combat un séide errant, ce compagnon a +2 en force.
+  lore: '… c''étaient de beaux hommes, à la peau pâle et aux cheveux sombres, avec des yeux gris et un visage triste et fier. '
+it:
+  title: Ramingo dell'Ithilien
+  subtitle: ''
+  text: |-
+    **Legato all’Anello.** **Ramingo.** Quando questo compagno è nella tua compagnia di partenza, sottrai -1 al suo costo **Crepuscolo.**  
+    Mentre sta schermagliando con un servitore vagante, aggiungi +2 alla forza di questo compagno.
+  lore: …erano begli Uomini, dalla pelle chiara e dai capelli scuri, gli occhi grigi e il viso triste e fiero.
+es:
+  title: Montaraz De Ithilien
+  subtitle: ''
+  text: |-
+    **Vinculado al Anillo.** **Montaraz.**  
+    Cuando este compañero está en tu comunidad inicial, su coste de penumbra es -1. Mientras esté en una escaramuza contra un siervo que esté vagando, este compañero es fuerza +2.
+  lore: … eran hombres hermosos, de tez pálida, cabellos oscuros, ojos grises y rostros tristes y orgullosos.

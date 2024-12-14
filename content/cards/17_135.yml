@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '135'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '7'
+vit: '2'
+site: 5
+en:
+  title: White Hand Veteran
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    When you play this minion, if you control a site, you may take an :urukhai: event into hand from your discard pile.
+  lore: To War!

@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '263'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Right
+en:
+  title: West Gate of Moria
+  subtitle: ''
+  text: '**Underground.** When the fellowship moves from this site, remove :twilight2:. '
+  lore: ''
+de:
+  title: Das Westtor von Moria
+  subtitle: ''
+  text: '**Unterirdisch.** Verringere den Einfluss um :twilight2: wenn sich die Gemeinschaft von hier fortbewegt.'
+  lore: ''

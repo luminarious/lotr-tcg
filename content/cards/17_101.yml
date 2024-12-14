@@ -1,0 +1,16 @@
+set: '17'
+rarity: U
+number: '101'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+res: '5'
+en:
+  title: Soldier of Rohan
+  subtitle: ''
+  text: While the Ring-bearer is assigned to a skirmish, this companion is strength +2.
+  lore: For ages, the people of Rohan have been allied to Gondor.

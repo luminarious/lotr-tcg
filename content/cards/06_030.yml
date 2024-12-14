@@ -1,0 +1,16 @@
+set: '6'
+rarity: R
+number: '30'
+unique: true
+culture: Gandalf
+type: Companion
+race: Wizard
+cost: 4
+str: '10'
+vit: '4'
+signet: Signet_Aragorn
+en:
+  title: Gandalf
+  subtitle: Mithrandir
+  text: '**Damage +1.** Each time the fellowship moves, wound Gandalf.'
+  lore: '‘The Dark Lord has Nine. But we have One, mightier than they: the White Rider. He has passed through the fire and the abyss, and they shall fear him.’'

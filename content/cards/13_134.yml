@@ -1,0 +1,18 @@
+set: '13'
+rarity: C
+number: '134'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Ride With Me
+  subtitle: ''
+  text: 'Make your :rohan: companion strength +2 (or exert Théoden to make that companion strength +5 and **damage +1** instead.)'
+  lore: ‘Maybe we shall cleave a road, or make such an end as will be worth a song – if any be left to sing of us hereafter.’
+de:
+  title: Reitet mit mir
+  subtitle: ''
+  text: 'Gib einem deiner :rohan: Gefährten Stärke +2 (oder strenge Théoden an, um diesem Gefährten statt dessen Stärke +5 und **Schaden +1** zu geben.)'
+  lore: Vielleicht werden wir uns einen Weg bahnen oder ein Ende finden, das ein Lied wert sein wird - wenn irgend jemand übrig bleibt, um später von uns zu singen.

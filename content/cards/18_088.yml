@@ -1,0 +1,16 @@
+set: '18'
+rarity: C
+number: '88'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Orkish Defender
+  subtitle: ''
+  text: While the fellowship is at a battleground or underground site, this minion cannot take wounds in the archery phase.
+  lore: '''Many Elves and many mighty Men, and many of their friends, had perished in the war.’'

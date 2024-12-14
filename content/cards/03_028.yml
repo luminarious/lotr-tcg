@@ -1,0 +1,41 @@
+set: '3'
+rarity: C
+number: '28'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Voice of Nimrodel
+  subtitle: ''
+  text: |-
+    **Tale.**   
+    **Skirmish:** Exert an Elf at a river or forest to cancel a skirmish involving that Elf. 
+  lore: ‘Beside the falls of Nimrodel, / By water clear and cool, / Her voice as falling silver fell / Into the shining pool.’
+de:
+  title: Die Stimme des Nimrodel
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    **Kampf** Strenge einen Elben an einem Fluss oder Wald an, um einen Kampf, an dem dieser Elb beteiligt ist, aufzuheben.
+  lore: Am Wasserfall von Nimrodel / Der klar und kühl versprüht / Fiel sie mit ein wie Silber hell / Ins helle Wasserlied.
+fr:
+  title: Voix de Nimrodel
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    **Combat :** Affaiblissez un Elfe à une rivière ou une forêt pour annuler un combat l’impliquant.
+  lore: 'Au bord des cascades de la Nimrodel, / Belle et libre était-elle; / Et dans le vent elle allait aussi légère / Que la feuille de tilleul.” '
+it:
+  title: La Voce di Nimrodel
+  subtitle: ''
+  text: |-
+    **Racconto.**   
+    **Schermaglia:** Sforza un Elfo a un fiume o in una foresta per cancellare una schermaglia che coinvolga quell’Elfo.
+  lore: ‘Nel Nimrodel fra le cascate / Dalle acque chiare e spumeggianti / La sua voce come gocce argentate / Squillava tra i flutti scintillanti.’
+es:
+  title: Voz del Nimrodel
+  subtitle: ''
+  text: '**Cuento.** **Escaramuza:** Esfuerza un Elfo en un río o en un bosque para cancelar una escaramuza en la que esté ese Elfo.'
+  lore: Junto a los saltos del Nimrodel, / cerca del agua clara y fresca, / la voz caía como plata que cae / en el agua brillante.

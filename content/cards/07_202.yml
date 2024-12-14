@@ -1,0 +1,21 @@
+set: '7'
+rarity: U
+number: '202'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 1
+str: '3'
+vit: '1'
+site: 4
+en:
+  title: Morgul Whelp
+  subtitle: ''
+  text: While you can spot a wound on the Ring–bearer, this minion is strength +6.
+  lore: ''
+de:
+  title: Morgul Rabauke
+  subtitle: ''
+  text: Solange du eine Wunde auf dem Ringträger entdecken kannst, erhält dieser Diener Stärke +6.
+  lore: ''

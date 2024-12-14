@@ -1,0 +1,21 @@
+set: '1'
+rarity: C
+number: '306'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+signet: Signet_Frodo
+en:
+  title: Pippin
+  subtitle: Friend to Frodo
+  text: 'Your opponent may not discard your :shire: tales from play.'
+  lore: ‘Baggins? Sure I know a Baggins – Frodo’s my second cousin once-removed, on his mother’s side and my third cousin twice-removed on his father’s side, if you follow me.’
+it:
+  title: Pipino
+  subtitle: Amico di Frodo
+  text: Il tuo avversario non può scartare dal gioco i tuoi racconti :shire:.
+  lore: ‘Baggins? Certo conosco un Baggins – Frodo è il mio secondo cugino di primo grado, e dalla parte di madre è il mio terzo cugino di secondo grado, se mi segui.’

@@ -1,0 +1,22 @@
+set: '13'
+rarity: U
+number: '130'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Hurried Barrows
+  subtitle: ''
+  text: |-
+    You may remove from the game 4 other :rohan: cards in your discard pile to play this event from your discard pile. Then remove this event from the game.  
+    Make your mounted :rohan: companion strength +3.
+  lore: The fallen sleep with honor.
+de:
+  title: Hastig verscharrt
+  subtitle: ''
+  text: |-
+    Du darfst 4 andere :rohan: Karten aus deinem Ablagestapel ganz aus dem Spiel entfernen, um dieses Ereignis aus deinem Ablagestapel zu spielen. Entferne dann dieses Ereignis ganz aus dem Spiel.  
+    Gib einem deiner berittenen :rohan: Gefähr-ten Stärke +3.
+  lore: Die Gefallenen ruhen in Ehre.

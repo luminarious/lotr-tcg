@@ -1,0 +1,36 @@
+set: '1'
+rarity: U
+number: '257'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Morgul Skirmisher
+  subtitle: ''
+  text: '**Maneuver:** Remove :twilight3: to exert a Hobbit (except the Ring-bearer).'
+  lore: The Orcs of Mordor, heartened by the promise of blood and plunder, are dangerous foes in battle.
+de:
+  title: Morgul Plänkler
+  subtitle: ''
+  text: '**Manöver:** Verringere den Einfluss um :twilight3:, um einen Hobbit (ausser dem Ringträger) anzustrengen.'
+  lore: Die Orks von Mordor, durch den Gedanken an Blutvergiessen und Beute beflügelt, sind gefährliche Gegner im Kampf.
+fr:
+  title: Combattant de Morgul
+  subtitle: ''
+  text: '**Manœuvre :** Retirez :twilight3: pour affaiblir un Hobbit (excepté le Porteur de l’Anneau).'
+  lore: Les Orques du Mordor, portés par la promesse de sang et de butin, sont de dangereux ennemis dans la bataille.
+it:
+  title: Schermagliatore
+  subtitle: Orco di Morgul
+  text: '**Manovra:** Rimuovi :twilight3: per sforzare un Hobbit (eccetto il Portatore dell’Anello). Gli Orchi di Mordor, incoraggiati dalla promessa di sangue e bottino, sono nemici pericolosi in battaglia.'
+  lore: ''
+es:
+  title: Hostigador de Morgul
+  subtitle: ''
+  text: '**Maniobra:** Quita :twilight3: para esforzar un Hobbit (excepto el Portador del Anillo).'
+  lore: Los Orcos de Mordor, embravecidos por la promesa de sangre y botín, son enemigos peligrosos en la batalla.

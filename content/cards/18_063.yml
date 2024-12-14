@@ -1,0 +1,17 @@
+set: '18'
+rarity: U
+number: '63'
+unique: true
+culture: Man
+type: Possession
+class: Hand Weapon
+cost: 3
+str: '+2'
+en:
+  title: Corsair Halberd
+  subtitle: ''
+  text: |-
+    Bearer must be a :men: minion.  
+    Bearer is **damage +1**.  
+    **Shadow:** Remove a companion in the dead pile from the game to control a site.
+  lore: Long handled and heavy, a single powerful swing of this weapon could cleave through even some of the thickest armor.

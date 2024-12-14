@@ -1,0 +1,45 @@
+set: '4'
+rarity: U
+number: '138'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '7'
+vit: '3'
+site: 5
+en:
+  title: Band of Uruk Bowmen
+  subtitle: ''
+  text: |-
+    **Archer.** **Damage +1.**  
+    While you control a site, the minion archery total is +1. 
+  lore: Taking the high ground provides a better field of fire.
+de:
+  title: Uruk Schützentrupp
+  subtitle: ''
+  text: |-
+    **Bogenschütze.**  
+    **Schaden +1.**  
+    Solange du einen Ort kontrollierst, erhöht sich der Fernkampfwert der Diener um 1.
+  lore: Ein erhöhter Standpunkt ermöglichte ein besseres Schussfeld.
+fr:
+  title: Troupe d'Archers Ourouks
+  subtitle: ''
+  text: |-
+    **Archer.** **Dégâts +1.**  
+    Tant que vous contrôlez un site, le total d’archerie des séides est de +1.
+  lore: En occupant l'amont du champ de bataille, les archers avaient un meilleur angle de tir.
+it:
+  title: Gruppo di Arcieri Uruk
+  subtitle: ''
+  text: |-
+    **Arciere.** **Danno +1.**  
+    Mentre controlli un sito, aggiungi +1 al totale degli arcieri tra i servitori.
+  lore: Il possesso del terreno elevato fornisce un migliore campo d'attacco.
+es:
+  title: Banda De Arqueros Uruk
+  subtitle: ''
+  text: '**Arquero.** **Daño +1.** Mientras controles un sitio, el total de arquería de los siervos es +1.'
+  lore: Tomar una posición elevada proporciona un mejor campo de tiro.

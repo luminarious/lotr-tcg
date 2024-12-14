@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '29'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+res: '8'
+en:
+  title: Merry
+  subtitle: Resolute Friend
+  text: |-
+    **Fellowship.**  
+    **Skirmish**: If Merry is not assigned to a skirmish, take 2 :shire: cards from your discard pile and remove them from the game to make a companion strength +2.
+  lore: You can trust us to stick to you through thick and thin - to the bitter end.’

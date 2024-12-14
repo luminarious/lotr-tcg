@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '332'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Left
+en:
+  title: Fangorn Forest
+  subtitle: ''
+  text: '**Forest.** **Fellowship:** Play Treebeard from your draw deck. '
+  lore: ''
+de:
+  title: Wald von Fangorn
+  subtitle: ''
+  text: '**Wald.** **Gemeinschaft.** Spiele Baumbart direkt aus deinem Spieldeck.'
+  lore: ''
+fr:
+  title: La Forêt de Fangorn
+  subtitle: ''
+  text: '**Forêt.** **Compagnie :** Jouez Sylvebarbe de votre pioche.'
+  lore: ''
+it:
+  title: Foresta di Fangorn
+  subtitle: ''
+  text: '**Foresta.** **Compagnia:** Gioca Barbalbero dal tuo mazzo di gioco.'
+  lore: ''
+es:
+  title: Bosque De Fangorn
+  subtitle: ''
+  text: '**Bosque.** **Comunidad:** Juega a Bárbol de tu mazo de robar.'
+  lore: ''

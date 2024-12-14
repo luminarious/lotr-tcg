@@ -1,0 +1,33 @@
+set: '6'
+rarity: C
+number: '12'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Agility
+  subtitle: ''
+  text: 'When you play this condition, you may spot an Elf to place 2 :elven: tokens here. **Skirmish:** Discard this condition or remove an :elven: token from here to make a minion skirmishing an Elf strength –1.'
+  lore: Elves rely upon more than strength in combat.
+de:
+  title: Gewandtheit
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Du darfst einen Elben entdecken, um 2 :elven: Marken hierhin zu legen, wenn du sie spielst. **Kampf** Entferne eine :elven: Marke von dieser Karte oder lege diesen Effekt ab, um einem Diener, der gegen einen Elben kämpft, Stärke -1 zu geben.'
+  lore: Elben vertrauen im Kampf nicht nur auf ihre Kraft.
+fr:
+  title: Agilité
+  subtitle: ''
+  text: 'Quand vous jouez cette situation, vous pouvez désigner un Elfe pour déposer 2 jetons :elven: ici. **Combat :** Défaussez cette situation ou retirez un jeton :elven: de cette carte pour donner –1 en force à un séide qui combat un Elfe.'
+  lore: En combat, les Elfes s'en remettent à plus que de la force brute.
+it:
+  title: Agilità
+  subtitle: ''
+  text: 'Quando giochi questa condizione, puoi avvistare un Elfo per piazzare qui 2 segnalini :elven:. **Schermaglia:** Scarta questa condizione o rimuovi da qui un segnalino :elven: per sottrarre –1 alla forza di un servitore che sta schermag'
+  lore: Gli Elfi in battaglia non si affidano solamente alla forza.
+es:
+  title: Agilidad
+  subtitle: ''
+  text: 'Cuando juegas esta condición, puedes avistar un Elfo para colocar 2 contadores :elven: aquí. **Escaramuza:** Descarta esta condición o quita un contador :elven: de aquí para darle a un siervo que esté en una escaramuza contra un Elfo fuerza'
+  lore: Los Elfos recurren en el combate a más que la fuerza.

@@ -1,0 +1,14 @@
+set: '1'
+rarity: U
+number: '94'
+unique: true
+culture: Gondor
+type: Possession
+cost: 1
+en:
+  title: Athelas
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.   
+    **Fellowship:** Discard this possession to heal a companion or to remove a Shadow condition from a companion.
+  lore: The hands of the king are the hands of a healer, and so shall the true king be known.

@@ -1,0 +1,20 @@
+set: '13'
+rarity: U
+number: '27'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Wells of Deep Memory
+  subtitle: ''
+  text: |-
+    At the end of your turn, discard this from play if the fellowship did not move more than once this turn.  
+    Each time the fellowship moves during the regroup phase, you may draw a card for each of the following you can spot: Arwen, Celeborn, or Galadriel.
+  lore: ''
+de:
+  title: Brunnen alter Erinnerungen
+  subtitle: ''
+  text: 'Lege diesen Effekt am Ende deines Zuges ab, wenn sich die Gemeinschaft in diesem Zug nicht mehr als einmal bewegt hat. Jedes Mal, wenn sich die Gemeinschaft in der Sammelphase bewegt, darfst du für jeden der folgenden Charaktere, die du entdecken kannst, eine Karte ziehen: Arwen, Celeborn oder Galadriel.'
+  lore: ''

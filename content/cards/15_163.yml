@@ -1,0 +1,49 @@
+set: '15'
+rarity: R
+number: '163'
+unique: true
+culture: Uruk-hai
+type: Possession
+class: Hand Weapon
+cost: 3
+str: '+2'
+en:
+  title: Lurtz’s Sword
+  subtitle: Mighty Longsword
+  text: |-
+    Bearer must be an :urukhai: Uruk-hai.  
+    Bearer gains **hunter 1** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    If bearer is Lurtz, he is **fierce**.
+  lore: Defeating an Uruk with a broad-bladed sword is not easily done.
+de:
+  title: Lurtz's Sword
+  subtitle: Mighty Longsword
+  text: |-
+    Bearer must be an :urukhai: Uruk-hai.  
+    Bearer gains **hunter 1** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    If bearer is Lurtz, he is **fierce**.
+  lore: Defeating an Uruk with a broad-bladed sword is not easily done.
+fr:
+  title: Lurtz's Sword
+  subtitle: Mighty Longsword
+  text: |-
+    Bearer must be an :urukhai: Uruk-hai.  
+    Bearer gains **hunter 1** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    If bearer is Lurtz, he is **fierce**.
+  lore: Defeating an Uruk with a broad-bladed sword is not easily done.
+it:
+  title: Lurtz's Sword
+  subtitle: Mighty Longsword
+  text: |-
+    Bearer must be an :urukhai: Uruk-hai.  
+    Bearer gains **hunter 1** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    If bearer is Lurtz, he is **fierce**.
+  lore: Defeating an Uruk with a broad-bladed sword is not easily done.
+es:
+  title: Lurtz's Sword
+  subtitle: Mighty Longsword
+  text: |-
+    Bearer must be an :urukhai: Uruk-hai.  
+    Bearer gains **hunter 1** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    If bearer is Lurtz, he is **fierce**.
+  lore: Defeating an Uruk with a broad-bladed sword is not easily done.

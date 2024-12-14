@@ -1,0 +1,25 @@
+set: '8'
+rarity: U
+number: '45'
+unique: true
+culture: Gondor
+type: Companion
+race: Wraith
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Sleepless Dead
+  subtitle: ''
+  text: |-
+    **Enduring.** To play, add a threat.   
+    Each time this companion wins a skirmish, you may exert him to discard a minion he is skirmishing.
+  lore: ‘…for the Dead needed no longer any weapon but fear. None would withstand them.’
+de:
+  title: Rastlose Tote
+  subtitle: ''
+  text: |-
+    **Zäh.** Lasse eine Bedrohung entstehen, um diesen Gefährten zu spielen.   
+    Jedes Mal, wenn dieser Gefährte einen Kampf gewinnt, darfst du ihn anstrengen, um einen Diener abzulegen, gegen den er gekämpft hat.
+  lore: … denn die Toten brauchten keine anderen Waffen mehr als Furcht. Keiner wollte ihnen Widerstand leisten.

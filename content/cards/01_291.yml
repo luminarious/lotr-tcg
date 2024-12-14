@@ -1,0 +1,36 @@
+set: '1'
+rarity: R
+number: '291'
+unique: true
+culture: Shire
+type: Ally
+race: Hobbit
+cost: 1
+str: '2'
+vit: '2'
+site: '1'
+en:
+  title: The Gaffer
+  subtitle: Sam's Father
+  text: '**Fellowship:** Exert The Gaffer to heal Frodo or Sam.'
+  lore: No one had a more attentive audience than old Ham Gamgee, commonly known as the Gaffer. He held forth at The Ivy Bush, a small inn on the Bywater road; and he spoke with some authority, for he had tended the garden at Bag End for forty years….
+de:
+  title: Der Ohm
+  subtitle: Sams Vater
+  text: '**Gemeinschaft.** Strenge den Ohm an, um Frodo oder Sam zu heilen.'
+  lore: Niemand hatte aufmerksamere Zuhörer als der alte Ham Gamdschie, der landauf, landab als der Ohm bekannt war. Er schwang seine Reden im Efeubusch, einer kleinen Gastwirtschaft an der Wasserauer Strasse; und was er sagte, hatte einiges Gewicht, denn er hatt
+fr:
+  title: L'Ancien
+  subtitle: Père de Sam
+  text: '**Compagnie :** Affaiblissez l’Ancien pour guérir Frodon ou Sam.'
+  lore: Personne n'eut d'auditoire plus attentif que le vieux Ham Gamegie, communément appelé l'Ancien. Il pérorait au Buisson de Lierre, une petite auberge de la route de Lèzeau, et il parlait avec quelque autorité, car il avait entretenu le jardin de Cul-de-Sa
+it:
+  title: Il Gaffiere
+  subtitle: Padre di Sam
+  text: '**Compagnia:** Sforza Il Gaffiere per curare Frodo o Sam.'
+  lore: Il pubblico più attento era certo quello del vecchio Ham Gamgee detto il Gaffiere, alla piccola osteria l'Edera sulla via di Lungacque. Parlava autorevolmente, essendo stato per quarant'anni il giardiniere di Casa Baggins…
+es:
+  title: El Tío
+  subtitle: El Padre de Sam
+  text: '**Comunidad:** Esfuerza a El Tío para curar a Frodo o a Sam.'
+  lore: Nadie tuvo auditorio más atento que el viejo Ham Gamyi, conocido comúnmente como El Tío. Contaba sus historias en La Mata de hiedra, una pequeña posada en el camino de Delagua, y hablaba con cierta autoridad, pues había cuidado el jardín de Bolsón Cerrad

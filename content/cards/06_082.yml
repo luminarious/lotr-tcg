@@ -1,0 +1,33 @@
+set: '6'
+rarity: R
+number: '82'
+unique: true
+culture: Raider
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Trample
+  subtitle: ''
+  text: '**Maneuver:** Spot a mounted :raider: Man to discard a companion (except the Ring-bearer). The Free Peoples player may add :twilight4: to prevent this.'
+  lore: ‘…I stomp round and round, / Never lie on the ground, / Not even to die. / Oliphaunt am I….’
+de:
+  title: Niedertrampeln
+  subtitle: ''
+  text: '**Manöver:** Entdecke einen berittenen :raider: Menschen, um einen Gefährten (außer den Ringträger) abzulegen. Der Freie Völker Spieler darf den Einfluss um :twilight4: erhöhen, um dies zu verhindern.'
+  lore: … Jahr um Jahr zieh ich dahin / Leg mich nie hin / Olifant bin ich benannt…
+fr:
+  title: Piétinement
+  subtitle: ''
+  text: '**Manœuvre :** Désignez un Homme :raider: qui détient une monture pour défausser un compagnon (sauf le Porteur de l’Anneau). Le joueur des Peuples Libres peut ajouter :twilight4: pour empêcher ceci.'
+  lore: 'Je marche lourdement, toujours, toujours. / Sans jamais me coucher sur la terre, / Pas même pour mourir. / Je suis l''oliphant….” '
+it:
+  title: Travolgere
+  subtitle: ''
+  text: '**Manovra:** Avvista un Uomo :raider: a cavallo per scartare un compagno (tranne che il Portatore dell’Anello). Il giocatore dei Popoli Liberi può aggiungere :twilight4: per prevenire questo effetto.'
+  lore: ‘…Pur marciando parecchio, / Pur se supino mai, / Neanche per morire mi vedrai. / Io sono Olifante….’
+es:
+  title: Arrollar
+  subtitle: ''
+  text: '**Maniobra:** Avista un Hombre :raider: con montura para descartar un compañero (excepto el Portador del Anillo). El jugador de Gentes Libres puede añadir :twilight4: para prevenir esto.'
+  lore: …marcho de un lado a otro, / y ni para morir / en la tierra me acuesto. / Yo soy el Olifante…

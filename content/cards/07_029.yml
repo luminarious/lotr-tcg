@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '29'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Still Needed
+  subtitle: ''
+  text: Make an Elf strength +2. You may place this event on top of your draw deck.
+  lore: ‘You must not go to the Havens Legolas. There will always be some folk… who need you.’
+de:
+  title: Du wirst noch gebraucht
+  subtitle: ''
+  text: Gib einem Elben Stärke +2. Du darfst dieses Ereignis oben auf dein Spieldeck legen.
+  lore: Du darfst nicht zu den Häfen gehen, Legolas. Es wird immer einige Leute geben… die dich brauchen.

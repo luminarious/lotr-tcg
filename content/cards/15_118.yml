@@ -1,0 +1,15 @@
+set: '15'
+rarity: U
+number: '118'
+unique: true
+culture: Orc
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Unmistakable Omen
+  subtitle: ''
+  text: |-
+    While you can spot a threat, the site number of each :orc: Orc is -1.  
+    **Regroup:** Remove 3 threats and discard 3 :orc: Orcs from play to make the Free Peoples player spot a companion and place that companion in the dead pile. Discard this condition.
+  lore: ''

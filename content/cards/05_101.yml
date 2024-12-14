@@ -1,0 +1,37 @@
+set: '5'
+rarity: U
+number: '101'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: I’d Make You Squeak
+  subtitle: ''
+  text: |-
+    To play, exert 2 :sauron: Orcs. Plays to your support area.  
+    The Shadow number of each site is +1 for each wound on a Hobbit (limit +3).
+  lore: ‘If I had my way, you'd wish you were dead now.’
+de:
+  title: Ich werde dich zum Quietschen bringen
+  subtitle: ''
+  text: 'Strenge 2 :sauron: Orks an, um diese Karte in deinen Unterstützungsbereich zu spielen. Die Schattenzahl jedes Ortes erhöht sich um 1 für jede Wunde auf einem Hobbit (maximal +3).'
+  lore: Wenn’s nach mir ginge, würdest du wünschen, tot zu sein.
+fr:
+  title: Je Te Ferais Couiner
+  subtitle: ''
+  text: |-
+    Pour jouer, affaiblissez 2 Orques :sauron:.   
+    La puissance de l’Ombre de chaque site est de +1 pour chaque blessure sur un Hobbit (limite de 3).
+  lore: 'Si je pouvais agir à mon gré, tu souhaiterais être mort dès à présent…” '
+it:
+  title: Ti Farò Strillare
+  subtitle: ''
+  text: Per giocarla, sforza 2 Orchi :sauron:. Aggiungi +1 al numero Ombra di ogni sito per ogni ferita presente su un Hobbit (limite +3).
+  lore: ‘Se fossi libero di fare a modo mio, ti rincrescerebbe di non essere morto.’
+es:
+  title: Te haría chillar
+  subtitle: ''
+  text: Para jugarla, esfuerza 2 Orcos :sauron:. El número de sombra de cada sitio es +1 por cada herida en un Hobbit (límite +3).
+  lore: Si por mí fuera, querrías morir ahora mismo.

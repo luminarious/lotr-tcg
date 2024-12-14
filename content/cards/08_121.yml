@@ -1,0 +1,18 @@
+set: '8'
+rarity: P
+number: '121'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 2
+str: '5'
+vit: '4'
+signet: Signet_Frodo
+en:
+  title: Merry
+  subtitle: Noble Warrior
+  text: |-
+    To play, spot a :rohan: companion.   
+    **Skirmish:** Discard 4 cards from hand to make Merry strength +2 for each :rohan: companion you spot.
+  lore: ''

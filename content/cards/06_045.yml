@@ -1,0 +1,15 @@
+set: '6'
+rarity: C
+number: '45'
+unique: true
+culture: Gollum
+type: Companion
+cost: 0
+str: '3'
+vit: '4'
+signet: Signet_Frodo
+en:
+  title: Sméagol
+  subtitle: Poor Creature
+  text: '**Ring-bound.** To play, add a burden. **Skirmish:** Discard a card from hand to make Sméagol strength +1.'
+  lore: ‘And we're so lonely… We'll be nice to them, very nice, if they'll be nice to us, won't we, yes, yess.’

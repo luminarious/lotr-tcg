@@ -1,0 +1,14 @@
+set: '19'
+rarity: P
+number: '31'
+unique: true
+culture: Shire
+type: Condition
+cost: 1
+en:
+  title: Rabbit Stew
+  subtitle: ''
+  text: |-
+    Bearer must be a :shire: companion.  
+    Each time bearer wins a skirmish, you may transfer this condition to a fellowship companion. Each time this condition is transferred to a companion, heal that companion.
+  lore: ''

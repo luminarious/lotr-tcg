@@ -1,0 +1,22 @@
+set: '8'
+rarity: U
+number: '18'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Not the First Halfling
+  subtitle: ''
+  text: |-
+    **Fellowship:** Exert Gandalf and either an :elven: companion or a :shire: companion to add a :gandalf: token here.   
+    **Skirmish:** Remove a :gandalf: token here to make a minion skirmishing an unbound companion strength –2.
+  lore: ''
+de:
+  title: Nicht der erste Halbling
+  subtitle: ''
+  text: |-
+    **Gemeinschaft:** Strenge Gandalf und entweder einen :elven: oder :shire: Gefährten an, um eine :gandalf: Marke auf diese Karte zu legen.   
+    **Kampf:** Entferne eine :gandalf: Marke von dieser Karte, um einem Diener, der gegen einen nicht-verbundenen Gefährten kämpft, Stärke -2 zu geben.
+  lore: ''

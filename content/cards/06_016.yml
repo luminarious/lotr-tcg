@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '16'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Forearmed
+  subtitle: ''
+  text: '**Skirmish:** Reveal the top card of your draw deck to make a minion skirmishing an Elf strength –X, where X is the twilight cost of the revealed card.'
+  lore: ‘Give them a volley.’
+de:
+  title: Gewappnet
+  subtitle: ''
+  text: '**Kampf** Decke die oberste Karte deines Spiel-decks auf, um einem Diener, der gegen einen Elben kämpft, Stärke –X zu geben, wobei X den Zwielichtkosten der aufgedeckten Karte entspricht.'
+  lore: Schickt einen Pfeilhagel!
+fr:
+  title: Préparés
+  subtitle: ''
+  text: '**Combat :** Révélez la première carte de votre pioche pour donner –X en force à un séide qui combat un Elfe, X étant le coût crépusculaire de la carte révélée.'
+  lore: 'Envoyez-leur une volée.” '
+it:
+  title: Mezzo Salvato
+  subtitle: ''
+  text: '**Schermaglia:** Mostra la prima carta del tuo mazzo di gioco per sottrarre –X alla forza di un servitore che sta schermagliando con un Elfo, dove X è pari al costo crepuscolo della carta mostrata.'
+  lore: ‘Tempestateli di frecce.’
+es:
+  title: Armado de antemano
+  subtitle: ''
+  text: '**Escaramuza:** Revela la carta superior de tu mazo de robar para darle a un siervo que esté en una escaramuza contra un Elfo fuerza –X, donde X es el coste de penumbra de la carta revelada.'
+  lore: Lanzadles una andanada.

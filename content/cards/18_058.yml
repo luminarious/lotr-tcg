@@ -1,0 +1,16 @@
+set: '18'
+rarity: U
+number: '58'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Soldier's Cache
+  subtitle: ''
+  text: |-
+    **Fortification.**  
+    At the start of your maneuver phase, you may spot 3 rangers or exert a :gondor: Man to transfer this condition to a minion. Wound that minion.  
+    **Regroup:** Exert a ranger to reinforce a :gondor: token.
+  lore: ''

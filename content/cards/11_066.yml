@@ -1,0 +1,20 @@
+set: '11'
+rarity: R
+number: '66'
+unique: true
+culture: Gondor
+type: Event
+class: Fellowship or Regroup
+cost: 0
+en:
+  title: Well-traveled
+  subtitle: ''
+  text: |-
+    To play, exert a **Ranger.**   
+    If the fellowship is in region 1, play the fellowship’s next 2 sites. Otherwise, play the fellowship’s next site. 
+  lore: With a great many years’ experience in the wilds of Middle-earth, Aragorn’s skills as guide and tracker were unmatched.
+de:
+  title: Weitgereist
+  subtitle: ''
+  text: 'Strenge einen Waldläufer an, um diese Karte zu spielen. Wenn sich die Gemeinschaft in Region 1 befindet, spiele die nächsten 2 Orte der Gemeinschaft aus. Spiele ansonsten den nächsten Ort der Gemeinschaft aus. '
+  lore: Dank vieler Jahre in der Wildnis von Mittelerde ist Aragorns Können als Spurenleser ohne Gleichen.

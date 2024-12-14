@@ -1,0 +1,18 @@
+set: '15'
+rarity: O
+number: '195'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Legolas
+  subtitle: Of the Woodland Realm
+  text: |-
+    **Archer. Hunter 1***(While skirmishing a non-hunter character, this character is strength +1.)*.  
+    **Archery:** Exert Legolas to make the fellowship archery total +1 for each hunter minion you can spot.(Limit +3)
+  lore: You would die before your stroke fell!

@@ -1,0 +1,24 @@
+set: '7'
+rarity: C
+number: '115'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Ranger of Minas Tirith
+  subtitle: ''
+  text: |-
+    **Ranger.**   
+    While skirmishing a roaming minion, this companion is strength +2 and **damage +1**.
+  lore: ''
+de:
+  title: Waldläufer aus Minas Tirith
+  subtitle: ''
+  text: |-
+    **Waldläufer.**   
+    Solange dieser Gefährte gegen einen wandernden Diener kämpft, erhält er Stärke +2 und **Schaden +1**.
+  lore: Und auf einem vorgeschobenen Sattel lag die Bewachte Stadt mit ihren sieben Mauern aus Stein…

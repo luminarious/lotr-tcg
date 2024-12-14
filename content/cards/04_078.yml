@@ -1,0 +1,35 @@
+set: '4'
+rarity: C
+number: '78'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Lórien Swordsman
+  subtitle: ''
+  text: 'Each minion skirmishing this companion is strength -2 for each wound on that minion. '
+  lore: Long, curved Elven steel cut down Uruks already weakened by Elven arrows.
+de:
+  title: Schwertkämpfer aus Lórien
+  subtitle: ''
+  text: Jeder Diener, der gegen diesen Gefährten kämpft, erhält Stärke -2 für jede Wunde, die dieser Diener hat.
+  lore: Langer, geschwungener Elbenstahl hieb die bereits durch die Pfeile der Elben geschwächten Uruks nieder.
+fr:
+  title: Épéiste de la Lórien
+  subtitle: ''
+  text: Pour chaque blessure se trouvant sur un séide qui combat ce compagnon, ce séide a -2 en force.
+  lore: L'acier elfique, long et recourbé, terrassait les Ourouks déjà affaiblis par les flèches des Elfes.
+it:
+  title: Spadaccino di Lórien
+  subtitle: ''
+  text: Sottrai -2 alla forza di ogni servitore che stia schermagliando con questo compagno, per ogni ferita su quel servitore.
+  lore: Il lungo e curvo acciaio elfico abbatté gli Uruk già indeboliti dalle loro frecce.
+es:
+  title: Espadachín De Lórien
+  subtitle: ''
+  text: Cada siervo que esté en una escaramuza contra este compañero es fuerza -2 por cada herida en ese siervo.
+  lore: Largo y curvado acero Élfico segó a los Uruks ya debilitados por las flechas Élficas.

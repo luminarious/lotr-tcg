@@ -1,0 +1,18 @@
+set: '18'
+rarity: R
+number: '127'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '11'
+vit: '3'
+site: 5
+en:
+  title: White Hand Marshal
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    Each time this minion wins a skirmish, you may control a site.
+  lore: The Men and Elves looked out into the darkness, and through the rain they saw, lit by the thousands of torches, the huge advancing Uruk-hai army.

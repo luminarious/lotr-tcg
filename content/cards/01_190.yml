@@ -1,0 +1,43 @@
+set: '1'
+rarity: R
+number: '190'
+unique: true
+culture: Moria
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Moria Axe
+  subtitle: ''
+  text: |-
+    Bearer must be a :moria: Orc.   
+    Bearer is **damage +1.**   
+    **Skirmish:** Exert bearer to make him strength +2.
+  lore: Goblins without scimitars wrest axes from the remains of fallen Dwarves.
+de:
+  title: Moriaaxt
+  subtitle: ''
+  text: |-
+    Muss auf einen :moria: Ork gespielt werden. Träger erhält **Schaden +1.**  
+    **Kampf** Strenge den Träger an, um ihm Stärke +2 zu geben.
+  lore: Goblins, die keine Schwerter haben, entreissen den Überresten gefallener Zwerge deren Äxte.
+fr:
+  title: Hache de la Moria
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un Orque :moria:. Le détenteur a des **dégâts +1.**  
+    **Combat :** Affaiblissez le détenteur pour lui donner +2 en force.
+  lore: Des Gobelins sans cimeterres arrachent des haches aux restes des Nains tombés.
+it:
+  title: Ascia di Moria
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Orco :moria:. **Danno +1.**  
+    **Schermaglia:** Sforza il possessore per aggiungere +2 alla sua forza.
+  lore: I Goblin senza scimitarra strappano asce dalle spoglie dei Nani caduti.
+es:
+  title: Hacha de Moria
+  subtitle: ''
+  text: El portador debe ser un Orco :moria:. El portador es **Daño +1.** **Escaramuza:** Esfuerza al portador para darle fuerza +2.
+  lore: Los Goblins sin cimitarras arrebataron las hachas de los despojos de Enanos caídos.

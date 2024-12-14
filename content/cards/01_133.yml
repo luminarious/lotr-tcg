@@ -1,0 +1,38 @@
+set: '1'
+rarity: C
+number: '133'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Saruman's Ambition
+  subtitle: ''
+  text: |-
+
+    The twilight cost of your :isengard: events is -1.   
+    **Skirmish:** Discard this condition to make an Uruk-hai strength +2.
+  lore: ‘I did not expect you to show wisdom, even in your own behalf; but I gave you the chance of aiding me willingly, and so saving yourself much trouble and pain.’
+de:
+  title: Sarumans Ehrgeiz
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Die Zwielichtkosten deiner :isengard: Ereignisse reduzieren sich um 1. **Kampf** Lege diesen Effekt ab, um einem Uruk-hai Stärke +2 zu geben.'
+  lore: Ich habe nicht erwartet, dass du Weisheit erkennen lassen würdest… doch habe ich dir die Möglichkeit geboten, mir freiwillig zu helfen und dir damit viel Ärger und Pein zu ersparen.
+fr:
+  title: L'Ambition de Saroumane
+  subtitle: ''
+  text: 'Le coût crépusculaire de vos événements :isengard: est de -1. **Combat :** Défaussez cette situation pour donner à un Ourouk-Haï +2 en force.'
+  lore: ‘Je ne m'attendais pas que vous fissiez preuve de sagesse, fût-ce à votre propre avantage ; mais je vous donnais la chance de m'aider de plein gré et de vous éviter ainsi beaucoup d'ennuis et de souffrance.’
+it:
+  title: Ambizione di Saruman
+  subtitle: ''
+  text: |-
+    Sottrai -1 al costo crepuscolo dei tuoi eventi :isengard:.   
+    **Schermaglia:** Scarta questa condizione per aggiungere +2 alla forza di un Uruk-hai.
+  lore: ‘Non mi aspettavo saggezza da parte tua, neppure nel tuo stesso interesse; ma ti ho dato l'opportunità di aiutarmi volontariamente, risparmiando in tal modo a te stesso inquietudine e sofferenze.’
+es:
+  title: La Ambición de Saruman
+  subtitle: ''
+  text: 'El coste de penumbra de tus eventos :isengard: es -1. **Escaramuza:** Descarta esta condición para dar fuerza +2 a un Uruk-hai.'
+  lore: No esperé que mostraras mucha sabiduría, ni aun para tu propio beneficio, pero te di la posibilidad de que me ayudaras por tu propia voluntad, evitándote así dificultades y sinsabores.

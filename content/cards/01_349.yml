@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '349'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Left
+en:
+  title: The Bridge of Khazad-dûm
+  subtitle: ''
+  text: '**Underground.** **Shadow:** Play The Balrog from your draw deck or hand; The Balrog’s twilight cost is -6.'
+  lore: ''
+de:
+  title: Die Brücke von Khazad-dûm
+  subtitle: ''
+  text: '**Unterirdisch.** **Schatten:** Spiele den Balrog direkt aus deinem Spieldeck oder deiner Hand; die Kosten reduzieren sich um 6.'
+  lore: ''
+fr:
+  title: Le Pont de Khazad-dûm
+  subtitle: ''
+  text: '**Souterrain.** Ombre : Jouez le Balrog de votre pioche ou de votre main ; le coût crépusculaire du Balrog est de -6.'
+  lore: ''
+it:
+  title: Il Ponte di Khazad-dûm
+  subtitle: ''
+  text: Sotteraneo. **Ombra:** Gioca il Balrog dal tuo mazzo di gioco o dalla mano; sottrai -6 al costo crepuscolo del Balrog.
+  lore: ''
+es:
+  title: El Puente de Khazad-dûm
+  subtitle: ''
+  text: '**Subterráneo.** **Sombra:** Juega El Balrog de tu mazo de robar o de tu mano; el coste de penumbra de El Balrog es -6.'
+  lore: ''

@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '201'
+unique: true
+culture: Moria
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Unfamiliar Territory
+  subtitle: ''
+  text: '**Skirmish:** Make a :moria: Orc strength +2 (or +4 if skirmishing an archer).'
+  lore: Knowing the dark terrain of Moria gives Orcs a strategic advantage when attacking their foes.
+de:
+  title: Unbekanntes Terrain
+  subtitle: ''
+  text: '**Kampf** Gib einem :moria: Ork Stärke +2 (oder Stärke +4, wenn er gegen einen Bogenschützen kämpft).'
+  lore: Ihre Kenntnis der dunklen Gänge Morias verschafft den Orks dort einen strategischen Vorteil, wenn sie ihre Feinde angreifen.
+fr:
+  title: Territoire Peu Familier
+  subtitle: ''
+  text: '**Combat :** Donnez à un Orque :moria: +2 en force (ou +4 s’il combat un archer).'
+  lore: La connaissance du terrain obscur de la Moria donne aux Orques un avantage stratégique lorsqu'ils attaquent de leurs ennemis.
+it:
+  title: Territorio Ignoto
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Orco :moria: (o +4 se sta schermagliando con un arciere).'
+  lore: La conoscenza dell'oscuro terreno di Moria fornisce agli Orchi un vantaggio strategico quando attaccano i loro nemici.
+es:
+  title: Terreno Desconocido
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Orco :moria: fuerza +2 (o +4 en una escaramuza contra un arquero).'
+  lore: Conocer el terreno oscuro de Moria les da a los orcos una ventaja cuando están emboscando a sus enemigos.

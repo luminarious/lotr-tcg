@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '312'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Mind Your Own Affairs
+  subtitle: ''
+  text: '**Skirmish:** Spot Frodo and add a burden to wound a minion skirmishing a companion who has the Frodo signet. '
+  lore: ‘Yet those who claim to oppose the Enemy would do well not to hinder it.’
+de:
+  title: Kümmert Euch um Eure Angelegenheiten
+  subtitle: ''
+  text: '**Kampf** Entdecke Frodo und lege 1 Lastmarke auf den Ringträger, um einen Diener, der gegen einen Gefährten mit dem Frodosiegel kämpft, zu verwunden.'
+  lore: Dennoch würden jene, die behaupten, gegen den Feind zu kämpfen, gut daran tun, meinen Auftrag nicht zu hindern.
+fr:
+  title: Mêlez-Vous de Vos Propres Affaires
+  subtitle: ''
+  text: '**Combat :** Désignez Frodon et ajoutez un point-fardeau pour blesser un séide qui combat un compagnon possédant le sceau Frodon.'
+  lore: 'Cependant, ceux qui prétendent s''opposer à l''Ennemi feront bien de ne pas l''entraver.” '
+it:
+  title: Occupati di Ciò che ti Riguarda
+  subtitle: ''
+  text: '**Schermaglia:** Avvista Frodo e aggiungi un segnalino fardello per ferire un servitore che stia schermagliando con un compagno che abbia il sigillo di Frodo.'
+  lore: ‘Tuttavia, coloro che pretendono di lottare contro il Nemico farebbero bene a non ostacolarlo.’
+es:
+  title: Ocúpate De Tus Asuntos
+  subtitle: ''
+  text: '**Escaramuza:** Avista a Frodo y añade una carga para herir un siervo que esté en una escaramuza contra un compañero que tenga el sello de Frodo.'
+  lore: No obstante quienes pretendan combatir al enemigo harían bien en no entorpecerla.

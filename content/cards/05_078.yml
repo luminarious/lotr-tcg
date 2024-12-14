@@ -1,0 +1,39 @@
+set: '5'
+rarity: R
+number: '78'
+unique: true
+culture: Raider
+type: Possession
+class: Mount
+cost: 3
+str: '+4'
+en:
+  title: War Mûmak
+  subtitle: ''
+  text: |-
+    Bearer must be a Southron.  
+    Bearer is **fierce.**  
+    Each time bearer overwhelms a character, you may add :twilight5:.
+  lore: Big as a house, much bigger than a house, it looked to him, a grey-clad moving hill.
+de:
+  title: Kriegsmûmak
+  subtitle: ''
+  text: 'Muss auf einen Südländer gespielt werden. Der Reiter ist **Erbittert.** Jedes Mal, wenn der Reiter einen Charakter überwältigt, darfst du den Einfluss um :twilight5: erhöhen.'
+  lore: Groß wie ein Haus, viel größer als ein Haus schien er ihm zu sein, ein in Grau gehüllter, sich bewegender Berg.
+fr:
+  title: Mûmak de Guerre
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un Suderon. Le détenteur est **acharné**.   
+    Chaque fois que le détenteur submerge un personnage, vous pouvez ajouter :twilight5:.
+  lore: '… grande comme une maison, bien plus grande qu''une maison: une colline grise en mouvement. '
+it:
+  title: Mûmak da Guerra
+  subtitle: ''
+  text: Il possessore deve essere un Sudrone. Il possessore è **feroce.** Ogni volta che un personaggio è sopraffatto dal possessore, puoi aggiungere **¨**.
+  lore: 'Grande come un edificio, molto più di un edificio, gli sembrò: piuttosto una grigia collina mobile.'
+es:
+  title: Mûmak de Guerra
+  subtitle: ''
+  text: El portador debe ser un **Sureño.** El portador es **fiero.** Cada vez que el portador abruma un personaje, puedes añadir :twilight5:.
+  lore: Grande como una casa, mucho más grande que una casa le pareció, una montaña gris en movimiento.

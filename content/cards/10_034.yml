@@ -1,0 +1,18 @@
+set: '10'
+rarity: C
+number: '34'
+unique: true
+culture: Gondor
+type: Event
+class: Regroup
+cost: 5
+en:
+  title: Last Throw
+  subtitle: ''
+  text: 'If no opponent controls a site, spot 2 :gondor: Men to make the move limit +1 for this turn. '
+  lore: ‘We must push Sauron… We must march out to meet him at once.’
+de:
+  title: Letzter Versuch
+  subtitle: ''
+  text: 'Entdecke 2 :gondor: Menschen, um die Bewegungsweite für diesen Zug um 1 zu erhöhen, wenn kein Gegenspieler einen Ort kontrolliert.'
+  lore: Wir müssen Sauron in sein letztes Wagnis treiben…. Wir müssen sofort losmarschieren, um uns ihm entgegenzustellen

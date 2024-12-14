@@ -1,0 +1,22 @@
+set: '8'
+rarity: C
+number: '50'
+unique: true
+culture: Raider
+type: Possession
+class: Support Area
+cost: 2
+en:
+  title: Black Sails of Umbar
+  subtitle: ''
+  text: |-
+    When you play this possession, you may add a :raider: token here.   
+    **Shadow:** Remove X :raider: tokens here to play a corsair from your discard pile; its twilight cost is –X. Discard this possession.
+  lore: ''
+de:
+  title: Die schwarzen Segel von Umbar
+  subtitle: ''
+  text: |-
+    Du darfst eine :raider: Marke auf diese Karte legen, wenn du sie ausspielst.   
+    **Schatten:** Entferne X :raider: Marken von dieser Karte, um einen Corsaren mit um X reduzierten Kosten aus deinem Ablagestapel zu spielen. Lege diese Ausrüstung ab.
+  lore: ''

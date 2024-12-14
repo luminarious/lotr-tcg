@@ -1,0 +1,24 @@
+set: '7'
+rarity: R
+number: '48'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Stay This Madness
+  subtitle: ''
+  text: |-
+    To play, spot Gandalf.   
+    Each time the fellowship moves, add a threat or discard this condition.   
+    **Regroup:** Discard this condition to wound 2 minions.
+  lore: ''
+de:
+  title: Haltet ein mit diesem Wahnsinn
+  subtitle: ''
+  text: |-
+    Entdecke Gandalf, um diese Karte zu spielen.   
+    Lasse jedes Mal, wenn sich die Gemeinschaft bewegt, eine Bedrohung entstehen oder lege diesen Effekt ab.   
+    **Sammeln:** Lege diesen Effekt ab, um 2 Diener zu verwunden.
+  lore: So kam es, dass Gandalf bei der letzten Verteidigung der Stadt von Gondor den Befehl übernahm.

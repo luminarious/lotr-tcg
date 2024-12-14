@@ -1,0 +1,25 @@
+set: '13'
+rarity: R
+number: '117'
+unique: true
+culture: Orc
+type: Minion
+race: Troll
+cost: 6
+str: '12'
+vit: '3'
+site: 5
+en:
+  title: Ordnance Grunt
+  subtitle: ''
+  text: |-
+    **Damage +1. Fierce.** To play, spot an :orc: minion.  
+    **Shadow:** Discard an :orc: condition from play to play this minion from your discard pile.
+  lore: Only Trolls had the strength to man the siege catapults.
+de:
+  title: Geschützlader
+  subtitle: ''
+  text: |-
+    **Schaden +1, Erbittert.**  
+    Entdecke einen :orc: Diener, um diese Karte zu spielen.**Schatten:** Lege einen :orc: Effekt ab, um diesen Diener aus deinem Ablagestapel zu spielen.
+  lore: Nur Trolle waren stark genug, die Belagerungs-katapulte zu bedienen.

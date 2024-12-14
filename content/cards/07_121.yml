@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '121'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Stout Resistance
+  subtitle: ''
+  text: 'Add a threat to make a :gondor: Man strength +3.'
+  lore: …the hardiest of the garrison stood at bay.
+de:
+  title: Beherzter Wiederstand
+  subtitle: ''
+  text: 'Lasse eine Bedrohung entstehen, um einem :gondor: Menschen Stärke +3 zu geben.'
+  lore: …dort setzten sich… die Kühnsten der Besatzung zur Wehr.

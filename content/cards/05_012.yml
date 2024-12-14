@@ -1,0 +1,38 @@
+set: '5'
+rarity: U
+number: '12'
+unique: true
+culture: Elven
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+1'
+en:
+  title: Legolas' Sword
+  subtitle: ''
+  text: |-
+    Bearer must be Legolas.  
+    Each time the fellowship moves, you may spot a wounded minion to heal Legolas.
+  lore: Legolas wielded a longsword to strike from horseback.
+de:
+  title: Legolas' Schwert
+  subtitle: ''
+  text: Muss auf Legolas gespielt werden. Jedes Mal, wenn sich die Gemeinschaft bewegt, darfst du einen verwundeten Diener entdecken, um Legolas zu heilen.
+  lore: Legolas schwang ein Langschwert, um vom Pferd herab zu kämpfen.
+fr:
+  title: L'Épée de Legolas
+  subtitle: ''
+  text: |-
+    Le détenteur doit être Legolas.   
+    Chaque fois que la compagnie se déplace, vous pouvez désigner un séide blessé pour guérir Legolas.
+  lore: Legolas portait une épée longue afin de pouvoir frapper à dos de cheval.
+it:
+  title: Spada di Legolas
+  subtitle: ''
+  text: Il possessore deve essere Legolas. Ogni volta che la compagnia si muove, puoi avvistare un servitore ferito per curare Legolas.
+  lore: Legolas brandiva una spada lunga per colpire da cavallo.
+es:
+  title: La Espada de Legolas
+  subtitle: ''
+  text: El portador debe ser Legolas. Cada vez que la comunidad se mueve, puedes avistar un siervo herido para curar a Legolas.
+  lore: Legolas llevó una espada larga para golpear desde el caballo.

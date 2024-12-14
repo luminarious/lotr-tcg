@@ -1,0 +1,24 @@
+set: '8'
+rarity: U
+number: '71'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Flung Into the Fray
+  subtitle: ''
+  text: |-
+    When you play a minion stacked here, you may exert a companion.   
+    **Regroup:** If no minion is stacked here, spot your :wraith: minon to stack it here.   
+    **Shadow:** Spot 2 :wraith: minions to play a :wraith: minion stacked here as if played from hand.
+  lore: With a cry of hatred that stung the very ears like venom he let fall….
+de:
+  title: Ins Getümmel geworfen
+  subtitle: ''
+  text: |-
+    Du darfst einen Gefährten anstrengen, wenn du einen auf diesem Effekt gelagerten Diener spielst.   
+    **Sammeln:** Entdecke einen deiner :wraith: Diener, um ihn hier zu lagern, wenn kein Diener auf diesem Effekt gelagert ist.   
+    **Schatten:** Entdecke 2 :wraith: Diener, um einen hier gelagerten :wraith: Diener zu spielen, als wäre er von deiner Hand gespielt.
+  lore: ''

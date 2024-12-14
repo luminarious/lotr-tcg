@@ -1,0 +1,17 @@
+set: '4'
+rarity: C
+number: '85'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Thandronen
+  subtitle: Veteran Protector
+  text: |-
+    To play, spot an Elf.   
+    **Regroup:** Exert Thandronen to discard a minion stacked on a condition or stacked on a site. 
+  lore: The twin sons of Thandronen marched with their father to defend Helm’s Deep.

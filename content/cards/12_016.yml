@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '16'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Attunement
+  subtitle: ''
+  text: Spot an Elf to reveal cards from the top of your draw deck until you reveal a Shadow card. Make an Elf strength +2 for each card revealed. Place the revealed cards in any order on the bottom of your draw deck.
+  lore: With deep focus and heightened senses, Elven archers are able to make seemingly impossible shots.
+de:
+  title: Einstimmigkeit
+  subtitle: ''
+  text: Entdecke einen Elben, um solange Karten von deinem Spieldeck aufzudecken bis du eine Schattenkarte aufdeckst. Gib einem Elben Stärke +2 für jede so aufgedeckte Karte. Lege die aufgedeckten Karten in beliebiger Reihenfolge unter dein Spieldeck.
+  lore: Es gibt keinen unmöglichen Schuss für einen Elben.

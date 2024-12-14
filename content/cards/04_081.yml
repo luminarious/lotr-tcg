@@ -1,0 +1,17 @@
+set: '4'
+rarity: U
+number: '81'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Pengedhel
+  subtitle: Naith Warrior
+  text: |-
+    To play, spot an Elf.   
+    While Pengedhel bears a ranged weapon, he is strength +2 and he does not add to the fellowship archery total. 
+  lore: Pengedhel can wield an arrow like a short spear.

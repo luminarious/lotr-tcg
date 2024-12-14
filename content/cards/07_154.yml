@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '154'
+unique: true
+culture: Raider
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: New Strength Came Now
+  subtitle: ''
+  text: 'Make a :raider: Man strength +3 (or +6 if you have initiative).'
+  lore: …Southrons in scarlet….
+de:
+  title: Von neuer Kraft durchströmt
+  subtitle: ''
+  text: 'Gib einem :raider: Menschen Stärke +3 (oder Stärke +6, wenn du die Initiative besitzt).'
+  lore: …Südländer in Scharlachrot…

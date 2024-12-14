@@ -1,0 +1,13 @@
+set: '15'
+rarity: R
+number: '42'
+unique: true
+culture: Gollum
+type: Event
+class: Regroup
+cost: 3
+en:
+  title: Desperate Move
+  subtitle: ''
+  text: 'Discard a :gollum: minion from play to discard a companion. The Free Peoples player may make the move limit –1 this turn to prevent that.'
+  lore: ‘He leaped into the waters, but the Ring slipped from his finger as he swam…’

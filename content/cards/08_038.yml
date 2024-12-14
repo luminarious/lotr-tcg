@@ -1,0 +1,25 @@
+set: '8'
+rarity: R
+number: '38'
+unique: true
+culture: Gondor
+type: Companion
+race: Wraith
+cost: 4
+str: '7'
+vit: '4'
+signet: Signet_Aragorn
+en:
+  title: King of the Dead
+  subtitle: Oathbreaker
+  text: |-
+    **Enduring.** To play, spot a :gondor: Wraith and add 2 threats.   
+    **Response:** If Aragorn is about to take a wound in a skirmish, exert King of the Dead to prevent that wound.
+  lore: ‘…crying out that the King of the Dead was upon them.’
+de:
+  title: Der König der Toten
+  subtitle: Eidbrecher
+  text: |-
+    **Zäh.** Entdecke ein :gondor: Gespenst und lasse 2 Bedrohungen entstehen, um den König der Toten zu spielen.   
+    **Reaktion:** Strenge den König der Toten an, wenn Aragorn eine Wunde in einem Kampf erleidet, um diese Wunde zu verhindern.
+  lore: … und sie riefen, der König der Toten sei über ihnen.

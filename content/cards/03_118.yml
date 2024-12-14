@@ -1,0 +1,33 @@
+set: '3'
+rarity: C
+number: '118'
+unique: true
+culture: ''
+type: Site
+cost: 6
+siteArrow: Right
+en:
+  title: The Great River
+  subtitle: ''
+  text: '**River.** While the fellowship is at The Great River, cards may not be played from draw decks or discard piles. '
+  lore: ''
+de:
+  title: Der große Strom
+  subtitle: ''
+  text: '**Fluss.**Solange sich die Gemeinschaft hier befindet, dürfen keine Karten aus den Spieldecks oder Ablagestapeln gespielt werden.'
+  lore: ''
+fr:
+  title: Le Grand Fleuve
+  subtitle: ''
+  text: '**Rivière.**Tant que la compagnie se trouve au Grand Fleuve, il est interdit de jouer des cartes des pioches ou des piles de défausse.'
+  lore: ''
+it:
+  title: Il Grande Fiume
+  subtitle: ''
+  text: '**Fiume.**Mentre la compagnia è a Il Grande Fiume, le carte non possono essere giocate dai mazzi di gioco o dalle pile degli scarti.'
+  lore: ''
+es:
+  title: El Gran Río
+  subtitle: ''
+  text: '**Río.**Mientras la comunidad está en El Gran Río, no se pueden jugar cartas de los mazos de robar ni de las pilas de descarte.'
+  lore: ''

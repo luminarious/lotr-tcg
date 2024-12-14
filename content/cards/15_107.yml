@@ -1,0 +1,16 @@
+set: '15'
+rarity: C
+number: '107'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 2
+str: '12'
+vit: '3'
+site: 4
+en:
+  title: Desolation Orc
+  subtitle: ''
+  text: 'To play, spot 3 Free Peoples cultures or discard 2 :orc: conditions from play.'
+  lore: Neither Man nor beast can withstand the fury of the Orcs.

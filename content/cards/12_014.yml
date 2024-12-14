@@ -1,0 +1,22 @@
+set: '12'
+rarity: U
+number: '14'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Stalwart Support
+  subtitle: ''
+  text: |-
+    Each Dwarf gains **muster.** *(At the start of the regroup phase, you may discard a card from hand to draw a card.)*   
+    Each time the fellowship moves from a plains site, discard a card from your hand.
+  lore: ‘…I am glad to have you standing nigh….’
+de:
+  title: Treuer Rückhalt
+  subtitle: ''
+  text: |-
+    Jeder Zwerg erhält **Appell**. *(Zu Beginn der Sammelphase darfst du eine Karte aus deiner Hand ablegen, um eine Karte zu ziehen.)*  
+    Lege jedes Mal, wenn sich die Gemein-schaft von einer Ebene fortbewegt, eine Handkarte ab.
+  lore: … ich bin froh, dass du neben mir stehst….

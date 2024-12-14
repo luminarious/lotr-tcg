@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '96'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '7'
+en:
+  title: Éowyn
+  subtitle: Northwoman
+  text: |-
+    While the Ring-bearer is assigned to a skirmish, Éowyn cannot take wounds while skirmishing.  
+    **Assignment:** Exert Éowyn and assign a minion to the Ring-bearer to make that minion lose all keywords and unable to gain keywords until the regroup phase.
+  lore: ''

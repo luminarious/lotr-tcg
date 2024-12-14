@@ -1,0 +1,36 @@
+set: '4'
+rarity: U
+number: '147'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Covering Fire
+  subtitle: ''
+  text: |-
+    To play, spot 2 :isengard: archers. Plays to your support area.  
+    The Free Peoples player may not play archery events or use archery special abilities.  
+    Discard this condition during the regroup phase. 
+  lore: Archers cowered on the walls, unable to reply.
+de:
+  title: Deckungsfeuer
+  subtitle: ''
+  text: 'Entdecke 2 :isengard: Bogenschützen, um diese Karte in deinen Unterstützungsbereich zu spielen. Der Freie Völker Spieler darf keine Fern-kampfereignisse spielen und keine besonderen Fernkampffähigkeiten benutzen. Dieser Effekt wird in der Sammelphase abgelegt.'
+  lore: Bogenschützen duckten sich hinter den Wall, nicht in der Lage das Feuer zu erwidern.
+fr:
+  title: Tir de Couverture
+  subtitle: ''
+  text: Pour jouer, désignez 2 archers:isengard:. Le joueur des Peuples Libres ne peut pas jouer d’événements d’archerie ni utiliser des capacités spéciales d’archerie. Défaussez cette situation durant la phase de ralliement.
+  lore: Incapables de répliquer, les archers ne quittaient pas les murailles.
+it:
+  title: Fuoco di Copertura
+  subtitle: ''
+  text: Per giocarla, avvista 2 arcieri :isengard:. Il giocatore dei Popoli Liberi non può giocare eventi degli arcieri o usare abilità speciali degli arcieri. Scarta questa condizione durante la fase di raccolta.
+  lore: Gli arcieri si rannicchiarono contro le mura, incapaci di rispondere al fuoco.
+es:
+  title: Fuego De Cobertura
+  subtitle: ''
+  text: Para jugarla, avista 2 arqueros :isengard:. El jugador de Gentes Libres no puede jugar eventos de arquería o usar habilidades especiales de arquería. Descarta esta condición durante la fase de reagrupación.
+  lore: Los arqueros se refugiaron en los muros, incapaces de responder.

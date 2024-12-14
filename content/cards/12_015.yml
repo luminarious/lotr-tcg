@@ -1,0 +1,16 @@
+set: '12'
+rarity: U
+number: '15'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 3
+str: '7'
+vit: '3'
+res: '6'
+en:
+  title: Thrarin
+  subtitle: Smith of Erebor
+  text: For each artifact and possession Thrarin bears, he is **damage +1.**
+  lore: Like many other representatives who have come to Rivendell, Thrarin the smith brings troubling news from the East.

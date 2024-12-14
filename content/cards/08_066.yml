@@ -1,0 +1,18 @@
+set: '8'
+rarity: C
+number: '66'
+unique: true
+culture: Raider
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Wind That Sped Ships
+  subtitle: ''
+  text: 'Make a corsair strength +1 for each :raider: token you spot (limit +6). If you have initiative, you may place this event on top of your draw deck.'
+  lore: …black against the glittering stream… a fleet borne up on the wind….
+de:
+  title: Wind, der Schiffe vorantreibt
+  subtitle: ''
+  text: 'Gib einem Corsaren Stärke +1 für jede :raider: Marke, die du entdeckst (maximal +6). Du darfst dieses Ereignis oben auf dein Spieldeck legen, wenn du die Initiative besitzt.'
+  lore: … denn schwarz gegen den glitzernden Strom erblickten sie eine Flotte, vom Wind herangetragen….

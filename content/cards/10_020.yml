@@ -1,0 +1,24 @@
+set: '10'
+rarity: U
+number: '20'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Final Strike
+  subtitle: ''
+  text: |-
+    Any site 9 is a mountain.   
+    **Shadow:** If the fellowship is at any site 9, play Gollum from your discard pile.   
+    **Response:** If the Free Peoples player uses a maneuver or archery special ability, exert Gollum to cancel its effect. 
+  lore: The fires below awoke in anger….
+de:
+  title: Ein letzter Angriff
+  subtitle: ''
+  text: |-
+    Jeder Ort 9 ist ein Gebirge.   
+    **Schatten:** Spiele Gollum aus deinem Ablagestapel, wenn sich die Gemeinschaft an einem Ort 9 befindet.   
+    **Reaktion:** Strenge Gollum an, um eine Manöver oder Fernkampf Spezialfähigkeit, die der Freie Völker Spieler benutzt, zu verhindern.
+  lore: Die Feuer unten erwachten voll Zorn….

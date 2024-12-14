@@ -1,0 +1,16 @@
+set: '13'
+rarity: R
+number: '33'
+unique: true
+culture: Gandalf
+type: Companion
+race: Wizard
+cost: 4
+str: '7'
+vit: '4'
+res: '5'
+en:
+  title: Gandalf
+  subtitle: Bearer of Obligation
+  text: 'While Gandalf is the Ring-bearer, each time the fellowship moves, add 3 burdens unless you spot 2 other companions and discard 2 :gandalf: cards from hand.'
+  lore: ‘But all worthy things that are in peril as the world now stands, those are my care.’

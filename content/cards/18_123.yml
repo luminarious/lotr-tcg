@@ -1,0 +1,13 @@
+set: '18'
+rarity: U
+number: '123'
+unique: true
+culture: Uruk-hai
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Tracking the Prize
+  subtitle: ''
+  text: 'While you can spot 3 :urukhai: hunters, at the start of each skirmish involving an :urukhai: hunter, each companion skirmishing that minion must exert.'
+  lore: Though bred for battle, the Uruks could track prey like the best of hunters.

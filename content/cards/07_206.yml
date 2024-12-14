@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '206'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Stronghold of Minas Morgul
+  subtitle: ''
+  text: |-
+    **Response:** If your :wraith: minion wins a skirmish, place a :wraith: token here (limit 1 per site).   
+    **Regroup:** Spot 3 :wraith: tokens here to exhaust the Ring–bearer. Discard this condition.
+  lore: ''
+de:
+  title: Die Feste Minas Morgul
+  subtitle: ''
+  text: |-
+    **Reaktion:** Lege eine :wraith: Marke auf diese Karte, wenn einer deiner :wraith: Diener einen Kampf gewinnt (maximal 1 pro Ort).   
+    **Sammeln:** Entdecke 3 :wraith: Marken hier, um den Ringträger zu erschöpfen. Lege diesen Effekt ab.
+  lore: ''

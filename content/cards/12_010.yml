@@ -1,0 +1,22 @@
+set: '12'
+rarity: R
+number: '10'
+unique: true
+culture: Dwarven
+type: Event
+class: Fellowship
+cost: 4
+en:
+  title: No Pauses, No Spills
+  subtitle: ''
+  text: |-
+    **Toil 2.** *(For each* :dwarven: *character you exert when playing this, its twilight cost is –2.)*   
+    Spot 2 Dwarves to draw up to 4 cards.
+  lore: And no regurgitation!
+de:
+  title: Kein Absetzen,kein Verschütten
+  subtitle: ''
+  text: |-
+    **Mühe 2.** *(Für jeden *:dwarven: *Charakter, den du beim Ausspielen dieser Karte anstrengst, reduzieren sich deren Kosten um 2.)*  
+    Entdecke 2 Zwerge, um bis zu 4 Karten zu ziehen.
+  lore: Und währenddessen kein Gespeie!

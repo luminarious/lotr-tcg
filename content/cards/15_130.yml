@@ -1,0 +1,18 @@
+set: '15'
+rarity: C
+number: '130'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '5'
+vit: '3'
+res: '6'
+en:
+  title: Horseman of the North
+  subtitle: ''
+  text: |-
+    While you can spot a valiant Man, this companion’s twilight cost is -1.  
+    This companion is strength +2 while no opponent controls a site.
+  lore: ‘And they became our allies, and have ever proved true to us…’

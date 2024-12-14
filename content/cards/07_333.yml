@@ -1,0 +1,17 @@
+set: '7'
+rarity: U
+number: '333'
+unique: true
+culture: ''
+type: Site
+siteArrow: Left
+en:
+  title: Sleeping Quarters
+  subtitle: ''
+  text: When the fellowship moves from this site, the Free Peoples player may spot 3 Hobbits to remove :twilight2:.
+  lore: ''
+de:
+  title: Schlafräume
+  subtitle: ''
+  text: 'Wenn sich die Gemeinschaft von diesem Ort fortbewegt, darf der Freie Völker Spieler 3 Hobbits entdecken, um den Einfluss um :twilight2: zu verringern.'
+  lore: ''

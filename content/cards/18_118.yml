@@ -1,0 +1,19 @@
+set: '18'
+rarity: R
+number: '118'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 7
+str: '13'
+vit: '3'
+site: 5
+en:
+  title: Lurtz
+  subtitle: Halfling Hunter
+  text: |-
+    **Archer. Damage +1.**  
+    **Maneuver:** Spot 6 companions to make Lurtz **fierce** until the regroup phase.  
+    **Assignment:** Exert Lurtz twice to assign it to an unbound companion. The Free Peoples player may exert that companion or add a burden to prevent this.
+  lore: ''

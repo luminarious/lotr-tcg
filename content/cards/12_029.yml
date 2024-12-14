@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '29'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 2
+en:
+  title: Introspection
+  subtitle: ''
+  text: '**Spell.** Choose one: Spot a :gandalf: Wizard to choose an opponent who must discard one of his or her conditions from play; or spot a :gandalf: Wizard at a battleground site to discard a condition from play.'
+  lore: ‘…I do not know the word – yet. But we shall soon see.’
+de:
+  title: Selbsterkenntnis
+  subtitle: ''
+  text: '**Zauberspruch.** Wähle: Entdecke entweder einen :gandalf: Zauberer, um einen Gegenspieler auszuwählen, der einen seiner Effekte aus dem Spiel ablegen muss; oder entdecke einen :gandalf: Zauberer auf einem Schlachtfeld, um einen Effekt aus dem Spiel abzulegen.'
+  lore: … dass ich das Wort nicht weiß - noch nicht weiß.

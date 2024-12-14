@@ -1,0 +1,18 @@
+set: '11'
+rarity: C
+number: '62'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '7'
+en:
+  title: Madril
+  subtitle: Ranger of Ithilien
+  text: |-
+    **Ranger.**  
+    **Fellowship:** If Madril is at a forest site, exert him to play the fellowship’s next site. 
+  lore: ‘…we must look to our own borders. Faramir, Orcs are on the move.’

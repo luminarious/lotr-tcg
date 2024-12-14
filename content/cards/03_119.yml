@@ -1,0 +1,33 @@
+set: '3'
+rarity: U
+number: '119'
+unique: true
+culture: ''
+type: Site
+cost: 0
+siteArrow: Right
+en:
+  title: House of Elrond
+  subtitle: ''
+  text: '**Sanctuary.** When the fellowship moves to House of Elrond, the Free Peoples player may spot 2 Elves to remove a burden. '
+  lore: ''
+de:
+  title: Elronds Haus
+  subtitle: ''
+  text: '**Zuflucht.**Wenn die Gemeinschaft Elronds Haus erreicht, entdecke 2 Elben, um eine Lastmarke zu entfernen.'
+  lore: ''
+fr:
+  title: La Maison d'Elrond
+  subtitle: ''
+  text: '**Sanctuaire.**Quand la compagnie arrive à la Maison, le joueur des Peuples Libres peut désigner 2 Elfes pour retirer un point-fardeau.'
+  lore: ''
+it:
+  title: Casa di Elrond
+  subtitle: ''
+  text: '**Rifugio.** Quando la compagnia arriva nella Casa, il giocatore dei Popoli Liberi può avvistare 2 Elfi per rimuovere un segnalino fardello.'
+  lore: ''
+es:
+  title: Casa de Elrond
+  subtitle: ''
+  text: '**Santuario.** Cuando la comunidad se mueve a la Casa de Elrond, el jugador de Gentes Libres puede avistar 2 Elfos para quitar una carga.'
+  lore: ''

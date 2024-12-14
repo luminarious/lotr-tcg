@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '111'
+unique: true
+culture: Gondor
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: Pursuit Just Behind
+  subtitle: ''
+  text: '**Regroup:** Exert a ranger companion to wound every minion.'
+  lore: ‘We must do something to delay the enemy first. We will make them fear the Chamber of Mazarbul!’
+de:
+  title: Sie sind direkt hinter uns!
+  subtitle: ''
+  text: '**Sammeln:** Strenge einen Waldläufergefährten an, um jeden Diener zu verwunden.'
+  lore: Wir müssen erst etwas tun, um den Feind aufzuhalten. Wir wollen sie lehren, die Kammer von Mazarbul zu fürchten!
+fr:
+  title: À leurs Trousses
+  subtitle: ''
+  text: '**Ralliement :** Affaiblissez un compagnon rôdeur pour blesser tous les séides.'
+  lore: ‘Il faut d'abord faire quelque chose pour retarder l'ennemi. Nous allons leur inspirer la crainte de la Chambre de Mazarbul !’
+it:
+  title: Inseguimento Incalzante
+  subtitle: ''
+  text: '**Raccolta:** Sforza un compagno Ramingo per ferire ogni servitore.'
+  lore: ‘Dobbiamo fare qualcosa per contenere il nemico. Faremo loro temere la Camera di Mazarbul!’
+es:
+  title: Acoso En La Retaguardia
+  subtitle: ''
+  text: '**Reagrupación:** Esfuerza un compañero montaraz para herir cada siervo.'
+  lore: Ante todo tratemos de demorarlos. ¡Haremos que teman a la Cámara de Mazarbul!

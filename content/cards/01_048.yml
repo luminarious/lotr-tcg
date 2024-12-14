@@ -1,0 +1,17 @@
+set: '1'
+rarity: U
+number: '48'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Haldir
+  subtitle: Elf of the Golden Wood
+  text: |-
+    To play, spot an Elf.   
+    While Haldir is at site 6, 7, or 8, he is strength +2.
+  lore: ‘But there are some of us still who go abroad for the gathering of news and the watching of our enemies…. I am one. Haldir is my name.’

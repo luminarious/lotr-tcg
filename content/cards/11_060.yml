@@ -1,0 +1,18 @@
+set: '11'
+rarity: R
+number: '60'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: The Highest Quality
+  subtitle: ''
+  text: 'Exert any number of :gondor: companions who have total resistance 12 or more to make a minion skirmishing a :gondor: companion strength –3 for each companion exerted this way. '
+  lore: ‘Captain Faramir, you have shown your quality, sir. The very highest.’
+de:
+  title: Das Höchste wert
+  subtitle: ''
+  text: 'Strenge eine beliebige Anzahl von :gondor: Gefährten mit einer gesamten Resistenz von 12 oder mehr an, um einem Diener, der gegen einen :gondor: Gefährten kämpft, für jeden so angestrengten Gefährten Stärke -3 zu geben.'
+  lore: Heermeister Faramir, Ihr habt gezeigt, was ihr wert seid, Herr. Das Allerhöchste.

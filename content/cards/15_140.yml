@@ -1,0 +1,17 @@
+set: '15'
+rarity: U
+number: '140'
+unique: true
+culture: Rohan
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+1'
+res: '+1'
+en:
+  title: Spear of the Mark
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    If bearer is mounted, bearer is **defender +1**. 
+  lore: Rohirrim spears are much deadlier when the bearer is on horseback.

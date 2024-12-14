@@ -1,0 +1,25 @@
+set: '8'
+rarity: R
+number: '49'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 6
+str: '12'
+vit: '3'
+site: 4
+en:
+  title: Black Númenorean
+  subtitle: ''
+  text: |-
+    **Corsair.** **Fierce.**   
+    **Skirmish:** If you have initiative, remove a :raider: token to discard a possession borne by a character skirmishing this minion.
+  lore: …corrupted by Sauron, and who hated above all the followers of Elendil.
+de:
+  title: Schwarze Númenórer
+  subtitle: ''
+  text: |-
+    **Corsar.** **Erbittert.**   
+    **Kampf:** Entferne eine :raider: Marke, wenn du die Initiative besitzt, um eine Ausrüstung von einem Charakter abzulegen, gegen den dieser Diener kämpft.
+  lore: … von Sauron verdorben, der die Nachfahren Elendils mehr als alles andere hasste.

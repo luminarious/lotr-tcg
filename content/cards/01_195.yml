@@ -1,0 +1,35 @@
+set: '1'
+rarity: R
+number: '195'
+unique: true
+culture: Moria
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Relics of Moria
+  subtitle: ''
+  text: |-
+
+    **Shadow:** Remove :twilight2: to play a :moria: possession from your discard pile.
+  lore: By both the doors they could now see that many bones were lying, and among them were broken swords and axe-heads, and cloven shields and helms.
+de:
+  title: Die Relikte von Moria
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Schatten:** Verringere den Einfluss um :twilight2:, um eine :moria: Ausrüstungskarte aus deinem Ablagestapel zu spielen.'
+  lore: An beiden Türen sahen sie jetzt viele Knochen liegen und dazwischen zerbrochene Schwerter und Eisen von Äxten und gespaltene Schilde und Helme.
+fr:
+  title: Reliques de la Moria
+  subtitle: ''
+  text: Jouable dans votre aire de soutien.
+  lore: 'Ombre: Retirez :twilight2: pour jouer une possession :moria: de votre pile de défausse.'
+it:
+  title: Reliquie di Moria
+  subtitle: ''
+  text: '**Ombra:** Rimuovi :twilight2: per giocare un bene :moria: dalla tua pila degli scarti.'
+  lore: Riuscirono ora a vedere che vicino ad ambedue le soglie giacevano molte ossa, miste con spade rotte, pezzi d'asce, scudi spaccati ed elmi.
+es:
+  title: Reliquias de Moria
+  subtitle: ''
+  text: '**Sombra:** Quita :twilight2: para jugar una posesión :moria: de tu pila de descartes.'
+  lore: Junto a las dos puertas podían ver ahora muchos huesos desparramados, y entre ellos espadas y hachas rotas, y escudos y cascos hendidos.

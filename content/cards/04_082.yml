@@ -1,0 +1,38 @@
+set: '4'
+rarity: U
+number: '82'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Strength of Arms
+  subtitle: ''
+  text: |-
+
+    Each time an Elf wins a skirmish, you may place an :elven: token on this card.   
+    **Skirmish: **Make a minion skirmishing an Elf strength -1 for each :elven: token here (limit -3). Discard this condition. 
+  lore: Elvish weapons were more than a match for the Uruks.
+de:
+  title: Kraft der Waffen
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn ein Elb einen Kampf gewinnt, darfst du eine :elven: Marke auf diese Karte legen. **Kampf** Gib einem Diener, der gegen einen Elben kämpft, Stärke -1 für jede :elven: Marke auf dieser Karte (max. -3).'
+  lore: Die elbischen Waffen waren mehr als nur eine Herausforderung für die Uruks.
+fr:
+  title: La Force Par les Armes
+  subtitle: ''
+  text: 'Chaque fois qu’un Elfe gagne un combat, vous pouvez déposer un jeton :œ: sur cette carte. **Combat :** Pour chaque jeton :œ: qui se trouve ici, donnez -1 en force à un séide qui combat un Elfe (limite de -3). Défaussez cette s'
+  lore: Les armes elfiques étaient bien évidemment à la hauteur des Ourouks.
+it:
+  title: Forza delle Armi
+  subtitle: ''
+  text: |-
+    Ogni volta che un Elfo vince una schermaglia, puoi piazzare un segnalino :elven: su questa carta.   
+    **Schermaglia:** Sottrai -1 alla forza di un servitore che stia schermagliando con un Elfo per ogni segnalino :elven: presente qui (lim
+  lore: Le armi elfiche furono più di una sfida per gli Uruk.
+es:
+  title: Fuerza De Las Armas
+  subtitle: ''
+  text: 'Cada vez que un Elfo gana una escaramuza, pon un contador :elven: en esta carta. **Escaramuza:** Da a un siervo que esté en una escaramuza contra un Elfo fuerza -1 por cada contador :elven: (límite -3). Descarta esta condición.'
+  lore: Las armas Élficas fueron más que un reto para los Uruk.

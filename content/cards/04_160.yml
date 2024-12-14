@@ -1,0 +1,25 @@
+set: '4'
+rarity: R
+number: '160'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Mauhúr
+  subtitle: Patrol Leader
+  text: |-
+    **Tracker.** **Fierce.**  
+    **Skirmish:** Remove :twilight2: to prevent an :isengard: tracker from taking wounds. 
+  lore: ‘Mauhúr and his lads are in the forest, and they should turn up any time now.’
+fr:
+  title: Mauhour
+  subtitle: Chef de Patrouille
+  text: |-
+    **Traqueur.** **Acharné.**  
+    **Combat :** Retirez :twilight2: pour empêcher un traqueur :isengard: d’être blessé.
+  lore: 'Mauhour et ses gars sont dans la forêt, et ils devraient se montrer d''un moment à l''autre, à présent.” '

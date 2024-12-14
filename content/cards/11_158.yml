@@ -1,0 +1,20 @@
+set: '11'
+rarity: R
+number: '158'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Sword Rack
+  subtitle: ''
+  text: |-
+    **Response:** If a :rohan: possession is discarded from play and no more than one possession is stacked here, stack it here.   
+    **Fellowship:** Add :twilight1: to play a possession stacked here as if from hand. 
+  lore: In Rohan, equal craft is brought to the exhibition of a blade as to the forging.
+de:
+  title: Schwertständer
+  subtitle: ''
+  text: '**Reaktion:** Wenn hier nicht mehr als eine Karte gelagert ist, lagere hier eine :rohan: Ausrüstung, die aus dem Spiel abgelegt wird. **Gemeinschaft:** Erhöhe den Einfluss um :twilight1: , um eine hier gelagerte Ausrüstung wie von der Hand zu spielen.'
+  lore: In Rohan ist das Aussehen der Klinge ebenso wichtig wie ihre Qualität.

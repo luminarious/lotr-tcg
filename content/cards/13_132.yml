@@ -1,0 +1,21 @@
+set: '13'
+rarity: C
+number: '132'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '5'
+en:
+  title: Merchant of Westfold
+  subtitle: ''
+  text: 'Each time the fellowship moves, you may add :twilight1: and remove a Free Peoples culture token to reinforce a :rohan: token.'
+  lore: Villagers from the surrounding farmlands fled to Helm’s Deep seeking safety.
+de:
+  title: Händler aus Westfold
+  subtitle: ''
+  text: 'Du darfst jedes Mal, wenn sich die Gemeinschaft bewegt, den Einfluss um :twilight1: erhöhen und eine Kulturmarke der Freien Völker entfernen, um eine :rohan: Marke zu ergänzen.'
+  lore: Die Dorfbewohner aus den umliegenden Gehöften suchten Schutz in Helms Klamm.

@@ -1,0 +1,43 @@
+set: '5'
+rarity: C
+number: '36'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Knight of Gondor
+  subtitle: ''
+  text: |-
+    **Knight.**  
+    **Fellowship:** Discard a :gondor: condition to heal this companion.
+  lore: The brave men of Gondor’s army were well-armed and armored.
+de:
+  title: Ritter von Gondor
+  subtitle: ''
+  text: '**Ritter.** Gemeinschaft. Lege einen :gondor: Effekt ab, um diesen Gefährten zu heilen.'
+  lore: Die mutigen Männer aus Gondors Armee waren wohl bewaffnet und gerüstet.
+fr:
+  title: Chevalier du Gondor
+  subtitle: ''
+  text: |-
+    **Chevalier.**   
+    **Compagnie :** Défaussez une situation :gondor: pour guérir ce compagnon.
+  lore: Les braves hommes de l'armée du Gondor était bien armés et aussi bien protégés.
+it:
+  title: Cavaliere di Gondor
+  subtitle: ''
+  text: |-
+    **Cavaliere.**   
+    **Compagnia:** Scarta una condizione :gondor: per curare questo compagno.
+  lore: I coraggiosi uomini dell'esercito di Gondor erano ben armati e protetti.
+es:
+  title: Caballero de Gondor
+  subtitle: ''
+  text: |-
+    **Caballero.**   
+    **Comunidad:** Descarta una condición :gondor: para curar este compañero.
+  lore: Los valientes hombres del ejercito de Gondor estaban bien armados y protegidos.

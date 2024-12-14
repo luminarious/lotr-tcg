@@ -1,0 +1,36 @@
+set: '5'
+rarity: C
+number: '106'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 1
+str: '5'
+vit: '2'
+site: 6
+en:
+  title: Orc Infantry
+  subtitle: ''
+  text: '**Regroup:** Spot a :sauron: condition and discard this minion to take control of a site.'
+  lore: Barad-dûr sent Orcs to all corners of Middle-earth.
+de:
+  title: Ork Fußsoldat
+  subtitle: ''
+  text: '**Sammeln:** Entdecke einen :sauron: Effekt und lege diesen Diener ab, um einen Ort zu kontrollieren.'
+  lore: Barad-dûr entsandte seine Orks gegen alle Länder Mittelerdes.
+fr:
+  title: Infanterie Orque
+  subtitle: ''
+  text: '**Ralliement :** Désignez une situation :sauron: et défaussez ce séide pour prendre le contrôle d’un site.'
+  lore: Barad-dûr envoya des Orques à tous les coins de la Terre du Milieu.
+it:
+  title: Fanteria degli Orchi
+  subtitle: ''
+  text: '**Raccolta:** Avvista una condizione :sauron: e scarta questo servitore per prendere il controllo di un sito.'
+  lore: Barad-dûr mandò Orchi in tutti gli angoli della Terra di Mezzo.
+es:
+  title: Infantería Orca
+  subtitle: ''
+  text: '**Reagrupación:** Avista una condición :sauron: y descarta este siervo para tomar el control de un sitio.'
+  lore: Barad-dûr envió Orcos a todas las esquinas de la Tierra Media.

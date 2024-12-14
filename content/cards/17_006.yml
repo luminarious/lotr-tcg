@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '6'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Thorin III
+  subtitle: Stonehelm
+  text: |-
+    **Damage +1.**  
+    Each time a minion loses a skirmish involving Thorin III, its owner discards the top card from his or her draw deck. 
+  lore: Veteran warrior and keen leader, Stonehelm drove the enemy from Dale.

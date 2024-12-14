@@ -1,0 +1,19 @@
+set: '9'
+rarity: R+
+number: '4'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+res: ''
+en:
+  title: Gimli
+  subtitle: Bearer of Grudges
+  text: |-
+    **Damage +1.**   
+    While Gimli is the Ring-bearer, at the start of each skirmish involving him, add 2 burdens or 2 threats.   
+    While Gimli is damage +X, he is resistance +X. 
+  lore: ‘Never trust an Elf.’

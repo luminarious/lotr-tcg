@@ -1,0 +1,36 @@
+set: '6'
+rarity: C
+number: '67'
+unique: true
+culture: Isengard
+type: Minion
+race: Orc
+cost: 2
+str: '5'
+vit: '3'
+site: 4
+en:
+  title: Isengard Journeyman
+  subtitle: ''
+  text: '**Regroup:** Discard an :isengard: Orc to make the Free Peoples player wound a companion.'
+  lore: Drudgery and toil at Isengard left Saruman’s minions hungry for sport.
+de:
+  title: Isengart Handwerksgeselle
+  subtitle: ''
+  text: '**Sammeln:** Lege einen :isengard: Ork ab, um den Freie Völker Spieler zu zwingen, einen Gefährten zu verwunden.'
+  lore: Die Schufterei und die Mühen in Isengart schürten die Kampfeslaune von Sarumans Dienern.
+fr:
+  title: Ouvrier de l'Isengard
+  subtitle: ''
+  text: '**Ralliement :** Défaussez un Orque :isengard: pour forcer le joueur des Peuples Libres à blesser un compagnon.'
+  lore: Les durs labeurs à l'Isengard rendaient encore plus criant le besoin de sport chez les séides de Saroumane.
+it:
+  title: Apprendista di Isengard
+  subtitle: ''
+  text: '**Raccolta:** Scarta un Orco :isengard: per far ferire un compagno al giocatore dei Popoli Liberi.'
+  lore: Il duro lavoro e la fatica a Isengard resero i servitori di Saruman vogliosi di divertimenti.
+es:
+  title: Viajero de Isengard
+  subtitle: ''
+  text: '**Reagrupación:** Descarta un Orco :isengard: para hacer que el jugador de Gentes Libres hiera un compañero.'
+  lore: El trabajo duro y los esfuerzos dejaron a los siervos de Saruman hambrientos de caza.

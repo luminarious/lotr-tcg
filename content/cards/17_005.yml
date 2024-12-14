@@ -1,0 +1,13 @@
+set: '17'
+rarity: U
+number: '5'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Axe-work
+  subtitle: ''
+  text: Make a Dwarf strength +2 (or if you cannot spot a threat, make that Dwarf strength +1 For each Dwarf you can spot).
+  lore: Brave in battle, Dwarven pride and will cannot be broken.

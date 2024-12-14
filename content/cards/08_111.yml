@@ -1,0 +1,18 @@
+set: '8'
+rarity: C
+number: '111'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: So Fair, So Desperate
+  subtitle: ''
+  text: 'If the Shadow has initiative, add a threat to make an unbound Hobbit strength +1 for each :shire: card you spot.'
+  lore: ‘King’s man! King’s man!’ his heart cried within him.
+de:
+  title: So schön, so verzweifelt
+  subtitle: ''
+  text: 'Lasse eine Bedrohung entstehen, wenn die Schattenseite die Initiative besitzt, um einem nicht-verbunden Hobbit Stärke +1 für jede :shire: Karte, die du entdeckst, zu geben.'
+  lore: Sie sollte nicht sterben…. Zumindest sollte sie nicht allein sterben, ohne Hilfe.

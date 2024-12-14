@@ -1,0 +1,21 @@
+set: '13'
+rarity: S
+number: '85'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Cruel Dunlending
+  subtitle: ''
+  text: '**Skirmish:** If this minion is not assigned to a skirmish, you may exert him to make another :men: minion **fierce** until the regroup phase.'
+  lore: Burning with a rage stoked by Saruman, the Wild Hillmen made the Rohirrim villagers suffer.
+de:
+  title: Grausamer Dunländer
+  subtitle: ''
+  text: '**Kampf:** Du darfst diesen Diener anstrengen, wenn er keinem Kampf zugewiesen ist, um einen anderen :men: Diener bis zur Sammelphase **erbittert** zu machen.'
+  lore: Angestachelt durch Sarumans Worte, ließen die wilden Bergbewohner die Rohirrim leiden.

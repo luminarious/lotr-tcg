@@ -1,0 +1,16 @@
+set: '13'
+rarity: R
+number: '63'
+unique: true
+culture: Gondor
+type: Possession
+class: Mount
+cost: 2
+en:
+  title: Brego
+  subtitle: Loyal Steed
+  text: |-
+    Bearer must be a :gondor: companion.  
+    When you play Brego, you may reinforce a :gondor: token.  
+    **Maneuver:** Exert bearer and remove 2 :gondor: tokens to wound a minion.
+  lore: ‘Turn this fellow free. He has seen enough of war.’

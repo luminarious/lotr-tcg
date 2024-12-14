@@ -1,0 +1,17 @@
+set: '10'
+rarity: R
+number: '8'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 4
+str: '7'
+vit: '4'
+en:
+  title: Círdan
+  subtitle: The Shipwright
+  text: |-
+    To play, spot 2 Elves.   
+    **Skirmish:** Exert Círdan to make a minion he is skirmishing strength –1 for each :elven: event in your discard pile.
+  lore: …he was grey and old, save that his eyes were keen as stars….

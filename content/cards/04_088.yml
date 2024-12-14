@@ -1,0 +1,38 @@
+set: '4'
+rarity: U
+number: '88'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Behold the White Rider
+  subtitle: ''
+  text: |-
+
+    Each time Gandalf wins a skirmish, you may place a :gandalf: token here.   
+    **Skirmish:** Wound a minion skirmishing Gandalf for each :gandalf: token here. Discard this condition. 
+  lore: ‘Gandalf is come again.’
+de:
+  title: Sehet den weißen Reiter
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn Gandalf einen Kampf gewinnt, darfst du eine :gandalf: Marke auf diese Karte legen. **Kampf** Verwunde einen Diener, der gegen Gandalf kämpft, einmal für jede :gandalf: Marke auf dieser Karte. Lege diesen Effekt ab.'
+  lore: Gandalf ist wiedergekommen!
+fr:
+  title: Voilà le Cavalier Blanc
+  subtitle: ''
+  text: 'Chaque fois que Gandalf gagne un combat, vous pouvez déposer un jeton :gandalf: sur cette carte. **Combat :** Blessez un séide qui combat Gandalf pour chaque jeton :gandalf: qui se trouve ici. Défaussez cette situation.'
+  lore: 'Gandalf est revenu!” '
+it:
+  title: Mirate il Bianco Cavaliere
+  subtitle: ''
+  text: |-
+    Ogni volta che Gandalf vince una schermaglia, puoi piazzare qui un segnalino :gandalf:.   
+    **Schermaglia:** Ferisci un servitore che stia schermagliando con Gandalf per ogni segnalino :gandalf: qui presente. Scarta questa condizione.
+  lore: ‘Gandalf è ritornato!’
+es:
+  title: Contemplad Al Jinete Blanco
+  subtitle: ''
+  text: 'Cada vez que Gandalf gana una escaramuza, puedes poner un contador :gandalf: aquí. **Escaramuza:** Hiere un siervo que esté en una escaramuza contra Gandalf por cada contador :gandalf: puesto aquí. Descarta esta condición.'
+  lore: Gandalf ha vuelto.

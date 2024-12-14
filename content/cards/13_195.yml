@@ -1,0 +1,18 @@
+set: '13'
+rarity: O
+number: '195'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+res: '7'
+en:
+  title: Celeborn
+  subtitle: The Wise
+  text: |-
+    While the fellowship is at a forest site, each Elf who has resistance 7 or more gains **muster**.  
+    Each time the fellowship moves during the regroup phase, you may take an :elven: event into hand from your discard pile.
+  lore: ‘I did not know that your plight was so evil.’

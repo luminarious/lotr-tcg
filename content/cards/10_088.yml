@@ -1,0 +1,19 @@
+set: '10'
+rarity: R
+number: '88'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 6
+str: '13'
+vit: '3'
+site: 4
+en:
+  title: Gothmog
+  subtitle: Lieutenant of Morgul
+  text: |-
+    **Besieger.**   
+    When you play Gothmog, the Free Peoples player must wound a companion for each site you control.   
+    While you control a site, Gothmog is **fierce.** 
+  lore: ‘Move into the City. Kill all in your path.’

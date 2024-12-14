@@ -1,0 +1,20 @@
+set: '12'
+rarity: C
+number: '31'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Mysterious Wizard
+  subtitle: ''
+  text: '**Spell.** Make Gandalf strength +2 (or +4 if you cannot spot 5 burdens).'
+  lore: ‘…there are older and fouler things than Orcs in the deep places of the world.’
+de:
+  title: Geheimnisvoller Zauberer
+  subtitle: ''
+  text: |-
+    **Zauberspruch.**  
+    Gib Gandalf Stärke +2 (oder Stärke +4, wenn du keine 5 Lastmarken entdecken kannst).
+  lore: Es gibt in den Tiefen der Welt noch ältere und gemeinere Geschöpfe als Orks.

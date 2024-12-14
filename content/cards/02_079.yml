@@ -1,0 +1,39 @@
+set: '2'
+rarity: U
+number: '79'
+unique: true
+culture: Wraith
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Resistance Becomes Unbearable
+  subtitle: ''
+  text: |-
+    **Maneuver:** Exert a twilight Nazgûl to exert the Ring-bearer.   
+    If the Ring-bearer is then exhausted, he puts on The One Ring until the **regroup** phase. 
+  lore: 'Not with the hope of escape, or of doing anything, either good or bad: he simply felt that he must take the Ring and put it on his finger.'
+de:
+  title: Er vermochte nicht länger zu widerstehen
+  subtitle: ''
+  text: '**Manöver:** Strenge einen Zwielicht Nazgûl an, um den Ringträger anzustrengen. Wenn der Ringträger nun erschöpft ist, muss er den Einen Ring bis zur Sammelphase benutzen.'
+  lore: 'Nicht in der Hoffnung , zu entkommen oder etwas zu tun, ob es gut oder schlecht war: er hatte einfach das Gefühl, er müsse den Ring nehmen und ihn auf den Finger stecken.'
+fr:
+  title: La Résistance Devient Insupportable
+  subtitle: ''
+  text: |-
+    **Manœuvre :** Affaiblissez un Nazgûl crépusculaire pour affaiblir le Porteur de l’Anneau.  
+    Si le porteur est épuisé après ceci, il met l’Anneau au doigt jusqu’à la phase de ralliement.
+  lore: 'Non pas dans l''espoir de s''échapper ou de faire quelque chose, de bon ou de mauvais; il sentait simplement qu''il devait prendre l''Anneau et le passer à son doigt. '
+it:
+  title: Resistere Diventa Insopportabile
+  subtitle: ''
+  text: |-
+    **Manovra:** Sforza un Nazgûl nel Crepuscolo per sforzare il Portatore dell’Anello.  
+    Se il Portatore dell’Anello diventa esausto, egli indossa l’Unico Anello fino alla fase di raccolta.
+  lore: Non era la speranza della fuga né uno scopo qualsiasi, buono o malvagio, ma era semplicemente il bisogno di prendere l'Anello e di metterselo al dito.
+es:
+  title: La resistencia se vuelve insoportable
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un Nazgûl de penumbra para esforzar al Portador del Anillo. Si el Portador del Anillo está entonces exhausto, se pone El Anillo Único hasta la fase de reagrupación.'
+  lore: No con la esperanza de huir, o de hacer cualquier cosa, tanto buena como mala; simplemente sintió que debía tomar el Anillo y ponérselo en el dedo.

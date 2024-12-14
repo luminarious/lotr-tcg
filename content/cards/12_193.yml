@@ -1,0 +1,13 @@
+set: '12'
+rarity: U
+number: '193'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: Starkhorn
+  subtitle: ''
+  text: '**Mountain.** Each time your Dwarf wins a skirmish, you may draw a card.'
+  lore: ''

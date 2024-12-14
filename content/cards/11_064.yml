@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '64'
+unique: true
+culture: Gondor
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Pledge of Loyalty
+  subtitle: ''
+  text: 'Make a :gondor: companion strength +2 (or +3 if he or she has resistance 4 or more). '
+  lore: ‘I ask leave once again to be your companion, Frodo.’
+de:
+  title: Treueschwur
+  subtitle: ''
+  text: 'Gib einem :gondor: Gefährten Stärke +2 (oder +3, wenn seine Resistenz 4 oder mehr beträgt).'
+  lore: Ich erbitte wiederum die Erlaubnis, dein Gefährte zu sein, Frodo.

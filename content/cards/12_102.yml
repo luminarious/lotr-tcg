@@ -1,0 +1,21 @@
+set: '12'
+rarity: C
+number: '102'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '1'
+site: 4
+en:
+  title: Scavenging Goblins
+  subtitle: ''
+  text: 'When you play this minion, you may play an :orc: weapon from your discard pile on your :orc: Orc.'
+  lore: ‘The Orcs have often plundered Moria; there is nothing left in the upper halls.’
+de:
+  title: Plündernde Goblins
+  subtitle: ''
+  text: 'Wenn du diesen Diener spielst, darfst du eine :orc: Waffe aus deinem Ablagestapel auf einen deiner :orc: Orks spielen.'
+  lore: Die Orks haben Moria oft geplündert; in den oberen Hallen ist nichts zurückgeblieben.

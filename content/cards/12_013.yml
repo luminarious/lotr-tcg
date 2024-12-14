@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '13'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Sharp Defense
+  subtitle: ''
+  text: Make a Dwarf strength +2 (or +2 for each possession he bears if he has resistance 4 or more).
+  lore: Gimli hewed the legs from under another that had sprung up on Balin’s Tomb.
+de:
+  title: Scharf pariert
+  subtitle: ''
+  text: Gib einem Zwerg Stärke +2 (oder, wenn er Resistenz 4 oder mehr hat, Stärke +2 für jede Ausrüstung, die er trägt).
+  lore: Gimli hieb einem, der auf Balins Grab gesprungen war, die Beine ab.

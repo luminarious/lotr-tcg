@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '261'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: Valley of the Silverlode
+  subtitle: ''
+  text: '**Dwelling.** **River.** When your fellowship moves to this site, you may heal each Hobbit companion. '
+  lore: ''
+de:
+  title: Tal des Silberlauf
+  subtitle: ''
+  text: '**Heimstatt. Fluss.** Wenn sich die Gemeinschaft an diesen Ort bewegt, darfst du jeden Hobbitgefährten heilen.'
+  lore: ''

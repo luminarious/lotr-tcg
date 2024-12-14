@@ -1,0 +1,47 @@
+set: '2'
+rarity: C
+number: '89'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '2'
+site: 6
+en:
+  title: Orc Scout
+  subtitle: ''
+  text: |-
+    **Tracker.** The roaming penalty for each :sauron: minion you play is -1.   
+    **Response:** If an event is played that spots or exerts a ranger, exert or discard this minion to cancel that event. 
+  lore: ‘Orc!…Not very near, and yet too near, it seems.’
+de:
+  title: Orkspäher
+  subtitle: ''
+  text: |-
+    **Spurenleser.**  
+    Die Strafkosten für wandernde :sauron: Diener, die du spielst, werden um 1 reduziert. **Reaktion:** Wenn ein Ereignis gespielt wird, das einen Waldläufer entdeckt oder anstrengt, dann strenge diesen Diener an oder lege ihn ab, um das Ereignis zu verhindern.
+  lore: Orks! … Nicht sehr nahe und doch zu nah, scheint es.
+fr:
+  title: Flaireur Orque
+  subtitle: ''
+  text: |-
+    **Traqueur.**  
+    La pénalité d’errance pour chacun des séides :sauron: que vous jouez est de -1. **Réponse :** Si l’on joue un événement qui désigne ou affaiblit un rôdeur, affaiblissez ou défaussez ce séide pour annuler l’événement.
+  lore: 'Des orques!… Pas très proche, mais trop près tout de même, semble-t-il.” '
+it:
+  title: Guida degli Orchi
+  subtitle: ''
+  text: |-
+    **Inseguitore.**  
+    Sottrai -1 alla penalità per il vagare di ogni Orco :sauron: che giochi.  
+    **Risposta:** Se un evento giocato richiede di avvistare o sforzare un Ramingo, sforza o scarta questo servitore per cancellare quell’evento.
+  lore: ‘Orchi!… Non molto vicini, tuttavia non abbastanza lontani per essere innocui, a quanto pare.’
+es:
+  title: Explorador Orco
+  subtitle: ''
+  text: |-
+    **Rastreador.** La penalización por vagar de cada siervo :sauron: que tu juegues es -1.   
+    **Respuesta:** Si se juega un evento que avista o esfuerza un montaraz, esfuerza o descarta este siervo para cancelar ese evento.
+  lore: ¡Orcos! …No muy cerca, pero aun demasiado cerca, parece ser.

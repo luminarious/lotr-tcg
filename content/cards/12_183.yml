@@ -1,0 +1,26 @@
+set: '12'
+rarity: R
+number: '183'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 8
+str: '14'
+vit: '4'
+site: 3
+en:
+  title: The Witch-king
+  subtitle: Black Lord
+  text: |-
+    **Fierce.**   
+    The Witch-king is twilight cost –1 for each wound on the Ring-bearer.   
+    Each time a companion is played, you may reveal this card from hand to exert the Ring-bearer.
+  lore: He sprang forward and bore down on Frodo.
+de:
+  title: Der Hexenkönig
+  subtitle: Schwarzer Herrscher
+  text: |-
+    **Erbittert.**   
+    Die Zwielichtkosten des Hexenkönigs reduzieren sich um 1 für jede Wunde auf dem Ringträger. Jedes Mal, wenn ein Gefährte gespielt wird, darfst du diese Karte aus der Hand aufdecken, um den Ringträger anzustrengen.
+  lore: Er machte einen Satz vorwärts und sprang auf Frodo zu.

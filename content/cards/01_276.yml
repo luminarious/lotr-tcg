@@ -1,0 +1,35 @@
+set: '1'
+rarity: R
+number: '276'
+unique: true
+culture: Sauron
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Seeking Its Master
+  subtitle: ''
+  text: |-
+
+    **Shadow:** Exert a :sauron: Orc and remove :twilight2: to draw a card.
+  lore: '‘This at least is plain: the evil of the Ring is already at work even in the Company, and the Ring must leave them before it does more harm.’'
+de:
+  title: Sehnsucht nach seinem Herrn
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Schatten:** Strenge einen :sauron: Ork an und verringere den Einfluss um :twilight2:, um eine Karte zu ziehen.'
+  lore: 'Das wenigstens ist klar: das Böse des Rings wirkt sich sogar schon auf den Bund aus, und der Ring muss die Gefährten verlassen, ehe er mehr Unheil stiftet.'
+fr:
+  title: À la Recherche de son Maître
+  subtitle: ''
+  text: 'Ombre : Affaiblissez un Orque :sauron: et retirez :twilight2: pour piocher une carte.'
+  lore: '‘Une chose au moins est claire: la nocivité de l''Anneau est déjà à l''*uvre même dans la compagnie, et il doit la quitter avant de commettre davantage de méfaits.’'
+it:
+  title: Cercando il Suo Padrone
+  subtitle: ''
+  text: '**Ombra:** Sforza un Orco :sauron: e rimuovi :twilight2: per pescare una carta.'
+  lore: '‘Una cosa perlomeno è palese: la malvagità dell''Anello sta incominciando a intaccare persino l''integrità della Compagnia; è indispensabile che l''Anello si allontani da loro, prima che la situazione peggiori.’'
+es:
+  title: Buscando a Su Amo
+  subtitle: ''
+  text: '**Sombra:** Esfuerza un Orco :sauron: y quita :twilight2: para robar una carta.'
+  lore: 'Esto al menos ya esta claro: la malignidad del Anillo ya esta operando, aun en la Compañía, y antes que haga mas dalo hay que llevarlo lejos.'

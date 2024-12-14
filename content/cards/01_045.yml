@@ -1,0 +1,18 @@
+set: '1'
+rarity: R
+number: '45'
+unique: true
+culture: Elven
+type: Ally
+race: Elf
+cost: 3
+str: '3'
+vit: '3'
+site: '6'
+en:
+  title: Galadriel
+  subtitle: Lady of Light
+  text: |-
+    At the start of each of your turns, heal every ally whose home is site 6.   
+    **Fellowship:** Exert Galadriel to play an Elf for free.
+  lore: Very tall they were, and the Lady no less tall than the Lord; and they were grave and beautiful… and the hair of the Lady was of deep gold….

@@ -1,0 +1,21 @@
+set: '7'
+rarity: R
+number: '181'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Held Ground
+  subtitle: ''
+  text: |-
+    To play, spot 2 Nazgûl and add up to 3 threats.   
+    Each time a companion is about to be killed, you may remove a threat to discard up to 2 possessions.   
+    Discard this condition and remove 3 threats during the regroup phase.
+  lore: ''
+de:
+  title: Erobertes Gebiet
+  subtitle: ''
+  text: Entdecke 2 Nazgûl und lasse bis zu 3 Bedrohungen entstehen, um diesen Effekt zu spielen. Jedes Mal, wenn ein Gefährte stirbt, darfst du eine Bedrohung entfernen, um 2 Ausrüstungen abzulegen. Lege diesen Effekt in der Sammelphase ab und entferne 3 Bedrohungen.
+  lore: ''

@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '250'
+unique: true
+culture: Sauron
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Hate
+  subtitle: ''
+  text: '**Maneuver:** Exert a :sauron: Orc to wound a companion (except the Ring-bearer).'
+  lore: Orcs are filled with hatred not only for their foes, but for all that lives.
+de:
+  title: Hass
+  subtitle: ''
+  text: '**Manöver:** Strenge einen :sauron: Ork an, um einen Gefährten (ausser dem Ringträger) zu verwunden.'
+  lore: Orks hassen nicht nur ihre Feinde, sondern alles was lebt.
+fr:
+  title: Haine
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Orque :sauron: pour blesser un compagnon (excepté le Porteur de l’Anneau).'
+  lore: Les Orques sont remplis de haine non seulement pour leurs ennemis, mais pour tout ce qui vit.
+it:
+  title: Odio
+  subtitle: ''
+  text: '**Manovra:** Sforza un Orco :sauron: per ferire un compagno (eccetto il Portatore dell’Anello).'
+  lore: Gli Orchi sono pieni d'odio non solo per i loro nemici, ma per tutto ciò che vive.
+es:
+  title: Odio
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un Orco :sauron: para herir un compañero (excepto el Portador del Anillo).'
+  lore: Los Orcos están llenos de odio no solo por sus enemigos, sino por todo lo que vive.

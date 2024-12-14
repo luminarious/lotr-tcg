@@ -1,0 +1,18 @@
+set: '12'
+rarity: O
+number: '199'
+unique: true
+culture: Wraith
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Dark Approach
+  subtitle: ''
+  text: Play a Nazgûl. His twilight cost is –1 for each forest site you can spot (limit –4).
+  lore: 'Frodo hesitated for a second: curiosity or some other feeling was struggling with his desire to hide.'
+de:
+  title: Ein Schatten nähert sich
+  subtitle: ''
+  text: Spiele einen Nazgûl. Seine Zwielichtkosten reduzieren sich um 1 für jeden Wald, den du entdecken kannst (maximal -4).
+  lore: 'Frodo zögerte eine Sekunde: Neugier oder irgendeine andere Anwandlung kämpfte gegen seinen Wunsch an, sich zu verbergen.'

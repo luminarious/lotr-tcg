@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '149'
+unique: true
+culture: Isengard
+type: Event
+class: Archery
+cost: 3
+en:
+  title: Driven Back
+  subtitle: ''
+  text: '**Archery:** Spot 2 :isengard: archers to make the minion archery total +1 for each card in the dead pile. '
+  lore: With each fallen defender, the morale of the attacking army rose.
+de:
+  title: Zurückgetrieben
+  subtitle: ''
+  text: '**FernKampf** Entdecke 2 :isengard: Bogenschützen, um den Fernkampfwert der Diener um 1 für jede Karte im Friedhof zu erhöhen.'
+  lore: Mit jedem gefallenen Verteidiger stieg der Mut der angreifenden Armee.
+fr:
+  title: Repoussés
+  subtitle: ''
+  text: '**Archerie :** Désignez 2 archers :isengard: pour augmenter le total d’archerie des séides de +1 pour chaque carte dans le cimetière.'
+  lore: Chaque fois qu'un défenseur tombait, le moral des attaquants grimpait.
+it:
+  title: Respinti
+  subtitle: ''
+  text: '**Arcieri:** Avvista 2 arcieri :isengard: per aggiungere al totale degli arcieri tra i servitori +1 per ogni carta presente nella pila dei morti.'
+  lore: Per ciascun difensore caduto, il morale degli attaccanti cresceva.
+es:
+  title: Rechazado
+  subtitle: ''
+  text: '**Arquería:** Avista 2 arqueros :isengard: para que el total de arquería de los siervos sea +1 por cada carta en la pila de muertos.'
+  lore: Con cada defensor caído, la moral del ejercito atacante crecía.

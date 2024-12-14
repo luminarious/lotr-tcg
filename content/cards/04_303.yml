@@ -1,0 +1,37 @@
+set: '4'
+rarity: R
+number: '303'
+unique: true
+culture: Shire
+type: Possession
+class: Cloak
+cost: 2
+en:
+  title: Frodo's Cloak
+  subtitle: ''
+  text: |-
+    Bearer must be Frodo.   
+    **Skirmish:** At sites 1:tower: to 4:tower:, add a burden and discard this possession to cancel a skirmish involving Frodo. At any other site, discard this possession to remove a burden and heal Frodo. 
+  lore: Neither weather nor searching eyes found Frodo.
+de:
+  title: Frodos Umhang
+  subtitle: ''
+  text: 'Muss auf Frodo gespielt werden. **Kampf** Lege eine Lastmarke auf den Ringträger und diese Ausrüstung ab, um an den Orten 1:tower: bis 4:tower: einen Kampf, an dem Frodo beteiligt ist, aufzuheben. Lege diese Ausrüstung an allen anderen Orten ab, um eine Lastmarke zu en beilen.'
+  lore: ''
+fr:
+  title: La Cape de Frodon
+  subtitle: ''
+  text: 'Le détenteur doit être Frodon. **Combat :** Aux sites 1:tower: à 4:tower:, ajoutez un point-fardeau et défaussez cette possession pour annuler un combat qui implique Frodon. À tout autre site, défaussez cette possession pour retirer un point-fardeau et guérir Frodon.'
+  lore: Ni le temps, ni les yeux scrutateurs ne trouvèrent Frodon.
+it:
+  title: Mantello di Frodo
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Frodo.   
+    **Schermaglia:** Ai siti dall’1:tower: al 4:tower:, aggiungi un segnalino fardello e scarta questo bene per cancellare una schermaglia che coinvolga Frodo. Presso ogni altro sito, scarta questo bene per rimuovere un segnalino fardello e
+  lore: Né il maltempo, né occhi alla sua ricerca insidiavano Frodo.
+es:
+  title: La Capa De Frodo
+  subtitle: ''
+  text: 'El portador debe ser Frodo. **Escaramuza:** En los sitios 1:tower: al 4:tower:, añade una carga y descarta esta posesión para cancelar una escaramuza en la que participe Frodo. En cualquier otro sitio, descarta esta posesión para quitar una carga y curar a Frodo.'
+  lore: Ni el clima ni los ojos inquisitivos encontraron a Frodo.

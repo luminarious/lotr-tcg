@@ -1,0 +1,23 @@
+set: '13'
+rarity: R
+number: '180'
+unique: true
+culture: Wraith
+type: Event
+class: Shadow
+cost: 4
+en:
+  title: Shadow in the East
+  subtitle: ''
+  text: |-
+    **Toil 1.** *(For each* :wraith: *character you exert when playing this, it is twilight cost –1.)*  
+    To play, spot a :wraith: card in your support area. Spot a companion to draw a card for each wound on that companion (and draw an additional card if you can spot a Nazgûl).
+  lore: ‘…it is called Minas Morgul, the Tower of Sorcery.’
+de:
+  title: Der Schatten im Osten
+  subtitle: ''
+  text: |-
+    **Mühe 1.**  
+    Entdecke eine :wraith: Karte in deinem Unter-stützungsbereich, um diese Karte zu spielen.Entdecke einen Gefährten, um für jede Verwundung, die er hat, eine Karte zu ziehen (und ziehe eine zusätzliche Karte,  
+    wenn du einen Nazgûl entdecken kannst)
+  lore: Minas Morgul, die Feste der Magie.

@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '362'
+unique: true
+culture: ''
+type: Site
+cost: 8
+siteArrow: Left
+en:
+  title: Summit of Amon Hen
+  subtitle: ''
+  text: When the fellowship moves to Summit of Amon Hen, each Shadow player may draw a card for each burden.
+  lore: ''
+de:
+  title: Der Gipfel des Amon Hen
+  subtitle: ''
+  text: Wenn die Gemeinschaft den Gipfel des Amon Hen erreicht, darf jeder Schattenspieler eine Karte für jede Lastmarke ziehen.
+  lore: ''
+fr:
+  title: Sommet d'Amon Hen
+  subtitle: ''
+  text: Quand la compagnie se déplace jusqu’au Sommet, chaque joueur de l’Ombre peut piocher une carte pour chaque point-fardeau.
+  lore: ''
+it:
+  title: Cima di Amon Hen
+  subtitle: ''
+  text: Quando la Compagnia si muove sulla Cima di Amon Hen, ogni giocatore Ombra può pescare una carta per ogni segnalino fardello.
+  lore: ''
+es:
+  title: Cima de Amon Hen
+  subtitle: ''
+  text: Cuando la comunidad se mueve a la Cima de Amon Hen, cada jugador de Sombra puede robar una carta por cada carga.
+  lore: ''

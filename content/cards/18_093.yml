@@ -1,0 +1,16 @@
+set: '18'
+rarity: U
+number: '93'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Wary Orc
+  subtitle: ''
+  text: 'This minion is strength +1 for each hunter companion you can spot. '
+  lore: War is brewing. The mountains are fair teeming with goblins.

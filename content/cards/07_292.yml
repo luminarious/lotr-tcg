@@ -1,0 +1,16 @@
+set: '7'
+rarity: U
+number: '292'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '3'
+site: 6
+en:
+  title: Mordor Veteran
+  subtitle: ''
+  text: '**Skirmish:** Remove 3 threats to make a :sauron:minion strength +8.'
+  lore: …the first assault crashed into them.

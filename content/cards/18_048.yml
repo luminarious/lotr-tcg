@@ -1,0 +1,19 @@
+set: '18'
+rarity: R
+number: '48'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '7'
+en:
+  title: Faramir
+  subtitle: Captain of Ithilien
+  text: |-
+    **Ranger. Hunter 2.**  
+    If Faramir is in your starting fellowship, his twilight cost is -1.  
+    **Maneuver:** Exert Faramir to heal a companion with resistance 5 or more.
+  lore: There are no travelers in this land. Only servants of the Dark Tower.

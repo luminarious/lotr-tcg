@@ -1,0 +1,22 @@
+set: '12'
+rarity: U
+number: '50'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 4
+en:
+  title: Guardian
+  subtitle: ''
+  text: |-
+    **Toil 2.** *(For each* :gondor: *character you exert when playing this, its twilight cost is –2.)*   
+    **Skirmish:** If a :gondor: companion is not assigned to a skirmish, discard this condition to have him or her replace an unbound companion skirmishing a minion.
+  lore: Boromir wouldn't fail the other Hobbits as he had Frodo.
+de:
+  title: Beschützer
+  subtitle: ''
+  text: |-
+    **Mühe 2.** *(Für jeden *:gondor: *Charakter, den du beim Ausspielen dieser Karte anstrengst, reduzieren sich deren Kosten um 2.)*  
+    **Kampf:** Lege diesen Effekt ab, um einen nicht-verbundenen Gefährten, der gegen einen Diener kämpft, durch einen :gondor: Gefährten, der keinem Kampf zugewiesen ist, in diesem Kampf zu ersetzen.
+  lore: ''

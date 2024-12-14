@@ -1,0 +1,17 @@
+set: '17'
+rarity: R
+number: '4'
+unique: true
+culture: Dwarven
+type: Artifact
+class: Ring
+cost: 0
+en:
+  title: Ring of Artifice
+  subtitle: ''
+  text: |-
+    Bearer must be a Dwarf.  
+    Bearer is damage +1.  
+    Bearer is strength +1 for each :dwarven: artifact in your discard pile.  
+    **Regroup:** Discard this to take a non-event :dwarven: card into hand from your discard pile. 
+  lore: '''Beyond the Shadow it waits for you still…’'

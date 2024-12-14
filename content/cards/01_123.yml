@@ -1,0 +1,41 @@
+set: '1'
+rarity: R
+number: '123'
+unique: true
+culture: Isengard
+type: Event
+class: Maneuver
+cost: 3
+en:
+  title: Caradhras Has Not Forgiven Us
+  subtitle: ''
+  text: |-
+    **Spell.** **Weather.**   
+    **Maneuver:** Exert a :isengard: minion and spot 5 companions to discard an exhausted companion (except the Ring-bearer).
+  lore: ‘It was no ordinary storm. It is the ill will of Caradhras.’
+de:
+  title: Caradhras hat uns noch nicht vergeben
+  subtitle: ''
+  text: |-
+    **Zauberspruch.** **Wetter.**  
+    **Manöver:** Strenge einen :isengard: Diener an und entdecke 5 Gefährten, um einen erschöpften Gefährten (ausser den Ringträger) abzulegen.
+  lore: Es war kein gewöhnlicher Schneesturm. Es ist Caradhras‘ Bosheit.
+fr:
+  title: Caradhras ne Nous a pas Pardonnés
+  subtitle: ''
+  text: |-
+    **Sort.** **Climat.**  
+    **Manœuvre :** Affaiblissez un séide :isengard: et désignez 5 compagnons pour défausser un compagnon épuisé (excepté le Porteur de l’Anneau).
+  lore: ‘Ce n'était pas une tempête ordinaire. C'est la malveillance de Caradhras.’
+it:
+  title: Il Caradhras Non Ci Ha Perdonato
+  subtitle: ''
+  text: |-
+    **Magia.** **Atmosferica.**  
+    **Manovra:** Sforza un servitore :isengard: e avvista 5 compagni per scartare un compagno Esausto (eccetto il Portatore dell’Anello).
+  lore: ‘Non era una normale tempesta. E’ la volontà ostile del Caradhras.’
+es:
+  title: Caradhras No Nos Ha Perdonado
+  subtitle: ''
+  text: '**Hechizo.** **Clima.** **Maniobra:** Esfuerza un siervo :isengard: y avista 5 compañeros para descartar un compañero exhausto (excepto el Portador del Anillo).'
+  lore: No era una tormenta ordinaria, sino la mala voluntad de Caradhras.

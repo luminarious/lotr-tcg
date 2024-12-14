@@ -1,0 +1,15 @@
+set: '18'
+rarity: R
+number: '55'
+unique: true
+culture: Gondor
+type: Condition
+cost: 0
+en:
+  title: Ranger of the North
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.  
+    **Maneuver:** If the fellowship is in region 1 or region 2, you may exert bearer to make him or her **defender +1**.  
+    **Regroup:** Discard this to heal a companion.
+  lore: This is no mere ranger. He is Aragorn, son of Arathorn. You owe him your allegiance.

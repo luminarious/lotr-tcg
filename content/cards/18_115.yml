@@ -1,0 +1,13 @@
+set: '18'
+rarity: R
+number: '115'
+unique: true
+culture: Uruk-hai
+type: Event
+class: Skirmish
+cost: 4
+en:
+  title: Final Triumph
+  subtitle: ''
+  text: Spot your Uruk-hai skirmishing a companion to use vitality to resolve that skirmish instead of strength.
+  lore: Now left alone, it stopped before its foe. With a snarl it pulled back the bow, ready to deliver the last blow.

@@ -1,0 +1,14 @@
+set: '0'
+rarity: SPD
+number: '3'
+unique: true
+culture: Rohan
+type: Possession
+cost: 1
+en:
+  title: Rohirrim Stein
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: companion.  
+    Each time a you move to a site, bearer is strength +1 until the end of the game. At the start of your fellowship phase, add :twilight2: or discard this possession.
+  lore: ''

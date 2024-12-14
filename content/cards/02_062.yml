@@ -1,0 +1,36 @@
+set: '2'
+rarity: C
+number: '62'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '1'
+site: 4
+en:
+  title: Goblin Pursuer
+  subtitle: ''
+  text: 'If the fellowship has moved more than once this turn, this minion is strength +3. '
+  lore: Had the fellowship remained in Dimrill Dale, pursuers from Moria would have overwhelmed them.
+de:
+  title: Goblin Verfolger
+  subtitle: ''
+  text: Wenn sich die Gemeinschaft in diesem Spielzug mehr als einmal bewegt hat, erhält dieser Diener Stärke +3.
+  lore: Hätte die Gemeinschaft im Schattenbachtal gerastet, wären sie von ihren Verfolgern aus Moria überwältigt worden.
+fr:
+  title: Pourchasseur Gobelin
+  subtitle: ''
+  text: Si la compagnie s’est déplacée plus d’une fois pendant ce tour, ce séide a +3 en force.
+  lore: Si la compagnie s'était attardée dans la Vallée des Rigoles Sombres, elle aurait été submergée par les pourchasseurs de la Moria.
+it:
+  title: Cacciatore Goblin
+  subtitle: ''
+  text: Se la Compagnia si è mossa più di una volta in questo turno, questo servitore aggiunge +3 alla forza.
+  lore: Se la compagnia si fosse fermata nella Valle dei Rivi Tenebrosi, gli inseguitori da Moria li avrebbero travolti.
+es:
+  title: Perseguidor Goblin
+  subtitle: ''
+  text: Si la comunidad se ha movido más de una vez este turno, este siervo es fuerza +3.
+  lore: Si la comunidad se hubiera quedado en el Valle del Dimrill, los perseguidores de Moria los habrían abrumado.

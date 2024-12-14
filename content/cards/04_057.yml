@@ -1,0 +1,38 @@
+set: '4'
+rarity: U
+number: '57'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Stout and Strong
+  subtitle: ''
+  text: |-
+
+    Each time a Dwarf wins a skirmish, you may place a :dwarven: token on this card.   
+    **Skirmish: **Make an unbound companion strength +1 for each :dwarven: token here (limit +3). Discard this condition. 
+  lore: ‘Never did I see an axe so wielded.’
+de:
+  title: Beherzt und stark
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn ein Zwerg einen Kampf gewinnt, darfst du eine :dwarven: Marke auf diese Karte legen. **Kampf** Gib einem nicht-verbundenen Gefährten Stärke +1 für jede :dwarven: Marke auf dieser Karte (maximal +3). Lege diesen Effekt ab.'
+  lore: Nie habe ich eine Axt gesehen, die so geschwungen wurde.
+fr:
+  title: Vaillant et Fort
+  subtitle: ''
+  text: 'Chaque fois qu’un Nain gagne un combat, vous pouvez déposer un jeton :dwarven: sur cette carte. **Combat :** Pour chaque jeton :dwarven: qui se trouve ici, donnez +1 en force à un compagnon dissocié (limite de +3). Défaussez cette situation.'
+  lore: 'Jamais je n''ai vu de hache si bien maniée.” '
+it:
+  title: Forte e Robusto
+  subtitle: ''
+  text: |-
+    Ogni volta che un Nano vince una schermaglia, puoi piazzare un segnalino :dwarven: su questa carta.   
+    **Schermaglia:** Aggiungi a un compagno Non Legato +1 alla forza per ogni segnalino :dwarven: presente qui (limite +3). Scarta questa condizione.
+  lore: ‘Non ho mai visto adoperare tanto un'ascia!’
+es:
+  title: Recio Y Fuerte
+  subtitle: ''
+  text: 'Cada vez que un Enano gana una escaramuza, puedes poner un contador :dwarven: en esta carta. **Escaramuza:** Da a un compañero no-vinculado fuerza +1 por cada contador :dwarven: puesto aquí. Descarta esta condición.'
+  lore: Nunca vi un hacha en manos tan hábiles.

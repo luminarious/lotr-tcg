@@ -1,0 +1,16 @@
+set: '18'
+rarity: C
+number: '9'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '5'
+vit: '3'
+res: '7'
+en:
+  title: Elven Defender
+  subtitle: ''
+  text: 'While you can spot an :elven: token, this companion is strength +2.'
+  lore: While they may prefer to avoid conflict, the elves can be ferocious warriors in defense of their ideals.

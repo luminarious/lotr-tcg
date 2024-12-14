@@ -1,0 +1,20 @@
+set: '7'
+rarity: R
+number: '129'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Bold Men and Grim
+  subtitle: ''
+  text: |-
+    To play, spot 2 :raider: Men and add a threat. Each time a companion is about to be killed, you may remove a threat to discard a companion (except the Ring-bearer).   
+    Discard this condition at the start of the regroup phase.
+  lore: ''
+de:
+  title: Mutige und unerbittliche Menschen
+  subtitle: ''
+  text: 'Lasse eine Bedrohung entstehen und entdecke 2 :raider: Menschen, um diesen Effekt zu spielen. Jedes Mal, wenn ein Gefährte stirbt, darfst du eine Bedrohung entfernen, um einen Gefährten (außer den Ringträger) abzulegen. Lege diesen Effekt zu Beginn der Sammelphase ab.'
+  lore: ''

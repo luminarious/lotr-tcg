@@ -1,0 +1,16 @@
+set: '11'
+rarity: S
+number: '223'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Nertëa
+  subtitle: Ninth of the Nine Riders
+  text: '**Lurker.** (Skirmishes involving lurker minions must be resolved after any others.) While Úlairë Nertëa is at a forest site, he is strength +2. While you can spot 6 companions, each Nazgûl is strength +2. '
+  lore: Sauron’s servants interrogate with terror and torture.

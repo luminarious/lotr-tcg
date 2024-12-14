@@ -1,0 +1,37 @@
+set: '1'
+rarity: U
+number: '238'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Wreathed in Shadow
+  subtitle: ''
+  text: |-
+    To play, spot a Nazgûl. Plays to your support area.  
+    **Archery:** Remove :twilight1: to make the fellowship archery total -1.
+  lore: They are beings in twilight, without form to catch the points of weapons.
+de:
+  title: In Schatten gehüllt
+  subtitle: ''
+  text: Entdecke einen Nazgûl, um diese Karte in deinen Unterstützungsbereich zu spielen. **FernKampf** Verringere den Einfluss um :twilight1:, um den Fernkampfwert der Gemeinschaft um 1 zu reduzieren.
+  lore: Sie sind Wesen einer Schattenwelt, ohne Form, die von unseren Waffen durchbohrt werden könnte.
+fr:
+  title: Entouré par l'Ombre
+  subtitle: ''
+  text: 'Pour jouer, désignez un Nazgûl. **Archerie :** Retirez :twilight1: pour diminuer le total d’archerie de la compagnie de -1.'
+  lore: Ce sont des êtres du crépuscule, informes et donc capables de saisir les extrêmités des armes.
+it:
+  title: Avvolti nell'Ombra
+  subtitle: ''
+  text: |-
+    Per giocarla, avvista un Nazgûl.   
+    **Arcieri:** Rimuovi :twilight1: per sottrarre -1 al totale degli arcieri della Compagnia.
+  lore: Sono esseri che vivono nel crepuscolo, senza forma che la punta di un'arma possa incontrare.
+es:
+  title: Envuelto En Sombras
+  subtitle: ''
+  text: 'Para jugarlo, avista un Nazgûl. **Arquería:** Quita :twilight1: para que el total de arquería de la comunidad sea -1.'
+  lore: Son seres de penumbra, sin forma para recibir las punzadas de nuestras armas.

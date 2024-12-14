@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '235'
+unique: true
+culture: Raider
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Gathering to the Summons
+  subtitle: ''
+  text: '**Skirmish:** Spot a :raider: Man skirmishing a Ring-bound companion to add a burden. '
+  lore: These were Men of other race, out of the wide Eastlands….
+de:
+  title: Sammeln der Streitmacht
+  subtitle: ''
+  text: '**Kampf** Entdecke einen :raider: Menschen, der gegen einen Ring-verbundenen Gefährten kämpft, um eine Lastmarke auf den Ringträger zu legen.'
+  lore: Diese hier waren Menschen von anderer Rasse, aus den gewaltigen Ostlanden….
+fr:
+  title: Se Rassemblaient à l'Appel
+  subtitle: ''
+  text: '**Combat :** Désignez un Homme :raider: combattant un compagnon associé à l’Anneau pour ajouter un point-fardeau.'
+  lore: 'Ceux-ci étaient des Hommes d''une autre race, sortis des vastes terres de l''Est… '
+it:
+  title: Radunarsi agli Ordini
+  subtitle: ''
+  text: '**Schermaglia:** Avvista un Uomo :raider: che stia schermagliando con un compagno Legato all’Anello per aggiungere un segnalino fardello.'
+  lore: ‘Questi erano Uomini di un'altra razza, provenienti dalle vaste terre dell'Est…’
+es:
+  title: Acudir A La Llamada
+  subtitle: ''
+  text: '**Escaramuza:** Avista un Hombre :raider: que esté en una escaramuza contra un compañero Vinculado al Anillo para añadir una carga.'
+  lore: Estos eran hombres de otra raza, venidos de las vastas comarcas del este…

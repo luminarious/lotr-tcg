@@ -1,0 +1,37 @@
+set: '1'
+rarity: R
+number: '15'
+unique: true
+culture: Dwarven
+type: Possession
+class: Helm
+cost: 0
+en:
+  title: Gimli's Helm
+  subtitle: ''
+  text: |-
+    Bearer must be Gimli. He takes no more than 1 wound during each skirmish phase.   
+    **Skirmish:** Discard Gimli’s Helm to prevent all wounds to him.
+  lore: A helm fashioned under the Lonely Mountain protects the head of Gimli the Dwarf.
+de:
+  title: Gimlis Helm
+  subtitle: ''
+  text: Muss auf Gimli gespielt werden. Gimli erleidet maximal 1 Wunde pro Kampfphase. **Kampf** Lege Gimlis Helm ab, um alle Verwundungen zu verhindern.
+  lore: Ein Helm, angefertigt unter dem Einsamen Berg, schützt den Kopf von Gimli, dem Zwerg.
+fr:
+  title: Heaume de Gimli
+  subtitle: ''
+  text: Le détenteur doit être Gimli. Il ne prend pas plus d’une blessure pendant chaque combat. **Combat :** Défaussez le Heaume de Gimli pour lui éviter toute blessure.
+  lore: Un heaume fabriqué sous le Mont Solitaire protège la tête de Gimli le Nain.
+it:
+  title: Elmo di Gimli
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Gimli. Non subisce più di 1 ferita durante ogni fase di schermaglia.   
+    **Schermaglia:** Scarta l’Elmo di Gimli per prevenirgli tutte le ferite.
+  lore: Un elmo, forgiato sotto la Montagna Solitaria, protegge la testa di Gimli il Nano.
+es:
+  title: Yelmo de Gimli
+  subtitle: ''
+  text: El portador debe ser Gimli. No recibe más de una herida durante cada fase de escaramuza. **Escaramuza:** Descarta el Yelmo de Gimli para prevenir todas las heridas a el.
+  lore: Un yelmo hecho bajo la Montaña Solitaria protege la cabeza de Gimli el Enano.

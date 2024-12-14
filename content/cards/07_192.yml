@@ -1,0 +1,21 @@
+set: '7'
+rarity: C
+number: '192'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 2
+str: '5'
+vit: '2'
+site: 4
+en:
+  title: Morgul Hound
+  subtitle: ''
+  text: While you can spot 2 wounds on the Ring–bearer, this minion is strength +4 and fierce.
+  lore: All that host was clad in sable, dark as the night.
+de:
+  title: Morgul Bastard
+  subtitle: ''
+  text: Solange du 2 Wunden auf dem Ringträger entdecken kannst, erhält dieser Diener Stärke +4 und ist **erbittert**.
+  lore: Die ganze Feldschar war schwarz gekleidet, dunkel wie die Nacht.

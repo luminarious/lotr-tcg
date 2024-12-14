@@ -1,0 +1,17 @@
+set: '8'
+rarity: R
+number: '37'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+en:
+  title: Imrahil
+  subtitle: Prince of Dol Amroth
+  text: |-
+    **Knight.** To play, spot a knight.   
+    Each time Imrahil wins a skirmish, you may exert 2 minions.
+  lore: …he was of high blood, and his folk also, tall men and proud with sea-grey eyes.

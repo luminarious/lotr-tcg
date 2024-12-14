@@ -1,0 +1,18 @@
+set: '8'
+rarity: U
+number: '79'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 6
+str: '12'
+vit: '3'
+site: 3
+en:
+  title: Úlairë Attëa
+  subtitle: Thrall of The One
+  text: |-
+    **Enduring.**   
+    **Regroup:** Exert Úlairë Attëa and spot your :wraith: minion to return that minion to your hand.
+  lore: ''

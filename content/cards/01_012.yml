@@ -1,0 +1,18 @@
+set: '1'
+rarity: U
+number: '12'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Gimli
+  subtitle: Dwarf of Erebor
+  text: |-
+    **Damage +1**.   
+    **Fellowship:** If the twilight pool has fewer than 2 twilight tokens, add :twilight2: to place a card from hand beneath your draw deck.
+  lore: Gimli now walked ahead by the wizard’s side, so eager was he to come to Moria.

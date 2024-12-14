@@ -1,0 +1,16 @@
+set: '15'
+rarity: U
+number: '111'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Moria Menace
+  subtitle: ''
+  text: '**Skirmish:** Exert this minion to make the Free Peoples player shuffle his or her draw deck and reveal the top card of that draw deck. Make this minion strength +X, where X is the twilight cost of the revealed card.'
+  lore: Orcs attacked in sunlight only when absolutely necessary.

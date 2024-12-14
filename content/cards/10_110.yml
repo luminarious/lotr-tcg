@@ -1,0 +1,18 @@
+set: '10'
+rarity: C
+number: '110'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: A Marvel
+  subtitle: ''
+  text: Exert a Hobbit to make another Hobbit strength +3.
+  lore: Howling with pain and fear but desperate the orc charged head-down at him.
+de:
+  title: Ein Wunder
+  subtitle: ''
+  text: Strenge einen Hobbit an, um einem anderen Hobbit Stärke +3 zu geben.
+  lore: Heulend vor Schmerz und Angst, aber verzweifelt, ging der Ork mit gesenktem Kopf auf ihn los.

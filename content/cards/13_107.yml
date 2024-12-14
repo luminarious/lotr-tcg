@@ -1,0 +1,20 @@
+set: '13'
+rarity: C
+number: '107'
+unique: true
+culture: Orc
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Expendable Servants
+  subtitle: ''
+  text: 'If you can spot more :orc: conditions than :orc: minions, you may discard your :orc: condition from play to play an :orc: minion from your discard pile.'
+  lore: 'Sauron’s minions were loyal to his rule. Their loyalty was repaid in blood: the enemy’s or their own.'
+de:
+  title: Entbehrliche Diener
+  subtitle: ''
+  text: |-
+    Du darfst einen deiner :orc: Effekte ablegen, um einen :orc: Diener aus deinem Ablagestapel zu spielen, wenn du mehr   
+    :orc: Effekte als :orc: Diener entdecken kannst.
+  lore: 'Saurons Diener waren ihm bedingungslos ergeben. Dies wurde ihnen in Blut zurückgezahlt: dem ihrer Feinde oder ihrem eigenen.'

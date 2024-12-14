@@ -1,0 +1,25 @@
+set: '12'
+rarity: C
+number: '134'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Advancing Uruk
+  subtitle: ''
+  text: |-
+    **Damage +1. Muster.** *(At the start of the regroup phase, you may discard a card from hand to draw a card.)*   
+    When you cannot spot another :urukhai: minion, discard this minion.
+  lore: ‘Already they are scaling the bank at many points, thick as marching ants.’
+de:
+  title: Vorstoßender Uruk
+  subtitle: ''
+  text: |-
+    **Schaden +1**. **Appell**. *(Zu Beginn der Sammelphase darfst du eine Karte aus deiner Hand ablegen, um eine Karte zu ziehen.)*  
+    Lege diesen Diener ab, wenn du keinen anderen :urukhai: Diener entdecken kannst.
+  lore: Schon erstürmen sie an vielen Punkten die Böschung, in dicken Schwärmen wie Wanderameisen.

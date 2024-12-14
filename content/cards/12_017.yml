@@ -1,0 +1,18 @@
+set: '12'
+rarity: R
+number: '17'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 4
+str: '8'
+vit: '4'
+res: '7'
+en:
+  title: Elrond
+  subtitle: Witness to History
+  text: |-
+    To play, spot an Elf.   
+    **Skirmish:** If Elrond is skirmishing a minion, exert him to place an :elven: card from your discard pile on top of your draw deck.
+  lore: ‘I was there the day the strength of Men failed.’

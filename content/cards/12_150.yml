@@ -1,0 +1,25 @@
+set: '12'
+rarity: R
+number: '150'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '12'
+vit: '3'
+site: 5
+en:
+  title: Uruk Decimator
+  subtitle: ''
+  text: |-
+    While this minion is at a battleground site, it is strength +2.   
+    While this minion is bearing a possession, it is **damage +1.**
+  lore: The barricade was scattered as if by a thunderbolt.
+de:
+  title: Uruk Zerteiler
+  subtitle: ''
+  text: |-
+    Dieser Diener erhält Stärke +2, solange er sich auf einem Schlachtfeld befindet.  
+    Dieser Diener erhält **Schaden +1**, solange er ausgerüstet ist.
+  lore: Die Verrammelung wurde eingerissen, als habe der Blitz hier eingeschlagen.

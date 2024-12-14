@@ -1,0 +1,35 @@
+set: '4'
+rarity: R
+number: '238'
+unique: true
+culture: Raider
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Men of Harad
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    **Shadow:** Spot a site you control, spot 3 Southrons, and remove :twilight2: to draw a card. 
+  lore: The savage Haradrim, men from the kingdoms south of Gondor and Mordor, were called Southrons.
+de:
+  title: Menschen aus Harad
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. **Schatten:** Entdecke einen Ort, den du kontrollierst, entdecke 3 Südländer und verringere den Einfluss um :twilight2:, um eine Karte zu ziehen.
+  lore: Die wilden Haradrim, Menschen aus den Königreichen südlich von Gondor und Mordor, wurden Südländer genannt.
+fr:
+  title: Les Hommes de Harad
+  subtitle: ''
+  text: 'Ombre : Désignez un site que vous contrôlez, désignez 3 Suderons, et retirez :twilight2: pour piocher une carte.'
+  lore: Les hommes de Harad, des sauvages des royaumes au sud du Gondor et du Mordor, étaient appelés Suderons.
+it:
+  title: Uomini dell'Harad
+  subtitle: ''
+  text: '**Ombra:** Avvista un sito che controlli, avvista 3 Sudroni, e rimuovi :twilight2: per pescare una carta.'
+  lore: I selvaggi Haradrim, uomini dei regni a sud di Gondor e Mordor, erano chiamati Sudroni.
+es:
+  title: Hombres De Harad
+  subtitle: ''
+  text: '**Sombra:** Avista un sitio que controles, avista 3 Sureños, y quita :twilight2: para robar una carta.'
+  lore: Los salvajes Haradrim, hombres de los reinos al sur de Gondor y de Mordor, eran llamados Sureños.

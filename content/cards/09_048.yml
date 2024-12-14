@@ -1,0 +1,18 @@
+set: '9'
+rarity: R+
+number: '48'
+unique: true
+culture: Sauron
+type: Minion
+race: Maia
+cost: 18
+str: '24'
+vit: '5'
+site: 6
+en:
+  title: Sauron
+  subtitle: The Lord of the Rings
+  text: |-
+    **Damage +2.** **Enduring.** **Fierce.**   
+    For each burden you spot, threat you spot, and site you control, Sauron’s twilight cost is –1. 
+  lore: One for the Dark Lord on his dark throne / In the Land of Mordor where the Shadows lie.

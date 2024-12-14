@@ -1,0 +1,33 @@
+set: '3'
+rarity: U
+number: '53'
+unique: true
+culture: Isengard
+type: Event
+class: Shadow
+cost: 2
+en:
+  title: Hate and Anger
+  subtitle: ''
+  text: '**Shadow:** Spot an Uruk-hai and a :moria: minion to draw 3 cards. '
+  lore: The frenzy of Uruks is born of the fear of the very Goblins that work the pits.
+de:
+  title: Hass und Wut
+  subtitle: ''
+  text: '**Schatten:** Entdecke einen Uruk-hai und einen :moria: Diener, um 3 Karten zu ziehen.'
+  lore: Die Raserei der Uruks ist auf der Furcht der Bilwisse begründet, die in den Gruben schuften.
+fr:
+  title: Haine et Colère
+  subtitle: ''
+  text: 'Ombre : Désignez un Ourouk-Haï et un séide :moria: pour piocher 3 cartes.'
+  lore: La frénésie des Ourouks est née de la peur des Goblins mêmes qui travaillent dans les fosses.
+it:
+  title: Odio e Collera
+  subtitle: ''
+  text: '**Ombra:** Avvista un Uruk-hai e un servitore :moria: per pescare 3 carte.'
+  lore: La ferocia degli Uruk nasce dalla paura degli stessi Goblin che lavorano nei pozzi.
+es:
+  title: Ira y Odio
+  subtitle: ''
+  text: '**Sombra:** Avista un Uruk-hai y un siervo :moria: para robar 3 cartas.'
+  lore: El frenesí de los Uruks nace del propio miedo de los Goblins que trabajan el los pozos.

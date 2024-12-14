@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '61'
+unique: true
+culture: Elven
+type: Event
+class: Archery
+cost: 1
+en:
+  title: Company of Archers
+  subtitle: ''
+  text: '**Archery:** Spot 2 Elf companions to discard a condition. '
+  lore: The Naith Company, a veteran band from the South of Lórien, concentrated fire on the Uruk machines.
+de:
+  title: Eine Abteilung Bogenschützen
+  subtitle: ''
+  text: '**FernKampf** Entdecke 2 Elbengefährten, um einen Effekt abzulegen.'
+  lore: Die Kompanie aus Naith, ein erfahrener Haufen aus dem Süden Lóriens, konzentrierte ihr Feuer auf die Kriegsmaschinen der Uruks.
+fr:
+  title: Compagnie d'Archers
+  subtitle: ''
+  text: '**Archerie :** Désignez 2 compagnons Elfes pour défausser une situation.'
+  lore: La Compagnie de Naith, un groupe expérimenté du sud de la Lórien, concentra son tir sur les machines Ourouks.
+it:
+  title: Compagnia di Arcieri
+  subtitle: ''
+  text: '**Arcieri:** Avvista 2 compagni Elfi per scartare una condizione.'
+  lore: La Compagnia del Naith, una banda di veterani proveniente dal sud di Lórien, concentrò il proprio fuoco sui macchinari Uruk.
+es:
+  title: Compañía De Arqueros
+  subtitle: ''
+  text: '**Arquería:** Avista 2 compañeros Elfos para descartar una condición.'
+  lore: La compañía de Naith, una veterana banda del sur de Lórien, concentró su fuego en las máquinas Uruk.

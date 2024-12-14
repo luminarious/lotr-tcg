@@ -1,0 +1,37 @@
+set: '3'
+rarity: U
+number: '35'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Trust Me as You Once Did
+  subtitle: ''
+  text: |-
+
+    **Skirmish:** Exert Gandalf to make a companion strength +1 for each companion with the Gandalf signet you can spot (limit +3). 
+  lore: ‘Do not take me for some conjurer of cheap tricks! I am not trying to rob you. I am trying to help you.’
+de:
+  title: Vertrau mir, so wie früher
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. **Kampf** Strenge Gandalf an, um einem Gefährten Stärke +1 zu geben für jeden Gefährten mit dem Gandalfsiegel, den du entdecken kannst (maximal +3).
+  lore: Halte mich nicht für jemanden, der mit faulem Zauber arbeitet. Ich will dich nicht berauben. Ich will dir helfen.
+fr:
+  title: Faites-Moi Confiance Tout Comme Jadis
+  subtitle: ''
+  text: '**Combat :** Affaiblissez Gandalf pour donner +1 en force à un compagnon pour chaque compagnon possédant le sceau de Gandalf (limite de +3).'
+  lore: 'Ne me prenez pas pour un illusionniste de pacotilles! Je n''essaie pas de vous voler. J''essaie de vous aider.” '
+it:
+  title: Fidati come Facevi Una Volta
+  subtitle: ''
+  text: |-
+
+    **Schermaglia:** Sforza Gandalf per aggiungere +1 alla forza di un compagno per ogni compagno con il sigillo di Gandalf che puoi avvistare (massimo +3).
+  lore: ‘Non prendermi per un qualche prestigiatore da due soldi! Non sto cercando di derubarti, sto cercando di aiutarti.’
+es:
+  title: Confía en mi como hiciste una vez
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza a Gandalf para darle a un compañero fuerza +1 por cada compañero con el sello de Gandalf que puedas avistar (límite +3).'
+  lore: ¡No me tomes por un hechicero de feria! No estoy intentando robarte. Estoy intentando ayudarte.

@@ -1,0 +1,23 @@
+set: '9'
+rarity: R
+number: '24'
+unique: true
+culture: Gandalf
+type: Condition
+cost: 1
+vit: '+1'
+en:
+  title: Ent Draught
+  subtitle: ''
+  text: |-
+    To play, spot an Ent.   
+    Bearer must be a companion. Limit 1 per bearer.   
+    **Skirmish:** Exert bearer to make him or her damage +1. 
+  lore: Indeed the hobbits felt that the hair on their heads was actually standing up, waving and curling and growing.
+de:
+  title: Ent-Trunk
+  subtitle: ''
+  text: |-
+    Entdecke einen Ent, um diesen Effekt auf einen Gefährten zu spielen. Maximal 1 pro Gefährte.   
+    **Kampf:** Strenge den Träger an, um ihm **Schaden +1** zu geben.
+  lore: Die Hobbits merkten geradezu, wie sich ihre Haare aufrichteten, sich wellten und kräuselten und wuchsen.

@@ -1,0 +1,16 @@
+set: '10'
+rarity: R
+number: '72'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Gandalf
+en:
+  title: Éowyn
+  subtitle: Lady of Ithilien
+  text: '**Skirmish:** Exert Éowyn to choose an opponent. That opponent must wound a minion for each wound on each minion skirmishing Éowyn.'
+  lore: ‘Yet now that I have leave to depart, I would remain. For this House has become to me of all dwellings the most blessed.’

@@ -1,0 +1,44 @@
+set: '5'
+rarity: U
+number: '45'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '10'
+vit: '3'
+site: 5
+en:
+  title: Berserk Rager
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    Berserk Rager is strength +1 for each wound on a character in its skirmish.   
+    **Skirmish:** Remove 3 :isengard: tokens from a machine and exert Berserk Rager twice to wound every ally twice.
+  lore: Their mission at Helm’s Deep was to clear the walls.
+de:
+  title: Rasender Berserker
+  subtitle: ''
+  text: '**Schaden +1.** Der Rasende Berserker erhält Stärke +1 für jede Wunde auf einem Charakter, der an seinem Kampf beteiligt ist. **Kampf** Entferne 3 :isengard: Marken von einer Kriegsmaschine und strenge den Rasenden Berserker zweimal an, um jeden Verbündeten zweimal zu verwunden.'
+  lore: ''
+fr:
+  title: Enragé Fou Furieux
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**   
+    Enragé Fou Furieux a +1 en force pour chaque chaque blessure sur un personnage impliqué dans son combat.   
+    **Combat :** Retirez 3 jetons :isengard: d’une machine et affaiblissez Enragé Fou Furieux deux fois pour blesser deux fois tous les alliés.
+  lore: Au Gouffre de Helm, leur mission était de nettoyer les murs.
+it:
+  title: Berserker Furioso
+  subtitle: ''
+  text: |-
+    **Danno +1.** Aggiungi +1 alla forza di Berserker Furioso per ogni ferita su un personaggio nella sua schermaglia.   
+    **Schermaglia:** Rimuovi 3 segnalini :isengard: da una macchina da guerra e sforza due volte Berserker Furioso per ferire due volte ogni alleato.
+  lore: La loro missione al Fosso di Helm era quella di liberare le mura.
+es:
+  title: Rager Berserker
+  subtitle: ''
+  text: '**Daño +1.** Rager Berserker es fuerza +1 por cada herida en cada personaje en su escaramuza. **Escaramuza:** Quita 3 contadores :isengard: de una máquina y esfuerza dos veces al Rager Berserker para herir dos veces cada aliado.'
+  lore: Su misión en el Abismo de Helm era limpiar los muros.

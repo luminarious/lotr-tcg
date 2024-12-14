@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '304'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Noble Intentions
+  subtitle: ''
+  text: '**Skirmish:** Exert a companion (except a Hobbit) to make a Hobbit strength +3.'
+  lore: ‘You carry the fate of us all, little one…. If this is indeed the will of the Council, then Gondor will see it done.’
+de:
+  title: Noble Absichten
+  subtitle: ''
+  text: '**Kampf** Strenge einen Gefährten (ausser einen Hobbit) an, um einem Hobbit Stärke +3 zu geben.'
+  lore: Du trägst unser aller Schicksal mit dir, kleiner Mann… Wenn dies nun der Wille des Rates ist, wird Gondor dafür sorgen, dass es so geschieht.
+fr:
+  title: Nobles Intentions
+  subtitle: ''
+  text: '**Combat :** Affaiblissez un compagnon (excepté un Hobbit) pour donner à un Hobbit +3 en force.'
+  lore: ‘Vous portez notre destin à tous, petit être…. Si c'est vraiment la volonté du Conseil, alors le Gondor l'acceptera.’
+it:
+  title: Nobili Intenzioni
+  subtitle: ''
+  text: '**Schermaglia:** Sforza un compagno (eccetto un Hobbit) per aggiungere +3 alla forza di un Hobbit.'
+  lore: ‘Tu sostieni il peso del destino di tutti noi, piccolino… Se questo è veramente il volere del Consiglio, allora Gondor lo vedrà realizzato.’
+es:
+  title: Intenciones Nobles
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza un compañero (excepto un Hobbit) para dar a un Hobbit fuerza +3.'
+  lore: Llevas nuestro destino, pequeño… Si esa es la voluntad del Concilio, Gondor hará que se cumpla.

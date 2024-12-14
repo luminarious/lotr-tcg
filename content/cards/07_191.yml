@@ -1,0 +1,21 @@
+set: '7'
+rarity: R
+number: '191'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 7
+str: '15'
+vit: '4'
+site: 4
+en:
+  title: Morgul Detachment
+  subtitle: ''
+  text: While you can spot a Nazgûl, this minion is fierce and **damage +1**.
+  lore: ‘His own folk quail at him, and they would slay themselves at his bidding.’
+de:
+  title: Abteilung aus Minas Morgul
+  subtitle: ''
+  text: Solange du einen Nazgûl entdecken kannst, erhält dieser Diener **Schaden +1** und ist **erbittert**.
+  lore: Seine eigenen Leute zittern vor ihm und würden sich selbst töten, wenn er es verlangte.

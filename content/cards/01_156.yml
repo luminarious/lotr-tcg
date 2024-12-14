@@ -1,0 +1,44 @@
+set: '1'
+rarity: C
+number: '156'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 3
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Uruk Warrior
+  subtitle: ''
+  text: |-
+    **Damage +1**.   
+    **Maneuver:** Spot 6 companions to make this minion **fierce** until the regroup phase.
+  lore: Powerful and fearless, Uruk-hai warriors are not intimidated by the weapons or numbers of their enemies.
+de:
+  title: Uruk Krieger
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    **Manöver:** Entdecke 6 Gefährten, um den Uruk Krieger bis zur Sammelphase **Erbittert** zu machen.
+  lore: Stark und furchtlos lassen sich die Krieger der Uruk-hai nicht von der Anzahl oder den Waffen ihrer Feinde einschüchtern.
+fr:
+  title: Guerrier Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    **Manœuvre :** Désignez 6 compagnons pour rendre ce séide **acharné** jusqu’à la phase de ralliement.
+  lore: Puissants et sans peur, les guerriers Ourouk-Haï ne sont pas intimidés par les armes ou le nombre de leurs ennemis.
+it:
+  title: Guerriero Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    **Manovra:** Avvista 6 compagni per rendere questo servitore **Feroce** fino alla fase di raccolta.
+  lore: Potenti e senza paura, i guerrieri Uruk-hai non sono intimiditi dalle armi o dal numero dei loro nemici.
+es:
+  title: Guerrero Uruk
+  subtitle: ''
+  text: '**Daño +1.** **Maniobra:** Avista 6 compañeros para dar**fiero** a este siervo hasta la fase de reagrupación.'
+  lore: Poderosos y sin temor a nada, los guerreros Uruk-hai no son intimidados por las armas o el numero de sus enemigos.

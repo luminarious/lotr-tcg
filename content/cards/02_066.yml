@@ -1,0 +1,47 @@
+set: '2'
+rarity: R
+number: '66'
+unique: true
+culture: Moria
+type: Minion
+race: Creature
+cost: 2
+str: '7'
+vit: '2'
+site: 4
+en:
+  title: Huge Tentacle
+  subtitle: ''
+  text: |-
+    **Tentacle.** **Damage +1.**   
+    When you play this minion, you may play Watcher in the Water from your draw deck.   
+    This minion may not bear possessions and is discarded if not at a marsh. 
+  lore: Out from the water a long sinuous tentacle had crawled; it was pale-green and luminous and wet.
+de:
+  title: Riesiges Tentakel
+  subtitle: ''
+  text: |-
+    **Tentakel.**  
+    **Schaden +1.**  
+    Wenn du diesen Diener ausspielst, darfst du den Wächter im Wasser direkt aus deinem Spieldeck spielen. Dieser Diener darf keine Ausrüstung erhalten und wird abgelegt, wenn er sich nicht an einem Sumpf befindet.
+  lore: Aus dem Wasser war ein langer, gekrümmter Fangarm herausgekrochen; er war blaßgrün, leuchtend und naß.
+fr:
+  title: Énorme Tentacule
+  subtitle: ''
+  text: |-
+    **Tentacule.** **Dégâts +1.**  
+    Lorsque vous jouez ce séide, vous pouvez jouer Le Guetteur de l’Eau de votre pioche. Ce séide ne peut détenir de possession et est défaussé s’il n’est pas à un **Marais.**
+  lore: 'Hors de l''eau avait rampé un long tentacule sinueux; il était vert pâle, lumineux et humide. '
+it:
+  title: Tentacolo Enorme
+  subtitle: ''
+  text: |-
+    **Tentacolo.**  
+    **Danno +1.**  
+    Quando giochi questo servitore, puoi giocare l’Osservatore nell’Acqua dal tuo mazzo di gioco. Questo servitore non può portare beni ed è scartato se non si trova in una **Palude.**
+  lore: Dallo stagno era uscito fuori un lungo e sinuoso tentacolo; era verde pallido, luminoso e bagnato.
+es:
+  title: Tentáculo enorme
+  subtitle: ''
+  text: '**Tentáculo.** **Daño +1.** Cuando juegas este siervo, puedes jugar el Vigilante en el agua de tu mazo de robar. Este siervo no puede llevar posesiones y es descartado si no está en un Pantano.'
+  lore: Fuera del agua un enorme y sinuoso tentáculo se había arrastrado, era de un verde pálido y luminoso y mojado.

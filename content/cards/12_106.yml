@@ -1,0 +1,21 @@
+set: '12'
+rarity: C
+number: '106'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 3
+str: '10'
+vit: '2'
+site: 4
+en:
+  title: Vile Goblin
+  subtitle: ''
+  text: Each time this minion is assigned to skirmish a Dwarf, this minion is **fierce** until the regroup phase.
+  lore: The Orcs infesting Khazad-dûm despoiled and defiled the ancient Dwarven mansion.
+de:
+  title: Heimtückischer Goblin
+  subtitle: ''
+  text: Jedes Mal, wenn dieser Diener einem Zwerg zugewiesen wird, wird er bis zur Sammelphase **erbittert.**
+  lore: Die Orks, die Khazad-dûm heimsuchten, plünderten und schändeten die alten Zwergenhallen.

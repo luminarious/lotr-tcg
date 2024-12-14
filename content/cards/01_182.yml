@@ -1,0 +1,36 @@
+set: '1'
+rarity: C
+number: '182'
+unique: true
+culture: Moria
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Goblin Spear
+  subtitle: ''
+  text: |-
+    Bearer must be a :moria: minion.   
+    If bearer kills a companion in a skirmish, add 1 burden (or 2 burdens if that companion was a Hobbit).
+  lore: Simple creatures with simple weapons can be as deadly as an armoured warrior with a fine sword.
+de:
+  title: Goblin Speer
+  subtitle: ''
+  text: 'Muss auf einen :moria: Diener gespielt werden. Wenn der Träger einen Gefährten im Kampf tötet, lege 1 Lastmarke auf den Ringträger (oder 2 Lastmarken, wenn der Gefährte ein Hobbit war).'
+  lore: Primitive Kreaturen mit primitiven Waffen können genauso tödlich sein wie ein gepanzerter Krieger mit einem guten Schwert.
+fr:
+  title: Lance Gobeline
+  subtitle: ''
+  text: Le détenteur doit être un séide :moria:. Si le détenteur tue un compagnon dans un combat, ajoutez 1 point-fardeau (ou 2 points-fardeau si ce compagnon était un Hobbit).
+  lore: De simples créatures avec de simples armes peuvent être aussi mortelles qu'un guerrier en armure avec une épée affilée.
+it:
+  title: Lancia Goblin
+  subtitle: ''
+  text: Il possessore deve essere un servitore :moria:. Se il possessore uccide un compagno in una schermaglia, aggiungi 1 segnalino fardello (o 2 segnalini fardello se quel compagno era un Hobbit).
+  lore: Semplici creature con semplici armi possono essere tanto letali quanto un guerriero con armatura e con un'eccellente spada.
+es:
+  title: Lanza Goblin
+  subtitle: ''
+  text: El portador ha de ser un siervo :moria:. Si el portador mata un compañero en una escaramuza, añade 1 carga (o 2 cargas sí ese compañero era un Hobbit).
+  lore: Las criaturas simples con armas simples pueden ser tan mortales como un guerrero con armadura y una buena espada.

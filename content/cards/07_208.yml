@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '208'
+unique: true
+culture: Wraith
+type: Event
+class: Shadow
+cost: 1
+en:
+  title: There Came a Cry
+  subtitle: ''
+  text: Spot a Nazgûl to add a threat (or 3 threats if you have initiative).
+  lore: Mingled with harsh high voices as of birds of prey….
+de:
+  title: Aus der Stadt kam ein Schrei
+  subtitle: ''
+  text: Entdecke einen Nazgûl, um eine Bedrohung entstehen zu lassen (oder 3 Bedrohungen, wenn du die Initiative besitzt).
+  lore: Vermischt mit rauen, hohen Stimmen wie von Raubvögeln…

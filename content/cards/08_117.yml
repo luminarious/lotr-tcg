@@ -1,0 +1,18 @@
+set: '8'
+rarity: U
+number: '117'
+unique: true
+culture: ''
+type: Site
+cost: 1
+siteArrow: Right
+en:
+  title: The Dimholt
+  subtitle: ''
+  text: '**Sanctuary.** **Underground.** **Fellowship:** Add 3 threats to play an enduring companion from your draw deck.'
+  lore: She should not die…. At least she should not die alone, unaided.
+de:
+  title: Der Dimholt
+  subtitle: ''
+  text: '**Zuflucht.** **Unterirdisch.** **Gemeinschaft:** Lasse 3 Bedrohungen entstehen, um einen zähen Gefährten direkt aus deinem Spieldeck zu spielen.'
+  lore: ''

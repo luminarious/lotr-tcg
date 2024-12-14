@@ -1,0 +1,16 @@
+set: '15'
+rarity: C
+number: '161'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '12'
+vit: '2'
+site: 5
+en:
+  title: Hunting Uruk
+  subtitle: ''
+  text: While this minion is at a battleground site, he gains **hunter 1** *(While skirmishing a non-hunter character, this character is strength +1.)*
+  lore: They're taking the Hobbits to Isengard!

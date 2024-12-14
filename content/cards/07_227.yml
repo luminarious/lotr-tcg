@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '227'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '8'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Éomer
+  subtitle: Skilled Tactician
+  text: |-
+    **Valiant.** While you can spot a :rohan: Man, Éomer’s twilight cost is –1.   
+    **Fellowship:** Play a :rohan: companion to take a :rohan: possession or :rohan: skirmish event into hand from your discard pile.
+  lore: ''

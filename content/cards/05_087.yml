@@ -1,0 +1,32 @@
+set: '5'
+rarity: U
+number: '87'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Parapet
+  subtitle: ''
+  text: '**Fortification.****Archery:** Spot 2 :rohan: Men to remove 2 tokens from a machine or to make the minion archery total -3. Discard this condition.'
+  lore: Upon the spur of rock from the cliff stood high walls of ancient stone.
+de:
+  title: Brustwehr
+  subtitle: ''
+  text: '**Befestigung.** **FernKampf** Entdecke 2 :rohan: Menschen, um 2 Marken von einer Kriegsmaschine zu entfernen oder um den Fernkampfwert der Diener um 3 zu reduzieren. Lege diesen Effekt ab.'
+  lore: Auf diesem Felsvorsprung standen hohe Mauern aus uralten Steinen.
+it:
+  title: Parapetto
+  subtitle: ''
+  text: |-
+    **Fortificazione.**   
+    **Arcieri:** Avvista 2 Uomini :rohan: per rimuovere 2 segnalini da una macchina da guerra o per sottrarre -3 al totale degli arcieri tra i servitori. Scarta questa condizione.
+  lore: Sopra al gruppo di rocce del pendio stavano le alte mura di antica pietra.
+es:
+  title: Parapeto
+  subtitle: ''
+  text: |-
+    **Fortificación.**   
+    **Arquería:** Avista 2 Hombres :rohan: para quitar 2 contadores de una máquina o para dar -3 al total de arquería de los siervos. Descarta esta condición.
+  lore: Sobre la estribación rocosa del acantilado habían altos muros de antigua piedra.

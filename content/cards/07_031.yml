@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '31'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: All Save One
+  subtitle: ''
+  text: Make Gandalf strength +2 (or +4 and **damage +1** if you have initiative).
+  lore: ‘You cannot enter here….’
+de:
+  title: Alle außer einem
+  subtitle: ''
+  text: Gib Gandalf Stärke +2 ( oder Stärke +4 und **Schaden +1**, wenn du die Initiative besitzt).
+  lore: Du kannst hier nicht hereinkommen…

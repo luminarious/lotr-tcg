@@ -1,0 +1,21 @@
+set: '0'
+rarity: P
+number: '72'
+unique: true
+culture: Gondor
+type: Possession
+class: Ranged Weapon
+cost: 1
+str: '+1'
+en:
+  title: Bow of Minas Tirith
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.   
+    At the start of the archery phase, if bearer is at a battleground site, you may exert him or her to make the fellowship archery total +1. 
+  lore: From the ramparts of the Gondorian fortress, death rained down upon the servants of Sauron.
+de:
+  title: Bogen von Minas Tirith
+  subtitle: ''
+  text: 'Muss auf einen :gondor: Menschen gespielt werden. Auf einem Schlachtfeld darfst du den Träger zu Beginn der Fernkampfphase anstrengen, um den Fernkampfwert der Gemeinschaft um 1 zu erhöhen.'
+  lore: Von den Schutzwällen der gondorianischen Festung regnete Tod auf Saurons Diener hernieder.

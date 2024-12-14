@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '59'
+unique: true
+culture: Elven
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Arrow and Blade
+  subtitle: ''
+  text: '**Skirmish:** Exert X Elf companions to make a minion skirmishing an unbound companion strength -X. '
+  lore: The Elven bow and the sword of Man fought together as one weapon.
+de:
+  title: Bogen und Schwert
+  subtitle: ''
+  text: '**Kampf** Strenge X Elbengefährten an, um einem Diener, der gegen einen nicht-verbundenen Gefährten kämpft, Stärke -X zu geben.'
+  lore: Die Bögen der Elben und die Schwerter der Menschen kämpften zusammen wie eine einzige Waffe.
+fr:
+  title: Lame et Flèche
+  subtitle: ''
+  text: '**Combat :** Affaiblissez X compagnons Elfes pour donner -X en force à un séide combattant un compagnon dissocié.'
+  lore: L'arc elfique et l'épée de l'Homme combattirent comme une seule arme.
+it:
+  title: Freccia e Lama
+  subtitle: ''
+  text: '**Schermaglia:** Sforza X compagni Elfi per sottrarre -X alla forza di un servitore che stia schermagliando con un compagno Non Legato.'
+  lore: L'arco degli Elfi e la spada dell'Uomo combatterono insieme come una sola arma.
+es:
+  title: Hoja Y Flecha
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza X compañeros Elfos para dar a un siervo que esté en una escaramuza contra un compañero no-vinculado fuerza -X.'
+  lore: El arco Élfico y la espada del Hombre lucharon juntos como una sola arma.

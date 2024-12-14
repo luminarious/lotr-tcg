@@ -1,0 +1,18 @@
+set: '17'
+rarity: U
+number: '16'
+unique: true
+culture: Gandalf
+type: Companion
+race: Man
+cost: 2
+str: '4'
+vit: '3'
+res: '6'
+en:
+  title: Barliman Butterbur
+  subtitle: Red-faced Landlord
+  text: |-
+    Barliman Butterbur is strength +1 for each attached :gandalf: follower.  
+    **Maneuver:** Exert Barliman Butterbur to reveal the top 2 cards of your deck. Take any :gandalf: cards into hand and discard the rest.
+  lore: '''Barliman Butterbur at your service!’'

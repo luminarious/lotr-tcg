@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '122'
+unique: true
+culture: Isengard
+type: Event
+class: Response
+cost: 1
+en:
+  title: Breeding Pit
+  subtitle: ''
+  text: '**Response:** If you play an Uruk-hai, take all copies of that card in your discard pile and place them beneath your draw deck.'
+  lore: ‘He is breeding an army in the Caverns of Isengard. An army that can move in sunlight and cover great distance at speed.’
+de:
+  title: Brutstätten
+  subtitle: ''
+  text: '**Reaktion:** Wenn du einen Uruk-hai spielst, nimm alle Exemplare dieser Karte aus deinem Ablagestapel und lege sie unter dein Spieldeck.'
+  lore: Er züchtet eine Armee in den Verliesen Isengarts heran. Eine Armee, der die Sonne nichts anhaben kann und die große Entfernungen zurücklegt.
+fr:
+  title: Fosse d'Élevage
+  subtitle: ''
+  text: '**Réponse :** Si vous jouez un Ourouk-Haï, prenez toutes les copies de cette carte dans votre pile de défausse et placez-les sous votre pioche.'
+  lore: ‘Il élève une armée dans les Cavernes d'Isengard. Une armée qui peut se déplacer à la lumière du soleil et couvrir de grandes distances à grande vitesse.’
+it:
+  title: Pozzo Generatore
+  subtitle: ''
+  text: '**Risposta:** Se giochi un Uruk-hai, prendi tutte le copie di quella carta dalla tua pila degli scarti e mettile sotto il tuo mazzo di gioco.'
+  lore: ‘Sta generando un'armata nelle Caverne di Isengard. Un'armata che può muoversi alla luce del sole e coprire in marcia grandi distanze.’
+es:
+  title: Pozo de Crianza
+  subtitle: ''
+  text: '**Respuesta:** Si juegas un Uruk-hai, coge todas las copias de esa carta de tu pila de descartes y ponlas bajo tu mazo de robar.'
+  lore: Él esta criando un ejército en las Cavernas de Isengard. Un ejercito que se puede mover a la luz del día y cubrir grandes distancias rápidamente.

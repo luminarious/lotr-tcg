@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '227'
+unique: true
+culture: Wraith
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Threshold of Shadow
+  subtitle: ''
+  text: '**Skirmish:** Make a Nazgûl strength +2 (or +4 if you spot 5 burdens).'
+  lore: '‘They did not need the guidance of their horses any longer: you had become visible to them….”’'
+de:
+  title: An der Schwelle zum Schattenreich
+  subtitle: ''
+  text: '**Kampf** Gib einem Nazgûl Stärke +2 (oder Stärke +4, wenn du 5 Lastmarken entdecken kannst).'
+  lore: 'Sie brauchten sich nicht mehr von ihren Pferden leiten zu lassen: du warst für sie sichtbar geworden…'
+fr:
+  title: Au Seuil de l'Ombre
+  subtitle: ''
+  text: '**Combat :** Donnez à un Nazgûl +2 en force (ou +4 si vous désignez 5 points-fardeau).'
+  lore: ‘Ils n'avaient plus besoin d'être dirigés par leurs chevaux ; vous leur étiez devenu visible….”’
+it:
+  title: Soglia dell'Ombra
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Nazgûl (o +4 se avvisti 5 segnalini fardello).'
+  lore: '‘Non avevano più bisogno della guida dei loro cavalli: tu eri ormai visibile ai loro occhi….”’'
+es:
+  title: Umbral de La Sombra
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Nazgûl fuerza +2 (o +4 si puedes avistar 5 cargas).'
+  lore: 'Ya no necesitaban que los caballos los guiaran: te habías vuelto visible para ellos…'

@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '77'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Let Folly Be Our Cloak
+  subtitle: ''
+  text: '**Fellowship:** Exert X companions to remove :twilightX:.'
+  lore: ‘Well, let folly be our cloak, a veil before the eyes of the Enemy!… Into his heart the thought will not enter that any will refuse it, that having the Ring we may seek to destroy it.’
+de:
+  title: Lasst Torheit unseren Deckmantel sein
+  subtitle: ''
+  text: '**Gemeinschaft.** Strenge X Gefährten an, um den Einfluss um :twilightX: zu verringern.'
+  lore: Nun gut, lasst Torheit unseren Deckmantel sein, einen Schleier vor den Augen des Feindes! …Ihm wird der Gedanke nicht kommen, dass jemand keinen Gebrauch davon machen will, dass wir den Ring haben und dennoch trachten könnten, ihn zu zerstören.
+fr:
+  title: Que la Folie Soit Notre Manteau
+  subtitle: ''
+  text: '**Compagnie :** Affaiblissez X compagnons pour retirer :twilightX:.'
+  lore: ‘Eh bien, que la folie soit notre manteau, un voile devant les yeux de l'ennemi ! …Dans son c*ur n'entrera jamais la pensée que quiconque puisse refuser ce pouvoir, qu'ayant l'Anneau nous puissions chercher à le détruire.’
+it:
+  title: La Follia sia il Nostro Manto
+  subtitle: ''
+  text: '**Compagnia:** Sforza X compagni per rimuovere :twilightX:.'
+  lore: ‘Ebbene, che la follia sia il nostro manto, un velo dinanzi agli occhi del nemico! …La sua mente non accetterebbe mai il pensiero che qualcuno possa rifiutare il tanto bramato potere, o che, possedendo l'Anello, voglia distruggerlo. ‘
+es:
+  title: Que La Locura Sea Nuestro Manto
+  subtitle: ''
+  text: '**Comunidad:** Esfuerza X compañeros para quitar :twilightX:.'
+  lore: Bueno. ¡Que la locura sea nuestro manto, un velo en los ojos del Enemigo!… No se le ocurrirá nunca que alguien pueda rehusar el poder, que teniendo el Anillo queramos destruirlo.

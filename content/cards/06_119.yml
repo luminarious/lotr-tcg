@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '119'
+unique: true
+culture: ''
+type: Site
+cost: 8
+siteArrow: Right
+en:
+  title: Valley of Saruman
+  subtitle: ''
+  text: When the fellowship moves to this site, discard all allies.
+  lore: ''
+de:
+  title: Sarumans Tal
+  subtitle: ''
+  text: Lege alle Verbündeten ab, wenn sich die Gemeinschaft hierher bewegt.
+  lore: ''
+fr:
+  title: La Vallée de Saroumane
+  subtitle: ''
+  text: Quand la compagnie se déplace jusqu’à ce site, défaussez tous les alliés.
+  lore: ''
+it:
+  title: Valle di Saruman
+  subtitle: ''
+  text: Quando la compagnia si muove verso questo sito, scarta tutti gli alleati.
+  lore: ''
+es:
+  title: Valle de Saruman
+  subtitle: ''
+  text: Cuando la comunidad se mueve a este sitio, descarta todos los aliados.
+  lore: ''

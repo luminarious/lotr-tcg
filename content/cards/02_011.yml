@@ -1,0 +1,40 @@
+set: '2'
+rarity: R
+number: '11'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Make Light of Burdens
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    **Maneuver:** Exert a Dwarf companion and discard the top 3 cards from your draw deck to discard either a Shadow condition from a Dwarf or a weather condition. 
+  lore: A Dwarf does not readily notice the weight on his back, or in his heart.
+de:
+  title: Die Last erleichtern
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. **Manöver:** Strenge einen Zwergen-gefährten an und lege die 3 obersten Karten von deinem Spieldeck ab, um entweder einen Schatteneffekt von einem Zwerg oder einen Wettereffekt im Spiel abzulegen.
+  lore: Ein Zwerg nimmt weder die Last auf seinem Rücken noch die in seinem Herzen leicht zur Kenntnis.
+fr:
+  title: Faire Fi des Fardeaux
+  subtitle: ''
+  text: |
+    **Manœuvre :** Affaiblissez un compagnon Nain et défaussez les 3 premières cartes de votre pioche pour défausser une situation de l’Ombre portée par un Nain ou une situation de **Climat.**  
+  lore: Un Nain ne remarque pas le poids sur son dos, ni sur son c*ur.
+it:
+  title: Non Dar Peso ai Fardelli
+  subtitle: ''
+  text: |-
+
+    **Manovra:** Sforza un compagno Nano e scarta le prime 3 carte dal tuo mazzo di gioco per scartare o una condizione Ombra da un Nano o una condizione atmosferica.
+  lore: Un Nano non si accorge subito del peso sulle sue spalle, o di quello sul suo cuore.
+es:
+  title: Sin Importar Las Cargas
+  subtitle: ''
+  text: |-
+
+    **Maniobra:** Esfuerza un compañero Enano y descarta las 3 cartas superiores de tu mazo de robar para descartar una condición de sombra de un Enano o una condición de **Clima.**
+  lore: Un Enano no se da verdaderamente cuenta del peso en su espalda, ni en su corazón.

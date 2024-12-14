@@ -1,0 +1,38 @@
+set: '1'
+rarity: U
+number: '209'
+unique: true
+culture: Wraith
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Blade Tip
+  subtitle: ''
+  text: |-
+
+    **Response:** If your Nazgûl wins a skirmish, transfer this condition from your support area to the losing character. Limit 1 per character. Wound bearer at the start of each fellowship phase. (If bearer is the Ring-bearer, add a burden instead.)
+  lore: ''
+de:
+  title: Klingenspitze
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Reaktion:** Wenn einer deiner Nazgûl einen Kampf gewinnt, verschiebe diesen Effekt auf den unterlegenen Charakter. Maximal 1 pro Charakter. Der Träger wird zu Beginn jeder Gemeinschaftsphase verwundet. (Liegt dieser Effekt auf dem Ringträger, so erhält er stattdessen eine Lastmarke.) '
+  lore: ''
+fr:
+  title: Éclat de Lame
+  subtitle: ''
+  text: '**Réponse :** Si votre Nazgûl remporte un combat, transférez cette situation de votre aire de soutien au personnage perdant. Limité à 1 par personnage. Blessez le détenteur au début de chaque phase de compagnie. (Si le détenteur est le **Porteur de l''Anneau**, ajoutez plutôt un point-fardeau.)'
+  lore: ''
+it:
+  title: Punta di Coltello
+  subtitle: ''
+  text: |-
+    Giocala nella tua area di supporto.  
+    **Risposta:** Se un tuo Nazgûl vince una schermaglia, trasferisci questa condizione dalla tua area al personaggio sconfitto. Limite 1 per personaggio. Ferisci il possessore all’inizio di ogni fase della Compagnia.  
+    (Se il possessore è il Portatore dell’Anello, aggiungi invece un fardello.)
+  lore: ''
+es:
+  title: Punta de Hoja
+  subtitle: ''
+  text: '**Respuesta:** Si tu Nazgûl gana una escaramuza, transfiere esta condición de tu área de apoyo al personaje perdedor. Límite 1 por personaje. El portador recibe una herida al principio de cada fase de comunidad (si el portador es el Portador del Anillo, en vez de eso añande una carga).'
+  lore: ''

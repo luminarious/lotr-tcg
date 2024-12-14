@@ -1,0 +1,33 @@
+set: '2'
+rarity: R
+number: '57'
+unique: true
+culture: Moria
+type: Event
+class: Response
+cost: 1
+en:
+  title: Final Cry
+  subtitle: ''
+  text: '**Response:** If a skirmish that involved The Balrog bearing Whip of Many Thongs is about to end, wound a companion in that skirmish twice. '
+  lore: …it swung its whip, and the thongs lashed and curled about the wizard’s knees, dragging him to the brink.
+de:
+  title: Letzter Aufschrei
+  subtitle: ''
+  text: '**Reaktion:** Wenn ein Kampf endet, an dem der Balrog, ausgerüstet mit der Peitsche mit vielen Riemen, beteiligt war, verwunde einen Gefährten, der an diesem Kampf teilgenommen hat, zweimal.'
+  lore: …schwang er seine Peitsche, und die Riemen trafen die Knie des Zauberers, wickelten sich herum und zogen ihn an den Rand.
+fr:
+  title: Un Dernier Cri
+  subtitle: ''
+  text: '**Réponse :** Si un combat qui implique Le Balrog détenant le Fouet aux Nombreuses Lanières est sur le point de se terminer, blessez deux fois un compagnon impliqué dans ce combat.'
+  lore: '… il fit tournoyer son fouet, et les lanières fouaillèrent le magicien et s''enroulèrent autour de ses genoux, l''entraînant vers le bord. '
+it:
+  title: L'Urlo Finale
+  subtitle: ''
+  text: '**Risposta:** Se una schermaglia in cui è coinvolto Il Balrog che impugna la Frusta dalle Molte Code sta per concludersi, ferisci due volte un compagno coinvolto in quella schermaglia.'
+  lore: …diede con la frusta una sferzata, e le code si avvolsero intorno alle ginocchia dello stregone, trascinandolo sino all'orlo della voragine.
+es:
+  title: Grito final
+  subtitle: ''
+  text: '**Respuesta:** Si una escaramuza en la que está implicado El Balrog llevando el Látigo de muchas colas va a terminar, hiere un compañero en esa escaramuza dos veces.'
+  lore: …sacudió el látigo, y las colas azotaron y envolvieron las rodillas del mago, arrastrándolo al borde del precipicio.

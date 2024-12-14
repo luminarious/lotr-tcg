@@ -1,0 +1,25 @@
+set: '7'
+rarity: U
+number: '146'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Easterling Sergeant
+  subtitle: ''
+  text: |-
+    **Easterling.**   
+    **Maneuver:** If you cannot spot a burden, spot another Easterling and exert this minion to add a burden.
+  lore: ''
+de:
+  title: Ostling Feldwebel
+  subtitle: ''
+  text: |-
+    **Ostling.**   
+    **Manöver:** Wenn du keine Lastmarke entdecken kannst, entdecke einen anderen Ostling und strenge diesen Diener an, um eine Lastmarke auf den Ringträger zu legen.
+  lore: …Ostlinge mit Äxten…

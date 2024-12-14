@@ -1,0 +1,25 @@
+set: '7'
+rarity: U
+number: '162'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 6
+str: '13'
+vit: '3'
+site: 4
+en:
+  title: Southron Captain
+  subtitle: ''
+  text: |-
+    **Southron.**   
+    While you can spot 4 threats, this minion is damage +2.
+  lore: ''
+de:
+  title: Südland Heerführer
+  subtitle: ''
+  text: |-
+    **Südländer.**   
+    Solange du 4 Bedrohungen entdecken kannst, erhält dieser Diener **Schaden +2**.
+  lore: …einen berittenen Kämpen aus Harad…

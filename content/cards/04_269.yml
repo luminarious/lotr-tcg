@@ -1,0 +1,15 @@
+set: '4'
+rarity: R
+number: '269'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Éothain
+  subtitle: Scout of the Mark
+  text: 'Each time the fellowship moves to a plains site, each minion must exert. '
+  lore: ‘Time is pressing…. We must hasten south, lord.’

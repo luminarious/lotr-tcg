@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '334'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Rohirrim Village
+  subtitle: ''
+  text: 'Each :dunland: Man may not take wounds during the archery phase. '
+  lore: ''
+de:
+  title: Dorf der Rohirrim
+  subtitle: ''
+  text: 'Alle :dunland: Menschen dürfen in der Fernkampfphase keine Wunden erleiden.'
+  lore: ''
+fr:
+  title: Village des Rohirrim
+  subtitle: ''
+  text: 'Aucun Homme :dunland: ne peut être blessé pendant la phase d’archerie.'
+  lore: '2'
+it:
+  title: Villaggio Rohirrim
+  subtitle: ''
+  text: 'Ogni Uomo :dunland: non può subire ferite durante la fase degli arcieri.'
+  lore: ''
+es:
+  title: Pueblo Rohirrim
+  subtitle: ''
+  text: 'Cada Hombre :dunland: no puede recibir heridas durante la fase de arquería.'
+  lore: ''

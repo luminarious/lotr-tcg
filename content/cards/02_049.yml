@@ -1,0 +1,44 @@
+set: '2'
+rarity: R
+number: '49'
+unique: true
+culture: Moria
+type: Minion
+race: Orc
+cost: 4
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Archer Commander
+  subtitle: ''
+  text: |-
+    **Archer.**   
+    Each other :moria: archer is strength +2. 
+  lore: Their commander led the Goblin bowmen to the highest rise across the gap.
+de:
+  title: Kommandant der Schützen
+  subtitle: ''
+  text: |-
+    **Bogenschütze.**  
+    Alle anderen :moria: Bogenschützen erhalten Stärke +2.
+  lore: Ihr Anführer führte die Bogenschützen zum höchsten Vorsprung über der Kluft.
+fr:
+  title: Commandant des Archers
+  subtitle: ''
+  text: |-
+    **Archer.**  
+    Tous les autres Archers :moria: ont +2 en force.
+  lore: Les archers gobelins furent placés par leur commandant au plus haut point surplombant le gouffre.
+it:
+  title: Comandante degli Arcieri
+  subtitle: ''
+  text: |-
+    **Arciere.**  
+    Aggiungi +2 alla forza di ogni altro arciere :moria:.
+  lore: Il loro comandante guidò gli arcieri Goblin verso la cengia più alta del burrone.
+es:
+  title: Comandante arquero
+  subtitle: ''
+  text: '**Arquero.** Cada otro arquero :moria: es fuerza +2.'
+  lore: Su comandante condujo a los arqueros Goblin hasta el punto más alto del abismo.

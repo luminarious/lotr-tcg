@@ -1,0 +1,36 @@
+set: '4'
+rarity: C
+number: '134'
+unique: true
+culture: Gondor
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Sword of Gondor
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.   
+    While skirmishing a Man or a roaming minion, bearer is **damage +1.** 
+  lore: Four tall Men stood there…. All had swords at their sides….
+de:
+  title: Gondorklinge
+  subtitle: ''
+  text: 'Muss auf einen :gondor: Menschen gespielt werden. Solange er gegen einen Menschen oder einen wandernden Diener kämpft, erhält der Träger **Schaden +1.**'
+  lore: Vier hochgewachsene Menschen standen dort…. Alle hatten Schwerter an der Seite….
+fr:
+  title: Lame du Gondor
+  subtitle: ''
+  text: Le détenteur doit être un Homme :gondor:. Le détenteur inflige des **dégâts +1** quand il combat un Homme ou un séide errant.
+  lore: 'Quatre hommes de haute taille étaient là… Tous portaient des épées au côté…” '
+it:
+  title: Spada di Gondor
+  subtitle: ''
+  text: Il possessore deve essere un Uomo :gondor:. Mentre sta schermagliando con un Uomo o un servitore vagante, il possessore ha **Danno +1.**
+  lore: ‘Quattro alti Uomini erano apparsi… tutti cingevano una spada…’
+es:
+  title: Espada De Gondor
+  subtitle: ''
+  text: El portador debe ser un Hombre :gondor:. Mientras esté en una escaramuza contra un Hombre o un siervo que esté vagando, el portador es **daño +1.**
+  lore: Cuatro hombres de elevada estatura estaban allí… Todos ceñían espadas…

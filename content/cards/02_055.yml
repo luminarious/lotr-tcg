@@ -1,0 +1,38 @@
+set: '2'
+rarity: C
+number: '55'
+unique: true
+culture: Moria
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Dark Places
+  subtitle: ''
+  text: |-
+
+    Each unique :moria: minion is strength +1.   
+    **Shadow:** Spot an opponent’s site to replace it with your marsh or underground site of the same number. 
+  lore: ‘There is some new devilry here… devised for our welcome, no doubt.’
+de:
+  title: Dunkle Orte
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jeder einzigartige :moria: Diener erhält Stärke +1. **Schatten:** Entdecke die Ortskarte eines Gegenspielers, um sie durch deine Sumpf- oder unterirdische Ortskarte mit der gleichen Kennzahl zu ersetzen.'
+  lore: Da ist irgendeine neue Teufelei im Gange… zweifellos als Willkommensgruß für uns gedacht.
+fr:
+  title: Lieux Sombres
+  subtitle: ''
+  text: |-
+    Jouable dans votre aire de soutien.  
+    Chaque séide :moria: unique a +1 en force. Ombre : Désignez un site adverse et remplacez-le par votre marais ou votre site souterrain du même numéro.
+  lore: 'Il y a là quelque nouvelle diablerie fomentée en guise de bienvenue, il n''y a aucun doute…” '
+it:
+  title: Luoghi Oscuri
+  subtitle: ''
+  text: 'Aggiungi +1 alla forza di ogni servitore :moria: unico. **Ombra:** Avvista un sito di un avversario per rimpiazzarlo con un tuo sito palude o sotterraneo con lo stesso numero.'
+  lore: ‘Codesta è qualche nuova diavoleria… senza dubbio escogitata per darci il benvenuto.’
+es:
+  title: Lugares oscuros
+  subtitle: ''
+  text: 'Cada siervo :moria: único es fuerza +1. **Sombra:** Avista un sitio del oponente para reemplazarlo por tu pantano o sitio subterráneo del mismo número.'
+  lore: Esto es alguna nueva diablura…preparada sin duda para darnos la bienvenida.

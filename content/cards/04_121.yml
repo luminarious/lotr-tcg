@@ -1,0 +1,40 @@
+set: '4'
+rarity: R
+number: '121'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Forests of Ithilien
+  subtitle: ''
+  text: |-
+    Plays to your support area.  
+    While the fellowship is at site 5:tower:, the site number of each Man in a skirmish is +2.  
+    **Regroup:** Discard this condition and exert a Ring-bound Man to liberate a site.
+  lore: …a fair country of climbing woods and swift-falling streams.
+de:
+  title: Die Wälder Ithiliens
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Solange sich die Gemeinschaft an Ort 5:tower: befindet, erhöht sich die Ortskennzahl jedes Menschen, der in einem Kampf ist, um 2. **Sammeln:** Strenge einen Ring-verbundenen Menschen an und lege diesen Effekt ab, um einen Ort zu befreien.'
+  lore: … ein liebliches Land mit emporklimmenden Wäldern….
+fr:
+  title: Les Forêts de L'Ithilien
+  subtitle: ''
+  text: Tant que la compagnie se trouve au site 5:tower:, le numéro de site de chaque Homme en combat est de +2. **Ralliement :** Défaussez cette situation et affaiblissez un Homme associé à l’Anneau pour libérer un site.
+  lore: '… belle région de forêts et de torrents rapides. '
+it:
+  title: Foreste dell'Ithilien
+  subtitle: ''
+  text: |-
+    Mentre la compagnia è al sito 5:tower:, aggiungi +2 al numero del sito di ogni Uomo che sia in una schermaglia.   
+    **Raccolta:** Scarta questa condizione e sforza un Uomo Legato all’Anello per liberare un sito.
+  lore: ‘…un bel paese dai boschi scoscesi e dai rapidi torrenti.’
+es:
+  title: Bosques De Ithilien
+  subtitle: ''
+  text: |-
+    Mientras la comunidad esté en el sitio 5:tower:, el número de sitio de cada Hombre en una escaramuza es +2.   
+    **Reagrupación:** Descarta esta condición y esfuerza un Hombre Vinculado al Anillo para liberar un sitio.
+  lore: …una hermosa región de lomas boscosas y de aguas rápidas.

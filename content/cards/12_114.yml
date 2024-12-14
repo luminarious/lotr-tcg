@@ -1,0 +1,22 @@
+set: '12'
+rarity: C
+number: '114'
+unique: true
+culture: Rohan
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: For the Mark
+  subtitle: ''
+  text: |-
+    Spot a :rohan: Man to discard a possession from play.   
+    You may exert a :rohan: Man who has resistance 3 or more to play this event during the maneuver phase.
+  lore: South strode Éomer and men fled before his face, and they were caught between the hammer and the anvil.
+de:
+  title: Für die Mark
+  subtitle: ''
+  text: |-
+    Entdecke einen :rohan: Menschen, um eine Ausrüstung aus dem Spiel abzulegen.  
+    Du darfst einen :rohan: Menschen mit Resistenz 3 oder mehr anstrengen, um dieses Ereignis in der Manöverphase zu spielen.
+  lore: Nach Süden preschte Éomer, und die Menschen flohen vor seinem Gesicht….

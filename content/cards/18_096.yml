@@ -1,0 +1,15 @@
+set: '18'
+rarity: R
+number: '96'
+unique: true
+culture: Rohan
+type: Possession
+cost: 0
+en:
+  title: Erkenbrand's Horn
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    **Fellowship:** Exert bearer to play a follower from your draw deck. Reshuffle your draw deck.  
+    **Skirmish:** Discard a follower from play to make bearer strength +4 (if bearer is Erkenbrand, he is strength +5 instead).
+  lore: ''

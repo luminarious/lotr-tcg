@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '121'
+unique: true
+culture: Isengard
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Bred for Battle
+  subtitle: ''
+  text: '**Skirmish:** Exert an Uruk-hai to make it strength +3.'
+  lore: ‘You are the Uruk-hai of Isengard!… you do not know pain, you do not know fear.’
+de:
+  title: Für den Kampf gezüchtet
+  subtitle: ''
+  text: '**Kampf** Strenge einen Uruk-hai an, um diesem Stärke +3 zu geben.'
+  lore: Ihr seid die Uruk-hai von Isengart! Das Blut in euren Adern ist kalt und schwarz – ihr kennt keinen Schmerz, ihr kennt keine Furcht – denn ihr seid Diener der weissen Hand – die euch Menschenfleisch zum Fraß vorwirft.
+fr:
+  title: Élevé pour la Bataille
+  subtitle: ''
+  text: '**Combat :** Affaiblissez un Ourouk-Haï pour lui donner +3 en force.'
+  lore: ‘Vous êtes les Ourouk-Haï d'Isengard ! … vous ne connaissez pas la souffrance, vous ne connaissez pas la peur.’
+it:
+  title: Nati Per Combattere
+  subtitle: ''
+  text: '**Schermaglia:** Sforza un Uruk-hai per aggiungere +3 alla sua forza.'
+  lore: ‘Voi siete gli Uruk-hai di Isengard! Il sangue nelle vostre vene è nero e freddo – non conoscete il dolore, non conoscete la paura.’
+es:
+  title: Criados Para La Batalla
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza un Uruk-hai para darle fuerza +3.'
+  lore: ¡Vosotros sois los Uruk-hai de Isengard!… No conocéis el dolor, no conocéis el miedo.

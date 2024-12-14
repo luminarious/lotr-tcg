@@ -1,0 +1,44 @@
+set: '4'
+rarity: C
+number: '185'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Uruk Fanatic
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    If there are at least 3 cards in the dead pile, this minion is **fierce.** 
+  lore: Despite intensive training, the smell of blood still enraged the Uruk warriors.
+de:
+  title: Fanatischer Uruk
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Dieser Diener ist **Erbittert**, wenn mindestens 3 Karten im Friedhof liegen.
+  lore: Trotz intensiven Trainings, machte der Geruch von frischem Blut die Urukkrieger immer noch rasend.
+fr:
+  title: Fanatique Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    **Manœuvre :** Si le cimetière contient au moins 3 cartes, ce séide est **acharné.**
+  lore: Malgré leur entraînement intensif, les guerriers ourouks devenaient fous à l'odeur du sang.
+it:
+  title: Uruk Fanatico
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    Se ci sono almeno altre 3 carte nella pila dei morti, questo servitore è **Feroce.**
+  lore: Nonostante l'intenso addestramento, l'odore del sangue faceva ancora infuriare i guerrieri Uruk.
+es:
+  title: Fanático Uruk
+  subtitle: ''
+  text: '**Daño +1.** Si hay por lo menos 3 cartas en la pila de muertos, este siervo es **fiero.** '
+  lore: A pesar de un entrenamiento intensivo, el olor de la sangre aún enfurecía a los guerreros Uruk.

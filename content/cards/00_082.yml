@@ -1,0 +1,54 @@
+set: '0'
+rarity: P
+number: '82'
+unique: true
+culture: Wraith
+type: Possession
+class: Mount
+cost: 2
+str: '+2'
+en:
+  title: The Witch-king’s Beast
+  subtitle: Fell Creature
+  text: |-
+    Bearer must be a Nazgûl.   
+    If bearer is The Witch-king, after all skirmishes and fierce skirmishes have been resolved, you may exert him twice to make him participate in one additional assignment and skirmish phase.
+  lore: |-
+    Online Black Rider Release Event  
+    Feburary 2005
+de:
+  title: Die bestie des Hexenkönigs
+  subtitle: Gefährliche Kreatur
+  text: |-
+    Muss auf einen Nazgûl gespielt werden.  
+    Wenn der Hexenkönig der Reiter ist, darfst du ihn zweimal anstrengen, nachdem alle Kämpfe und alle erbitterten Kämpfe abgehandelt wurden, um ihm eine weitere Zuweisungs- und Kampfphase zu ermöglichen.
+  lore: |-
+    Online Black Rider Release Event  
+    Feburary 2005
+fr:
+  title: The Witch-king's Beast
+  subtitle: Fell Creature
+  text: |-
+    Bearer must be a Nazgûl.   
+    If bearer is The Witch-king, after all skirmishes and fierce skirmishes have been resolved, you may exert him twice to make him participate in one additional assignment and skirmish phase.
+  lore: |-
+    Online Black Rider Release Event  
+    Feburary 2005
+it:
+  title: The Witch-king's Beast
+  subtitle: Fell Creature
+  text: |-
+    Bearer must be a Nazgûl.   
+    If bearer is The Witch-king, after all skirmishes and fierce skirmishes have been resolved, you may exert him twice to make him participate in one additional assignment and skirmish phase.
+  lore: |-
+    Online Black Rider Release Event  
+    Feburary 2005
+es:
+  title: The Witch-king's Beast
+  subtitle: Fell Creature
+  text: |-
+    Bearer must be a Nazgûl.   
+    If bearer is The Witch-king, after all skirmishes and fierce skirmishes have been resolved, you may exert him twice to make him participate in one additional assignment and skirmish phase.
+  lore: |-
+    Online Black Rider Release Event  
+    Feburary 2005

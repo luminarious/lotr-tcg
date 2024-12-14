@@ -1,0 +1,21 @@
+set: '11'
+rarity: R
+number: '135'
+unique: true
+culture: Orc
+type: Minion
+race: Troll
+cost: 7
+str: '15'
+vit: '3'
+site: 5
+en:
+  title: Porter Troll
+  subtitle: ''
+  text: '**Damage +1.** **Fierce.** To play, spot an :orc: minion. When you play this minion, add a burden unless the Free Peoples player reveals a Free Peoples event from his or her hand. '
+  lore: The mammoth battering ram Grond required equally mammoth strength to wield it.
+de:
+  title: Troll Toröffner
+  subtitle: ''
+  text: '**Schaden +1. Erbittert.** Entdecke einen :orc: Diener, um diesen Diener zu spielen. Lege, wenn du diesen Diener spielst, eine Lastmarke auf den Ringträger, wenn der Freie Völker Spieler nicht ein Freie Völker Ereignis von seiner Hand aufdeckt.'
+  lore: Um die monströse Ramme Grond zu schwingen, braucht es monströse Kraft.

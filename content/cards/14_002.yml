@@ -1,0 +1,18 @@
+set: '14'
+rarity: R
+number: '2'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 3
+str: '7'
+vit: '3'
+res: '6'
+en:
+  title: Elladan
+  subtitle: Son of Elrond
+  text: |-
+    Elrohir is twilight cost –2.  
+    Each time you play an :elven: event during a skirmish involving Elladan or Elrohir, that event is twilight cost –2.
+  lore: The Lady Celebrían bore Elrond two sons, the identical twins Elladan and Elrohir; elder brothers ofArwen, and grandchildren of Galadriel.

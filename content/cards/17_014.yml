@@ -1,0 +1,13 @@
+set: '17'
+rarity: U
+number: '14'
+unique: true
+culture: Elven
+type: Event
+class: Archery
+cost: 1
+en:
+  title: Weapons of Lothlórien
+  subtitle: ''
+  text: 'Spot an :elven: archer and add a threat to wound a minion (or add 3 threats to exert 3 minions).'
+  lore: Leithio i philinn!

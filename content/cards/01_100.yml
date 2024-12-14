@@ -1,0 +1,43 @@
+set: '1'
+rarity: R
+number: '100'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: The Choice of Lúthien
+  subtitle: ''
+  text: |-
+    **Tale.**   
+    **Maneuver:** Exert Aragorn to heal Arwen, or exert Arwen to heal Aragorn.
+  lore: ‘But she chose mortality, and to die from the world, so that she might follow him; and it is sung that they met again beyond the Sundering Seas….’
+de:
+  title: Lúthiens Entscheidung
+  subtitle: ''
+  text: |-
+    **Erzählung.**  
+    **Manöver:** Strenge Aragorn an, um Arwen zu heilen; oder strenge Arwen an, um Aragorn zu heilen.
+  lore: Sie aber wählte die Sterblichkeit und wollte die Welt verlassen, damit sie ihm folgen könne; und so heisst es in dem Lied, dass sie sich jentseits des Trennenden Meeres wiedertrafen…
+fr:
+  title: Le Choix de Lúthien
+  subtitle: ''
+  text: |-
+    **Récit.**  
+    **Manœuvre :** Affaiblissez Aragorn pour guérir Arwen, ou affaiblissez Arwen pour guérir Aragorn.
+  lore: ‘Mais elle choisit l'état de mortelle, voulant quitter le monde pour le suivre ; et l'on chante qu'ils se retrouvèrent au-delà des Mers Séparatrices….’
+it:
+  title: La Scelta di Lúthien
+  subtitle: ''
+  text: |-
+    **Racconto.**   
+    **Manovra:** Sforza Aragorn per curare Arwen, o sforza Arwen per curare Aragorn.
+  lore: ‘Ma ella scelse la mortalità, e di morire al mondo, per poterlo seguire. Si canta che si incontrarono nuovamente al di là dei Mari che separano i mondi….’
+es:
+  title: La Elección de Lúthien
+  subtitle: ''
+  text: |-
+    **Cuento.**  
+    **Maniobra:** Esfuerza a Aragorn para curar a Arwen, o esfuerza a Arwen para curar a Aragorn.
+  lore: Pero ella eligió la mortalidad, y morir para el mundo, para así poder seguirlo, y aun se canta que se encontraron mas allá de los Mares que Separan…

@@ -1,0 +1,25 @@
+set: '7'
+rarity: R
+number: '215'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 5
+str: '10'
+vit: '3'
+site: 2
+en:
+  title: Úlairë Nelya
+  subtitle: Assailing Minion
+  text: |-
+    **Fierce.**   
+    **Skirmish:** Discard a :wraith: minion to make Úlairë Nelya strength +2.
+  lore: ''
+de:
+  title: •Úlairë Nelya
+  subtitle: Herabstoßender Diener
+  text: |-
+    **Erbittert.**   
+    **Kampf:** Lege einen :wraith: Diener ab, um Úlairë Nelya Stärke +2 zu geben.
+  lore: Er erschauerte und die Hoffnung schien zu schwinden.

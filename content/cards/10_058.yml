@@ -1,0 +1,18 @@
+set: '10'
+rarity: R
+number: '58'
+unique: true
+culture: Wraith
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Dark Swooping Shadows
+  subtitle: ''
+  text: 'Heal an enduring :wraith: minion to add a burden or 2 threats.'
+  lore: ‘…how can he win to the Gate, if these foul hell-hawks have other weapons than fear?’
+de:
+  title: Dunkle, herabstoßende Schatten
+  subtitle: ''
+  text: 'Heile einen zähen :wraith: Diener, um eine Lastmarke auf den Ringträger zu legen oder um 2 Bedrohungen entstehen zu lassen.'
+  lore: … aber wie kann er das Tor erreichen, wenn diese widerlichen Höllengeier noch andere Waffen als Schrecken haben?

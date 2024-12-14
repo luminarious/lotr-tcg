@@ -1,0 +1,20 @@
+set: '9'
+rarity: R
+number: '13'
+unique: true
+culture: Elven
+type: Possession
+class: Rope
+cost: 1
+en:
+  title: Elven Rope
+  subtitle: ''
+  text: |-
+    To play, spot an Elf. Bearer must be an Elf or Hobbit.   
+    **Maneuver:** Discard this possession to make a Shadow player return a minion with strength 6 or less to its owner’s hand. 
+  lore: ‘It freezes, it bites! Elves twisted it, curse them!’
+de:
+  title: Elbenseil
+  subtitle: ''
+  text: Entdecke einen Elben, um diese Ausrüstung auf einen Elben oder Hobbit zu spielen. **Manöver:** Lege diesen Effekt ab, um einen Schattenspieler zu zwingen, einen Diener mit Stärke 6 oder weniger wieder auf die Hand zu nehmen.
+  lore: Es ist eiskalt, es schneidet ein. Elben haben es zusammengedreht, verflucht sollen sie sein!

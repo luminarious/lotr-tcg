@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '235'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: Dammed Gate-stream
+  subtitle: ''
+  text: '**Marsh.** At the start of your fellowship phase, you may play a :gollum: Free Peoples card from your draw deck. '
+  lore: ''
+de:
+  title: Gestauter Torbach
+  subtitle: ''
+  text: '**Sumpf.** Zu Beginn deiner Gemeinschaftsphase darfst du eine :gollum: Karte der Freien Völker aus deinem Spieldeck spielen.'
+  lore: ''

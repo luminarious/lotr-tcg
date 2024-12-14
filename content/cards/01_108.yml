@@ -1,0 +1,42 @@
+set: '1'
+rarity: U
+number: '108'
+unique: true
+culture: Gondor
+type: Condition
+cost: 0
+en:
+  title: No Stranger to the Shadows
+  subtitle: ''
+  text: |-
+    Bearer must be a ranger. Limit 1 per ranger.   
+    Each site’s Shadow number is -1.
+  lore: ‘Ah, but you had not got me with you then,’ laughed Strider. ‘My cuts, short or long, don't go wrong.’
+de:
+  title: Vertraut mit den Schatten
+  subtitle: ''
+  text: |-
+    Muss auf einen Waldläufer gespielt werden. Maximal 1 pro **Waldläufer.**  
+    Die Schattenzahl jedes Ortes wird um 1 reduziert.
+  lore: Ach, da hattet ihr mich nicht dabei“, lachte Streicher. "Meine Wege, ob gerade oder krumm, gehen nicht fehl.
+fr:
+  title: Habitué des Ombres
+  subtitle: ''
+  text: |-
+    Le détenteur doit être un **Rôdeur.**  
+    Limité à 1 par **Rôdeur.**  
+    La puissance de l’Ombre de chaque site est de -1.
+  lore: ‘Ah, mais vous ne m'aviez pas avec vous alors,’ dit Grands-Pas, riant. ‘Mes raccourcis, courts ou longs, ne tournent jamais mal.’
+it:
+  title: A Suo Agio tra le Ombre
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un **ramingo.**  
+    Limite 1 per **ramingo.**  
+    Sottrai -1 al numero Ombra di ogni sito.
+  lore: ‘Ah, ma non c'ero io quella volta’ disse ridendo Granpasso. ‘La mie scorciatoie, lunghe o corte che siano, non sgarrano mai.’
+es:
+  title: No Le Es Extraño a Las Sombras
+  subtitle: ''
+  text: El portador ha de ser un **Montaraz.** Limite uno por **Montaraz.** El número de Sombra de cada sitio es -1.
+  lore: Ah, pero todavía no me teníais con vosotros – dijo Trancos riendo –. Mis atajos, largos o cortos, nunca terminan mal.

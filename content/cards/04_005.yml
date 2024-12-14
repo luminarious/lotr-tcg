@@ -1,0 +1,33 @@
+set: '4'
+rarity: C
+number: '5'
+unique: true
+culture: Dunland
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Burn Every Village
+  subtitle: ''
+  text: '**Skirmish:** Make a :dunland: Man strength +2 (or +4 if you control a site). '
+  lore: ‘Take your rabble through the Westemnet; take back the lands they stole from you.’
+de:
+  title: Brennt jedes Dorf nieder
+  subtitle: ''
+  text: '**Kampf** Gib einem :dunland: Menschen Stärke +2 (oder Stärke +4, wenn du einen Ort kontrollierst).'
+  lore: Führt eure Stämme durch Westemnet, erobert das Land, dass sie euch gestohlen haben, zurück.
+fr:
+  title: Brûlez ChaqueVillage
+  subtitle: ''
+  text: '**Combat :** Donnez +2 en force à un Homme :dunland: (ou +4 si vous contrôlez un site).'
+  lore: 'Emmenez votre meute à travers l''Ouestemnet; reprenez les terres qu''ils vous ont volées. ” '
+it:
+  title: Bruciate Ogni Villaggio
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Uomo :dunland: (o +4 se controlli un sito).'
+  lore: ‘Guida la tua marmaglia attraverso l'Ovestemnet; riprendetevi le terre che vi hanno rubato.’
+es:
+  title: Quemad Cada Pueblo
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Hombre :dunland: fuerza +2 (o +4 si controlas un sitio).'
+  lore: Lleva a tu multitud a Oestemnet; recupera las tierras que te robaron.

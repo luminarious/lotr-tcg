@@ -1,0 +1,25 @@
+set: '12'
+rarity: S
+number: '152'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '8'
+vit: '3'
+site: 5
+en:
+  title: Uruk Dominator
+  subtitle: ''
+  text: |-
+    **Damage +1.   
+    Skirmish:** Exert this minion to make it strength +1 for each :urukhai: Uruk-hai you spot (or +2 for each if you can spot a companion who has resistance 3 or less).
+  lore: The Great Orc race revels in its ability to overwhelm an enemy.
+de:
+  title: Herrischer Uruk
+  subtitle: ''
+  text: |-
+    **Schaden +1**.  
+    **Kampf:** Strenge diesen Diener an, um ihm Stärke +1 für jeden :urukhai: Uruk-hai zu geben, den du entdeckst (oder Stärke +2 für jeden, wenn du einen Gefährten mit Resistenz 3 oder weniger entdecken kannst).
+  lore: Das große Volk der Orks erfreut sich an der Tatsache seine Feinde überwältigen zu können.

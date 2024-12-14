@@ -1,0 +1,18 @@
+set: '18'
+rarity: R
+number: '113'
+unique: true
+culture: Shire
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+1'
+vit: '+1'
+res: '+1'
+en:
+  title: Sting
+  subtitle: Elven Long Knife
+  text: |-
+    Bearer must be Bilbo or Frodo.  
+    **Regroup:** Exert bearer to remove a threat.
+  lore: My old sword, Sting! Here! Take it, take it!

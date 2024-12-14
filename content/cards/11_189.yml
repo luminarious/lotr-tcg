@@ -1,0 +1,23 @@
+set: '11'
+rarity: U
+number: '189'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '10'
+vit: '3'
+site: 5
+en:
+  title: Intimidating Uruk
+  subtitle: ''
+  text: '**Damage +1.** When you play this minion at a battleground site, spot an unbound companion to make that companion resistance –2 until the end of the turn.'
+  lore: In battle, the Uruk-hai inspire terror in even the bravest of their enemies.
+de:
+  title: Einschüchternder Uruk
+  subtitle: ''
+  text: |-
+    **Schaden +1**.  
+    Wenn du diesen Diener an einem Schlachtfeld spielst, entdecke einen nicht-verbundenen Gefährten, um diesem Gefährten bis zum Ende des Zuges Resistenz -2 zu geben.
+  lore: Selbst die Mutigsten fürchten die Uruk-hai in der Schlacht.

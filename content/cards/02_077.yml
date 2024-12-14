@@ -1,0 +1,38 @@
+set: '2'
+rarity: R
+number: '77'
+unique: true
+culture: Wraith
+type: Condition
+cost: 2
+en:
+  title: His Terrible Servants
+  subtitle: ''
+  text: |-
+
+    **Response:** If a twilight Nazgûl is about to take a wound, remove :twilight1: to prevent that wound. 
+  lore: '‘…in the dark they perceive many signs and forms that are hidden from us: then they are most to be feared.’'
+de:
+  title: Seine schrecklichen Diener
+  subtitle: ''
+  text: '**Reaktion:** Wenn ein Zwielicht Nazgûl verwundet wird, verringere den Einfluss um :twilight1:, um diese Wunde zu verhindern.'
+  lore: '…und in der Dunkelheit nehmen sie viele Zeichen und Formen wahr, die uns verborgen sind: dann sind sie am meisten zu fürchten.'
+fr:
+  title: Ses Terribles Serviteurs
+  subtitle: ''
+  text: '**Réponse :** Si un Nazgûl crépusculaire est sur le point de recevoir une blessure, retirez :twilight1: pour prévenir la blessure.'
+  lore: '… dans l''obscurité ils perçoivent maints signes et formes qui nous échappent: c''est alors qu''ils sont le plus à craindre.” '
+it:
+  title: I Suoi Terribili Servi
+  subtitle: ''
+  text: |-
+    Giocala nella tua area di supporto.  
+    **Risposta:** Se un Nazgûl nel Crepuscolo sta per subire una ferita, rimuovi :twilight1: per prevenire quella ferita.
+  lore: '‘…nell''oscurità percepiscono molti segni e molte figure che per noi sono invisibili: è allora che bisogna temerli maggiormente.’'
+es:
+  title: Sus terribles servidores
+  subtitle: ''
+  text: |-
+
+    **Respuesta:** Si un Nazgûl de penumbra está a punto de recibir una herida, quita :twilight1: para prevenir esa herida.
+  lore: '…en la oscuridad perciben muchos signos y formas que a nosotros nos están ocultas: es entonces cuando más se les debe temer.'

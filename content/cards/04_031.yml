@@ -1,0 +1,39 @@
+set: '4'
+rarity: U
+number: '31'
+unique: true
+culture: Dunland
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Over the Isen
+  subtitle: ''
+  text: |-
+
+    **Assignment:** Spot a site you control and remove :twilight2: to assign a :dunland: Man to an unbound companion. 
+  lore: Like their ancestors years before, the Dunlendings came down from Isengard.
+de:
+  title: Über den Isen
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. **Zuweisung:** Entdecke einen Ort, den du kontrollierst und verringere den Einfluss um :twilight2:, um einen :dunland: Menschen einem nicht-verbundenen Gefährten zuzuweisen.'
+  lore: Wie schon ihre Vorfahren Jahre zuvor, kamen die Dunländer aus Isengard hervor.
+fr:
+  title: Au-Delà de l'Isen
+  subtitle: ''
+  text: '**Affectation :** Désignez un site que vous contrôlez et retirez :twilight2: pour affecter un Homme :dunland: à un compagnon dissocié.'
+  lore: Comme leurs ancêtres avant eux, Ceux du Pays de Dun descendirent de l'Isengard.
+it:
+  title: Sull'Isen
+  subtitle: ''
+  text: |-
+
+    **Assegnazione:** Avvista un sito che controlli e rimuovi :twilight2: per assegnare un Uomo :dunland: a un compagno Non Legato.
+  lore: Come i loro antenati anni prima, i Dunlandiani scesero giù da Isengard.
+es:
+  title: Sobre El Isen
+  subtitle: ''
+  text: |-
+
+    **Asignación:** Avista un sitio que controles y quita :twilight2: para asignar un Hombre :dunland: a un compañero no-vinculado.
+  lore: Al igual que sus ancestros años antes, los Dunlendinos bajaron hacia Isengard.

@@ -1,0 +1,16 @@
+set: '18'
+rarity: C
+number: '90'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 4
+str: '9'
+vit: '3'
+site: 4
+en:
+  title: Orkish Skirmisher
+  subtitle: ''
+  text: Each time this minion wins a skirmish, you may exert him twice to wound a companion.
+  lore: Pain. Pain was part of each Orc’s life.

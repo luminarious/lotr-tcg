@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '106'
+unique: true
+culture: Orc
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: Armed for Battle
+  subtitle: ''
+  text: 'Spot your :orc: minion to play an :orc: possession from your discard pile (or, if that minion is at a battleground site, from your draw deck or discard pile).'
+  lore: Fashioned by the hands of Orcs, or plundered from the hands of defeated enemies, the weaponry of Mordor is bounteous.
+de:
+  title: Für die Schlacht gerüstet
+  subtitle: ''
+  text: 'Entdecke deinen :orc: Diener, um eine :orc: Ausrüstung aus deinem Ablagestapel zu spielen (oder aus deinem Spieldeck oder Ablagestapel, wenn sich dieser Diener auf einem Schlachtfeld befindet).'
+  lore: Die Waffenkammer von Mordor läuft über vor Waffen, die die Orks anfertigen oder auf den Schlachtfeldern plündern.

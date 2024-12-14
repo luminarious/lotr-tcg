@@ -1,0 +1,16 @@
+set: '9'
+rarity: R+
+number: '14'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 3
+str: '3'
+vit: '3'
+res: ''
+en:
+  title: Galadriel
+  subtitle: Bearer of Wisdom
+  text: 'While Galadriel bears an artifact or The One Ring, she is resistance +1 for each :elven: companion you can spot. '
+  lore: ‘…I shall not be dark, but beautiful and terrible as the Morning and the Night!…Dreadful as the Storm and the Lightning!’

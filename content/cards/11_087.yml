@@ -1,0 +1,15 @@
+set: '11'
+rarity: U
+number: '87'
+unique: true
+culture: Man
+type: Condition
+cost: 3
+en:
+  title: Láthspell
+  subtitle: ''
+  text: |-
+    To play, spot a :men: minion.   
+    Bearer must be a companion.   
+    While bearer is skirmishing a :men: minion, bearer loses all strength and damage bonuses from possessions. 
+  lore: ‘…ill news is an ill guest they say.’

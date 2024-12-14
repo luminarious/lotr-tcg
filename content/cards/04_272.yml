@@ -1,0 +1,36 @@
+set: '4'
+rarity: R
+number: '272'
+unique: true
+culture: Rohan
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+3'
+en:
+  title: Éowyn's Sword
+  subtitle: ''
+  text: |-
+    Bearer must be Éowyn.   
+    While you can spot a villager, Éowyn is **damage +1.** 
+  lore: …the sword was set upright before her, and her hands were laid upon the hilt.
+de:
+  title: Éowyns Schwert
+  subtitle: ''
+  text: Muss auf Éowyn gespielt werden. Solange du einen Dorfbewohner entdecken kannst, erhält Éowyn **Schaden +1.**
+  lore: … das Schwert hatte sie senkrecht vor sich gestellt, und ihre Hände lagen auf dem Heft.
+fr:
+  title: L'Épée d'Éowyn
+  subtitle: ''
+  text: Le détenteur doit être Éowyn. Tant que vous pouvez désigner un villageois, Éowyn inflige des **dégâts +1.**
+  lore: '… l''épée était dressée devant elle, et ses mains reposaient sur la poignée. '
+it:
+  title: Spada di Éowyn
+  subtitle: ''
+  text: Il possessore deve essere Éowyn. Mentre puoi avvistare un villico, Éowyn ha **Danno +1.**
+  lore: ‘…teneva la spada dritta innanzi a sé, e le mani poggiate sull'elsa.’
+es:
+  title: La Espada De Éowyn
+  subtitle: ''
+  text: El portador debe ser Éowyn. Mientras puedas avistar un aldeano, Éowyn es **daño +1.**
+  lore: …las manos apoyadas en la empuñadura de la espada clavada ante ella en el suelo.

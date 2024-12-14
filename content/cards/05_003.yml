@@ -1,0 +1,33 @@
+set: '5'
+rarity: R
+number: '3'
+unique: true
+culture: Dunland
+type: Event
+class: Shadow
+cost: 1
+en:
+  title: Leaping Blaze
+  subtitle: ''
+  text: '**Shadow:** Spot 3 :dunland: minions to shuffle your hand into your draw deck and draw 8 cards. The Free Peoples player may discard 3 cards from hand to prevent this.'
+  lore: …they saw torches, countless points of fiery light upon the black fields behind, scattered like red flowers, or winding up from the lowlands….
+de:
+  title: Auflodernde Brände
+  subtitle: ''
+  text: '**Schatten:** Entdecke 3 :dunland: Diener, um deine Handkarten in dein Spieldeck zu mischen und 8 neue Karten zu ziehen. Der Freie Völker Spieler darf 3 Karten aus seiner Hand ablegen, um dies zu verhindern.'
+  lore: … sahen sie Fackeln, unzählige feurige Lichtpunkte, verstreut wie rote Blumen auf den schwarzen Feldern hinter ihnen, oder sich aus dem Tiefland heraufziehend….
+fr:
+  title: Grand Flamboiement
+  subtitle: ''
+  text: '**Ombre :** Désignez 3 séides :dunland: pour remélanger votre main dans votre pioche et piocher 8 cartes. Le joueur des Peuples Libres peut défausser 3 cartes de sa main pour empêcher ceci.'
+  lore: 'Ils virent alors des torches, innombrables points de lumière qui parsemaient les champs noirs comme des fleurs rouges ou qui montaient des terres basses en longues files tremblotantes. '
+it:
+  title: Fiamme Guizzanti
+  subtitle: ''
+  text: '**Ombra:** Avvista 3 servitori :dunland: per mescolare la tua mano nel mazzo di gioco e pescare 8 carte. Il giocatore dei Popoli Liberi può scartare 3 carte dalla mano per prevenire questo effetto.'
+  lore: Allora videro innumerevoli punti di luce infocata sui neri campi, torce sparpagliate come fiori rossi o serpeggianti dalle basse terre…
+es:
+  title: Llamarada Repentina
+  subtitle: ''
+  text: '****Sombra:**** Avista 3 siervos :dunland: para mezclar tu mano en tu mazo de robar y robar 8 cartas. El jugador de Gentes Libres puede descartar 3 cartas de la mano para prevenir esto.'
+  lore: …vieron antorchas, innumerables puntos de luz incandescente que tachonaban los campos negros como flores rojas o que serpenteaban subiendo desde los bajíos…

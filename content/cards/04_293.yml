@@ -1,0 +1,35 @@
+set: '4'
+rarity: R
+number: '293'
+unique: true
+culture: Rohan
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Valleys of the Mark
+  subtitle: ''
+  text: |-
+
+    Each time your opponent plays a roaming minion, you may spot a villager to exert that minion. 
+  lore: ‘Where is the hand on the harpstring, and the red fire glowing? / Where is the spring and the harvest and the tall corn growing?’
+de:
+  title: Die Täler der Mark
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn dein Gegenspieler einen wandernden Diener spielt, darfst du einen Dorfbewohner entdecken, um diesen Diener anzustrengen.
+  lore: Wo ist die Hand an der Harfe? Wo ist das lodernde Feuer? / Wo nun Frühling und Herbst und voll reifen Korns die Scheuer?
+fr:
+  title: Les Vallées de la Marche
+  subtitle: ''
+  text: Chaque fois que votre adversaire joue un séide errant, vous pouvez désigner un villageois pour affaiblir ce séide.
+  lore: 'Où sont la main sur la corde et la harpe, et le grand feu rougeoyant? / Où sont le printemps et la moisson et le blé haut croissant?” '
+it:
+  title: Valli del Mark
+  subtitle: ''
+  text: Ogni volta che il tuo avversario gioca un servitore vagante, puoi avvistare un villico per sforzare quel servitore.
+  lore: ‘Dov'è la mano sull'arpa, e il rosso fuoco ardente? / Dov'è primavera e la messe, ed il biondo grano crescente?’
+es:
+  title: Valles De La Marca
+  subtitle: ''
+  text: Cada vez que tu oponente juega un siervo que esté vagando, puedes avistar un aldeano para esforzar ese siervo.
+  lore: ¿Dónde están la mano en el arpa y el fuego rojo encendido? / ¿Dónde están la primavera y la cosecha y la espiga alta que crece?

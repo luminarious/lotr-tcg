@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '139'
+unique: true
+culture: Isengard
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Savagery to Match Their Numbers
+  subtitle: ''
+  text: '**Skirmish:** Make an Uruk-hai strength +2, or spot 5 companions to make an Uruk-hai strength +4 and **fierce** until the regroup phase.'
+  lore: Uruk-hai match their enemies’ strength with their own feral rage.
+de:
+  title: Ohne Rücksicht auf Verluste
+  subtitle: ''
+  text: '**Kampf** Gib einem Uruk-hai Stärke +2, oder entdecke 5 Gefährten, um einem Uruk-hai Stärke +4 zu geben und ihn bis zur Sammelphase **Erbittert** zu machen.'
+  lore: Uruk-hai gleichen die Stärke ihrer Feinde durch ihre wilde Raserei aus.
+fr:
+  title: Barbarie pour Rivaliser avec leur Grand Nombre
+  subtitle: ''
+  text: '**Combat :** Donnez à un Ourouk-Haï +2 en force, ou désignez 5 compagnons pour donner à un Ourouk-Haï +4 en force et le rendre **acharné** jusqu’à la phase de ralliement.'
+  lore: Les Ourouk-Haï rivalisent avec leurs ennemis par leur propre rage sauvage.
+it:
+  title: Orda Selvaggia
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +2 alla forza di un Uruk-hai o avvista 5 compagni per aggiungere +4 alla forza di un Uruk-hai, e renderlo **Feroce**, fino alla fase di raccolta.'
+  lore: Gli Uruk-hai eguagliano la forza dei nemici con la loro furia selvaggia.
+es:
+  title: Brutalidad Para Igualar Sus Números
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Uruk-hai fuerza +2, o avista 5 compañeros para dar a un Uruk-hai fuerza +4 y **fiero** hasta la fase de reagrupación.'
+  lore: Los Uruk-hai igualan la fuerza de sus enemigos con su propia furia salvaje.

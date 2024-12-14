@@ -1,0 +1,44 @@
+set: '3'
+rarity: U
+number: '75'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Uruk Ravager
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    When you play this minion, you may spot Saruman to add :twilight2:. 
+  lore: ‘…a ruined and terrible form of life.’
+de:
+  title: Uruk Vandale
+  subtitle: ''
+  text: |-
+    **Schaden +1.**  
+    Entdecke Saruman, wenn du diesen Diener spielst, um den Einfluss um :twilight2: zu erhöhen.
+  lore: …eine zerstörte und schreckliche Lebensform.
+fr:
+  title: Ravageur Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    Lorsque vous jouez ce séide, vous pouvez désigner Saroumane pour ajouter :twilight2:.
+  lore: '…une forme de vie terrible et ruinée…” '
+it:
+  title: Distruttore Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    Quando giochi questo servitore, puoi avvistare Saruman per aggiungere :twilight2:.
+  lore: ‘…una forma di vita corrotta e terribile.’
+es:
+  title: Devastador Uruk
+  subtitle: ''
+  text: '**Daño +1.** Cuando juegas este siervo, puedes avistar a Saruman para añadir :twilight2:.'
+  lore: …una arruinada y terrible forma de vida.

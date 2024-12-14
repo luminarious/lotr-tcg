@@ -1,0 +1,33 @@
+set: '2'
+rarity: R
+number: '20'
+unique: true
+culture: Elven
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Secret Sentinels
+  subtitle: ''
+  text: '**Maneuver:** Exert an Elf ally to discard a condition (or 2 conditions if you spot an Orc). '
+  lore: ‘Yet so little faith and trust do we find now in the world beyond Lothlórien… that we dare not by our own trust endanger our land.’
+de:
+  title: Geheime Schildwachen
+  subtitle: ''
+  text: '**Manöver:** Strenge einen Elbenverbündeten an, um einen Effekt abzulegen (oder 2 Effekte, wenn du einen Ork entdeckst).'
+  lore: So wenig finden wir noch Treu und Glauben in der Welt außerhalb von Lothlórien… ,dass wir es nicht wagen, durch unsere Vertrauensseligkeit unser Land zu gefährden.
+fr:
+  title: Sentinelles Secrètes
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un allié Elfe pour défausser une situation (ou 2 situations si vous désignez un Orque).'
+  lore: 'Toutefois, nous trouvons aujourd''hui si peu de loyauté et de confiance dans le monde au-delà de Lothlórien … que nous n''osons oas aor notre propre confiance mettre en danger notre terre.” '
+it:
+  title: Sentinelle Segrete
+  subtitle: ''
+  text: '**Manovra:** Sforza un alleato Elfo per scartare una condizione (o 2 condizioni se avvisti un Orco).'
+  lore: ‘Eppure così poca fede troviamo nel mondo oltre i confini di Lothlórien… che non osiamo con la nostra fiducia mettere in pericolo il nostro proprio paese.’
+es:
+  title: Centinelas secretos
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un aliado Elfo para descartar una condición (o 2 condiciones si avistas un Orco).'
+  lore: Tan poca fe y confianza encontramos ahora en el mundo mas allá de Lothlórien… que no nos atrevemos a poner en peligro nuestra propia tierra por culpa de nuestra confianza.

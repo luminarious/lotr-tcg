@@ -1,0 +1,33 @@
+set: '1'
+rarity: U
+number: '345'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Right
+en:
+  title: Mithril Mine
+  subtitle: ''
+  text: '**Underground.** **Shadow:** Remove :twilight1: to play a Shadow weapon from your discard pile.'
+  lore: ''
+de:
+  title: Mithrilmine
+  subtitle: ''
+  text: '**Unterirdisch.** **Schatten:** Verringere den Einfluss um :twilight1:, um eine Schattenwaffe aus deinem Ablagestapel zu spielen.'
+  lore: ''
+fr:
+  title: Mine de Mithril
+  subtitle: ''
+  text: '**Souterrain.** Ombre : Retirez :twilight1: pour jouer une arme de l’Ombre de votre pile de défausse.'
+  lore: ''
+it:
+  title: Miniera di Mithril
+  subtitle: ''
+  text: '**Sotterraneo.** **Ombra:** Rimuovi :twilight1: per giocare un’arma Ombra dalla tua pila degli scarti.'
+  lore: ''
+es:
+  title: Mina de Mithril
+  subtitle: ''
+  text: '**Subterráneo.** **Sombra:** Quita :twilight1: para jugar un arma de Sombra de tu pila de descartes.'
+  lore: ''

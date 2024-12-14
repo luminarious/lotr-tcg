@@ -1,0 +1,33 @@
+set: '19'
+rarity: P
+number: '4'
+unique: true
+culture: Dwarven
+type: Event
+class: Regroup
+cost: 2
+en:
+  title: That’s Two!
+  subtitle: ''
+  text: Spot Gimli and exert a fellowship companion to have each Shadow player discard one of his or her Shadow cards from play.
+  lore: Legolas, two already!
+de:
+  title: That's Two!
+  subtitle: ''
+  text: Spot Gimli and exert a fellowship companion to have each Shadow player discard one of his or her Shadow cards from play.
+  lore: Legolas, two already!
+fr:
+  title: That's Two!
+  subtitle: ''
+  text: Spot Gimli and exert a fellowship companion to have each Shadow player discard one of his or her Shadow cards from play.
+  lore: Legolas, two already!
+it:
+  title: That's Two!
+  subtitle: ''
+  text: Spot Gimli and exert a fellowship companion to have each Shadow player discard one of his or her Shadow cards from play.
+  lore: Legolas, two already!
+es:
+  title: That's Two!
+  subtitle: ''
+  text: Spot Gimli and exert a fellowship companion to have each Shadow player discard one of his or her Shadow cards from play.
+  lore: Legolas, two already!

@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '132'
+unique: true
+culture: Isengard
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Parry
+  subtitle: ''
+  text: '**Maneuver:** Spot an Uruk-hai to cancel the strength bonus from a possession until the regroup phase.'
+  lore: Even the sword of a powerful warrior can be parried by the strength of an Uruk-hai.
+de:
+  title: Parade
+  subtitle: ''
+  text: '**Manöver:** Entdecke einen Uruk-hai, um den Stärkebonus durch eine Ausrüstungskarte bis zur Sammelphase aufzuheben.'
+  lore: Selbst das Schwert eines mächtigen Kriegers aus Gondor, kann durch die schiere Kraft eines Uruk-hai aufgehalten werden.
+fr:
+  title: Parade
+  subtitle: ''
+  text: '**Manœuvre :** Désignez un Ourouk-Haï pour annuler le bonus de force d’une possession jusqu’à la phase de ralliement.'
+  lore: Même le coup d'épée d'un puissant guerrier peut être paré par la force d'un Ourouk-Haï.
+it:
+  title: Parata
+  subtitle: ''
+  text: '**Manovra:** Avvista un Uruk-hai per cancellare i bonus alla forza forniti da un bene fino alla fase di raccolta.'
+  lore: Anche la spada di un potente guerriero può essere parata dalla forza di un Uruk-hai.
+es:
+  title: Parada
+  subtitle: ''
+  text: '**Maniobra:** Avista un Uruk-hai para cancelar el bono de fuerza de una posesión hasta la fase de reagrupación.'
+  lore: Incluso la espada de un guerrero poderoso puede ser detenida por la fuerza de un Uruk-hai.

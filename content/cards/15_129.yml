@@ -1,0 +1,16 @@
+set: '15'
+rarity: U
+number: '129'
+unique: true
+culture: Rohan
+type: Possession
+class: Mount
+cost: 2
+en:
+  title: Horse of Great Stature
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.  
+    At the start of each skirmish involving bearer, each minion skirmishing bearer must exert.  
+    **Skirmish:** Exert bearer to make a :rohan: Man strength +1.
+  lore: Aragorn saw a shadow on the distant green, a dark swift-moving blur.

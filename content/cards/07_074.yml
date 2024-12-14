@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '74'
+unique: true
+culture: Gollum
+type: Event
+class: Shadow
+cost: 0
+en:
+  title: So Polite
+  subtitle: ''
+  text: 'Play Gollum from your discard pile to add :twilight1: for each threat you spot.'
+  lore: ‘Sméagol shows them secret ways that nobody else could find and they say, ‘Sneak!’
+de:
+  title: Sehr höflich
+  subtitle: ''
+  text: 'Spiele Gollum aus deinem Ablagestapel, um den Einfluss um :twilight1: für jede Bedrohung, die du entdeckst, zu erhöhen.'
+  lore: 'Sméagol zeigt ihnen geheime Wege, die kein anderer finden könnte, und sie sagen: ''Schnüffeln!’'

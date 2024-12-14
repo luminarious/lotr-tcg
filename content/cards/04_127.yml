@@ -1,0 +1,17 @@
+set: '4'
+rarity: U
+number: '127'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Mablung
+  subtitle: Soldier of Gondor
+  text: |-
+    **Ring-bound.** **Ranger.** To play, spot a Ring-bound Man.   
+    **Skirmish:** Exert Mablung to exhaust a roaming minion he is skirmishing. 
+  lore: ‘…we have a new errand on this journey….’

@@ -1,0 +1,35 @@
+set: '1'
+rarity: R
+number: '79'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: The Nine Walkers
+  subtitle: ''
+  text: |-
+    To play, spot Gandalf.   
+    Each time you play a companion whose race you cannot spot, that companion’s twilight cost is -2.
+  lore: ‘Nine companions to match the Nine Ringwraiths… So be it.’
+de:
+  title: Die neun Wanderer
+  subtitle: ''
+  text: Entdecke Gandalf, um diese Karte in deinen Unterstützungsbereich zu spielen. Jedesmal, wenn du einen Gefährten spielst, dessen Rasse du nicht entdecken kannst, reduzieren sich die Zwielichtkosten für diesen Gefährten um 2.
+  lore: Neun Gefährten für neun Ringgeister… So sei es!
+fr:
+  title: Les Neuf Marcheurs
+  subtitle: ''
+  text: Pour jouer, désignez Gandalf. Chaque fois que vous jouez un compagnon dont vous ne pouvez désigner la race, le coût crépusculaire de ce compagnon est de -2.
+  lore: ‘Neuf compagnons opposés aux Neuf Spectres de l'Anneau…. Qu'il en soit ainsi.’
+it:
+  title: I Nove Viandanti
+  subtitle: ''
+  text: Per giocarla, avvista Gandalf. Ogni volta che giochi un compagno la cui razza non può essere avvistata, sottrai -2 al costo crepuscolo di quel compagno.
+  lore: ‘Nove compagni per affrontare i nove spettri dell'Anello … Così sia.’
+es:
+  title: Los Nueve Caminantes
+  subtitle: ''
+  text: Para jugarla, avista a Gandalf. Cada vez que juegas un compañero cuya raza no puedas avistar, el coste de penumbra de ese compañero es -2.
+  lore: Nueve compañeros para igualar a los Nueve Espectros del Anillo… Que así sea.

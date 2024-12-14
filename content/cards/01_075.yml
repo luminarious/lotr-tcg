@@ -1,0 +1,17 @@
+set: '1'
+rarity: R
+number: '75'
+unique: true
+culture: Gandalf
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+2'
+en:
+  title: Glamdring
+  subtitle: ''
+  text: |-
+    Bearer must be Gandalf.   
+    He is **damage +1**.   
+    **Fellowship:** or **Regroup:** Exert Gandalf to reveal an opponent’s hand. Remove :twilight1: for each Orc revealed.
+  lore: …in his other hand Glamdring gleamed, cold and white.

@@ -1,0 +1,36 @@
+set: '4'
+rarity: C
+number: '18'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 3
+str: '9'
+vit: '1'
+site: 3
+en:
+  title: Dunlending Warrior
+  subtitle: ''
+  text: '**Assignment:** Spot an ally to make that ally participate in skirmishes and assign this minion to skirmish that ally. '
+  lore: These were a remnant of the peoples that had dwelt in the vales of the White Mountains in ages past.
+de:
+  title: Dunland Krieger
+  subtitle: ''
+  text: '**Zuweisung:** Entdecke einen Verbündeten, um diesen zu zwingen am Kampf teilzunehmen. Der Dunland Krieger wird diesem Verbündeten zugewiesen.'
+  lore: Sie stammten von dem Volk ab, das vor Urzeiten in den Tälern des Weißen Gebirges gelebt hatte.
+fr:
+  title: Guerrier Dun
+  subtitle: ''
+  text: '**Affectation :** Désignez un allié pour faire participer cet allié aux combats et affecter ce séide au combat de cet allié.'
+  lore: 'Il s''agissait des restes des populations qui au temps jadis avaient vécu dans les vallons des Montagnes Blanches. '
+it:
+  title: Guerriero Dunlandiano
+  subtitle: ''
+  text: '**Assegnazione:** Avvista un alleato per far partecipare quell’alleato alle schermaglie e assegnare questo servitore a schermagliare con quell’alleato.'
+  lore: Essi erano… gli ultimi superstiti degli abitanti dei Monti Bianchi.
+es:
+  title: Guerrero Dunlendino
+  subtitle: ''
+  text: '**Asignación:** Avista un aliado para hacer que ese aliado participe en escaramuzas y asignar este siervo contra ese aliado.'
+  lore: Son las reminiscencias de la gente que se estableció antaño en los valles de las Montañas Blancas.

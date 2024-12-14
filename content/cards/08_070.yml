@@ -1,0 +1,23 @@
+set: '8'
+rarity: R
+number: '70'
+unique: true
+culture: Wraith
+type: Possession
+class: Hand Weapon
+cost: 2
+str: '+3'
+en:
+  title: Black Flail
+  subtitle: ''
+  text: |-
+    Bearer must be a Nazgûl.   
+    **Skirmish:** If bearer is The Witch-king, exert him and spot a possession borne by a character he is skirmishing to discard that possession.
+  lore: ''
+de:
+  title: Schwarzer Dreschflegel
+  subtitle: ''
+  text: |-
+    Muss auf einen Nazgûl gespielt werden.   
+    **Kampf:** Strenge den Hexenkönig an, wenn er mit dieser Waffe ausgerüstet ist und entdecke eine Ausrüstung auf einem Charakter, gegen den er kämpft, um diese Ausrüstung abzulegen.
+  lore: Mit einem hasserfüllten Schrei, der wie Gift in den Ohren brannte, ließ er seine Keule niedersausen.

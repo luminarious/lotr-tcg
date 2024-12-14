@@ -1,0 +1,13 @@
+set: '18'
+rarity: C
+number: '15'
+unique: true
+culture: Elven
+type: Event
+class: Fellowship
+cost: 0
+en:
+  title: Miruvóre
+  subtitle: ''
+  text: 'Add 2 threats to heal an :elven: companion.'
+  lore: The long years have passed like swift draughts of sweet mead in lofty halls beyond the West…

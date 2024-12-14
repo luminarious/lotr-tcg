@@ -1,0 +1,24 @@
+set: '8'
+rarity: U
+number: '83'
+unique: true
+culture: Wraith
+type: Possession
+class: Mount
+cost: 1
+str: '+2'
+en:
+  title: Winged Mount
+  subtitle: ''
+  text: |-
+    To play, discard 2 cards from hand.   
+    Bearer must be a Nazgûl.   
+    **Response:** If bearer is about to take a wound, remove a threat to prevent that wound.
+  lore: A creature of an older world maybe it was….
+de:
+  title: Geflügeltes Reittier
+  subtitle: ''
+  text: |-
+    Lege 2 Karten aus deiner Hand ab, um diese Ausrüstung zu spielen. Muss auf einen Nazgûl gespielt werden.   
+    **Reaktion:** Wenn der Reiter eine Wunde erleidet, entferne eine Bedrohung, um diese Wunde zu verhindern.
+  lore: Ein Geschöpf einer älteren Welt war es vielleicht….

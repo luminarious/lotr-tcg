@@ -1,0 +1,36 @@
+set: '4'
+rarity: R
+number: '52'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: My Axe Is Notched
+  subtitle: ''
+  text: |-
+
+    Each time Gimli wins a skirmish, place a :dwarven: token on this card.   
+    While you can spot X :dwarven: tokens on this card and the same number of :elven: tokens on Final Count, Gimli is strength +X (limit +3). 
+  lore: ''
+de:
+  title: Meine Axt ist schartig
+  subtitle: ''
+  text: 'Spiele diese Karte in deinen Unterstützungs-bereich. Jedes Mal, wenn Gimli einen Kampf gewinnt, lege eine :dwarven: Marke auf diese Karte. Solange du X :dwarven: Marken auf dieser Karte und eine gleiche Anzahl an :elven: Marken auf Endstand entdecken kannst, erhält Gimli Stärke +X (maximal +3).'
+  lore: ''
+fr:
+  title: Ma Hache Est Ébréchée
+  subtitle: ''
+  text: 'Chaque fois que Gimli gagne un combat, déposez un jeton :dwarven: sur cette carte. Tant que vous pouvez désigner X jetons :dwarven: sur cette carte, et le même nombre de jetons :œ: sur Décompte Final, Gimli a +X en force (limite de +3).'
+  lore: ''
+it:
+  title: La Mia Ascia è Scalfita
+  subtitle: ''
+  text: 'Ogni volta che Gimli vince una schermaglia, piazza un segnalino :dwarven: su questa carta. Mentre puoi avvistare X segnalini :dwarven: su questa carta e lo stesso numero di segnalini :elven: su Conteggio Finale, Gimli aggiunge +X alla forza (limite +3).'
+  lore: ''
+es:
+  title: Mi Hacha Tiene Una Muesca
+  subtitle: ''
+  text: 'Cada vez que Gimli gana una escaramuza, pon un contador :dwarven: en esta carta. Mientras puedas avistar X contadores :dwarven: en esta carta y el mismo número de contadores :elven: en Cuenta Final, Gimli es fuerza +X (límite +3).'
+  lore: ''

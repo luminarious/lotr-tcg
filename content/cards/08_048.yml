@@ -1,0 +1,22 @@
+set: '8'
+rarity: C
+number: '48'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Swept Away
+  subtitle: ''
+  text: |-
+    Each time the fellowship moves, add a threat or discard this condition.   
+    While you have initiative, exhausted :gondor: Wraiths cannot take wounds.
+  lore: ‘And suddenly the Shadow Host that had hung back at the last came up like a grey tide, sweeping all away before it.’
+de:
+  title: Hinweg gefegt
+  subtitle: ''
+  text: |-
+    Lasse, jedes Mal, wenn sich die Gemeinschaft bewegt, eine Bedrohung entstehen oder lege diesen Effekt ab.   
+    Solange du die Initiative besitzt, können erschöpfte :gondor: Gespenster keine Wunden erleiden.
+  lore: Und plötzlich rollte das Schattenheer, das zuletzt zurückgeblieben war, wie eine graue Flut heran und fegte alles vor sich weg.

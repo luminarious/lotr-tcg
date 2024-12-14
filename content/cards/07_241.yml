@@ -1,0 +1,24 @@
+set: '7'
+rarity: R
+number: '241'
+unique: true
+culture: Rohan
+type: Possession
+class: Armor
+cost: 0
+str: '+2'
+vit: '-1'
+en:
+  title: Merry's Armor
+  subtitle: ''
+  text: |-
+    Bearer must be Merry.   
+    While you can spot 3 :rohan: Men, Merry cannot be overwhelmed unless his strength is tripled.
+  lore: ''
+de:
+  title: Merrys Rüstung
+  subtitle: ''
+  text: |-
+    Muss auf Merry gespielt werden.   
+    Solange du 3 :rohan: Menschen entdecken kannst, kann Merry nur mit dreifacher Stärke überwältigt werden.
+  lore: Stehe nun auf, Meriadoc, Knappe von Rohan aus der Gefolgschaft von Meduseld!

@@ -1,0 +1,18 @@
+set: '10'
+rarity: U
+number: '108'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: A Light in His Mind
+  subtitle: ''
+  text: 'Each time you lose initiative, you may spot 2 :shire: companions to remove a burden. '
+  lore: Far off, as in a little picture drawn by elven-fingers, he saw the Lady Galadriel standing on the grass in Lórien, and gifts were in her hands.
+de:
+  title: Ein Licht in seinem Geist
+  subtitle: ''
+  text: 'Jedes Mal, wenn du die Initiative verlierst, darfst du 2 :shire: Gefährten entdecken, um eine Lastmarke zu entfernen.'
+  lore: Weit entfernt, wie auf einem kleinen Bild, das Elbenfinger gezeichnet hatten, sah er Frau Galadriel auf dem Gras in Lórien stehen, und Geschenke waren in ihrer Hand.

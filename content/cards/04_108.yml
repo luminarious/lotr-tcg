@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '108'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 4
+en:
+  title: Wizardry Indeed
+  subtitle: ''
+  text: '**Maneuver:** If you can spot more minions than companions, exert Gandalf to make an opponent discard a minion. '
+  lore: The hosts of Isengard roared, swaying this way and that, turning from fear to fear.
+de:
+  title: Wahrlich Zauberei
+  subtitle: ''
+  text: '**Manöver:** Strenge Gandalf an, um einen Gegenspieler zu zwingen, einen Diener abzulegen, wenn du mehr Diener als Gefährten entdecken kannst.'
+  lore: Die Heere Isengarts schrieen, lenkten ihre Schritte hierhin und dorthin und fielen von einem Schrecken in den anderen.
+fr:
+  title: C'Est Assurément de la Magie
+  subtitle: ''
+  text: '**Manœuvre :** Si vous pouvez désigner plus de séides que de compagnons, affaiblissez Gandalf pour obliger un adversaire à défausser un séide.'
+  lore: 'Les armées de l''Isengard rugirent, oscillant d''un côté et d''un autre, passant d''une peur à une autre. “ '
+it:
+  title: Stregoneria, Davvero!
+  subtitle: ''
+  text: '**Manovra:** Se puoi avvistare più servitori che compagni, sforza Gandalf per far scartare un servitore a un avversario.'
+  lore: ‘L'esercito di Isengard ruggì, vacillante e ondeggiante, perché ovunque si volgesse lo fronteggiava il terrore.’
+es:
+  title: Verdaderamente Hechicería
+  subtitle: ''
+  text: '**Maniobra:** Si puedes avistar más siervos que compañeros, esfuerza a Gandalf para hacer que el oponente descarte un siervo.'
+  lore: Las huestes de Isengard aullaron, yendo de un lado a otro, pasando de un miedo a otro.

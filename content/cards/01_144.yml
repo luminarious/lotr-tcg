@@ -1,0 +1,37 @@
+set: '1'
+rarity: C
+number: '144'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 3
+en:
+  title: Uruk Bloodlust
+  subtitle: ''
+  text: |-
+
+    **Response:** If your Uruk-hai wins a skirmish, remove :twilight1: to heal him.
+  lore: ‘Take them alive!’
+de:
+  title: Uruk Blutrausch
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. **Reaktion:** Wenn einer deiner Uruk-hai einen Kampf gewinnt, verringere den Einfluss um :twilight1:, um ihn zu heilen.
+  lore: Bringt sie mir lebend!
+fr:
+  title: Soif de Sang Ourouk
+  subtitle: ''
+  text: '**Réponse :** Si votre Ourouk-Haï remporte un combat, retirez :twilight1: pour le guérir.'
+  lore: ‘Prenez-les vivants !’
+it:
+  title: Brama di Sangue Uruk
+  subtitle: ''
+  text: |-
+    Giocala nella tua area di supporto.  
+    **Risposta:** Se un tuo Uruk-hai vince una schermaglia, rimuovi :twilight1: per curarlo.
+  lore: ‘Prendeteli vivi!
+es:
+  title: Sed de Sangre Uruk
+  subtitle: ''
+  text: '**Respuesta:** Si tu Uruk-hai gana una escaramuza, quita :twilight1: para curarlo.'
+  lore: ¡Encontradlos con vida!

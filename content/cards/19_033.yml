@@ -1,0 +1,18 @@
+set: '19'
+rarity: P
+number: '33'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 7
+str: '13'
+vit: '3'
+site: 5
+en:
+  title: Lurtz
+  subtitle: Resilient Captain
+  text: |-
+    **Archer. Damage +1.**  
+    **Response**: If Lurtz is about to take a wound or be exerted, remove :twilight2: (or exert another Uruk-hai) to prevent that wound or exertion.
+  lore: The Uruk-hai leader walked into view on the misty hilltop beneath the dark trees. Hungry for blood.

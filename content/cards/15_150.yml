@@ -1,0 +1,13 @@
+set: '15'
+rarity: C
+number: '150'
+unique: true
+culture: Shire
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: No Visitors
+  subtitle: ''
+  text: Transfer a follower from a Hobbit to your support area to cancel a skirmish involving that Hobbit.
+  lore: No thank you!

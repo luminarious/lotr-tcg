@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '101'
+unique: true
+culture: Gandalf
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Stump and Bramble
+  subtitle: ''
+  text: '**Maneuver:** Spot an :isengard: minion and an Ent ally. Until the regroup phase, that ally is **damage +2** and participates in archery fire and skirmishes. '
+  lore: ‘Many of those trees were my friends… many had voices of their own that are lost for ever now.’
+de:
+  title: Stumpf und Stiel
+  subtitle: ''
+  text: '**Manöver:** Entdecke einen :isengard: Diener und einen Entverbündeten. Bis zur Sammelphase erhält dieser Verbündete **Schaden +2** und darf am Fernkampf und Kampf teilnehmen.'
+  lore: Viele dieser Bäume waren meine Freunde… viele hatten eine eigene Stimme, die nun auf immer verstummt ist.
+fr:
+  title: Souches et Ronces
+  subtitle: ''
+  text: '**Manœuvre :** Désignez un séide :isengard: et un allié Ent. Jusqu’à la phase de ralliement, cet allié inflige des **dégâts +2** et participe au tir d’archerie et aux combats.'
+  lore: 'Bon nombre de ces arbres étaient mes amis… beaucoup avaient des voix à eux, qui sont maintenant perdues à jamais.” '
+it:
+  title: Ceppi e Rovi
+  subtitle: ''
+  text: '**Manovra:** Avvista un servitore :isengard: e un alleato Ent. Fino alla fase di raccolta, quell’alleato ha **Danno +2** e partecipa al tiro degli arcieri e alle schermaglie.'
+  lore: ‘Molti di quegli alberi erano amici miei… molti di loro avevano la propria voce, che oramai è muta per sempre.’
+es:
+  title: Tocones Y Zarzas
+  subtitle: ''
+  text: '**Maniobra:** Avista un siervo :isengard: y un aliado Ent. Hasta la fase de reagrupación, ese aliado es **Daño +2** y participa en disparos de arquería y escaramuzas.'
+  lore: Muchos de estos árboles eran mis amigos… muchos tenían voces propias que se han perdido para siempre.

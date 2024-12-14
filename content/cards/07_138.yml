@@ -1,0 +1,25 @@
+set: '7'
+rarity: U
+number: '138'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Desert Villain
+  subtitle: ''
+  text: |-
+    **Southron.**   
+    At the start of each skirmish involving this minion, you may remove :twilight1: to add a threat.
+  lore: ''
+de:
+  title: Wüstenschurke
+  subtitle: ''
+  text: |-
+    **Südländer.**   
+    Zu Beginn jedes Kampfes, an dem dieser Diener beteiligt ist, darfst du den Einfluss um :twilight1: verringern, um eine Bedrohung entstehen zu lassen.
+  lore: … mit roten Fahnen…

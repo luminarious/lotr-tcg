@@ -1,0 +1,36 @@
+set: '4'
+rarity: R
+number: '91'
+unique: true
+culture: Gandalf
+type: Artifact
+class: Staff
+cost: 2
+vit: '+1'
+en:
+  title: Gandalf's Staff
+  subtitle: Walking Stick
+  text: |-
+    Bearer must be Gandalf.   
+    While you can spot 2 twilight tokens, Gandalf is **damage +2.**
+  lore: ‘The staff in the hand of a Wizard may be more than a prop for age….’
+de:
+  title: Gandalfs Stab
+  subtitle: Eine Gehstütze
+  text: Muss auf Gandalf gespielt werden. Solange du einen Einfluss von mindestens 2 entdecken kannst, erhält Gandalf **Schaden +2**.
+  lore: Der Stab in der Hand eines Zauberers mag mehr sein als eine Hilfe für das Alter.
+fr:
+  title: Le Bâton de Gandalf
+  subtitle: Bâton de Marche
+  text: Le détenteur doit être Gandalf. Tant que vous pouvez désigner 2 jetons-crépuscule, Gandalf inflige des **dégâts +2**.
+  lore: 'Le bâton entre les mains d''un magicien peut-être plus qu''un simple soutien pour la vieillesse…” '
+it:
+  title: Bastone di Gandalf
+  subtitle: Bastone da Passeggio
+  text: Il possessore deve essere Gandalf. Mentre puoi avvistare 2 segnalini crepuscolo, Gandalf ha **Danno +2.**
+  lore: ‘Il bastone nelle mani di uno stregone potrebbe essere più di un semplice sostegno…’
+es:
+  title: La Vara De Gandalf
+  subtitle: Bastón de Andar
+  text: El portador debe ser Gandalf. Mientras puedas avistar 2 contadores de penumbra, Gandalf es **daño +1.**
+  lore: Esa vara en manos de un mago puede ser algo más que un simple báculo…

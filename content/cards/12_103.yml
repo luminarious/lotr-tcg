@@ -1,0 +1,22 @@
+set: '12'
+rarity: U
+number: '103'
+unique: true
+culture: Orc
+type: Event
+class: Maneuver
+cost: 3
+en:
+  title: Storming the Ramparts
+  subtitle: ''
+  text: |-
+    **Toil 2.** *(For each* :orc: *character you exert when playing this, its twilight cost is –2.)*   
+    Spot an :orc: minion to make the Free Peoples player discard one of his or her conditions from play.
+  lore: The defenses of Minas Tirith were daunting, but the siegecraft of the Orcs was equal to the challenge.
+de:
+  title: Den Wall stürmen
+  subtitle: ''
+  text: |-
+    **Mühe 2.*** (Für jeden *:orc: *Charakter, den du beim Ausspielen dieser Karte anstrengst, reduzieren sich deren Kosten um 2.)*  
+    Entdecke einen :orc: Diener, um den Freie Völker Spieler zu zwingen, einen seiner Effekte aus dem Spiel abzulegen.
+  lore: Die Wälle von Minas Tirith waren gewaltig, aber die Maschinen der Orks waren der Aufgabe gewachsen.

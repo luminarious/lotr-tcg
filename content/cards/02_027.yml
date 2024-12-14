@@ -1,0 +1,39 @@
+set: '2'
+rarity: R
+number: '27'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Staff Asunder
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Skirmish:** Discard a staff Gandalf is bearing and then exert him twice to discard a minion he is skirmishing. 
+  lore: At that moment Gandalf lifted his staff, and crying aloud he smote the bridge before him.
+de:
+  title: Der Stab zerbricht
+  subtitle: ''
+  text: '**Zauberspruch.** **Kampf** Lege einen Stab, mit dem Gandalf ausgerüstet ist, ab und strenge Gandalf zweimal an, um einen Diener, gegen den er kämpft, abzulegen.'
+  lore: In diesem Augenblick hob Gandalf seinen Stab, und mit einem lauten Ruf schlug er vor sich auf die Brücke.
+fr:
+  title: Bâton Fracassé
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Combat :** Défaussez un bâton détenu par Gandalf et affaiblissez-le deux fois pour défaussez un séide qu’il combat.
+  lore: 'À ce moment, Gandalf leva son bâton et, criant d''une voix forte, il frappa le pont devant lui. '
+it:
+  title: Bastone in Frantumi
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Schermaglia:** Scarta un bastone che Gandalf sta portando e poi sforzalo due volte per scartare un servitore con cui stia schermagliando.
+  lore: In quel momento Gandalf rizzò il bastone, e gridando con voce possente, colpì il ponte innanzi a sé.
+es:
+  title: Partir la vara
+  subtitle: ''
+  text: Conjuro. **Escaramuza:** Descarta una vara que lleve Gandalf y esfuérzalo dos veces para descartar un siervo que esté en una escaramuza contra él.
+  lore: En ese momento, Gandalf alzó la vara y dando un grito golpeó el puente ante él.

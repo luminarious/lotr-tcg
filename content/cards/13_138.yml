@@ -1,0 +1,18 @@
+set: '13'
+rarity: R
+number: '138'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Théodred
+  subtitle: Second Marshal of the Mark
+  text: |-
+    While you can spot a :rohan: Man who has resistance of 7 or more, Théodred is twilight cost –1.  
+    At the start of each skirmish involving Théodred, you may exert each minion he is skirmishing.
+  lore: The son of Théoden defended Rohan at the Fords of Isen.

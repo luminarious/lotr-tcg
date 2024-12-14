@@ -1,0 +1,36 @@
+set: '2'
+rarity: R
+number: '93'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 4
+str: '11'
+vit: '3'
+site: 6
+en:
+  title: Tower Assassin
+  subtitle: ''
+  text: '**Maneuver:** Exert Tower Assassin to wound an ally. '
+  lore: A Ring of Power would not stop the blade of an assassin lying in wait.
+de:
+  title: Attentäter des Turms
+  subtitle: ''
+  text: '**Manöver:** Strenge den Attentäter des Turms an, um einen Verbündeten zu verwunden.'
+  lore: Ein Ring der Macht vermag nicht, die Klinge eines Attentäters aus dem Hinterhalt zu aufzuhalten.
+fr:
+  title: Assassin de la Tour
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez ce séide pour blesser un allié.'
+  lore: Même un Anneau de Pouvoir ne peut arrêter la lame d'un assassin en embuscade.
+it:
+  title: Assassino della Torre
+  subtitle: ''
+  text: '**Manovra:** Sforza Assassino della Torre per ferire un alleato.'
+  lore: Nemmeno un Anello del Potere riuscirebbe a fermare la lama di un assassino in attesa.
+es:
+  title: Asesino de la torre
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza el Asesino de la torre para herir a un aliado.'
+  lore: Un Anillo de Poder no detendría la hoja de un asesino acechando.

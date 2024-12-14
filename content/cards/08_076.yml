@@ -1,0 +1,21 @@
+set: '8'
+rarity: C
+number: '76'
+unique: true
+culture: Wraith
+type: Minion
+race: Orc
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Morgul Lurker
+  subtitle: ''
+  text: While you have initiative, the minion archery total is +2.
+  lore: ‘Kill all in your path!’
+de:
+  title: Versteckter Morgulork
+  subtitle: ''
+  text: Solange du die Initiative besitzt, erhöht sich der Fernkampfwert der Diener um 2.
+  lore: Die Zeit der Orks ist gekommen.

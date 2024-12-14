@@ -1,0 +1,16 @@
+set: '18'
+rarity: R
+number: '11'
+unique: true
+culture: Elven
+type: Artifact
+class: Support Area
+cost: 2
+en:
+  title: Galadriel's Silver Ewer
+  subtitle: ''
+  text: |-
+    To play, spot Galadriel or Celeborn.  
+    While Galadriel is the Ring-bearer, she is strength +2 and resistance +2.  
+    Each time you play an :elven: skirmish event, you may reinforce an :elven: token.
+  lore: Will you look into the mirror?

@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '51'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Undaunted
+  subtitle: ''
+  text: Exert Gandalf to make him strength +1 for each twilight token you spot (limit +8).
+  lore: ‘…here the hammerstroke will fall hardest….’
+de:
+  title: Unerschrocken
+  subtitle: ''
+  text: Strenge Gandalf an, um ihm Stärke +1 für jeden Zwielichtspielstein, den du entdeckst, zu geben (maximal +8).
+  lore: Hier wird der Hammerschlag am stärksten erfolgen.

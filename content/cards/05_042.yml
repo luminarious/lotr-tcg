@@ -1,0 +1,17 @@
+set: '5'
+rarity: U
+number: '42'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Turgon
+  subtitle: Man of Belfalas
+  text: |-
+    **Knight.**To play, spot a knight.  
+    **Maneuver:** Exert Turgon to wound a minion bearing a :gondor: Fortification.
+  lore: He hopes to someday become one of the knights of Dol Amroth.

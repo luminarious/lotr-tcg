@@ -1,0 +1,24 @@
+set: '7'
+rarity: U
+number: '94'
+unique: true
+culture: Gondor
+type: Possession
+class: Ranged Weapon
+cost: 1
+en:
+  title: Gondor Bow
+  subtitle: ''
+  text: |-
+    Bearer must be a :gondor: Man.   
+    If bearer is a knight, he or she is strength +1.   
+    **Skirmish:** Exert bearer to wound a minion he or she is skirmishing if that minion bears a **Fortification.**
+  lore: ''
+de:
+  title: Gondorbogen
+  subtitle: ''
+  text: |-
+    Muss auf einen :gondor: Menschen gespielt werden.   
+    Wenn der Träger ein Ritter ist, erhält er Stärke +1.   
+    **Kampf:** Strenge den Träger an, um einen Diener, gegen den er kämpft, zu verwunden, wenn auf diesem Diener eine Befestigung liegt.
+  lore: …der hochgewachsene Duinhir mit seinen Söhnen Duilin und Derufin und fünfhundert Bogenschützen.

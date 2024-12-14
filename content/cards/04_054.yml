@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '54'
+unique: true
+culture: Dwarven
+type: Event
+class: Regroup
+cost: 0
+en:
+  title: Rest by Blind Night
+  subtitle: ''
+  text: '**Regroup:** Shuffle any number of :dwarven: conditions (and all cards stacked on them) into your draw deck. '
+  lore: ‘And yet even I, Dwarf of many journeys… cannot run all the way to Isengard without any pause….’
+de:
+  title: Rast in schwarzer Nacht
+  subtitle: ''
+  text: '**Sammeln:** Mische eine beliebige Anzahl an :dwarven: Effekten (und alle darauf gelagerten Karten) in dein Spieldeck.'
+  lore: Doch selbst ich, Zwerg vieler Wanderungen… kann nicht den ganzen Weg nach Isengart ohne Rast zurücklegen.
+fr:
+  title: Repos Durant la Nuit Aveugle
+  subtitle: ''
+  text: '**Ralliement :** Remélangez n’importe quel nombre de situations :dwarven: (et toutes les cartes empilées sur celles-ci) dans votre pioche.'
+  lore: 'Et pourtant même moi, Nain rompu aux voyages… je ne puis faire tout le trajet jusqu''à l''Isengard sans aucune pause…” '
+it:
+  title: Riposo nel Buio della Notte
+  subtitle: ''
+  text: '**Raccolta:** Mescola un qualsiasi numero di condizioni :dwarven: (e tutte le carte impilate su di loro) nel tuo mazzo di gioco.'
+  lore: ‘Ma persino io, Nano che ha viaggiato… non potrò mai percorrere senza riposare tutta la strada sino a Isengard…’
+es:
+  title: Descanso En La Noche Oscura
+  subtitle: ''
+  text: '**Reagrupación:** Mezcla cualquier número de condiciónes :dwarven: (y todas las cartas apiladas en ellas) en tu mazo de robar.'
+  lore: Y sin embargo yo mismo, enano de muchos viajes… no podría ir corriendo hasta Isengard sin hacer una pausa…

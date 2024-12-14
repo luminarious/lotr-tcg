@@ -1,0 +1,18 @@
+set: '12'
+rarity: R
+number: '68'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 2
+str: '4'
+vit: '3'
+site: 3
+en:
+  title: Gríma
+  subtitle: Betrayer of Rohan
+  text: |-
+    **Lurker.** *(Skirmishes involving lurker minions must be resolved after any others.)*   
+    Each time a companion loses a skirmish involving a :men: minion, you may exert Gríma to exert a companion.
+  lore: In his eyes was the hunted look of a beast seeking some gap in the ring of his enemies.

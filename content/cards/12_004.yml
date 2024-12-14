@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '4'
+unique: true
+culture: Dwarven
+type: Event
+class: Skirmish
+cost: 0
+en:
+  title: Durability
+  subtitle: ''
+  text: Make a Dwarf strength +2. Then, if that Dwarf is at a battleground or mountain site, draw a card.
+  lore: Gimli unexpectedly faced another test of Dwarven endurance.
+de:
+  title: Durchhaltevermögen
+  subtitle: ''
+  text: Gib einem Zwerg Stärke +2. Ziehe anschließend eine Karte, wenn sich dieser Zwerg auf einem Schlachtfeld oder in einem Gebirge befindet.
+  lore: Gimli musste sich unerwartet einem weiteren Test seiner zwergischen Konstitution stellen.

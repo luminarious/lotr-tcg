@@ -1,0 +1,15 @@
+set: '0'
+rarity: W
+number: '15'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '6'
+vit: '3'
+en:
+  title: Gimli
+  subtitle: Dwarven Delegate
+  text: ''
+  lore: ‘The ring cannot be destroyed, Gimli, son of Gloin, by any craft that we here possess.’

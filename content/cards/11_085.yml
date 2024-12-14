@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '85'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 5
+str: '13'
+vit: '3'
+site: 4
+en:
+  title: Horde of Harad
+  subtitle: ''
+  text: 'While this minion is at a battleground site, it is **Fierce.** '
+  lore: Raiders and brigands they may be, but in force the Southron fighters are terrifying.
+de:
+  title: Horden aus  Harad
+  subtitle: ''
+  text: Solange sich dieser Diener an einem Schlachtfeld befindet, ist er **erbittert.**
+  lore: Es mögen Räuber und Briganten sein, aber in der Masse sind die Südländer ein schrecklicher Gegner.

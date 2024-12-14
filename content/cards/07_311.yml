@@ -1,0 +1,25 @@
+set: '7'
+rarity: R
+number: '311'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 5
+str: '12'
+vit: '3'
+site: 5
+en:
+  title: Siege Commander
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    **Skirmish:** Discard 2 cards from hand to make a besieger fierce until the regroup phase.
+  lore: ''
+de:
+  title: Belagerungskommandant
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    **Kampf:** Lege 2 Karten aus deiner Hand ab, um einen Belagerer bis zur Sammelphase **erbittert** zu machen.
+  lore: Sie haben die Mauer genommen!

@@ -1,0 +1,21 @@
+set: '7'
+rarity: U
+number: '13'
+unique: true
+culture: Dwarven
+type: Condition
+cost: 2
+en:
+  title: Reckless Pride
+  subtitle: ''
+  text: |-
+    Bearer must be a :dwarven: companion.   
+    Each minion gains this ability: “**Assignment:** Assign this minion to bearer of Reckless Pride.” **Regroup:** Discard this condition to draw 4 cards.
+  lore: ''
+de:
+  title: Wagemut
+  subtitle: ''
+  text: |-
+    Muss auf einen :dwarven: Gefährten gespielt werden. Alle Diener erhalten: "**Zuweisung:** Weise diesen Diener, dem Träger des Wagemutes zu.".   
+    **Sammeln:** Lege diesen Effekt ab, um 4 Karten zu ziehen.
+  lore: ''

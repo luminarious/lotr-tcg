@@ -1,0 +1,22 @@
+set: '8'
+rarity: U
+number: '8'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Wish For Our Kinfolk
+  subtitle: ''
+  text: |-
+    **Fellowship:** Exert a Dwarf companion and either an :elven: companion or a :gondor: Man to add a :dwarven: token here.   
+    **Skirmish:** Remove a :dwarven: token here to make a companion **damage +1**.
+  lore: ‘…war already marches on their own lands.’
+de:
+  title: Wünschte mir einige von unserer Sippe
+  subtitle: ''
+  text: |-
+    **Gemeinschaft:** Strenge einen Zwergengefährten und entweder einen :elven: Gefährten oder einen :gondor: Menschen an, um eine :dwarven: Marke auf diesen Effekt zu legen.   
+    **Kampf:** Entferne eine :dwarven: Marke von diesem Effekt, um einem Gefährten **Schaden +1** zu geben.
+  lore: … der Krieg rückt schon in ihre Länder ein.

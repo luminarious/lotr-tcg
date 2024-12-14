@@ -1,0 +1,21 @@
+set: '12'
+rarity: C
+number: '98'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 2
+str: '6'
+vit: '1'
+site: 4
+en:
+  title: Orc Tormentor
+  subtitle: ''
+  text: Each time the Free Peoples player assigns this minion to skirmish an unwounded companion, he or she must add a burden or discard a card from hand.
+  lore: …orc-speech sounded at all times full of hate and anger….
+de:
+  title: Ork Folterknecht
+  subtitle: ''
+  text: Jedes Mal, wenn der Freie Völker Spieler diesen Diener einem unverwundeten Gefährten zuweist, muss er eine Lastmarke auf den Ringträger legen oder eine Karte aus der Hand ablegen.
+  lore: … obschon die Orksprache immer nach Hass und Wut klang….

@@ -1,0 +1,39 @@
+set: '1'
+rarity: C
+number: '84'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 3
+en:
+  title: Sleep, Caradhras
+  subtitle: ''
+  text: |-
+    **Spell.**   
+    **Fellowship:** Exert Gandalf to discard every condition.
+  lore: ‘Losto Caradhras, sedho, hodo, nuitho i ruith.’
+de:
+  title: Schlafe Caradhras!
+  subtitle: ''
+  text: '**Zauberspruch.** **Gemeinschaft.** Strenge Gandalf an, um alle Effekte im Spiel abzulegen.'
+  lore: Losto Caradhras, sedho, hodo, nuitho i ruith.
+fr:
+  title: Dors, Caradhras
+  subtitle: ''
+  text: |-
+    **Sort.**  
+    **Compagnie :** Affaiblissez Gandalf pour défausser toutes les situations.
+  lore: ‘Losto Caradhras, sedho, hodo, nuitho i ruith.’
+it:
+  title: Dormi, Caradhras
+  subtitle: ''
+  text: |-
+    **Magia.**  
+    **Compagnia:** Sforza Gandalf per scartare ogni condizione.
+  lore: ‘Losto Caradhras, sedho, hodo, nuitho i ruith.’
+es:
+  title: Duerme, Caradhras
+  subtitle: ''
+  text: '**Hechizo.** **Comunidad:** Esfuerza a Gandalf para descartar cada condición.'
+  lore: Losto Caradhras, sedho, hodo, nuitho i ruith.

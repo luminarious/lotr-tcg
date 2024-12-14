@@ -1,0 +1,42 @@
+set: '9'
+rarity: R
+number: '18'
+unique: true
+culture: Elven
+type: Possession
+class: Hand Weapon
+cost: 1
+str: '+2'
+en:
+  title: Merry’s Dagger
+  subtitle: ''
+  text: |-
+    Bearer must be Merry.   
+    **Skirmish:** Exert Merry twice or discard this possession to wound a minion he is skirmishing. Any Shadow player may remove :twilight1: to prevent this. 
+  lore: ‘They have already seen service in war.’
+de:
+  title: Merrys Dolch
+  subtitle: ''
+  text: 'Muss auf Merry gespielt werden. **Kampf:** Strenge Merry zweimal an oder lege diese Ausrüstung ab, um einen Diener, gegen den er kämpft, zu verwunden. Ein beliebiger Schattenspieler darf den Einfluss um :twilight1: verringern, um dies zu verhindern.'
+  lore: Sie sind bereits in Schlachten getragen worden.
+fr:
+  title: Merry's Dagger
+  subtitle: ''
+  text: |-
+    Bearer must be Merry.   
+    **Skirmish:** Exert Merry twice or discard this possession to wound a minion he is skirmishing. Any Shadow player may remove :twilight1: to prevent this. 
+  lore: ‘They have already seen service in war.’
+it:
+  title: Merry's Dagger
+  subtitle: ''
+  text: |-
+    Bearer must be Merry.   
+    **Skirmish:** Exert Merry twice or discard this possession to wound a minion he is skirmishing. Any Shadow player may remove :twilight1: to prevent this. 
+  lore: ‘They have already seen service in war.’
+es:
+  title: Merry's Dagger
+  subtitle: ''
+  text: |-
+    Bearer must be Merry.   
+    **Skirmish:** Exert Merry twice or discard this possession to wound a minion he is skirmishing. Any Shadow player may remove :twilight1: to prevent this. 
+  lore: ‘They have already seen service in war.’

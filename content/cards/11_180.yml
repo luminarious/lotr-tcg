@@ -1,0 +1,18 @@
+set: '11'
+rarity: S
+number: '180'
+unique: true
+culture: Uruk-hai
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Brutality
+  subtitle: ''
+  text: 'Make an :urukhai: minion strength +1 for each battleground site you can spot. '
+  lore: Uruks are drawn to the sounds of battle.
+de:
+  title: Brutalität
+  subtitle: ''
+  text: 'Gib einem :urukhai: Diener Stärke +1 für jedes Schlachtfeld, das du entdeckst.'
+  lore: Uruks werden vom Lärm der Schlacht angezogen.

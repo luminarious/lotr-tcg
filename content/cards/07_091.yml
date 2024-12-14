@@ -1,0 +1,20 @@
+set: '7'
+rarity: R
+number: '91'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+signet: Signet_Frodo
+en:
+  title: Faramir
+  subtitle: Wizard's Pupil
+  text: |-
+    **Ranger.**   
+    **Fellowship:** Play a :rohan: Man to heal Faramir.   
+    **Skirmish:** Exert Faramir to make an unbound Hobbit strength +2.   
+    **Skirmish:** Exert Gandalf to prevent all wounds to Faramir.
+  lore: ''

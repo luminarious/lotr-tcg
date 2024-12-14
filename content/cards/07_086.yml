@@ -1,0 +1,16 @@
+set: '7'
+rarity: C
+number: '86'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 2
+str: '5'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Denethor
+  subtitle: Wizened Steward
+  text: 'Denethor is strength +1 for each other :gondor: Man you can spot (limit +4).'
+  lore: ‘…in desperate hours gentleness may be repaid with death.’

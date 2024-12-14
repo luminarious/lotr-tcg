@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '356'
+unique: true
+culture: ''
+type: Site
+cost: 8
+siteArrow: Right
+en:
+  title: Cross Roads
+  subtitle: ''
+  text: '**Shadow:** Spot 2 :raider: Men and remove a threat to add :twilight2:.'
+  lore: ''
+de:
+  title: Der Scheideweg
+  subtitle: ''
+  text: '**Schatten:** Entdecke 2 :raider: Menschen und entferne eine Bedrohung, um den Einfluss um :twilight2: zu erhöhen.'
+  lore: ''

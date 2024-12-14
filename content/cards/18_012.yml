@@ -1,0 +1,19 @@
+set: '18'
+rarity: R
+number: '12'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 4
+str: '9'
+vit: '3'
+res: '7'
+en:
+  title: Glorfindel
+  subtitle: Eldarin Lord
+  text: |-
+    **Ranger.** To play, spot 2 :elven: companions.  
+    Minions skirmishing Glorfindel cannot gain strength bonuses from possessions.  
+    Each time Glorfindel wins a skirmish, you may remove a threat.
+  lore: '''Yet oft in lies truth is hidden…’'

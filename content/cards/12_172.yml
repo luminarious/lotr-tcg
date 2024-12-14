@@ -1,0 +1,25 @@
+set: '12'
+rarity: C
+number: '172'
+unique: true
+culture: Wraith
+type: Possession
+class: Mount
+cost: 2
+str: '+1'
+en:
+  title: Steed of Mordor
+  subtitle: ''
+  text: |-
+    Bearer must be a Nazgûl.   
+    Bearer gains **muster.** *(At the start of the regroup phase, you may discard a card from hand to draw a card.)*   
+    Each time bearer wins a skirmish, you may draw 2 cards. 
+  lore: …the Black Riders rode like a gale….
+de:
+  title: Mordorross
+  subtitle: ''
+  text: |-
+    Muss auf einen Nazgûl gespielt werden.  
+    Der Reiter erhält **Appell**. *(Zu Beginn der Sammelphase darfst du eine Karte aus deiner Hand ablegen, um eine Karte zu ziehen.)*  
+    Jedes Mal, wenn der Reiter einen Kampf gewinnt, darfst du 2 Karten ziehen.
+  lore: Aber die Schwarzen Reiter ritten wie der Sturmwind….

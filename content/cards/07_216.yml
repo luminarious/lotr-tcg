@@ -1,0 +1,25 @@
+set: '7'
+rarity: U
+number: '216'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 5
+str: '10'
+vit: '3'
+site: 2
+en:
+  title: Úlairë Nelya
+  subtitle: Black-Mantled Wraith
+  text: |-
+    **Fierce.**   
+    **Regroup:** If you have initiative, discard Úlairë Nelya to exert each Ring-bound companion.
+  lore: ''
+de:
+  title: •Úlairë Nelya
+  subtitle: Schwarz gewandetes Gespenst
+  text: |-
+    **Erbittert.**   
+    **Sammeln:** Wenn du die Initiative besitzt, lege Úlairë Nelya ab, um jeden Ring-verbundenen Gefährten anzustrengen.
+  lore: Es ist das Zeichen unseres Untergangs und der Schatten des Verhängnisses, ein Grausamer Reiter in der Luft.

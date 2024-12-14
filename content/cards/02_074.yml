@@ -1,0 +1,38 @@
+set: '2'
+rarity: R
+number: '74'
+unique: true
+culture: Moria
+type: Artifact
+class: Hand Weapon
+cost: 1
+str: '+1'
+en:
+  title: Whip of Many Thongs
+  subtitle: ''
+  text: |-
+    Bearer must be The Balrog.   
+    **Skirmish:** Exert The Balrog to discard a helm, shield, or armor borne by a character The Balrog is skirmishing. 
+  lore: It raised the whip, and the thongs whined and cracked.
+de:
+  title: Peitsche mit vielen Riemen
+  subtitle: ''
+  text: Muss auf den Balrog gespielt werden. **Kampf** Strenge den Balrog an, um einen Helm, einen Schild oder eine Rüstung von dem Charakter abzulegen, gegen den der Balrog kämpft.
+  lore: Er hob die Peitsche, und die Riemen wimmerten und knallten.
+fr:
+  title: Fouet aux Nombreuses Lanières
+  subtitle: ''
+  text: Le détenteur doit être Le Balrog. **Combat :** Affaiblissez Le Balrog pour défausser un heaume, un bouclier ou une armure détenu par un personnage que Le Balrog combat.
+  lore: 'Il leva le fouet, et les lanières gémirent et claquèrent. '
+it:
+  title: Frusta dalle Molte Code
+  subtitle: ''
+  text: |-
+    Il possessore deve essere Il Balrog.   
+    **Schermaglia:** Sforza Il Balrog per scartare un elmo, uno scudo, o un’armatura posseduta da un personaggio che stia schermagliando con Il Balrog.
+  lore: Il Balrog schioccò la frusta, e le code scricchiarono e fischiarono.
+es:
+  title: Látigo de muchas colas
+  subtitle: ''
+  text: El portador debe ser El Balrog. **Escaramuza:** Esfuerza El Balrog para descartar un yelmo, escudo o armadura que sea llevado por un personaje implicado en una escaramuza con El Balrog.
+  lore: Enseguida esgrimió el látigo, y las colas crujieron y gimieron.

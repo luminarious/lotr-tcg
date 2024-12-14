@@ -1,0 +1,36 @@
+set: '2'
+rarity: U
+number: '8'
+unique: true
+culture: Dwarven
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Golden Light on the Land
+  subtitle: ''
+  text: |-
+    To play, spot a Dwarf. Plays to your support area.  
+    At a site which is not underground, each :moria: Orc’s twilight cost is +2.   
+    Discard this condition during the **regroup** phase. 
+  lore: ‘The Orcs will not, maybe, come out till after dusk, but we must be far away before nightfall.’
+de:
+  title: Goldenes Licht über dem Land
+  subtitle: ''
+  text: 'Entdecke einen Zwerg, um diese Karte in deinen Unterstützungsbereich zu spielen. An einem nicht unterirdischen Ort erhöhen sich die Zwielichtkosten jedes :moria: Orks um 2. Lege diesen Effekt in der Sammelphase ab.'
+  lore: Die Orks werden vielleicht nicht vor der Dämmerung herauskommen, aber ehe die Nacht hereinbricht, müssen wir fort sein.
+fr:
+  title: Lumière Dorée sur les Terres
+  subtitle: ''
+  text: 'Pour jouer, désignez un Nain. À un site qui n’est pas souterrain, le coût crépusculaire de chaque Orque :moria: est de +2. Défaussez cette situation pendant la phase de ralliement.'
+  lore: 'Peut-être les orques ne sortiront-ils pas avant le crépuscule, mais il nous faut être loin à la tombée de la nuit.” '
+it:
+  title: Luce Dorata sulla Contrada
+  subtitle: ''
+  text: 'Per giocarla, avvista un Nano. In un sito che non è sotterraneo, il costo crepuscolo di un Orco :moria: aumenta di +2. Scarta questa condizione durante la fase di raccolta.'
+  lore: ‘Gli Orchi non usciranno, forse, prima dell'imbrunire, ma noi dobbiamo esser già molto lontani al calar della notte.’
+es:
+  title: Luz dorada sobre la tierra
+  subtitle: ''
+  text: 'Para jugarla, avista un Enano. En un sitio que no sea subterráneo, el coste de penumbra de cada Orco :moria: es +2. Descarta esta condición durante la fase de reagrupación.'
+  lore: Puede ser que los Orcos no salgan hasta el atardecer, pero debemos estar lejos antes de que caiga la noche.

@@ -1,0 +1,33 @@
+set: '4'
+rarity: U
+number: '233'
+unique: true
+culture: Raider
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Fearless
+  subtitle: ''
+  text: '**Skirmish:** Make a Southron strength +1 for each burden you spot (limit +5), or make a :raider: Man strength +2. '
+  lore: Despite their foreign ways, the Men from the South and East were formidable fighters.
+de:
+  title: Furchtlos
+  subtitle: ''
+  text: '**Kampf** Gib einem Südländer Stärke +1 für jede Lastmarke, die du entdeckst (maximal +5), oder gib einem :raider: Menschen Stärke +2.'
+  lore: Auch wenn sie fremd erschienen, waren die Menschen aus dem Süden und dem Osten hervorragende Kämpfer.
+fr:
+  title: Sans Peur
+  subtitle: ''
+  text: '**Combat :** Donnez +1 en force à un Suderon pour chaque point-fardeau que vous pouvez désigner (limite de +5), ou donnez +2 en force à un Homme :raider:.'
+  lore: Malgré leurs m*urs étrangères, les Hommes du Sud et de l'Est étaient de formidables combattants.
+it:
+  title: Senza Paura
+  subtitle: ''
+  text: '**Schermaglia:** Aggiungi +1 alla forza di un Sudrone per ogni segnalino fardello che avvisti (limite +5), o aggiungi +2 alla forza di un Uomo :raider:.'
+  lore: Nonostante i loro costumi stranieri, gli Uomini del Sud e dell'Est erano dei guerrieri formidabili.
+es:
+  title: Sin Miedo
+  subtitle: ''
+  text: '**Escaramuza:** Da a un Sureño fuerza +1 por cada carga que avistes (límite +5), o da a un Hombre :raider: fuerza +2.'
+  lore: A pesar de sus hábitos extranjeros, los Hombres del Sur y del Este eran guerreros formidables.

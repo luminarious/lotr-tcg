@@ -1,0 +1,18 @@
+set: '15'
+rarity: R
+number: '38'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 5
+str: '12'
+vit: '4'
+res: '6'
+en:
+  title: Treebeard
+  subtitle: Enraged Shepherd
+  text: |-
+    To play, spot 3 :gandalf: companions.  
+    Each time Treebeard wins a skirmish, the first Shadow player must exert X minions, where X is the difference between Treebeard’s strength and the losing character’s strength.
+  lore: My business is with Isengard tonight.

@@ -1,0 +1,44 @@
+set: '4'
+rarity: U
+number: '230'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 4
+str: '9'
+vit: '2'
+site: 4
+en:
+  title: Easterling Trooper
+  subtitle: ''
+  text: |-
+    **Easterling.**   
+    While you can spot 3 burdens, this minion is **fierce** and **damage +1.**
+  lore: Trained Easterling fighters formed ranks of axes and spears to charge the knights of Gondor.
+de:
+  title: Ostlingrekrut
+  subtitle: ''
+  text: |-
+    **Ostling.**  
+    Solange du 3 Lastmarken entdecken kannst, ist dieser Diener **Erbittert** und erhält **Schaden +1.**
+  lore: Ausgebildete Kämpfer der Ostlinge bildeten Reihen aus Äxten und Speeren, um die Ritter Gondors anzugreifen.
+fr:
+  title: Fantassin Oriental
+  subtitle: ''
+  text: |
+    **Oriental.**  
+    Tant que vous pouvez désigner trois points-fardeau, ce séide est **acharné** et inflige des **.**  
+  lore: Des soldats orientaux entraînés formaient des rangs d'haches et de lances pour charger contre les chevaliers du Gondor.
+it:
+  title: Truppa Esterling
+  subtitle: ''
+  text: |-
+    **Esterling.**  
+    Mentre puoi avvistare 3 segnalini fardello, questo servitore è **Feroce** e ha **Danno +1.**
+  lore: I soldati Esterling ben addestrati formarono delle schiere di asce e di lance per caricare i cavalieri di Gondor.
+es:
+  title: Soldado Oriental
+  subtitle: ''
+  text: '**Oriental.** Mientras puedas avistar 3 cargas, este siervo es **fiero** y **daño +1.**'
+  lore: Luchadores Orientales entrenados formaban en filas de hachas y picas para cargar contra los caballeros de Gondor.

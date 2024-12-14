@@ -1,0 +1,33 @@
+set: '1'
+rarity: R
+number: '71'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship
+cost: 2
+en:
+  title: Durin’s Secret
+  subtitle: ''
+  text: '**Fellowship:** Spot Gandalf, a Dwarf, and an Elf to make the move limit for this turn +1.'
+  lore: ‘They are wrought of ithildin that mirrors only starlight and moonlight, and sleeps until it is touched by one who speaks words now long forgotten in Middle-earth.’
+de:
+  title: Durins Geheimnis
+  subtitle: ''
+  text: '**Gemeinschaft.** Entdecke Gandalf, einen Zwerg und einen Elben, um deine Bewegungsreichweite in diesem Zug um 1 zu erhöhen.'
+  lore: Sie sind aus ithildin gearbeitet, das nur Sternenlicht und Mondlicht widerspiegelt und schläft, bis es von jemandem berührt wird, der Worte spricht, die jetzt in Mittelerde längst vergessen sind.
+fr:
+  title: Le Secret de Durin
+  subtitle: ''
+  text: '**Compagnie :** Désignez Gandalf, un Nain et un Elfe pour augmenter la limite de déplacement pour ce tour de +1.'
+  lore: ‘Ils sont faits d'ithildin, qui ne reflète que la lumière des étoiles et de la lune et qui dort jusqu'au moment où il est touché par quelqu'un qui prononce certains mots depuis longtemps oubliés en Terre du Milieu.’
+it:
+  title: Segreto di Durin
+  subtitle: ''
+  text: '**Compagnia:** Avvista Gandalf, un Nano e un Elfo per aggiungere +1 al limite dei movimenti per questo turno.'
+  lore: ‘Sono intarsi d'Ithildin, che riflette solo i raggi di luna e di stelle, e dorme sin quando non sente il tocco di chi pronunzia parole ormai da tempo obliate nella Terra di Mezzo.’
+es:
+  title: El Secreto de Durin
+  subtitle: ''
+  text: '**Comunidad:** Avista a Gandalf, un Enano y un Elfo para hacer que el límite de movimiento para este turno sea +1.'
+  lore: Están labradas en ithildin que solo refleja la luz de las estrellas y la luna, y que duerme hasta el momento en que alguien lo toca pronunciando ciertas palabras que en la Tierra Media se olvidaron tiempo atrás.

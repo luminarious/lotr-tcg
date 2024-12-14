@@ -1,0 +1,17 @@
+set: '2'
+rarity: C
+number: '6'
+unique: true
+culture: Dwarven
+type: Companion
+race: Dwarf
+cost: 2
+str: '5'
+vit: '3'
+en:
+  title: Frór
+  subtitle: Gimli's Kinsman
+  text: |-
+    To play, spot a Dwarf.  
+    While skirmishing an Uruk-hai, Frór is strength +3. 
+  lore: It appeared that amid the splendour of their works of hand the hearts of the Dwarves of the Lonely Mountain were troubled.

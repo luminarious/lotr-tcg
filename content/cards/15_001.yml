@@ -1,0 +1,15 @@
+set: '15'
+rarity: R
+number: '1'
+unique: true
+culture: ''
+type: Ring
+cost: 2
+vit: '+2'
+en:
+  title: The One Ring
+  subtitle: The Ring of Doom
+  text: |-
+    While wearing The One Ring, the Ring–bearer gains **hunter 3**, and each time he or she is about to take a wound in a skirmish, add a burden instead.   
+    **Skirmish:** Add a burden to wear The One Ring until the regroup phase.
+  lore: …the earth shook, the plain heaved and cracked, and Orodruin reeled.

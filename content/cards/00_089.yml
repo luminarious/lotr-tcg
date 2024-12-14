@@ -1,0 +1,16 @@
+set: '0'
+rarity: P
+number: '89'
+unique: true
+culture: Gandalf
+type: Companion
+race: Man
+cost: 2
+str: '4'
+vit: '3'
+res: '5'
+en:
+  title: Járnsmid
+  subtitle: Barding Emissary
+  text: 'At the start of each skirmish involving Járnsmid, you may remove a burden (or 2 burdens if you can spot another :gandalf: companion).'
+  lore: Sauron’s Easterling allies were another trial for the Bardings, still keenly aware of the great efforts to rebuild Dale.

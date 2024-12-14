@@ -1,0 +1,18 @@
+set: '7'
+rarity: U
+number: '337'
+unique: true
+culture: ''
+type: Site
+cost: 3
+siteArrow: Left
+en:
+  title: West Road
+  subtitle: ''
+  text: '**Plains.** If the Shadow has initiative, the Shadow number of this site is +3.'
+  lore: ''
+de:
+  title: Die Weststraße
+  subtitle: ''
+  text: '**Ebene.** Die Schattenzahl dieses Ortes erhöht sich um 3, wenn die Schattenseite die Initiative besitzt.'
+  lore: ''

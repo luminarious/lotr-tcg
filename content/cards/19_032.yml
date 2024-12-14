@@ -1,0 +1,20 @@
+set: '19'
+rarity: P
+number: '32'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 2
+str: '3'
+vit: '4'
+res: '9'
+en:
+  title: Sam
+  subtitle: Loyal Friend
+  text: |-
+    **Fellowship. Ring-bound.**  
+    While Sam bears The One Ring, he is resistance -4.  
+    While you can spot 3 :shire: companions, Sam is strength +2.  
+    **Response**: If Frodo dies, make Sam the Ring-bearer.
+  lore: ''

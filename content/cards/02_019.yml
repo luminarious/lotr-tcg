@@ -1,0 +1,33 @@
+set: '2'
+rarity: R
+number: '19'
+unique: true
+culture: Elven
+type: Event
+class: Maneuver
+cost: 1
+en:
+  title: Release the Angry Flood
+  subtitle: ''
+  text: '**Maneuver:** Exert an Elf to wound each Nazgûl once (or twice if at a river). '
+  lore: The three Riders that were still in the midst of the Ford were overwhelmed…. Their piercing cries were drowned in the roaring of the river as it carried them away.
+de:
+  title: Die wütende Flut entfesseln
+  subtitle: ''
+  text: '**Manöver:** Strenge einen Elben an, um jeden Nazgûl einmal zu verwunden (oder zweimal, wenn er sich an einem Fluss befindet).'
+  lore: Die drei Reiter, die noch mitten in der Furt waren, wurden umgerissen… Ihre gellenden Schreie gingen unter im Tosen des Flusses, als er sie mitriß.
+fr:
+  title: Chevaux d'Écume
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Elfe pour blesser chaque Nazgûl une fois (ou deux fois si vous êtes à une rivière).'
+  lore: 'Les trois cavaliers immobiles au milieu de du Gué furent submergés; ils disparurent soudain sous l''écume en courroux. '
+it:
+  title: Rilascia l'Ondata Impetuosa
+  subtitle: ''
+  text: '**Manovra:** Sforza un Elfo per ferire ogni Nazgûl una volta (o due volte se siete a un fiume).'
+  lore: I tre Cavalieri che si trovavano ancora in mezzo al Guado furono travolti… Le grida raccapriccianti furono soffocate dal rombo del fiume che li trasportava via.
+es:
+  title: Desatad la inundación furiosa
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza un Elfo para herir a cada Nazgûl una vez (o dos veces si estás en un río).'
+  lore: Los tres Jinetes que estaban todavía en medio del Vado desaparecieron de pronto bajo las aguas espumosas… Los gritos penetrantes se perdieron en el rugido del río, que arrastró a los Jinetes.

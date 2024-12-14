@@ -1,0 +1,36 @@
+set: '6'
+rarity: C
+number: '2'
+unique: true
+culture: Dunland
+type: Minion
+race: Man
+cost: 2
+str: '7'
+vit: '1'
+site: 3
+en:
+  title: Dunlending Elder
+  subtitle: ''
+  text: While you control 2 sites, this minion is strength +5, fierce and **damage +1**.
+  lore: Hatred of the Rohirrim is passed from generation to generation.
+de:
+  title: Weiser der Dunländer
+  subtitle: ''
+  text: Solange du 2 Orte kontrollierst, erhält dieser Diener Stärke +5, **Schaden +1** und ist erbittert.
+  lore: Der Hass auf die Rohirrim wurde vom Vater zum Sohn weitergegeben.
+fr:
+  title: Doyen Dun
+  subtitle: ''
+  text: Tant que vous contrôlez 2 sites, ce séide a +5 en force, est acharné et inflige des **dégâts +1**.
+  lore: La haine des Rohirrim se passe d'une génération à l'autre.
+it:
+  title: Anziano Dunlandiano
+  subtitle: ''
+  text: Mentre controlli 2 siti, aggiungi +5 alla forza, feroce e **Danno +1** a questo servitore.
+  lore: L'odio per i Rohirrim si tramanda di generazione in generazione.
+es:
+  title: Anciano Dunlendino
+  subtitle: ''
+  text: Mientras controles 2 sitios, este siervo es fuerza +5, fiero y **daño +1**.
+  lore: El odio hacia los Rohirrim es transmitido de generación en generación.

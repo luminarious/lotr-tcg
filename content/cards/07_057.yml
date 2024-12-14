@@ -1,0 +1,22 @@
+set: '7'
+rarity: R
+number: '57'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Fat One Wants It
+  subtitle: ''
+  text: |-
+    Each time Gollum or Sméagol is played, add a threat.   
+    **Regroup:** Discard this condition to return Gollum to his owner’s hand.
+  lore: ''
+de:
+  title: Der fette Hobbit will ihn
+  subtitle: ''
+  text: |-
+    Lasse, jedes Mal, wenn Gollum oder Sméagol gespielt wird, eine Bedrohung entstehen.   
+    **Sammeln:** Lege diesen Effekt ab, um Gollum auf die Hand des Besitzers zurückzuschicken.
+  lore: ''

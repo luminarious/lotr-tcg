@@ -1,0 +1,18 @@
+set: '12'
+rarity: U
+number: '76'
+unique: true
+culture: Man
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Trail of Terror
+  subtitle: ''
+  text: 'At the start of the maneuver phase, you may spot 3 :men: minions and remove :twilight1: to make each unbound companion resistance –1 until the regroup phase.'
+  lore: ‘Now the Wild Men are moving through the Westfold, burning as they go.’
+de:
+  title: Pfad der Verwüstung
+  subtitle: ''
+  text: 'Zu Beginn der Manöverphase darfst du 3 :men: Diener entdecken und den Einfluss um :twilight1: verringern, um die Resistenz jedes nicht-verbundenen Gefährten um 1 zu reduzieren.'
+  lore: Jetzt ziehen Wilde Menschen durch die Westfold und brennen alles nieder.

@@ -1,0 +1,18 @@
+set: '8'
+rarity: C
+number: '90'
+unique: true
+culture: Rohan
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: No Living Man
+  subtitle: ''
+  text: Exert Théoden to exert a minion for each Théoden signet you spot.
+  lore: ‘They are looking for something, surely?’
+de:
+  title: Kein lebender Mann
+  subtitle: ''
+  text: Strenge Théoden an, um einen Diener für jedes Théodensiegel, das du entdeckst, anzustrengen.
+  lore: Fort mit dir, du abscheuliches Geistergeschöpf, Herr über Leichen!

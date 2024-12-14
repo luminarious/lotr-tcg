@@ -1,0 +1,18 @@
+set: '15'
+rarity: C
+number: '59'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Dúnedain of the South
+  subtitle: ''
+  text: |-
+    **Ranger. Hunter 1.** *(While skirmishing a non-hunter character, this character is strength +1.)*  
+    Each time this companion wins a skirmish, you may make a :gondor: ranger strength +2 until the regroup phase.
+  lore: ‘We come to ambush the Men of Harad.’

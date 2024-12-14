@@ -1,0 +1,33 @@
+set: '2'
+rarity: U
+number: '59'
+unique: true
+culture: Moria
+type: Event
+class: Shadow
+cost: 2
+en:
+  title: Foul Things
+  subtitle: ''
+  text: '**Shadow:** Play a :moria: minion from your discard pile. '
+  lore: ‘Something has crept, or has been driven out of dark waters under the mountains.’
+de:
+  title: Üble Dinge
+  subtitle: ''
+  text: '**Schatten:** Spiele einen :moria: Diener aus deinem Ablagestapel.'
+  lore: Irgend etwas ist aus den dunklen Wassern unter dem Gebirge hervor gekrochen oder herausgetrieben worden.
+fr:
+  title: Choses Infectes
+  subtitle: ''
+  text: 'Ombre : Jouez un séide :moria: de votre pile de défausse.'
+  lore: 'Quelque chose a rampé, ou a été tiré, des eaux sombres sous les montagnes.” '
+it:
+  title: Orribili Esseri
+  subtitle: ''
+  text: '**Ombra:** Gioca un servitore :moria: dalla tua pila degli scarti.'
+  lore: ‘Qualcosa è strisciato o è stato spinto fuori dalle cupe acque sotto le montagne.’
+es:
+  title: Cosas inmundas
+  subtitle: ''
+  text: '**Sombra:** Juega un siervo :moria: de tu pila de descartes.'
+  lore: Algo se ha deslizado, o ha sido sacado de las aguas oscuras bajo las montañas.

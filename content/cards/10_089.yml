@@ -1,0 +1,22 @@
+set: '10'
+rarity: R
+number: '89'
+unique: true
+culture: Sauron
+type: Possession
+class: Mount
+cost: 1
+str: '+1'
+vit: '+1'
+en:
+  title: Gothmog's Warg
+  subtitle: ''
+  text: |-
+    Bearer must be a :sauron: Orc.   
+    For each site you control, bearer is strength +1 (or +2 if bearer is Gothmog). 
+  lore: ‘Form ranks, you maggots! Form ranks!’
+de:
+  title: Gothmogs Warg
+  subtitle: ''
+  text: 'Muss auf einen :sauron: Ork gespielt werden. Für jeden Ort, den du kontrollierst, erhält der Reiter Stärke +1 (oder Stärke +2, wenn Gothmog der Reiter ist).'
+  lore: Formiert euch, ihr Maden! Formiert euch!

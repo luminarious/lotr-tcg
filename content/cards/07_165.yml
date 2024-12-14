@@ -1,0 +1,29 @@
+set: '7'
+rarity: R
+number: '165'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 6
+str: '11'
+vit: '3'
+site: 4
+en:
+  title: Southron Intruder
+  subtitle: ''
+  text: |-
+    **Southron.** **Archer.**   
+    While you can spot 3 twilight tokens, all :raider: Men are strength +1.   
+    While you can spot 6 twilight tokens, all :raider: Men are strength +1.   
+    While you can spot 9 twilight tokens, all :raider: Men are strength +1.
+  lore: ''
+de:
+  title: Südland Invasoren
+  subtitle: ''
+  text: |-
+    **Südländer.** **Bogenschütze.**   
+    Solange du einen Einfluss von 3 entdecken kannst, erhalten alle :raider: Menschen Stärke+1.   
+    Solange du einen Einfluss von 6 entdecken kannst, erhalten alle :raider: Menschen Stärke+1.   
+    Solange du einen Einfluss von 9 entdecken kannst, erhalten alle :raider: Menschen Stärke +1.
+  lore: ''

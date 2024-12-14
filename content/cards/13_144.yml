@@ -1,0 +1,22 @@
+set: '13'
+rarity: U
+number: '144'
+unique: true
+culture: Shire
+type: Follower
+cost: 1
+res: '+1'
+en:
+  title: Daddy Twofoot
+  subtitle: Next-door Neighbor
+  text: |-
+    **Aid –** Add a burden. *(At the start of the maneuver phase, you may add a burden to transfer this to a companion.)*  
+    Each time you transfer this to a companion, you may take a :shire: event into hand from your discard pile.
+  lore: ‘That’s a dark bad place, if half the tales be true.’
+de:
+  title: Väterchen Zwiefuß
+  subtitle: Nachbar von nebenan
+  text: |-
+    **Hilfe – **Lege 1 Lastmarke auf den Ringträger.  
+    Du darfst jedes Mal, wenn du diese Karte auf einen Gefährten verschiebst, ein :shire: Ereignis aus deinem Ablagestapel auf die Hand nehmen.
+  lore: Das ist ein dunkler, böser Ort, wenn nur die Hälfte der Erzählungen wahr ist.

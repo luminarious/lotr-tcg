@@ -1,0 +1,18 @@
+set: '11'
+rarity: U
+number: '41'
+unique: true
+culture: Gollum
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: Frenzied Attack
+  subtitle: ''
+  text: If a minion is skirmishing a Free Peoples character who has resistance 2 or less, spot Gollum to wound that character twice.
+  lore: Having been separated from the Precious for the better part of a century, Gollum tasted only the sweetness of its return.
+de:
+  title: Rasender Angriff
+  subtitle: ''
+  text: Wenn ein Diener gegen einen Charakter mit Resistenz 2 oder weniger kämpft, entdecke Gollum, um diesen Charakter zweimal zu verwunden.
+  lore: Für nahezu ein Jahrhundert von seinem Schatz getrennt, konnte Gollum nur an die Süße seiner Rückkehr denken.

@@ -1,0 +1,13 @@
+set: '15'
+rarity: R
+number: '152'
+unique: true
+culture: Shire
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Relaxation
+  subtitle: ''
+  text: '**Response:** If a Shadow card is about to add any number of burdens, discard a :shire: follower and this condition from play to prevent that and discard that Shadow card.'
+  lore: As for the Hobbits of the Shire…they were a merry folk.

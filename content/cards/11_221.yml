@@ -1,0 +1,16 @@
+set: '11'
+rarity: S
+number: '221'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Lemenya
+  subtitle: Fifth of the Nine Riders
+  text: 'Each character skirmishing Úlairë Lemenya who has resistance 5 or less is strength –3. '
+  lore: Terror overcame Pippin and Merry, and they threw themselves flat on the ground.

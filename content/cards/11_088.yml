@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '88'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 6
+str: '14'
+vit: '3'
+site: 4
+en:
+  title: Legion of Harad
+  subtitle: ''
+  text: '**Toil 2.** (For each :men: character you exert when playing this, its twilight cost is –2.)'
+  lore: The bellicose families of Harad cannot often agree, but when they do, they form a formidable army.
+de:
+  title: Legionen aus Harad
+  subtitle: ''
+  text: '**Mühe 2.** *(Für jeden* :men: *Charakter, den du beim Ausspielen dieses Dieners anstrengst, reduzieren sich dessen Kosten um 2.)*'
+  lore: Die kriegerischen Familien der Haradrim sind sich selten einig, aber wenn, dann sind sie eine schlagkräftige Armee.

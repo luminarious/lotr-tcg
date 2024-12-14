@@ -1,0 +1,33 @@
+set: '2'
+rarity: R
+number: '80'
+unique: true
+culture: Wraith
+type: Event
+class: Maneuver
+cost: 2
+en:
+  title: Stricken Dumb
+  subtitle: ''
+  text: '**Maneuver:** Exert The Witch-king to discard a tale or weapon. '
+  lore: He felt his tongue cleave to his mouth and his heart labouring. His sword broke and fell out of his shaking hand.
+de:
+  title: Mit Stummheit geschlagen
+  subtitle: ''
+  text: '**Manöver:** Strenge den Hexenkönig an, um eine Erzählung oder eine Waffe abzulegen.'
+  lore: Er fühlte, wie ihm die Zunge am Gaumen klebte und sein Herz schwer schlug. Sein Schwert zerbarst und fiel ihm aus der Hand.
+fr:
+  title: Frappé de Mutisme
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez le Roi-Sorcier pour défausser un récit ou une arme.'
+  lore: 'Il sentit sa langue se coller à son palais et son c*ur battre à tout rompre. Son épée se brisa et tomba de sa main tremblante. '
+it:
+  title: Assordati
+  subtitle: ''
+  text: '**Manovra:** Sforza Il Re Stregone per scartare un racconto o un’arma.'
+  lore: Sentì la lingua paralizzarglisi nella bocca e il cuore battere affannosamente. La spada si frantumò e gli cadde dalla mano tremante.
+es:
+  title: Enmudecido
+  subtitle: ''
+  text: '**Maniobra:** Esfuerza El Rey Brujo para descartar un cuento o una arma.'
+  lore: Sintió su lengua contraerse en su boca y su corazón latiendo. Su espada se rompió y cayo de su temblorosa mano.

@@ -1,0 +1,33 @@
+set: '5'
+rarity: R
+number: '124'
+unique: true
+culture: Elven
+type: Event
+class: Archery
+cost: 2
+en:
+  title: Break the Charge
+  subtitle: ''
+  text: '**Archery:** Exert 3 Elf companions to make the fellowship archery total +2.'
+  lore: A wall of Elven arrows met the attackers before they reached the Hornburg itself.
+de:
+  title: Stoppt den Ansturm
+  subtitle: ''
+  text: '**FernKampf** Strenge 3 Elbengefährten an, um den Fernkampfwert der Gemeinschaft um 2 zu erhöhen.'
+  lore: Ein Hagel von Elbenpfeilen schlug den Angreifern entgegen, bevor sie die Hornburg erreichten.
+fr:
+  title: Briser la Charge
+  subtitle: ''
+  text: '**Archerie :** Affaiblissez 3 compagnons Elfes pour donner +2 au total d’archerie de la compagnie.'
+  lore: Un mur de flèches elfiques vint à la rencontre des assaillants avant même qu'ils n'atteignent le For le Cor lui-même.
+it:
+  title: Rompere la Carica
+  subtitle: ''
+  text: '**Arcieri:** Sforza 3 compagni Elfi per aggiungere +2 al totale degli arcieri della compagnia.'
+  lore: Un muro di frecce elfiche colpì gli attaccanti prima che arrivassero al Trombatorrione.
+es:
+  title: Romped la carga
+  subtitle: ''
+  text: '**Arquería:** Esfuerza 3 compañeros Elfos para dar un +2 al total de arquería de la comunidad.'
+  lore: Un muro de flechas Élficas recibió a los atacantes antes de que llegaran a la própia Cuernavilla.

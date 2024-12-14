@@ -1,0 +1,15 @@
+set: '15'
+rarity: C
+number: '13'
+unique: true
+culture: Elven
+type: Possession
+class: Ranged Weapon
+cost: 1
+en:
+  title: Elven Bow
+  subtitle: ''
+  text: |-
+    Bearer must be an Elf.  
+    Bearer is an **archer**.
+  lore: No finer bows could defend Helm’s Deep than those of the Golden Wood.

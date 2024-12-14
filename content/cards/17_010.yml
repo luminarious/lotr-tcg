@@ -1,0 +1,15 @@
+set: '17'
+rarity: U
+number: '10'
+unique: true
+culture: Elven
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Namárië
+  subtitle: ''
+  text: |-
+    When you play this, add an :elven: token here for each hunter you can spot.  
+    **Maneuver:** Discard this or remove a token from here and spot an :elven: hunter to discard a condition.
+  lore: We shall not meet again, Elessar.

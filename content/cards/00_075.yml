@@ -1,0 +1,21 @@
+set: '0'
+rarity: P
+number: '75'
+unique: true
+culture: Orc
+type: Minion
+race: Orc
+cost: 5
+str: '13'
+vit: '2'
+site: 4
+en:
+  title: Champion Orc
+  subtitle: ''
+  text: '**Toil 2.** (For each :orc: character you exert when playing this, its twilight cost is –2.) '
+  lore: A few Orcs are veterans of single combats to settle disputes in the mountain tribes.
+de:
+  title: Orkkämpe
+  subtitle: ''
+  text: '**Mühe 2.** *(Für jeden * :orc:* Charakter, den du beim Ausspielen dieses Dieners anstrengst, reduzieren sich dessen Kosten um 2.)*'
+  lore: Einige wenige Orks sind erfahren genug, um Auseinandersetzungen unter den Bergstämmen beilegen zu können.

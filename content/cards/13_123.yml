@@ -1,0 +1,18 @@
+set: '13'
+rarity: R
+number: '123'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '7'
+en:
+  title: Éomer
+  subtitle: Heir to Meduseld
+  text: |-
+    While Éomer bears a mount, he is **damage +1.**  
+    While no other companion is assigned to a skirmish, Éomer is strength +1 for each other :rohan: companion you can spot.
+  lore: ‘I have no child. Théodred my son is slain. I name Éomer my sister-son to be my heir.’

@@ -1,0 +1,41 @@
+set: '5'
+rarity: R
+number: '47'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 7
+str: '12'
+vit: '3'
+site: 5
+en:
+  title: Berserk Slayer
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    Berserk Slayer is strength +2 for each wound on a character in its skirmish.   
+    **Skirmish:** Remove 5 :isengard: tokens from a machine and exert Berserk Slayer twice to wound every companion.
+  lore: Berserkers are the first wave of Uruks sent to battle.
+de:
+  title: Mörderischer Berserker
+  subtitle: ''
+  text: '**Schaden +1.** Der Mörderische Berserker erhält Stärke +2 für jede Wunde auf einem Charakter, der an seinem Kampf beteiligt ist. **Kampf** Entferne 5 :isengard: Marken von einer Kriegsmaschine und strenge den Mörderischen Berserker zweimal an, um jeden Gefährten zu verwunden.'
+  lore: Berserker waren immer die vordersten Kämpfer.
+fr:
+  title: Massacreur Fou Furieux
+  subtitle: ''
+  text: '**Dégâts +1.** Massacreur Fou Furieux a +2 en force pour chaque blessure sur un personnage impliqué dans son combat. **Combat :** Retirez 5 jetons :isengard: d’une machine et affaiblissez Massacreur Fou Furieux deux fois pour blesser tous les compagnons.'
+  lore: La première vague envoyée au combat est toujours composée de fous furieux.
+it:
+  title: Berserker Assassino
+  subtitle: ''
+  text: |-
+    **Danno +1.** Aggiungi +2 alla forza di Berserker Assassino per ogni ferita su un personaggio nella sua schermaglia.   
+    **Schermaglia:** Rimuovi 5 segnalini :isengard: da una macchina da guerra e sforza due volte Berserker Assassino per ferire tutti i compagni.
+  lore: I berserker sono la prima ondata di Uruk mandati in battaglia.
+es:
+  title: Exterminador Berserker
+  subtitle: ''
+  text: '**Daño +1.** Exterminador Berserker es fuerza +2 por cada herida en cada personaje en su escaramuza. **Escaramuza:** Quita 5 contadores :isengard: de una máquina y esfuerza dos veces el Exterminador Berserk para herir cada compañero.'
+  lore: Los Berserkers son la primera oleada de Uruks lanzados a la batalla.

@@ -1,0 +1,18 @@
+set: '5'
+rarity: R
+number: '5'
+unique: true
+culture: Dwarven
+type: Event
+class: Maneuver
+cost: 0
+en:
+  title: Baruk Khazâd
+  subtitle: ''
+  text: '**Maneuver:** Exert a Dwarf to wound a minion. You may take the next maneuver action.'
+  lore: …a small dark figure that none had observed sprang out of the shadows and gave a hoarse shout….
+fr:
+  title: Barouk Khazâd
+  subtitle: ''
+  text: '**Manœuvre :** Affaiblissez un Nain pour blesser un séide. Vous pouvez effectuer le prochaine action de manœuvre.'
+  lore: '… une petite forme noire que personne n''avait remarquée s''élança hors de l''ombre, poussant un cri rauque… '

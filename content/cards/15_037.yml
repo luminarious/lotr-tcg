@@ -1,0 +1,18 @@
+set: '15'
+rarity: U
+number: '37'
+unique: true
+culture: Gandalf
+type: Companion
+race: Ent
+cost: 7
+str: '8'
+vit: '4'
+res: '6'
+en:
+  title: Skinbark
+  subtitle: Elder Ent
+  text: |-
+    Skinbark is twilight cost -1 for each :gandalf: condition you can spot.  
+    Each time Skinbark wins a skirmish, you may place a :gandalf: card from your discard pile beneath your draw deck.
+  lore: ‘…a man that hacks once at an Ent never gets the chance of a second blow.’

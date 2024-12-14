@@ -1,0 +1,35 @@
+set: '1'
+rarity: U
+number: '142'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Traitor's Voice
+  subtitle: ''
+  text: |-
+    **Search.** To play, spot an Uruk-hai.   
+    While the Ring-bearer is exhausted or you can spot 5 burdens, the move limit for this turn is -1 (to a minimum of 1).
+  lore: ‘In all the long wars with the Dark Tower treason has ever been our greatest foe.’
+de:
+  title: Die Stimme des Verräters
+  subtitle: ''
+  text: '**Suche.** Entdecke einen Uruk-hai, um diese Karte in deinen Unterstützungsbereich zu spielen. Solange der Ringträger erschöpft ist, oder du 5 Lastmarken entdecken kannst, wird das Bewegungslimit in diesem Spielzug um 1 reduziert (bis zu einem Minimum von 1).'
+  lore: In all den langen Kriegen mit dem dunklen Turm war Verrat immer unser größter Feind gewesen.
+fr:
+  title: Voix du Traître
+  subtitle: ''
+  text: '**Recherche.** Pour jouer, désignez un Ourouk-Haï. Tant que le Porteur de l’Anneau est épuisé ou que vous pouvez désigner 5 points-fardeau, la limite de déplacement pour ce tour est de -1 (jusqu’à un minimum de 1).'
+  lore: ‘Dans toutes les longues guerres contre la Tour Sombre, la trahison a toujours été notre plus grande ennemie.’
+it:
+  title: Voce del Traditore
+  subtitle: ''
+  text: '**Ricerca.** Per giocarla, avvista un Uruk-hai. Finché il Portatore dell’Anello è Esausto o puoi avvistare 5 segnalini fardello, sottrai -1 al limite dei movimenti per questo turno (fino a un minimo di 1).'
+  lore: ‘Durante tutte le guerre contro la Torre Oscura, il nostro più gran nemico è stato il tradimento.’
+es:
+  title: La Voz del Traidor
+  subtitle: ''
+  text: '**Búsqueda.** Para jugarla, avista un Uruk-hai. Mientras el Portador del Anillo esté exhausto o puedas avistar cinco cargas, el límite de movimiento para este turno es -1 (hasta un mínimo de 1).'
+  lore: En el curso de las largas guerras con la Torre Oscura la traición ha sido nuestro mayor enemigo.

@@ -1,0 +1,18 @@
+set: '8'
+rarity: R
+number: '24'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 4
+en:
+  title: Promise Keeping
+  subtitle: ''
+  text: 'Each time a companion takes a wound during a skirmish that involved a :gollum: minion, exert a companion.'
+  lore: ‘And we'll save the Precious, as we promised…. Then we'll pay everyone back!
+de:
+  title: Eingehaltenes Versprechen
+  subtitle: ''
+  text: 'Strenge, jedes Mal, wenn ein Gefährte in einem Kampf gegen einen :gollum: Diener eine Wunde erleidet, einen Gefährten an.'
+  lore: Und wir werden den Schatz retten, wie wir versprochen haben…. Dann werden wir es jedem heimzahlen!

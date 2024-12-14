@@ -1,0 +1,21 @@
+set: '11'
+rarity: U
+number: '74'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 5
+str: '12'
+vit: '3'
+site: 4
+en:
+  title: Detachment of Haradrim
+  subtitle: ''
+  text: '**Maneuver:** Exert this minion to add :twilight1: for each companion who has resistance 5 or less. '
+  lore: No mere soldiers, all the Men of Harad are skilled assassins and raiders.
+de:
+  title: Abteilung der Haradrim
+  subtitle: ''
+  text: '**Manöver:** Strenge diesen Diener an, um den Einfluss um :twilight1: für jeden Gefährten mit Resistenz 5 oder weniger zu erhöhen.'
+  lore: Die Haradrim sind nicht einfach nur Soldaten, sondern trainierte Meuchler und Räuber.

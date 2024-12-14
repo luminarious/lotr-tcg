@@ -1,0 +1,14 @@
+set: '4'
+rarity: R
+number: '75'
+unique: true
+culture: Elven
+type: Possession
+cost: 1
+en:
+  title: Lembas
+  subtitle: ''
+  text: |-
+    To play, spot 3 Elves. Bearer must be a companion.  
+    **Regroup:** Discard this possession to reconcile your hand. 
+  lore: Sam thought that it tasted far better, somehow, than it had for a good while….

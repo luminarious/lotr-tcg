@@ -1,0 +1,33 @@
+set: '6'
+rarity: R
+number: '49'
+unique: true
+culture: Gondor
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Ancient Roads
+  subtitle: ''
+  text: While you can spot 3 rangers, the site number of each minion skirmishing a ranger is +2.
+  lore: ‘…they go ever more heedlessly, we learn, thinking that the power of their new master is great enough….’
+de:
+  title: Alte Straßen
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. Solange du 3 Waldläufer entdecken kannst, erhöht sich die Ortskennzahl aller Diener, die gegen einen Waldläufer kämpfen, um 2.
+  lore: … sie gehen immer unbekümmerter, wie wir hören, weil sie glauben, die Macht ihres neuen Herrn sei groß genug…
+fr:
+  title: Anciennes Routes
+  subtitle: ''
+  text: Tant que vous pouvez désigner 3 rôdeurs, le numéro de site de chaque séide qui combat un rôdeur est de +2.
+  lore: '… ils vont avec toujours plus d''insouciance, apprenons-nous, car ils pensent la puissance de leur nouveau maître assez grande….” '
+it:
+  title: Antiche Strade
+  subtitle: ''
+  text: Mentre puoi avvistare 3 raminghi, aggiungi +2 al numero di sito di ogni servitore che sta schermagliando con un ramingo.
+  lore: ‘…avanzano sempre più baldanzosi, ci dicono, convinti che il potere del loro nuovo padrone sia abbastanza grande….’
+es:
+  title: Caminos Antiguos
+  subtitle: ''
+  text: Mientras puedas avistar 3 montaraces, el número de sitio de cada siervo que esté en una escaramuza contra un montaraz es +2.
+  lore: …incluso van más despreocupadamente, hemos aprendido, pensando que el poder de su nuevo amo es lo suficientemente grande…

@@ -1,0 +1,18 @@
+set: '18'
+rarity: C
+number: '129'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 0
+str: '7'
+vit: '1'
+site: 5
+en:
+  title: White Hand Sieger
+  subtitle: ''
+  text: |-
+    **Damage +1.**  
+    To play, spot an :urukhai: minion and you must control a site.
+  lore: The flood of Uruk-hai storming the Deeping Wall seemed to be unstoppable.

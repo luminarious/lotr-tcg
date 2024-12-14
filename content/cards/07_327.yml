@@ -1,0 +1,20 @@
+set: '7'
+rarity: R
+number: '327'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 2
+str: '3'
+vit: '4'
+res: '5'
+signet: Signet_Frodo
+en:
+  title: Sam
+  subtitle: Resolute Halfling
+  text: |-
+    **Ring-bound.**   
+    **Fellowship:** If you have initiative, discard a card from hand to heal Sam.   
+    **Response:** If Frodo is killed, make Sam the Ring-bearer (resistance 5).
+  lore: ''

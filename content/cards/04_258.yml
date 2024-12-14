@@ -1,0 +1,50 @@
+set: '4'
+rarity: C
+number: '258'
+unique: true
+culture: Raider
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Southron Wanderer
+  subtitle: ''
+  text: |-
+    **Southron.** **Ambush** :twilight1:.  
+    **Assignment:** Exert this minion and spot 5 companions to assign this minion to the Ring-bearer.   
+    The Free Peoples player may add :twilight4: to prevent this. 
+  lore: Some desert warriors have no allegiance and work for any faction that will pay them.
+de:
+  title: Südlandnomade
+  subtitle: ''
+  text: |-
+    **Südländer.****Hinterhalt** :twilight1:.  
+    **Zuweisung:** Strenge diesen Diener an und entdecke 5 Gefährten, um diesen Diener dem Ringträger zuzuweisen. Der Freie Völker Spieler darf den Einfluss um :twilight4: erhöhen, um dies zu verhindern.
+  lore: Einige Südländer kannten keine Loyalität und kämpften für die Seite, die sie bezahlte.
+fr:
+  title: Vagabond Suderon
+  subtitle: ''
+  text: |-
+    **Suderon.** **Embuscade** :twilight1:.  
+    **Affectation :** Affaiblissez ce séide et désignez 5 compagnons pour assigner ce séide au Porteur de l’Anneau.  
+    Le joueur des Peuples Libres peut ajouter :twilight4: pour empêcher ceci.
+  lore: Quelques guerriers du désert n'ont aucune allégeance et travaillent pour quiconque les paie.
+it:
+  title: Sudrone Errante
+  subtitle: ''
+  text: |-
+    **Sudrone.**  
+    **Imboscata** :twilight1:.  
+    **Assegnazione:** Sforza questo servitore e avvista 5 compagni per assegnare questo servitore al Portatore dell’Anello.  
+    Il giocatore dei Popoli Liberi può aggiungere :twilight4: per prevenire questo effetto.
+  lore: Alcuni guerrieri del deserto non sono fedeli a nessuno e si mettono al servizio di qualunque fazione li paghi.
+es:
+  title: Vagabundo Sureño
+  subtitle: ''
+  text: |-
+    **Sureño.** **Emboscar** :twilight1:.  
+    **Asignación:** Esfuerza este siervo y avista 5 compañeros para asignar este siervo al Portador del Anillo. El jugador de Gentes LIbres puede añadir :twilight4: para prevenir esto.
+  lore: Algunos guerreros del desierto no le deben lealtad a nadie y trabajan para cualquier facción que les pague.

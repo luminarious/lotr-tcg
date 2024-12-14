@@ -1,0 +1,33 @@
+set: '6'
+rarity: U
+number: '58'
+unique: true
+culture: Isengard
+type: Condition
+class: Support Area
+cost: 1
+en:
+  title: Assault Ladder
+  subtitle: ''
+  text: '**Machine.** **Shadow:** Exert an Uruk-hai to place an :isengard: token on this card. **Skirmish:** Spot 3 :isengard: tokens here to make an Uruk-hai strength +3. Discard this condition.'
+  lore: ‘It is a great host….’
+de:
+  title: Belagerungsleiter
+  subtitle: ''
+  text: '**Kriegsmaschine.** **Schatten:** Strenge einen Uruk-hai an, um eine :isengard: Marke auf diese Karte zu legen. **Kampf** Entdecke 3 :isengard: Marken hier, um einem Uruk-hai Stärke +3 zu geben. Lege diesen Effekt ab.'
+  lore: Es ist ein großes Heer…
+fr:
+  title: Échelle d'Assaut
+  subtitle: ''
+  text: '**Machiner.** **Ombre :** Affaiblissez un Ourouk-Haï pour déposer un jeton :isengard: ici. **Combat :** Désignez 3 jetons :isengard: sur cette carte pour donner +3 en force à un Ourouk-Haï. Défaussez cette situation.'
+  lore: 'C''est une grande armée….” '
+it:
+  title: Scala d'Assedio
+  subtitle: ''
+  text: '**Macchina da Guerra.** **Ombra:** Sforza un Uruk-hai per piazzare un segnalino :isengard: su questa carta. **Schermaglia:** Avvista qui 3 segnalini :isengard: per aggiungere +3 alla forza di un Uruk-hai. Scarta questa condizione.'
+  lore: ‘E’ un grande esercito….’
+es:
+  title: Escala de asalto
+  subtitle: ''
+  text: '**Máquina.** **Sombra:** Esfuerza un Uruk-hai para colocar un contador :isengard: en esta carta. **Escaramuza:** Avista 3 contadores :isengard: aquí para darle a un Uruk-hai fuerza +3. Descarta esta condición.'
+  lore: Es una gran hueste…

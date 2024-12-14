@@ -1,0 +1,16 @@
+set: '12'
+rarity: U
+number: '176'
+unique: true
+culture: Wraith
+type: Minion
+race: Nazgûl
+cost: 4
+str: '9'
+vit: '2'
+site: 3
+en:
+  title: Úlairë Lemenya
+  subtitle: Black Enemy
+  text: 'When you play Úlairë Lemenya, you may play a :wraith: mount from your discard pile.'
+  lore: Out of the gate in the trees that they had just left rode a Black Rider.

@@ -1,0 +1,38 @@
+set: '2'
+rarity: C
+number: '26'
+unique: true
+culture: Gandalf
+type: Event
+class: Fellowship, Regroup
+cost: 1
+en:
+  title: Speak “Friend” and Enter
+  subtitle: ''
+  text: |-
+    **Fellowship** or **Regroup:** Spot Gandalf to play the fellowship’s next site (replacing opponent’s site if necessary).   
+    Draw a card if you play an underground site. 
+  lore: 'Picking up his staff he stood before the rock and said in a clear voice: Mellon!'
+de:
+  title: Sprich "Freund“ und tritt ein
+  subtitle: ''
+  text: Gemeinschaft oder **Sammeln:** Entdecke Gandalf, um den nächsten Ort deiner Gemeinschaft auszuspielen (nötigenfalls darfst du einen Ort, der von einem Gegenspieler gespielt wurde, ersetzen). Ziehe eine Karte, wenn du einen unterirdischen Ort spielst.
+  lore: 'Er nahm seinen Stab auf, trat vor den Felsen und sagte mit klarer Stimme: "Mellon!'
+fr:
+  title: Parlez, Ami, et Entrez
+  subtitle: ''
+  text: |
+    Compagnie ou **Ralliement :** Désignez Gandalf pour jouer le prochain site de la compagnie (en remplaçant le site de l’adversaire si nécessaire). Piochez une carte si vous jouez un site **Souterrain.**  
+  lore: 'Il ramassa son bâton et, debout devant le rocher, il dit d''une voix claire: Mellon! '
+it:
+  title: Dite, Amici, ed Entrate
+  subtitle: ''
+  text: |-
+    Compagnia o   
+    **Raccolta:** Avvista Gandalf per giocare il prossimo sito della Compagnia (rimpiazzando il sito dell’avversario se necessario). Pesca una carta se giochi un sito **Sotterraneo.**
+  lore: 'Raccolse il bastone e si rizzò davanti alla rupe, dicendo con voce limpida: Mellon!'
+es:
+  title: Di ‘amigo' y entra
+  subtitle: ''
+  text: '**Comunidad** o **Reagrupación:** Avista a Gandalf para jugar el siguiente sitio de la comunidad (reemplazando el del oponente si es necesario). Roba una carta si juegas un sitio **Subterráneo.**'
+  lore: Recogiendo la vara, y de pie ante la roca, dijo con voz clara – ¡Mellon!

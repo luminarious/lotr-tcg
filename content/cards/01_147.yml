@@ -1,0 +1,42 @@
+set: '1'
+rarity: R
+number: '147'
+unique: true
+culture: Isengard
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Uruk Guard
+  subtitle: ''
+  text: |-
+    **Damage +1**.   
+    **Assignment:** Exert this minion and spot a companion to prevent the opponent from assigning that companion to this minion.
+  lore: ‘Wolves and orcs were housed in Isengard, for Saruman was mustering a great force….’
+de:
+  title: Uruk Wache
+  subtitle: ''
+  text: '**Schaden +1.** **Zuweisung:** Strenge die Uruk Wache an und entdecke einen Gefährten, um zu verhindern, dass der Gefährte diesem Diener zugewiesen wird.'
+  lore: Wölfe und Orks hausten in Isengart, denn Saruman stellte in eigener Sache eine große Streitmacht auf…
+fr:
+  title: Garde Ourouk
+  subtitle: ''
+  text: |-
+    **Dégâts +1.**  
+    **Affectation :** Affaiblissez ce séide et désignez un compagnon pour empêcher l’adversaire d’affecter ce compagnon à ce séide.
+  lore: ‘Des loups et des Orques étaient logés à Isengard, car Saroumane menait une grande force….’
+it:
+  title: Guardia Uruk
+  subtitle: ''
+  text: |-
+    **Danno +1.**  
+    **Assegnazione:** Sforza questo servitore e avvista un compagno per impedire che l’avversario assegni quel compagno a questo servitore.
+  lore: ‘Lupi e Orchi dimoravano a Isengard, perché Saruman stava radunando grandi forze….’
+es:
+  title: Guardián Uruk
+  subtitle: ''
+  text: '**Daño +1.** **Asignación:** Esfuerza este siervo y avista un compañero para impedir que el oponente asigne ese compañero a este siervo.'
+  lore: Lobos y Orcos habitaban en Isengard, pues Saruman estaba alistando una gran fuerza…

@@ -1,0 +1,16 @@
+set: '1'
+rarity: C
+number: '303'
+unique: true
+culture: Shire
+type: Companion
+race: Hobbit
+cost: 1
+str: '3'
+vit: '4'
+signet: Signet_Aragorn
+en:
+  title: Merry
+  subtitle: From O'er the Brandywine
+  text: While Merry bears a weapon, he is strength +2.
+  lore: ‘I don't know why he’s so upset, it’s only a few carrots… my point is, he’s overreacting.’

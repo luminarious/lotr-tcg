@@ -1,0 +1,16 @@
+set: '11'
+rarity: R
+number: '54'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 1
+str: '8'
+vit: '4'
+res: '8'
+en:
+  title: Aragorn
+  subtitle: Strider
+  text: '**Ranger.** Each time the fellowship moves, add :twilight1:. '
+  lore: …in spite of the heat of the room he wore a hood that overshadowed his face; but the gleam of his eyes could be seen as he watched the hobbits.

@@ -1,0 +1,18 @@
+set: '7'
+rarity: C
+number: '46'
+unique: true
+culture: Gandalf
+type: Event
+class: Regroup
+cost: 4
+en:
+  title: Peace of Mind
+  subtitle: ''
+  text: Spot Gandalf to heal an unbound Hobbit 3 times.
+  lore: ‘All Wizards should have a Hobbit or two in their care… to teach them the meaning of humility!’
+de:
+  title: Innere Ruhe
+  subtitle: ''
+  text: Entdecke Gandalf, um einen nicht-verbundenen Hobbit dreimal zu heilen.
+  lore: Alle Zauberer sollten in ihrer Obhut einen oder zwei Hobbits haben, die die Zauberer die Bedeutung des Worts lehren und sie verbessern.

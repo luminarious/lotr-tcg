@@ -1,0 +1,24 @@
+set: '7'
+rarity: R
+number: '232'
+unique: true
+culture: Rohan
+type: Possession
+class: Mount
+cost: 1
+en:
+  title: Firefoot
+  subtitle: Éomer's Steed
+  text: |-
+    Bearer must be a :rohan: Man.   
+    At the start of each skirmish involving bearer, each minion skirmishing bearer must exert.   
+    **Regroup:** If bearer is Éomer, exert him to discard a condition. Any Shadow player may remove :twilight1: to prevent this.
+  lore: ''
+de:
+  title: Feuerfuß
+  subtitle: Éomers Ross
+  text: |-
+    Muss auf einen :rohan: Menschen gespielt werden.   
+    Zu Beginn jedes Kampfes, an dem der Reiter beteiligt ist, müssen alle Diener in diesem Kampf angestrengt werden.   
+    **Sammeln:** Wenn Éomer der Reiter ist, strenge ihn an, um einen Effekt abzulegen. Ein beliebiger Schattenspieler kann den Einfluss um :twilight1: verringern, um dies zu verhindern.
+  lore: ''

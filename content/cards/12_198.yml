@@ -1,0 +1,25 @@
+set: '12'
+rarity: O
+number: '198'
+unique: true
+culture: Moria
+type: Minion
+race: Balrog
+cost: 12
+str: '17'
+vit: '5'
+site: 4
+en:
+  title: The Balrog
+  subtitle: The Terror of Khazad-dûm
+  text: |-
+    **Damage +1.**   
+    While The Balrog is at an underground site, it is **fierce** and cannot take wounds or be exerted.
+  lore: The fire in it seemed to die, but the darkness grew.
+de:
+  title: Der Balrog
+  subtitle: Der Schrecken von Khazad-dûm
+  text: |-
+    **Schaden +1**.  
+    Der Balrog ist **erbittert** und kann keine Wunden erleiden oder angestrengt werden, solange er sich an einem unterirdischen Ort befindet.
+  lore: Das Feuer in ihm schien zu ersterben, aber die Finsternis nahm zu.

@@ -1,0 +1,33 @@
+set: '3'
+rarity: U
+number: '116'
+unique: true
+culture: ''
+type: Site
+cost: 2
+siteArrow: Right
+en:
+  title: Eregion Hills
+  subtitle: ''
+  text: 'When the fellowship moves to Eregion Hills, add a burden. '
+  lore: ''
+de:
+  title: Die Hügel Eregions
+  subtitle: ''
+  text: Wenn die Gemeinschaft die Hügel erreicht, lege eine Lastmarke auf den **Ringträger:**
+  lore: ''
+fr:
+  title: Les Collines d'Eregion
+  subtitle: ''
+  text: Quand la compagnie se déplace jusqu’aux Collines d’Eregion, ajoutez un point-fardeau.
+  lore: ''
+it:
+  title: Colline dell'Eregion
+  subtitle: ''
+  text: Quando la compagnia si muove verso Colline dell’Eregion, aggiungi un segnalino fardello.
+  lore: ''
+es:
+  title: Colinas de Eregion
+  subtitle: ''
+  text: Cuando la comunidad se mueve a las Colinas de Eregion, añade una carga.
+  lore: ''

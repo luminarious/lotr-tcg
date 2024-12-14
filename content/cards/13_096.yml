@@ -1,0 +1,21 @@
+set: '13'
+rarity: C
+number: '96'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '8'
+vit: '2'
+site: 4
+en:
+  title: Merciless Dunlending
+  subtitle: ''
+  text: 'While you can spot another :men: minion, this minion is strength +2 for each companion assigned to a skirmish.'
+  lore: Victims of the Dunlendings receive no quarter.
+de:
+  title: Gnadenloser Dunländer
+  subtitle: ''
+  text: 'Solange du einen anderen :men: Diener entdecken kannst, erhält dieser Diener Stärke +2 für jeden Gefährten, der einem Kampf zugewiesen ist.'
+  lore: Die Opfer der Dunländer konnten keine Gnade erwarten.

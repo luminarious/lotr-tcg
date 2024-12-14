@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '25'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Legolas
+  subtitle: Fearless Marksman
+  text: |-
+    **Archer.**   
+    **Archery:** If you have initiative, discard 4 cards from hand to wound a minion.
+  lore: ''

@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '143'
+unique: true
+culture: Uruk-hai
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Quelling Force
+  subtitle: ''
+  text: 'Make an :urukhai: minion strength +1 for each other :urukhai: minion you can spot.'
+  lore: They gained the gates. The trees, swung by strong arms, smote the timbers with a rending boom.
+de:
+  title: Erdrückende Übermacht
+  subtitle: ''
+  text: 'Gib einem :urukhai: Diener Stärke +1 für jeden anderen :urukhai: Diener, den du entdecken kannst.'
+  lore: Sie erreichten die Tore. Die von starken Armen geschwungenen Stämme prallten mit durchdringendem Dröhnen auf das Holz.

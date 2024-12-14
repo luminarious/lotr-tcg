@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '33'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 2
+en:
+  title: The Terror of His Coming
+  subtitle: ''
+  text: 'Make a :gandalf: companion strength +2. Then, if that companion is at a battleground or dwelling site, you may take a :gandalf: condition from your discard pile into hand.'
+  lore: The Orcs reeled and screamed and cast aside both sword and spear.
+de:
+  title: Der Schreckenseiner Ankunft
+  subtitle: ''
+  text: "Gib einem :gandalf: Gefährten Stärke +2. Nimm anschließend einen \x7F Effekt aus deinem Ablagestapel auf deine Hand, wenn sich dieser Gefährte auf einem Schlachtfeld oder an einer Heimstatt befindet."
+  lore: Die Orks wichen zurück und schrieen und warfen Schwert und Speer beiseite.

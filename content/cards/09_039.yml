@@ -1,0 +1,18 @@
+set: '9'
+rarity: R+
+number: '39'
+unique: true
+culture: Isengard
+type: Artifact
+class: Support Area
+cost: 2
+en:
+  title: Library of Orthanc
+  subtitle: ''
+  text: '**Shadow:** Play an :isengard: minion to stack the top card of your draw deck on this card. **Skirmish:** Remove :twilight1: and discard a Free Peoples card stacked here to make an :isengard: minion strength +1. **Regroup:** Remove :twilight1: to take an :isengard: card stacked here into hand. '
+  lore: ''
+de:
+  title: Bibliothek des Orthanc
+  subtitle: ''
+  text: '**Schatten:** Spiele einen :isengard: Diener, um die oberste Karte deines Spieldecks hier zu lagern. **Kampf:** Verringere den Einfluss um :twilight1: und lege eine hier gelagerte Karte der Freien Völker ab, um einem Diener Stärke +1 zu geben. **Sammeln:** Verringere den Einfluss um :twilight1:, um eine hier gelagerte :isengard: Karte auf deine Hand zu nehmen.'
+  lore: ''

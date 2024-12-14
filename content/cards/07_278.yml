@@ -1,0 +1,25 @@
+set: '7'
+rarity: U
+number: '278'
+unique: true
+culture: Sauron
+type: Minion
+race: Orc
+cost: 3
+str: '9'
+vit: '2'
+site: 5
+en:
+  title: Gorgoroth Soldier
+  subtitle: ''
+  text: |-
+    **Besieger.**   
+    **Response:** If a besieger is about to take a wound, discard 2 cards from hand to prevent it.
+  lore: ''
+de:
+  title: Gorgoroth Soldat
+  subtitle: ''
+  text: |-
+    **Belagerer.**   
+    **Reaktion:** Wenn ein Belagerer verwundet wird, lege 2 Karten aus deiner Hand ab, um dies zu verhindern.
+  lore: Unaufhörlich war seit Mitternacht der große Angriff weitergegangen.

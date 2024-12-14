@@ -1,0 +1,35 @@
+set: '2'
+rarity: C
+number: '23'
+unique: true
+culture: Gandalf
+type: Condition
+class: Support Area
+cost: 0
+en:
+  title: Gandalf's Wisdom
+  subtitle: ''
+  text: |-
+
+    The twilight cost of each possession or artifact played on Gandalf or a character who has the Gandalf signet is -1. 
+  lore: Now as the companions sat or walked together they spoke of Gandalf, and all that each had known and seen of him came clear before their minds.
+de:
+  title: Gandalfs Weisheit
+  subtitle: ''
+  text: Spiele diese Karte in deinen Unterstützungs-bereich. Die Zwielichtkosten für Ausrüstung und Artefakte, die auf Gandalf oder einen Charakter mit Gandalfsiegel gespielt werden, reduzieren sich um 1.
+  lore: Wenn die Gefährten zusammensaßen oder spazierengingen, sprachen sie jetzt von Gandalf, und alles, was jeder von ihm gewußt oder gesehen hatte, trat ihnen wieder deutlich vor Augen.
+fr:
+  title: La Sagesse de Gandalf
+  subtitle: ''
+  text: Le coût crépusculaire de chaque possession ou artefact joué sur Gandalf ou un personnage possédant le sceau de Gandalf est de -1.
+  lore: 'À présent, quand les compagnons étaient assis ou marchaient ensemble, ils parlaient de Gandalf, et tout ce que chacun avait su ou vu de lui leur revenait clairement à la mémoire. '
+it:
+  title: Saggezza di Gandalf
+  subtitle: ''
+  text: Sottrai -1 al costo crepuscolo di ogni bene o artefatto giocato su Gandalf o su un personaggio che abbia il sigillo di Gandalf.
+  lore: Adesso, ogni qual volta sedevano o camminavano insieme, i compagni parlavano di Gandalf, e nella loro mente compariva tutto ciò che essi avevano veduto o conosciuto di lui.
+es:
+  title: La sabiduría de Gandalf
+  subtitle: ''
+  text: El coste de penumbra de cada posesión o artefacto jugado en Gandalf o en un personaje con el sello de Gandalf es -1.
+  lore: Ahora mientras los compañeros se sentaban o caminaban juntos hablaban de Gandalf, y todo aquello que habían visto y sabían de él se hizo claro en sus mentes.

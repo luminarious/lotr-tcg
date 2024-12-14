@@ -1,0 +1,33 @@
+set: '4'
+rarity: R
+number: '32'
+unique: true
+culture: Dunland
+type: Event
+class: Response
+cost: 1
+en:
+  title: Ravage the Defeated
+  subtitle: ''
+  text: '**Response:** If your :dunland: Man wins a skirmish, discard all Free Peoples cards borne by the companion or ally he was skirmishing. '
+  lore: What the Dunlendings cannot steal, they destroy.
+de:
+  title: Macht die Verlierer nieder
+  subtitle: ''
+  text: '**Reaktion:** Lege alle Karten der Freien Völker von einem Gefährten oder Verbündeten ab, wenn ein :dunland: Mensch einen Kampf gegen diesen Charakter gewonnen hat.'
+  lore: Was die Dunländer nicht stehlen konnten, zerstörten sie.
+fr:
+  title: Ravagez les Vaincus
+  subtitle: ''
+  text: '**Réponse :** Si votre Homme :dunland: remporte un combat, défaussez toutes les cartes des Peuples Libres détenues par le compagnon ou l’allié qu’il combattait.'
+  lore: Ce que Ceux du Pays de Dun ne pouvaient prendre, ils détruisaient.
+it:
+  title: Saccheggia gli Sconfitti
+  subtitle: ''
+  text: '**Risposta:** Se un tuo Uomo :dunland: vince una schermaglia, scarta tutte le carte dei Popoli Liberi portate dal compagno o dall’alleato con cui stava schermagliando.'
+  lore: Ciò che i Dunlandiani non possono rubare, essi lo distruggono.
+es:
+  title: Aniquilar A Los Derrotados
+  subtitle: ''
+  text: '**Respuesta:** Si tu Hombre :dunland: gana una escaramuza, descarta todas las cartas de Gentes Libres llevadas por el compañero o el aliado contra el que estaba en la escaramuza.'
+  lore: Lo que los Dunlendinos no pueden robar, lo destruyen.

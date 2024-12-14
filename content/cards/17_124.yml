@@ -1,0 +1,18 @@
+set: '17'
+rarity: R
+number: '124'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 5
+str: '10'
+vit: '3'
+site: 5
+en:
+  title: White Hand Destroyer
+  subtitle: ''
+  text: |-
+    **Fierce.**  
+    This minion gains **hunter 3** for each site you control.
+  lore: '''This is no parley. You have nothing to say.’'

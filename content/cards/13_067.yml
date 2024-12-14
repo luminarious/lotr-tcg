@@ -1,0 +1,25 @@
+set: '13'
+rarity: U
+number: '67'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+res: '5'
+en:
+  title: Guard of the White Tree
+  subtitle: ''
+  text: |-
+    **Knight.  
+    Skirmish:** Discard a :gondor: condition from your support area to make this companion strength +2.
+  lore: This was the livery of the heirs of Elendil, and none wore it now in all Gondor, save the Guards of the Citadel….
+de:
+  title: Wächter des Weißen Baumes
+  subtitle: ''
+  text: |-
+    **Ritter.  
+    Kampf:** Lege einen :gondor: Effekt aus deinem Unterstützungsbereich ab, um diesem Gefährten Stärke +2 zu geben.
+  lore: Das war die Hoftracht von Elendils Erben, und in ganz Gondor trug sie jetzt niemand mehr außer den Wächtern der Veste….

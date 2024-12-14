@@ -1,0 +1,21 @@
+set: '12'
+rarity: C
+number: '78'
+unique: true
+culture: Man
+type: Minion
+race: Man
+cost: 3
+str: '12'
+vit: '2'
+site: 4
+en:
+  title: Wrathful Hillman
+  subtitle: ''
+  text: 'Each time this minion is assigned to a skirmish, if it is not at a plains site, remove :twilight2: or discard this minion.'
+  lore: ‘For behold! the storm comes, and now all friends should gather together, lest each singly be destroyed.’
+de:
+  title: Zorniger Bergbewohner
+  subtitle: ''
+  text: 'Jedes Mal, wenn dieser Diener einem Kampf zugewiesen wird, der nicht auf einer Ebene stattfindet, verringere den Einfluss um :twilight2: oder lege diesen Diener ab.'
+  lore: Denn seht! Der Sturm kommt, und jetzt sollten sich alle Freunde zusammenscharen, damit nicht jeder einzeln vernichtet werde.

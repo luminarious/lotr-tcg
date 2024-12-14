@@ -1,0 +1,17 @@
+set: '9'
+rarity: R+
+number: '52'
+unique: true
+culture: Shire
+type: Ally
+cost: 5
+str: '14'
+vit: '9'
+site: '2'
+en:
+  title: Tom Bombadil
+  subtitle: The Master
+  text: |-
+    To play, remove 2 burdens or 2 threats.   
+    **Skirmish:** Spot 2 :shire: companions and exert Tom Bombadil X times, where X is the fellowship’s site number, to cancel a skirmish involving a :shire: companion.
+  lore: ‘Hey! Come derry dol! Can you hear me singing?’

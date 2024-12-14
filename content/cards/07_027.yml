@@ -1,0 +1,18 @@
+set: '7'
+rarity: R
+number: '27'
+unique: true
+culture: Elven
+type: Event
+class: Archery
+cost: 1
+en:
+  title: Mirkwood Bowman
+  subtitle: ''
+  text: 'Exert 2 :elven: companions to discard the top 3 cards of your draw deck. Make the fellowship archery total +1 for each :elven: card discarded.'
+  lore: ‘Thus we passed over Gilrain, driving the allies of Mordor in rout before us….’
+de:
+  title: Düsterwald Bogenschütze
+  subtitle: ''
+  text: 'Strenge 2 :elven: Gefährten an, um die obersten 3 Karten deines Spieldecks abzulegen. Erhöhe den Fernkampfwert der Gemeinschaft um 1 für jede abgelegte :elven: Karte.'
+  lore: So überquerten wir den Gilrain und trieben Mordors Verbündete in wilder Flucht vor uns her….

@@ -1,0 +1,24 @@
+set: '7'
+rarity: R
+number: '69'
+unique: true
+culture: Gollum
+type: Condition
+class: Support Area
+cost: 2
+en:
+  title: Secret Paths
+  subtitle: ''
+  text: |-
+    To play, spot Sméagol and add 2 threats.   
+    The move limit for this turn is +1.   
+    Discard this condition at the end of the turn.
+  lore: ''
+de:
+  title: Geheime Pfade
+  subtitle: ''
+  text: |-
+    Entdecke Sméagol und lasse 2 Bedrohungen entstehen, um diese Karte zu spielen.   
+    Die Bewegungsweite erhöht sich für diesen Zug um 1.   
+    Lege diesen Effekt am Ende des Zuges ab.
+  lore: Nicht da lang! Nein, nicht da lang!

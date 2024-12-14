@@ -1,0 +1,18 @@
+set: '1'
+rarity: R
+number: '30'
+unique: true
+culture: Elven
+type: Companion
+race: Elf
+cost: 2
+str: '6'
+vit: '3'
+signet: Signet_Aragorn
+en:
+  title: Arwen
+  subtitle: Daughter of Elrond
+  text: |-
+    **Ranger.**   
+    While skirmishing a Nazgûl, Arwen is strength +3.
+  lore: Long she had been in the land of her mother’s kin, in Lórien beyond the mountains, and was but lately returned to Rivendell to her father’s house.

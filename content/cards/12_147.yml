@@ -1,0 +1,25 @@
+set: '12'
+rarity: U
+number: '147'
+unique: true
+culture: Uruk-hai
+type: Minion
+race: Uruk-hai
+cost: 4
+str: '11'
+vit: '2'
+site: 5
+en:
+  title: Suppressing Uruk
+  subtitle: ''
+  text: |-
+    **Damage +1.**   
+    While there is a companion in the dead pile, each unbound companion is resistance –4.
+  lore: Few fighters are skilled enough to outstrip the natural instincts of the Uruk-hai.
+de:
+  title: Uruk Unterdrücker
+  subtitle: ''
+  text: |-
+    **Schaden +1**.  
+    Solange ein Gefährte auf dem Friedhof liegt, erhalten alle nicht-verbundenen Gefährten Resistenz -4.
+  lore: Nur wenige Kämpfer sind in der Lage die natürlichen Instinkte der Uruk-hai zu überwinden.

@@ -1,0 +1,36 @@
+set: '6'
+rarity: R
+number: '103'
+unique: true
+culture: Sauron
+type: Minion
+race: Troll
+cost: 8
+str: '13'
+vit: '4'
+site: 6
+en:
+  title: Gate Troll
+  subtitle: ''
+  text: '**Fierce.** While you can spot a Troll, Gate Troll’s twilight cost is –4. For each other :sauron: minion you can spot, this minion is strength +1.'
+  lore: This was Cirith Gorgor, the Haunted Pass, the entrance to the land of the Enemy.
+de:
+  title: Morannon-Troll
+  subtitle: ''
+  text: '**Erbittert.** Solange du einen Troll entdecken kannst, reduzieren sich die Kosten dieses Dieners um 4. Dieser Diener erhält Stärke +1 für jeden weiteren :sauron: Diener, den du entdecken kannst.'
+  lore: Dies war Cirith Gorgor, der Geisterpass, der Eingang zum Land des Feindes.
+fr:
+  title: Troll de la Porte
+  subtitle: ''
+  text: '**Acharné.** Tant que vous pouvez désigner un Troll, le coût crépusculaire du Troll de la Porte est de –4. Pour chaque autre séide :sauron: que vous pouvez désigner, ce séide a +1 en force.'
+  lore: 'C''était Cirith Gorgor, le Pas Hanté, l''entrée du pays de l''Ennemi. '
+it:
+  title: Troll del Cancello
+  subtitle: ''
+  text: '**Feroce.** Mentre puoi avvistare un Troll, sottrai –4 al costo crepuscolo del Troll del Cancello. Per ogni altro servitore :sauron: che puoi avvistare, aggiungi +1 alla forza di questo servitore.'
+  lore: Era questo Cirith Gorgor, il Passo Maledetto, l'entrata al paese del Nemico.
+es:
+  title: Troll de la puerta
+  subtitle: ''
+  text: '**Fiero.** Mientras puedas avistar un Troll, el coste de penumbra del Troll de la Puerta es –4. Por cada otro siervo :sauron: que puedas avistar, este siervo es fuerza +1.'
+  lore: Esto era Cirith Gorgor, el Paso de los Espectros, la entrada al territorio del Enemigo.

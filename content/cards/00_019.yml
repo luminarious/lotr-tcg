@@ -1,0 +1,15 @@
+set: '0'
+rarity: W
+number: '19'
+unique: true
+culture: Gondor
+type: Companion
+race: Man
+cost: 3
+str: '7'
+vit: '3'
+en:
+  title: Boromir
+  subtitle: Steward’s Heir
+  text: ''
+  lore: …but at once, Boromir stood up, tall and proud before them.

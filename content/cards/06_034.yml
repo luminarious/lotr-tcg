@@ -1,0 +1,33 @@
+set: '6'
+rarity: C
+number: '34'
+unique: true
+culture: Gandalf
+type: Event
+class: Skirmish
+cost: 1
+en:
+  title: Roused
+  subtitle: ''
+  text: '**Skirmish:** Exert an Ent to make him strength +1 for each Ent you spot (limit +4).'
+  lore: ‘To Isengard!’ the Ents cried in many voices.
+de:
+  title: Aufgerüttelt
+  subtitle: ''
+  text: '**Kampf** Strenge einen Ent an, um ihm für jeden Ent, den du entdeckst, Stärke +1 zu geben (maximal +4).'
+  lore: Nach Isengart!” riefen die Ents vielstimmig.
+fr:
+  title: Secoués
+  subtitle: ''
+  text: '**Combat :** Affaiblissez un Ent pour lui donner +1 en force pour chaque Ent que vous pouvez désigner (limite de +4).'
+  lore: 'Sus à l''Isengard ! crièrent de nombreuses voix. '
+it:
+  title: Destati
+  subtitle: ''
+  text: '**Schermaglia:** Sforza un Ent per aggiungere +1 alla forza di un Ent per ogni Ent che avvisti (limite +4).'
+  lore: ‘A Isengard!', tuonarono le molte voci degli Ent.
+es:
+  title: Incitado
+  subtitle: ''
+  text: '**Escaramuza:** Esfuerza un Ent para darle fuerza +1 por cada Ent que puedas avistar (límite +4).'
+  lore: ¡A Isengard! Gritaron los Ents con muchas voces.

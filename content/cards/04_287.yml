@@ -1,0 +1,39 @@
+set: '4'
+rarity: C
+number: '287'
+unique: true
+culture: Rohan
+type: Possession
+class: Mount
+cost: 1
+en:
+  title: Rider's Mount
+  subtitle: ''
+  text: |-
+    Bearer must be a :rohan: Man.   
+    At the start of each skirmish involving bearer, each minion skirmishing bearer must exert. 
+  lore: Their horses were of great stature, strong and clean-limbed; their grey coats glistened, their long tails flowed in the wind….
+de:
+  title: Reiterpferd
+  subtitle: ''
+  text: |-
+    Muss auf einen :rohan: Mensch gespielt werden.  
+    Zu Beginn jedes Kampfes, an dem der Träger beteiligt ist, müssen alle Diener in diesem Kampf angestrengt werden.
+  lore: Ihre Pferde waren sehr groß, stark und wohlgestaltet; das graue Fell glänzte, die langen Schweife flatterten im Wind….
+fr:
+  title: Monture de Cavalier
+  subtitle: ''
+  text: Le détenteur doit être Homme :rohan:. Au début de chaque combat impliquant le détenteur, affaiblissez chaque séide qui combat le détenteur.
+  lore: 'Leurs chevaux étaient de grande stature, forts et bien découplés; leur robe luisait, leur longue queue flottait au vent… '
+it:
+  title: Cavalcatura del Cavaliere
+  subtitle: ''
+  text: |-
+    Il possessore deve essere un Uomo :rohan:.  
+    All’inizio di ogni schermaglia che coinvolga il possessore, ogni servitore che stia schermagliando con il possessore deve sforzarsi.
+  lore: ‘I loro cavalli erano imponenti, forti e dall'andatura decisa; i manti grigi scintillanti, le lunghe code svolazzanti al vento…’
+es:
+  title: Montura De Jinete
+  subtitle: ''
+  text: El portador debe ser un Hombre :rohan:. Al principio de cada escaramuza en la que se encuentre el portador, cada siervo en esa escaramuza debe esforzarse.
+  lore: Los caballos eran de gran alzada, fuertes y de miembros ágiles; los pelajes grises relucían, las largas colas flotaban al viento…

@@ -1,0 +1,19 @@
+set: '16'
+rarity: R
+number: '6'
+unique: true
+culture: Wraith
+type: Minion
+race: Wraith
+cost: 4
+str: '9'
+vit: '3'
+site: 2
+en:
+  title: Undead of Angmar
+  subtitle: ''
+  text: |-
+    **Enduring.**  
+    While you can spot another :wraith: Wraith, each wounded companion is resistance –2.  
+    **Shadow:** Exert Undead of Angmar twice to play a :wraith: Wraith from your draw deck, then reshuffle.
+  lore: In the dark there was a snarling noise.

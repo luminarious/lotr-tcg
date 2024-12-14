@@ -1,0 +1,18 @@
+set: '16'
+rarity: R
+number: '3'
+unique: true
+culture: Wraith
+type: Minion
+race: Wraith
+cost: 2
+str: '4'
+vit: '2'
+site: 3
+en:
+  title: Covetous Wisp
+  subtitle: ''
+  text: |-
+    **Enduring.**  
+    Each time the Free Peoples player assigns Covetous Wisp to a companion, you may spot another :wraith: Wraith and remove :twilight2: to add a burden.
+  lore: ‘Only shapes to see, perhaps, not to touch.’

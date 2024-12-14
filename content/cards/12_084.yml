@@ -1,0 +1,18 @@
+set: '12'
+rarity: C
+number: '84'
+unique: true
+culture: Orc
+type: Event
+class: Archery
+cost: 1
+en:
+  title: Bloodstained Field
+  subtitle: ''
+  text: 'Spot an :orc: lurker to wound an Elf.'
+  lore: Orcs will eagerly spill any blood, but Elven is the sweetest of all.
+de:
+  title: Blutgetränktes Schlachtfeld
+  subtitle: ''
+  text: 'Entdecke einen :orc: Schleicher, um einen Elben zu verwunden.'
+  lore: Orks vergießen jedes Blut gerne, doch Elbenblut ist am süßesten.

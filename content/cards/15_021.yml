@@ -1,0 +1,13 @@
+set: '15'
+rarity: U
+number: '21'
+unique: true
+culture: Elven
+type: Event
+class: Archery
+cost: 2
+en:
+  title: Mighty Shot
+  subtitle: ''
+  text: Spot an Elf to make the fellowship archery total +1 for each minion with twilight cost of 2 or less that you can spot.
+  lore: ‘But who can say what it hit?’

@@ -1,0 +1,21 @@
+set: '11'
+rarity: C
+number: '196'
+unique: true
+culture: Uruk-hai
+type: Condition
+cost: 2
+str: '-1'
+res: '-3'
+en:
+  title: Our Foes Are Weak
+  subtitle: ''
+  text: |-
+    To play, spot an :urukhai: minion.   
+    Bearer must be an unbound companion. Limit 1 per bearer. 
+  lore: Saruman’s Uruk-hai are instilled with his ideas of destiny and supremacy.
+de:
+  title: Unsere Feinde sind schwach
+  subtitle: ''
+  text: 'Entdecke einen :urukhai: Diener, um diese Karte zu spielen. Muss auf einen nicht-verbundenen Gefährten gespielt werden. Maximal 1 pro Gefährte.'
+  lore: Sarumans Uruk-hai sind erfüllt von seinen Visionen der Bestimmung und Überlegenheit.

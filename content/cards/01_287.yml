@@ -1,0 +1,33 @@
+set: '1'
+rarity: C
+number: '287'
+unique: true
+culture: Shire
+type: Event
+class: Response
+cost: 0
+en:
+  title: Extraordinary Resilience
+  subtitle: ''
+  text: '**Response:** If the Ring-bearer is about to heal, remove a burden instead.'
+  lore: ‘Don't despair!’ said Strider. ‘You must trust me now. Your Frodo is made of sterner stuff than I had guessed….’
+de:
+  title: Aussergewöhnliche Widerstandskraft
+  subtitle: ''
+  text: '**Reaktion:** Wenn der Ringträger geheilt wird, entferne stattdessen eine Lastmarke.'
+  lore: Verzweifle nicht!“ sagte Streicher. "Du musst mir jetzt vertrauen. Dein Frodo ist aus härterem Holz geschnitzt, als ich vermutet hatte…
+fr:
+  title: Résistance Extraordinaire
+  subtitle: ''
+  text: '**Réponse :** Si le Porteur de l’Anneau est sur le point d’être guéri, retirez plutôt un point-fardeau.'
+  lore: ‘Ne désespérez pas!’ dit Grands-Pas. ‘Il faut me faire confiance, maintenant. Votre Frodon est fait d'une pâte plus ferme que je ne l'avais cru….’
+it:
+  title: Resistenza Straordinaria
+  subtitle: ''
+  text: '**Risposta:** Se il Portatore dell’Anello sta per essere curato, rimuovi invece un segnalino fardello.'
+  lore: ‘Non disperare!’ disse Granpasso. ‘Devi aver fiducia in me, d'ora in poi. Il tuo Frodo è fatto di una pasta più dura di quanto credessi….’
+es:
+  title: Resistencia Extraordinaria
+  subtitle: ''
+  text: '**Respuesta:** Si el Portador del Anillo se va a curar, en vez de eso quita una carga.'
+  lore: ¡No desesperes! – dijo Trancos –. Confía en mi ahora. Tu Frodo es de una pasta mas firme de lo que yo pensaba…

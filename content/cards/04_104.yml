@@ -1,0 +1,44 @@
+set: '4'
+rarity: C
+number: '104'
+unique: true
+culture: Gandalf
+type: Ally
+race: Ent
+cost: 4
+str: '12'
+vit: '4'
+site: '2T & 8T '
+en:
+  title: Treebeard
+  subtitle: Oldest Living Thing
+  text: |-
+    **Unhasty.**  
+    **Fellowship:** Exert Treebeard and discard an unbound companion from hand to heal an unbound companion. 
+  lore: ‘No, I am not tired. I do not easily get tired. And I do not sit down. I am not very, hm, bendable.’
+de:
+  title: Baumbart
+  subtitle: Das älteste lebende Wesen
+  text: |-
+    **Unhastig.**  
+    **Gemeinschaft.** Strenge Baumbart an und lege einen nicht-verbundenen Gefährten aus deiner Hand ab, um einen nicht-verbundenen Gefährten zu heilen.
+  lore: Nein, ich bin nicht müde. Ich werde nicht leicht müde. Und ich setze mich nicht hin. Ich bin nicht sehr, hm, biegsam.
+fr:
+  title: Sylvebarbe
+  subtitle: La Plus Vieille Chose Vivante
+  text: |-
+    **Peu hâtif.**  
+    **Compagnie :** Affaiblissez Sylvebarbe et défaussez un compagnon dissocié de votre main pour guérir un compagnon dissocié.
+  lore: 'Non, je ne suis pas fatigué. Je ne me fatigue pas facilement. Et je ne me m''assieds pas. Je ne suis pas très, hem, ployable.” '
+it:
+  title: Barbalbero
+  subtitle: L'Essere Vivente Più Antico
+  text: |-
+    **Senza Fretta.**  
+    **Compagnia:** Sforza Barbalbero e scarta dalla mano un compagno Non Legato per curare un compagno Non Legato.
+  lore: ‘No, non sono stanco. Non mi stanco facilmente. E non mi siedo mai. Non sono molto, hm, flessibile.’
+es:
+  title: Bárbol
+  subtitle: El Ser Viviente más viejo
+  text: '**Sin prisa.** **Comunidad:** Esfuerza a Bárbol y descarta un compañero no-vinculado de tu mano para curar un compañero no-vinculado.'
+  lore: No, no estoy cansado. No me canso fácilmente. Y no tengo costumbre de sentarme. No soy, hm, plegadizo.

@@ -1,0 +1,18 @@
+set: '15'
+rarity: C
+number: '125'
+unique: true
+culture: Rohan
+type: Companion
+race: Man
+cost: 2
+str: '6'
+vit: '3'
+res: '6'
+en:
+  title: Éowyn
+  subtitle: Willing Fighter
+  text: |-
+    **Valiant.  
+    Response:** If a hunter companion or valiant Man is about to take a wound, exert Éowyn to prevent that wound.
+  lore: I can fight!
